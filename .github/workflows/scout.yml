@@ -1,0 +1,56 @@
+name: Scout — daily content refresh
+
+# Runs the Scout on a schedule, commits any new curiosities back into this repo,
+# and nudges jsDelivr so the live app sees them within minutes.
+on:
+  schedule:
+    - cron: "0 8 * * *"     # 08:00 UTC every day. cron is ALWAYS UTC — change the 8 to retime.
+  workflow_dispatch: {}      # adds a "Run workflow" button so you can run it on demand.
+
+# Let the job commit new content back to this repo using the built-in token (no PAT needed).
+permissions:
+  contents: write
+
+# Never run two Scouts at once (a manual run + the nightly one).
+concurrency:
+  group: scout
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the content repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run the Scout
+        # Keys come from encrypted repo secrets. If a secret is unset, the Scout falls back to
+        # the shared DEMO_KEY in scout/config.json — so this still works before you add any.
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+          DATA_GOV_API_KEY: ${{ secrets.DATA_GOV_API_KEY }}
+          SMITHSONIAN_API_KEY: ${{ secrets.SMITHSONIAN_API_KEY }}
+        run: node scout/scout.js
+
+      - name: Commit new content (only if something changed)
+        id: commit
+        run: |
+          git config user.name  "curio-scout[bot]"
+          git config user.email "curio-scout@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No new content this run — nothing to commit."
+          else
+            git commit -m "Scout: refresh content pool ($(date -u +%Y-%m-%d))"
+            git push
+            echo "pushed=1" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Nudge jsDelivr to serve the fresh pool
+        if: steps.commit.outputs.pushed == '1'
+        run: curl -sf "https://purge.jsdelivr.net/gh/Prlygrly/curio-content@main/data/cards.json" || true

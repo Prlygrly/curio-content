@@ -1,0 +1,10 @@
+{
+  "name": "curio-content",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Content pool for the Curio app; refreshed daily by the Scout (.github/workflows/scout.yml).",
+  "scripts": {
+    "scout": "node --env-file-if-exists=scout/.env scout/scout.js"
+  }
+}

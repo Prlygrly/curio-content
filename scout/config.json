@@ -1,0 +1,27 @@
+{
+  "poolSize": 480,
+  "nasaApiKey": "DEMO_KEY",
+  "smithsonianApiKey": "DEMO_KEY",
+  "greekVocabPath": "scout/seed/koine_chapter1_vocabulary.csv",
+  "channels": {
+    "wikipedia": { "enabled": true, "count": 4 },
+    "onthisday": { "enabled": true, "count": 3 },
+    "apod": { "enabled": true, "count": 5 },
+    "met": { "enabled": true, "count": 3 },
+    "smithsonian": { "enabled": true, "count": 3 },
+    "poetry": { "enabled": true, "count": 2 },
+    "greek": { "enabled": true, "count": 6 },
+    "article": { "enabled": true, "count": 12 },
+    "bookreview": { "enabled": true, "count": 2 },
+    "quote": { "enabled": true, "count": 3 },
+    "word": { "enabled": true, "count": 3 },
+    "craft": { "enabled": true, "count": 3 },
+    "food": { "enabled": true, "count": 3 },
+    "comic": { "enabled": true, "count": 4 },
+    "world": { "enabled": true, "count": 3 },
+    "gutenberg": { "enabled": true, "count": 3 },
+    "trivia": { "enabled": true, "count": 4 },
+    "game": { "enabled": true, "count": 3 },
+    "chess": { "enabled": true, "count": 1 }
+  }
+}

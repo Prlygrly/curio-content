@@ -114,3 +114,31 @@ export function pickRandom(arr, n) {
 export function nowIso() {
   return new Date().toISOString();
 }
+
+// Detect text that didn't decode cleanly upstream: the Unicode replacement
+// character (U+FFFD, e.g. NASA APOD serving a lost "ö") or classic mojibake
+// from UTF-8 misread as Latin-1 ("Ã©", "â€™"). The original bytes are gone, so
+// we can't auto-repair — callers flag (never block) so corrupt-but-readable
+// cards still ship and can be hand-fixed before a push. See scout/audit.js.
+const BAD_TEXT = /\uFFFD|\u00C3[\u0080-\u00BF]|\u00E2\u20AC/;
+
+// Returns [{ field, snippet }] for each string value in `card` with bad text.
+export function findTextIssues(card) {
+  const hits = [];
+  const walk = (val, fieldPath) => {
+    if (typeof val === 'string') {
+      const m = val.match(BAD_TEXT);
+      if (m) {
+        const i = m.index;
+        const snippet = val.slice(Math.max(0, i - 20), i + 20).replace(/\s+/g, ' ');
+        hits.push({ field: fieldPath, snippet });
+      }
+    } else if (val && typeof val === 'object') {
+      for (const [k, v] of Object.entries(val)) {
+        walk(v, fieldPath ? `${fieldPath}.${k}` : k);
+      }
+    }
+  };
+  walk(card, '');
+  return hits;
+}

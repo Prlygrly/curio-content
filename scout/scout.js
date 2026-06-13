@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url';
 import { readFile } from 'node:fs/promises';
 import { loadCards, saveCards, mergeDedup } from './lib/store.js';
 import { cacheImage } from './lib/images.js';
+import { findTextIssues } from './lib/util.js';
 
 import * as wikipedia from './adapters/wikipedia.js';
 import * as onthisday from './adapters/onthisday.js';
@@ -66,6 +67,15 @@ async function main() {
   // Normalize tags: drop empties and de-dupe so the taste engine sees clean dimensions.
   for (const c of valid) {
     if (Array.isArray(c.tags)) c.tags = [...new Set(c.tags.filter(Boolean))];
+  }
+
+  // Flag (don't block) cards whose text didn't decode cleanly upstream — e.g.
+  // NASA APOD serving a U+FFFD for a lost accent. They still ship; fix by hand
+  // before a push. Run `npm run audit` to review the full pool.
+  const dirty = valid.filter((c) => findTextIssues(c).length);
+  if (dirty.length) {
+    console.warn(`  flagged ${dirty.length} card(s) with text issues (kept, not dropped): ${dirty.map((c) => c.id).join(', ')}`);
+    console.warn('  run "npm run audit" to review.');
   }
 
   // Cache images locally so the app works fully offline. If caching fails

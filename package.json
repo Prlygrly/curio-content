@@ -5,6 +5,7 @@
   "type": "module",
   "description": "Content pool for the Curio app; refreshed daily by the Scout (.github/workflows/scout.yml).",
   "scripts": {
-    "scout": "node --env-file-if-exists=scout/.env scout/scout.js"
+    "scout": "node --env-file-if-exists=scout/.env scout/scout.js",
+    "audit": "node scout/audit.js"
   }
 }

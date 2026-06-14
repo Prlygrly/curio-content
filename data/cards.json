@@ -1,7 +1,1170 @@
 {
-  "generatedAt": "2026-06-13T13:15:55.736Z",
-  "count": 440,
+  "generatedAt": "2026-06-14T15:25:16.652Z",
+  "count": 480,
   "cards": [
+    {
+      "id": "chess:DJWZM",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1790. Find the best line for black.",
+      "body": "Solution, from → to: b3→h3, g2→h3, g4→g3, h2→h1, g3→g2, h1→h2, g2→g1=Q. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "8/8/8/5R2/5Pp1/1r6/5kPK/8 b - - 0 1",
+        "lastMove": "a5f5"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/DJWZM",
+        "trustTier": "community",
+        "date": "Sun, 14 Jun 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "verylong",
+        "endgame",
+        "advancedpawn",
+        "rookendgame"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:25:11.549Z",
+      "hash": "ea005e303b0567d1"
+    },
+    {
+      "id": "trivia:2b0a21498fd39adc",
+      "type": "trivia",
+      "title": "In the video game \"Team Fortress 2\", which class is able to double jump?",
+      "summary": "Is it: Scout · Spy · Engineer · Pyro?",
+      "body": "Answer: Scout.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:25:08.995Z",
+      "hash": "2b0a21498fd39adc"
+    },
+    {
+      "id": "trivia:0a4795188c237018",
+      "type": "trivia",
+      "title": "Which unlockable character in Super Smash Bros. For Wii U and 3DS does not have to be fought to be unlocked?",
+      "summary": "Is it: Ness · R.O.B. · Mii Fighters · Mewtwo?",
+      "body": "Answer: Mii Fighters.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:25:08.995Z",
+      "hash": "0a4795188c237018"
+    },
+    {
+      "id": "trivia:f8dd1d507a3c74cf",
+      "type": "trivia",
+      "title": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+      "summary": "Is it: C++ · Java · Objective-C · C#?",
+      "body": "Answer: C#.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "computers"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:25:08.995Z",
+      "hash": "f8dd1d507a3c74cf"
+    },
+    {
+      "id": "trivia:78d05e283673ed4a",
+      "type": "trivia",
+      "title": "In the PAYDAY series, who is the iconic leader of the PAYDAY gang?",
+      "summary": "Is it: Dallas · Chains · Hoxton · Wolf?",
+      "body": "Answer: Dallas.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:25:08.995Z",
+      "hash": "78d05e283673ed4a"
+    },
+    {
+      "id": "passage:gutenberg:35",
+      "type": "passage",
+      "title": "The Time Machine",
+      "summary": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His pale grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burnt brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses. Our…",
+      "body": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His pale grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burnt brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses. Our chairs, being his patents, embraced and caressed us rather than submitted to be sat upon, and there was that luxurious after-dinner atmosphere, when thought runs gracefully free of the trammels of precision. And he put it to us in this way—marking the points with a lean forefinger—as we sat and lazily admired his earnestness over this…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/35",
+        "trustTier": "publication",
+        "author": "H. G. Wells",
+        "date": "1895"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "science-fiction",
+        "novel"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:25:08.794Z",
+      "hash": "6730091402608289"
+    },
+    {
+      "id": "passage:gutenberg:98",
+      "type": "passage",
+      "title": "A Tale of Two Cities",
+      "summary": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all…",
+      "body": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only. There were a king with a large jaw and a queen with a plain face, on the throne of…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/98",
+        "trustTier": "publication",
+        "author": "Charles Dickens",
+        "date": "1859"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "history",
+        "revolution"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:25:08.623Z",
+      "hash": "3b688172195fedd3"
+    },
+    {
+      "id": "comic:smbc:aac9a5a80090eaf4",
+      "type": "comic",
+      "title": "Upcoming Book Signings",
+      "summary": "Mark your calendars!",
+      "image": {
+        "src": "data/images/446ca82b26d24db9.png",
+        "alt": "Mark your calendars!",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/upcoming-book-signings",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 13 Jun 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-14T15:25:07.815Z",
+      "hash": "aac9a5a80090eaf4"
+    },
+    {
+      "id": "comic:smbc:cccf5d4235fa8cd6",
+      "type": "comic",
+      "title": "Proof",
+      "summary": "The notebook has feedback from a nurse, cowboy, and plumber.",
+      "image": {
+        "src": "data/images/58be03484a1c8f38.png",
+        "alt": "The notebook has feedback from a nurse, cowboy, and plumber.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/proof-6",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sun, 14 Jun 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-14T15:25:07.814Z",
+      "hash": "cccf5d4235fa8cd6"
+    },
+    {
+      "id": "comic:xkcd:560",
+      "type": "comic",
+      "title": "Lithium Batteries",
+      "summary": "I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30. In the last few years, this has become a problem.",
+      "body": "Timeline of Commercial Uses of Lithium Batteries: [[The panel has a timeline that goes from Past to Present. The timeline has 4 notches on it]] Past [[the first notch, closest to the past side, has a picture of an old man with a walking stick]] Pacemakers [[The second notch has an image of a man in a car, who is talking on his cell phone]] Phones for Rich Business People [[The third notch, has a teen taking on his cellphone]] Phones for Teenagers [[The forth notch, closest to the present on the timeline, hac an image of a toy plane box with $10 written on it]] Really cheap r c planes and helicopters Present [[Below the main panel]] Life would be so much better if I was one of those people…",
+      "image": {
+        "src": "data/images/0a8c235e116852ca.png",
+        "alt": "I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem.",
+        "credit": "xkcd #560 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/560/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2009-03-25"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-14T15:25:07.558Z",
+      "hash": "4a8070a0cff5da45"
+    },
+    {
+      "id": "craft:6c732ac2cafd8f5b",
+      "type": "craft",
+      "title": "Maker Faire Prague 2026…Makes A Difference",
+      "summary": "When Kristin Berbawy arrived in Prague, she wasn’t expecting to find herself immediately at home. But a Maker Faire anywhere, feels a lot like home to a maker. Outside her hotel window, a giant laser sliced across the night sky from Prague’s iconic TV Tower as the city celebrated Liberation Day.…",
+      "body": "When Kristin Berbawy arrived in Prague, she wasn’t expecting to find herself immediately at home. But a Maker Faire anywhere, feels a lot like home to a maker. Outside her hotel window, a giant laser sliced across the night sky from Prague’s iconic TV Tower as the city celebrated Liberation Day. It looked less like […] The post Maker Faire Prague 2026…Makes A Difference appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/d2f902425a50b571.jpg",
+        "alt": "Maker Faire Prague 2026…Makes A Difference",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/maker-news/maker-faire-prague-2026-makes-a-difference/",
+        "trustTier": "publication",
+        "author": "Jennifer Blakeslee",
+        "date": "Fri, 12 Jun 2026 01:44:0"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "maker faire",
+        "maker news"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:25:07.060Z",
+      "hash": "6c732ac2cafd8f5b"
+    },
+    {
+      "id": "word:5d40b1bdb1ee1e26",
+      "type": "word",
+      "title": "mellifluous",
+      "summary": "Adjective: Flowing like honey.",
+      "body": "1. Flowing like honey.\n2. Sweet, smooth and musical; pleasant to hear (generally used of a person's voice, tone or writing style).",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/mellifluous",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Adjective"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:25:06.867Z",
+      "hash": "5d40b1bdb1ee1e26"
+    },
+    {
+      "id": "word:a67edc88d9049baf",
+      "type": "word",
+      "title": "nostalgia",
+      "summary": "Noun: A longing for home or familiar surroundings; homesickness. .mw-parser-output .defdate{font-size:smaller}",
+      "body": "1. A longing for home or familiar surroundings; homesickness. .mw-parser-output .defdate{font-size:smaller}\n2. A bittersweet yearning for the things of the past.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/nostalgia",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:25:05.891Z",
+      "hash": "a67edc88d9049baf"
+    },
+    {
+      "id": "quote:bd943c868f485fdd",
+      "type": "quote",
+      "title": "“Write to help yourself, publish to help others.”",
+      "summary": "— Jack Butcher",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Jack_Butcher",
+        "trustTier": "community",
+        "author": "Jack Butcher"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:25:05.318Z",
+      "hash": "bd943c868f485fdd"
+    },
+    {
+      "id": "quote:f310c6adb403d342",
+      "type": "quote",
+      "title": "“Life is ours to be spent, not to be saved.”",
+      "summary": "— D. H. Lawrence",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/D._H._Lawrence",
+        "trustTier": "community",
+        "author": "D. H. Lawrence"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:25:05.318Z",
+      "hash": "f310c6adb403d342"
+    },
+    {
+      "id": "quote:92cfe273b29fb2e4",
+      "type": "quote",
+      "title": "“Cease striving. Then there will be transformation.”",
+      "summary": "— Zhuangzi",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Zhuangzi",
+        "trustTier": "community",
+        "author": "Zhuangzi"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:25:05.318Z",
+      "hash": "92cfe273b29fb2e4"
+    },
+    {
+      "id": "article:aa2ff508ba2afde8",
+      "type": "article",
+      "title": "Low-tech Magazine: The Uncompressed Book Series",
+      "summary": "Image: The redesigned and revised chronological book edition. Photo: Marie Verdeil. Between 2019 and 2021, Low-tech Magazine published three books containing selections of articles from the website, spanning 14 years (2007-2021). In 2024, we launched the &ldquo;compressed edition&rdquo;, which…",
+      "body": "Image: The redesigned and revised chronological book edition. Photo: Marie Verdeil. Between 2019 and 2021, Low-tech Magazine published three books containing selections of articles from the website, spanning 14 years (2007-2021). In 2024, we launched the &ldquo;compressed edition&rdquo;, which squeezes the article catalog of the three-volume book series into just one book of 620 pages. We did this by switching to a smaller font size, downsizing most images, and opting for a two-column layout. I rewrote some articles, especially older ones, resulting not only in fewer pages but also in better…",
+      "image": {
+        "src": "data/images/df345136d1192725.png",
+        "alt": "Low-tech Magazine: The Uncompressed Book Series",
+        "credit": "Low-Tech Magazine"
+      },
+      "source": {
+        "name": "Low-Tech Magazine",
+        "url": "https://solar.lowtechmagazine.com/2026/03/low-tech-magazine-the-uncompressed-book-series/",
+        "trustTier": "publication",
+        "date": "Mon, 30 Mar 2026 00:00:0"
+      },
+      "tags": [
+        "technology",
+        "sustainability",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:25:00.987Z",
+      "hash": "aa2ff508ba2afde8"
+    },
+    {
+      "id": "article:7656cc669686b955",
+      "type": "article",
+      "title": "Why Is a Basketball Team Named After Pants?",
+      "summary": "Last night, the New York Knicks stunned the San Antonio Spurs in Game 4 of the NBA Finals. With about ten minutes to go in the third quarter, the Spurs held what looked like a commanding 29-point lead. Even as that lead began to wane, the outcome looked hardly in doubt; at one point, as seen in…",
+      "body": "Last night, the New York Knicks stunned the San Antonio Spurs in Game 4 of the NBA Finals. With about ten minutes to go in the third quarter, the Spurs held what looked like a commanding 29-point lead. Even as that lead began to wane, the outcome looked hardly in doubt; at one point, as seen in the graph above (via ESPN), the Knicks barely had a half-percent chance of winning. How did this happen? That’s basketball. But a perhaps deeper question is:Why is New York’s basketball team named after pants? Spoiler alert: They aren’t. They’re named after a lie. Most professional sports teams have…",
+      "image": {
+        "src": "data/images/6cc4a8b482980d5e.jpg",
+        "alt": "Why Is a Basketball Team Named After Pants?",
+        "credit": "Now I Know"
+      },
+      "source": {
+        "name": "Now I Know",
+        "url": "https://nowiknow.com/why-is-a-basketball-team-named-after-pants/",
+        "trustTier": "community",
+        "author": "Dan Lewis",
+        "date": "Thu, 11 Jun 2026 13:17:2"
+      },
+      "tags": [
+        "trivia",
+        "curiosities"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:24:59.990Z",
+      "hash": "7656cc669686b955"
+    },
+    {
+      "id": "article:615562833e1cf041",
+      "type": "article",
+      "title": "How To Handle Conflict: 7 Secrets From History’s Master Strategist",
+      "summary": "Work conflict. Relationship conflict. Family conflict. Conflict is everywhere and I’ll be honest with you: I’m kinda tired of it. So what are we gonna do? Well, today we’re gonna get some help from what may seem like an unlikely source: Carl von Clausewitz. Yeah, the dead war guy. The 19th-century…",
+      "body": "Work conflict. Relationship conflict. Family conflict. Conflict is everywhere and I’ll be honest with you: I’m kinda tired of it. So what are we gonna do? Well, today we’re gonna get some help from what may seem like an unlikely source: Carl von Clausewitz. Yeah, the dead war guy. The 19th-century Prussian strategist who spent […] The post How To Handle Conflict: 7 Secrets From History’s Master Strategist appeared first on Barking Up The Wrong Tree.",
+      "image": {
+        "src": "data/images/986ed3af7754ffac.jpg",
+        "alt": "How To Handle Conflict: 7 Secrets From History’s Master Strategist",
+        "credit": "Barking Up the Wrong Tree"
+      },
+      "source": {
+        "name": "Barking Up the Wrong Tree",
+        "url": "https://bakadesuyo.com/2026/05/how-to-handle-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-handle-conflict",
+        "trustTier": "community",
+        "author": "Eric Barker",
+        "date": "Mon, 25 May 2026 04:30:4"
+      },
+      "tags": [
+        "psychology",
+        "self-improvement",
+        "science",
+        "be a great negotiator",
+        "become a great leader",
+        "make better decisions",
+        "miscellaneous awesome"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:24:58.852Z",
+      "hash": "615562833e1cf041"
+    },
+    {
+      "id": "article:48996aed7495a94b",
+      "type": "article",
+      "title": "Running from the Better Man: Type-Scenes and the Chase in Iliad 22",
+      "summary": "Soon after Hektor decides to face Achilles, he loses his nerve and runs. The epic lingers on the moment. Homer, Iliad 22.157-170 “They both ran around that point: One chasing, one fleeing.In front, there was a good man trying to get away, but a much better man was pursuing.Quickly. They weren’t…",
+      "body": "Soon after Hektor decides to face Achilles, he loses his nerve and runs. The epic lingers on the moment. Homer, Iliad 22.157-170 “They both ran around that point: One chasing, one fleeing.In front, there was a good man trying to get away, but a much better man was pursuing.Quickly. They weren’t struggling over a sacred … Continue reading Running from the Better Man: Type-Scenes and the Chase in Iliad 22",
+      "image": {
+        "src": "data/images/53223fd03d40fd5d.jpg",
+        "alt": "Running from the Better Man: Type-Scenes and the Chase in Iliad 22",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/06/09/running-from-the-better-man-type-scenes-and-the-chase-in-iliad-22/",
+        "trustTier": "community",
+        "author": "Joel",
+        "date": "Tue, 09 Jun 2026 12:17:0"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "book 23",
+        "painful signs"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:24:56.242Z",
+      "hash": "48996aed7495a94b"
+    },
+    {
+      "id": "article:9a2c7fb551345475",
+      "type": "article",
+      "title": "The bullish case for Brazil",
+      "summary": "From Drew Crawford: Start with the most important number in economics, even though no one on Wall Street talks about it: calories per acre. Human civilization runs on food. Ten billion people will inhabit this planet by 2050. The amount of arable land is not growing. It is shrinking, every year,…",
+      "body": "From Drew Crawford: Start with the most important number in economics, even though no one on Wall Street talks about it: calories per acre. Human civilization runs on food. Ten billion people will inhabit this planet by 2050. The amount of arable land is not growing. It is shrinking, every year, to urbanization, desertification, salinization, […] The post The bullish case for Brazil appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-bullish-case-for-brazil.html?utm_source=rss&utm_medium=rss&utm_campaign=the-bullish-case-for-brazil",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Sun, 14 Jun 2026 04:23:3"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "current affairs",
+        "food and drink"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:24:55.452Z",
+      "hash": "9a2c7fb551345475"
+    },
+    {
+      "id": "article:cb5ab9f642480dc6",
+      "type": "article",
+      "title": "The Cultural War is a Civil War",
+      "summary": "Kevin Bryan riffs on on my post The Nationalization of American Science. He is rightfully incensed: AT is right this is a red tape-filled science policy of “losers”. If you think “cut funds from DEI-driven professors in the small departments no one cares about” is more important than “make sure…",
+      "body": "Kevin Bryan riffs on on my post The Nationalization of American Science. He is rightfully incensed: AT is right this is a red tape-filled science policy of “losers”. If you think “cut funds from DEI-driven professors in the small departments no one cares about” is more important than “make sure the world’s strongest fundamental science […] The post The Cultural War is a Civil War appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-cultural-war-is-a-civil-war.html?utm_source=rss&utm_medium=rss&utm_campaign=the-cultural-war-is-a-civil-war",
+        "trustTier": "community",
+        "author": "Alex Tabarrok",
+        "date": "Sun, 14 Jun 2026 11:18:3"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "current affairs",
+        "law",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:24:55.451Z",
+      "hash": "cb5ab9f642480dc6"
+    },
+    {
+      "id": "article:c2c37a653abc3cb2",
+      "type": "article",
+      "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
+      "summary": "Paintings from an era when Venetians brawled on bridges.",
+      "body": "Paintings from an era when Venetians brawled on bridges.",
+      "image": {
+        "src": "data/images/ec36bd3d0117026e.jpg",
+        "alt": "Venetian Bridge Brawls in 17th and 18th Century Art",
+        "credit": "The Public Domain Review"
+      },
+      "source": {
+        "name": "The Public Domain Review",
+        "url": "https://publicdomainreview.org/collection/venice-bridge-fights",
+        "trustTier": "publication",
+        "date": "Thu, 11 Jun 2026 13:32:0"
+      },
+      "tags": [
+        "essay",
+        "history",
+        "culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:24:55.213Z",
+      "hash": "c2c37a653abc3cb2"
+    },
+    {
+      "id": "article:d3323e1514570d90",
+      "type": "article",
+      "title": "Genevieve Stebbins’ Delsarte System of Dramatic Expression (1886)",
+      "summary": "A philosophical system and a practical guide for the cultivation of dramatic genius.",
+      "body": "A philosophical system and a practical guide for the cultivation of dramatic genius.",
+      "image": {
+        "src": "data/images/8f8b8d85114e368a.jpg",
+        "alt": "Genevieve Stebbins’ Delsarte System of Dramatic Expression (1886)",
+        "credit": "The Public Domain Review"
+      },
+      "source": {
+        "name": "The Public Domain Review",
+        "url": "https://publicdomainreview.org/collection/delsarte-system",
+        "trustTier": "publication",
+        "date": "Wed, 10 Jun 2026 15:11:0"
+      },
+      "tags": [
+        "essay",
+        "history",
+        "culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:24:55.213Z",
+      "hash": "d3323e1514570d90"
+    },
+    {
+      "id": "article:e16cfd3da8e43450",
+      "type": "article",
+      "title": "A philosophy of home",
+      "summary": "The household is a community, as much as the state, and ancient philosophy had much more to say about it than we think- by Sandrine BergèsRead on Aeon",
+      "body": "The household is a community, as much as the state, and ancient philosophy had much more to say about it than we think- by Sandrine BergèsRead on Aeon",
+      "image": {
+        "src": "data/images/844777e7da45c84e.jpg",
+        "alt": "A philosophy of home",
+        "credit": "Aeon"
+      },
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/essays/what-ancient-philosophy-really-thought-about-domestic-life",
+        "trustTier": "publication",
+        "author": "Sandrine Bergès",
+        "date": "Fri, 12 Jun 2026 10:00:0"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "philosophy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:24:54.294Z",
+      "hash": "e16cfd3da8e43450"
+    },
+    {
+      "id": "greek:13dacb465838174e",
+      "type": "greek",
+      "title": "ἀκούω",
+      "summary": "ἀκούω — “I hear” · verb",
+      "body": "Note: regular -ω verb; takes genitive or accusative object\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%BA%CE%BF%CF%8D%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:54.003Z",
+      "hash": "13dacb465838174e"
+    },
+    {
+      "id": "poetry:3e271a16af83a831",
+      "type": "poem",
+      "title": "Endymion: Book III",
+      "summary": "There are who lord it o'er their fellow-men\nWith most prevailing tinsel: who unpen\nTheir baaing vanities, to browse away\nThe comfortable green and juicy hay",
+      "body": "There are who lord it o'er their fellow-men\nWith most prevailing tinsel: who unpen\nTheir baaing vanities, to browse away\nThe comfortable green and juicy hay\nFrom human pastures; or, O torturing fact!\nWho, through an idiot blink, will see unpack'd\nFire-branded foxes to sear up and singe\nOur gold and ripe-ear'd hopes. With not one tinge\nOf sanctuary splendour, not a sight\nAble to face an owl's, they still are dight\nBy the blear-eyed nations in empurpled vests,\nAnd crowns, and turbans. With unladen breasts,\nSave of blown self-applause, they proudly mount\nTo their spirit's perch, their being's high account,\nTheir tiptop nothings, their dull skies, their thrones--\nAmid the fierce intoxicating tones\nOf trumpets, shoutings, and belabour'd drums,\nAnd sudden cannon. Ah! how all this hums,\nIn wakeful ears, like uproar past and gone--\nLike thunder clouds that spake to Babylon,\nAnd set those old Chaldeans to their tasks.--\nAre then regalities all gilded masks?\nNo, there are throned seats unscalable\nBut by a patient wing, a constant spell,\nOr by ethereal things that, unconfin'd,\nCan make a ladder of the eternal wind,\nAnd poise about in cloudy thunder-tents\nTo watch the abysm-birth of elements.\nAye, 'bove the withering of old-lipp'd Fate\nA thousand Powers keep religious state,\nIn water, fiery realm, and airy bourne;\nAnd, silent as a consecrated urn,\nHold sphery sessions for a season due.\nYet few of these far majesties, ah, few!\nHave bared their operations to this globe--\nFew, who with gorgeous pageantry enrobe\nOur piece of heaven--whose benevolence\nShakes hand with our own Ceres; every sense\nFilling with spiritual sweets to plenitude,\nAs bees gorge full their cells. And, by the feud\n'Twixt Nothing and Creation, I here swear,\nEterne Apollo! that thy Sister fair\nIs of all these the gentlier-mightiest.\nWhen thy gold breath is misting in the west,\nShe unobserved steals unto her throne,\nAnd there she sits most meek and most alone;\nAs if she had not pomp subservient;\nAs if thine eye, high Poet! was not bent\nTowards her with the Muses in thine heart;\nAs if the ministring stars kept not apart,\nWaiting for silver-footed messages.\nO Moon! the oldest shades 'mong oldest trees\nFeel palpitations when thou lookest in:\nO Moon! old boughs lisp forth a holier din\nThe while they feel thine airy fellowship.\nThou dost bless every where, with silver lip\nKissing dead things to life. The sleeping kine,\nCouched in thy brightness, dream of fields divine:\nInnumerable mountains rise, and rise,\nAmbitious for the hallowing of thine eyes;\nAnd yet thy benediction passeth not\nOne obscure hiding-place, one little spot\nWhere pleasure may be sent: the nested wren\nHas thy fair face within its tranquil ken,\nAnd from beneath a sheltering ivy leaf\nTakes glimpses of thee; thou art a relief\nTo the poor patient oyster, where it sleeps\nWithin its pearly house.--The mighty deeps,\nThe monstrous sea is thine--the myriad sea!\nO Moon! far-spooming Ocean bows to thee,\nAnd Tellus feels his forehead's cumbrous load.\n\n  Cynthia! where art thou now? What far abode\nOf green or silvery bower doth enshrine\nSuch utmost beauty? Alas, thou dost pine\nFor one as sorrowful: thy cheek is pale\nFor one whose cheek is pale: thou dost bewail\nHis tears, who weeps for thee. Where dost thou sigh?\nAh! surely that light peeps from Vesper's eye,\nOr what a thing is love! 'Tis She, but lo!\nHow chang'd, how full of ache, how gone in woe!\nShe dies at the thinnest cloud; her loveliness\nIs wan on Neptune's blue: yet there's a stress\nOf love-spangles, just off yon cape of trees,\nDancing upon the waves, as if to please\nThe curly foam with amorous influence.\nO, not so idle: for down-glancing thence\nShe fathoms eddies, and runs wild about\nO'erwhelming water-courses; scaring out\nThe thorny sharks from hiding-holes, and fright'ning\nTheir savage eyes with unaccustomed lightning.\nWhere will the splendor be content to reach?\nO love! how potent hast thou been to teach\nStrange journeyings! Wherever beauty dwells,\nIn gulf or aerie, mountains or deep dells,\nIn light, in gloom, in star or blazing sun,\nThou pointest out the way, and straight 'tis won.\nAmid his toil thou gav'st Leander breath;\nThou leddest Orpheus through the gleams of death;\nThou madest Pluto bear thin element;\nAnd now, O winged Chieftain! thou hast sent\nA moon-beam to the deep, deep water-world,\nTo find Endymion.\n\n                  On gold sand impearl'd\nWith lily shells, and pebbles milky white,\nPoor Cynthia greeted him, and sooth'd her light\nAgainst his pallid face: he felt the charm\nTo breathlessness, and suddenly a warm\nOf his heart's blood: 'twas very sweet; he stay'd\nHis wandering steps, and half-entranced laid\nHis head upon a tuft of straggling weeds,\nTo taste the gentle moon, and freshening beads,\nLashed from the crystal roof by fishes' tails.\nAnd so he kept, until the rosy veils\nMantling the east, by Aurora's peering hand\nWere lifted from the water's breast, and fann'd\nInto sweet air; and sober'd morning came\nMeekly through billows:--when like taper-flame\nLeft sudden by a dallying breath of air,\nHe rose in silence, and once more 'gan fare\nAlong his fated way.\n\n                      Far had he roam'd,\nWith nothing save the hollow vast, that foam'd\nAbove, around, and at his feet; save things\nMore dead than Morpheus' imaginings:\nOld rusted anchors, helmets, breast-plates large\nOf gone sea-warriors; brazen beaks and targe;\nRudders that for a hundred years had lost\nThe sway of human hand; gold vase emboss'd\nWith long-forgotten story, and wherein\nNo reveller had ever dipp'd a chin\nBut those of Saturn's vintage; mouldering scrolls,\nWrit in the tongue of heaven, by those souls\nWho first were on the earth; and sculptures rude\nIn ponderous stone, developing the mood\nOf ancient Nox;--then skeletons of man,\nOf beast, behemoth, and leviathan,\nAnd elephant, and eagle, and huge jaw\nOf nameless monster. A cold leaden awe\nThese secrets struck into him; and unless\nDian had chaced away that heaviness,\nHe might have died: but now, with cheered feel,\nHe onward kept; wooing these thoughts to steal\nAbout the labyrinth in his soul of love.\n\n  \"What is there in thee, Moon! that thou shouldst move\nMy heart so potently? When yet a child\nI oft have dried my tears when thou hast smil'd.\nThou seem'dst my sister: hand in hand we went\nFrom eve to morn across the firmament.\nNo apples would I gather from the tree,\nTill thou hadst cool'd their cheeks deliciously:\nNo tumbling water ever spake romance,\nBut when my eyes with thine thereon could dance:\nNo woods were green enough, no bower divine,\nUntil thou liftedst up thine eyelids fine:\nIn sowing time ne'er would I dibble take,\nOr drop a seed, till thou wast wide awake;\nAnd, in the summer tide of blossoming,\nNo one but thee hath heard me blithly sing\nAnd mesh my dewy flowers all the night.\nNo melody was like a passing spright\nIf it went not to solemnize thy reign.\nYes, in my boyhood, every joy and pain\nBy thee were fashion'd to the self-same end;\nAnd as I grew in years, still didst thou blend\nWith all my ardours: thou wast the deep glen;\nThou wast the mountain-top--the sage's pen--\nThe poet's harp--the voice of friends--the sun;\nThou wast the river--thou wast glory won;\nThou wast my clarion's blast--thou wast my steed--\nMy goblet full of wine--my topmost deed:--\nThou wast the charm of women, lovely Moon!\nO what a wild and harmonized tune\nMy spirit struck from all the beautiful!\nOn some bright essence could I lean, and lull\nMyself to immortality: I prest\nNature's soft pillow in a wakeful rest.\nBut, gentle Orb! there came a nearer bliss--\nMy strange love came--Felicity's abyss!\nShe came, and thou didst fade, and fade away--\nYet not entirely; no, thy starry sway\nHas been an under-passion to this hour.\nNow I begin to feel thine orby power\nIs coming fresh upon me: O be kind,\nKeep back thine influence, and do not blind\nMy sovereign vision.--Dearest love, forgive\nThat I can think away from thee and live!--\nPardon me, airy planet, that I prize\nOne thought beyond thine argent luxuries!\nHow far beyond!\" At this a surpris'd start\nFrosted the springing verdure of his heart;\nFor as he lifted up his eyes to swear\nHow his own goddess was past all things fair,\nHe saw far in the concave green of the sea\nAn old man sitting calm and peacefully.\nUpon a weeded rock this old man sat,\nAnd his white hair was awful, and a mat\nOf weeds were cold beneath his cold thin feet;\nAnd, ample as the largest winding-sheet,\nA cloak of blue wrapp'd up his aged bones,\nO'erwrought with symbols by the deepest groans\nOf ambitious magic: every ocean-form\nWas woven in with black distinctness; storm,\nAnd calm, and whispering, and hideous roar\nWere emblem'd in the woof; with every shape\nThat skims, or dives, or sleeps, 'twixt cape and cape.\nThe gulphing whale was like a dot in the spell,\nYet look upon it, and 'twould size and swell\nTo its huge self; and the minutest fish\nWould pass the very hardest gazer's wish,\nAnd show his little eye's anatomy.\nThen there was pictur'd the regality\nOf Neptune; and the sea nymphs round his state,\nIn beauteous vassalage, look up and wait.\nBeside this old man lay a pearly wand,\nAnd in his lap a book, the which he conn'd\nSo stedfastly, that the new denizen\nHad time to keep him in amazed ken,\nTo mark these shadowings, and stand in awe.\n\n  The old man rais'd his hoary head and saw\nThe wilder'd stranger--seeming not to see,\nHis features were so lifeless. Suddenly\nHe woke as from a trance; his snow-white brows\nWent arching up, and like two magic ploughs\nFurrow'd deep wrinkles in his forehead large,\nWhich kept as fixedly as rocky marge,\nTill round his wither'd lips had gone a smile.\nThen up he rose, like one whose tedious toil\nHad watch'd for years in forlorn hermitage,\nWho had not from mid-life to utmost age\nEas'd in one accent his o'er-burden'd soul,\nEven to the trees. He rose: he grasp'd his stole,\nWith convuls'd clenches waving it abroad,\nAnd in a voice of solemn joy, that aw'd\nEcho into oblivion, he said:--\n\n  \"Thou art the man! Now shall I lay my head\nIn peace upon my watery pillow: now\nSleep will come smoothly to my weary brow.\nO Jove! I shall be young again, be young!\nO shell-borne Neptune, I am pierc'd and stung\nWith new-born life! What shall I do? Where go,\nWhen I have cast this serpent-skin of woe?--\nI'll swim to the syrens, and one moment listen\nTheir melodies, and see their long hair glisten;\nAnon upon that giant's arm I'll be,\nThat writhes about the roots of Sicily:\nTo northern seas I'll in a twinkling sail,\nAnd mount upon the snortings of a whale\nTo some black cloud; thence down I'll madly sweep\nOn forked lightning, to the deepest deep,\nWhere through some sucking pool I will be hurl'd\nWith rapture to the other side of the world!\nO, I am full of gladness! Sisters three,\nI bow full hearted to your old decree!\nYes, every god be thank'd, and power benign,\nFor I no more shall wither, droop, and pine.\nThou art the man!\" Endymion started back\nDismay'd; and, like a wretch from whom the rack\nTortures hot breath, and speech of agony,\nMutter'd: \"What lonely death am I to die\nIn this cold region? Will he let me freeze,\nAnd float my brittle limbs o'er polar seas?\nOr will he touch me with his searing hand,\nAnd leave a black memorial on the sand?\nOr tear me piece-meal with a bony saw,\nAnd keep me as a chosen food to draw\nHis magian fish through hated fire and flame?\nO misery of hell! resistless, tame,\nAm I to be burnt up? No, I will shout,\nUntil the gods through heaven's blue look out!--\nO Tartarus! but some few days agone\nHer soft arms were entwining me, and on\nHer voice I hung like fruit among green leaves:\nHer lips were all my own, and--ah, ripe sheaves\nOf happiness! ye on the stubble droop,\nBut never may be garner'd. I must stoop\nMy head, and kiss death's foot. Love! love, farewel!\nIs there no hope from thee? This horrid spell\nWould melt at thy sweet breath.--By Dian's hind\nFeeding from her white fingers, on the wind\nI see thy streaming hair! and now, by Pan,\nI care not for this old mysterious man!\"\n\n  He spake, and walking to that aged form,\nLook'd high defiance. Lo! his heart 'gan warm\nWith pity, for the grey-hair'd creature wept.\nHad he then wrong'd a heart where sorrow kept?\nHad he, though blindly contumelious, brought\nRheum to kind eyes, a sting to human thought,\nConvulsion to a mouth of many years?\nHe had in truth; and he was ripe for tears.\nThe penitent shower fell, as down he knelt\nBefore that care-worn sage, who trembling felt\nAbout his large dark locks, and faultering spake:\n\n  \"Arise, good youth, for sacred Phoebus' sake!\nI know thine inmost bosom, and I feel\nA very brother's yearning for thee steal\nInto mine own: for why? thou openest\nThe prison gates that have so long opprest\nMy weary watching. Though thou know'st it not,\nThou art commission'd to this fated spot\nFor great enfranchisement. O weep no more;\nI am a friend to love, to loves of yore:\nAye, hadst thou never lov'd an unknown power\nI had been grieving at this joyous hour\nBut even now most miserable old,\nI saw thee, and my blood no longer cold\nGave mighty pulses: in this tottering case\nGrew a new heart, which at this moment plays\nAs dancingly as thine. Be not afraid,\nFor thou shalt hear this secret all display'd,\nNow as we speed towards our joyous task.\"\n\n  So saying, this young soul in age's mask\nWent forward with the Carian side by side:\nResuming quickly thus; while ocean's tide\nHung swollen at their backs, and jewel'd sands\nTook silently their foot-prints. \"My soul stands\nNow past the midway from mortality,\nAnd so I can prepare without a sigh\nTo tell thee briefly all my joy and pain.\nI was a fisher once, upon this main,\nAnd my boat danc'd in every creek and bay;\nRough billows were my home by night and day,--\nThe sea-gulls not more constant; for I had\nNo housing from the storm and tempests mad,\nBut hollow rocks,--and they were palaces\nOf silent happiness, of slumberous ease:\nLong years of misery have told me so.\nAye, thus it was one thousand years ago.\nOne thousand years!--Is it then possible\nTo look so plainly through them? to dispel\nA thousand years with backward glance sublime?\nTo breathe away as 'twere all scummy slime\nFrom off a crystal pool, to see its deep,\nAnd one's own image from the bottom peep?\nYes: now I am no longer wretched thrall,\nMy long captivity and moanings all\nAre but a slime, a thin-pervading scum,\nThe which I breathe away, and thronging come\nLike things of yesterday my youthful pleasures.\n\n  \"I touch'd no lute, I sang not, trod no measures:\nI was a lonely youth on desert shores.\nMy sports were lonely, 'mid continuous roars,\nAnd craggy isles, and sea-mew's plaintive cry\nPlaining discrepant between sea and sky.\nDolphins were still my playmates; shapes unseen\nWould let me feel their scales of gold and green,\nNor be my desolation; and, full oft,\nWhen a dread waterspout had rear'd aloft\nIts hungry hugeness, seeming ready ripe\nTo burst with hoarsest thunderings, and wipe\nMy life away like a vast sponge of fate,\nSome friendly monster, pitying my sad state,\nHas dived to its foundations, gulph'd it down,\nAnd left me tossing safely. But the crown\nOf all my life was utmost quietude:\nMore did I love to lie in cavern rude,\nKeeping in wait whole days for Neptune's voice,\nAnd if it came at last, hark, and rejoice!\nThere blush'd no summer eve but I would steer\nMy skiff along green shelving coasts, to hear\nThe shepherd's pipe come clear from aery steep,\nMingled with ceaseless bleatings of his sheep:\nAnd never was a day of summer shine,\nBut I beheld its birth upon the brine:\nFor I would watch all night to see unfold\nHeaven's gates, and Aethon snort his morning gold\nWide o'er the swelling streams: and constantly\nAt brim of day-tide, on some grassy lea,\nMy nets would be spread out, and I at rest.\nThe poor folk of the sea-country I blest\nWith daily boon of fish most delicate:\nThey knew not whence this bounty, and elate\nWould strew sweet flowers on a sterile beach.\n\n  \"Why was I not contented? Wherefore reach\nAt things which, but for thee, O Latmian!\nHad been my dreary death? Fool! I began\nTo feel distemper'd longings: to desire\nThe utmost privilege that ocean's sire\nCould grant in benediction: to be free\nOf all his kingdom. Long in misery\nI wasted, ere in one extremest fit\nI plung'd for life or death. To interknit\nOne's senses with so dense a breathing stuff\nMight seem a work of pain; so not enough\nCan I admire how crystal-smooth it felt,\nAnd buoyant round my limbs. At first I dwelt\nWhole days and days in sheer astonishment;\nForgetful utterly of self-intent;\nMoving but with the mighty ebb and flow.\nThen, like a new fledg'd bird that first doth shew\nHis spreaded feathers to the morrow chill,\nI tried in fear the pinions of my will.\n'Twas freedom! and at once I visited\nThe ceaseless wonders of this ocean-bed.\nNo need to tell thee of them, for I see\nThat thou hast been a witness--it must be\nFor these I know thou canst not feel a drouth,\nBy the melancholy corners of that mouth.\nSo I will in my story straightway pass\nTo more immediate matter. Woe, alas!\nThat love should be my bane! Ah, Scylla fair!\nWhy did poor Glaucus ever--ever dare\nTo sue thee to his heart? Kind stranger-youth!\nI lov'd her to the very white of truth,\nAnd she would not conceive it. Timid thing!\nShe fled me swift as sea-bird on the wing,\nRound every isle, and point, and promontory,\nFrom where large Hercules wound up his story\nFar as Egyptian Nile. My passion grew\nThe more, the more I saw her dainty hue\nGleam delicately through the azure clear:\nUntil 'twas too fierce agony to bear;\nAnd in that agony, across my grief\nIt flash'd, that Circe might find some relief--\nCruel enchantress! So above the water\nI rear'd my head, and look'd for Phoebus' daughter.\nAeaea's isle was wondering at the moon:--\nIt seem'd to whirl around me, and a swoon\nLeft me dead-drifting to that fatal power.\n\n  \"When I awoke, 'twas in a twilight bower;\nJust when the light of morn, with hum of bees,\nStole through its verdurous matting of fresh trees.\nHow sweet, and sweeter! for I heard a lyre,\nAnd over it a sighing voice expire.\nIt ceased--I caught light footsteps; and anon\nThe fairest face that morn e'er look'd upon\nPush'd through a screen of roses. Starry Jove!\nWith tears, and smiles, and honey-words she wove\nA net whose thraldom was more bliss than all\nThe range of flower'd Elysium. Thus did fall\nThe dew of her rich speech: \"Ah! Art awake?\nO let me hear thee speak, for Cupid's sake!\nI am so oppress'd with joy! Why, I have shed\nAn urn of tears, as though thou wert cold dead;\nAnd now I find thee living, I will pour\nFrom these devoted eyes their silver store,\nUntil exhausted of the latest drop,\nSo it will pleasure thee, and force thee stop\nHere, that I too may live: but if beyond\nSuch cool and sorrowful offerings, thou art fond\nOf soothing warmth, of dalliance supreme;\nIf thou art ripe to taste a long love dream;\nIf smiles, if dimples, tongues for ardour mute,\nHang in thy vision like a tempting fruit,\nO let me pluck it for thee.\" Thus she link'd\nHer charming syllables, till indistinct\nTheir music came to my o'er-sweeten'd soul;\nAnd then she hover'd over me, and stole\nSo near, that if no nearer it had been\nThis furrow'd visage thou hadst never seen.\n\n  \"Young man of Latmos! thus particular\nAm I, that thou may'st plainly see how far\nThis fierce temptation went: and thou may'st not\nExclaim, How then, was Scylla quite forgot?\n\n  \"Who could resist? Who in this universe?\nShe did so breathe ambrosia; so immerse\nMy fine existence in a golden clime.\nShe took me like a child of suckling time,\nAnd cradled me in roses. Thus condemn'd,\nThe current of my former life was stemm'd,\nAnd to this arbitrary queen of sense\nI bow'd a tranced vassal: nor would thence\nHave mov'd, even though Amphion's harp had woo'd\nMe back to Scylla o'er the billows rude.\nFor as Apollo each eve doth devise\nA new appareling for western skies;\nSo every eve, nay every spendthrift hour\nShed balmy consciousness within that bower.\nAnd I was free of haunts umbrageous;\nCould wander in the mazy forest-house\nOf squirrels, foxes shy, and antler'd deer,\nAnd birds from coverts innermost and drear\nWarbling for very joy mellifluous sorrow--\nTo me new born delights!\n\n                          \"Now let me borrow,\nFor moments few, a temperament as stern\nAs Pluto's sceptre, that my words not burn\nThese uttering lips, while I in calm speech tell\nHow specious heaven was changed to real hell.\n\n  \"One morn she left me sleeping: half awake\nI sought for her smooth arms and lips, to slake\nMy greedy thirst with nectarous camel-draughts;\nBut she was gone. Whereat the barbed shafts\nOf disappointment stuck in me so sore,\nThat out I ran and search'd the forest o'er.\nWandering about in pine and cedar gloom\nDamp awe assail'd me; for there 'gan to boom\nA sound of moan, an agony of sound,\nSepulchral from the distance all around.\nThen came a conquering earth-thunder, and rumbled\nThat fierce complain to silence: while I stumbled\nDown a precipitous path, as if impell'd.\nI came to a dark valley.--Groanings swell'd\nPoisonous about my ears, and louder grew,\nThe nearer I approach'd a flame's gaunt blue,\nThat glar'd before me through a thorny brake.\nThis fire, like the eye of gordian snake,\nBewitch'd me towards; and I soon was near\nA sight too fearful for the feel of fear:\nIn thicket hid I curs'd the haggard scene--\nThe banquet of my arms, my arbour queen,\nSeated upon an uptorn forest root;\nAnd all around her shapes, wizard and brute,\nLaughing, and wailing, groveling, serpenting,\nShewing tooth, tusk, and venom-bag, and sting!\nO such deformities! Old Charon's self,\nShould he give up awhile his penny pelf,\nAnd take a dream 'mong rushes Stygian,\nIt could not be so phantasied. Fierce, wan,\nAnd tyrannizing was the lady's look,\nAs over them a gnarled staff she shook.\nOft-times upon the sudden she laugh'd out,\nAnd from a basket emptied to the rout\nClusters of grapes, the which they raven'd quick\nAnd roar'd for more; with many a hungry lick\nAbout their shaggy jaws. Avenging, slow,\nAnon she took a branch of mistletoe,\nAnd emptied on't a black dull-gurgling phial:\nGroan'd one and all, as if some piercing trial\nWas sharpening for their pitiable bones.\nShe lifted up the charm: appealing groans\nFrom their poor breasts went sueing to her ear\nIn vain; remorseless as an infant's bier\nShe whisk'd against their eyes the sooty oil.\nWhereat was heard a noise of painful toil,\nIncreasing gradual to a tempest rage,\nShrieks, yells, and groans of torture-pilgrimage;\nUntil their grieved bodies 'gan to bloat\nAnd puff from the tail's end to stifled throat:\nThen was appalling silence: then a sight\nMore wildering than all that hoarse affright;\nFor the whole herd, as by a whirlwind writhen,\nWent through the dismal air like one huge Python\nAntagonizing Boreas,--and so vanish'd.\nYet there was not a breath of wind: she banish'd\nThese phantoms with a nod. Lo! from the dark\nCame waggish fauns, and nymphs, and satyrs stark,\nWith dancing and loud revelry,--and went\nSwifter than centaurs after rapine bent.--\nSighing an elephant appear'd and bow'd\nBefore the fierce witch, speaking thus aloud\nIn human accent: \"Potent goddess! chief\nOf pains resistless! make my being brief,\nOr let me from this heavy prison fly:\nOr give me to the air, or let me die!\nI sue not for my happy crown again;\nI sue not for my phalanx on the plain;\nI sue not for my lone, my widow'd wife;\nI sue not for my ruddy drops of life,\nMy children fair, my lovely girls and boys!\nI will forget them; I will pass these joys;\nAsk nought so heavenward, so too--too high:\nOnly I pray, as fairest boon, to die,\nOr be deliver'd from this cumbrous flesh,\nFrom this gross, detestable, filthy mesh,\nAnd merely given to the cold bleak air.\nHave mercy, Goddess! Circe, feel my prayer!\"\n\n  That curst magician's name fell icy numb\nUpon my wild conjecturing: truth had come\nNaked and sabre-like against my heart.\nI saw a fury whetting a death-dart;\nAnd my slain spirit, overwrought with fright,\nFainted away in that dark lair of night.\nThink, my deliverer, how desolate\nMy waking must have been! disgust, and hate,\nAnd terrors manifold divided me\nA spoil amongst them. I prepar'd to flee\nInto the dungeon core of that wild wood:\nI fled three days--when lo! before me stood\nGlaring the angry witch. O Dis, even now,\nA clammy dew is beading on my brow,\nAt mere remembering her pale laugh, and curse.\n\"Ha! ha! Sir Dainty! there must be a nurse\nMade of rose leaves and thistledown, express,\nTo cradle thee my sweet, and lull thee: yes,\nI am too flinty-hard for thy nice touch:\nMy tenderest squeeze is but a giant's clutch.\nSo, fairy-thing, it shall have lullabies\nUnheard of yet; and it shall still its cries\nUpon some breast more lily-feminine.\nOh, no--it shall not pine, and pine, and pine\nMore than one pretty, trifling thousand years;\nAnd then 'twere pity, but fate's gentle shears\nCut short its immortality. Sea-flirt!\nYoung dove of the waters! truly I'll not hurt\nOne hair of thine: see how I weep and sigh,\nThat our heart-broken parting is so nigh.\nAnd must we part? Ah, yes, it must be so.\nYet ere thou leavest me in utter woe,\nLet me sob over thee my last adieus,\nAnd speak a blessing: Mark me! thou hast thews\nImmortal, for thou art of heavenly race:\nBut such a love is mine, that here I chase\nEternally away from thee all bloom\nOf youth, and destine thee towards a tomb.\nHence shalt thou quickly to the watery vast;\nAnd there, ere many days be overpast,\nDisabled age shall seize thee; and even then\nThou shalt not go the way of aged men;\nBut live and wither, cripple and still breathe\nTen hundred years: which gone, I then bequeath\nThy fragile bones to unknown burial.\nAdieu, sweet love, adieu!\"--As shot stars fall,\nShe fled ere I could groan for mercy. Stung\nAnd poisoned was my spirit: despair sung\nA war-song of defiance 'gainst all hell.\nA hand was at my shoulder to compel\nMy sullen steps; another 'fore my eyes\nMoved on with pointed finger. In this guise\nEnforced, at the last by ocean's foam\nI found me; by my fresh, my native home.\nIts tempering coolness, to my life akin,\nCame salutary as I waded in;\nAnd, with a blind voluptuous rage, I gave\nBattle to the swollen billow-ridge, and drave\nLarge froth before me, while there yet remain'd\nHale strength, nor from my bones all marrow drain'd.\n\n  \"Young lover, I must weep--such hellish spite\nWith dry cheek who can tell? While thus my might\nProving upon this element, dismay'd,\nUpon a dead thing's face my hand I laid;\nI look'd--'twas Scylla! Cursed, cursed Circe!\nO vulture-witch, hast never heard of mercy?\nCould not thy harshest vengeance be content,\nBut thou must nip this tender innocent\nBecause I lov'd her?--Cold, O cold indeed\nWere her fair limbs, and like a common weed\nThe sea-swell took her hair. Dead as she was\nI clung about her waist, nor ceas'd to pass\nFleet as an arrow through unfathom'd brine,\nUntil there shone a fabric crystalline,\nRibb'd and inlaid with coral, pebble, and pearl.\nHeadlong I darted; at one eager swirl\nGain'd its bright portal, enter'd, and behold!\n'Twas vast, and desolate, and icy-cold;\nAnd all around--But wherefore this to thee\nWho in few minutes more thyself shalt see?--\nI left poor Scylla in a niche and fled.\nMy fever'd parchings up, my scathing dread\nMet palsy half way: soon these limbs became\nGaunt, wither'd, sapless, feeble, cramp'd, and lame.\n\n  \"Now let me pass a cruel, cruel space,\nWithout one hope, without one faintest trace\nOf mitigation, or redeeming bubble\nOf colour'd phantasy; for I fear 'twould trouble\nThy brain to loss of reason: and next tell\nHow a restoring chance came down to quell\nOne half of the witch in me.                 On a day,\nSitting upon a rock above the spray,\nI saw grow up from the horizon's brink\nA gallant vessel: soon she seem'd to sink\nAway from me again, as though her course\nHad been resum'd in spite of hindering force--\nSo vanish'd: and not long, before arose\nDark clouds, and muttering of winds morose.\nOld Eolus would stifle his mad spleen,\nBut could not: therefore all the billows green\nToss'd up the silver spume against the clouds.\nThe tempest came: I saw that vessel's shrouds\nIn perilous bustle; while upon the deck\nStood trembling creatures. I beheld the wreck;\nThe final gulphing; the poor struggling souls:\nI heard their cries amid loud thunder-rolls.\nO they had all been sav'd but crazed eld\nAnnull'd my vigorous cravings: and thus quell'd\nAnd curb'd, think on't, O Latmian! did I sit\nWrithing with pity, and a cursing fit\nAgainst that hell-born Circe. The crew had gone,\nBy one and one, to pale oblivion;\nAnd I was gazing on the surges prone,\nWith many a scalding tear and many a groan,\nWhen at my feet emerg'd an old man's hand,\nGrasping this scroll, and this same slender wand.\nI knelt with pain--reached out my hand--had grasp'd\nThese treasures--touch'd the knuckles--they unclasp'd--\nI caught a finger: but the downward weight\nO'erpowered me--it sank. Then 'gan abate\nThe storm, and through chill aguish gloom outburst\nThe comfortable sun. I was athirst\nTo search the book, and in the warming air\nParted its dripping leaves with eager care.\nStrange matters did it treat of, and drew on\nMy soul page after page, till well-nigh won\nInto forgetfulness; when, stupefied,\nI read these words, and read again, and tried\nMy eyes against the heavens, and read again.\nO what a load of misery and pain\nEach Atlas-line bore off!--a shine of hope\nCame gold around me, cheering me to cope\nStrenuous with hellish tyranny. Attend!\nFor thou hast brought their promise to an end.\n\n  \"In the wide sea there lives a forlorn wretch,\nDoom'd with enfeebled carcase to outstretch\nHis loath'd existence through ten centuries,\nAnd then to die alone. Who can devise\nA total opposition? No one. So\nOne million times ocean must ebb and flow,\nAnd he oppressed. Yet he shall not die,\nThese things accomplish'd:--If he utterly\nScans all the depths of magic, and expounds\nThe meanings of all motions, shapes, and sounds;\nIf he explores all forms and substances\nStraight homeward to their symbol-essences;\nHe shall not die. Moreover, and in chief,\nHe must pursue this task of joy and grief\nMost piously;--all lovers tempest-tost,\nAnd in the savage overwhelming lost,\nHe shall deposit side by side, until\nTime's creeping shall the dreary space fulfil:\nWhich done, and all these labours ripened,\nA youth, by heavenly power lov'd and led,\nShall stand before him; whom he shall direct\nHow to consummate all. The youth elect\nMust do the thing, or both will be destroy'd.\"--\n\n  \"Then,\" cried the young Endymion, overjoy'd,\n\"We are twin brothers in this destiny!\nSay, I intreat thee, what achievement high\nIs, in this restless world, for me reserv'd.\nWhat! if from thee my wandering feet had swerv'd,\nHad we both perish'd?\"--\"Look!\" the sage replied,\n\"Dost thou not mark a gleaming through the tide,\nOf divers brilliances? 'tis the edifice\nI told thee of, where lovely Scylla lies;\nAnd where I have enshrined piously\nAll lovers, whom fell storms have doom'd to die\nThroughout my bondage.\" Thus discoursing, on\nThey went till unobscur'd the porches shone;\nWhich hurryingly they gain'd, and enter'd straight.\nSure never since king Neptune held his state\nWas seen such wonder underneath the stars.\nTurn to some level plain where haughty Mars\nHas legion'd all his battle; and behold\nHow every soldier, with firm foot, doth hold\nHis even breast: see, many steeled squares,\nAnd rigid ranks of iron--whence who dares\nOne step? Imagine further, line by line,\nThese warrior thousands on the field supine:--\nSo in that crystal place, in silent rows,\nPoor lovers lay at rest from joys and woes.--\nThe stranger from the mountains, breathless, trac'd\nSuch thousands of shut eyes in order plac'd;\nSuch ranges of white feet, and patient lips\nAll ruddy,--for here death no blossom nips.\nHe mark'd their brows and foreheads; saw their hair\nPut sleekly on one side with nicest care;\nAnd each one's gentle wrists, with reverence,\nPut cross-wise to its heart.\n\n                              \"Let us commence,\nWhisper'd the guide, stuttering with joy, even now.\"\nHe spake, and, trembling like an aspen-bough,\nBegan to tear his scroll in pieces small,\nUttering the while some mumblings funeral.\nHe tore it into pieces small as snow\nThat drifts unfeather'd when bleak northerns blow;\nAnd having done it, took his dark blue cloak\nAnd bound it round Endymion: then struck\nHis wand against the empty air times nine.--\n\"What more there is to do, young man, is thine:\nBut first a little patience; first undo\nThis tangled thread, and wind it to a clue.\nAh, gentle! 'tis as weak as spider's skein;\nAnd shouldst thou break it--What, is it done so clean?\nA power overshadows thee! Oh, brave!\nThe spite of hell is tumbling to its grave.\nHere is a shell; 'tis pearly blank to me,\nNor mark'd with any sign or charactery--\nCanst thou read aught? O read for pity's sake!\nOlympus! we are safe! Now, Carian, break\nThis wand against yon lyre on the pedestal.\"\n\n  'Twas done: and straight with sudden swell and fall\nSweet music breath'd her soul away, and sigh'd\nA lullaby to silence.--\"Youth! now strew\nThese minced leaves on me, and passing through\nThose files of dead, scatter the same around,\nAnd thou wilt see the issue.\"--'Mid the sound\nOf flutes and viols, ravishing his heart,\nEndymion from Glaucus stood apart,\nAnd scatter'd in his face some fragments light.\nHow lightning-swift the change! a youthful wight\nSmiling beneath a coral diadem,\nOut-sparkling sudden like an upturn'd gem,\nAppear'd, and, stepping to a beauteous corse,\nKneel'd down beside it, and with tenderest force\nPress'd its cold hand, and wept--and Scylla sigh'd!\nEndymion, with quick hand, the charm applied--\nThe nymph arose: he left them to their joy,\nAnd onward went upon his high employ,\nShowering those powerful fragments on the dead.\nAnd, as he pass'd, each lifted up its head,\nAs doth a flower at Apollo's touch.\nDeath felt it to his inwards; 'twas too much:\nDeath fell a weeping in his charnel-house.\nThe Latmian persever'd along, and thus\nAll were re-animated. There arose\nA noise of harmony, pulses and throes\nOf gladness in the air--while many, who\nHad died in mutual arms devout and true,\nSprang to each other madly; and the rest\nFelt a high certainty of being blest.\nThey gaz'd upon Endymion. Enchantment\nGrew drunken, and would have its head and bent.\nDelicious symphonies, like airy flowers,\nBudded, and swell'd, and, full-blown, shed full showers\nOf light, soft, unseen leaves of sounds divine.\nThe two deliverers tasted a pure wine\nOf happiness, from fairy-press ooz'd out.\nSpeechless they eyed each other, and about\nThe fair assembly wander'd to and fro,\nDistracted with the richest overflow\nOf joy that ever pour'd from heaven.\n\n                                    ----\"Away!\"\nShouted the new-born god; \"Follow, and pay\nOur piety to Neptunus supreme!\"--\nThen Scylla, blushing sweetly from her dream,\nThey led on first, bent to her meek surprise,\nThrough portal columns of a giant size,\nInto the vaulted, boundless emerald.\nJoyous all follow'd, as the leader call'd,\nDown marble steps; pouring as easily\nAs hour-glass sand--and fast, as you might see\nSwallows obeying the south summer's call,\nOr swans upon a gentle waterfall.\n\n  Thus went that beautiful multitude, nor far,\nEre from among some rocks of glittering spar,\nJust within ken, they saw descending thick\nAnother multitude. Whereat more quick\nMoved either host. On a wide sand they met,\nAnd of those numbers every eye was wet;\nFor each their old love found. A murmuring rose,\nLike what was never heard in all the throes\nOf wind and waters: 'tis past human wit\nTo tell; 'tis dizziness to think of it.\n\n  This mighty consummation made, the host\nMov'd on for many a league; and gain'd, and lost\nHuge sea-marks; vanward swelling in array,\nAnd from the rear diminishing away,--\nTill a faint dawn surpris'd them. Glaucus cried,\n\"Behold! behold, the palace of his pride!\nGod Neptune's palaces!\" With noise increas'd,\nThey shoulder'd on towards that brightening east.\nAt every onward step proud domes arose\nIn prospect,--diamond gleams, and golden glows\nOf amber 'gainst their faces levelling.\nJoyous, and many as the leaves in spring,\nStill onward; still the splendour gradual swell'd.\nRich opal domes were seen, on high upheld\nBy jasper pillars, letting through their shafts\nA blush of coral. Copious wonder-draughts\nEach gazer drank; and deeper drank more near:\nFor what poor mortals fragment up, as mere\nAs marble was there lavish, to the vast\nOf one fair palace, that far far surpass'd,\nEven for common bulk, those olden three,\nMemphis, and Babylon, and Nineveh.\n\n  As large, as bright, as colour'd as the bow\nOf Iris, when unfading it doth shew\nBeyond a silvery shower, was the arch\nThrough which this Paphian army took its march,\nInto the outer courts of Neptune's state:\nWhence could be seen, direct, a golden gate,\nTo which the leaders sped; but not half raught\nEre it burst open swift as fairy thought,\nAnd made those dazzled thousands veil their eyes\nLike callow eagles at the first sunrise.\nSoon with an eagle nativeness their gaze\nRipe from hue-golden swoons took all the blaze,\nAnd then, behold! large Neptune on his throne\nOf emerald deep: yet not exalt alone;\nAt his right hand stood winged Love, and on\nHis left sat smiling Beauty's paragon.\n\n  Far as the mariner on highest mast\nCan see all round upon the calmed vast,\nSo wide was Neptune's hall: and as the blue\nDoth vault the waters, so the waters drew\nTheir doming curtains, high, magnificent,\nAw'd from the throne aloof;--and when storm-rent\nDisclos'd the thunder-gloomings in Jove's air;\nBut sooth'd as now, flash'd sudden everywhere,\nNoiseless, sub-marine cloudlets, glittering\nDeath to a human eye: for there did spring\nFrom natural west, and east, and south, and north,\nA light as of four sunsets, blazing forth\nA gold-green zenith 'bove the Sea-God's head.\nOf lucid depth the floor, and far outspread\nAs breezeless lake, on which the slim canoe\nOf feather'd Indian darts about, as through\nThe delicatest air: air verily,\nBut for the portraiture of clouds and sky:\nThis palace floor breath-air,--but for the amaze\nOf deep-seen wonders motionless,--and blaze\nOf the dome pomp, reflected in extremes,\nGlobing a golden sphere.\n\n                          They stood in dreams\nTill Triton blew his horn. The palace rang;\nThe Nereids danc'd; the Syrens faintly sang;\nAnd the great Sea-King bow'd his dripping head.\nThen Love took wing, and from his pinions shed\nOn all the multitude a nectarous dew.\nThe ooze-born Goddess beckoned and drew\nFair Scylla and her guides to conference;\nAnd when they reach'd the throned eminence\nShe kist the sea-nymph's cheek,--who sat her down\nA toying with the doves. Then,--\"Mighty crown\nAnd sceptre of this kingdom!\" Venus said,\n\"Thy vows were on a time to Nais paid:\nBehold!\"--Two copious tear-drops instant fell\nFrom the God's large eyes; he smil'd delectable,\nAnd over Glaucus held his blessing hands.--\n\"Endymion! Ah! still wandering in the bands\nOf love? Now this is cruel. Since the hour\nI met thee in earth's bosom, all my power\nHave I put forth to serve thee. What, not yet\nEscap'd from dull mortality's harsh net?\nA little patience, youth! 'twill not be long,\nOr I am skilless quite: an idle tongue,\nA humid eye, and steps luxurious,\nWhere these are new and strange, are ominous.\nAye, I have seen these signs in one of heaven,\nWhen others were all blind; and were I given\nTo utter secrets, haply I might say\nSome pleasant words:--but Love will have his day.\nSo wait awhile expectant. Pr'ythee soon,\nEven in the passing of thine honey-moon,\nVisit my Cytherea: thou wilt find\nCupid well-natured, my Adonis kind;\nAnd pray persuade with thee--Ah, I have done,\nAll blisses be upon thee, my sweet son!\"--\nThus the fair goddess: while Endymion\nKnelt to receive those accents halcyon.\n\n  Meantime a glorious revelry began\nBefore the Water-Monarch. Nectar ran\nIn courteous fountains to all cups outreach'd;\nAnd plunder'd vines, teeming exhaustless, pleach'd\nNew growth about each shell and pendent lyre;\nThe which, in disentangling for their fire,\nPull'd down fresh foliage and coverture\nFor dainty toying. Cupid, empire-sure,\nFlutter'd and laugh'd, and oft-times through the throng\nMade a delighted way. Then dance, and song,\nAnd garlanding grew wild; and pleasure reign'd.\nIn harmless tendril they each other chain'd,\nAnd strove who should be smother'd deepest in\nFresh crush of leaves.\n\n                          O 'tis a very sin\nFor one so weak to venture his poor verse\nIn such a place as this. O do not curse,\nHigh Muses! let him hurry to the ending.\n\n  All suddenly were silent. A soft blending\nOf dulcet instruments came charmingly;\nAnd then a hymn.\n\n                    \"KING of the stormy sea!\nBrother of Jove, and co-inheritor\nOf elements! Eternally before\nThee the waves awful bow. Fast, stubborn rock,\nAt thy fear'd trident shrinking, doth unlock\nIts deep foundations, hissing into foam.\nAll mountain-rivers lost, in the wide home\nOf thy capacious bosom ever flow.\nThou frownest, and old Eolus thy foe\nSkulks to his cavern, 'mid the gruff complaint\nOf all his rebel tempests. Dark clouds faint\nWhen, from thy diadem, a silver gleam\nSlants over blue dominion. Thy bright team\nGulphs in the morning light, and scuds along\nTo bring thee nearer to that golden song\nApollo singeth, while his chariot\nWaits at the doors of heaven. Thou art not\nFor scenes like this: an empire stern hast thou;\nAnd it hath furrow'd that large front: yet now,\nAs newly come of heaven, dost thou sit\nTo blend and interknit\nSubdued majesty with this glad time.\nO shell-borne King sublime!\nWe lay our hearts before thee evermore--\nWe sing, and we adore!\n\n  \"Breathe softly, flutes;\nBe tender of your strings, ye soothing lutes;\nNor be the trumpet heard! O vain, O vain;\nNot flowers budding in an April rain,\nNor breath of sleeping dove, nor river's flow,--\nNo, nor the Eolian twang of Love's own bow,\nCan mingle music fit for the soft ear\nOf goddess Cytherea!\nYet deign, white Queen of Beauty, thy fair eyes\nOn our souls' sacrifice.\n\n  \"Bright-winged Child!\nWho has another care when thou hast smil'd?\nUnfortunates on earth, we see at last\nAll death-shadows, and glooms that overcast\nOur spirits, fann'd away by thy light pinions.\nO sweetest essence! sweetest of all minions!\nGod of warm pulses, and dishevell'd hair,\nAnd panting bosoms bare!\nDear unseen light in darkness! eclipser\nOf light in light! delicious poisoner!\nThy venom'd goblet will we quaff until\nWe fill--we fill!\nAnd by thy Mother's lips----\"\n\n\n                         Was heard no more\nFor clamour, when the golden palace door\nOpened again, and from without, in shone\nA new magnificence. On oozy throne\nSmooth-moving came Oceanus the old,\nTo take a latest glimpse at his sheep-fold,\nBefore he went into his quiet cave\nTo muse for ever--Then a lucid wave,\nScoop'd from its trembling sisters of mid-sea,\nAfloat, and pillowing up the majesty\nOf Doris, and the Egean seer, her spouse--\nNext, on a dolphin, clad in laurel boughs,\nTheban Amphion leaning on his lute:\nHis fingers went across it--All were mute\nTo gaze on Amphitrite, queen of pearls,\nAnd Thetis pearly too.--\n\n                           The palace whirls\nAround giddy Endymion; seeing he\nWas there far strayed from mortality.\nHe could not bear it--shut his eyes in vain;\nImagination gave a dizzier pain.\n\"O I shall die! sweet Venus, be my stay!\nWhere is my lovely mistress? Well-away!\nI die--I hear her voice--I feel my wing--\"\nAt Neptune's feet he sank. A sudden ring\nOf Nereids were about him, in kind strife\nTo usher back his spirit into life:\nBut still he slept. At last they interwove\nTheir cradling arms, and purpos'd to convey\nTowards a crystal bower far away.\n\n  Lo! while slow carried through the pitying crowd,\nTo his inward senses these words spake aloud;\nWritten in star-light on the dark above:\nDearest Endymion! my entire love!\nHow have I dwelt in fear of fate: 'tis done--\nImmortal bliss for me too hast thou won.\nArise then! for the hen-dove shall not hatch\nHer ready eggs, before I'll kissing snatch\nThee into endless heaven. Awake! awake!\n\n  The youth at once arose: a placid lake\nCame quiet to his eyes; and forest green,\nCooler than all the wonders he had seen,\nLull'd with its simple song his fluttering breast.\nHow happy once again in grassy nest!",
+      "source": {
+        "name": "John Keats · PoetryDB",
+        "url": "https://poetrydb.org/title/Endymion%3A%20Book%20III",
+        "trustTier": "community",
+        "author": "John Keats"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:24:54.001Z",
+      "hash": "3e271a16af83a831"
+    },
+    {
+      "id": "poetry:f0f88b7f1d18af01",
+      "type": "poem",
+      "title": "Alastor: Or, the Spirit of Solitude",
+      "summary": "'The good die first,\nAnd those whose hearts are dry as summer dust,\nBurn to the socket!'\nEarth, Ocean, Air, beloved brotherhood!",
+      "body": "'The good die first,\nAnd those whose hearts are dry as summer dust,\nBurn to the socket!'\n\nEarth, Ocean, Air, beloved brotherhood!\nIf our great Mother has imbued my soul\nWith aught of natural piety to feel\nYour love, and recompense the boon with mine;\nIf dewy morn, and odorous noon, and even,\nWith sunset and its gorgeous ministers,\nAnd solemn midnight's tingling silentness;\nIf autumn's hollow sighs in the sere wood,\nAnd winter robing with pure snow and crowns\nOf starry ice the grey grass and bare boughs;\nIf spring's voluptuous pantings when she breathes\nHer first sweet kisses, have been dear to me;\nIf no bright bird, insect, or gentle beast\nI consciously have injured, but still loved\nAnd cherished these my kindred; then forgive\nThis boast, beloved brethren, and withdraw\nNo portion of your wonted favour now!\n\nMother of this unfathomable world!\nFavour my solemn song, for I have loved\nThee ever, and thee only; I have watched\nThy shadow, and the darkness of thy steps,\nAnd my heart ever gazes on the depth\nOf thy deep mysteries. I have made my bed\nIn charnels and on coffins, where black death\nKeeps record of the trophies won from thee,\nHoping to still these obstinate questionings\nOf thee and thine, by forcing some lone ghost,\nThy messenger, to render up the tale\nOf what we are. In lone and silent hours,\nWhen night makes a weird sound of its own stillness,\nLike an inspired and desperate alchymist\nStaking his very life on some dark hope,\nHave I mixed awful talk and asking looks\nWith my most innocent love, until strange tears,\nUniting with those breathless kisses, made\nSuch magic as compels the charmed night\nTo render up thy charge:...and, though ne'er yet\nThou hast unveiled thy inmost sanctuary,\nEnough from incommunicable dream,\nAnd twilight phantasms, and deep noon-day thought,\nHas shone within me, that serenely now\nAnd moveless, as a long-forgotten lyre\nSuspended in the solitary dome\nOf some mysterious and deserted fane,\nI wait thy breath, Great Parent, that my strain\nMay modulate with murmurs of the air,\nAnd motions of the forests and the sea,\nAnd voice of living beings, and woven hymns\nOf night and day, and the deep heart of man.\n\nThere was a Poet whose untimely tomb\nNo human hands with pious reverence reared,\nBut the charmed eddies of autumnal winds\nBuilt o'er his mouldering bones a pyramid\nOf mouldering leaves in the waste wilderness:--\nA lovely youth,--no mourning maiden decked\nWith weeping flowers, or votive cypress wreath,\nThe lone couch of his everlasting sleep:--\nGentle, and brave, and generous,--no lorn bard\nBreathed o'er his dark fate one melodious sigh:\nHe lived, he died, he sung in solitude.\nStrangers have wept to hear his passionate notes,\nAnd virgins, as unknown he passed, have pined\nAnd wasted for fond love of his wild eyes.\nThe fire of those soft orbs has ceased to burn,\nAnd Silence, too enamoured of that voice,\nLocks its mute music in her rugged cell.\n\nBy solemn vision, and bright silver dream\nHis infancy was nurtured. Every sight\nAnd sound from the vast earth and ambient air,\nSent to his heart its choicest impulses.\nThe fountains of divine philosophy\nFled not his thirsting lips, and all of great,\nOr good, or lovely, which the sacred past\nIn truth or fable consecrates, he felt\nAnd knew. When early youth had passed, he left\nHis cold fireside and alienated home\nTo seek strange truths in undiscovered lands.\nMany a wide waste and tangled wilderness\nHas lured his fearless steps; and he has bought\nWith his sweet voice and eyes, from savage men,\nHis rest and food. Nature's most secret steps\nHe like her shadow has pursued, where'er\nThe red volcano overcanopies\nIts fields of snow and pinnacles of ice\nWith burning smoke, or where bitumen lakes\nOn black bare pointed islets ever beat\nWith sluggish surge, or where the secret caves,\nRugged and dark, winding among the springs\nOf fire and poison, inaccessible\nTo avarice or pride, their starry domes\nOf diamond and of gold expand above\nNumberless and immeasurable halls,\nFrequent with crystal column, and clear shrines\nOf pearl, and thrones radiant with chrysolite.\nNor had that scene of ampler majesty\nThan gems or gold, the varying roof of heaven\nAnd the green earth lost in his heart its claims\nTo love and wonder; he would linger long\nIn lonesome vales, making the wild his home,\nUntil the doves and squirrels would partake\nFrom his innocuous hand his bloodless food,\nLured by the gentle meaning of his looks,\nAnd the wild antelope, that starts whene'er\nThe dry leaf rustles in the brake, suspend\nHer timid steps, to gaze upon a form\nMore graceful than her own.\nHis wandering step,\nObedient to high thoughts, has visited\nThe awful ruins of the days of old:\nAthens, and Tyre, and Balbec, and the waste\nWhere stood Jerusalem, the fallen towers\nOf Babylon, the eternal pyramids,\nMemphis and Thebes, and whatsoe'er of strange,\nSculptured on alabaster obelisk,\nOr jasper tomb, or mutilated sphynx,\nDark Aethiopia in her desert hills\nConceals. Among the ruined temples there,\nStupendous columns, and wild images\nOf more than man, where marble daemons watch\nThe Zodiac's brazen mystery, and dead men\nHang their mute thoughts on the mute walls around,\nHe lingered, poring on memorials\nOf the world's youth: through the long burning day\nGazed on those speechless shapes; nor, when the moon\nFilled the mysterious halls with floating shades\nSuspended he that task, but ever gazed\nAnd gazed, till meaning on his vacant mind\nFlashed like strong inspiration, and he saw\nThe thrilling secrets of the birth of time.\n\nMeanwhile an Arab maiden brought his food,\nHer daily portion, from her father's tent,\nAnd spread her matting for his couch, and stole\nFrom duties and repose to tend his steps,\nEnamoured, yet not daring for deep awe\nTo speak her love:--and watched his nightly sleep,\nSleepless herself, to gaze upon his lips\nParted in slumber, whence the regular breath\nOf innocent dreams arose; then, when red morn\nMade paler the pale moon, to her cold home\nWildered, and wan, and panting, she returned.\n\nThe Poet, wandering on, through Arabie,\nAnd Persia, and the wild Carmanian waste,\nAnd o'er the aerial mountains which pour down\nIndus and Oxus from their icy caves,\nIn joy and exultation held his way;\nTill in the vale of Cashmire, far within\nIts loneliest dell, where odorous plants entwine\nBeneath the hollow rocks a natural bower,\nBeside a sparkling rivulet he stretched\nHis languid limbs. A vision on his sleep\nThere came, a dream of hopes that never yet\nHad flushed his cheek. He dreamed a veiled maid\nSate near him, talking in low solemn tones.\nHer voice was like the voice of his own soul\nHeard in the calm of thought; its music long,\nLike woven sounds of streams and breezes, held\nHis inmost sense suspended in its web\nOf many-coloured woof and shifting hues.\nKnowledge and truth and virtue were her theme,\nAnd lofty hopes of divine liberty,\nThoughts the most dear to him, and poesy,\nHerself a poet. Soon the solemn mood\nOf her pure mind kindled through all her frame\nA permeating fire; wild numbers then\nShe raised, with voice stifled in tremulous sobs\nSubdued by its own pathos; her fair hands\nWere bare alone, sweeping from some strange harp\nStrange symphony, and in their branching veins\nThe eloquent blood told an ineffable tale.\nThe beating of her heart was heard to fill\nThe pauses of her music, and her breath\nTumultuously accorded with those fits\nOf intermitted song. Sudden she rose,\nAs if her heart impatiently endured\nIts bursting burthen: at the sound he turned,\nAnd saw by the warm light of their own life\nHer glowing limbs beneath the sinuous veil\nOf woven wind, her outspread arms now bare,\nHer dark locks floating in the breath of night,\nHer beamy bending eyes, her parted lips\nOutstretched, and pale, and quivering eagerly.\nHis strong heart sunk and sickened with excess\nOf love. He reared his shuddering limbs and quelled\nHis gasping breath, and spread his arms to meet\nHer panting bosom:...she drew back a while,\nThen, yielding to the irresistible joy,\nWith frantic gesture and short breathless cry\nFolded his frame in her dissolving arms.\nNow blackness veiled his dizzy eyes, and night\nInvolved and swallowed up the vision; sleep,\nLike a dark flood suspended in its course,\nRolled back its impulse on his vacant brain.\n\nRoused by the shock he started from his trance--\nThe cold white light of morning, the blue moon\nLow in the west, the clear and garish hills,\nThe distinct valley and the vacant woods,\nSpread round him where he stood. Whither have fled\nThe hues of heaven that canopied his bower\nOf yesternight? The sounds that soothed his sleep,\nThe mystery and the majesty of Earth,\nThe joy, the exultation? His wan eyes\nGaze on the empty scene as vacantly\nAs ocean's moon looks on the moon in heaven.\nThe spirit of sweet human love has sent\nA vision to the sleep of him who spurned\nHer choicest gifts. He eagerly pursues\nBeyond the realms of dream that fleeting shade;\nHe overleaps the bounds. Alas! Alas!\nWere limbs, and breath, and being intertwined\nThus treacherously? Lost, lost, for ever lost\nIn the wide pathless desert of dim sleep,\nThat beautiful shape! Does the dark gate of death\nConduct to thy mysterious paradise,\nO Sleep? Does the bright arch of rainbow clouds\nAnd pendent mountains seen in the calm lake,\nLead only to a black and watery depth,\nWhile death's blue vault, with loathliest vapours hung,\nWhere every shade which the foul grave exhales\nHides its dead eye from the detested day,\nConducts, O Sleep, to thy delightful realms?\nThis doubt with sudden tide flowed on his heart;\nThe insatiate hope which it awakened, stung\nHis brain even like despair.\nWhile daylight held\nThe sky, the Poet kept mute conference\nWith his still soul. At night the passion came,\nLike the fierce fiend of a distempered dream,\nAnd shook him from his rest, and led him forth\nInto the darkness.--As an eagle, grasped\nIn folds of the green serpent, feels her breast\nBurn with the poison, and precipitates\nThrough night and day, tempest, and calm, and cloud,\nFrantic with dizzying anguish, her blind flight\nO'er the wide aery wilderness: thus driven\nBy the bright shadow of that lovely dream,\nBeneath the cold glare of the desolate night,\nThrough tangled swamps and deep precipitous dells,\nStartling with careless step the moonlight snake,\nHe fled. Red morning dawned upon his flight,\nShedding the mockery of its vital hues\nUpon his cheek of death. He wandered on\nTill vast Aornos seen from Petra's steep\nHung o'er the low horizon like a cloud;\nThrough Balk, and where the desolated tombs\nOf Parthian kings scatter to every wind\nTheir wasting dust, wildly he wandered on,\nDay after day a weary waste of hours,\nBearing within his life the brooding care\nThat ever fed on its decaying flame.\nAnd now his limbs were lean; his scattered hair,\nSered by the autumn of strange suffering\nSung dirges in the wind; his listless hand\nHung like dead bone within its withered skin;\nLife, and the lustre that consumed it, shone\nAs in a furnace burning secretly\nFrom his dark eyes alone. The cottagers,\nWho ministered with human charity\nHis human wants, beheld with wondering awe\nTheir fleeting visitant. The mountaineer,\nEncountering on some dizzy precipice\nThat spectral form, deemed that the Spirit of wind\nWith lightning eyes, and eager breath, and feet\nDisturbing not the drifted snow, had paused\nIn its career: the infant would conceal\nHis troubled visage in his mother's robe\nIn terror at the glare of those wild eyes,\nTo remember their strange light in many a dream\nOf after-times; but youthful maidens, taught\nBy nature, would interpret half the woe\nThat wasted him, would call him with false names\nBrother and friend, would press his pallid hand\nAt parting, and watch, dim through tears, the path\nOf his departure from their father's door.\n\nAt length upon the lone Chorasmian shore\nHe paused, a wide and melancholy waste\nOf putrid marshes. A strong impulse urged\nHis steps to the sea-shore. A swan was there,\nBeside a sluggish stream among the reeds.\nIt rose as he approached, and, with strong wings\nScaling the upward sky, bent its bright course\nHigh over the immeasurable main.\nHis eyes pursued its flight:--'Thou hast a home,\nBeautiful bird; thou voyagest to thine home,\nWhere thy sweet mate will twine her downy neck\nWith thine, and welcome thy return with eyes\nBright in the lustre of their own fond joy.\nAnd what am I that I should linger here,\nWith voice far sweeter than thy dying notes,\nSpirit more vast than thine, frame more attuned\nTo beauty, wasting these surpassing powers\nIn the deaf air, to the blind earth, and heaven\nThat echoes not my thoughts?' A gloomy smile\nOf desperate hope wrinkled his quivering lips.\nFor sleep, he knew, kept most relentlessly\nIts precious charge, and silent death exposed,\nFaithless perhaps as sleep, a shadowy lure,\nWith doubtful smile mocking its own strange charms.\n\nStartled by his own thoughts he looked around.\nThere was no fair fiend near him, not a sight\nOr sound of awe but in his own deep mind.\nA little shallop floating near the shore\nCaught the impatient wandering of his gaze.\nIt had been long abandoned, for its sides\nGaped wide with many a rift, and its frail joints\nSwayed with the undulations of the tide.\nA restless impulse urged him to embark\nAnd meet lone Death on the drear ocean's waste;\nFor well he knew that mighty Shadow loves\nThe slimy caverns of the populous deep.\n\nThe day was fair and sunny; sea and sky\nDrank its inspiring radiance, and the wind\nSwept strongly from the shore, blackening the waves.\nFollowing his eager soul, the wanderer\nLeaped in the boat, he spread his cloak aloft\nOn the bare mast, and took his lonely seat,\nAnd felt the boat speed o'er the tranquil sea\nLike a torn cloud before the hurricane.\n\nAs one that in a silver vision floats\nObedient to the sweep of odorous winds\nUpon resplendent clouds, so rapidly\nAlong the dark and ruffled waters fled\nThe straining boat.--A whirlwind swept it on,\nWith fierce gusts and precipitating force,\nThrough the white ridges of the chafed sea.\nThe waves arose. Higher and higher still\nTheir fierce necks writhed beneath the tempest's scourge\nLike serpents struggling in a vulture's grasp.\nCalm and rejoicing in the fearful war\nOf wave ruining on wave, and blast on blast\nDescending, and black flood on whirlpool driven\nWith dark obliterating course, he sate:\nAs if their genii were the ministers\nAppointed to conduct him to the light\nOf those beloved eyes, the Poet sate,\nHolding the steady helm. Evening came on,\nThe beams of sunset hung their rainbow hues\nHigh 'mid the shifting domes of sheeted spray\nThat canopied his path o'er the waste deep;\nTwilight, ascending slowly from the east,\nEntwined in duskier wreaths her braided locks\nO'er the fair front and radiant eyes of day;\nNight followed, clad with stars. On every side\nMore horribly the multitudinous streams\nOf ocean's mountainous waste to mutual war\nRushed in dark tumult thundering, as to mock\nThe calm and spangled sky. The little boat\nStill fled before the storm; still fled, like foam\nDown the steep cataract of a wintry river;\nNow pausing on the edge of the riven wave;\nNow leaving far behind the bursting mass\nThat fell, convulsing ocean: safely fled--\nAs if that frail and wasted human form,\nHad been an elemental god.\n\nAt midnight\nThe moon arose; and lo! the ethereal cliffs\nOf Caucasus, whose icy summits shone\nAmong the stars like sunlight, and around\nWhose caverned base the whirlpools and the waves\nBursting and eddying irresistibly\nRage and resound forever.--Who shall save?--\nThe boat fled on,--the boiling torrent drove,--\nThe crags closed round with black and jagged arms,\nThe shattered mountain overhung the sea,\nAnd faster still, beyond all human speed,\nSuspended on the sweep of the smooth wave,\nThe little boat was driven. A cavern there\nYawned, and amid its slant and winding depths\nIngulfed the rushing sea. The boat fled on\nWith unrelaxing speed.--'Vision and Love!'\nThe Poet cried aloud, 'I have beheld\nThe path of thy departure. Sleep and death\nShall not divide us long.'\n\nThe boat pursued\nThe windings of the cavern. Daylight shone\nAt length upon that gloomy river's flow;\nNow, where the fiercest war among the waves\nIs calm, on the unfathomable stream\nThe boat moved slowly. Where the mountain, riven,\nExposed those black depths to the azure sky,\nEre yet the flood's enormous volume fell\nEven to the base of Caucasus, with sound\nThat shook the everlasting rocks, the mass\nFilled with one whirlpool all that ample chasm:\nStair above stair the eddying waters rose,\nCircling immeasurably fast, and laved\nWith alternating dash the gnarled roots\nOf mighty trees, that stretched their giant arms\nIn darkness over it. I' the midst was left,\nReflecting, yet distorting every cloud,\nA pool of treacherous and tremendous calm.\nSeized by the sway of the ascending stream,\nWith dizzy swiftness, round, and round, and round,\nRidge after ridge the straining boat arose,\nTill on the verge of the extremest curve,\nWhere, through an opening of the rocky bank,\nThe waters overflow, and a smooth spot\nOf glassy quiet mid those battling tides\nIs left, the boat paused shuddering.--Shall it sink\nDown the abyss? Shall the reverting stress\nOf that resistless gulf embosom it?\nNow shall it fall?--A wandering stream of wind,\nBreathed from the west, has caught the expanded sail,\nAnd, lo! with gentle motion, between banks\nOf mossy slope, and on a placid stream,\nBeneath a woven grove it sails, and, hark!\nThe ghastly torrent mingles its far roar,\nWith the breeze murmuring in the musical woods.\nWhere the embowering trees recede, and leave\nA little space of green expanse, the cove\nIs closed by meeting banks, whose yellow flowers\nFor ever gaze on their own drooping eyes,\nReflected in the crystal calm. The wave\nOf the boat's motion marred their pensive task,\nWhich naught but vagrant bird, or wanton wind,\nOr falling spear-grass, or their own decay\nHad e'er disturbed before. The Poet longed\nTo deck with their bright hues his withered hair,\nBut on his heart its solitude returned,\nAnd he forbore. Not the strong impulse hid\nIn those flushed cheeks, bent eyes, and shadowy frame\nHad yet performed its ministry: it hung\nUpon his life, as lightning in a cloud\nGleams, hovering ere it vanish, ere the floods\nOf night close over it.\nThe noonday sun\nNow shone upon the forest, one vast mass\nOf mingling shade, whose brown magnificence\nA narrow vale embosoms. There, huge caves,\nScooped in the dark base of their aery rocks,\nMocking its moans, respond and roar for ever.\nThe meeting boughs and implicated leaves\nWove twilight o'er the Poet's path, as led\nBy love, or dream, or god, or mightier Death,\nHe sought in Nature's dearest haunt some bank,\nHer cradle, and his sepulchre. More dark\nAnd dark the shades accumulate. The oak,\nExpanding its immense and knotty arms,\nEmbraces the light beech. The pyramids\nOf the tall cedar overarching frame\nMost solemn domes within, and far below,\nLike clouds suspended in an emerald sky,\nThe ash and the acacia floating hang\nTremulous and pale. Like restless serpents, clothed\nIn rainbow and in fire, the parasites,\nStarred with ten thousand blossoms, flow around\nThe grey trunks, and, as gamesome infants' eyes,\nWith gentle meanings, and most innocent wiles,\nFold their beams round the hearts of those that love,\nThese twine their tendrils with the wedded boughs\nUniting their close union; the woven leaves\nMake net-work of the dark blue light of day,\nAnd the night's noontide clearness, mutable\nAs shapes in the weird clouds. Soft mossy lawns\nBeneath these canopies extend their swells,\nFragrant with perfumed herbs, and eyed with blooms\nMinute yet beautiful. One darkest glen\nSends from its woods of musk-rose, twined with jasmine,\nA soul-dissolving odour to invite\nTo some more lovely mystery. Through the dell,\nSilence and Twilight here, twin-sisters, keep\nTheir noonday watch, and sail among the shades,\nLike vaporous shapes half-seen; beyond, a well,\nDark, gleaming, and of most translucent wave,\nImages all the woven boughs above,\nAnd each depending leaf, and every speck\nOf azure sky, darting between their chasms;\nNor aught else in the liquid mirror laves\nIts portraiture, but some inconstant star\nBetween one foliaged lattice twinkling fair,\nOr painted bird, sleeping beneath the moon,\nOr gorgeous insect floating motionless,\nUnconscious of the day, ere yet his wings\nHave spread their glories to the gaze of noon.\n\nHither the Poet came. His eyes beheld\nTheir own wan light through the reflected lines\nOf his thin hair, distinct in the dark depth\nOf that still fountain; as the human heart,\nGazing in dreams over the gloomy grave,\nSees its own treacherous likeness there. He heard\nThe motion of the leaves, the grass that sprung\nStartled and glanced and trembled even to feel\nAn unaccustomed presence, and the sound\nOf the sweet brook that from the secret springs\nOf that dark fountain rose. A Spirit seemed\nTo stand beside him--clothed in no bright robes\nOf shadowy silver or enshrining light,\nBorrowed from aught the visible world affords\nOf grace, or majesty, or mystery;--\nBut, undulating woods, and silent well,\nAnd leaping rivulet, and evening gloom\nNow deepening the dark shades, for speech assuming,\nHeld commune with him, as if he and it\nWere all that was,--only...when his regard\nWas raised by intense pensiveness,...two eyes,\nTwo starry eyes, hung in the gloom of thought,\nAnd seemed with their serene and azure smiles\nTo beckon him.\n\nObedient to the light\nThat shone within his soul, he went, pursuing\nThe windings of the dell.--The rivulet,\nWanton and wild, through many a green ravine\nBeneath the forest flowed. Sometimes it fell\nAmong the moss with hollow harmony\nDark and profound. Now on the polished stones\nIt danced; like childhood laughing as it went:\nThen, through the plain in tranquil wanderings crept,\nReflecting every herb and drooping bud\nThat overhung its quietness.--'O stream!\nWhose source is inaccessibly profound,\nWhither do thy mysterious waters tend?\nThou imagest my life. Thy darksome stillness,\nThy dazzling waves, thy loud and hollow gulfs,\nThy searchless fountain, and invisible course\nHave each their type in me; and the wide sky.\nAnd measureless ocean may declare as soon\nWhat oozy cavern or what wandering cloud\nContains thy waters, as the universe\nTell where these living thoughts reside, when stretched\nUpon thy flowers my bloodless limbs shall waste\nI' the passing wind!'\n\nBeside the grassy shore\nOf the small stream he went; he did impress\nOn the green moss his tremulous step, that caught\nStrong shuddering from his burning limbs. As one\nRoused by some joyous madness from the couch\nOf fever, he did move; yet, not like him,\nForgetful of the grave, where, when the flame\nOf his frail exultation shall be spent,\nHe must descend. With rapid steps he went\nBeneath the shade of trees, beside the flow\nOf the wild babbling rivulet; and now\nThe forest's solemn canopies were changed\nFor the uniform and lightsome evening sky.\nGrey rocks did peep from the spare moss, and stemmed\nThe struggling brook; tall spires of windlestrae\nThrew their thin shadows down the rugged slope,\nAnd nought but gnarled roots of ancient pines\nBranchless and blasted, clenched with grasping roots\nThe unwilling soil. A gradual change was here,\nYet ghastly. For, as fast years flow away,\nThe smooth brow gathers, and the hair grows thin\nAnd white, and where irradiate dewy eyes\nHad shone, gleam stony orbs:--so from his steps\nBright flowers departed, and the beautiful shade\nOf the green groves, with all their odorous winds\nAnd musical motions. Calm, he still pursued\nThe stream, that with a larger volume now\nRolled through the labyrinthine dell; and there\nFretted a path through its descending curves\nWith its wintry speed. On every side now rose\nRocks, which, in unimaginable forms,\nLifted their black and barren pinnacles\nIn the light of evening, and its precipice\nObscuring the ravine, disclosed above,\nMid toppling stones, black gulfs and yawning caves,\nWhose windings gave ten thousand various tongues\nTo the loud stream. Lo! where the pass expands\nIts stony jaws, the abrupt mountain breaks,\nAnd seems, with its accumulated crags,\nTo overhang the world: for wide expand\nBeneath the wan stars and descending moon\nIslanded seas, blue mountains, mighty streams,\nDim tracts and vast, robed in the lustrous gloom\nOf leaden-coloured even, and fiery hills\nMingling their flames with twilight, on the verge\nOf the remote horizon. The near scene,\nIn naked and severe simplicity,\nMade contrast with the universe. A pine,\nRock-rooted, stretched athwart the vacancy\nIts swinging boughs, to each inconstant blast\nYielding one only response, at each pause\nIn most familiar cadence, with the howl\nThe thunder and the hiss of homeless streams\nMingling its solemn song, whilst the broad river\nFoaming and hurrying o'er its rugged path,\nFell into that immeasurable void\nScattering its waters to the passing winds.\n\nYet the grey precipice and solemn pine\nAnd torrent were not all;--one silent nook\nWas there. Even on the edge of that vast mountain,\nUpheld by knotty roots and fallen rocks,\nIt overlooked in its serenity\nThe dark earth, and the bending vault of stars.\nIt was a tranquil spot, that seemed to smile\nEven in the lap of horror. Ivy clasped\nThe fissured stones with its entwining arms,\nAnd did embower with leaves for ever green,\nAnd berries dark, the smooth and even space\nOf its inviolated floor, and here\nThe children of the autumnal whirlwind bore,\nIn wanton sport, those bright leaves, whose decay,\nRed, yellow, or ethereally pale,\nRivals the pride of summer. 'Tis the haunt\nOf every gentle wind, whose breath can teach\nThe wilds to love tranquillity. One step,\nOne human step alone, has ever broken\nThe stillness of its solitude:--one voice\nAlone inspired its echoes;--even that voice\nWhich hither came, floating among the winds,\nAnd led the loveliest among human forms\nTo make their wild haunts the depository\nOf all the grace and beauty that endued\nIts motions, render up its majesty,\nScatter its music on the unfeeling storm,\nAnd to the damp leaves and blue cavern mould,\nNurses of rainbow flowers and branching moss,\nCommit the colours of that varying cheek,\nThat snowy breast, those dark and drooping eyes.\n\nThe dim and horned moon hung low, and poured\nA sea of lustre on the horizon's verge\nThat overflowed its mountains. Yellow mist\nFilled the unbounded atmosphere, and drank\nWan moonlight even to fulness; not a star\nShone, not a sound was heard; the very winds,\nDanger's grim playmates, on that precipice\nSlept, clasped in his embrace.--O, storm of death!\nWhose sightless speed divides this sullen night: 610\nAnd thou, colossal Skeleton, that, still\nGuiding its irresistible career\nIn thy devastating omnipotence,\nArt king of this frail world, from the red field\nOf slaughter, from the reeking hospital,\nThe patriot's sacred couch, the snowy bed\nOf innocence, the scaffold and the throne,\nA mighty voice invokes thee. Ruin calls\nHis brother Death. A rare and regal prey\nHe hath prepared, prowling around the world;\nGlutted with which thou mayst repose, and men\nGo to their graves like flowers or creeping worms,\nNor ever more offer at thy dark shrine\nThe unheeded tribute of a broken heart.\n\nWhen on the threshold of the green recess\nThe wanderer's footsteps fell, he knew that death\nWas on him. Yet a little, ere it fled,\nDid he resign his high and holy soul\nTo images of the majestic past,\nThat paused within his passive being now,\nLike winds that bear sweet music, when they breathe\nThrough some dim latticed chamber. He did place\nHis pale lean hand upon the rugged trunk\nOf the old pine. Upon an ivied stone\nReclined his languid head, his limbs did rest,\nDiffused and motionless, on the smooth brink\nOf that obscurest chasm;--and thus he lay,\nSurrendering to their final impulses\nThe hovering powers of life. Hope and despair,\nThe torturers, slept; no mortal pain or fear\nMarred his repose; the influxes of sense,\nAnd his own being unalloyed by pain,\nYet feebler and more feeble, calmly fed\nThe stream of thought, till he lay breathing there\nAt peace, and faintly smiling:--his last sight\nWas the great moon, which o'er the western line\nOf the wide world her mighty horn suspended,\nWith whose dun beams inwoven darkness seemed\nTo mingle. Now upon the jagged hills\nIt rests; and still as the divided frame\nOf the vast meteor sunk, the Poet's blood,\nThat ever beat in mystic sympathy\nWith nature's ebb and flow, grew feebler still:\nAnd when two lessening points of light alone\nGleamed through the darkness, the alternate gasp\nOf his faint respiration scarce did stir\nThe stagnate night:--till the minutest ray\nWas quenched, the pulse yet lingered in his heart.\nIt paused--it fluttered. But when heaven remained\nUtterly black, the murky shades involved\nAn image, silent, cold, and motionless,\nAs their own voiceless earth and vacant air.\nEven as a vapour fed with golden beams\nThat ministered on sunlight, ere the west\nEclipses it, was now that wondrous frame--\nNo sense, no motion, no divinity--\nA fragile lute, on whose harmonious strings\nThe breath of heaven did wander--a bright stream\nOnce fed with many-voiced waves--a dream\nOf youth, which night and time have quenched for ever,\nStill, dark, and dry, and unremembered now.\n\nOh, for Medea's wondrous alchemy,\nWhich wheresoe'er it fell made the earth gleam\nWith bright flowers, and the wintry boughs exhale\nFrom vernal blooms fresh fragrance! O, that God,\nProfuse of poisons, would concede the chalice\nWhich but one living man has drained, who now,\nVessel of deathless wrath, a slave that feels\nNo proud exemption in the blighting curse\nHe bears, over the world wanders for ever,\nLone as incarnate death! O, that the dream\nOf dark magician in his visioned cave,\nRaking the cinders of a crucible\nFor life and power, even when his feeble hand\nShakes in its last decay, were the true law\nOf this so lovely world! But thou art fled,\nLike some frail exhalation; which the dawn\nRobes in its golden beams,--ah! thou hast fled!\nThe brave, the gentle and the beautiful,\nThe child of grace and genius. Heartless things\nAre done and said i' the world, and many worms\nAnd beasts and men live on, and mighty Earth\nFrom sea and mountain, city and wilderness,\nIn vesper low or joyous orison,\nLifts still its solemn voice:--but thou art fled--\nThou canst no longer know or love the shapes\nOf this phantasmal scene, who have to thee\nBeen purest ministers, who are, alas!\nNow thou art not. Upon those pallid lips\nSo sweet even in their silence, on those eyes\nThat image sleep in death, upon that form\nYet safe from the worm's outrage, let no tear\nBe shed--not even in thought. Nor, when those hues\nAre gone, and those divinest lineaments,\nWorn by the senseless wind, shall live alone\nIn the frail pauses of this simple strain,\nLet not high verse, mourning the memory\nOf that which is no more, or painting's woe\nOr sculpture, speak in feeble imagery\nTheir own cold powers. Art and eloquence,\nAnd all the shows o' the world are frail and vain\nTo weep a loss that turns their lights to shade.\nIt is a woe \"too deep for tears,\" when all\nIs reft at once, when some surpassing Spirit,\nWhose light adorned the world around it, leaves\nThose who remain behind, not sobs or groans,\nThe passionate tumult of a clinging hope;\nBut pale despair and cold tranquillity,\nNature's vast frame, the web of human things,\nBirth and the grave, that are not as they were.",
+      "source": {
+        "name": "Percy Bysshe Shelley · PoetryDB",
+        "url": "https://poetrydb.org/title/Alastor%3A%20Or%2C%20the%20Spirit%20of%20Solitude",
+        "trustTier": "community",
+        "author": "Percy Bysshe Shelley"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-14T15:24:54.001Z",
+      "hash": "f0f88b7f1d18af01"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399972036-1",
+      "type": "art",
+      "title": "Bandbox",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1820s · Bandboxes (containers)",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1820s · Bandboxes (containers)",
+      "image": {
+        "src": "data/images/bf049018b4d5a161.jpg",
+        "alt": "Bandbox",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/213704",
+        "trustTier": "encyclopedic",
+        "date": "1820s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "moon",
+        "bandboxes (containers)"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-14T15:24:52.754Z",
+      "hash": "4afbae33a91b02ee"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399894009-1",
+      "type": "art",
+      "title": "Moon Rising over the Porcupine Islands, Bar Harbor, Maine",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1850s · Drawings",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1850s · Drawings",
+      "image": {
+        "src": "data/images/18a2ff9fcea20834.jpg",
+        "alt": "Moon Rising over the Porcupine Islands, Bar Harbor, Maine",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/22428",
+        "trustTier": "encyclopedic",
+        "date": "1850s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "moon",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-14T15:24:52.754Z",
+      "hash": "c0b96d9e96f580d4"
+    },
+    {
+      "id": "met:48815",
+      "type": "art",
+      "title": "Plate with scalloped rim",
+      "summary": "Unknown artist · late 17th–early 18th century · Porcelain painted in underglaze cobalt blue (Jingdezhen ware)",
+      "body": "Unknown artist · late 17th–early 18th century · Porcelain painted in underglaze cobalt blue (Jingdezhen ware)\nH. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929\nAsian Art",
+      "image": {
+        "src": "data/images/5fe34003ebd6436c.jpg",
+        "alt": "Plate with scalloped rim",
+        "credit": "The Met · H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/48815",
+        "trustTier": "encyclopedic",
+        "date": "late 17th–early 18th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "cat",
+        "ceramics"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-14T15:24:51.093Z",
+      "hash": "8874d4457d1ef50c"
+    },
+    {
+      "id": "met:49473",
+      "type": "art",
+      "title": "Tiger Calligraphy",
+      "summary": "Weng Tonghe · dated 1890 · Hanging scroll; ink on silver-flecked red paper",
+      "body": "Weng Tonghe · dated 1890 · Hanging scroll; ink on silver-flecked red paper\nBequest of John M. Crawford Jr., 1988\nAsian Art",
+      "image": {
+        "src": "data/images/e6ca2ff69f1f82f1.jpg",
+        "alt": "Tiger Calligraphy",
+        "credit": "The Met · Bequest of John M. Crawford Jr., 1988"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/49473",
+        "trustTier": "encyclopedic",
+        "author": "Weng Tonghe",
+        "date": "dated 1890"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "cat",
+        "calligraphy"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-14T15:24:51.019Z",
+      "hash": "334a8ccca35e806a"
+    },
+    {
+      "id": "met:74908",
+      "type": "art",
+      "title": "White Tara, Folio from a dispersed Ashtasahasrika Prajnaparamita (Perfection of Wisdom) Manuscript",
+      "summary": "Mahavihara Master · early 12th century · Opaque watercolor on palm leaf",
+      "body": "Mahavihara Master · early 12th century · Opaque watercolor on palm leaf\nPurchase, Lila Acheson Wallace Gift, 2001\nAsian Art",
+      "image": {
+        "src": "data/images/915fdcb35a9247a6.jpg",
+        "alt": "White Tara, Folio from a dispersed Ashtasahasrika Prajnaparamita (Perfection of Wisdom) Manuscript",
+        "credit": "The Met · Purchase, Lila Acheson Wallace Gift, 2001"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/74908",
+        "trustTier": "encyclopedic",
+        "author": "Mahavihara Master",
+        "date": "early 12th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "cat",
+        "paintings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-14T15:24:50.876Z",
+      "hash": "199dd070a346a28e"
+    },
+    {
+      "id": "apod:2025-09-20",
+      "type": "space",
+      "title": "Gibbous vs Crescent",
+      "summary": "rly risers around planet Earth have enjoyed a shining crescent Moon near brilliant Venus, close to the eastern horizon in recent morning twilight skies. And yesterday, on September 19, skygazers watching from some locations in Earth's northern hemisphere were also able to witness Venus, in the inner planet's waxing…",
+      "body": "rly risers around planet Earth have enjoyed a shining crescent Moon near brilliant Venus, close to the eastern horizon in recent morning twilight skies. And yesterday, on September 19, skygazers watching from some locations in Earth's northern hemisphere were also able to witness Venus, in the inner planet's waxing gibbous phase, pass behind the Moon's waning crescent. In fact, this telescopic snapshot was taken moments before that occultation of gibbous Venus by the crescent Moon began. The close-up view of the beautiful celestial alignment records Venus approaching part of the Moon's sunlit edge in clear daytime skies from the Swiss Alps. Tomorrow, the Sun will pass behind a New Moon. But to witness that partial solar eclipse on September 21, skygazers will need to watch from locations in planet Earth's southern hemisphere.",
+      "image": {
+        "src": "data/images/49026346454c2a3a.jpg",
+        "alt": "Gibbous vs Crescent",
+        "credit": "© Luca Bartek"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap250920.html",
+        "trustTier": "encyclopedic",
+        "date": "2025-09-20"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:49.168Z",
+      "hash": "8ff72652280ffeb0"
+    },
+    {
+      "id": "apod:2015-04-24",
+      "type": "space",
+      "title": "Blue Tears and the Milky Way",
+      "summary": "Lapping at rocks along the shore of the Island of Nangan, Taiwan, planet Earth, waves are infused with a subtle blue light in this sea and night skyscape. Composed of a series of long exposures made on April 16 the image captures the faint glow from Noctiluca scintillans. Also known as sea sparkles or blue tears, the…",
+      "body": "Lapping at rocks along the shore of the Island of Nangan, Taiwan, planet Earth, waves are infused with a subtle blue light in this sea and night skyscape. Composed of a series of long exposures made on April 16 the image captures the faint glow from Noctiluca scintillans. Also known as sea sparkles or blue tears, the marine plankton's bioluminescence is stimulated by wave motion. City lights along the coast of mainland China shine beneath low clouds in the west but stars and the faint Milky Way still fill the night above. Over the horizon the galaxy's central bulge and dark rifts seem to echo the rocks and luminous waves.",
+      "image": {
+        "src": "data/images/65d65ec744aa8545.jpg",
+        "alt": "Blue Tears and the Milky Way",
+        "credit": "© Rogelio Bernal Andreo"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap150424.html",
+        "trustTier": "encyclopedic",
+        "date": "2015-04-24"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:49.168Z",
+      "hash": "673d1d6fea3a4078"
+    },
+    {
+      "id": "apod:2016-10-18",
+      "type": "space",
+      "title": "The Antlia Cluster of Galaxies",
+      "summary": "Galaxies dot the sky in this impressively wide and deep image of the Antlia Cluster. The third closest cluster of galaxies to Earth after Virgo and Fornax, the Antlia cluster is known for its compactness and its high fraction of elliptical galaxies over (spirals. Antlia, cataloged as Abell S0636, spans about 2…",
+      "body": "Galaxies dot the sky in this impressively wide and deep image of the Antlia Cluster. The third closest cluster of galaxies to Earth after Virgo and Fornax, the Antlia cluster is known for its compactness and its high fraction of elliptical galaxies over (spirals. Antlia, cataloged as Abell S0636, spans about 2 million light years and lies about 130 million light years away toward the constellation of the Air Pump (Antlia). The cluster has two prominent galaxy groups - bottom center and upper left -- among its over 200 galactic members, but no single central dominant galaxy. The vertical red ribbon of gas on the left is thought related to the foreground Antlia supernova remnant and not associated with the cluster. The featured image composite, taken from New Zealand, resulted from 150+ hours of exposures taken over six months.",
+      "image": {
+        "src": "data/images/8ca3448826a8d6cb.jpg",
+        "alt": "The Antlia Cluster of Galaxies",
+        "credit": "© Rolf Olsen"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap161018.html",
+        "trustTier": "encyclopedic",
+        "date": "2016-10-18"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:49.168Z",
+      "hash": "62ececbbf1906113"
+    },
+    {
+      "id": "apod:2021-09-03",
+      "type": "space",
+      "title": "NGC 7023: The Iris Nebula",
+      "summary": "These cosmic clouds have blossomed 1,300 light-years away, in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula's range of colors and symmetries, embedded in…",
+      "body": "These cosmic clouds have blossomed 1,300 light-years away, in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula's range of colors and symmetries, embedded in surrounding fields of interstellar dust. Within the Iris itself, dusty nebular material surrounds a hot, young star. The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. Central filaments of the reflection nebula glow with a faint reddish photoluminesence as some dust grains effectively convert the star's invisible ultraviolet radiation to visible red light. Infrared observations indicate that this nebula contains complex carbon molecules known as PAHs. The dusty blue petals of the Iris Nebula span about six light-years.",
+      "image": {
+        "src": "data/images/fbd6f06f69cd6b65.png",
+        "alt": "NGC 7023: The Iris Nebula",
+        "credit": "© Satwant Kumar"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap210903.html",
+        "trustTier": "encyclopedic",
+        "date": "2021-09-03"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:49.168Z",
+      "hash": "4239cb095a9ce518"
+    },
+    {
+      "id": "apod:2021-11-06",
+      "type": "space",
+      "title": "The Galaxy Between Two Friends",
+      "summary": "On an August night two friends enjoyed this view after a day's hike on the Plateau d'Emparis in the French Alps. At 2400 meters altitude the sky was clear. Light from a setting moon illuminates the foreground captured in the simple vertical panorama of images. Along the plane of our Milky Way galaxy stars of…",
+      "body": "On an August night two friends enjoyed this view after a day's hike on the Plateau d'Emparis in the French Alps. At 2400 meters altitude the sky was clear. Light from a setting moon illuminates the foreground captured in the simple vertical panorama of images. Along the plane of our Milky Way galaxy stars of Cassiopeia and Perseus shine along the panorama's left edge. But seen as a faint cloud with a brighter core, the Andromeda galaxy, stands directly above the two friends in the night. The nearest large spiral galaxy, Andromeda is about 2.5 million light-years beyond the stars of the Milky Way. Adding to the evening's shared extragalactic perspective, the fainter fuzzy spot in the sky right between them is M33, also known as the Triangulum galaxy. Third largest in the local galaxy group, after Andromeda and Milky Way, the Triangulum galaxy is about 3 million light-years distant. On that night, the two friends stood about 3 light-nanoseconds apart.",
+      "image": {
+        "src": "data/images/1097b673188a9bc8.jpg",
+        "alt": "The Galaxy Between Two Friends",
+        "credit": "© Martin Lefranc"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap211106.html",
+        "trustTier": "encyclopedic",
+        "date": "2021-11-06"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:49.168Z",
+      "hash": "d3ca7d1e2fb3730d"
+    },
+    {
+      "id": "onthisday:06-14:1940:8d0410e7f4433944",
+      "type": "history",
+      "title": "1940: Soviet ultimatum to Lithuania",
+      "summary": "The Soviet Union issued an ultimatum to Lithuania demanding that the Red Army be allowed to enter the country and form a pro-Soviet government.",
+      "body": "The Soviet Union issued an ultimatum to Lithuania demanding that the Red Army be allowed to enter the country and form a pro-Soviet government.",
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Soviet_ultimatum_to_Lithuania",
+        "trustTier": "encyclopedic",
+        "date": "06-14"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:46.186Z",
+      "hash": "e6ba523d8dcfd162",
+      "expires": "2026-06-17T15:24:46.186Z"
+    },
+    {
+      "id": "onthisday:06-14:1944:2f285be969cddce4",
+      "type": "history",
+      "title": "1944: World War II",
+      "summary": "Second World War: The British Army abandoned its attempt to capture the German-occupied city of Caen.",
+      "body": "Second World War: The British Army abandoned its attempt to capture the German-occupied city of Caen.",
+      "image": {
+        "src": "data/images/33a41211a19cafb8.jpg",
+        "alt": "World War II",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/World_War_II",
+        "trustTier": "encyclopedic",
+        "date": "06-14"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:46.185Z",
+      "hash": "058e9e5d9ad0005d",
+      "expires": "2026-06-17T15:24:46.185Z"
+    },
+    {
+      "id": "onthisday:06-14:1934:61528322ae6191b4",
+      "type": "history",
+      "title": "1934: Australian Eastern Mission",
+      "summary": "The landmark Australian Eastern Mission concluded after a three-month diplomatic tour of East and South-East Asia.",
+      "body": "The landmark Australian Eastern Mission concluded after a three-month diplomatic tour of East and South-East Asia.",
+      "image": {
+        "src": "data/images/24592ba14c5085a3.png",
+        "alt": "Australian Eastern Mission",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Australian_Eastern_Mission",
+        "trustTier": "encyclopedic",
+        "date": "06-14"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:46.185Z",
+      "hash": "f39ec499de341aca",
+      "expires": "2026-06-17T15:24:46.185Z"
+    },
+    {
+      "id": "wikipedia:18949985",
+      "type": "wiki",
+      "title": "The Buddy System (film)",
+      "summary": "The Buddy System is a 1984 American romantic comedy film starring Richard Dreyfuss, Susan Sarandon, Nancy Allen, Wil Wheaton and Jean Stapleton. The film was directed by Glenn A. Jordan who is better known for directing and producing numerous television films and television dramas. The film follows the story of a…",
+      "body": "The Buddy System is a 1984 American romantic comedy film starring Richard Dreyfuss, Susan Sarandon, Nancy Allen, Wil Wheaton and Jean Stapleton. The film was directed by Glenn A. Jordan who is better known for directing and producing numerous television films and television dramas. The film follows the story of a cautious single mother who forms an unlikely friendship with her son's school security guard. The Buddy System was Wil Wheaton's first major film role and his second non-television role after the 1983 film Hambone and Hillie.",
+      "image": {
+        "src": "data/images/2676012ebdc526e2.jpg",
+        "alt": "The Buddy System (film)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Buddy_System_(film)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:45.635Z",
+      "hash": "e0f0ac24b7fd5c55"
+    },
+    {
+      "id": "wikipedia:42984391",
+      "type": "wiki",
+      "title": "INS Kattabomman",
+      "summary": "INS Kattabomman is the designation of the VLF-transmission facility of the Indian Navy situated at Vijayanarayanam near Tirunelveli in Tamil Nadu. The facility spread over 3,000 acres has 13 masts, which are arranged in two rings around the central mast. The centre mast has a height of 301 metres, the masts on the…",
+      "body": "INS Kattabomman is the designation of the VLF-transmission facility of the Indian Navy situated at Vijayanarayanam near Tirunelveli in Tamil Nadu. The facility spread over 3,000 acres has 13 masts, which are arranged in two rings around the central mast. The centre mast has a height of 301 metres, the masts on the inner ring measure 276.4 metres, that on the outer ring measure 227.4 metres. The facility broadcasts at frequencies of 16.3 kHz, 17.0 kHz, 18.2 kHz, and 19.2 kHz.",
+      "image": {
+        "src": "data/images/b2ee78707d1ec728.jpg",
+        "alt": "INS Kattabomman",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/INS_Kattabomman",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:45.559Z",
+      "hash": "46f79a5007a6158f"
+    },
+    {
+      "id": "wikipedia:2365976",
+      "type": "wiki",
+      "title": "James Benson",
+      "summary": "James William Benson was an American aerospace entrepreneur who founded SpaceDev, a commercial satellite and satellite component development company, and the Benson Space Company, a civilian spaceflight venture focused on commercial space tourism.",
+      "body": "James William Benson was an American aerospace entrepreneur who founded SpaceDev, a commercial satellite and satellite component development company, and the Benson Space Company, a civilian spaceflight venture focused on commercial space tourism.",
+      "image": {
+        "src": "data/images/59af6b4edbb5429c.jpg",
+        "alt": "James Benson",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/James_Benson",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:44.879Z",
+      "hash": "a76c4146cd89a048"
+    },
+    {
+      "id": "wikipedia:358803",
+      "type": "wiki",
+      "title": "Panchen Lama",
+      "summary": "The Panchen Lama is a tulku of the Gelug school of Tibetan Buddhism. The Panchen Lama is one of the most important figures in the Gelug tradition, with its spiritual authority second only to the Dalai Lama. Along with the council of high lamas, he is in charge of seeking out the next Dalai Lama. Panchen is a…",
+      "body": "The Panchen Lama is a tulku of the Gelug school of Tibetan Buddhism. The Panchen Lama is one of the most important figures in the Gelug tradition, with its spiritual authority second only to the Dalai Lama. Along with the council of high lamas, he is in charge of seeking out the next Dalai Lama. Panchen is a portmanteau of Pandita and Chenpo, meaning \"great scholar\".",
+      "image": {
+        "src": "data/images/e60c447cc9d40dda.jpg",
+        "alt": "Panchen Lama",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Panchen_Lama",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-14T15:24:43.819Z",
+      "hash": "117a923678ea6582"
+    },
     {
       "id": "trivia:ab736faeb3fe3f05",
       "type": "trivia",
@@ -11276,132 +12439,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-06-01T15:58:06.479Z",
       "hash": "da0a7578a5bf0656"
-    },
-    {
-      "id": "onthisday:06-01:1974:a326a17a4ac96dfd",
-      "type": "history",
-      "title": "1974: Henry Heimlich",
-      "summary": "In an informal article in a medical journal, Henry Heimlich introduced the concept of abdominal thrusts, commonly known as the Heimlich maneuver, to treat victims of choking.",
-      "body": "In an informal article in a medical journal, Henry Heimlich introduced the concept of abdominal thrusts, commonly known as the Heimlich maneuver, to treat victims of choking.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Henry_Heimlich",
-        "trustTier": "encyclopedic",
-        "date": "06-01"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-01T15:58:06.479Z",
-      "hash": "ca7030d0a97ed40f"
-    },
-    {
-      "id": "wikipedia:53058742",
-      "type": "wiki",
-      "title": "The Memory of Love",
-      "summary": "The Memory of Love is a 2010 novel by Aminatta Forna about the experiences of three men in Sierra Leone. In 2022, it was included on the \"Big Jubilee Read\" list of 70 books by Commonwealth authors, selected to celebrate the Platinum Jubilee of Elizabeth II.",
-      "body": "The Memory of Love is a 2010 novel by Aminatta Forna about the experiences of three men in Sierra Leone. In 2022, it was included on the \"Big Jubilee Read\" list of 70 books by Commonwealth authors, selected to celebrate the Platinum Jubilee of Elizabeth II.",
-      "image": {
-        "src": "data/images/317d9eb79213ee7c.jpg",
-        "alt": "The Memory of Love",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Memory_of_Love",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-01T15:58:03.775Z",
-      "hash": "460b916be7b7cdcc"
-    },
-    {
-      "id": "wikipedia:911757",
-      "type": "wiki",
-      "title": "Snake's Revenge",
-      "summary": "Snake's Revenge is a 1990 action-adventure stealth game developed and published by Konami for the Nintendo Entertainment System. It is a stand-alone sequel to Metal Gear that was released in North America and the PAL region following the international commercial success of the NES version. The game was produced…",
-      "body": "Snake's Revenge is a 1990 action-adventure stealth game developed and published by Konami for the Nintendo Entertainment System. It is a stand-alone sequel to Metal Gear that was released in North America and the PAL region following the international commercial success of the NES version. The game was produced without the involvement of series creator Hideo Kojima, who went on to develop a separate sequel for the MSX2 titled Metal Gear 2: Solid Snake, which was released later during the same year in Japan.",
-      "image": {
-        "src": "data/images/209cbf843e37a6f7.jpg",
-        "alt": "Snake's Revenge",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Snake's_Revenge",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-01T15:58:03.248Z",
-      "hash": "28f53765548a13fa"
-    },
-    {
-      "id": "wikipedia:39837608",
-      "type": "wiki",
-      "title": "Artpop",
-      "summary": "Artpop is the third studio album by American singer Lady Gaga. It was released on November 6, 2013, by Streamline and Interscope Records. Gaga began planning the project in 2011, shortly after the launch of her second effort, Born This Way. Work continued until 2013 while Gaga was traveling for her Born This Way Ball…",
-      "body": "Artpop is the third studio album by American singer Lady Gaga. It was released on November 6, 2013, by Streamline and Interscope Records. Gaga began planning the project in 2011, shortly after the launch of her second effort, Born This Way. Work continued until 2013 while Gaga was traveling for her Born This Way Ball tour and recovering from surgery for an injury she had sustained while touring. Gaga described Artpop as \"a celebration and a poetic musical journey\". It displays an intentional \"lack of maturity and responsibility\" compared to the darker and anthemic nature of Born This Way.",
-      "image": {
-        "src": "data/images/fb973f4b41f9d83a.png",
-        "alt": "Artpop",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Artpop",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-01T15:58:02.982Z",
-      "hash": "90e65b0ff21ae6b6"
-    },
-    {
-      "id": "wikipedia:12681849",
-      "type": "wiki",
-      "title": "The Blue Note (Columbia, Missouri)",
-      "summary": "The Blue Note is a music venue in Columbia, Missouri, and is a contributing property to the North Ninth Street Historic District. It was established in 1980 by Richard King and Phil Costello. It is famous for the legal case Bensusan Restaurant Corp. v. King over naming use on the internet.",
-      "body": "The Blue Note is a music venue in Columbia, Missouri, and is a contributing property to the North Ninth Street Historic District. It was established in 1980 by Richard King and Phil Costello. It is famous for the legal case Bensusan Restaurant Corp. v. King over naming use on the internet.",
-      "image": {
-        "src": "data/images/94e3e9880c1446c7.jpg",
-        "alt": "The Blue Note (Columbia, Missouri)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Blue_Note_(Columbia%2C_Missouri)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-01T15:58:02.673Z",
-      "hash": "62ba1b51c2c5e93a"
     }
   ]
 }

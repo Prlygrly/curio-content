@@ -1,0 +1,32 @@
+{
+  "cards": [
+    {
+      "draft": true,
+      "_comment": "TEMPLATE — copy this entry to add a hand-picked card. Set draft:false (or remove it) to ship. 'slug' must be stable + unique (it becomes the deep-link id curated:<slug>); change it and old shared links break. Only title, summary, and source.url are required; the rest are optional. JSON has no comments, so this draft entry IS the documentation — leave it here, it never ships.",
+      "slug": "example-slug",
+      "title": "Card title (one line)",
+      "summary": "One or two sentences shown on the card face. Keep it tight — long summaries get trimmed.",
+      "body": "Optional longer prose shown when the card is opened. Use \\n for line breaks.",
+      "source": {
+        "name": "Publication or site name",
+        "author": "Author (optional)",
+        "url": "https://example.com/the-real-source"
+      },
+      "tags": ["topic", "another-topic"],
+      "difficulty": 2
+    },
+    {
+      "slug": "handwriting-beats-typing",
+      "title": "Handwriting wires the brain differently than typing",
+      "summary": "Students who take notes by hand tend to remember ideas better than laptop typists — and a 2024 EEG study found handwriting lights up far more of the brain. But the headline has an honest asterisk.",
+      "body": "The classic study is Mueller & Oppenheimer (2014), \"The Pen Is Mightier Than the Keyboard.\" Laptop note-takers tended to transcribe lectures word for word; longhand writers, unable to keep up, had to summarize and reframe in their own words — and scored better on conceptual questions afterward.\n\nThe honest asterisk: a 2021 multi-lab replication reproduced the verbatim-transcription difference but NOT the learning advantage. So \"handwriting makes you understand more\" is shakier than the popular version suggests.\n\nThe freshest angle is brain activity, not test scores. A 2024 EEG study (Van der Meer & Van der Weel, NTNU) found that forming letters by hand produces far more widespread connectivity across the brain than typing. The slow, looping, ever-varying motion of writing seems to engage memory and learning networks that pressing identical keys does not.",
+      "source": {
+        "name": "Frontiers in Psychology",
+        "author": "Van der Weel & Van der Meer (2024)",
+        "url": "https://doi.org/10.3389/fpsyg.2023.1219945"
+      },
+      "tags": ["learning", "psychology", "memory", "handwriting", "note-taking"],
+      "difficulty": 2
+    }
+  ]
+}

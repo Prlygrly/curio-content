@@ -3,7 +3,9 @@
   "nasaApiKey": "DEMO_KEY",
   "smithsonianApiKey": "DEMO_KEY",
   "greekVocabPath": "scout/seed/koine_chapter1_vocabulary.csv",
+  "curatedPath": "scout/curated/cards.json",
   "channels": {
+    "curated": { "enabled": true },
     "wikipedia": { "enabled": true, "count": 4 },
     "onthisday": { "enabled": true, "count": 3 },
     "apod": { "enabled": true, "count": 5 },

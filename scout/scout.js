@@ -24,13 +24,14 @@ import * as smithsonian from './adapters/smithsonian.js';
 import * as trivia from './adapters/trivia.js';
 import * as game from './adapters/game.js';
 import * as chess from './adapters/chess.js';
+import * as curated from './adapters/curated.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..'); // curio/
 const cardsPath = path.join(root, 'data', 'cards.json');
 const imagesDir = path.join(root, 'data', 'images');
 
-const ADAPTERS = { wikipedia, onthisday, apod, met, smithsonian, poetry, greek, article, bookreview, quote, word, craft, food, comic, world, gutenberg, trivia, game, chess };
+const ADAPTERS = { curated, wikipedia, onthisday, apod, met, smithsonian, poetry, greek, article, bookreview, quote, word, craft, food, comic, world, gutenberg, trivia, game, chess };
 
 async function loadConfig() {
   return JSON.parse(await readFile(path.join(__dirname, 'config.json'), 'utf8'));
@@ -49,6 +50,7 @@ async function main() {
     if (name === 'apod') opts.apiKey = process.env.NASA_API_KEY || cfg.nasaApiKey || 'DEMO_KEY';
     if (name === 'smithsonian') opts.apiKey = process.env.SMITHSONIAN_API_KEY || process.env.DATA_GOV_API_KEY || cfg.smithsonianApiKey || '';
     if (name === 'greek') opts.vocabPath = path.join(root, cfg.greekVocabPath || 'scout/seed/koine_chapter1_vocabulary.csv');
+    if (name === 'curated') opts.curatedPath = path.join(root, cfg.curatedPath || 'scout/curated/cards.json');
     try {
       const cards = await mod.run(opts);
       console.log(`  ${name}: ${cards.length} card(s)`);

@@ -26,7 +26,15 @@ export function mergeDedup(existing, incoming) {
 // Newest first, capped to poolSize.
 export async function saveCards(cardsPath, cards, poolSize) {
   const sorted = [...cards].sort((a, b) => String(b.fetchedAt).localeCompare(String(a.fetchedAt)));
-  const capped = sorted.slice(0, poolSize);
+  // Curated cards are Curio's permanent hand-picked collection — never trim them.
+  // Keep all of them, then fill the remaining room under poolSize with the newest
+  // feed cards, so a hand-picked card never rotates out as the feed grows.
+  const curated = sorted.filter((c) => c.type === 'curated');
+  const feed = sorted.filter((c) => c.type !== 'curated');
+  const room = Math.max(0, poolSize - curated.length);
+  const capped = [...curated, ...feed.slice(0, room)].sort((a, b) =>
+    String(b.fetchedAt).localeCompare(String(a.fetchedAt))
+  );
   await mkdir(path.dirname(cardsPath), { recursive: true });
   const out = { generatedAt: new Date().toISOString(), count: capped.length, cards: capped };
   await writeFile(cardsPath, JSON.stringify(out, null, 2), 'utf8');

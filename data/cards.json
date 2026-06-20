@@ -1,7 +1,1093 @@
 {
-  "generatedAt": "2026-06-19T12:12:16.141Z",
+  "generatedAt": "2026-06-20T10:37:27.684Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:W3Lx2",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 2057. Find the best line for white.",
+      "body": "Solution, from → to: f6→e6, f7→e6, d3→g6. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "r3kb1r/1p1n1p2/4pQp1/pPpp2Bp/8/q2B3P/5PP1/1R3RK1 w kq - 1 1",
+        "lastMove": "b8d7"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/W3Lx2",
+        "trustTier": "community",
+        "date": "Sat, 20 Jun 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "deflection",
+        "matein2",
+        "middlegame",
+        "short"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-06-20T10:37:22.686Z",
+      "hash": "f20985ed676f4650"
+    },
+    {
+      "id": "game:d78a6966d7a2d44d",
+      "type": "game",
+      "title": "Report: Former Xbox president Sarah Bond and Take-Two CEO Strauss Zelnick linked to Peter Thiel's secret society",
+      "summary": "A series of leaks have tied multiple current and former video game industry execs to the controversial billionaire's invite-only 'Dialog' conference.",
+      "body": "A series of leaks have tied multiple current and former video game industry execs to the controversial billionaire's invite-only 'Dialog' conference.",
+      "image": {
+        "src": "data/images/c31b631a23b21701.png",
+        "alt": "Report: Former Xbox president Sarah Bond and Take-Two CEO Strauss Zelnick linked to Peter Thiel's secret society",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/report-former-xbox-president-sarah-bond-and-take-two-ceo-strauss-zelnick-involved-in-peter-thiel-backed-secret-society",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Fri, 19 Jun 2026 14:09:1"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:37:22.189Z",
+      "hash": "d78a6966d7a2d44d",
+      "expires": "2026-09-18T10:37:22.189Z"
+    },
+    {
+      "id": "game:37b802da04cdf138",
+      "type": "game",
+      "title": "Kabam consolidating LA office and making layoffs",
+      "summary": "It's unclear how many roles have been eliminated at the Marvel Contest of Champions developer.",
+      "body": "It's unclear how many roles have been eliminated at the Marvel Contest of Champions developer.",
+      "image": {
+        "src": "data/images/f5cfa583382e3fd0.png",
+        "alt": "Kabam consolidating LA office and making layoffs",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/kabam-making-layoffs-after-choosing-to-consolidate-la-office",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Fri, 19 Jun 2026 15:24:5"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:37:22.188Z",
+      "hash": "37b802da04cdf138",
+      "expires": "2026-09-18T10:37:22.188Z"
+    },
+    {
+      "id": "trivia:1bf8f20ae261a8e1",
+      "type": "trivia",
+      "title": "How many dots are on a single die?",
+      "summary": "Is it: 24 · 21 · 15 · 18?",
+      "body": "Answer: 21.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "board games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:37:19.734Z",
+      "hash": "1bf8f20ae261a8e1"
+    },
+    {
+      "id": "trivia:c297798b65ea4d4e",
+      "type": "trivia",
+      "title": "Who is the main character of the game Half-Life: Opposing Force?",
+      "summary": "Is it: Adrian Shephard · Gordon Freeman · Barney Calhoun · Alyx Vance?",
+      "body": "Answer: Adrian Shephard.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:37:19.734Z",
+      "hash": "c297798b65ea4d4e"
+    },
+    {
+      "id": "trivia:3016e605682d8841",
+      "type": "trivia",
+      "title": "Which Roman Emperor led the Roman Empire to reach its maximum territorial extent?",
+      "summary": "Is it: Julius Caesar · Claudius · Trajan · Constantine the Great?",
+      "body": "Answer: Trajan.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:37:19.734Z",
+      "hash": "3016e605682d8841"
+    },
+    {
+      "id": "trivia:54bafbad07ae6099",
+      "type": "trivia",
+      "title": "Which Japanese company is the world's largest manufacturer of motorcycles?",
+      "summary": "Is it: Yamaha · Honda · Kawasaki · Suzuki?",
+      "body": "Answer: Honda.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "vehicles"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:37:19.734Z",
+      "hash": "54bafbad07ae6099"
+    },
+    {
+      "id": "comic:smbc:667bee2955483d94",
+      "type": "comic",
+      "title": "GWAS",
+      "summary": "Unfortunately, so much mitochondrial energy flowed to the dong that all the cognitive stats selected for got blocked.",
+      "image": {
+        "src": "data/images/c95ce74280493f46.png",
+        "alt": "Unfortunately, so much mitochondrial energy flowed to the dong that all the cognitive stats selected for got blocked.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/gwas",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Fri, 19 Jun 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-20T10:37:17.960Z",
+      "hash": "667bee2955483d94"
+    },
+    {
+      "id": "comic:xkcd:1569",
+      "type": "comic",
+      "title": "Magic Tree",
+      "summary": "Since people rarely try to cut down cell phone towers, after millions of years, as cell phone towers have gotten more treelike, trees have started growing fake cell phone tower attachments and shiny gray bark to protect themselves. This is a standard textbook example of convergent evolution.",
+      "body": "[[Beret guy excitedly points to a pillar about a meter across. There's a sign on the side. Beret guy is pointing it out to his friend, Fancy Haircut]] Beret: Check it out! I threw my magic beans on the ground here yesterday, and this big tree appeared! [[Now in silhouette we see the pillar is several hundred feet tall, covered in antennae, and the figures are as ants in its shadow.]] haircut: that's a cell tower. beret: no way-- it has branches! See? I'm gonna climb it! [[Beret guy begins to shimmy up the side of the pole. Somehow. With impressively powerful thighs I guess.]] haircut: No, they just put those there to make it look-- ...never mind. [[Later...]] haircut: Why do I have no…",
+      "image": {
+        "src": "data/images/28f2ae96e3512a4e.png",
+        "alt": "Since people rarely try to cut down cell phone towers, after millions of years, as cell phone towers have gotten more treelike, trees have started growing fake cell phone tower attachments and shiny gray bark to protect themselves. This is a standard textbook example of convergent evolution.",
+        "credit": "xkcd #1569 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/1569/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2015-08-26"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-20T10:37:17.559Z",
+      "hash": "260dc5da3d3ab231"
+    },
+    {
+      "id": "comic:xkcd:3261",
+      "type": "comic",
+      "title": "Side Effect",
+      "summary": "Brace yourself--the chirp gets pretty weird.",
+      "image": {
+        "src": "data/images/0d25219b8922b8ce.png",
+        "alt": "Brace yourself--the chirp gets pretty weird.",
+        "credit": "xkcd #3261 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3261/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-06-19"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-20T10:37:17.510Z",
+      "hash": "075040051963b050"
+    },
+    {
+      "id": "craft:e30abe913a85906a",
+      "type": "craft",
+      "title": "Surreal Figures Step from Leonora Carrington’s Paintings into ‘Shape of Dreams’",
+      "summary": "The prolific artist's oeuvre extends far beyond the two-dimensional surface.",
+      "body": "The prolific artist's oeuvre extends far beyond the two-dimensional surface.",
+      "image": {
+        "src": "data/images/1fbb912c6cf7c928.jpg",
+        "alt": "Surreal Figures Step from Leonora Carrington’s Paintings into ‘Shape of Dreams’",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/06/leonora-carrington-shape-of-dreams-sculptures-jewelry/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Thu, 18 Jun 2026 14:11:3"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "art history",
+        "bronze",
+        "gold",
+        "jewelry",
+        "leonora carrington",
+        "sculpture",
+        "surreal"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:37:17.218Z",
+      "hash": "e30abe913a85906a"
+    },
+    {
+      "id": "craft:ff9cd65319e0c285",
+      "type": "craft",
+      "title": "Top Ten Projects My Dad Would Like",
+      "summary": "This Father's Day I rounded up 9 projects my dad would like, plus one more. The post Top Ten Projects My Dad Would Like appeared first on Make: DIY Projects and Ideas for Makers.",
+      "body": "This Father's Day I rounded up 9 projects my dad would like, plus one more. The post Top Ten Projects My Dad Would Like appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/0f27ed46ce5e5fc3.gif",
+        "alt": "Top Ten Projects My Dad Would Like",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/home/top-ten-projects-my-dad-would-like/",
+        "trustTier": "publication",
+        "author": "Sam Freeman",
+        "date": "Sat, 20 Jun 2026 06:59:0"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "fun & games",
+        "home",
+        "father's day",
+        "kids & family"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:37:16.909Z",
+      "hash": "ff9cd65319e0c285"
+    },
+    {
+      "id": "word:e3164293edaffa30",
+      "type": "word",
+      "title": "eclectic",
+      "summary": "Adjective: Selecting a mixture of what appears to be best of various doctrines, methods or styles.",
+      "body": "1. Selecting a mixture of what appears to be best of various doctrines, methods or styles.\n2. Unrelated and unspecialized; heterogeneous.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/eclectic",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Adjective"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:37:16.750Z",
+      "hash": "e3164293edaffa30"
+    },
+    {
+      "id": "word:2a6fe5aa979245a4",
+      "type": "word",
+      "title": "epiphany",
+      "summary": "Noun: An illuminating realization or discovery, often resulting in a personal feeling of elation, awe, or wonder.",
+      "body": "1. An illuminating realization or discovery, often resulting in a personal feeling of elation, awe, or wonder.\n2. A manifestation or appearance of a divine or superhuman being.\n3. Alternative letter-case form of Epiphany.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/epiphany",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:37:09.464Z",
+      "hash": "2a6fe5aa979245a4"
+    },
+    {
+      "id": "article:87a310b7a49aa454",
+      "type": "article",
+      "title": "In the Midst of Tornado Season, a Surprisingly Short History of Predicting Twisters",
+      "summary": "A United States Army Lieutenant was the first to forecast the deadly storms in the late 1800s. Then he was told to stop. The post In the Midst of Tornado Season, a Surprisingly Short History of Predicting Twisters appeared first on Nautilus.",
+      "body": "A United States Army Lieutenant was the first to forecast the deadly storms in the late 1800s. Then he was told to stop. The post In the Midst of Tornado Season, a Surprisingly Short History of Predicting Twisters appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/83c714ce1600c10d.png",
+        "alt": "In the Midst of Tornado Season, a Surprisingly Short History of Predicting Twisters",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/in-the-midst-of-tornado-season-a-surprisingly-short-history-of-predicting-twisters-1282133/",
+        "trustTier": "publication",
+        "author": "Bob Grant",
+        "date": "Thu, 18 Jun 2026 21:00:3"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "geoscience"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:36:26.913Z",
+      "hash": "87a310b7a49aa454"
+    },
+    {
+      "id": "article:4e63c8d789bb1599",
+      "type": "article",
+      "title": "Insomnia and the Secret Life of Ideas: Kafka on the Relationship Between Sleeplessness and Creativity",
+      "summary": "Where we go when we go to sleep and why we go there is one of the great mysteries of the mind. Why the mind at times refuses to go there, despite the pleading and bargaining of its conscious owner, is a greater mystery still. We know that ever since REM evolved in the bird brain, the third of our…",
+      "body": "Where we go when we go to sleep and why we go there is one of the great mysteries of the mind. Why the mind at times refuses to go there, despite the pleading and bargaining of its conscious owner, is a greater mystery still. We know that ever since REM evolved in the bird brain, the third of our lives we spend sleeping and dreaming has been a crucible of our capacity for learning, emotional regulation, and creativity. But the price we have paid for these crowning curios of consciousness has been savage self-consciousness, thought turned in on itself,… read article",
+      "image": {
+        "src": "data/images/a321076fe938b6df.jpg",
+        "alt": "Insomnia and the Secret Life of Ideas: Kafka on the Relationship Between Sleeplessness and Creativity",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/06/19/kafka-insomnia/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Fri, 19 Jun 2026 17:56:1"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "psychology",
+        "books",
+        "diaries",
+        "franz kafka"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:36:26.647Z",
+      "hash": "4e63c8d789bb1599"
+    },
+    {
+      "id": "article:5a5ae6d5a6955243",
+      "type": "article",
+      "title": "Parenting from Prison. Plus. . .",
+      "summary": "Two drinks with the new OpenAI employee who thinks ‘destabilizing shit might go down.’ Douglas Murray recommends a ‘masterpiece’ of a new novel. The kids are obsessed with mah-jongg. And more!",
+      "body": "Two drinks with the new OpenAI employee who thinks ‘destabilizing shit might go down.’ Douglas Murray recommends a ‘masterpiece’ of a new novel. The kids are obsessed with mah-jongg. And more!",
+      "image": {
+        "src": "data/images/0dc84b7c4ff0e815.jpg",
+        "alt": "Parenting from Prison. Plus. . .",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/parenting-from-prison-plus",
+        "trustTier": "publication",
+        "author": "The Free Press",
+        "date": "Sat, 20 Jun 2026 10:01:5"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:36:26.374Z",
+      "hash": "5a5ae6d5a6955243",
+      "expires": "2026-07-20T10:36:26.374Z"
+    },
+    {
+      "id": "article:06c5b56dced5a3cf",
+      "type": "article",
+      "title": "Li Bassinia in Huy, Belgium",
+      "summary": "Huy - pronounced \"Oui\" (\"Yes\") - is a small Belgian town located at the confluence of the Meuse and Hoyoux rivers. It is halfway between Namur and Liège. The town is famous for its rich heritage. Some forty monuments and sites are protected. The fountain on the Grand'Place, known to the locals as…",
+      "body": "Huy - pronounced \"Oui\" (\"Yes\") - is a small Belgian town located at the confluence of the Meuse and Hoyoux rivers. It is halfway between Namur and Liège. The town is famous for its rich heritage. Some forty monuments and sites are protected. The fountain on the Grand'Place, known to the locals as \"Li Bassinia\" (\"the basin\" in Walloon), is one of the most remarkable. It was listed as a „Monument Historique“ on August 1st, 1933. It was one of the first 45 monuments to be listed in Wallonia, the French-speaking southern half of Belgium. Many changes over the centuries have resulted in its…",
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/li-bassinia",
+        "trustTier": "publication",
+        "date": "Fri, 19 Jun 2026 09:23:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:36:26.090Z",
+      "hash": "06c5b56dced5a3cf"
+    },
+    {
+      "id": "article:298b7898e8dc3352",
+      "type": "article",
+      "title": "Swift, Pope, and Gay gathered at Twickenham in 1726. They shared a villa, and a witty contempt for their age",
+      "summary": "Swift, Pope, and Gay gathered at Twickenham in 1726. They shared a villa, and a witty contempt for their age",
+      "body": "Swift, Pope, and Gay gathered at Twickenham in 1726. They shared a villa, and a witty contempt for their age",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://www.theguardian.com/books/2026/jun/12/the-twitnam-summer-by-hester-grant-review-swift-gay-and-popes-season-in-the-sun",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:36:25.768Z",
+      "hash": "298b7898e8dc3352"
+    },
+    {
+      "id": "article:25f99e1d58d45763",
+      "type": "article",
+      "title": "Trauma creep",
+      "summary": "From a broken life to a broken nail, ‘trauma’ has been bleached by overuse. But it names something real – and must be reclaimed- by Lily DunnRead on Aeon",
+      "body": "From a broken life to a broken nail, ‘trauma’ has been bleached by overuse. But it names something real – and must be reclaimed- by Lily DunnRead on Aeon",
+      "image": {
+        "src": "data/images/f5daaf62b293e90d.jpg",
+        "alt": "Trauma creep",
+        "credit": "Aeon"
+      },
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something",
+        "trustTier": "publication",
+        "author": "Lily Dunn",
+        "date": "Fri, 19 Jun 2026 10:00:0"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "philosophy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:36:23.978Z",
+      "hash": "25f99e1d58d45763"
+    },
+    {
+      "id": "greek:f34cc1f630b7ffb3",
+      "type": "greek",
+      "title": "ζωή",
+      "summary": "ζωή — “life” · noun",
+      "body": "Note: ἡ ζωή\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B6%CF%89%CE%AE#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_fem_1st"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:36:23.877Z",
+      "hash": "f34cc1f630b7ffb3"
+    },
+    {
+      "id": "greek:9e7f4017b4b6afed",
+      "type": "greek",
+      "title": "ἐν",
+      "summary": "ἐν — “in” · preposition",
+      "body": "Note: takes dative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%90%CE%BD#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "preposition",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-20T10:36:23.877Z",
+      "hash": "9e7f4017b4b6afed"
+    },
+    {
+      "id": "greek:5bf3b645e83602c0",
+      "type": "greek",
+      "title": "δέ",
+      "summary": "δέ — “but, and” · conjunction",
+      "body": "Note: postpositive — never appears first in clause\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B4%CE%AD#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "conjunction",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-20T10:36:23.877Z",
+      "hash": "5bf3b645e83602c0"
+    },
+    {
+      "id": "poetry:af4063888bdb9796",
+      "type": "poem",
+      "title": "The Canterbury Tales. The Second Nun's Tale",
+      "summary": "The minister and norice unto vices,\nWhich that men call in English idleness,\nThe porter at the gate is of delices;\nT'eschew, and by her contrar' her oppress, --",
+      "body": "The minister and norice unto vices,\nWhich that men call in English idleness,\nThe porter at the gate is of delices;\nT'eschew, and by her contrar' her oppress, --\nThat is to say, by lawful business, --\nWell oughte we to do our all intent\nLest that the fiend through idleness us hent.\n\nFor he, that with his thousand cordes sly\nContinually us waiteth to beclap,\nWhen he may man in idleness espy,\nHe can so lightly catch him in his trap,\nTill that a man be hent right by the lappe,\nHe is not ware the fiend hath him in hand;\nWell ought we work, and idleness withstand.\n\nAnd though men dreaded never for to die,\nYet see men well by reason, doubteless,\nThat idleness is root of sluggardy,\nOf which there cometh never good increase;\nAnd see that sloth them holdeth in a leas,\nOnly to sleep, and for to eat and drink,\nAnd to devouren all that others swink.\n\nAnd, for to put us from such idleness,\nThat cause is of so great confusion,\nI have here done my faithful business,\nAfter the Legend, in translation\nRight of thy glorious life and passion, --\nThou with thy garland wrought of rose and lily,\nThee mean I, maid and martyr, Saint Cecilie.\n\nAnd thou, thou art the flow'r of virgins all,\nOf whom that Bernard list so well to write,\nTo thee at my beginning first I call;\nThou comfort of us wretches, do me indite\nThy maiden's death, that won through her merite\nTh' eternal life, and o'er the fiend victory,\nAs man may after readen in her story.\n\nThou maid and mother, daughter of thy Son,\nThou well of mercy, sinful soules' cure,\nIn whom that God of bounte chose to won;\nThou humble and high o'er every creature,\nThou nobilest, so far forth our nature,\nThat no disdain the Maker had of kind,\nHis Son in blood and flesh to clothe and wind.\n\nWithin the cloister of thy blissful sides\nTook manne's shape th' eternal love and peace,\nThat of the trine compass Lord and guide is\nWhom earth, and sea, and heav'n, out of release,\nAye hery; and thou, Virgin wemmeless,\nBare of thy body, and dweltest maiden pure,\nThe Creator of every creature.\n\nAssembled is in thee magnificence\nWith mercy, goodness, and with such pity,\nThat thou, that art the sun of excellence,\nNot only helpest them that pray to thee,\nBut oftentime, of thy benignity,\nFull freely, ere that men thine help beseech,\nThou go'st before, and art their lives' leech.\n\nNow help, thou meek and blissful faire maid,\nMe, flemed wretch, in this desert of gall;\nThink on the woman Cananee that said\nThat whelpes eat some of the crumbes all\nThat from their Lorde's table be y-fall;\nAnd though that I, unworthy son of Eve,\nBe sinful, yet accepte my believe.\n\nAnd, for that faith is dead withoute werkes,\nFor to worke give me wit and space,\nThat I be quit from thennes that most derk is;\nO thou, that art so fair and full of grace,\nBe thou mine advocate in that high place,\nWhere as withouten end is sung Osanne,\nThou Christe's mother, daughter dear of Anne.\n\nAnd of thy light my soul in prison light,\nThat troubled is by the contagion\nOf my body, and also by the weight\nOf earthly lust and false affection;\nO hav'n of refuge, O salvation\nOf them that be in sorrow and distress,\nNow help, for to my work I will me dress.\n\nYet pray I you, that reade what I write,\nForgive me that I do no diligence\nThis ilke story subtilly t' indite.\nFor both have I the wordes and sentence\nOf him that at the sainte's reverence\nThe story wrote, and follow her legend;\nAnd pray you that you will my work amend.\n\nFirst will I you the name of Saint Cecilie\nExpound, as men may in her story see.\nIt is to say in English, Heaven's lily,\nFor pure chasteness of virginity;\nOr, for she whiteness had of honesty,\nAnd green of conscience, and of good fame\nThe sweete savour, Lilie was her name.\n\nOr Cecilie is to say, the way of blind;\nFor she example was by good teaching;\nOr else Cecilie, as I written find,\nIs joined by a manner conjoining\nOf heaven and Lia,  and herein figuring\nThe heaven is set for thought of holiness,\nAnd Lia for her lasting business.\n\nCecilie may eke be said in this mannere,\nWanting of blindness, for her greate light\nOf sapience, and for her thewes clear.\nOr elles, lo, this maiden's name bright\nOf heaven and Leos  comes, for which by right\nMen might her well the heaven of people call,\nExample of good and wise workes all;\n\nFor Leos people in English is to say;\nAnd right as men may in the heaven see\nThe sun and moon, and starres every way,\nRight so men ghostly, in this maiden free,\nSawen of faith the magnanimity,\nAnd eke the clearness whole of sapience,\nAnd sundry workes bright of excellence.\n\nAnd right so as these philosophers write,\nThat heav'n is swift and round, and eke burning,\nRight so was faire Cecilie the white\nFull swift and busy in every good working,\nAnd round and whole in good persevering,\nAnd burning ever in charity full bright;\nNow have I you declared what she hight.\n\nThis maiden bright Cecile, as her life saith,\nWas come of Romans, and of noble kind,\nAnd from her cradle foster'd in the faith\nOf Christ, and bare his Gospel in her mind:\nShe never ceased, as I written find,\nOf her prayere, and God to love and dread,\nBeseeching him to keep her maidenhead.\n\nAnd when this maiden should unto a man\nY-wedded be, that was full young of age,\nWhich that y-called was Valerian,\nAnd come was the day of marriage,\nShe, full devout and humble in her corage,\nUnder her robe of gold, that sat full fair,\nHad next her flesh y-clad her in an hair.\n\nAnd while the organs made melody,\nTo God alone thus in her heart sang she;\n\"O Lord, my soul and eke my body gie\nUnwemmed, lest that I confounded be.\"\nAnd, for his love that died upon the tree,\nEvery second or third day she fast',\nAye bidding in her orisons full fast.\n\nThe night came, and to bedde must she gon\nWith her husband, as it is the mannere;\nAnd privily she said to him anon;\n\"O sweet and well-beloved spouse dear,\nThere is a counsel, an' ye will it hear,\nWhich that right fain I would unto you say,\nSo that ye swear ye will it not bewray.\"\n\nValerian gan fast unto her swear\nThat for no case nor thing that mighte be,\nHe never should to none bewrayen her;\nAnd then at erst thus to him saide she;\n\"I have an angel which that loveth me,\nThat with great love, whether I wake or sleep,\nIs ready aye my body for to keep;\n\n\"And if that he may feelen, out of dread,\nThat ye me touch or love in villainy,\nHe right anon will slay you with the deed,\nAnd in your youthe thus ye shoulde die.\nAnd if that ye in cleane love me gie,\"\nHe will you love as me, for your cleanness,\nAnd shew to you his joy and his brightness.\"\n\nValerian, corrected as God wo'ld,\nAnswer'd again, \"If I shall truste thee,\nLet me that angel see, and him behold;\nAnd if that it a very angel be,\nThen will I do as thou hast prayed me;\nAnd if thou love another man, forsooth\nRight with this sword then will I slay you both.\"\n\nCecile answer'd anon right in this wise;\n\"If that you list, the angel shall ye see,\nSo that ye trow Of Christ, and you baptise;\nGo forth to Via Appia,\" quoth she,\nThat from this towne stands but miles three,\nAnd to the poore folkes that there dwell\nSay them right thus, as that I shall you tell,\n\n\"Tell them, that I, Cecile, you to them sent\nTo shewe you the good Urban the old,\nFor secret needes, and for good intent;\nAnd when that ye Saint Urban have behold,\nTell him the wordes which I to you told\nAnd when that he hath purged you from sin,\nThen shall ye see that angel ere ye twin\n\nValerian is to the place gone;\nAnd, right as he was taught by her learning\nHe found this holy old Urban anon\nAmong the saintes' burials louting;\nAnd he anon, withoute tarrying,\nDid his message, and when that he it told,\nUrban for joy his handes gan uphold.\n\nThe teares from his eyen let he fall;\n\"Almighty Lord, O Jesus Christ,\"\nQuoth he, \"Sower of chaste counsel, herd of us all;\nThe fruit of thilke seed of chastity\nThat thou hast sown in Cecile, take to thee\nLo, like a busy bee, withoute guile,\nThee serveth aye thine owen thrall Cicile,\n\n\"For thilke spouse, that she took but now,\nFull like a fierce lion, she sendeth here,\nAs meek as e'er was any lamb to owe.\"\nAnd with that word anon there gan appear\nAn old man, clad in white clothes clear,\nThat had a book with letters of gold in hand,\nAnd gan before Valerian to stand.\n\nValerian, as dead, fell down for dread,\nWhen he him saw; and he up hent him tho,\nAnd on his book right thus he gan to read;\n\"One Lord, one faith, one God withoute mo',\nOne Christendom, one Father of all also,\nAboven all, and over all everywhere.\"\nThese wordes all with gold y-written were.\n\nWhen this was read, then said this olde man,\n\"Believ'st thou this or no? say yea or nay.\"\n\"I believe all this,\" quoth Valerian,\n\"For soother thing than this, I dare well say,\nUnder the Heaven no wight thinke may.\"\nThen vanish'd the old man, he wist not where\nAnd Pope Urban him christened right there.\n\nValerian went home, and found Cecilie\nWithin his chamber with an angel stand;\nThis angel had of roses and of lily\nCorones two, the which he bare in hand,\nAnd first to Cecile, as I understand,\nHe gave the one, and after gan he take\nThe other to Valerian her make.\n\n\"With body clean, and with unwemmed thought,\nKeep aye well these corones two,\" quoth he;\n\"From Paradise to you I have them brought,\nNor ever more shall they rotten be,\nNor lose their sweet savour, truste me,\nNor ever wight shall see them with his eye,\nBut he be chaste, and hate villainy.\n\n\"And thou, Valerian, for thou so soon\nAssented hast to good counsel, also\nSay what thee list, and thou shalt have thy boon.\"\n\"I have a brother,\" quoth Valerian tho,\n\"That in this world I love no man so;\nI pray you that my brother may have grace\nTo know the truth, as I do in this place.\"\n\nThe angel said, \"God liketh thy request,\nAnd bothe, with the palm of martyrdom,\nYe shalle come unto this blissful rest.\"\nAnd, with that word, Tiburce his brother came.\nAnd when that he the savour undernome\nWhich that the roses and the lilies cast,\nWithin his heart he gan to wonder fast;\n\nAnd said; \"I wonder, this time of the year,\nWhence that sweete savour cometh so\nOf rose and lilies, that I smelle here;\nFor though I had them in mine handes two,\nThe savour might in me no deeper go;\nThe sweete smell, that in my heart I find,\nHath changed me all in another kind.\"\n\nValerian said, \"Two crownes here have we,\nSnow-white and rose-red, that shine clear,\nWhich that thine eyen have no might to see;\nAnd, as thou smellest them through my prayere,\nSo shalt thou see them, leve brother dear,\nIf it so be thou wilt withoute sloth\nBelieve aright, and know the very troth. \"\n\nTiburce answered, \"Say'st thou this to me\nIn soothness, or in dreame hear I this?\"\n\"In dreames,\" quoth Valorian, \"have we be\nUnto this time, brother mine, y-wis\nBut now at erst in truth our dwelling is.\"\nHow know'st thou this,\" quoth Tiburce; \"in what wise?\"\nQuoth Valerian, \"That shall I thee devise\n\n\"The angel of God hath me the truth y-taught,\nWhich thou shalt see, if that thou wilt reny\nThe idols, and be clean, and elles nought.\"\n[And of the miracle of these crownes tway\nSaint Ambrose in his preface list to say;\nSolemnely this noble doctor dear\nCommendeth it, and saith in this mannere\n\n\"The palm of martyrdom for to receive,\nSaint Cecilie, full filled of God's gift,\nThe world and eke her chamber gan to weive;\nWitness Tiburce's and Cecilie's shrift,\nTo which God of his bounty woulde shift\nCorones two, of flowers well smelling,\nAnd made his angel them the crownes bring.\n\n\"The maid hath brought these men to bliss above;\nThe world hath wist what it is worth, certain,\nDevotion of chastity to love.\"]\nThen showed him Cecilie all open and plain,\nThat idols all are but a thing in vain,\nFor they be dumb, and thereto they be deave;\nAnd charged him his idols for to leave.\n\n\"Whoso that troweth not this, a beast he is,\"\nQuoth this Tiburce, \"if that I shall not lie.\"\nAnd she gan kiss his breast when she heard this,\nAnd was full glad he could the truth espy:\n\"This day I take thee for mine ally.\"\nSaide this blissful faire maiden dear;\nAnd after that she said as ye may hear.\n\n\"Lo, right so as the love of Christ,\" quoth she,\n\"Made me thy brother's wife, right in that wise\nAnon for mine ally here take I thee,\nSince that thou wilt thine idoles despise.\nGo with thy brother now and thee baptise,\nAnd make thee clean, so that thou may'st behold\nThe angel's face, of which thy brother told.\"\n\nTiburce answer'd, and saide, \"Brother dear,\nFirst tell me whither I shall, and to what man?\"\n\"To whom?\" quoth he, \"come forth with goode cheer,\nI will thee lead unto the Pope Urban.\"\n\"To Urban? brother mine Valerian,\"\nQuoth then Tiburce; \"wilt thou me thither lead?\nMe thinketh that it were a wondrous deed.\n\n\"Meanest thou not that Urban,\" quoth he tho,\n\"That is so often damned to be dead,\nAnd wons in halkes always to and fro,\nAnd dare not ones putte forth his head?\nMen should him brennen in a fire so red,\nIf he were found, or if men might him spy:\nAnd us also, to bear him company.\n\n\"And while we seeke that Divinity\nThat is y-hid in heaven privily,\nAlgate burnt in this world should we be.\"\nTo whom Cecilie answer'd boldely;\n\"Men mighte dreade well and skilfully\nThis life to lose, mine owen deare brother,\nIf this were living only, and none other.\n\n\"But there is better life in other place,\nThat never shall be loste, dread thee nought;\nWhich Godde's Son us tolde through his grace\nThat Father's Son which alle thinges wrought;\nAnd all that wrought is with a skilful thought,\nThe Ghost, that from the Father gan proceed,\nHath souled them, withouten any drede.\n\nBy word and by miracle, high God's Son,\nWhen he was in this world, declared here.\nThat there is other life where men may won.\"\nTo whom answer'd Tiburce, \"O sister dear,\nSaidest thou not right now in this mannere,\nThere was but one God, Lord in soothfastness,\nAnd now of three how may'st thou bear witness?\"\n\n\"That shall I tell,\" quoth she, \"ere that I go.\nRight as a man hath sapiences three,\nMemory, engine, and intellect also,\nSo in one being of divinity\nThree persones there maye right well be.\"\nThen gan she him full busily to preach\nOf Christe's coming, and his paines teach,\n\nAnd many pointes of his passion;\nHow Godde's Son in this world was withhold\nTo do mankinde plein remission,\nThat was y-bound in sin and cares cold.\nAll this thing she unto Tiburce told,\nAnd after that Tiburce, in good intent,\nWith Valerian to Pope Urban he went.\n\nThat thanked God, and with glad heart and light\nHe christen'd him, and made him in that place\nPerfect in his learning, and Godde's knight.\nAnd after this Tiburce got such grace,\nThat every day he saw in time and space\nTh' angel of God, and every manner boon\nThat be God asked, it was sped full anon.\n\nIt were full hard by order for to sayn\nHow many wonders Jesus for them wrought,\nBut at the last, to telle short and plain,\nThe sergeants of the town of Rome them sought,\nAnd them before Almach the Prefect brought,\nWhich them apposed, and knew all their intent,\nAnd to th'image of Jupiter them sent.\n\nAnd said, \"Whoso will not do sacrifice,\nSwap off his head, this is my sentence here.\"\nAnon these martyrs, that I you devise,\nOne Maximus, that was an officere\nOf the prefect's, and his corniculere\nThem hent, and when he forth the saintes lad,\nHimself he wept for pity that he had.\n\nWhen Maximus had heard the saintes lore,\nHe got him of the tormentores leave,\nAnd led them to his house withoute more;\nAnd with their preaching, ere that it were eve,\nThey gonnen from the tormentors to reave,\nAnd from Maxim', and from his folk each one,\nThe false faith, to trow in God alone.\n\nCecilia came, when it was waxen night,\nWith priestes, that them christen'd all in fere;\nAnd afterward, when day was waxen light,\nCecile them said with a full steadfast cheer,\n\"Now, Christe's owen knightes lefe and dear,\nCast all away the workes of darkness,\nAnd arme you in armour of brightness.\n\nYe have forsooth y-done a great battaile,\nYour course is done, your faith have ye conserved;\nO to the crown of life that may not fail;\nThe rightful Judge, which that ye have served\nShall give it you, as ye have it deserved.\"\nAnd when this thing was said, as I devise,\nMen led them forth to do the sacrifice.\n\nBut when they were unto the place brought\nTo telle shortly the conclusion,\nThey would incense nor sacrifice right nought\nBut on their knees they sette them adown,\nWith humble heart and sad devotion,\nAnd loste both their heades in the place;\nTheir soules wente to the King of grace.\n\nThis Maximus, that saw this thing betide,\nWith piteous teares told it anon right,\nThat he their soules saw to heaven glide\nWith angels, full of clearness and of light\nAndt with his word converted many a wight.\nFor which Almachius did him to-beat\nWith whip of lead, till he his life gan lete.\n\nCecile him took, and buried him anon\nBy Tiburce and Valerian softely,\nWithin their burying-place, under the stone.\nAnd after this Almachius hastily\nBade his ministers fetchen openly\nCecile, so that she might in his presence\nDo sacrifice, and Jupiter incense.\n\nBut they, converted at her wise lore,\nWepte full sore, and gave full credence\nUnto her word, and cried more and more;\n\"Christ, Godde's Son, withoute difference,\nIs very God, this is all our sentence,\nThat hath so good a servant him to serve\nThus with one voice we trowe, though we sterve.\n\nAlmachius, that heard of this doing,\nBade fetch Cecilie, that he might her see;\nAnd alderfirst, lo, this was his asking;\n\"What manner woman arte thou?\" quoth he,\n\"I am a gentle woman born,\" quoth she.\n\"I aske thee,\" quoth he,\"though it thee grieve,\nOf thy religion and of thy believe.\"\n\n\"Ye have begun your question foolishly,\"\nQuoth she, \"that wouldest two answers conclude\nIn one demand? ye aske lewedly.\"\nAlmach answer'd to that similitude,\n\"Of whence comes thine answering so rude?\"\n\"Of whence?\" quoth she, when that she was freined,\n\"Of conscience, and of good faith unfeigned.\"\n\nAlmachius saide; \"Takest thou no heed\nOf my power?\" and she him answer'd this;\n\"Your might,\" quoth she, \"full little is to dread;\nFor every mortal manne's power is\nBut like a bladder full of wind, y-wis;\nFor with a needle's point, when it is blow',\nMay all the boast of it be laid full low.\"\n\n\"Full wrongfully begunnest thou,\" quoth he,\n\"And yet in wrong is thy perseverance.\nKnow'st thou not how our mighty princes free\nHave thus commanded and made ordinance,\nThat every Christian wight shall have penance,\nBut if that he his Christendom withsay,\nAnd go all quit, if he will it renay?\"\n\n\"Your princes erren, as your nobley doth,\"\nQuoth then Cecile, \"and with a wood sentence\nYe make us guilty, and it is not sooth:\nFor ye that knowe well our innocence,\nForasmuch as we do aye reverence\nTo Christ, and for we bear a Christian name,\nYe put on us a crime and eke a blame.\n\n\"But we that knowe thilke name so\nFor virtuous, we may it not withsay.\"\nAlmach answered, \"Choose one of these two,\nDo sacrifice, or Christendom renay,\nThat thou may'st now escape by that way.\"\nAt which the holy blissful faire maid\nGan for to laugh, and to the judge said;\n\n\"O judge, confused in thy nicety,\nWouldest thou that I reny innocence?\nTo make me a wicked wight,\" quoth she,\n\"Lo, he dissimuleth here in audience;\nHe stareth and woodeth in his advertence.\"\nTo whom Almachius said, \"Unsely wretch,\nKnowest thou not how far my might may stretch?\n\n\"Have not our mighty princes to me given\nYea bothe power and eke authority\nTo make folk to dien or to liven?\nWhy speakest thou so proudly then to me?\"\n\"I speake not but steadfastly,\" quoth she,\nNot proudly, for I say, as for my side,\nWe hate deadly thilke vice of pride.\n\n\"And, if thou dreade not a sooth to hear,\nThen will I shew all openly by right,\nThat thou hast made a full great leasing here.\nThou say'st thy princes have thee given might\nBoth for to slay and for to quick a wight, --\nThou that may'st not but only life bereave;\nThou hast none other power nor no leave.\n\n\"But thou may'st say, thy princes have thee maked\nMinister of death; for if thou speak of mo',\nThou liest; for thy power is full naked.\"\n\"Do away thy boldness,\" said Almachius tho,\n\"And sacrifice to our gods, ere thou go.\nI recke not what wrong that thou me proffer,\nFor I can suffer it as a philosopher.\n\n\"But those wronges may I not endure,\nThat thou speak'st of our goddes here,\" quoth he.\nCecile answer'd, \"O nice creature,\nThou saidest no word, since thou spake to me,\nThat I knew not therewith thy nicety,\nAnd that thou wert in every manner wise\nA lewed officer, a vain justice.\n\n\"There lacketh nothing to thine outward eyen\nThat thou art blind; for thing that we see all\nThat it is stone, that men may well espyen,\nThat ilke stone a god thou wilt it call.\nI rede thee let thine hand upon it fall,\nAnd taste it well, and stone thou shalt it find;\nSince that thou see'st not with thine eyen blind.\n\n\"It is a shame that the people shall\nSo scorne thee, and laugh at thy folly;\nFor commonly men wot it well over all,\nThat mighty God is in his heaven high;\nAnd these images, well may'st thou espy,\nTo thee nor to themselves may not profite,\nFor in effect they be not worth a mite.\"\n\nThese wordes and such others saide she,\nAnd he wax'd wroth, and bade men should her lead\nHome to her house; \"And in her house,\" quoth he,\n\"Burn her right in a bath, with flames red.\"\nAnd as he bade, right so was done the deed;\nFor in a bath they gan her faste shetten,\nAnd night and day great fire they under betten.\n\nThe longe night, and eke a day also,\nFor all the fire, and eke the bathe's heat,\nShe sat all cold, and felt of it no woe,\nIt made her not one droppe for to sweat;\nBut in that bath her life she must lete.\nFor he, Almachius, with full wick' intent,\nTo slay her in the bath his sonde sent.\n\nThree strokes in the neck he smote her tho,\nThe tormentor, but for no manner chance\nHe might not smite her faire neck in two:\nAnd, for there was that time an ordinance\nThat no man should do man such penance,\nThe fourthe stroke to smite, soft or sore,\nThis tormentor he durste do no more;\n\nBut half dead, with her necke carven there\nHe let her lie, and on his way is went.\nThe Christian folk, which that about her were,\nWith sheetes have the blood full fair y-hent;\nThree dayes lived she in this torment,\nAnd never ceased them the faith to teach,\nThat she had foster'd them, she gan to preach.\n\nAnd them she gave her mebles and her thing,\nAnd to the Pope Urban betook them tho;\nAnd said, \"I aske this of heaven's king,\nTo have respite three dayes and no mo',\nTo recommend to you, ere that I go,\nThese soules, lo; and that I might do wirch\nHere of mine house perpetually a church.\"\n\nSaint Urban, with his deacons, privily\nThe body fetch'd, and buried it by night\nAmong his other saintes honestly;\nHer house the church of Saint Cecilie hight;\nSaint Urban hallow'd it, as he well might;\nIn which unto this day, in noble wise,\nMen do to Christ and to his saint service.",
+      "source": {
+        "name": "Geoffrey Chaucer · PoetryDB",
+        "url": "https://poetrydb.org/title/The%20Canterbury%20Tales.%20The%20Second%20Nun's%20Tale",
+        "trustTier": "community",
+        "author": "Geoffrey Chaucer"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:36:23.875Z",
+      "hash": "af4063888bdb9796"
+    },
+    {
+      "id": "poetry:3c28df25b85d4f94",
+      "type": "poem",
+      "title": "Hymn of Pan",
+      "summary": "From the forests and highlands\nWe come, we come;\nFrom the river-girt islands,\nWhere loud waves are dumb",
+      "body": "From the forests and highlands\nWe come, we come;\nFrom the river-girt islands,\nWhere loud waves are dumb\nListening to my sweet pipings.\nThe wind in the reeds and the rushes,\nThe bees on the bells of thyme,\nThe birds on the myrtle bushes,\nThe cicale above in the lime,\nAnd the lizards below in the grass,\nWere as silent as ever old Tmolus was,\nListening to my sweet pipings.\n\nLiquid Peneus was flowing,\nAnd all dark Tempe lay\nIn Pelion's shadow, outgrowing\nThe light of the dying day,\nSpeeded by my sweet pipings.\nThe Sileni, and Sylvans, and Fauns,\nAnd the Nymphs of the woods and the waves,\nTo the edge of the moist river-lawns,\nAnd the brink of the dewy caves,\nAnd all that did then attend and follow,\nWere silent with love, as you now, Apollo,\nWith envy of my sweet pipings.\n\nI sang of the dancing stars,\nI sang of the daedal Earth,\nAnd of Heaven--and the giant wars,\nAnd Love, and Death, and Birth,--\nAnd then I changed my pipings,--\nSinging how down the vale of Maenalus\nI pursued a maiden and clasped a reed.\nGods and men, we are all deluded thus!\nIt breaks in our bosom and then we bleed:\nAll wept, as I think both ye now would,\nIf envy or age had not frozen your blood,\nAt the sorrow of my sweet pipings.",
+      "source": {
+        "name": "Percy Bysshe Shelley · PoetryDB",
+        "url": "https://poetrydb.org/title/Hymn%20of%20Pan",
+        "trustTier": "community",
+        "author": "Percy Bysshe Shelley"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-20T10:36:23.875Z",
+      "hash": "3c28df25b85d4f94"
+    },
+    {
+      "id": "art:si:ld1-1643399857816-1643399861692-0",
+      "type": "art",
+      "title": "Walt Whitman",
+      "summary": "Hirshhorn Museum and Sculpture Garden · 1890s · Sculpture",
+      "body": "Hirshhorn Museum and Sculpture Garden\n1890s · Sculpture",
+      "image": {
+        "src": "data/images/93ef7e16fde5ad70.jpg",
+        "alt": "Walt Whitman",
+        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.3737",
+        "trustTier": "encyclopedic",
+        "date": "1890s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-20T10:36:19.024Z",
+      "hash": "e332959cf05c93ef"
+    },
+    {
+      "id": "art:si:ld1-1643399857816-1643399859486-0",
+      "type": "art",
+      "title": "Dancer at Rest, Hands on Hips, Right Leg Forward",
+      "summary": "Hirshhorn Museum and Sculpture Garden · 1880s · Sculpture",
+      "body": "Hirshhorn Museum and Sculpture Garden\n1880s · Sculpture",
+      "image": {
+        "src": "data/images/e854323730032087.jpg",
+        "alt": "Dancer at Rest, Hands on Hips, Right Leg Forward",
+        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.1297",
+        "trustTier": "encyclopedic",
+        "date": "1880s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-20T10:36:19.024Z",
+      "hash": "76543660e147aaa8"
+    },
+    {
+      "id": "met:207753",
+      "type": "art",
+      "title": "Pair of double doors",
+      "summary": "Unknown artist · ca. 1710 · Carved, painted, and gilded oak; modern gilt bronze",
+      "body": "Unknown artist · ca. 1710 · Carved, painted, and gilded oak; modern gilt bronze\nGift of Hubert de Givenchy, in honor of Mrs. Charles Wrightsman, 1988\nEuropean Sculpture and Decorative Arts",
+      "image": {
+        "src": "data/images/1b43b4cd33c73290.jpg",
+        "alt": "Pair of double doors",
+        "credit": "The Met · Gift of Hubert de Givenchy, in honor of Mrs. Charles Wrightsman, 1988"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/207753",
+        "trustTier": "encyclopedic",
+        "date": "ca. 1710"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower",
+        "woodwork"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-20T10:36:17.654Z",
+      "hash": "b9d57b88f094448a"
+    },
+    {
+      "id": "met:437526",
+      "type": "art",
+      "title": "A Forest at Dawn with a Deer Hunt",
+      "summary": "Peter Paul Rubens · ca. 1635 · Oil on wood",
+      "body": "Peter Paul Rubens · ca. 1635 · Oil on wood\nPurchase, The Annenberg Foundation, Mrs. Charles Wrightsman, Michel David-Weill, The Dillon Fund, Henry J. and Drue Heinz Foundation, Lola Kramarsky, Annette de la Renta, Mr. and Mrs. Arthur Ochs Sulzberger, The Vincent Astor Foundation, and Peter J. Sharp Gifts; special funds, gifts, and other gifts and bequests, by exchange, 1990\nEuropean Paintings",
+      "image": {
+        "src": "data/images/f41c811a7c12258f.jpg",
+        "alt": "A Forest at Dawn with a Deer Hunt",
+        "credit": "The Met · Purchase, The Annenberg Foundation, Mrs. Charles Wrightsman, Michel David-Weill, The Dillon Fund, Henry J. and Drue Heinz Foundation, Lola Kramarsky, Annette de la Renta, Mr. and Mrs. Arthur Ochs Sulzberger, The Vincent Astor Foundation, and Peter J. Sharp Gifts; special funds, gifts, and other gifts and bequests, by exchange, 1990"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/437526",
+        "trustTier": "encyclopedic",
+        "author": "Peter Paul Rubens",
+        "date": "ca. 1635"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower",
+        "paintings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-20T10:36:17.454Z",
+      "hash": "717ef27329161c0d"
+    },
+    {
+      "id": "met:436530",
+      "type": "art",
+      "title": "Oleanders",
+      "summary": "Vincent van Gogh · 1888 · Oil on canvas",
+      "body": "Vincent van Gogh · 1888 · Oil on canvas\nGift of Mr. and Mrs. John L. Loeb, 1962\nEuropean Paintings",
+      "image": {
+        "src": "data/images/06dd3277e1851a09.jpg",
+        "alt": "Oleanders",
+        "credit": "The Met · Gift of Mr. and Mrs. John L. Loeb, 1962"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/436530",
+        "trustTier": "encyclopedic",
+        "author": "Vincent van Gogh",
+        "date": "1888"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower",
+        "paintings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-20T10:36:17.350Z",
+      "hash": "0a6d3cc59bf4d558"
+    },
+    {
+      "id": "apod:2003-04-14",
+      "type": "space",
+      "title": "A Gamma Ray Burst - Supernova Connection",
+      "summary": "New evidence has emerged that a mysterious type of explosion known as a gamma ray burst is indeed connected to a supernova of the type visible in the above image. Two weeks ago, the orbiting HETE satellite detected gamma-ray burst GRB030329. The extremely bright burst was found hours later to have an extremely bright…",
+      "body": "New evidence has emerged that a mysterious type of explosion known as a gamma ray burst is indeed connected to a supernova of the type visible in the above image. Two weeks ago, the orbiting HETE satellite detected gamma-ray burst GRB030329. The extremely bright burst was found hours later to have an extremely bright afterglow in visible light, and soon set the record for the closest measured distance at redshift 0.17. The afterglow brightness allows unprecedented coverage of its evolution. Just this week, as many astronomers suspected would happen, the afterglow began to appear as a fading Type II Supernova. Type II Supernovas might not appear coincident with gamma-ray bursts, however, when the gamma-ray beam goes in another direction. The above spiral galaxy, NGC 3184, was home to a Type II Supernova in 1999 at the position of the arrow. Astronomers are currently pressing hard to find the host galaxy for GRB030329.",
+      "image": {
+        "src": "data/images/db15decc479a89d4.jpg",
+        "alt": "A Gamma Ray Burst - Supernova Connection",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap030414.html",
+        "trustTier": "encyclopedic",
+        "date": "2003-04-14"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:36:17.015Z",
+      "hash": "04e1129bb7b7d7e4"
+    },
+    {
+      "id": "apod:2023-05-24",
+      "type": "space",
+      "title": "Observatory Aligned with Moon Occulting Jupiter",
+      "summary": "Sometimes we witness the Moon moving directly in front of -- called occulting -- one of the planets in our Solar System. Earlier this month that planet was Jupiter. Captured here was the moment when Jupiter re-appeared from behind the surface of our Moon. The Moon was in its third quarter, two days before the dark…",
+      "body": "Sometimes we witness the Moon moving directly in front of -- called occulting -- one of the planets in our Solar System. Earlier this month that planet was Jupiter. Captured here was the moment when Jupiter re-appeared from behind the surface of our Moon. The Moon was in its third quarter, two days before the dark New Moon. Now, our Moon is continuously half lit by the Sun, but when in its third quarter, relatively little of that half can be seen from the Earth. Pictured, the Moon itself was aligned behind the famous Lick Observatory in California, USA, on the summit of Mount Hamilton. Coincidentally, Lick enabled the discovery of a moon of Jupiter: Amalthea, the last visually detected moon of Jupiter after Galileo's observations. Gallery: Moon Occults Jupiter in 2023 May: Notable Submissions to APOD",
+      "image": {
+        "src": "data/images/997eb84bf801c311.jpg",
+        "alt": "Observatory Aligned with Moon Occulting Jupiter",
+        "credit": "© Rick Whitacre; Text: Natalia Lewandowska (SUNY Oswego)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap230524.html",
+        "trustTier": "encyclopedic",
+        "date": "2023-05-24"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:36:17.015Z",
+      "hash": "c0b06e28307e0ab4"
+    },
+    {
+      "id": "apod:2004-10-23",
+      "type": "space",
+      "title": "Surveyor Slides",
+      "summary": "\"Safe!\" In September 1967, during regular season play, the Surveyor 5 lander actually slid several feet while making a successful soft landing on the Moon's Mare Tranquillitatis. Equipped with television cameras and soil sampling experiments, the US Surveyor spacecraft were intended to determine if the lunar surface…",
+      "body": "\"Safe!\" In September 1967, during regular season play, the Surveyor 5 lander actually slid several feet while making a successful soft landing on the Moon's Mare Tranquillitatis. Equipped with television cameras and soil sampling experiments, the US Surveyor spacecraft were intended to determine if the lunar surface at chosen locations was safe for the planned Apollo landings. Surveyor 5 touched down on the inside edge of a small crater inclined at about 20 degrees. Its footpad slipped and dug the trench visible in the picture. Covered with dusty lunar soil, the footpad is about half a meter in diameter.",
+      "image": {
+        "src": "data/images/db669a8a762f669f.jpg",
+        "alt": "Surveyor Slides",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap041023.html",
+        "trustTier": "encyclopedic",
+        "date": "2004-10-23"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:36:17.015Z",
+      "hash": "c50a845a75ed8cee"
+    },
+    {
+      "id": "apod:2007-05-01",
+      "type": "space",
+      "title": "Swirling Clouds Over the South Pole of Venus",
+      "summary": "What's happening over the South Pole of Venus? To find out, scientists sent the robot Venus Express spacecraft now orbiting Venus directly over the lower spin axis of Earth's overheated twin. Venus Express confirmed there a spectacular massive swirling storm system with similarities to the vortex recently imaged over…",
+      "body": "What's happening over the South Pole of Venus? To find out, scientists sent the robot Venus Express spacecraft now orbiting Venus directly over the lower spin axis of Earth's overheated twin. Venus Express confirmed there a spectacular massive swirling storm system with similarities to the vortex recently imaged over Saturn's South Pole. The above composite image in infrared light features Venus' daytime side on the left, shining primarily by reflected sunlight, and nighttime side on the right, shining primarily by thermal light. A Venusian polar vortex is visible as the small circular feature near the center of the thermal infrared image pictured on the right. Close inspection of other South Pole images unexpectedly showed a second vortex, meaning that the unusual swirling clouds are like an Earth-hurricane that has two eyes. Why a double vortex has formed is now a topic of research. The above image was taken last year, and more recent images from Venus Express are being processed that have as much as 100 times more detail.",
+      "image": {
+        "src": "data/images/a3d4de39e2ea5a36.jpg",
+        "alt": "Swirling Clouds Over the South Pole of Venus",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap070501.html",
+        "trustTier": "encyclopedic",
+        "date": "2007-05-01"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:36:17.014Z",
+      "hash": "1469274bf06fbaed"
+    },
+    {
+      "id": "apod:2026-02-11",
+      "type": "space",
+      "title": "A Year of Sunspots",
+      "summary": "How many sunspots can you see? The central image shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image. Each sunspot is magnetically cooled and so appears dark -- and can last from days to months. Although the featured images originated from…",
+      "body": "How many sunspots can you see? The central image shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image. Each sunspot is magnetically cooled and so appears dark -- and can last from days to months. Although the featured images originated from NASA's Solar Dynamics Observatory, sunspots can be easily seen with a small telescope or binoculars equipped with a solar filter. Very large sunspot groups like recent AR 4366 can even be seen with eclipse glasses. Sunspots are still counted by eye, but the total number is not considered exact because they frequently change and break up. Last year, 2025, coincided with a solar maximum, the period of most intense magnetic activity during its 11-year solar cycle. Our Sun remains unpredictable in many ways, including when it ejects solar flares that will impact the Earth, and how active the next solar cycle will be.",
+      "image": {
+        "src": "data/images/9f823dd6456008b7.jpg",
+        "alt": "A Year of Sunspots",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap260211.html",
+        "trustTier": "encyclopedic",
+        "date": "2026-02-11"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:36:17.014Z",
+      "hash": "6f00afb28690aaab"
+    },
+    {
+      "id": "onthisday:06-20:1921:661f729bec84d2a8",
+      "type": "history",
+      "title": "1921: Thomas Stanton Lambert",
+      "summary": "British Army officer Thomas Stanton Lambert was assassinated by the Irish Republican Army near Moydrum, Ireland.",
+      "body": "British Army officer Thomas Stanton Lambert was assassinated by the Irish Republican Army near Moydrum, Ireland.",
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Stanton_Lambert",
+        "trustTier": "encyclopedic",
+        "date": "06-20"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:35:45.879Z",
+      "hash": "1aea2372e89231f2",
+      "expires": "2026-06-23T10:35:45.879Z"
+    },
+    {
+      "id": "onthisday:06-20:1994:72f8de815a9f6085",
+      "type": "history",
+      "title": "1994: Imam Reza shrine bombing",
+      "summary": "A bomb explosion in the Imam Reza shrine in Mashhad, Iran, left at least 25 dead and more than 70 injured.",
+      "body": "A bomb explosion in the Imam Reza shrine in Mashhad, Iran, left at least 25 dead and more than 70 injured.",
+      "image": {
+        "src": "data/images/893089f2a85174bc.jpg",
+        "alt": "Imam Reza shrine bombing",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Imam_Reza_shrine_bombing",
+        "trustTier": "encyclopedic",
+        "date": "06-20"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:35:45.879Z",
+      "hash": "08ec14aa92a9fab4",
+      "expires": "2026-06-23T10:35:45.879Z"
+    },
+    {
+      "id": "onthisday:06-20:1960:a6e9b3705c89cd0a",
+      "type": "history",
+      "title": "1960: Mali Federation",
+      "summary": "The Mali Federation gained independence from France, but dissolved into Mali and Senegal two months later.",
+      "body": "The Mali Federation gained independence from France, but dissolved into Mali and Senegal two months later.",
+      "image": {
+        "src": "data/images/2267f2fd78da70d4.png",
+        "alt": "Mali Federation",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Mali_Federation",
+        "trustTier": "encyclopedic",
+        "date": "06-20"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:35:45.879Z",
+      "hash": "3909301dbd679b7e",
+      "expires": "2026-06-23T10:35:45.879Z"
+    },
+    {
+      "id": "wikipedia:71792802",
+      "type": "wiki",
+      "title": "Roman Villa of Pliny \"in Tuscis\"",
+      "summary": "The Villa of Pliny in Tuscis was a large, elaborate ancient Roman villa-estate that belonged to the Plinys. It is located at Colle Plinio near San Giustino, Umbria, Italy.",
+      "body": "The Villa of Pliny in Tuscis was a large, elaborate ancient Roman villa-estate that belonged to the Plinys. It is located at Colle Plinio near San Giustino, Umbria, Italy.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Roman_Villa_of_Pliny_%22in_Tuscis%22",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:35:45.471Z",
+      "hash": "2ccf4c1777c7299d"
+    },
+    {
+      "id": "wikipedia:82984328",
+      "type": "wiki",
+      "title": "2026 World Artistic Gymnastics Championships",
+      "summary": "The 2026 World Artistic Gymnastics Championships will be held in Rotterdam, Netherlands from 17 to 25 October 2026. The event will be held at Rotterdam Ahoy. This will be the third time Rotterdam has hosted the Artistic Gymnastics World Championships after doing so in 1987 and 2010.",
+      "body": "The 2026 World Artistic Gymnastics Championships will be held in Rotterdam, Netherlands from 17 to 25 October 2026. The event will be held at Rotterdam Ahoy. This will be the third time Rotterdam has hosted the Artistic Gymnastics World Championships after doing so in 1987 and 2010.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2026_World_Artistic_Gymnastics_Championships",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:35:45.344Z",
+      "hash": "657349cc5ef788f8"
+    },
+    {
+      "id": "wikipedia:10416587",
+      "type": "wiki",
+      "title": "Tim Timmons (umpire)",
+      "summary": "Timothy Forbes Timmons is an American retired Major League Baseball umpire. After debuting in the National League as a substitute in late 1999, Timmons was promoted to the MLB umpiring staff in 2002. He worked the World Series in 2018 and retired following the 2022 season.",
+      "body": "Timothy Forbes Timmons is an American retired Major League Baseball umpire. After debuting in the National League as a substitute in late 1999, Timmons was promoted to the MLB umpiring staff in 2002. He worked the World Series in 2018 and retired following the 2022 season.",
+      "image": {
+        "src": "data/images/f6d64587988c2c8f.jpg",
+        "alt": "Tim Timmons (umpire)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tim_Timmons_(umpire)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:35:44.915Z",
+      "hash": "5e232b086cdb46fe"
+    },
+    {
+      "id": "wikipedia:76258405",
+      "type": "wiki",
+      "title": "Weather friar",
+      "summary": "The Weather friar, is an absorption hygrometer created by Agapito Borràs Pedemonte in 1894.",
+      "body": "The Weather friar, is an absorption hygrometer created by Agapito Borràs Pedemonte in 1894.",
+      "image": {
+        "src": "data/images/2a3fcd962f73cc3b.jpg",
+        "alt": "Weather friar",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Weather_friar",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-20T10:35:44.783Z",
+      "hash": "5d0680df51e722c4"
+    },
     {
       "id": "chess:flTV4",
       "type": "chess",
@@ -11340,1188 +12426,6 @@
       "difficulty": 3,
       "fetchedAt": "2026-06-08T23:10:25.915Z",
       "hash": "eacdb9eca5881152"
-    },
-    {
-      "id": "article:610a95574c360a21",
-      "type": "article",
-      "title": "Why I’m Skeptical About Efforts to Revolutionize Schooling",
-      "summary": "A brief explanation of my pessimism about efforts to radically improve education. The post Why I’m Skeptical About Efforts to Revolutionize Schooling appeared first on Scott H Young.",
-      "body": "A brief explanation of my pessimism about efforts to radically improve education. The post Why I’m Skeptical About Efforts to Revolutionize Schooling appeared first on Scott H Young.",
-      "image": {
-        "src": "data/images/745598a80df143b0.jpg",
-        "alt": "Why I’m Skeptical About Efforts to Revolutionize Schooling",
-        "credit": "Scott H. Young"
-      },
-      "source": {
-        "name": "Scott H. Young",
-        "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-        "trustTier": "community",
-        "author": "Scott Young",
-        "date": "Wed, 27 May 2026 21:10:4"
-      },
-      "tags": [
-        "learning",
-        "productivity",
-        "ideas",
-        "general"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:25.915Z",
-      "hash": "610a95574c360a21"
-    },
-    {
-      "id": "article:22af2bbf421350c5",
-      "type": "article",
-      "title": "Mental Models That Change How You Think | Bill Gurley",
-      "summary": "Bill Gurley spent years on Wall Street, built his career as a partner at Benchmark, worked through Uber’s hypergrowth era, and now serves on the board of the Santa Fe Institute, where he studies complexity and systems thinking. Public Release: June 9. Members have access now.Join us. Coming Soon:…",
-      "body": "Bill Gurley spent years on Wall Street, built his career as a partner at Benchmark, worked through Uber’s hypergrowth era, and now serves on the board of the Santa Fe Institute, where he studies complexity and systems thinking. Public Release: June 9. Members have access now.Join us. Coming Soon: YouTube | Spotify | Apple Podcasts … The post Mental Models That Change How You Think | Bill Gurley appeared first on Farnam Street.",
-      "source": {
-        "name": "Farnam Street",
-        "url": "https://fs.blog/knowledge-project-podcast/bill-gurley/",
-        "trustTier": "community",
-        "author": "Vicky",
-        "date": "Thu, 04 Jun 2026 09:30:0"
-      },
-      "tags": [
-        "ideas",
-        "psychology",
-        "decision-making"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:25.374Z",
-      "hash": "22af2bbf421350c5"
-    },
-    {
-      "id": "article:3c6e07f112a8c9df",
-      "type": "article",
-      "title": "In a classic case of therapeutic culture run amok, professors are refusing to punish their students for cheating with AI",
-      "summary": "In a classic case of therapeutic culture run amok, professors are refusing to punish their students for cheating with AI",
-      "body": "In a classic case of therapeutic culture run amok, professors are refusing to punish their students for cheating with AI",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://freddiedeboer.substack.com/p/you-can-and-should-blame-young-people",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:23.567Z",
-      "hash": "3c6e07f112a8c9df"
-    },
-    {
-      "id": "article:8c5b9a2a2e731c0a",
-      "type": "article",
-      "title": "What makes Great Books great? Their honesty, rigor, seriousness, and sensitivity — all qualities they can lend to their readers",
-      "summary": "What makes Great Books great? Their honesty, rigor, seriousness, and sensitivity — all qualities they can lend to their readers",
-      "body": "What makes Great Books great? Their honesty, rigor, seriousness, and sensitivity — all qualities they can lend to their readers",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://theamericanscholar.org/in-defense-of-difficult-reading",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:23.567Z",
-      "hash": "8c5b9a2a2e731c0a"
-    },
-    {
-      "id": "article:491ccd3da6af623d",
-      "type": "article",
-      "title": "Are Memories Transferable — or Edible?",
-      "summary": "In the 1960s, worm-training experiments and their strange implications captivated the nation. Columnist Claire L. Evans follows the neuroscientists who attempted to recapture the magic. The post Are Memories Transferable — or Edible? first appeared on Quanta Magazine",
-      "body": "In the 1960s, worm-training experiments and their strange implications captivated the nation. Columnist Claire L. Evans follows the neuroscientists who attempted to recapture the magic. The post Are Memories Transferable — or Edible? first appeared on Quanta Magazine",
-      "image": {
-        "src": "data/images/740705f9e7123870.webp",
-        "alt": "Are Memories Transferable — or Edible?",
-        "credit": "Quanta Magazine"
-      },
-      "source": {
-        "name": "Quanta Magazine",
-        "url": "https://www.quantamagazine.org/are-memories-transferable-or-edible-20260605/",
-        "trustTier": "publication",
-        "author": "Claire L. Evans",
-        "date": "Fri, 05 Jun 2026 14:21:1"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "mathematics",
-        "biology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:21.871Z",
-      "hash": "491ccd3da6af623d"
-    },
-    {
-      "id": "article:36f26557788e0b3a",
-      "type": "article",
-      "title": "What shape is the Earth?",
-      "summary": "The extraordinary challenge of determining the true shape of Earth reveals the deep value of measurement to scientific progress- by Miguel OhnesorgeRead on Aeon",
-      "body": "The extraordinary challenge of determining the true shape of Earth reveals the deep value of measurement to scientific progress- by Miguel OhnesorgeRead on Aeon",
-      "image": {
-        "src": "data/images/d14f5d5fa5ced1c5.jpg",
-        "alt": "What shape is the Earth?",
-        "credit": "Aeon"
-      },
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/essays/why-did-measuring-earths-true-shape-matter-for-science",
-        "trustTier": "publication",
-        "author": "Miguel Ohnesorge",
-        "date": "Mon, 08 Jun 2026 10:00:0"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "philosophy"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:21.482Z",
-      "hash": "36f26557788e0b3a"
-    },
-    {
-      "id": "poetry:ff51ca617db38989",
-      "type": "poem",
-      "title": "Sonnet 58: That god forbid, that made me first your slave",
-      "summary": "That god forbid, that made me first your slave,\nI should in thought control your times of pleasure,\nOr at your hand the account of hours to crave,\nBeing your vassal, bound to stay your leisure!",
-      "body": "That god forbid, that made me first your slave,\nI should in thought control your times of pleasure,\nOr at your hand the account of hours to crave,\nBeing your vassal, bound to stay your leisure!\nO! let me suffer, being at your beck,\nThe imprison'd absence of your liberty;\nAnd patience, tame to sufferance, bide each check,\nWithout accusing you of injury.\nBe where you list, your charter is so strong\nThat you yourself may privilage your time\nTo what you will; to you it doth belong\nYourself to pardon of self-doing crime.\n  I am to wait, though waiting so be hell,\n  Not blame your pleasure be it ill or well.",
-      "source": {
-        "name": "William Shakespeare · PoetryDB",
-        "url": "https://poetrydb.org/title/Sonnet%2058%3A%20That%20god%20forbid%2C%20that%20made%20me%20first%20your%20slave",
-        "trustTier": "community",
-        "author": "William Shakespeare"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:21.307Z",
-      "hash": "ff51ca617db38989"
-    },
-    {
-      "id": "poetry:28885ca903d72ec6",
-      "type": "poem",
-      "title": "The Brook",
-      "summary": "SEATED once by a brook, watching a child\nChiefly that paddled, I was thus beguiled.\nMellow the blackbird sang and sharp the thrush\nNot far off in the oak and hazel brush,",
-      "body": "SEATED once by a brook, watching a child\nChiefly that paddled, I was thus beguiled.\nMellow the blackbird sang and sharp the thrush\nNot far off in the oak and hazel brush,\nUnseen. There was a scent like honeycomb\nFrom mugwort dull. And down upon the dome\nOf the stone the cart-horse kicks against so oft\nA butterfly alighted. From aloft\nHe took the heat of the sun, and from below.\nOn the hot stone he perched contented so,\nAs if never a cart would pass again\nThat way; as if I were the last of men\nAnd he the first of insects to have earth\nAnd sun together and to know their worth.\nI was divided between him and the gleam,\nThe motion, and the voices, of the stream,\nThe waters running frizzled over gravel,\nThat never vanish and for ever travel.\nA grey flycatcher silent on a fence\nAnd I sat as if we had been there since\nThe horseman and the horse lying beneath\nThe fir-tree-covered barrow on the heath,\nThe horseman and the horse with silver shoes,\nGalloped the downs last. All that I could lose\nI lost. And then the child's voice raised the dead.\n\"No one's been here before\" was what she said\nAnd what I felt, yet never should have found\nA word for, while I gathered sight and sound.",
-      "source": {
-        "name": "Edward Thomas · PoetryDB",
-        "url": "https://poetrydb.org/title/The%20Brook",
-        "trustTier": "community",
-        "author": "Edward Thomas"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:21.307Z",
-      "hash": "28885ca903d72ec6"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399894193-1",
-      "type": "art",
-      "title": "Two Sailing Ships",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1840s · Drawings",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1840s · Drawings",
-      "image": {
-        "src": "data/images/c3c5e1d102f6f5a4.jpg",
-        "alt": "Two Sailing Ships",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/22788",
-        "trustTier": "encyclopedic",
-        "date": "1840s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "ship",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:20.752Z",
-      "hash": "d8073e83b42ef0da"
-    },
-    {
-      "id": "met:220360",
-      "type": "art",
-      "title": "Piece",
-      "summary": "Unknown artist · 1735–40 · Silk",
-      "body": "Unknown artist · 1735–40 · Silk\nRogers Fund, 1920\nEuropean Sculpture and Decorative Arts",
-      "image": {
-        "src": "data/images/6da3e21cffdb7cce.jpg",
-        "alt": "Piece",
-        "credit": "The Met · Rogers Fund, 1920"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/220360",
-        "trustTier": "encyclopedic",
-        "date": "1735–40"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "flower",
-        "textiles-woven"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:19.633Z",
-      "hash": "02ec0b1ca061dfa6"
-    },
-    {
-      "id": "met:58625",
-      "type": "art",
-      "title": "Case (Inrō) with Design of God of Longevity (Jurōjin) beside Flowering Plum Tree (obverse); Karako Walking on Bridge (reverse)",
-      "summary": "Unknown artist · 19th century · Lacquer, kinji, gold, silver and black hiramakie, kirigane, metal inlay; Interior: nashiji and fundame",
-      "body": "Unknown artist · 19th century · Lacquer, kinji, gold, silver and black hiramakie, kirigane, metal inlay; Interior: nashiji and fundame\nBequest of Benjamin Altman, 1913\nAsian Art",
-      "image": {
-        "src": "data/images/38c92c6d0152861d.jpg",
-        "alt": "Case (Inrō) with Design of God of Longevity (Jurōjin) beside Flowering Plum Tree (obverse); Karako Walking on Bridge (reverse)",
-        "credit": "The Met · Bequest of Benjamin Altman, 1913"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/58625",
-        "trustTier": "encyclopedic",
-        "date": "19th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "flower",
-        "inrō"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:19.427Z",
-      "hash": "4adf571af7c628e4"
-    },
-    {
-      "id": "met:209410",
-      "type": "art",
-      "title": "Vase (one of a pair)",
-      "summary": "Meissen Manufactory · ca. 1713–20 · Hard-paste porcelain",
-      "body": "Meissen Manufactory · ca. 1713–20 · Hard-paste porcelain\nGift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1954\nEuropean Sculpture and Decorative Arts",
-      "image": {
-        "src": "data/images/426277ef84cf83d3.jpg",
-        "alt": "Vase (one of a pair)",
-        "credit": "The Met · Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1954"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/209410",
-        "trustTier": "encyclopedic",
-        "author": "Meissen Manufactory",
-        "date": "ca. 1713–20"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "flower",
-        "ceramics-porcelain"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:19.204Z",
-      "hash": "5ba7e65a6e12a441"
-    },
-    {
-      "id": "apod:2009-08-01",
-      "type": "space",
-      "title": "SN 1006 Supernova Remnant",
-      "summary": "A new star, likely the brightest supernova in recorded human history, lit up planet Earth's sky in the year 1006 AD. The expanding debris cloud from the stellar explosion, found in the southerly constellation of Lupus, still puts on a cosmic light show across the electromagnetic spectrum. In fact, this composite view…",
-      "body": "A new star, likely the brightest supernova in recorded human history, lit up planet Earth's sky in the year 1006 AD. The expanding debris cloud from the stellar explosion, found in the southerly constellation of Lupus, still puts on a cosmic light show across the electromagnetic spectrum. In fact, this composite view includes X-ray data in blue from the Chandra Observatory, optical data in yellowish hues, and radio image data in red. Now known as the SN 1006 supernova remnant, the debris cloud appears to be about 60 light-years across and is understood to represent the remains of a white dwarf star. Part of a binary star system, the compact white dwarf gradually captured material from its companion star. The buildup in mass finally triggered a thermonuclear explosion that destroyed the dwarf star. Because the distance to the supernova remnant is about 7,000 light-years, that explosion actually happened 7,000 years before the light reached Earth in 1006. Shockwaves in the remnant accelerate particles to extreme energies and are thought to be a source of the mysterious cosmic rays.",
-      "image": {
-        "src": "data/images/63d6e9bf97f7c7af.jpg",
-        "alt": "SN 1006 Supernova Remnant",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap090801.html",
-        "trustTier": "encyclopedic",
-        "date": "2009-08-01"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:18.067Z",
-      "hash": "57bfb07264a1dab2"
-    },
-    {
-      "id": "apod:2006-04-14",
-      "type": "space",
-      "title": "Smoke from the Cigar Galaxy",
-      "summary": "Very bright in infrared light, well-known starburst galaxy M82's popular name describes its suggestive shape seen at visible wavelengths - The Cigar Galaxy. Ironically, M82's fantastic appearance in this Spitzer Space Telescope image really is due to cosmic \"smoke\" - the infrared emission of exented dust features…",
-      "body": "Very bright in infrared light, well-known starburst galaxy M82's popular name describes its suggestive shape seen at visible wavelengths - The Cigar Galaxy. Ironically, M82's fantastic appearance in this Spitzer Space Telescope image really is due to cosmic \"smoke\" - the infrared emission of exented dust features blown by stellar winds from M82's luminous, central star forming regions. The false-color view highlights a component of dust emission from complex carbon molecules called polycyclic aromatic hydrocarbons or PAHs. PAHs are also seen in star forming regions throughout our own, much calmer, Milky Way Galaxy and are products of combustion on planet Earth. Likely triggered by interactions with nearby galaxy M81, M82's intense star formation activity appears to be blowing out immense clouds of dust and PAHs extending nearly 20,000 light-years both above and below the galactic plane. M82 is about 12 million light-years away in the constellation Ursa Major.",
-      "image": {
-        "src": "data/images/112131de2f0ceecd.jpg",
-        "alt": "Smoke from the Cigar Galaxy",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap060414.html",
-        "trustTier": "encyclopedic",
-        "date": "2006-04-14"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:18.067Z",
-      "hash": "90cb07b0755c1e2f"
-    },
-    {
-      "id": "apod:2011-09-03",
-      "type": "space",
-      "title": "Comet Garradd Passes Ten Thousand Stars",
-      "summary": "Comet Garradd continues to brighten as it drifts across the northern sky. Last week the comet, visible with binoculars and discernible by its green coma, passed nearly in front of globular cluster M71. M71 was once thought to be an open cluster, but is now known to be an older globular cluster containing over 10,000…",
-      "body": "Comet Garradd continues to brighten as it drifts across the northern sky. Last week the comet, visible with binoculars and discernible by its green coma, passed nearly in front of globular cluster M71. M71 was once thought to be an open cluster, but is now known to be an older globular cluster containing over 10,000 stars. The photogenic duo was captured with a standard digital camera in a 10-minute, wide-angle exposure toward the northern constellation of the Arrow (Sagitta). The stars Sham (alpha Sagittae), beta Sagittae, gamma Sagittae, and the double star delta Sagittae are all visible in a diagonal band running down from the upper left. Comet C/2009 P1 (Garradd), will remain visible in northern skies for months and will reach its closest approach to the Sun in December.",
-      "image": {
-        "src": "data/images/00c0d363f6f5c801.jpg",
-        "alt": "Comet Garradd Passes Ten Thousand Stars",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap110903.html",
-        "trustTier": "encyclopedic",
-        "date": "2011-09-03"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:18.067Z",
-      "hash": "458ed63d97625982"
-    },
-    {
-      "id": "apod:2022-07-03",
-      "type": "space",
-      "title": "Phobos: Doomed Moon of Mars",
-      "summary": "This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more…",
-      "body": "This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of our Solar System. The larger moon, Phobos, is indeed seen to be a cratered, asteroid-like object in this stunning color image from the robotic Mars Reconnaissance Orbiter, with objects as small as 10 meters visible. But Phobos orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon - that gravitational tidal forces are dragging it down. In perhaps 50 million years, Phobos is expected to disintegrate into a ring of debris.",
-      "image": {
-        "src": "data/images/77278e9b7462372d.jpg",
-        "alt": "Phobos: Doomed Moon of Mars",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap220703.html",
-        "trustTier": "encyclopedic",
-        "date": "2022-07-03"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:18.067Z",
-      "hash": "80d83b2f8269f258"
-    },
-    {
-      "id": "apod:2010-08-24",
-      "type": "space",
-      "title": "Galaxy Cluster Abell 1689 Magnifies the Dark Universe",
-      "summary": "What's the matter with this cluster of galaxies? To find out what forms matter takes in the Abell 1689 cluster requires not only deep images from telescopes like the Hubble Space Telescope, but detailed computer modeling as well. To start, almost every fuzzy yellow patch in the above image is an entire galaxy. A…",
-      "body": "What's the matter with this cluster of galaxies? To find out what forms matter takes in the Abell 1689 cluster requires not only deep images from telescopes like the Hubble Space Telescope, but detailed computer modeling as well. To start, almost every fuzzy yellow patch in the above image is an entire galaxy. A close inspection, however, shows that many background galaxies are strangely magnified and distorted into long curving arcs by the gravitational lens deflections of the cluster. Computer analyses of the placement and smoothness of these arcs indicate that in addition to the matter in the galaxies you can see, the cluster must also contain a significant amount of dark matter such as the model digitally superposed in purple. Now Abell 1689 remains enigmatic because the arcs are so numerous and diverse that no single dark matter model has emerged that can explain them all and still remain consistent with dark matter models needed to constrain their motion. Still, the detailed information available from clusters of galaxies like Abell 1689 gives hope that one day full solutions will be found that will not only fully reveal the dark matter in clusters, but also reveal the amounts of dark energy in the universe needed to lie along the line of sight to the distant arcs. Students and Teachers: Free video online Astro 101 course",
-      "image": {
-        "src": "data/images/34d8afb084d0915d.jpg",
-        "alt": "Galaxy Cluster Abell 1689 Magnifies the Dark Universe",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap100824.html",
-        "trustTier": "encyclopedic",
-        "date": "2010-08-24"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:18.067Z",
-      "hash": "fddc7271c97877e5"
-    },
-    {
-      "id": "onthisday:06-08:1776:157526ee0a56bf70",
-      "type": "history",
-      "title": "1776: American Revolutionary War",
-      "summary": "American Revolutionary War: British forces defeated the Continental Army at the Battle of Trois-Rivières, the last battle of the American invasion of Quebec.",
-      "body": "American Revolutionary War: British forces defeated the Continental Army at the Battle of Trois-Rivières, the last battle of the American invasion of Quebec.",
-      "image": {
-        "src": "data/images/8a53c21e2dcf5c91.jpg",
-        "alt": "American Revolutionary War",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
-        "trustTier": "encyclopedic",
-        "date": "06-08"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:09:14.356Z",
-      "hash": "54540714f7555b6e",
-      "expires": "2026-06-11T23:09:14.356Z"
-    },
-    {
-      "id": "onthisday:06-08:1862:b28eca603940c993",
-      "type": "history",
-      "title": "1862: American Civil War",
-      "summary": "American Civil War: The Confederate Army won a resounding victory at the Battle of Cross Keys, one of the two decisive battles in Jackson's Valley campaign.",
-      "body": "American Civil War: The Confederate Army won a resounding victory at the Battle of Cross Keys, one of the two decisive battles in Jackson's Valley campaign.",
-      "image": {
-        "src": "data/images/fe3e11cc046e3e49.png",
-        "alt": "American Civil War",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/American_Civil_War",
-        "trustTier": "encyclopedic",
-        "date": "06-08"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:09:14.356Z",
-      "hash": "4672f035a4f46da6",
-      "expires": "2026-06-11T23:09:14.356Z"
-    },
-    {
-      "id": "onthisday:06-08:1953:0c97bac5f19d61c6",
-      "type": "history",
-      "title": "1953: 1953 Flint–Beecher tornado",
-      "summary": "An F5 tornado struck Flint and Beecher, Michigan, causing 116 fatalities, 844 injuries and $19 million in damage during a larger tornado outbreak sequence.",
-      "body": "An F5 tornado struck Flint and Beecher, Michigan, causing 116 fatalities, 844 injuries and $19 million in damage during a larger tornado outbreak sequence.",
-      "image": {
-        "src": "data/images/6450ae55995bb46a.jpg",
-        "alt": "1953 Flint–Beecher tornado",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/1953_Flint%E2%80%93Beecher_tornado",
-        "trustTier": "encyclopedic",
-        "date": "06-08"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:09:14.356Z",
-      "hash": "12d3e876e2d41919",
-      "expires": "2026-06-11T23:09:14.356Z"
-    },
-    {
-      "id": "wikipedia:69902292",
-      "type": "wiki",
-      "title": "Princess of Xiaohe",
-      "summary": "The Princess of Xiaohe or Little River Princess is one of the Tarim mummies. She was found in 2003 at the Xiaohe Cemetery in Lop Nur, Xinjiang. She is also known as M11 for the tomb she was found in. Buried around 1800 BC, she has European and Siberian genes and has white skin and red hair. She is unusually well…",
-      "body": "The Princess of Xiaohe or Little River Princess is one of the Tarim mummies. She was found in 2003 at the Xiaohe Cemetery in Lop Nur, Xinjiang. She is also known as M11 for the tomb she was found in. Buried around 1800 BC, she has European and Siberian genes and has white skin and red hair. She is unusually well preserved, with clothes, hair, and eyelashes still intact.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Princess_of_Xiaohe",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:09:13.886Z",
-      "hash": "372b3a9650eaf0e9"
-    },
-    {
-      "id": "wikipedia:15607571",
-      "type": "wiki",
-      "title": "Glandage",
-      "summary": "Glandage is a commune in the Drôme department in southeastern France.",
-      "body": "Glandage is a commune in the Drôme department in southeastern France.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Glandage",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:09:13.225Z",
-      "hash": "1792c3c2465fcfa5"
-    },
-    {
-      "id": "wikipedia:18701046",
-      "type": "wiki",
-      "title": "Muhammad Juman",
-      "summary": "Ustad Muhammad Juman was a Sindhi musician and classical singer from Pakistan, whose impact on Sindhi music is still pervasive.",
-      "body": "Ustad Muhammad Juman was a Sindhi musician and classical singer from Pakistan, whose impact on Sindhi music is still pervasive.",
-      "image": {
-        "src": "data/images/bdbe6814e63afc4e.jpg",
-        "alt": "Muhammad Juman",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Muhammad_Juman",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:09:13.001Z",
-      "hash": "f19d3b0739b147ca"
-    },
-    {
-      "id": "wikipedia:14631341",
-      "type": "wiki",
-      "title": "Nagisa Misumi",
-      "summary": "Nagisa Misumi is the protagonist of the 2004 anime series Pretty Cure and its 2005 sequel, Pretty Cure Max Heart. She is a lacrosse player and second-year student at Verone Academy. At the beginning of the series, she becomes the caretaker of the fairy Mepple, who is from the Garden of Light, and gains the power to…",
-      "body": "Nagisa Misumi is the protagonist of the 2004 anime series Pretty Cure and its 2005 sequel, Pretty Cure Max Heart. She is a lacrosse player and second-year student at Verone Academy. At the beginning of the series, she becomes the caretaker of the fairy Mepple, who is from the Garden of Light, and gains the power to transform into Cure Black .",
-      "image": {
-        "src": "data/images/2dbb3e92649b8eaf.png",
-        "alt": "Nagisa Misumi",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Nagisa_Misumi",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:09:12.633Z",
-      "hash": "41a69b8f74602b56"
-    },
-    {
-      "id": "food:991d7aa921887ddc",
-      "type": "food",
-      "title": "Fava Beans with Mint, Lemon & Pistachios",
-      "summary": "Fava bean fans, this one’s for you. Flash-cooked favas are tossed with olive oil, plenty of mint, Parmesan, lemon zest, pistachios and dried rose petals for a bright little spring side dish that’s equally good piled onto pasta (or salad greens). Continue reading Fava Beans with Mint, Lemon &…",
-      "body": "Fava bean fans, this one’s for you. Flash-cooked favas are tossed with olive oil, plenty of mint, Parmesan, lemon zest, pistachios and dried rose petals for a bright little spring side dish that’s equally good piled onto pasta (or salad greens). Continue reading Fava Beans with Mint, Lemon & Pistachios on 101 Cookbooks",
-      "image": {
-        "src": "data/images/77d6f5f9f9450d99.jpg",
-        "alt": "Fava Beans with Mint, Lemon & Pistachios",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/fava-beans-with-mint/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Fri, 15 May 2026 17:02:1"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "gluten free recipes",
-        "side dish recipes",
-        "spring"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:53.557Z",
-      "hash": "991d7aa921887ddc"
-    },
-    {
-      "id": "craft:c8155c52e5cc6933",
-      "type": "craft",
-      "title": "Don’t Feed the Ducks! A Zany Animation Predicts the Absurd Outcomes of Ignoring the Rules",
-      "summary": "How many people actually heed the warnings about not feeding ducks waddling around public parks?",
-      "body": "How many people actually heed the warnings about not feeding ducks waddling around public parks?",
-      "image": {
-        "src": "data/images/900802f67d79f800.gif",
-        "alt": "Don’t Feed the Ducks! A Zany Animation Predicts the Absurd Outcomes of Ignoring the Rules",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/06/aj-jeffries-ducks-animation-short-film/",
-        "trustTier": "publication",
-        "author": "Grace Ebert",
-        "date": "Thu, 04 Jun 2026 18:39:5"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "animation",
-        "film",
-        "aj jeffries",
-        "ducks",
-        "humor",
-        "short film",
-        "video"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:53.509Z",
-      "hash": "c8155c52e5cc6933"
-    },
-    {
-      "id": "article:242c28e134cd1f45",
-      "type": "article",
-      "title": "Galeria Otthon Áruház in Budapest, Hungary",
-      "summary": "Long before shopping malls swallowed modern cities whole, Budapest had Otthon Áruház — a grand urban department store where residents once bought everything from carpets and textiles to kitchen appliances beneath elegant balconies and enormous skylights. Today, the building feels less like a…",
-      "body": "Long before shopping malls swallowed modern cities whole, Budapest had Otthon Áruház — a grand urban department store where residents once bought everything from carpets and textiles to kitchen appliances beneath elegant balconies and enormous skylights. Today, the building feels less like a former shop and more like a time capsule sealed somewhere between the Austro-Hungarian era and late socialism. Standing on busy Rákóczi Road, the exterior gives only a hint of what hides inside. Beyond the worn façade lies a vast multi-level atrium wrapped in curved galleries, iron railings, dusty…",
-      "image": {
-        "src": "data/images/de884ca7bb9104be.jpg",
-        "alt": "Galeria Otthon Áruház in Budapest, Hungary",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/galeria-otthon-aruhaz",
-        "trustTier": "publication",
-        "date": "Fri, 05 Jun 2026 14:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "abandoned",
-        "malls",
-        "stores"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:50.000Z",
-      "hash": "242c28e134cd1f45"
-    },
-    {
-      "id": "article:e901a1348f153aaf",
-      "type": "article",
-      "title": "Animal, Vegetable, Lamb: The Zoophyte from Tartary",
-      "summary": "In the Middle Ages, rumours spread across Europe of a strange hybrid creature, half-animal, half-plant, known as the Vegetable Lamb of Tartary. A hoax based on fern rhizomes? A euphemism for culled fetal lambs? Or perhaps a medieval misapprehension of cotton? Thom Sliwowski traces the roots of…",
-      "body": "In the Middle Ages, rumours spread across Europe of a strange hybrid creature, half-animal, half-plant, known as the Vegetable Lamb of Tartary. A hoax based on fern rhizomes? A euphemism for culled fetal lambs? Or perhaps a medieval misapprehension of cotton? Thom Sliwowski traces the roots of this fabled zoophyte.",
-      "image": {
-        "src": "data/images/892065dcb7c17534.jpg",
-        "alt": "Animal, Vegetable, Lamb: The Zoophyte from Tartary",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/essay/animal-vegetable-lamb",
-        "trustTier": "publication",
-        "date": "Thu, 28 May 2026 11:20:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:48.842Z",
-      "hash": "e901a1348f153aaf"
-    },
-    {
-      "id": "food:879a218e25b8875d",
-      "type": "food",
-      "title": "Classic Risotto",
-      "summary": "Creamy, textured, and just loose enough to ripple across the plate - this is the classic risotto you’re aiming for. Here’s how you get there, step by step. Continue reading Classic Risotto on 101 Cookbooks",
-      "body": "Creamy, textured, and just loose enough to ripple across the plate - this is the classic risotto you’re aiming for. Here’s how you get there, step by step. Continue reading Classic Risotto on 101 Cookbooks",
-      "image": {
-        "src": "data/images/38754efc94d1d5a1.jpg",
-        "alt": "Classic Risotto",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/risotto-recipe/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Wed, 22 Apr 2026 00:50:1"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "basic techniques",
-        "dinner ideas",
-        "gluten free recipes",
-        "heidi's favorites",
-        "main course recipes",
-        "side dish recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:48.220Z",
-      "hash": "879a218e25b8875d"
-    },
-    {
-      "id": "food:1bc4b2d9eeef30b6",
-      "type": "food",
-      "title": "Cottage Cheese Wraps",
-      "summary": "Cottage cheese wraps are a great foundation recipe! They’re high in protein, wildly versatile, and super satisfying, You can stuff them with a wide range of fillings, drizzles, and spreads depending on the season. Here are all my tips and tricks and favorite ways to enjoy them. Continue reading…",
-      "body": "Cottage cheese wraps are a great foundation recipe! They’re high in protein, wildly versatile, and super satisfying, You can stuff them with a wide range of fillings, drizzles, and spreads depending on the season. Here are all my tips and tricks and favorite ways to enjoy them. Continue reading Cottage Cheese Wraps on 101 Cookbooks",
-      "image": {
-        "src": "data/images/51dd9ca3aa2cd9c0.jpg",
-        "alt": "Cottage Cheese Wraps",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/cottage-cheese-wraps/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Wed, 20 May 2026 17:09:5"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "baking recipes",
-        "breakfast recipes",
-        "dinner ideas",
-        "gluten free recipes",
-        "high protein recipes",
-        "low carb recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:48.219Z",
-      "hash": "1bc4b2d9eeef30b6"
-    },
-    {
-      "id": "craft:a31f70539f149d41",
-      "type": "craft",
-      "title": "‘Masters of the Stitch: Threaded Stories’ Spotlights Narrative Quilts by Black Americans",
-      "summary": "The exhibition at Claire Oliver Gallery spotlights remarkable narratives in fabric.",
-      "body": "The exhibition at Claire Oliver Gallery spotlights remarkable narratives in fabric.",
-      "image": {
-        "src": "data/images/ed7e2968022a4cf1.jpg",
-        "alt": "‘Masters of the Stitch: Threaded Stories’ Spotlights Narrative Quilts by Black Americans",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/06/masters-of-the-stitch-threaded-stories-black-american-quilts/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Wed, 03 Jun 2026 21:08:5"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "history",
-        "fabric",
-        "narrative",
-        "quilts",
-        "social issues",
-        "textiles",
-        "thread"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:48.169Z",
-      "hash": "a31f70539f149d41"
-    },
-    {
-      "id": "craft:076bcee881d24483",
-      "type": "craft",
-      "title": "Tavares Strachan’s First Monograph Surveys an Encyclopedic Practice",
-      "summary": "Tavares Strachan is one of the leading conceptual artists working today, and his first monograph is out this month from Phaidon.",
-      "body": "Tavares Strachan is one of the leading conceptual artists working today, and his first monograph is out this month from Phaidon.",
-      "image": {
-        "src": "data/images/3ad306b5a8b09212.jpg",
-        "alt": "Tavares Strachan’s First Monograph Surveys an Encyclopedic Practice",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/06/tavares-strachan-monograph-book-phaidon/",
-        "trustTier": "publication",
-        "author": "Grace Ebert",
-        "date": "Fri, 05 Jun 2026 18:18:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "books",
-        "colonialism",
-        "immersive",
-        "installation",
-        "sculpture",
-        "tavares strachan"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:48.168Z",
-      "hash": "076bcee881d24483"
-    },
-    {
-      "id": "craft:128a79e6910d7c75",
-      "type": "craft",
-      "title": "Maker Faire Long Island #9: Saturday, June 6th",
-      "summary": "Back for its 9th year, Maker Faire Long Island is returning for its second year at Stony Brook University. “Maker Faire Long Island is where creativity becomes something visitors can see, touch, build and experience,” said Lisa Rodriguez, Co-Producer of Maker Faire Long Island and Director of…",
-      "body": "Back for its 9th year, Maker Faire Long Island is returning for its second year at Stony Brook University. “Maker Faire Long Island is where creativity becomes something visitors can see, touch, build and experience,” said Lisa Rodriguez, Co-Producer of Maker Faire Long Island and Director of Digital Marketing for the Long Island Explorium. “This […] The post Maker Faire Long Island #9: Saturday, June 6th appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/ae2f306faa65ff28.png",
-        "alt": "Maker Faire Long Island #9: Saturday, June 6th",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/maker-news/maker-faire-long-island-9-saturday-june-6th/",
-        "trustTier": "publication",
-        "author": "Jennifer Blakeslee",
-        "date": "Tue, 02 Jun 2026 07:14:1"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "maker news",
-        "diy projects",
-        "kids & family",
-        "maker faire long island",
-        "makerfaire",
-        "new york"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:47.905Z",
-      "hash": "128a79e6910d7c75"
-    },
-    {
-      "id": "article:d323b0b100d9f1f6",
-      "type": "article",
-      "title": "St Georges Guildhall in Norfolk, England",
-      "summary": "St Georges Guildhall in King's Lynn, Norfolk , England was built around 1420 as a guildhall for a religious fellowship (not to be confused with merchant and craft guilds which served a different purpose) in King's Lynn. Religious guilds and the closely related chantries were dissolved by Edward VI…",
-      "body": "St Georges Guildhall in King's Lynn, Norfolk , England was built around 1420 as a guildhall for a religious fellowship (not to be confused with merchant and craft guilds which served a different purpose) in King's Lynn. Religious guilds and the closely related chantries were dissolved by Edward VI in 1547 at which time the guildhall became the property of Lynn Corporation (the dissolution was largely motivated by the transfer assets from religious institutions to the Crown). It is the largest surviving medieval guildhall in the country. From the start of its history the building was used for…",
-      "image": {
-        "src": "data/images/bc67973be9a8f6ee.jpg",
-        "alt": "St Georges Guildhall in Norfolk, England",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/st-georges-guldhall",
-        "trustTier": "publication",
-        "date": "Fri, 05 Jun 2026 16:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "shakespeare",
-        "theaters"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:44.646Z",
-      "hash": "d323b0b100d9f1f6"
-    },
-    {
-      "id": "article:92fad6e972958274",
-      "type": "article",
-      "title": "Are We Subjects or Citizens? Birthright Citizenship and the Constitution",
-      "summary": "It is absurd to believe that the Fourteenth Amendment confers the boon of American citizenship on the children of illegal aliens. The post Are We Subjects or Citizens? Birthright Citizenship and the Constitution appeared first on Imprimis.",
-      "body": "It is absurd to believe that the Fourteenth Amendment confers the boon of American citizenship on the children of illegal aliens. The post Are We Subjects or Citizens? Birthright Citizenship and the Constitution appeared first on Imprimis.",
-      "image": {
-        "src": "data/images/d1c85c9e514f6811.jpg",
-        "alt": "Are We Subjects or Citizens? Birthright Citizenship and the Constitution",
-        "credit": "Imprimis"
-      },
-      "source": {
-        "name": "Imprimis",
-        "url": "https://imprimis.hillsdale.edu/are-we-subjects-or-citizens-birthright-citizenship-and-the-constitution/",
-        "trustTier": "publication",
-        "author": "Edward J. Erler",
-        "date": "Thu, 09 Apr 2026 13:38:3"
-      },
-      "tags": [
-        "ideas",
-        "liberty",
-        "lecture",
-        "history",
-        "immigration",
-        "law"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:44.160Z",
-      "hash": "92fad6e972958274"
-    },
-    {
-      "id": "article:2e811272d1970fe3",
-      "type": "article",
-      "title": "Sunday assorted links",
-      "summary": "1. The Hyman Rickover corpus. 2. Redux of a 2009 essay by me on poverty and a documentary film. 3. Shruti on AI and copyright law. 4. Will the number of lawyers go up or down? 5. One view on where Somalia stands right now. 6. Alan Riding, RIP (NYT). His Distant Neighbors remains a […] The post…",
-      "body": "1. The Hyman Rickover corpus. 2. Redux of a 2009 essay by me on poverty and a documentary film. 3. Shruti on AI and copyright law. 4. Will the number of lawyers go up or down? 5. One view on where Somalia stands right now. 6. Alan Riding, RIP (NYT). His Distant Neighbors remains a […] The post Sunday assorted links appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/06/sunday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-570",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Sun, 07 Jun 2026 18:13:0"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:43.511Z",
-      "hash": "2e811272d1970fe3"
-    },
-    {
-      "id": "article:aafb79f3165ebc4d",
-      "type": "article",
-      "title": "Covers from Cerîde-i Adliye, a Turkish Law Journal (1924–26)",
-      "summary": "Legal infographics that reflect a Turkish nation in flux.",
-      "body": "Legal infographics that reflect a Turkish nation in flux.",
-      "image": {
-        "src": "data/images/2c15478b07fb966c.jpg",
-        "alt": "Covers from Cerîde-i Adliye, a Turkish Law Journal (1924–26)",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/collection/ceride-i-adliye-justice-gazette",
-        "trustTier": "publication",
-        "date": "Wed, 03 Jun 2026 15:07:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:43.369Z",
-      "hash": "aafb79f3165ebc4d"
-    },
-    {
-      "id": "article:93bbdb1d2e43c91e",
-      "type": "article",
-      "title": "More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’",
-      "summary": "The podcast returns with 12 all-new episodes that explore the biggest questions in basic science and mathematics. The post More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’ first appeared on Quanta Magazine",
-      "body": "The podcast returns with 12 all-new episodes that explore the biggest questions in basic science and mathematics. The post More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’ first appeared on Quanta Magazine",
-      "image": {
-        "src": "data/images/6b1b23242125bf36.jpg",
-        "alt": "More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’",
-        "credit": "Quanta Magazine"
-      },
-      "source": {
-        "name": "Quanta Magazine",
-        "url": "https://www.quantamagazine.org/more-conversations-complex-questions-and-bold-ideas-in-season-five-of-the-joy-of-why-20260604/",
-        "trustTier": "publication",
-        "author": "Simon Frantz",
-        "date": "Thu, 04 Jun 2026 14:12:3"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "mathematics",
-        "multimedia"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:43.094Z",
-      "hash": "93bbdb1d2e43c91e"
-    },
-    {
-      "id": "article:ff70d0c346d4de0a",
-      "type": "article",
-      "title": "Artist of sympathy and cruelty",
-      "summary": "Mozart’s genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments- by Dorian BandyRead on Aeon",
-      "body": "Mozart’s genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments- by Dorian BandyRead on Aeon",
-      "image": {
-        "src": "data/images/37ddab8e5e087dd8.jpg",
-        "alt": "Artist of sympathy and cruelty",
-        "credit": "Aeon"
-      },
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/essays/why-mozarts-operas-are-tests-of-moral-character",
-        "trustTier": "publication",
-        "author": "Dorian Bandy",
-        "date": "Fri, 29 May 2026 10:00:0"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "philosophy"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:42.842Z",
-      "hash": "ff70d0c346d4de0a"
-    },
-    {
-      "id": "food:5d1b1b0ce111bb3e",
-      "type": "food",
-      "title": "50+ Vegetarian Dinner Recipes",
-      "summary": "A go-to collection of vegetarian dinners for every kind of night. Don’t skip the quinoa patties, they’ve been a favorite for over twenty years. Continue reading 50+ Vegetarian Dinner Recipes on 101 Cookbooks",
-      "body": "A go-to collection of vegetarian dinners for every kind of night. Don’t skip the quinoa patties, they’ve been a favorite for over twenty years. Continue reading 50+ Vegetarian Dinner Recipes on 101 Cookbooks",
-      "image": {
-        "src": "data/images/9f5fd7ee0e1edca4.jpg",
-        "alt": "50+ Vegetarian Dinner Recipes",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/vegetarian-dinner-recipes/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Thu, 30 Apr 2026 23:07:1"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:42.671Z",
-      "hash": "5d1b1b0ce111bb3e"
-    },
-    {
-      "id": "food:e52afc45a9e9162b",
-      "type": "food",
-      "title": "Skillet Jam",
-      "summary": "Skillet jams are inherently laid-back, made to enjoy right away. Without the need for preserving, you can scale back the sugar and let the fruit’s natural flavor really pop. This is a version from a special new cookbook, Eating at Home by Trinity Mouzon Wofford. Continue reading Skillet Jam on 101…",
-      "body": "Skillet jams are inherently laid-back, made to enjoy right away. Without the need for preserving, you can scale back the sugar and let the fruit’s natural flavor really pop. This is a version from a special new cookbook, Eating at Home by Trinity Mouzon Wofford. Continue reading Skillet Jam on 101 Cookbooks",
-      "image": {
-        "src": "data/images/8507a50370c24193.jpg",
-        "alt": "Skillet Jam",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/skillet-jam/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Sat, 09 May 2026 21:48:0"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "basic techniques",
-        "breakfast recipes",
-        "gluten free recipes",
-        "quick recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:42.671Z",
-      "hash": "e52afc45a9e9162b"
-    },
-    {
-      "id": "food:fc0234628ff0dee2",
-      "type": "food",
-      "title": "Simple Red Fruit Salad",
-      "summary": "Red fruit salad made with plump strawberries, sweet cherries, lemon zest, and coriander brown sugar. Five ingredients. So good. Continue reading Simple Red Fruit Salad on 101 Cookbooks",
-      "body": "Red fruit salad made with plump strawberries, sweet cherries, lemon zest, and coriander brown sugar. Five ingredients. So good. Continue reading Simple Red Fruit Salad on 101 Cookbooks",
-      "image": {
-        "src": "data/images/6b013d5c426e6427.jpg",
-        "alt": "Simple Red Fruit Salad",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/red-fruit-salad-recipe/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Tue, 05 May 2026 16:56:3"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "260+ vegan recipes",
-        "dessert recipes",
-        "gluten free recipes",
-        "heidi's favorites",
-        "quick recipes",
-        "spring"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-07T22:49:42.671Z",
-      "hash": "fc0234628ff0dee2"
     }
   ]
 }

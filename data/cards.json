@@ -1,7 +1,1014 @@
 {
-  "generatedAt": "2026-06-20T10:37:27.684Z",
+  "generatedAt": "2026-06-21T11:20:14.120Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:wHDdy",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1829. Find the best line for white.",
+      "body": "Solution, from → to: f1→f4, g4→h5, e5→h8, h5→g5, h8→h4. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "8/8/6p1/p1p1Qp2/6k1/2P1r3/PP1q3P/5RK1 w - - 1 1",
+        "lastMove": "d3e3"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/wHDdy",
+        "trustTier": "community",
+        "date": "Sun, 21 Jun 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "endgame",
+        "long",
+        "matein3",
+        "trianglemate"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-06-21T11:20:09.409Z",
+      "hash": "f57e33db6fe286bc"
+    },
+    {
+      "id": "trivia:c37a90536f4da612",
+      "type": "trivia",
+      "title": "Who performed the guitar solo on Michael Jackson's hit \"Beat It\"?",
+      "summary": "Is it: Steve Vai · Zakk Wylde · Eddie Van Halen · Kirk Hammett?",
+      "body": "Answer: Eddie Van Halen.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:20:06.293Z",
+      "hash": "c37a90536f4da612"
+    },
+    {
+      "id": "trivia:c630b1ae244f28a1",
+      "type": "trivia",
+      "title": "When was the programming language \"C#\" released?",
+      "summary": "Is it: 1999 · 2000 · 2001 · 1998?",
+      "body": "Answer: 2000.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "computers"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:20:06.293Z",
+      "hash": "c630b1ae244f28a1"
+    },
+    {
+      "id": "trivia:3de296ba2c35df3a",
+      "type": "trivia",
+      "title": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+      "summary": "Is it: God Of War · Max Payne · Alan Wake · Hitman?",
+      "body": "Answer: Max Payne.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "film"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:20:06.293Z",
+      "hash": "3de296ba2c35df3a"
+    },
+    {
+      "id": "trivia:209d44cfba41b29e",
+      "type": "trivia",
+      "title": "In Kendrick Lamar's 2012 album, \"Good Kid, M.A.A.D City\", the album's story takes place in which city?",
+      "summary": "Is it: New York · Detroit · Compton · Baltimore?",
+      "body": "Answer: Compton.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-06-21T11:20:06.293Z",
+      "hash": "209d44cfba41b29e"
+    },
+    {
+      "id": "comic:smbc:62f0452f596576d9",
+      "type": "comic",
+      "title": "UBI",
+      "summary": "The good news is everyone has job security in the post-scarcity world.",
+      "image": {
+        "src": "data/images/013c5bb9f02ae8a8.png",
+        "alt": "The good news is everyone has job security in the post-scarcity world.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/ubi",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 20 Jun 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-21T11:20:03.618Z",
+      "hash": "62f0452f596576d9"
+    },
+    {
+      "id": "comic:xkcd:3199",
+      "type": "comic",
+      "title": "Early Arthropods",
+      "summary": "'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects",
+      "image": {
+        "src": "data/images/35d1fe279136b879.png",
+        "alt": "'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects",
+        "credit": "xkcd #3199 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3199/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-01-26"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-21T11:20:03.322Z",
+      "hash": "ecbf29c7698482fc"
+    },
+    {
+      "id": "food:ec5e8d34d7a45ab0",
+      "type": "food",
+      "title": "Chili Crisp Corn",
+      "summary": "If you have a jar of chili crisp and some fresh ears of corn you’re well on your way to this summer-maxxing salad. Sweet corn, plenty of herbs, creamy dollops of goat cheese, and toasted pepitas come together in a spicy, crunchy way that disappears fast. Continue reading Chili Crisp Corn on 101…",
+      "body": "If you have a jar of chili crisp and some fresh ears of corn you’re well on your way to this summer-maxxing salad. Sweet corn, plenty of herbs, creamy dollops of goat cheese, and toasted pepitas come together in a spicy, crunchy way that disappears fast. Continue reading Chili Crisp Corn on 101 Cookbooks",
+      "image": {
+        "src": "data/images/af717bdd15da7834.jpg",
+        "alt": "Chili Crisp Corn",
+        "credit": "101 Cookbooks"
+      },
+      "source": {
+        "name": "101 Cookbooks",
+        "url": "https://www.101cookbooks.com/chili-crisp-corn/",
+        "trustTier": "community",
+        "author": "Heidi Swanson",
+        "date": "Sat, 20 Jun 2026 19:07:2"
+      },
+      "tags": [
+        "cooking",
+        "recipe",
+        "food",
+        "100+ vegetarian recipes",
+        "gluten free recipes",
+        "quick recipes",
+        "salad recipes",
+        "side dish recipes",
+        "summer"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:20:02.823Z",
+      "hash": "ec5e8d34d7a45ab0"
+    },
+    {
+      "id": "craft:2ced41020525f4c7",
+      "type": "craft",
+      "title": "Open Healthware Conference 2026 is Coming",
+      "summary": "Incredible creators and projects at the FREE Open Healthware Conference happening July 9th & 10th in San Francisco! The post Open Healthware Conference 2026 is Coming appeared first on Make: DIY Projects and Ideas for Makers.",
+      "body": "Incredible creators and projects at the FREE Open Healthware Conference happening July 9th & 10th in San Francisco! The post Open Healthware Conference 2026 is Coming appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/6ac02ac7baa299f5.jpg",
+        "alt": "Open Healthware Conference 2026 is Coming",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/maker-news/open-healthware-conference-2026-is-coming/",
+        "trustTier": "publication",
+        "author": "Sid Drmay",
+        "date": "Fri, 19 Jun 2026 19:04:0"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "health",
+        "maker news",
+        "announcements",
+        "event",
+        "open source hardware"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:20:02.356Z",
+      "hash": "2ced41020525f4c7"
+    },
+    {
+      "id": "word:d8157b09fd7c5f66",
+      "type": "word",
+      "title": "palimpsest",
+      "summary": "Noun: A manuscript or document that has been erased or scraped clean, for reuse of the paper, parchment, vellum, or other medium on which it was written.",
+      "body": "1. A manuscript or document that has been erased or scraped clean, for reuse of the paper, parchment, vellum, or other medium on which it was written.\n2. Monumental brasses that have been reused by engraving of the blank back side.\n3. Circular features believed to be lunar craters that have been obliterated by later volcanic activity.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/palimpsest",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:20:01.448Z",
+      "hash": "d8157b09fd7c5f66"
+    },
+    {
+      "id": "word:9cb9ec4e6a25c900",
+      "type": "word",
+      "title": "petrichor",
+      "summary": "Noun: The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.",
+      "body": "1. The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.\n2. The yellow organic oil that yields this scent.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/petrichor",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:54.321Z",
+      "hash": "9cb9ec4e6a25c900"
+    },
+    {
+      "id": "quote:8ce3fe4ad5fe6d8a",
+      "type": "quote",
+      "title": "“The only thing new in the world is the history you do not know.”",
+      "summary": "— Harry S. Truman",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Harry_S._Truman",
+        "trustTier": "community",
+        "author": "Harry S. Truman"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:53.823Z",
+      "hash": "8ce3fe4ad5fe6d8a"
+    },
+    {
+      "id": "quote:e07a32974426d4cc",
+      "type": "quote",
+      "title": "“The best thing to hold onto in life is each other.”",
+      "summary": "— Audrey Hepburn",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Audrey_Hepburn",
+        "trustTier": "community",
+        "author": "Audrey Hepburn"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:53.823Z",
+      "hash": "e07a32974426d4cc"
+    },
+    {
+      "id": "quote:cd1a1a5d0d91883f",
+      "type": "quote",
+      "title": "“You are the only real obstacle in your path to a fulfilling life.”",
+      "summary": "— Les Brown",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Les_Brown",
+        "trustTier": "community",
+        "author": "Les Brown"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:53.823Z",
+      "hash": "cd1a1a5d0d91883f"
+    },
+    {
+      "id": "article:ca3572ea5356299b",
+      "type": "article",
+      "title": "How Habits Actually Work",
+      "summary": "What I got wrong about how habits are formed and maintained. The post How Habits Actually Work appeared first on Scott H Young.",
+      "body": "What I got wrong about how habits are formed and maintained. The post How Habits Actually Work appeared first on Scott H Young.",
+      "image": {
+        "src": "data/images/7e9a4d1dc284fa09.jpg",
+        "alt": "How Habits Actually Work",
+        "credit": "Scott H. Young"
+      },
+      "source": {
+        "name": "Scott H. Young",
+        "url": "https://www.scotthyoung.com/blog/2026/06/19/how-habits-actually-work/",
+        "trustTier": "community",
+        "author": "Scott Young",
+        "date": "Fri, 19 Jun 2026 16:00:0"
+      },
+      "tags": [
+        "learning",
+        "productivity",
+        "ideas",
+        "general"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:19:46.452Z",
+      "hash": "ca3572ea5356299b"
+    },
+    {
+      "id": "article:22af2bbf421350c5",
+      "type": "article",
+      "title": "Mental Models That Change How You Think | Bill Gurley",
+      "summary": "Bill Gurley spent years on Wall Street, built his career as a partner at Benchmark, worked through Uber’s hypergrowth era, and now serves on the board of the Santa Fe Institute, where he studies complexity and systems thinking. Available Now: YouTube | Spotify | Apple Podcasts | Transcript | X In…",
+      "body": "Bill Gurley spent years on Wall Street, built his career as a partner at Benchmark, worked through Uber’s hypergrowth era, and now serves on the board of the Santa Fe Institute, where he studies complexity and systems thinking. Available Now: YouTube | Spotify | Apple Podcasts | Transcript | X In this episode, Bill shares … The post Mental Models That Change How You Think | Bill Gurley appeared first on Farnam Street.",
+      "image": {
+        "src": "data/images/0ecd7f485ae6a307.png",
+        "alt": "Mental Models That Change How You Think | Bill Gurley",
+        "credit": "Farnam Street"
+      },
+      "source": {
+        "name": "Farnam Street",
+        "url": "https://fs.blog/knowledge-project-podcast/bill-gurley/",
+        "trustTier": "community",
+        "author": "Vicky",
+        "date": "Thu, 04 Jun 2026 09:30:0"
+      },
+      "tags": [
+        "ideas",
+        "psychology",
+        "decision-making"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:19:45.927Z",
+      "hash": "22af2bbf421350c5"
+    },
+    {
+      "id": "article:bd813f7582577deb",
+      "type": "article",
+      "title": "What Happens When We Die",
+      "summary": "\"How can a creature who will certainly die have an understanding of things that will exist forever?\"",
+      "body": "\"How can a creature who will certainly die have an understanding of things that will exist forever?\"",
+      "image": {
+        "src": "data/images/b43f4391f52b9ab3.jpg",
+        "alt": "What Happens When We Die",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/06/20/alan-lightman-death/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sat, 20 Jun 2026 20:36:2"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "science",
+        "alan lightman",
+        "books"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:19:44.945Z",
+      "hash": "bd813f7582577deb"
+    },
+    {
+      "id": "article:e8a25c4dd8b63601",
+      "type": "article",
+      "title": "Achilles’ Wicked Deeds: Framing Human Sacrifice in Iliad 23",
+      "summary": "This is one of a few posts dedicated to Iliad 23. In the first post on Iliad 23, I provide a good deal of framing for understanding the funeral games from Patroklos from a thematic/political perspective. At some point, I think I planned to write a second post on that topic, detailing the exchanges…",
+      "body": "This is one of a few posts dedicated to Iliad 23. In the first post on Iliad 23, I provide a good deal of framing for understanding the funeral games from Patroklos from a thematic/political perspective. At some point, I think I planned to write a second post on that topic, detailing the exchanges during the … Continue reading Achilles’ Wicked Deeds: Framing Human Sacrifice in Iliad 23",
+      "image": {
+        "src": "data/images/8ba1977d5e47ff02.png",
+        "alt": "Achilles’ Wicked Deeds: Framing Human Sacrifice in Iliad 23",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/06/18/achilles-wicked-deeds-2/",
+        "trustTier": "community",
+        "author": "sententiaeantiquae",
+        "date": "Thu, 18 Jun 2026 12:58:1"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:19:44.354Z",
+      "hash": "e8a25c4dd8b63601"
+    },
+    {
+      "id": "article:9fb837eba3462e4e",
+      "type": "article",
+      "title": "Gëlle Fra in Luxembourg, Luxembourg",
+      "summary": "The Place de la Constitution is a balcony overlooking the Pétrusse valley in the heart of Luxembourg City, a stone's throw from the Place Guillaume II and the Cathedral. The Monument of Remembrance stands at its centre. The Gëlle Fra (« The Golden Lady » in Luxembourgish) stands at the top of the…",
+      "body": "The Place de la Constitution is a balcony overlooking the Pétrusse valley in the heart of Luxembourg City, a stone's throw from the Place Guillaume II and the Cathedral. The Monument of Remembrance stands at its centre. The Gëlle Fra (« The Golden Lady » in Luxembourgish) stands at the top of the monument's granite column. It is a representation of the goddess Niké holding a laurel wreath. It is covered with a layer of shiny yellow gold. It is 3.3 metres high and 1.5 tonnes in weight. The statue is a symbol of the city and a must-see for tourists... But what is less known is the emotional…",
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/gelle-fra",
+        "trustTier": "publication",
+        "date": "Fri, 19 Jun 2026 09:23:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:19:44.146Z",
+      "hash": "9fb837eba3462e4e"
+    },
+    {
+      "id": "article:8f8703900db755c3",
+      "type": "article",
+      "title": "Music markets remain deglobalized",
+      "summary": "It might seem surprising, in a world of global stars, that the 6m Danes, many of whom are fluent in English, listen mainly to homegrown music. And until fairly recently they did not. In 2019 only five songs in Denmark’s top 20 were in Danish. By last year the figure was 18. A similar trend […] The…",
+      "body": "It might seem surprising, in a world of global stars, that the 6m Danes, many of whom are fluent in English, listen mainly to homegrown music. And until fairly recently they did not. In 2019 only five songs in Denmark’s top 20 were in Danish. By last year the figure was 18. A similar trend […] The post Music markets remain deglobalized appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/06/music-markets-remain-deglobalized.html?utm_source=rss&utm_medium=rss&utm_campaign=music-markets-remain-deglobalized",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Sun, 21 Jun 2026 05:10:4"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "current affairs",
+        "data source",
+        "music",
+        "television",
+        "the arts"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:19:43.078Z",
+      "hash": "8f8703900db755c3"
+    },
+    {
+      "id": "greek:69ec86320445e935",
+      "type": "greek",
+      "title": "ἅγιος",
+      "summary": "ἅγιος, -α, -ον — “holy” · adjective",
+      "body": "Note: declines like 2-1-2; substantive use \"saint, holy one\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%85%CE%B3%CE%B9%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "adjective"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:41.754Z",
+      "hash": "69ec86320445e935"
+    },
+    {
+      "id": "greek:fd18039c95c245aa",
+      "type": "greek",
+      "title": "λόγος",
+      "summary": "λόγος — “word” · noun",
+      "body": "Note: ὁ λόγος; also \"message, reason, account\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:41.754Z",
+      "hash": "fd18039c95c245aa"
+    },
+    {
+      "id": "poetry:643c25c6a0c850a8",
+      "type": "poem",
+      "title": "273. Song—Tam Glen",
+      "summary": "MY heart is a-breaking, dear Tittie,\n  Some counsel unto me come len’,\nTo anger them a’ is a pity,\n  But what will I do wi’ Tam Glen?",
+      "body": "MY heart is a-breaking, dear Tittie,\n  Some counsel unto me come len’,\nTo anger them a’ is a pity,\n  But what will I do wi’ Tam Glen?\n\n\nI’m thinking, wi’ sic a braw fellow,\n  In poortith I might mak a fen;\nWhat care I in riches to wallow,\n  If I maunna marry Tam Glen!\n\n\nThere’s Lowrie the Laird o’ Dumeller—\n  “Gude day to you, brute!” he comes ben:\nHe brags and he blaws o’ his siller,\n  But when will he dance like Tam Glen!\n\n\nMy minnie does constantly deave me,\n  And bids me beware o’ young men;\nThey flatter, she says, to deceive me,\n  But wha can think sae o’ Tam Glen!\n\n\nMy daddie says, gin I’ll forsake him,\n  He’d gie me gude hunder marks ten;\nBut, if it’s ordain’d I maun take him,\n  O wha will I get but Tam Glen!\n\n\nYestreen at the Valentine’s dealing,\n  My heart to my mou’ gied a sten’;\nFor thrice I drew ane without failing,\n  And thrice it was written “Tam Glen”!\n\n\nThe last Halloween I was waukin\n  My droukit sark-sleeve, as ye ken,\nHis likeness came up the house staukin,\n  And the very grey breeks o’ Tam Glen!\n\n\nCome, counsel, dear Tittie, don’t tarry;\n  I’ll gie ye my bonie black hen,\nGif ye will advise me to marry\n  The lad I lo’e dearly, Tam Glen.",
+      "source": {
+        "name": "Robert Burns · PoetryDB",
+        "url": "https://poetrydb.org/title/273.%20Song%E2%80%94Tam%20Glen",
+        "trustTier": "community",
+        "author": "Robert Burns"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:19:41.752Z",
+      "hash": "643c25c6a0c850a8"
+    },
+    {
+      "id": "poetry:92bde0a1ccd708c6",
+      "type": "poem",
+      "title": "Lines Written Among the Euganean Hills",
+      "summary": "OCTOBER, 1818.\nMany a green isle needs must be\nIn the deep wide sea of Misery,\nOr the mariner, worn and wan,",
+      "body": "OCTOBER, 1818.\n\nMany a green isle needs must be\nIn the deep wide sea of Misery,\nOr the mariner, worn and wan,\nNever thus could voyage on--\nDay and night, and night and day,\nDrifting on his dreary way,\nWith the solid darkness black\nClosing round his vessel's track:\nWhilst above the sunless sky,\nBig with clouds, hangs heavily,\nAnd behind the tempest fleet\nHurries on with lightning feet,\nRiving sail, and cord, and plank,\nTill the ship has almost drank\nDeath from the o'er-brimming deep;\nAnd sinks down, down, like that sleep\nWhen the dreamer seems to be\nWeltering through eternity;\nAnd the dim low line before\nOf a dark and distant shore\nStill recedes, as ever still\nLonging with divided will,\nBut no power to seek or shun,\nHe is ever drifted on\nO'er the unreposing wave\nTo the haven of the grave.\nWhat, if there no friends will greet;\nWhat, if there no heart will meet\nHis with love's impatient beat;\nWander wheresoe'er he may,\nCan he dream before that day\nTo find refuge from distress\nIn friendship's smile, in love's caress?\nThen 'twill wreak him little woe\nWhether such there be or no:\nSenseless is the breast, and cold,\nWhich relenting love would fold;\nBloodless are the veins and chill\nWhich the pulse of pain did fill;\nEvery little living nerve\nThat from bitter words did swerve\nRound the tortured lips and brow,\nAre like sapless leaflets now\nFrozen upon December's bough.\n\nOn the beach of a northern sea\nWhich tempests shake eternally,\nAs once the wretch there lay to sleep,\nLies a solitary heap,\nOne white skull and seven dry bones,\nOn the margin of the stones,\nWhere a few gray rushes stand,\nBoundaries of the sea and land:\nNor is heard one voice of wail\nBut the sea-mews, as they sail\nO'er the billows of the gale;\nOr the whirlwind up and down\nHowling, like a slaughtered town,\nWhen a king in glory rides\nThrough the pomp of fratricides:\nThose unburied bones around\nThere is many a mournful sound;\nThere is no lament for him,\nLike a sunless vapour, dim,\nWho once clothed with life and thought\nWhat now moves nor murmurs not.\n\nAy, many flowering islands lie\nIn the waters of wide Agony:\nTo such a one this morn was led,\nMy bark by soft winds piloted:\n'Mid the mountains Euganean\nI stood listening to the paean\nWith which the legioned rooks did hail\nThe sun's uprise majestical;\nGathering round with wings all hoar,\nThrough the dewy mist they soar\nLike gray shades, till the eastern heaven\nBursts, and then, as clouds of even,\nFlecked with fire and azure, lie\nIn the unfathomable sky,\nSo their plumes of purple grain,\nStarred with drops of golden rain,\nGleam above the sunlight woods,\nAs in silent multitudes\nOn the morning's fitful gale\nThrough the broken mist they sail,\nAnd the vapours cloven and gleaming\nFollow, down the dark steep streaming,\nTill all is bright, and clear, and still,\nRound the solitary hill.\n\nBeneath is spread like a green sea\nThe waveless plain of Lombardy,\nBounded by the vaporous air,\nIslanded by cities fair;\nUnderneath Day's azure eyes\nOcean's nursling, Venice lies,\nA peopled labyrinth of walls,\nAmphitrite's destined halls,\nWhich her hoary sire now paves\nWith his blue and beaming waves.\nLo! the sun upsprings behind,\nBroad, red, radiant, half-reclined\nOn the level quivering line\nOf the waters crystalline;\nAnd before that chasm of light,\nAs within a furnace bright,\nColumn, tower, and dome, and spire,\nShine like obelisks of fire,\nPointing with inconstant motion\nFrom the altar of dark ocean\nTo the sapphire-tinted skies;\nAs the flames of sacrifice\nFrom the marble shrines did rise,\nAs to pierce the dome of gold\nWhere Apollo spoke of old.\n\nSun-girt City, thou hast been\nOcean's child, and then his queen;\nNow is come a darker day,\nAnd thou soon must be his prey,\nIf the power that raised thee here\nHallow so thy watery bier.\nA less drear ruin then than now,\nWith thy conquest-branded brow\nStooping to the slave of slaves\nFrom thy throne, among the waves\nWilt thou be, when the sea-mew\nFlies, as once before it flew,\nO'er thine isles depopulate,\nAnd all is in its ancient state,\nSave where many a palace gate\nWith green sea-flowers overgrown\nLike a rock of Ocean's own,\nTopples o'er the abandoned sea\nAs the tides change sullenly.\nThe fisher on his watery way,\nWandering at the close of day,\nWill spread his sail and seize his oar\nTill he pass the gloomy shore,\nLest thy dead should, from their sleep\nBursting o'er the starlight deep,\nLead a rapid masque of death\nO'er the waters of his path.\n\nThose who alone thy towers behold\nQuivering through aereal gold,\nAs I now behold them here,\nWould imagine not they were\nSepulchres, where human forms,\nLike pollution-nourished worms,\nTo the corpse of greatness cling,\nMurdered, and now mouldering:\nBut if Freedom should awake\nIn her omnipotence, and shake\nFrom the Celtic Anarch's hold\nAll the keys of dungeons cold,\nWhere a hundred cities lie\nChained like thee, ingloriously,\nThou and all thy sister band\nMight adorn this sunny land,\nTwining memories of old time\nWith new virtues more sublime;\nIf not, perish thou and they!--\nClouds which stain truth's rising day\nBy her sun consumed away--\nEarth can spare ye: while like flowers,\nIn the waste of years and hours,\nFrom your dust new nations spring\nWith more kindly blossoming.\n\nPerish--let there only be\nFloating o'er thy hearthless sea\nAs the garment of thy sky\nClothes the world immortally,\nOne remembrance, more sublime\nThan the tattered pall of time,\nWhich scarce hides thy visage wan;--\nThat a tempest-cleaving Swan\nOf the songs of Albion,\nDriven from his ancestral streams\nBy the might of evil dreams,\nFound a nest in thee; and Ocean\nWelcomed him with such emotion\nThat its joy grew his, and sprung\nFrom his lips like music flung\nO'er a mighty thunder-fit,\nChastening terror:--what though yet\nPoesy's unfailing River,\nWhich through Albion winds forever\nLashing with melodious wave\nMany a sacred Poet's grave,\nMourn its latest nursling fled?\nWhat though thou with all thy dead\nScarce can for this fame repay\nAught thine own? oh, rather say\nThough thy sins and slaveries foul\nOvercloud a sunlike soul?\nAs the ghost of Homer clings\nRound Scamander's wasting springs;\nAs divinest Shakespeare's might\nFills Avon and the world with light\nLike omniscient power which he\nImaged 'mid mortality;\nAs the love from Petrarch's urn,\nYet amid yon hills doth burn,\nA quenchless lamp by which the heart\nSees things unearthly;--so thou art,\nMighty spirit--so shall be\nThe City that did refuge thee.\n\nLo, the sun floats up the sky\nLike thought-winged Liberty,\nTill the universal light\nSeems to level plain and height;\nFrom the sea a mist has spread,\nAnd the beams of morn lie dead\nOn the towers of Venice now,\nLike its glory long ago.\nBy the skirts of that gray cloud\nMany-domed Padua proud\nStands, a peopled solitude,\n'Mid the harvest-shining plain,\nWhere the peasant heaps his grain\nIn the garner of his foe,\nAnd the milk-white oxen slow\nWith the purple vintage strain,\nHeaped upon the creaking wain,\nThat the brutal Celt may swill\nDrunken sleep with savage will;\nAnd the sickle to the sword\nLies unchanged, though many a lord,\nLike a weed whose shade is poison,\nOvergrows this region's foison,\nSheaves of whom are ripe to come\nTo destruction's harvest-home:\nMen must reap the things they sow,\nForce from force must ever flow,\nOr worse; but 'tis a bitter woe\nThat love or reason cannot change\nThe despot's rage, the slave's revenge.\n\nPadua, thou within whose walls\nThose mute guests at festivals,\nSon and Mother, Death and Sin,\nPlayed at dice for Ezzelin,\nTill Death cried, \"I win, I win!\"\nAnd Sin cursed to lose the wager,\nBut Death promised, to assuage her,\nThat he would petition for\nHer to be made Vice-Emperor,\nWhen the destined years were o'er,\nOver all between the Po\nAnd the eastern Alpine snow,\nUnder the mighty Austrian.\nSin smiled so as Sin only can,\nAnd since that time, ay, long before,\nBoth have ruled from shore to shore,--\nThat incestuous pair, who follow\nTyrants as the sun the swallow,\nAs Repentance follows Crime,\nAnd as changes follow Time.\n\nIn thine halls the lamp of learning,\nPadua, now no more is burning;\nLike a meteor, whose wild way\nIs lost over the grave of day,\nIt gleams betrayed and to betray:\nOnce remotest nations came\nTo adore that sacred flame,\nWhen it lit not many a hearth\nOn this cold and gloomy earth:\nNow new fires from antique light\nSpring beneath the wide world's might;\nBut their spark lies dead in thee,\nTrampled out by Tyranny.\nAs the Norway woodman quells,\nIn the depth of piny dells,\nOne light flame among the brakes,\nWhile the boundless forest shakes,\nAnd its mighty trunks are torn\nBy the fire thus lowly born:\nThe spark beneath his feet is dead,\nHe starts to see the flames it fed\nHowling through the darkened sky\nWith a myriad tongues victoriously,\nAnd sinks down in fear: so thou,\nO Tyranny, beholdest now\nLight around thee, and thou hearest\nThe loud flames ascend, and fearest:\nGrovel on the earth; ay, hide\nIn the dust thy purple pride!\n\nNoon descends around me now:\n'Tis the noon of autumn's glow,\nWhen a soft and purple mist\nLike a vaporous amethyst,\nOr an air-dissolved star\nMingling light and fragrance, far\nFrom the curved horizon's bound\nTo the point of Heaven's profound,\nFills the overflowing sky;\nAnd the plains that silent lie\nUnderneath, the leaves unsodden\nWhere the infant Frost has trodden\nWith his morning-winged feet,\nWhose bright print is gleaming yet;\nAnd the red and golden vines,\nPiercing with their trellised lines\nThe rough, dark-skirted wilderness;\nThe dun and bladed grass no less,\nPointing from this hoary tower\nIn the windless air; the flower\nGlimmering at my feet; the line\nOf the olive-sandalled Apennine\nIn the south dimly islanded;\nAnd the Alps, whose snows are spread\nHigh between the clouds and sun;\nAnd of living things each one;\nAnd my spirit which so long\nDarkened this swift stream of song,--\nInterpenetrated lie\nBy the glory of the sky:\nBe it love, light, harmony,\nOdour, or the soul of all\nWhich from Heaven like dew doth fall,\nOr the mind which feeds this verse\nPeopling the lone universe.\n\nNoon descends, and after noon\nAutumn's evening meets me soon,\nLeading the infantine moon,\nAnd that one star, which to her\nAlmost seems to minister\nHalf the crimson light she brings\nFrom the sunset's radiant springs:\nAnd the soft dreams of the morn\n(Which like winged winds had borne\nTo that silent isle, which lies\nMid remembered agonies,\nThe frail bark of this lone being)\nPass, to other sufferers fleeing,\nAnd its ancient pilot, Pain,\nSits beside the helm again.\n\nOther flowering isles must be\nIn the sea of Life and Agony:\nOther spirits float and flee\nO'er that gulf: even now, perhaps,\nOn some rock the wild wave wraps,\nWith folded wings they waiting sit\nFor my bark, to pilot it\nTo some calm and blooming cove,\nWhere for me, and those I love,\nMay a windless bower be built,\nFar from passion, pain, and guilt,\nIn a dell mid lawny hills,\nWhich the wild sea-murmur fills,\nAnd soft sunshine, and the sound\nOf old forests echoing round,\nAnd the light and smell divine\nOf all flowers that breathe and shine:\nWe may live so happy there,\nThat the Spirits of the Air,\nEnvying us, may even entice\nTo our healing Paradise\nThe polluting multitude;\nBut their rage would be subdued\nBy that clime divine and calm,\nAnd the winds whose wings rain balm\nOn the uplifted soul, and leaves\nUnder which the bright sea heaves;\nWhile each breathless interval\nIn their whisperings musical\nThe inspired soul supplies\nWith its own deep melodies;\nAnd the love which heals all strife\nCircling, like the breath of life,\nAll things in that sweet abode\nWith its own mild brotherhood,\nThey, not it, would change; and soon\nEvery sprite beneath the moon\nWould repent its envy vain,\nAnd the earth grow young again.",
+      "source": {
+        "name": "Percy Bysshe Shelley · PoetryDB",
+        "url": "https://poetrydb.org/title/Lines%20Written%20Among%20the%20Euganean%20Hills",
+        "trustTier": "community",
+        "author": "Percy Bysshe Shelley"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-21T11:19:41.752Z",
+      "hash": "92bde0a1ccd708c6"
+    },
+    {
+      "id": "met:761731",
+      "type": "art",
+      "title": "\"An Aesthetic Darkey\" from the \"Aiken and Vicinity\" series",
+      "summary": "James A. Palmer · 1882 · Albumen silver print from glass negative",
+      "body": "James A. Palmer · 1882 · Albumen silver print from glass negative\nPurchase, Nancy Dunn Revocable Trust Gift, 2017\nThe American Wing",
+      "image": {
+        "src": "data/images/7cc1f9fe8554c09d.jpg",
+        "alt": "\"An Aesthetic Darkey\" from the \"Aiken and Vicinity\" series",
+        "credit": "The Met · Purchase, Nancy Dunn Revocable Trust Gift, 2017"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/761731",
+        "trustTier": "encyclopedic",
+        "author": "James A. Palmer",
+        "date": "1882"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-21T11:19:39.730Z",
+      "hash": "cab0c333d1041b51"
+    },
+    {
+      "id": "met:436144",
+      "type": "art",
+      "title": "James-Jacques-Joseph Tissot (1836–1902)",
+      "summary": "Edgar Degas · ca. 1867–68 · Oil on canvas",
+      "body": "Edgar Degas · ca. 1867–68 · Oil on canvas\nRogers Fund, 1939\nEuropean Paintings",
+      "image": {
+        "src": "data/images/48467068a33832d3.jpg",
+        "alt": "James-Jacques-Joseph Tissot (1836–1902)",
+        "credit": "The Met · Rogers Fund, 1939"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/436144",
+        "trustTier": "encyclopedic",
+        "author": "Edgar Degas",
+        "date": "ca. 1867–68"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower",
+        "paintings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-21T11:19:39.306Z",
+      "hash": "b6fa7a63570d8271"
+    },
+    {
+      "id": "met:347980",
+      "type": "art",
+      "title": "Songs of Experience: My Pretty Rose Tree, Ah! Sun-Flower, The Lilly",
+      "summary": "William Blake · [1794] printed ca. 1825 · Relief etching printed in orange-brown ink and hand-colored with watercolor and shell gold",
+      "body": "William Blake · [1794] printed ca. 1825 · Relief etching printed in orange-brown ink and hand-colored with watercolor and shell gold\nRogers Fund, 1917\nDrawings and Prints",
+      "image": {
+        "src": "data/images/ac6811334cffa7df.jpg",
+        "alt": "Songs of Experience: My Pretty Rose Tree, Ah! Sun-Flower, The Lilly",
+        "credit": "The Met · Rogers Fund, 1917"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/347980",
+        "trustTier": "encyclopedic",
+        "author": "William Blake",
+        "date": "[1794] printed ca. 1825"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-21T11:19:38.936Z",
+      "hash": "ad94ab213b2bdcb0"
+    },
+    {
+      "id": "apod:2018-08-03",
+      "type": "space",
+      "title": "Central Lunar Eclipse",
+      "summary": "Reddened by scattered sunlight, the Moon in the center is passing through the center of Earth's dark umbral shadow in this July 27 lunar eclipse sequence. Left to right the three images are from the start, maximum, and end to 103 minutes of totality from the longest lunar eclipse of the 21st century. The longest path…",
+      "body": "Reddened by scattered sunlight, the Moon in the center is passing through the center of Earth's dark umbral shadow in this July 27 lunar eclipse sequence. Left to right the three images are from the start, maximum, and end to 103 minutes of totality from the longest lunar eclipse of the 21st century. The longest path the Moon can follow through Earth's shadow does cross the shadow's center, that's what makes such central lunar eclipses long ones. But July 27 was also the date of lunar apogee, and at the most distant part of its elliptical orbit the Moon moves slowest. For the previous lunar eclipse, last January 31, the Moon was near its orbital perigee. Passing just south of the Earth shadow central axis, totality lasted only 76 minutes. Coming up on January 21, 2019, a third consecutive total lunar eclipse will also be off center and find the Moon near perigee. Then totality will be a mere 62 minutes long.",
+      "image": {
+        "src": "data/images/db59b159bf5d89e7.jpg",
+        "alt": "Central Lunar Eclipse",
+        "credit": "© Anthony Ayiomamitis"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap180803.html",
+        "trustTier": "encyclopedic",
+        "date": "2018-08-03"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:38.618Z",
+      "hash": "5c709f4fde40568f"
+    },
+    {
+      "id": "apod:1995-09-15",
+      "type": "space",
+      "title": "Space Station Mir Over Earth",
+      "summary": "This picture of the Russian space station Mir over the Pacific Ocean was recorded by the Space Shuttle Discovery in February 1995. During this mission Discovery performed a rendezvous and \"fly around\" with Mir in preparation for a future docking mission. Many scientific experiments and astronomical observations were…",
+      "body": "This picture of the Russian space station Mir over the Pacific Ocean was recorded by the Space Shuttle Discovery in February 1995. During this mission Discovery performed a rendezvous and \"fly around\" with Mir in preparation for a future docking mission. Many scientific experiments and astronomical observations were completed jointly by the American astronauts and the Russian cosmonauts. An IMAX camera took many pictures of this historic encounter. Some cosmonauts have spent more than a year on board Mir, the longest anyone has ever lived in space. Work on an International Space Station is in progress.",
+      "image": {
+        "src": "data/images/43cd2a9f706f17fe.gif",
+        "alt": "Space Station Mir Over Earth",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap950915.html",
+        "trustTier": "encyclopedic",
+        "date": "1995-09-15"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:38.618Z",
+      "hash": "02d7fdef18577be1"
+    },
+    {
+      "id": "apod:2019-07-15",
+      "type": "space",
+      "title": "The Space Station Crosses a Spotless Sun",
+      "summary": "That's no sunspot. It's the International Space Station (ISS) caught passing in front of the Sun. Sunspots, individually, have a dark central umbra, a lighter surrounding penumbra, and no solar panels. By contrast, the ISS is a complex and multi-spired mechanism, one of the largest and most sophisticated machines…",
+      "body": "That's no sunspot. It's the International Space Station (ISS) caught passing in front of the Sun. Sunspots, individually, have a dark central umbra, a lighter surrounding penumbra, and no solar panels. By contrast, the ISS is a complex and multi-spired mechanism, one of the largest and most sophisticated machines ever created by humanity. Also, sunspots occur on the Sun, whereas the ISS orbits the Earth. Transiting the Sun is not very unusual for the ISS, which orbits the Earth about every 90 minutes, but getting one's timing and equipment just right for a great image is rare. Strangely, besides that fake spot, in this recent two-image composite, the Sun lacked any real sunspots. The featured picture combines two images -- one capturing the space station transiting the Sun -- and another taken consecutively capturing details of the Sun's surface. Sunspots have been rare on the Sun since the dawn of the current Solar Minimum, a period of low solar activity. For reasons not yet fully understood, the number of sunspots occurring during both the previous and current solar minima have been unusually low.",
+      "image": {
+        "src": "data/images/bd1f1333d9801ef4.jpg",
+        "alt": "The Space Station Crosses a Spotless Sun",
+        "credit": "© Rainee Colacurcio"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap190715.html",
+        "trustTier": "encyclopedic",
+        "date": "2019-07-15"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:38.618Z",
+      "hash": "22f3c3d42557d235"
+    },
+    {
+      "id": "apod:2003-09-12",
+      "type": "space",
+      "title": "A Note on the Perseus Cluster",
+      "summary": "A truly enormous collection of thousands of galaxies, the Perseus Cluster - like other large galaxy clusters - is filled with hot, x-ray emitting gas. The x-ray hot gas (not the individual galaxies) appears in the left panel above, a false color image from the Chandra Observatory. The bright central source flanked by…",
+      "body": "A truly enormous collection of thousands of galaxies, the Perseus Cluster - like other large galaxy clusters - is filled with hot, x-ray emitting gas. The x-ray hot gas (not the individual galaxies) appears in the left panel above, a false color image from the Chandra Observatory. The bright central source flanked by two dark cavities is the cluster's supermassive black hole. At right, the panel shows the x-ray image data specially processed to enhance contrasts and reveals a strikingly regular pattern of pressure waves rippling through the hot gas. In other words, sound waves, likely generated by bursts of activity from the black hole, are ringing through the Perseus Galaxy Cluster. Astronomers infer that these previously unknown sound waves are a source of energy which keeps the cluster gas so hot. So what note is the Perseus Cluster playing? Estimates of the distance between the wave peaks and sound speed in the cluster gas suggests the cosmic note is about 57 octaves below B-flat above middle C.",
+      "image": {
+        "src": "data/images/27c0fc211e18e25d.jpg",
+        "alt": "A Note on the Perseus Cluster",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap030912.html",
+        "trustTier": "encyclopedic",
+        "date": "2003-09-12"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:38.618Z",
+      "hash": "9212e320b4dc8d5e"
+    },
+    {
+      "id": "apod:2009-01-02",
+      "type": "space",
+      "title": "Alpine Conjunction",
+      "summary": "Did you see it? The last conjunction of Moon and bright planets in 2008 featured a young crescent Moon and brilliant Venus in the west after sunset on December 31st. Seen here in dark, clear, mountain air from Mönichkirchen, Austria, are the two celestial beacons that dominate planet Earth's night sky. That pair was…",
+      "body": "Did you see it? The last conjunction of Moon and bright planets in 2008 featured a young crescent Moon and brilliant Venus in the west after sunset on December 31st. Seen here in dark, clear, mountain air from Mönichkirchen, Austria, are the two celestial beacons that dominate planet Earth's night sky. That pair was hard to miss, but skygazers watching lower along the western horizon in early twilight might also have glimpsed a pairing of Jupiter and Mercury as they both wandered closer to the Sun in the sky at year's end. Still, while this single, 5 second long exposure seriously overexposes the Moon's sunlit crescent, it does capture another planet not visible to the unaided eye. The tiny pinprick of light just above the photographer's head in the picture is the distant planet Neptune. Note : APOD editor to speak in New York tonight.",
+      "image": {
+        "src": "data/images/70e022fa7a8cf34c.jpg",
+        "alt": "Alpine Conjunction",
+        "credit": "© Tamas Ladanyi"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap090102.html",
+        "trustTier": "encyclopedic",
+        "date": "2009-01-02"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:38.618Z",
+      "hash": "56b76bf9315319c7"
+    },
+    {
+      "id": "onthisday:06-21:2000:f2049d17f4f9c904",
+      "type": "history",
+      "title": "2000: Bill Clinton",
+      "summary": "President Bill Clinton awarded the Medal of Honor to 22 Asian Americans, mostly from the 442nd Regimental Combat Team, for actions during World War II.",
+      "body": "President Bill Clinton awarded the Medal of Honor to 22 Asian Americans, mostly from the 442nd Regimental Combat Team, for actions during World War II.",
+      "image": {
+        "src": "data/images/63b8cb28904b1a9d.jpg",
+        "alt": "Bill Clinton",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Bill_Clinton",
+        "trustTier": "encyclopedic",
+        "date": "06-21"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:37.882Z",
+      "hash": "7330049c4c1c2484",
+      "expires": "2026-06-24T11:19:37.882Z"
+    },
+    {
+      "id": "onthisday:06-21:1919:f5f35d8eb05667de",
+      "type": "history",
+      "title": "1919: Winnipeg general strike",
+      "summary": "During a general strike in Winnipeg, Canada, members of the Royal North-West Mounted Police attacked a crowd of strikers, armed with clubs and revolvers.",
+      "body": "During a general strike in Winnipeg, Canada, members of the Royal North-West Mounted Police attacked a crowd of strikers, armed with clubs and revolvers.",
+      "image": {
+        "src": "data/images/518e542a98751a84.jpg",
+        "alt": "Winnipeg general strike",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Winnipeg_general_strike",
+        "trustTier": "encyclopedic",
+        "date": "06-21"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:37.882Z",
+      "hash": "e412af33481080cd",
+      "expires": "2026-06-24T11:19:37.882Z"
+    },
+    {
+      "id": "onthisday:06-21:-217:85a414d19e9ac243",
+      "type": "history",
+      "title": "-217: Second Punic War",
+      "summary": "Second Punic War: Commanded by Hannibal, the Carthaginians ambushed a Roman army at the Battle of Lake Trasimene, capturing or killing 25,000 men.",
+      "body": "Second Punic War: Commanded by Hannibal, the Carthaginians ambushed a Roman army at the Battle of Lake Trasimene, capturing or killing 25,000 men.",
+      "image": {
+        "src": "data/images/69369aa7e1a00fb0.png",
+        "alt": "Second Punic War",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Second_Punic_War",
+        "trustTier": "encyclopedic",
+        "date": "06-21"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:37.882Z",
+      "hash": "8deebaeb6688fadb",
+      "expires": "2026-06-24T11:19:37.883Z"
+    },
+    {
+      "id": "wikipedia:3706728",
+      "type": "wiki",
+      "title": "The New Fantastic Four",
+      "summary": "The New Fantastic Four is an American animated series produced by DePatie–Freleng Enterprises and Marvel Comics Animation in 1978. It is the second animated series based on Marvel's comic book series Fantastic Four, following a 1967 series produced by Hanna-Barbera Productions.",
+      "body": "The New Fantastic Four is an American animated series produced by DePatie–Freleng Enterprises and Marvel Comics Animation in 1978. It is the second animated series based on Marvel's comic book series Fantastic Four, following a 1967 series produced by Hanna-Barbera Productions.",
+      "image": {
+        "src": "data/images/06cf43f418de1512.png",
+        "alt": "The New Fantastic Four",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_New_Fantastic_Four",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:37.560Z",
+      "hash": "69f020b558777eb8"
+    },
+    {
+      "id": "wikipedia:33570022",
+      "type": "wiki",
+      "title": "Gronau (Pinnau)",
+      "summary": "Gronau is a river of Schleswig-Holstein, Germany. It flows into the Pinnau near Ellerau.",
+      "body": "Gronau is a river of Schleswig-Holstein, Germany. It flows into the Pinnau near Ellerau.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gronau_(Pinnau)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:37.322Z",
+      "hash": "5539887f4a932feb"
+    },
+    {
+      "id": "wikipedia:15317711",
+      "type": "wiki",
+      "title": "FÉG 37M Pistol",
+      "summary": "The FÉG 37M is a Hungarian semi-automatic pistol based on a design by Rudolf Frommer.",
+      "body": "The FÉG 37M is a Hungarian semi-automatic pistol based on a design by Rudolf Frommer.",
+      "image": {
+        "src": "data/images/0f65fb2f72ca3416.jpg",
+        "alt": "FÉG 37M Pistol",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/F%C3%89G_37M_Pistol",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:36.187Z",
+      "hash": "0e31e590645bcad7"
+    },
+    {
+      "id": "wikipedia:62660215",
+      "type": "wiki",
+      "title": "Mary Cleo Tarlarini",
+      "summary": "Mary Cleo Tarlarini (1878–1954) was an Italian stage and film actress.",
+      "body": "Mary Cleo Tarlarini (1878–1954) was an Italian stage and film actress.",
+      "image": {
+        "src": "data/images/80e9765eba2505dd.jpg",
+        "alt": "Mary Cleo Tarlarini",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary_Cleo_Tarlarini",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-21T11:19:35.906Z",
+      "hash": "5a0b270369bd2dc9"
+    },
     {
       "id": "chess:W3Lx2",
       "type": "chess",
@@ -11376,1056 +12383,6 @@
       "difficulty": 1,
       "fetchedAt": "2026-06-12T05:27:18.481Z",
       "hash": "9205e963dd970cf6"
-    },
-    {
-      "id": "art:si:ld1-1643407787750-1643407817506-1",
-      "type": "art",
-      "title": "Primulina 'Moon Walker'",
-      "summary": "NMNH - Botany Dept. · 1990s",
-      "body": "NMNH - Botany Dept.\n1990s",
-      "image": {
-        "src": "data/images/d82724df805e2725.jpg",
-        "alt": "Primulina 'Moon Walker'",
-        "credit": "NMNH - Botany Dept. · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/3d0ec32a4-6b06-4cc5-a1ee-ca65efa220c1",
-        "trustTier": "encyclopedic",
-        "date": "1990s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-12T05:27:18.481Z",
-      "hash": "a6c823ff5791ec4a"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399893757-0",
-      "type": "art",
-      "title": "Clayton's Ascent",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1830s · Bandboxes (containers)",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1830s · Bandboxes (containers)",
-      "image": {
-        "src": "data/images/2fb2783262c22c05.jpg",
-        "alt": "Clayton's Ascent",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/21896",
-        "trustTier": "encyclopedic",
-        "date": "1830s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon",
-        "bandboxes (containers)"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-12T05:27:18.481Z",
-      "hash": "539512d8997b30fb"
-    },
-    {
-      "id": "met:44794",
-      "type": "art",
-      "title": "Monk Holding a Lotus",
-      "summary": "Unknown artist · ca. 6th–7th century · Pigments on mud plaster",
-      "body": "Unknown artist · ca. 6th–7th century · Pigments on mud plaster\nFletcher Fund, 1942\nAsian Art",
-      "image": {
-        "src": "data/images/220f916e0b7dd62b.jpg",
-        "alt": "Monk Holding a Lotus",
-        "credit": "The Met · Fletcher Fund, 1942"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/44794",
-        "trustTier": "encyclopedic",
-        "date": "ca. 6th–7th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "flower",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-12T05:27:17.142Z",
-      "hash": "217ea8e65b9851e3"
-    },
-    {
-      "id": "met:287766",
-      "type": "art",
-      "title": "A Sweeper Girl of the Lowest Caste",
-      "summary": "Unknown · 1850s · Albumen silver print",
-      "body": "Unknown · 1850s · Albumen silver print\nGilman Collection, Museum Purchase, 2005\nPhotographs",
-      "image": {
-        "src": "data/images/896b57927044ae64.jpg",
-        "alt": "A Sweeper Girl of the Lowest Caste",
-        "credit": "The Met · Gilman Collection, Museum Purchase, 2005"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/287766",
-        "trustTier": "encyclopedic",
-        "author": "Unknown",
-        "date": "1850s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "flower",
-        "photographs"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-12T05:27:17.014Z",
-      "hash": "55f3162bedbe8708"
-    },
-    {
-      "id": "met:37309",
-      "type": "art",
-      "title": "Girls Getting on Board a Boat, from the illustrated book Flowers of the Four Seasons",
-      "summary": "Kitagawa Utamaro · 1801 · Woodblock print; ink and color on paper",
-      "body": "Kitagawa Utamaro · 1801 · Woodblock print; ink and color on paper\nGift of Estate of Samuel Isham, 1914\nAsian Art",
-      "image": {
-        "src": "data/images/fcf576c9f805cc71.jpg",
-        "alt": "Girls Getting on Board a Boat, from the illustrated book Flowers of the Four Seasons",
-        "credit": "The Met · Gift of Estate of Samuel Isham, 1914"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/37309",
-        "trustTier": "encyclopedic",
-        "author": "Kitagawa Utamaro",
-        "date": "1801"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "flower",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-12T05:27:16.868Z",
-      "hash": "64b990ab56d6566d"
-    },
-    {
-      "id": "apod:2002-07-19",
-      "type": "space",
-      "title": "Counting Stars in the Infrared Sky",
-      "summary": "The bulging center of our Milky Way Galaxy, dark cosmic clouds, the thin galactic plane, and even nearby galaxies are easy to spot in this sky view. But each pixel in the digital image is actually based on star counts alone -- as derived from the Two Micron All Sky Survey (2MASS) database. In 2001, the 2MASS project…",
-      "body": "The bulging center of our Milky Way Galaxy, dark cosmic clouds, the thin galactic plane, and even nearby galaxies are easy to spot in this sky view. But each pixel in the digital image is actually based on star counts alone -- as derived from the Two Micron All Sky Survey (2MASS) database. In 2001, the 2MASS project completed a ground-based survey of the entire sky and cataloged upwards of 250 million stars. Their full all-sky picture assigns a brightness and color to individual pixels based on corresponding star counts in each of the survey's three near-infrared bands. In this cropped image, the star-packed galactic center is toward the upper left, with the bright plane of our Galaxy running horizontally through it. Dense regions of interstellar dust clouds, still opaque to penetrating near-infrared light, appear dark by reducing the 2MASS star counts. Our fuzzy neighboring galaxies, the large and small Magellanic Clouds, are at the lower right, while scattered single bright spots correspond to the intense concentrations of stars in the Milky Way's large globular star clusters.",
-      "image": {
-        "src": "data/images/98387fee1dc9adaf.jpg",
-        "alt": "Counting Stars in the Infrared Sky",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap020719.html",
-        "trustTier": "encyclopedic",
-        "date": "2002-07-19"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:15.711Z",
-      "hash": "ccb0e09474c5dd5c"
-    },
-    {
-      "id": "apod:2016-04-24",
-      "type": "space",
-      "title": "M16: Pillars of Star Creation",
-      "summary": "Newborn stars are forming in the Eagle Nebula. This image, taken with the Hubble Space Telescope in 1995, shows evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust. The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form…",
-      "body": "Newborn stars are forming in the Eagle Nebula. This image, taken with the Hubble Space Telescope in 1995, shows evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust. The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars. At each pillars' end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed. The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away. The pillars of creation were imaged again in 2007 by the orbiting Spitzer Space Telescope in infrared light, leading to the conjecture that the pillars may already have been destroyed by a local supernova, but light from that event has yet to reach the Earth. Be Honest: Have you seen this image before?",
-      "image": {
-        "src": "data/images/2f82ed911c125a1a.jpg",
-        "alt": "M16: Pillars of Star Creation",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap160424.html",
-        "trustTier": "encyclopedic",
-        "date": "2016-04-24"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:15.711Z",
-      "hash": "0a46d90e049e83f0"
-    },
-    {
-      "id": "apod:2012-07-30",
-      "type": "space",
-      "title": "Ash and Lightning Above an Icelandic Volcano",
-      "summary": "Why did the picturesque 2010 volcanic eruption in Iceland create so much ash? Although the large ash plume was not unparalleled in its abundance, its location was particularly noticeable because it drifted across such well-populated areas. The Eyjafjallajökull volcano in southern Iceland began erupting on 2010 March…",
-      "body": "Why did the picturesque 2010 volcanic eruption in Iceland create so much ash? Although the large ash plume was not unparalleled in its abundance, its location was particularly noticeable because it drifted across such well-populated areas. The Eyjafjallajökull volcano in southern Iceland began erupting on 2010 March 20, with a second eruption starting under the center of a small glacier on 2010 April 14. Neither eruption was unusually powerful. The second eruption, however, melted a large amount of glacial ice which then cooled and fragmented lava into gritty glass particles that were carried up with the rising volcanic plume. Pictured above during the second eruption, lightning bolts illuminate ash pouring out of the Eyjafjallajökull volcano.",
-      "image": {
-        "src": "data/images/fc9168ba9e6da109.jpg",
-        "alt": "Ash and Lightning Above an Icelandic Volcano",
-        "credit": "© Sigurður Stefnisson"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap120730.html",
-        "trustTier": "encyclopedic",
-        "date": "2012-07-30"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:15.711Z",
-      "hash": "304b58eea5cf0f11"
-    },
-    {
-      "id": "apod:2004-01-21",
-      "type": "space",
-      "title": "Adirondack Rock on Mars",
-      "summary": "Is this a great pyramid on Mars? Actually, the pictured rock dubbed Adirondack has an irregular shape, is only about the size of a football, and has formed by natural processes. Still, its relatively large size and dust-free surface made it the first destination for the robotic Spirit rover currently roving Mars.…",
-      "body": "Is this a great pyramid on Mars? Actually, the pictured rock dubbed Adirondack has an irregular shape, is only about the size of a football, and has formed by natural processes. Still, its relatively large size and dust-free surface made it the first destination for the robotic Spirit rover currently roving Mars. Spirit, itself the size of a golf cart, will now attempt to determine the rock's composition and history by prodding it with its sophisticated mechanical arm. Spirit's arm, programmed remotely from Earth, has the capability to bend, grind, and photograph the rock in minute detail. Spirit's twin rover Opportunity is scheduled to land on the other side of Mars this coming weekend.",
-      "image": {
-        "src": "data/images/d4ed3990edfef661.jpg",
-        "alt": "Adirondack Rock on Mars",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap040121.html",
-        "trustTier": "encyclopedic",
-        "date": "2004-01-21"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:15.711Z",
-      "hash": "2eca55a85c0d009f"
-    },
-    {
-      "id": "apod:1996-09-30",
-      "type": "space",
-      "title": "Exploring The Universe With IUE 1978-1996\nCredit:",
-      "summary": "How do planets, stars, and galaxies form? How do they evolve? The International Ultraviolet Explorer (IUE) satellite was launched in 1978 and operated by NASA/ ESA/ PPARC to help provide answers to some of the most fundamental questions about the contents of our universe. IUE served as a geostationary orbiting…",
-      "body": "How do planets, stars, and galaxies form? How do they evolve? The International Ultraviolet Explorer (IUE) satellite was launched in 1978 and operated by NASA/ ESA/ PPARC to help provide answers to some of the most fundamental questions about the contents of our universe. IUE served as a geostationary orbiting observatory for the next 18 years acquiring over 100,000 observations with its onboard ultraviolet spectrographs. Its prodigious scientific output is only hinted at by the all-sky plot above which shows the locations of IUE's many pointed observations over its long operational history. The brightness of a point on the sky represents the the number of IUE observations. The plot is in galactic coordinates (the plane of our Galaxy runs horizontally through the middle) and reveals the positions of distant quasars, galaxies, stars, star clusters, nebulae, novae, and supernovae - testifying to IUE's broad range of capabilities. The ecliptic plane is also visible running diagonally through the center, traced out by many observations of solar system objects. After over 18 years, IUE's science operations officially end today as the final commands are transmitted to the aging satellite by controllers at NASA's Goddard Space Flight Center. Astronomers from around the world whose careers have been touched by IUE have expressed their fond farewells to this most productive and longest lived astronomical satellite and their thanks to all who have made IUE's remarkable voyage of exploration possible. News Flash: BATSE Detects Huge Gamma Ray Burst",
-      "image": {
-        "src": "data/images/a90196a30db5fc4a.gif",
-        "alt": "Exploring The Universe With IUE 1978-1996\nCredit:",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap960930.html",
-        "trustTier": "encyclopedic",
-        "date": "1996-09-30"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:15.711Z",
-      "hash": "f7bbb001626753b8"
-    },
-    {
-      "id": "onthisday:06-12:1864:5f5f29a04f90593f",
-      "type": "history",
-      "title": "1864: Union (American Civil War)",
-      "summary": "Union general Ulysses S. Grant pulled his troops out of the Battle of Cold Harbor in Hanover County, Virginia, ending one of the bloodiest, most lopsided battles in the American Civil War.",
-      "body": "Union general Ulysses S. Grant pulled his troops out of the Battle of Cold Harbor in Hanover County, Virginia, ending one of the bloodiest, most lopsided battles in the American Civil War.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Union_(American_Civil_War)",
-        "trustTier": "encyclopedic",
-        "date": "06-12"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:26:14.001Z",
-      "hash": "a5f0fb7e3ee9af9c",
-      "expires": "2026-06-15T05:26:14.001Z"
-    },
-    {
-      "id": "onthisday:06-12:1776:031b3f51116d2ceb",
-      "type": "history",
-      "title": "1776: Fifth Virginia Convention",
-      "summary": "The Fifth Virginia Convention adopted a declaration of rights, an influential document that proclaimed the inherent rights of men.",
-      "body": "The Fifth Virginia Convention adopted a declaration of rights, an influential document that proclaimed the inherent rights of men.",
-      "image": {
-        "src": "data/images/7767f4ad3ee610b6.jpg",
-        "alt": "Fifth Virginia Convention",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Fifth_Virginia_Convention",
-        "trustTier": "encyclopedic",
-        "date": "06-12"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:26:14.001Z",
-      "hash": "ba9317ac16b9de47",
-      "expires": "2026-06-15T05:26:14.001Z"
-    },
-    {
-      "id": "onthisday:06-12:1987:f540c7d17749fedf",
-      "type": "history",
-      "title": "1987: Cold War",
-      "summary": "Cold War: During a speech at the Brandenburg Gate by the Berlin Wall, US president Ronald Reagan challenged Soviet leader Mikhail Gorbachev to \"tear down this wall!\" (speech featured).",
-      "body": "Cold War: During a speech at the Brandenburg Gate by the Berlin Wall, US president Ronald Reagan challenged Soviet leader Mikhail Gorbachev to \"tear down this wall!\" (speech featured).",
-      "image": {
-        "src": "data/images/6a747d57bcca9f2a.png",
-        "alt": "Cold War",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Cold_War",
-        "trustTier": "encyclopedic",
-        "date": "06-12"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:26:14.001Z",
-      "hash": "46668faebc5bccb7",
-      "expires": "2026-06-15T05:26:14.001Z"
-    },
-    {
-      "id": "wikipedia:1508913",
-      "type": "wiki",
-      "title": "Mikoyan MiG-AT",
-      "summary": "The Mikoyan MiG-AT is a Russian advanced trainer and light attack aircraft that was intended to replace the Aero L-29 and L-39 of the Russian Air Force. Designed by the Mikoyan Design Bureau and built by the Moscow Aircraft Production Association, the MiG-AT made its first flight in March 1996. It is the first joint…",
-      "body": "The Mikoyan MiG-AT is a Russian advanced trainer and light attack aircraft that was intended to replace the Aero L-29 and L-39 of the Russian Air Force. Designed by the Mikoyan Design Bureau and built by the Moscow Aircraft Production Association, the MiG-AT made its first flight in March 1996. It is the first joint aircraft development programme between Russia and France and the first military collaborative project between Russia and the West to reach first flight. The design lost out to the Yakovlev Yak-130 in 2002 in the competition for a government contract, and had also been unsuccessfully marketed to countries such as India, Greece, and those of the Commonwealth of Independent States.",
-      "image": {
-        "src": "data/images/03ff5f50b72d9995.jpg",
-        "alt": "Mikoyan MiG-AT",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Mikoyan_MiG-AT",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:26:13.941Z",
-      "hash": "526b8187ec71dd36"
-    },
-    {
-      "id": "wikipedia:18421691",
-      "type": "wiki",
-      "title": "It's Nothing",
-      "summary": "\"It's Nothing\" is the third and final single from Milk Me, a 2004 album by East Coast hip hop group The Beatnuts. It was released by Penalty Recordings as a 12 inch with \"Confused Rappers\" as its b-side. The song is produced by The Beatnuts and features rapped verses by Juju, Psycho Les and guest rapper A.G., as well…",
-      "body": "\"It's Nothing\" is the third and final single from Milk Me, a 2004 album by East Coast hip hop group The Beatnuts. It was released by Penalty Recordings as a 12 inch with \"Confused Rappers\" as its b-side. The song is produced by The Beatnuts and features rapped verses by Juju, Psycho Les and guest rapper A.G., as well as a chorus performed by Gab Goblin. The song is lyrically composed of braggadocios metaphors and punchlines. The song's beat is characterized by a flute sample and quick drums giving it a \"futuristic funk\" sound. The song also features live instrumentation provided by keyboardist Neal Evans.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/It's_Nothing",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:26:13.600Z",
-      "hash": "3e073ae34d3fce56"
-    },
-    {
-      "id": "wikipedia:74707092",
-      "type": "wiki",
-      "title": "Parang Ginah",
-      "summary": "The Parang Ginah is a sickle shaped Malay cutting implement, whether a sword or a sickle is uncertain, most likely the latter.",
-      "body": "The Parang Ginah is a sickle shaped Malay cutting implement, whether a sword or a sickle is uncertain, most likely the latter.",
-      "image": {
-        "src": "data/images/960656ed11b8e8df.jpg",
-        "alt": "Parang Ginah",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Parang_Ginah",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:26:12.546Z",
-      "hash": "3cf465766030db95"
-    },
-    {
-      "id": "wikipedia:44887566",
-      "type": "wiki",
-      "title": "Campo Belo (district of São Paulo)",
-      "summary": "Campo Belo is one of 96 districts in the city of São Paulo, Brazil.",
-      "body": "Campo Belo is one of 96 districts in the city of São Paulo, Brazil.",
-      "image": {
-        "src": "data/images/8eb9bc32a3b5b8e0.jpg",
-        "alt": "Campo Belo (district of São Paulo)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Campo_Belo_(district_of_S%C3%A3o_Paulo)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:26:12.286Z",
-      "hash": "fd66a5294b0080e6"
-    },
-    {
-      "id": "passage:gutenberg:1342",
-      "type": "passage",
-      "title": "Pride and Prejudice",
-      "summary": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other…",
-      "body": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters. “My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?” Mr. Bennet replied that he had not. “But it is,” returned she; “for Mrs. Long has just been here, and she told me all about it.” Mr. Bennet made no answer. “Do not you want to know who has taken it?” cried his…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1342",
-        "trustTier": "publication",
-        "author": "Jane Austen",
-        "date": "1813"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "romance",
-        "regency"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:40.534Z",
-      "hash": "2c77190f0de913e9"
-    },
-    {
-      "id": "passage:gutenberg:55",
-      "type": "passage",
-      "title": "The Wonderful Wizard of Oz",
-      "summary": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the…",
-      "body": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the dishes, a table, three or four chairs, and the beds. Uncle Henry and Aunt Em had a big bed in one corner, and Dorothy a little bed in another corner. There was no garret at all, and no cellar—except a small hole dug in the ground, called a cyclone cellar, where the family could go in case one of those great whirlwinds arose, mighty enough…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/55",
-        "trustTier": "publication",
-        "author": "L. Frank Baum",
-        "date": "1900"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "fantasy",
-        "childrens",
-        "adventure"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:40.225Z",
-      "hash": "7baef76d70f6712b"
-    },
-    {
-      "id": "passage:gutenberg:11",
-      "type": "passage",
-      "title": "Alice's Adventures in Wonderland",
-      "summary": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?” So she was considering in her own mind (as well as she…",
-      "body": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?” So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by her. There was nothing so _very_ remarkable in that; nor did Alice think it so _very_ much out of the way to…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/11",
-        "trustTier": "publication",
-        "author": "Lewis Carroll",
-        "date": "1865"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "fantasy",
-        "childrens"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:39.716Z",
-      "hash": "5161ccae1cb7bb47"
-    },
-    {
-      "id": "world:comoros",
-      "type": "world",
-      "title": "Comoros",
-      "summary": "Comoros is a country in Eastern Africa. Its capital is Moroni, and it covers about 1,862 km². About 920 thousand people live there. The main language is Arabic. Cars drive on the right.",
-      "body": "Comoros is a country in Eastern Africa. Its capital is Moroni, and it covers about 1,862 km². About 920 thousand people live there. The main language is Arabic. Cars drive on the right.\n\nThe flag: The flag of Comoros is composed of four equal horizontal bands of yellow, white, red and blue, with a green isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a fly-side facing white crescent and four five-pointed white stars arranged in a vertical line along the opening of the crescent.",
-      "image": {
-        "src": "data/images/59d15bc9fc84594c.png",
-        "alt": "The flag of Comoros is composed of four equal horizontal bands of yellow, white, red and blue, with a green isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a fly-side facing white crescent and four five-pointed white stars arranged in a vertical line along the opening of the crescent.",
-        "credit": "Flag of Comoros · flagcdn.com"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Comoros",
-        "trustTier": "encyclopedic"
-      },
-      "attribution": {
-        "label": "Country data · REST Countries",
-        "url": "https://restcountries.com"
-      },
-      "tags": [
-        "world",
-        "geography",
-        "africa",
-        "eastern africa",
-        "arabic"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:39.150Z",
-      "hash": "983e42cd57c16164"
-    },
-    {
-      "id": "world:samoa",
-      "type": "world",
-      "title": "Samoa",
-      "summary": "Samoa is a country in Polynesia. Its capital is Apia, and it covers about 2,842 km². About 206 thousand people live there. The main language is English. Cars drive on the left.",
-      "body": "Samoa is a country in Polynesia. Its capital is Apia, and it covers about 2,842 km². About 206 thousand people live there. The main language is English. Cars drive on the left.\n\nThe flag: The flag of Samoa has a red field. A blue rectangle, bearing a representation of the Southern Cross made up of five large and one smaller five-pointed white stars, is superimposed in the canton.",
-      "image": {
-        "src": "data/images/ed322419ccc895b1.png",
-        "alt": "The flag of Samoa has a red field. A blue rectangle, bearing a representation of the Southern Cross made up of five large and one smaller five-pointed white stars, is superimposed in the canton.",
-        "credit": "Flag of Samoa · flagcdn.com"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Samoa",
-        "trustTier": "encyclopedic"
-      },
-      "attribution": {
-        "label": "Country data · REST Countries",
-        "url": "https://restcountries.com"
-      },
-      "tags": [
-        "world",
-        "geography",
-        "oceania",
-        "polynesia",
-        "english"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:39.150Z",
-      "hash": "06e09bbf028f495c"
-    },
-    {
-      "id": "world:jordan",
-      "type": "world",
-      "title": "Jordan",
-      "summary": "Jordan is a country in Western Asia. Its capital is Amman, and it covers about 89,342 km². About 12 million people live there. The main language is Arabic. Cars drive on the right.",
-      "body": "Jordan is a country in Western Asia. Its capital is Amman, and it covers about 89,342 km². About 12 million people live there. The main language is Arabic. Cars drive on the right.\n\nThe flag: The flag of Jordan is composed of three equal horizontal bands of black, white and green, with a red isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about half the width of the field and bears a small seven-pointed white star at its center.",
-      "image": {
-        "src": "data/images/9ff528645abb3488.png",
-        "alt": "The flag of Jordan is composed of three equal horizontal bands of black, white and green, with a red isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about half the width of the field and bears a small seven-pointed white star at its center.",
-        "credit": "Flag of Jordan · flagcdn.com"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Jordan",
-        "trustTier": "encyclopedic"
-      },
-      "attribution": {
-        "label": "Country data · REST Countries",
-        "url": "https://restcountries.com"
-      },
-      "tags": [
-        "world",
-        "geography",
-        "asia",
-        "western asia",
-        "arabic"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:39.150Z",
-      "hash": "c366e24c5ea70c6e"
-    },
-    {
-      "id": "comic:smbc:d36227a1e01899dd",
-      "type": "comic",
-      "title": "Consciousness",
-      "summary": "From an idea in Aguera y Arcas' recent book What is Intelligence?",
-      "image": {
-        "src": "data/images/c55fb36d547525fb.png",
-        "alt": "From an idea in Aguera y Arcas' recent book What is Intelligence?",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/consciousness-10",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Sun, 07 Jun 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:38.541Z",
-      "hash": "d36227a1e01899dd"
-    },
-    {
-      "id": "comic:smbc:bfe583bdabe0ad38",
-      "type": "comic",
-      "title": "Gold",
-      "summary": "I contend that SMBC remains the comic with the funniest jokes about commodity pricing.",
-      "image": {
-        "src": "data/images/a6d41807ba4feea9.png",
-        "alt": "I contend that SMBC remains the comic with the funniest jokes about commodity pricing.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/gold-5",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Mon, 08 Jun 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:38.540Z",
-      "hash": "bfe583bdabe0ad38"
-    },
-    {
-      "id": "comic:xkcd:2164",
-      "type": "comic",
-      "title": "Glacier",
-      "summary": "The Norwegian adaptation of The Sword in the Stone takes things in a weird direction.",
-      "image": {
-        "src": "data/images/9c8f359cee74f7bb.png",
-        "alt": "The Norwegian adaptation of The Sword in the Stone takes things in a weird direction.",
-        "credit": "xkcd #2164 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/2164/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2019-06-17"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:38.313Z",
-      "hash": "f710929195344d18"
-    },
-    {
-      "id": "comic:xkcd:3256",
-      "type": "comic",
-      "title": "Nostalgia Content",
-      "summary": "Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.",
-      "image": {
-        "src": "data/images/af8915cc37c1487d.png",
-        "alt": "Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.",
-        "credit": "xkcd #3256 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3256/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2026-06-08"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-08T23:10:37.883Z",
-      "hash": "742b5ba6d6dc1a4d"
-    },
-    {
-      "id": "craft:d8fc41e370859056",
-      "type": "craft",
-      "title": "Phantasmic Figures Grapple with Their Doubles in Xie Lei’s Dreamy Oil Paintings",
-      "summary": "\"What I’m trying to achieve is to transport the viewer into another world,\" Xie says.",
-      "body": "\"What I’m trying to achieve is to transport the viewer into another world,\" Xie says.",
-      "image": {
-        "src": "data/images/60febdb1dca5be2d.jpg",
-        "alt": "Phantasmic Figures Grapple with Their Doubles in Xie Lei’s Dreamy Oil Paintings",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/06/xie-lei-double-oil-paintings-exhibition/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Mon, 08 Jun 2026 17:37:3"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "painting",
-        "xie lei"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:37.602Z",
-      "hash": "d8fc41e370859056"
-    },
-    {
-      "id": "craft:cf4c8f682771ec3d",
-      "type": "craft",
-      "title": "A Poetic Short Film Animates the Counterproductive Forces of Incarceration",
-      "summary": "\"I believe the purpose of an artist is to move the crowd,\" writer Marvin Wade says.",
-      "body": "\"I believe the purpose of an artist is to move the crowd,\" writer Marvin Wade says.",
-      "image": {
-        "src": "data/images/45af7f3ddcd01e0c.gif",
-        "alt": "A Poetic Short Film Animates the Counterproductive Forces of Incarceration",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/06/prison-time-marvin-wade-evan-bode-short-film/",
-        "trustTier": "publication",
-        "author": "Grace Ebert",
-        "date": "Mon, 08 Jun 2026 19:29:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "animation",
-        "film",
-        "social issues",
-        "evan bode",
-        "incarceration",
-        "marvin wade",
-        "short film"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:37.601Z",
-      "hash": "cf4c8f682771ec3d"
-    },
-    {
-      "id": "craft:68a9361dbf285dbd",
-      "type": "craft",
-      "title": "Open Source Hardware Certifications for May 2026",
-      "summary": "A new month means new OSHWA certifications. May brought a robot arm, a RISC-V badge, and a windmill SAO! The post Open Source Hardware Certifications for May 2026 appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "A new month means new OSHWA certifications. May brought a robot arm, a RISC-V badge, and a windmill SAO! The post Open Source Hardware Certifications for May 2026 appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/e22f489d7e7ed499.jpg",
-        "alt": "Open Source Hardware Certifications for May 2026",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/maker-news/open-source-hardware-certifications-for-may-2026/",
-        "trustTier": "publication",
-        "author": "Sid Drmay",
-        "date": "Mon, 08 Jun 2026 18:56:4"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "maker news",
-        "open source",
-        "technology",
-        "badge",
-        "open source hardware",
-        "oshwa",
-        "robot arm"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:37.179Z",
-      "hash": "68a9361dbf285dbd"
-    },
-    {
-      "id": "word:e7feed4c67ffa8fb",
-      "type": "word",
-      "title": "sophrosyne",
-      "summary": "Noun: The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "body": "1. The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/sophrosyne",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:36.330Z",
-      "hash": "e7feed4c67ffa8fb"
-    },
-    {
-      "id": "word:2498fe925ce2ca11",
-      "type": "word",
-      "title": "solitude",
-      "summary": "Noun: Aloneness; the state of being alone, solitary, or by oneself.",
-      "body": "1. Aloneness; the state of being alone, solitary, or by oneself.\n2. A lonely or deserted place.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/solitude",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:35.656Z",
-      "hash": "2498fe925ce2ca11"
-    },
-    {
-      "id": "quote:31e3babf6b2faf9a",
-      "type": "quote",
-      "title": "“Either get busy living or get busy dying.”",
-      "summary": "— Stephen King",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Stephen_King",
-        "trustTier": "community",
-        "author": "Stephen King"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:34.442Z",
-      "hash": "31e3babf6b2faf9a"
-    },
-    {
-      "id": "quote:0373f504586d157f",
-      "type": "quote",
-      "title": "“Unless you're ashamed of yourself now and then, you're not honest.”",
-      "summary": "— William Faulkner",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/William_Faulkner",
-        "trustTier": "community",
-        "author": "William Faulkner"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:34.442Z",
-      "hash": "0373f504586d157f"
-    },
-    {
-      "id": "quote:4efbb4c8259b13d9",
-      "type": "quote",
-      "title": "“The more one judges, the less one loves.”",
-      "summary": "— Honore de Balzac",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Honore_de_Balzac",
-        "trustTier": "community",
-        "author": "Honore de Balzac"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-08T23:10:34.442Z",
-      "hash": "4efbb4c8259b13d9"
-    },
-    {
-      "id": "article:3067203fd8e637cb",
-      "type": "article",
-      "title": "How To Get Unstuck: 6 Secrets From Philosophy",
-      "summary": "Life is hard. At birth you were issued a body that breaks down, a mind that talks back, a limited number of Tuesdays, and an unkillable suspicion that everybody else got a more thorough orientation packet. Nobody’s coming to fix this. What do we do? Well, here’s a thought so unfashionable it’s got…",
-      "body": "Life is hard. At birth you were issued a body that breaks down, a mind that talks back, a limited number of Tuesdays, and an unkillable suspicion that everybody else got a more thorough orientation packet. Nobody’s coming to fix this. What do we do? Well, here’s a thought so unfashionable it’s got a decent […] The post How To Get Unstuck: 6 Secrets From Philosophy appeared first on Barking Up The Wrong Tree.",
-      "image": {
-        "src": "data/images/0bd2d0a99721e0fe.jpg",
-        "alt": "How To Get Unstuck: 6 Secrets From Philosophy",
-        "credit": "Barking Up the Wrong Tree"
-      },
-      "source": {
-        "name": "Barking Up the Wrong Tree",
-        "url": "https://bakadesuyo.com/2026/06/william-james/?utm_source=rss&utm_medium=rss&utm_campaign=william-james",
-        "trustTier": "community",
-        "author": "Eric Barker",
-        "date": "Mon, 08 Jun 2026 01:59:2"
-      },
-      "tags": [
-        "psychology",
-        "self-improvement",
-        "science",
-        "live the good life"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:27.089Z",
-      "hash": "3067203fd8e637cb"
-    },
-    {
-      "id": "article:24d011662730fdd8",
-      "type": "article",
-      "title": "Christmas Punch in June",
-      "summary": "“You must visit some time,” Charles Dickens said. “See my house, meet my family.”",
-      "body": "“You must visit some time,” Charles Dickens said. “See my house, meet my family.”",
-      "source": {
-        "name": "Lapham's Quarterly",
-        "url": "https://www.laphamsquarterly.org/roundtable/christmas-punch-june",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "literature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:26.905Z",
-      "hash": "24d011662730fdd8"
-    },
-    {
-      "id": "article:90383c2b5c5484bf",
-      "type": "article",
-      "title": "The Wonder of the Ordinary",
-      "summary": "How familiar can the people of the deep past ever be?",
-      "body": "How familiar can the people of the deep past ever be?",
-      "source": {
-        "name": "Lapham's Quarterly",
-        "url": "https://www.laphamsquarterly.org/roundtable/wonder-ordinary",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "literature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:26.905Z",
-      "hash": "90383c2b5c5484bf"
-    },
-    {
-      "id": "article:eacdb9eca5881152",
-      "type": "article",
-      "title": "Focus is Motivation",
-      "summary": "I make the case for viewing focus and motivation as being two ways of describing the same thing. The post Focus is Motivation appeared first on Scott H Young.",
-      "body": "I make the case for viewing focus and motivation as being two ways of describing the same thing. The post Focus is Motivation appeared first on Scott H Young.",
-      "image": {
-        "src": "data/images/7863910a8fc2336a.jpg",
-        "alt": "Focus is Motivation",
-        "credit": "Scott H. Young"
-      },
-      "source": {
-        "name": "Scott H. Young",
-        "url": "https://www.scotthyoung.com/blog/2026/06/04/focus-is-motivation/",
-        "trustTier": "community",
-        "author": "Scott Young",
-        "date": "Thu, 04 Jun 2026 19:40:1"
-      },
-      "tags": [
-        "learning",
-        "productivity",
-        "ideas",
-        "general"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-08T23:10:25.915Z",
-      "hash": "eacdb9eca5881152"
     }
   ]
 }

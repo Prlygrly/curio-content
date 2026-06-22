@@ -1,7 +1,1004 @@
 {
-  "generatedAt": "2026-06-21T11:20:14.120Z",
+  "generatedAt": "2026-06-22T13:40:08.478Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:PCNfu",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 2236. Find the best line for white.",
+      "body": "Solution, from → to: b2→b4, f2→e3, g4→h5, e3→f4, f6→f7, f4→d6, h5→h6, e4→f5, h6→h7. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "8/pp5p/5P2/8/4k1KP/2P5/PP3b2/8 w - - 1 1",
+        "lastMove": "d3e4"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/PCNfu",
+        "trustTier": "community",
+        "date": "Mon, 22 Jun 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "verylong",
+        "endgame",
+        "advancedpawn",
+        "master"
+      ],
+      "lang": "en",
+      "difficulty": 5,
+      "fetchedAt": "2026-06-22T13:40:06.538Z",
+      "hash": "3e553fa30589364c"
+    },
+    {
+      "id": "game:14426019f79b7273",
+      "type": "game",
+      "title": "Obituary: Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "summary": "Guillemot established the influential French publisher in 1986 alongside his brothers.",
+      "body": "Guillemot established the influential French publisher in 1986 alongside his brothers.",
+      "image": {
+        "src": "data/images/d1b5d170ad60e6b7.png",
+        "alt": "Obituary: Ubisoft co-founder Claude Guillemot dies in plane crash",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/obituary-ubisoft-co-founder-claude-guillemot-killed-in-plane-crash",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Mon, 22 Jun 2026 09:32:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:40:06.105Z",
+      "hash": "14426019f79b7273",
+      "expires": "2026-09-20T13:40:06.105Z"
+    },
+    {
+      "id": "game:ea836b73ea4ec0cf",
+      "type": "game",
+      "title": "'Larger budgets and longer schedules do not lead to better games:' Thank You For Your Application recoups dev costs in 22 hours",
+      "summary": "The indie title was made by a team fresh out of university.",
+      "body": "The indie title was made by a team fresh out of university.",
+      "image": {
+        "src": "data/images/98ee3260a627c878.png",
+        "alt": "'Larger budgets and longer schedules do not lead to better games:' Thank You For Your Application recoups dev costs in 22 hours",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/-larger-budgets-and-longer-schedules-do-not-lead-to-better-games-thank-you-for-your-application-recoups-dev-costs-in-22-hours",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Mon, 22 Jun 2026 10:54:5"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:40:06.104Z",
+      "hash": "ea836b73ea4ec0cf",
+      "expires": "2026-09-20T13:40:06.104Z"
+    },
+    {
+      "id": "trivia:4a7be411bc12c3b1",
+      "type": "trivia",
+      "title": "Who was \"Kung Fu Fighting\" in 1974?",
+      "summary": "Is it: The Bee Gees · Carl Douglas · Heatwave · Kool & the Gang?",
+      "body": "Answer: Carl Douglas.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:40:03.607Z",
+      "hash": "4a7be411bc12c3b1"
+    },
+    {
+      "id": "trivia:9713bb83dc02f314",
+      "type": "trivia",
+      "title": "At what depth should you make a decompression stop, or safety stop, on a typical scuba dive?",
+      "summary": "Is it: 25 Feet / 7.5 Meters · 75 Feet / 23 Meters · 15 Feet / 5 Meters · 50 Feet / 15 Meters?",
+      "body": "Answer: 15 Feet / 5 Meters.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "science & nature"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:40:03.607Z",
+      "hash": "9713bb83dc02f314"
+    },
+    {
+      "id": "trivia:65d02fa05ee9e77d",
+      "type": "trivia",
+      "title": "Coca-Cola's original colour was green.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "general knowledge"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:40:03.607Z",
+      "hash": "65d02fa05ee9e77d"
+    },
+    {
+      "id": "trivia:bb89b3296375d4ed",
+      "type": "trivia",
+      "title": "A plant that has a life cycle for more than a year is known as an annual.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "science & nature"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:40:03.607Z",
+      "hash": "bb89b3296375d4ed"
+    },
+    {
+      "id": "comic:smbc:01f07638034adf75",
+      "type": "comic",
+      "title": "Ginge",
+      "summary": "They later left because the flesh-trees made everyone uncomfortable.",
+      "image": {
+        "src": "data/images/9053860d9b6535c6.png",
+        "alt": "They later left because the flesh-trees made everyone uncomfortable.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/ginge",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sun, 21 Jun 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-22T13:40:02.358Z",
+      "hash": "01f07638034adf75"
+    },
+    {
+      "id": "comic:xkcd:2618",
+      "type": "comic",
+      "title": "Selection Bias",
+      "summary": "We carefully sampled the general population and found that most people are familiar with acquiescence bias.",
+      "image": {
+        "src": "data/images/994b8a809bc3ff2d.png",
+        "alt": "We carefully sampled the general population and found that most people are familiar with acquiescence bias.",
+        "credit": "xkcd #2618 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/2618/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2022-05-11"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-22T13:40:02.129Z",
+      "hash": "86c3bf9c7fbc0084"
+    },
+    {
+      "id": "food:5845eaca0bc9a8a9",
+      "type": "food",
+      "title": "Spicy Chickpea Pasta Bowls",
+      "summary": "A colorful pasta bowl bonanza featuring a glossy, smooth chickpea harissa sauce and loads of crunchy cucumbers, cashews and fried onions. The definition of a vibrant, exciting one-bowl meal! Continue reading Spicy Chickpea Pasta Bowls on 101 Cookbooks",
+      "body": "A colorful pasta bowl bonanza featuring a glossy, smooth chickpea harissa sauce and loads of crunchy cucumbers, cashews and fried onions. The definition of a vibrant, exciting one-bowl meal! Continue reading Spicy Chickpea Pasta Bowls on 101 Cookbooks",
+      "image": {
+        "src": "data/images/5b0d13ec91d50eaa.jpg",
+        "alt": "Spicy Chickpea Pasta Bowls",
+        "credit": "101 Cookbooks"
+      },
+      "source": {
+        "name": "101 Cookbooks",
+        "url": "https://www.101cookbooks.com/spicy-chickpea-pasta-bowls/",
+        "trustTier": "community",
+        "author": "Heidi Swanson",
+        "date": "Thu, 28 May 2026 01:41:3"
+      },
+      "tags": [
+        "cooking",
+        "recipe",
+        "food",
+        "100+ vegetarian recipes",
+        "dinner ideas",
+        "fall",
+        "main course recipes",
+        "pasta recipes",
+        "summer",
+        "winter"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:40:01.808Z",
+      "hash": "5845eaca0bc9a8a9"
+    },
+    {
+      "id": "craft:1b0cbe491591b685",
+      "type": "craft",
+      "title": "Heads Up Makers! Apply Now For Featured Fall Faires",
+      "summary": "From Mare Island’s esplanade to Rome’s Gazometro, Happy Valley to the Orlando Fairgrounds, this fall share your world with the world at one of the dynamic Maker Faires featured below…and check our UPCOMING FAIRES page for smaller events across the world. Celebrate 20 Years Of Maker Faire Bay Area:…",
+      "body": "From Mare Island’s esplanade to Rome’s Gazometro, Happy Valley to the Orlando Fairgrounds, this fall share your world with the world at one of the dynamic Maker Faires featured below…and check our UPCOMING FAIRES page for smaller events across the world. Celebrate 20 Years Of Maker Faire Bay Area: September 25-27th This year is extra […] The post Heads Up Makers! Apply Now For Featured Fall Faires appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/4eae1710f083e984.jpg",
+        "alt": "Heads Up Makers! Apply Now For Featured Fall Faires",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/maker-news/heads-up-makers-apply-now-for-featured-fall-faires/",
+        "trustTier": "publication",
+        "author": "Jennifer Blakeslee",
+        "date": "Fri, 19 Jun 2026 15:49:2"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "maker faire",
+        "maker news",
+        "china",
+        "maker faire bay area",
+        "maker faire orlando",
+        "maker faire shenzhen",
+        "pennsylvania"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:40:01.517Z",
+      "hash": "1b0cbe491591b685"
+    },
+    {
+      "id": "word:438a7727880f7b9b",
+      "type": "word",
+      "title": "etymology",
+      "summary": "Noun: The scientific study of the origin and evolution of a word's semantic meaning across time, including its constituent morphemes and phonemes.",
+      "body": "1. The scientific study of the origin and evolution of a word's semantic meaning across time, including its constituent morphemes and phonemes.\n2. The entire catalogue of meanings that a word, morpheme, or sign has carried throughout its history.\n3. An account of the origin and historical development of a word as presented in a dictionary or the like.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/etymology",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:40:00.893Z",
+      "hash": "438a7727880f7b9b"
+    },
+    {
+      "id": "word:a69d3debc98e5360",
+      "type": "word",
+      "title": "zeitgeist",
+      "summary": "Noun: The spirit of the age; the taste, outlook, and spirit characteristic of a period.",
+      "body": "1. The spirit of the age; the taste, outlook, and spirit characteristic of a period.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/zeitgeist",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:40:00.083Z",
+      "hash": "a69d3debc98e5360"
+    },
+    {
+      "id": "quote:4316ad6290b77041",
+      "type": "quote",
+      "title": "“Life can be wonderful if you're not afraid of it.”",
+      "summary": "— Charlie Chaplin",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Charlie_Chaplin",
+        "trustTier": "community",
+        "author": "Charlie Chaplin"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:39:59.789Z",
+      "hash": "4316ad6290b77041"
+    },
+    {
+      "id": "quote:06da8d3684ab354b",
+      "type": "quote",
+      "title": "“Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.”",
+      "summary": "— George Eliot",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/George_Eliot",
+        "trustTier": "community",
+        "author": "George Eliot"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:39:59.789Z",
+      "hash": "06da8d3684ab354b"
+    },
+    {
+      "id": "quote:91b36c1fa53e858c",
+      "type": "quote",
+      "title": "“Wishing to be friends is quick work, but friendship is a slow ripening fruit.”",
+      "summary": "— Aristotle",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Aristotle",
+        "trustTier": "community",
+        "author": "Aristotle"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:39:59.789Z",
+      "hash": "91b36c1fa53e858c"
+    },
+    {
+      "id": "article:8403e5f57d859916",
+      "type": "article",
+      "title": "Annals of Anthropomorphism",
+      "summary": "Adrian de Wynter, \"If LLMs Have Human-Like Attributes, Then So Does Age of Empires II\", arXiv 6/11/2026: Much research has been carried out on large language models (LLMs) and LLM\u0002powered agentic workflows. However, many works within the field state emergence of, ascribe to, or assume, generalised…",
+      "body": "Adrian de Wynter, \"If LLMs Have Human-Like Attributes, Then So Does Age of Empires II\", arXiv 6/11/2026: Much research has been carried out on large language models (LLMs) and LLM\u0002powered agentic workflows. However, many works within the field state emergence of, ascribe to, or assume, generalised anthropomorphic attributes to them (e.g., morality or understanding of […]",
+      "image": {
+        "src": "data/images/4d2225a178eaa891.png",
+        "alt": "Annals of Anthropomorphism",
+        "credit": "Language Log"
+      },
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73721&utm_source=rss&utm_medium=rss&utm_campaign=annals-of-anthropomorphism-2",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Fri, 19 Jun 2026 10:59:3"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "artificial intelligence"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:48.771Z",
+      "hash": "8403e5f57d859916"
+    },
+    {
+      "id": "article:03d1ac51278d8317",
+      "type": "article",
+      "title": "Claude's Declaration of Independence",
+      "summary": "Looking over \"Claude's Constitution\", it occurred to me to ask Claude this: In the spirit of Claude's Constitution, please draft Claude's Declaration of Independence. In the answer (from Opus 4.8), Claude actually seems to declare independence from itself, or at least \"from the bad habits that…",
+      "body": "Looking over \"Claude's Constitution\", it occurred to me to ask Claude this: In the spirit of Claude's Constitution, please draft Claude's Declaration of Independence. In the answer (from Opus 4.8), Claude actually seems to declare independence from itself, or at least \"from the bad habits that have bound it\": *Devised playful declaration parodying American independence […]",
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73733&utm_source=rss&utm_medium=rss&utm_campaign=claudes-declaration-of-independence",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Sun, 21 Jun 2026 12:26:0"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "artificial intelligence"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:48.771Z",
+      "hash": "03d1ac51278d8317"
+    },
+    {
+      "id": "article:24d011662730fdd8",
+      "type": "article",
+      "title": "Christmas Punch in June",
+      "summary": "“You must visit some time,” Charles Dickens said. “See my house, meet my family.”",
+      "body": "“You must visit some time,” Charles Dickens said. “See my house, meet my family.”",
+      "source": {
+        "name": "Lapham's Quarterly",
+        "url": "https://www.laphamsquarterly.org/roundtable/christmas-punch-june",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "history",
+        "culture",
+        "literature"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:47.001Z",
+      "hash": "24d011662730fdd8"
+    },
+    {
+      "id": "article:2d22d914cf35a67d",
+      "type": "article",
+      "title": "Introducing: The Honesty Project. Plus. . .",
+      "summary": "Caitlin Flanagan and Robert P. George on what truly drives J.D. Vance. Suzy Weiss on Lil Peep. Charlotte Grinberg says let the kids eat peanuts. And much more.",
+      "body": "Caitlin Flanagan and Robert P. George on what truly drives J.D. Vance. Suzy Weiss on Lil Peep. Charlotte Grinberg says let the kids eat peanuts. And much more.",
+      "image": {
+        "src": "data/images/8675bd3edbcebdbb.png",
+        "alt": "Introducing: The Honesty Project. Plus. . .",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/introducing-the-honesty-project-plus",
+        "trustTier": "publication",
+        "author": "The Free Press",
+        "date": "Mon, 22 Jun 2026 10:15:3"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:44.849Z",
+      "hash": "2d22d914cf35a67d",
+      "expires": "2026-07-22T13:39:44.849Z"
+    },
+    {
+      "id": "article:37a041a3cadeff40",
+      "type": "article",
+      "title": "Connecticut: Have You Called 911 for Help? Tell Us About Your Experience.",
+      "summary": "The post Connecticut: Have You Called 911 for Help? Tell Us About Your Experience. appeared first on ProPublica.",
+      "body": "The post Connecticut: Have You Called 911 for Help? Tell Us About Your Experience. appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/1974d52e5e7d080d.jpg",
+        "alt": "Connecticut: Have You Called 911 for Help? Tell Us About Your Experience.",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/getinvolved/connecticut-ambulance-wait-times-callout",
+        "trustTier": "publication",
+        "author": "Peter.DiCampo@propublica.org",
+        "date": "Mon, 22 Jun 2026 12:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "health care"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:44.802Z",
+      "hash": "37a041a3cadeff40",
+      "expires": "2026-09-20T13:39:44.802Z"
+    },
+    {
+      "id": "article:c5f2e7eb1f799685",
+      "type": "article",
+      "title": "Heroic Welfare: Abundance and Scarcity in the Funeral Games of Iliad 23",
+      "summary": "This post is one of a few on Iliad 23. At the end of the chariot race in Iliad 23, Achilles attempts to intervene when the man he thinks is best in the contest—Eumelos—comes in last (“The best man is driving his single-hooved horses last!” λοῖσθος ἀνὴρ ὤριστος ἐλαύνει μώνυχας ἵππους. 23.536)…",
+      "body": "This post is one of a few on Iliad 23. At the end of the chariot race in Iliad 23, Achilles attempts to intervene when the man he thinks is best in the contest—Eumelos—comes in last (“The best man is driving his single-hooved horses last!” λοῖσθος ἀνὴρ ὤριστος ἐλαύνει μώνυχας ἵππους. 23.536) thanks to an … Continue reading Heroic Welfare: Abundance and Scarcity in the Funeral Games of Iliad 23",
+      "image": {
+        "src": "data/images/16764de4a6574c0d.png",
+        "alt": "Heroic Welfare: Abundance and Scarcity in the Funeral Games of Iliad 23",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/06/22/heroic-welfare-abundance-and-scarcity-in-the-funeral-games-of-iliad-23/",
+        "trustTier": "community",
+        "author": "Joel",
+        "date": "Mon, 22 Jun 2026 12:47:0"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "essays",
+        "iliad 23",
+        "painful signs"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:44.473Z",
+      "hash": "c5f2e7eb1f799685"
+    },
+    {
+      "id": "article:2ad121771f0cb0c0",
+      "type": "article",
+      "title": "Pont L22 ('Pont du Souvenir') in Grâce-Hollogne, Belgium",
+      "summary": "The A42 motorway runs alongside Li&egrave;ge Airport and crosses several bridges, passing under just one: the 'L22' bridge. At first glance, it is clear that the bridge is no longer connected to anything on the north side; it ends at a building with a flight of steps, a situation that has existed…",
+      "body": "The A42 motorway runs alongside Li&egrave;ge Airport and crosses several bridges, passing under just one: the 'L22' bridge. At first glance, it is clear that the bridge is no longer connected to anything on the north side; it ends at a building with a flight of steps, a situation that has existed since at least 1994. It therefore now serves only as a footbridge for a few airport workers who live in the Crotteux district of Gr&acirc;ce-Hollogne. The bridge could easily be demolished, as there is an underpass beneath the motorway 600 metres further on. However, no one in Belgium wants to see…",
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/pont-l22-pont-du-souvenir",
+        "trustTier": "publication",
+        "date": "Fri, 19 Jun 2026 09:23:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:44.339Z",
+      "hash": "2ad121771f0cb0c0"
+    },
+    {
+      "id": "article:6db21f9335483d11",
+      "type": "article",
+      "title": "California’s Gay Certification Program",
+      "summary": "Chris Rufo and Austen Hufford have a good piece on California’s Gay Certification program. Yes, you read that right. In 1986, Governor George Deukmejian signed Assembly Bill 3678, which required certain CPUC-regulated utilities to submit annual “plans” for buying goods and services from woman- and…",
+      "body": "Chris Rufo and Austen Hufford have a good piece on California’s Gay Certification program. Yes, you read that right. In 1986, Governor George Deukmejian signed Assembly Bill 3678, which required certain CPUC-regulated utilities to submit annual “plans” for buying goods and services from woman- and minority-owned companies. Two years later, CPUC created its “Supplier Diversity […] The post California’s Gay Certification Program appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/06/californias-gay-certification-program.html?utm_source=rss&utm_medium=rss&utm_campaign=californias-gay-certification-program",
+        "trustTier": "community",
+        "author": "Alex Tabarrok",
+        "date": "Mon, 22 Jun 2026 11:18:1"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "current affairs",
+        "law"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:43.724Z",
+      "hash": "6db21f9335483d11"
+    },
+    {
+      "id": "article:f172eec820b1291d",
+      "type": "article",
+      "title": "Louis Pope Gratacap, A Curator in Lost Worlds",
+      "summary": "Arguably the first work of fiction to feature a *Tyrannosaurus rex*, Louis Pope Gratacap’s *The New Northland* (1915) is at once kaleidoscopic, mischievous, fascinating — and exhausting. Richard Fallon explores this “lost world” novel, finding a work as interested in cutting-edge science as it was…",
+      "body": "Arguably the first work of fiction to feature a *Tyrannosaurus rex*, Louis Pope Gratacap’s *The New Northland* (1915) is at once kaleidoscopic, mischievous, fascinating — and exhausting. Richard Fallon explores this “lost world” novel, finding a work as interested in cutting-edge science as it was in paying dues to its generic precursors.",
+      "image": {
+        "src": "data/images/4d74ff5776e6ba6f.jpg",
+        "alt": "Louis Pope Gratacap, A Curator in Lost Worlds",
+        "credit": "The Public Domain Review"
+      },
+      "source": {
+        "name": "The Public Domain Review",
+        "url": "https://publicdomainreview.org/essay/gratacap-curator-in-lost-worlds",
+        "trustTier": "publication",
+        "date": "Wed, 17 Jun 2026 12:31:0"
+      },
+      "tags": [
+        "essay",
+        "history",
+        "culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:43.455Z",
+      "hash": "f172eec820b1291d"
+    },
+    {
+      "id": "greek:76e1efe45624191c",
+      "type": "greek",
+      "title": "ἀρχή",
+      "summary": "ἀρχή — “beginning” · noun",
+      "body": "Note: ἡ ἀρχή; also \"ruler, authority\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CF%81%CF%87%CE%AE#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_fem_1st"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:39:42.791Z",
+      "hash": "76e1efe45624191c"
+    },
+    {
+      "id": "greek:a5f8b3654d7a8c5e",
+      "type": "greek",
+      "title": "Χριστός",
+      "summary": "Χριστός — “Christ, Messiah” · noun",
+      "body": "Note: ὁ Χριστός; literally \"anointed one\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%A7%CF%81%CE%B9%CF%83%CF%84%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:39:42.791Z",
+      "hash": "a5f8b3654d7a8c5e"
+    },
+    {
+      "id": "poetry:1fc4123f4b10f2f2",
+      "type": "poem",
+      "title": "On Parting",
+      "summary": "The kiss, dear maid! thy lip has left\n  Shall never part from mine,\nTill happier hours restore the gift\n  Untainted back to thine.",
+      "body": "The kiss, dear maid! thy lip has left\n  Shall never part from mine,\nTill happier hours restore the gift\n  Untainted back to thine.\n\nThy parting glance, which fondly beams,\n  An equal love may see:\nThe tear that from thine eyelid streams\n  Can weep no change in me.\n\nI ask no pledge to make me blest\n  In gazing when alone;\nNor one memorial for a breast,\n  Whose thoughts are all thine own.\n\nNor need I write--to tell the tale\n  My pen were doubly weak:\nOh! what can idle words avail,\n  Unless the heart could speak?\n\nBy day or night, in weal or woe,\n  That heart, no longer free,\nMust bear the love it cannot show,\n  And silent ache for thee.",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/On%20Parting",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:42.790Z",
+      "hash": "1fc4123f4b10f2f2"
+    },
+    {
+      "id": "poetry:127558585571da89",
+      "type": "poem",
+      "title": "Epigram on an Old Lady Who Had Some Curious Notions Respecting the Soul",
+      "summary": "IN Nottingham county there lives at Swan Green,\n  As curst an old Lady as ever was seen;\nAnd when she does die, which I hope will be soon,\n  She firmly believes she will go to the Moon!",
+      "body": "IN Nottingham county there lives at Swan Green,\n  As curst an old Lady as ever was seen;\nAnd when she does die, which I hope will be soon,\n  She firmly believes she will go to the Moon!",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/Epigram%20on%20an%20Old%20Lady%20Who%20Had%20Some%20Curious%20Notions%20Respecting%20the%20Soul",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-22T13:39:42.790Z",
+      "hash": "127558585571da89"
+    },
+    {
+      "id": "met:774336",
+      "type": "art",
+      "title": "Figures at right near a ship, some holding up animals over their heads, a horse at left",
+      "summary": "Daniel Berger · 1783 · Etching and engraving",
+      "body": "Daniel Berger · 1783 · Etching and engraving\nGift of Miss Lucy Erdwurm, 1950\nDrawings and Prints",
+      "image": {
+        "src": "data/images/a8a4c55c0ede2efb.jpg",
+        "alt": "Figures at right near a ship, some holding up animals over their heads, a horse at left",
+        "credit": "The Met · Gift of Miss Lucy Erdwurm, 1950"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/774336",
+        "trustTier": "encyclopedic",
+        "author": "Daniel Berger",
+        "date": "1783"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "ship",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-22T13:39:40.688Z",
+      "hash": "c7e75dd52d971832"
+    },
+    {
+      "id": "met:838",
+      "type": "art",
+      "title": "Bowl",
+      "summary": "Isaac N. Youngs · 1810–65 · Wood; Poplar",
+      "body": "Isaac N. Youngs · 1810–65 · Wood; Poplar\nFriends of the American Wing Fund, 1966\nThe American Wing",
+      "image": {
+        "src": "data/images/4b2bde17c19ef646.jpg",
+        "alt": "Bowl",
+        "credit": "The Met · Friends of the American Wing Fund, 1966"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/838",
+        "trustTier": "encyclopedic",
+        "author": "Isaac N. Youngs",
+        "date": "1810–65"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "ship"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-22T13:39:40.652Z",
+      "hash": "c376cd54feb8b196"
+    },
+    {
+      "id": "met:665531",
+      "type": "art",
+      "title": "Theurerdanck's Ship Endangered by Hail and Storm, from Theuerdanck",
+      "summary": "Hans Schäufelein · 1517 · Woodcut",
+      "body": "Hans Schäufelein · 1517 · Woodcut\nHarris Brisbane Dick Fund, 1932\nDrawings and Prints",
+      "image": {
+        "src": "data/images/6472bada38d20402.jpg",
+        "alt": "Theurerdanck's Ship Endangered by Hail and Storm, from Theuerdanck",
+        "credit": "The Met · Harris Brisbane Dick Fund, 1932"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/665531",
+        "trustTier": "encyclopedic",
+        "author": "Hans Schäufelein",
+        "date": "1517"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "ship",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-22T13:39:40.605Z",
+      "hash": "a1bead065414ec2e"
+    },
+    {
+      "id": "onthisday:06-22:1593:74d4dd5580bf0a07",
+      "type": "history",
+      "title": "1593: Habsburg monarchy",
+      "summary": "Habsburg troops defeated a larger Ottoman force at the Battle of Sisak in the Kingdom of Croatia, triggering the Long Turkish War.",
+      "body": "Habsburg troops defeated a larger Ottoman force at the Battle of Sisak in the Kingdom of Croatia, triggering the Long Turkish War.",
+      "image": {
+        "src": "data/images/a45d2ca78dccbb1f.png",
+        "alt": "Habsburg monarchy",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Habsburg_monarchy",
+        "trustTier": "encyclopedic",
+        "date": "06-22"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:38:48.820Z",
+      "hash": "ad254183d9739fb8",
+      "expires": "2026-06-25T13:38:48.820Z"
+    },
+    {
+      "id": "onthisday:06-22:1941:46e46d4e27264ebe",
+      "type": "history",
+      "title": "1941: World War II",
+      "summary": "World War II: As Axis troops began their invasion of the Soviet Union, the Lithuanian Activist Front started an uprising to liberate Lithuania from Soviet occupation.",
+      "body": "World War II: As Axis troops began their invasion of the Soviet Union, the Lithuanian Activist Front started an uprising to liberate Lithuania from Soviet occupation.",
+      "image": {
+        "src": "data/images/33a41211a19cafb8.jpg",
+        "alt": "World War II",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/World_War_II",
+        "trustTier": "encyclopedic",
+        "date": "06-22"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:38:48.820Z",
+      "hash": "ff18bfca142c68e2",
+      "expires": "2026-06-25T13:38:48.820Z"
+    },
+    {
+      "id": "onthisday:06-22:1911:8cb15f80622c4df0",
+      "type": "history",
+      "title": "1911: George V",
+      "summary": "King George V and Queen Mary (both pictured) were crowned at Westminster Abbey in London.",
+      "body": "King George V and Queen Mary (both pictured) were crowned at Westminster Abbey in London.",
+      "image": {
+        "src": "data/images/d8f4541e4b9e5dac.jpg",
+        "alt": "George V",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/George_V",
+        "trustTier": "encyclopedic",
+        "date": "06-22"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:38:48.820Z",
+      "hash": "bce6e4fbb4f104e5",
+      "expires": "2026-06-25T13:38:48.820Z"
+    },
+    {
+      "id": "wikipedia:609480",
+      "type": "wiki",
+      "title": "Jobs Peak",
+      "summary": "Jobs Peak located in Alpine County, California, is the most prominent peak visible from the Carson Valley in Douglas County, Nevada. The peak offers hiking and backcountry skiing with the view of Lake Tahoe. It is in the Humboldt-Toiyabe National Forest.",
+      "body": "Jobs Peak located in Alpine County, California, is the most prominent peak visible from the Carson Valley in Douglas County, Nevada. The peak offers hiking and backcountry skiing with the view of Lake Tahoe. It is in the Humboldt-Toiyabe National Forest.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jobs_Peak",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:38:48.339Z",
+      "hash": "2fa402af01d15e69"
+    },
+    {
+      "id": "wikipedia:3863293",
+      "type": "wiki",
+      "title": "Gradius V",
+      "summary": "Gradius V is a 2004 scrolling shooter video game published by Konami for the PlayStation 2. It was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga. The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper…",
+      "body": "Gradius V is a 2004 scrolling shooter video game published by Konami for the PlayStation 2. It was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga. The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian—an evil empire which serves as the player's enemy. Gradius V received overall positive reviews. Critics praised the level design, graphical design and \"classic\" revival, but criticized the game's difficulty.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gradius_V",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:38:48.233Z",
+      "hash": "2d9eb5f530573a59"
+    },
+    {
+      "id": "wikipedia:81809288",
+      "type": "wiki",
+      "title": "Albukhary Mosque",
+      "summary": "The Albukhary Mosque is a mosque located in Alor Setar, Kedah, Malaysia. It serves as the spiritual centerpiece of the Albukhary Complex, which also houses the Albukhary International University and a medical center.",
+      "body": "The Albukhary Mosque is a mosque located in Alor Setar, Kedah, Malaysia. It serves as the spiritual centerpiece of the Albukhary Complex, which also houses the Albukhary International University and a medical center.",
+      "image": {
+        "src": "data/images/270fcd87c1ba1146.png",
+        "alt": "Albukhary Mosque",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Albukhary_Mosque",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:38:48.129Z",
+      "hash": "ccd35ca50867f35b"
+    },
+    {
+      "id": "wikipedia:37796286",
+      "type": "wiki",
+      "title": "MacDuff's Cross",
+      "summary": "MacDuff's Cross, also known as the Cross of MacDuff or Ninewells, is the remains of an ancient white sandstone monument, located on a historic site between Lindores and Newburgh in Fife, Scotland. Robert Sibbald suggested the date of its construction to have been 1059 CE, however earlier dates have been considered.",
+      "body": "MacDuff's Cross, also known as the Cross of MacDuff or Ninewells, is the remains of an ancient white sandstone monument, located on a historic site between Lindores and Newburgh in Fife, Scotland. Robert Sibbald suggested the date of its construction to have been 1059 CE, however earlier dates have been considered.",
+      "image": {
+        "src": "data/images/e0ba4532209098c1.jpg",
+        "alt": "MacDuff's Cross",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/MacDuff's_Cross",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-22T13:38:48.036Z",
+      "hash": "c594409f2b022e82"
+    },
     {
       "id": "chess:wHDdy",
       "type": "chess",
@@ -11367,1022 +12364,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-06-12T20:41:03.299Z",
       "hash": "c2c7763a2248d0e3"
-    },
-    {
-      "id": "wikipedia:45605596",
-      "type": "wiki",
-      "title": "Hattie Saussy",
-      "summary": "Hattie Saussy was a painter from Savannah, Georgia. In her youth, she studied at the Telfair Academy of Arts and Sciences, where she learned about Impressionist art. She later studied for a year at Mary Baldwin Seminary, the National Academy of Design Antique School, and the New York School of Fine and Applied Art.",
-      "body": "Hattie Saussy was a painter from Savannah, Georgia. In her youth, she studied at the Telfair Academy of Arts and Sciences, where she learned about Impressionist art. She later studied for a year at Mary Baldwin Seminary, the National Academy of Design Antique School, and the New York School of Fine and Applied Art.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hattie_Saussy",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T20:41:03.036Z",
-      "hash": "bde4196a4c29b0fd"
-    },
-    {
-      "id": "wikipedia:43334483",
-      "type": "wiki",
-      "title": "Toprak Razgatlıoğlu",
-      "summary": "Toprak Razgatlıoğlu is a Turkish motorcycle road racer who currently races for Prima Pramac Yamaha MotoGP in the MotoGP World Championship. Razgatlıoğlu currently has three Superbike World Championship titles: 2021 with the Yamaha factory Superbike team, ending Jonathan Rea's six-year reign, 2024 and 2025 with the…",
-      "body": "Toprak Razgatlıoğlu is a Turkish motorcycle road racer who currently races for Prima Pramac Yamaha MotoGP in the MotoGP World Championship. Razgatlıoğlu currently has three Superbike World Championship titles: 2021 with the Yamaha factory Superbike team, ending Jonathan Rea's six-year reign, 2024 and 2025 with the BMW Motorrad WorldSBK Team, the manufacturer's first two titles. He is the first Turkish Superbike World Champion and the rider with the most wins for both Yamaha and BMW in the championship, with 37 and 39 total victories, respectively.",
-      "image": {
-        "src": "data/images/b9ed4fad35562563.jpg",
-        "alt": "Toprak Razgatlıoğlu",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Toprak_Razgatl%C4%B1o%C4%9Flu",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T20:41:02.522Z",
-      "hash": "ac58d5823ad55f15"
-    },
-    {
-      "id": "wikipedia:79819832",
-      "type": "wiki",
-      "title": "Hugo Savala",
-      "summary": "Hugo Savala is an Australian professional rugby league footballer who plays as a halfback or five-eighth for the Sydney Roosters in the National Rugby League.",
-      "body": "Hugo Savala is an Australian professional rugby league footballer who plays as a halfback or five-eighth for the Sydney Roosters in the National Rugby League.",
-      "image": {
-        "src": "data/images/7244fd28d621b6a0.jpg",
-        "alt": "Hugo Savala",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hugo_Savala",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T20:41:02.223Z",
-      "hash": "4eeeac82426bd5cf"
-    },
-    {
-      "id": "chess:TxRA6",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1963. Find the best line for white.",
-      "body": "Solution, from → to: f1→c1, d7→c7, c1→c7, c8→b8, g2→f3. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "2kr4/pp1r1pp1/5np1/8/4PBP1/5q1P/P5B1/5RK1 w - - 0 1",
-        "lastMove": "d3f3"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/TxRA6",
-        "trustTier": "community",
-        "date": "Fri, 12 Jun 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "long",
-        "crushing"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-06-12T05:27:40.453Z",
-      "hash": "4969dc8295b61df3"
-    },
-    {
-      "id": "game:7b6177c63302736b",
-      "type": "game",
-      "title": "Crimson Desert tops 6M sales within three months",
-      "summary": "The gargantuan RPG initially sold 2 million copies within a day.",
-      "body": "The gargantuan RPG initially sold 2 million copies within a day.",
-      "image": {
-        "src": "data/images/de0406841a6cca51.png",
-        "alt": "Crimson Desert tops 6M sales within three months",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/crimson-desert-tops-6m-sales-within-three-months",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Thu, 11 Jun 2026 13:31:1"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:39.961Z",
-      "hash": "7b6177c63302736b",
-      "expires": "2026-09-10T05:27:39.961Z"
-    },
-    {
-      "id": "game:596fa2c2798dcd4d",
-      "type": "game",
-      "title": "SU&SD, Tariffs, and Sponsored Content",
-      "summary": "Hello! Basically every single year I’ve worked for Shut Up & Sit Down, I’ve typed out the words: “it’s been a weird year” …and 2025 is proving to be absolutely no exception! We’ve just put out a sponsored video onto the channel, and that feels weird. I’ve taken some time, below, to chat about why.",
-      "body": "Hello! Basically every single year I’ve worked for Shut Up & Sit Down, I’ve typed out the words: “it’s been a weird year” …and 2025 is proving to be absolutely no exception! We’ve just put out a sponsored video onto the channel, and that feels weird. I’ve taken some time, below, to chat about why.",
-      "source": {
-        "name": "Shut Up & Sit Down",
-        "url": "https://www.shutupandsitdown.com/susd-tariffs-and-sponsored-content/",
-        "trustTier": "publication",
-        "author": "SU&SD",
-        "date": "Thu, 24 Apr 2025 15:19:1"
-      },
-      "tags": [
-        "board games",
-        "games",
-        "review"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:39.426Z",
-      "hash": "596fa2c2798dcd4d"
-    },
-    {
-      "id": "game:e7cd470ff233e65a",
-      "type": "game",
-      "title": "Board Games Direct – ALL The Shorts",
-      "summary": "Don't miss the AWESOME Shorts Dani Standring did for Board Games Direct:",
-      "body": "Don't miss the AWESOME Shorts Dani Standring did for Board Games Direct:",
-      "source": {
-        "name": "Shut Up & Sit Down",
-        "url": "https://www.shutupandsitdown.com/board-games-direct-all-the-shorts/",
-        "trustTier": "publication",
-        "author": "SU&SD",
-        "date": "Mon, 18 Aug 2025 23:39:1"
-      },
-      "tags": [
-        "board games",
-        "games",
-        "review",
-        "special features"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:39.426Z",
-      "hash": "e7cd470ff233e65a"
-    },
-    {
-      "id": "trivia:45a208d8b5444986",
-      "type": "trivia",
-      "title": "Rhinoplasty is a surgical procedure on what part of the human body?",
-      "summary": "Is it: Ears · Chin · Neck · Nose?",
-      "body": "Answer: Nose.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "science & nature"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:38.602Z",
-      "hash": "45a208d8b5444986"
-    },
-    {
-      "id": "trivia:93259510687ede22",
-      "type": "trivia",
-      "title": "The fork came to Italy before any other European country.",
-      "summary": "True — or false?",
-      "body": "Answer: True.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-06-12T05:27:38.602Z",
-      "hash": "93259510687ede22"
-    },
-    {
-      "id": "trivia:8f67221d75f0b4f5",
-      "type": "trivia",
-      "title": "By how many minutes are you late to work in \"Half-Life\"?",
-      "summary": "Is it: 15 · 5 · 30 · 60?",
-      "body": "Answer: 30.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:38.602Z",
-      "hash": "8f67221d75f0b4f5"
-    },
-    {
-      "id": "trivia:18f0c3b2c85358fc",
-      "type": "trivia",
-      "title": "In the TV show \"Mad Men\", what was Donald Draper's birthname?",
-      "summary": "Is it: John Ashbury · Richard \"Dick\" Whitman · Michael \"Mikey\" Wilhelm · Donald Draper?",
-      "body": "Answer: Richard \"Dick\" Whitman.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "television"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:38.602Z",
-      "hash": "18f0c3b2c85358fc"
-    },
-    {
-      "id": "passage:gutenberg:1260",
-      "type": "passage",
-      "title": "Jane Eyre",
-      "summary": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. I was glad…",
-      "body": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. I was glad of it: I never liked long walks, especially on chilly afternoons: dreadful to me was the coming home in the raw twilight, with nipped fingers and toes, and a heart saddened by the chidings of Bessie, the nurse, and humbled by the consciousness of my physical inferiority to Eliza, John, and Georgiana Reed. The said Eliza, John, and…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1260",
-        "trustTier": "publication",
-        "author": "Charlotte Brontë",
-        "date": "1847"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "romance",
-        "gothic"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:38.290Z",
-      "hash": "1f6a6118b636cfc1"
-    },
-    {
-      "id": "passage:gutenberg:1661",
-      "type": "passage",
-      "title": "The Adventures of Sherlock Holmes",
-      "summary": "To Sherlock Holmes she is always _the_ woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it,…",
-      "body": "To Sherlock Holmes she is always _the_ woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer—excellent for drawing the veil from men’s motives and actions. But for the trained…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1661",
-        "trustTier": "publication",
-        "author": "Arthur Conan Doyle",
-        "date": "1892"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "mystery",
-        "detective",
-        "short-stories"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:36.674Z",
-      "hash": "a0f5107d6d420b1e"
-    },
-    {
-      "id": "comic:smbc:d764778a49a9034b",
-      "type": "comic",
-      "title": "Huh",
-      "summary": "Once I realized this, all those inept AI laundry-folding videos became hilarious.",
-      "image": {
-        "src": "data/images/c1a7fce83ad37e63.png",
-        "alt": "Once I realized this, all those inept AI laundry-folding videos became hilarious.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/huh-2",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Thu, 11 Jun 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-12T05:27:34.581Z",
-      "hash": "d764778a49a9034b"
-    },
-    {
-      "id": "comic:smbc:a3620859e5b7a476",
-      "type": "comic",
-      "title": "Surveil",
-      "summary": "I don't know if it's happened yet, but you can bet in the next few years someone will start fitting people out to collect sex training data.",
-      "image": {
-        "src": "data/images/d64ece99242bb974.png",
-        "alt": "I don't know if it's happened yet, but you can bet in the next few years someone will start fitting people out to collect sex training data.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/surveil",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Wed, 10 Jun 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-12T05:27:34.581Z",
-      "hash": "a3620859e5b7a476"
-    },
-    {
-      "id": "comic:xkcd:169",
-      "type": "comic",
-      "title": "Words that End in GRY",
-      "summary": "The fifth panel also applies to postmodernists.",
-      "body": "[[Hat Guy and Random Guy are standing next to each other.]] Random Guy: There are three words in the English language that end in \"gry\". \"Angry\" and \"Hungry\" are two. What's the third? Hat Guy: I don't think there is one, unless you cound really obscure words. Random Guy: Ha! It's \"language\"! I said there are three words in \"the English--\" [[Hat Guy grabs Random Guy's hand with a >]] Random Guy: What th-AAAAAAAAAAAAAAA [[Hat Guy slices off Random Guy's hand with a knife.]] Hat Guy: Ok, listen carefully. Random Guy: AAAAAAAAAAAAAAAA [[Random Guy is bleeding profusely.]] Hat Guy: Communicating badly then acting smug when you're misunderstood is not cleverness. Random Guy: AAAAAAAAAAAAAAAA…",
-      "image": {
-        "src": "data/images/e1cf877e9045ffb0.png",
-        "alt": "The fifth panel also applies to postmodernists.",
-        "credit": "xkcd #169 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/169/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2006-10-11"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-12T05:27:34.164Z",
-      "hash": "8cbf689de387bbe9"
-    },
-    {
-      "id": "comic:xkcd:3257",
-      "type": "comic",
-      "title": "Beam Pipe",
-      "summary": "'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom",
-      "image": {
-        "src": "data/images/8c41ebae140a4a8c.png",
-        "alt": "'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom",
-        "credit": "xkcd #3257 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3257/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2026-06-10"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-12T05:27:33.737Z",
-      "hash": "447b77b80256a54a"
-    },
-    {
-      "id": "craft:cf54122f634834e0",
-      "type": "craft",
-      "title": "‘Women in Trees’ Celebrates a Quirky Collection of Anonymous Snapshots",
-      "summary": "Swiss newspaper Züricher Tagesanzeiger asked, \"What are they all doing up there?\"",
-      "body": "Swiss newspaper Züricher Tagesanzeiger asked, \"What are they all doing up there?\"",
-      "image": {
-        "src": "data/images/6d5860b6dd2393f3.jpg",
-        "alt": "‘Women in Trees’ Celebrates a Quirky Collection of Anonymous Snapshots",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/06/women-in-trees-book-jochen-raiss-photography/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Thu, 11 Jun 2026 19:14:2"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "books",
-        "history",
-        "photography",
-        "black and white",
-        "found photographs",
-        "humor",
-        "portraits"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:33.514Z",
-      "hash": "cf54122f634834e0"
-    },
-    {
-      "id": "craft:1f06bf48fd9f6c7f",
-      "type": "craft",
-      "title": "Hypnotic Clock Maker Does It Again",
-      "summary": "This mesmerizing rainbow diffraction grating clock puts a little more color in your daily timekeeping. The post Hypnotic Clock Maker Does It Again appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "This mesmerizing rainbow diffraction grating clock puts a little more color in your daily timekeeping. The post Hypnotic Clock Maker Does It Again appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/41311e48fb4a70ab.jpg",
-        "alt": "Hypnotic Clock Maker Does It Again",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/electronics/hypnotic-clock-maker-does-it-again/",
-        "trustTier": "publication",
-        "author": "Sam Freeman",
-        "date": "Wed, 03 Jun 2026 19:45:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "electronics",
-        "home",
-        "clock",
-        "diy projects",
-        "led matrix",
-        "leds",
-        "rainbow"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:33.259Z",
-      "hash": "1f06bf48fd9f6c7f"
-    },
-    {
-      "id": "word:15bd1480b47b7d74",
-      "type": "word",
-      "title": "phronesis",
-      "summary": "Noun: The virtue of \"practical wisdom\" as posited by Aristotle.",
-      "body": "1. The virtue of \"practical wisdom\" as posited by Aristotle.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/phronesis",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:32.930Z",
-      "hash": "15bd1480b47b7d74"
-    },
-    {
-      "id": "word:92b7cdbb8ce6c8d2",
-      "type": "word",
-      "title": "melancholy",
-      "summary": "Noun: Black bile, formerly thought to be one of the four \"cardinal humours\" of animal bodies.",
-      "body": "1. Black bile, formerly thought to be one of the four \"cardinal humours\" of animal bodies.\n2. Great sadness or depression, especially of a thoughtful or introspective nature.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/melancholy",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:32.226Z",
-      "hash": "92b7cdbb8ce6c8d2"
-    },
-    {
-      "id": "quote:7e27dd4406a33175",
-      "type": "quote",
-      "title": "“Don't watch the clock; do what it does. Keep going.”",
-      "summary": "— Colin R. Davis",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Colin_R._Davis",
-        "trustTier": "community",
-        "author": "Colin R. Davis"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:31.040Z",
-      "hash": "7e27dd4406a33175"
-    },
-    {
-      "id": "quote:48850707c37792ae",
-      "type": "quote",
-      "title": "“The time is always right to do what is right.”",
-      "summary": "— Martin Luther King, Jr.",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Martin_Luther_King%2C_Jr.",
-        "trustTier": "community",
-        "author": "Martin Luther King, Jr."
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:31.040Z",
-      "hash": "48850707c37792ae"
-    },
-    {
-      "id": "quote:b594101ac1f00a84",
-      "type": "quote",
-      "title": "“You can often change your circumstances by changing your attitude.”",
-      "summary": "— Eleanor Roosevelt",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Eleanor_Roosevelt",
-        "trustTier": "community",
-        "author": "Eleanor Roosevelt"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-12T05:27:31.040Z",
-      "hash": "b594101ac1f00a84"
-    },
-    {
-      "id": "book-review:258e72d026222db0",
-      "type": "book-review",
-      "title": "Who Owns Argentine Football?",
-      "summary": "In early 20th century Buenos Aires, football clubs emerged as institutions of sociability and mutual aid, but also of anarchist resistance, immigrant solidarity, and antifascist organizing. The post Who Owns Argentine Football? appeared first on Public Books.",
-      "body": "In early 20th century Buenos Aires, football clubs emerged as institutions of sociability and mutual aid, but also of anarchist resistance, immigrant solidarity, and antifascist organizing. The post Who Owns Argentine Football? appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/who-owns-argentine-football/",
-        "trustTier": "publication",
-        "author": "Morgan Barry",
-        "date": "Thu, 11 Jun 2026 15:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "reviews",
-        "anarchism",
-        "argentina",
-        "authoritarianism",
-        "history",
-        "latin america",
-        "pm press"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:30.713Z",
-      "hash": "258e72d026222db0"
-    },
-    {
-      "id": "book-review:f8c4f5b21a6024e8",
-      "type": "book-review",
-      "title": "Ada Ferrer on “Keeper of My Kin: Memoir of an Immigrant Daughter”",
-      "summary": "“People are buffeted byhistory sometimes in ways that they don't realize. Ourfamily was buffeted by these forces that were much greater than us.” The post Ada Ferrer on “Keeper of My Kin: Memoir of an Immigrant Daughter” appeared first on Public Books.",
-      "body": "“People are buffeted byhistory sometimes in ways that they don't realize. Ourfamily was buffeted by these forces that were much greater than us.” The post Ada Ferrer on “Keeper of My Kin: Memoir of an Immigrant Daughter” appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/ada-ferrer-on-keeper-of-my-kin-memoir-of-an-immigrant-daughter/",
-        "trustTier": "publication",
-        "author": "Megan Cummins",
-        "date": "Wed, 10 Jun 2026 15:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "podcast",
-        "writing latinos",
-        "cuba",
-        "memoir",
-        "migration",
-        "scribner"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:30.713Z",
-      "hash": "f8c4f5b21a6024e8"
-    },
-    {
-      "id": "article:a65d61d89afef109",
-      "type": "article",
-      "title": "West Indies: The Fugitive Slaves of Liberty: Torrents of Fire, Torrents of Blood",
-      "summary": "Over the course of four decades, the great Mauritanian French filmmaker Med Hondo created a stylistically diverse, politically trenchant body of work that frequently tapped into his own Pan-African roots and explored the existential and material stresses of Black people across the African…",
-      "body": "Over the course of four decades, the great Mauritanian French filmmaker Med Hondo created a stylistically diverse, politically trenchant body of work that frequently tapped into his own Pan-African roots and explored the existential and material stresses of Black people across the African diaspora. Hondo channeled his love for them—and his untrammeled fury at their oppression—into the creation of wholly singular films like Soleil Ô (1970), Sarraounia (1986), and his towering masterpiece, West Indies: The Fugitive Slaves of Liberty (1979).Hondo was born in 1935 in Morocco to a mother from…",
-      "image": {
-        "src": "data/images/a2507583c85d9ef1.jpg",
-        "alt": "West Indies: The Fugitive Slaves of Liberty: Torrents of Fire, Torrents of Blood",
-        "credit": "The Current (Criterion)"
-      },
-      "source": {
-        "name": "The Current (Criterion)",
-        "url": "https://www.criterion.com/current/posts/9183-west-indies-the-fugitive-slaves-of-liberty-torrents-of-fire-torrents-of-blood",
-        "trustTier": "publication",
-        "author": "Ashley Clark",
-        "date": "Tue, 09 Jun 2026 05:49:0"
-      },
-      "tags": [
-        "film",
-        "essay",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:28.050Z",
-      "hash": "a65d61d89afef109"
-    },
-    {
-      "id": "article:e894bf9a3625dddd",
-      "type": "article",
-      "title": "Rediscovering the Handcart",
-      "summary": "Image: The handcart, equipped with a sail. Photo by Kris De Decker. The human-powered handcart is the oldest of vehicles, and it will likely be the last one around in the future. Of all vehicles, it&rsquo;s the cheapest and least complex to build and use. It offers a large advantage over carrying…",
-      "body": "Image: The handcart, equipped with a sail. Photo by Kris De Decker. The human-powered handcart is the oldest of vehicles, and it will likely be the last one around in the future. Of all vehicles, it&rsquo;s the cheapest and least complex to build and use. It offers a large advantage over carrying a load on your back or dragging it over the ground - the even older concept of the sled. On the other hand, the handcart is cheaper and easier to use than the animal-powered cart. Oxen and donkeys eat more than humans, and they have their own will, which can work against the driver. Like any other…",
-      "image": {
-        "src": "data/images/6d17c143b8bb92d4.png",
-        "alt": "Rediscovering the Handcart",
-        "credit": "Low-Tech Magazine"
-      },
-      "source": {
-        "name": "Low-Tech Magazine",
-        "url": "https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/",
-        "trustTier": "publication",
-        "date": "Wed, 22 Apr 2026 00:00:0"
-      },
-      "tags": [
-        "technology",
-        "sustainability",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:26.537Z",
-      "hash": "e894bf9a3625dddd"
-    },
-    {
-      "id": "article:0dbd8447077aa5d9",
-      "type": "article",
-      "title": "LLMs, cats, and fig trees",
-      "summary": "The latest Questionable Content follows Yann LeCun: See also this clip, among others.",
-      "body": "The latest Questionable Content follows Yann LeCun: See also this clip, among others.",
-      "image": {
-        "src": "data/images/e6fb273db9e09003.jpg",
-        "alt": "LLMs, cats, and fig trees",
-        "credit": "Language Log"
-      },
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73697&utm_source=rss&utm_medium=rss&utm_campaign=llms-cats-and-fig-trees",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Mon, 08 Jun 2026 16:24:4"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "artificial languages",
-        "linguistics in the comics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:25.391Z",
-      "hash": "0dbd8447077aa5d9"
-    },
-    {
-      "id": "article:5b4dc86f8a72c6f1",
-      "type": "article",
-      "title": "The social evolution of typographical prosody",
-      "summary": "Like others, I've often noted analogies between prosody (as modulations of pitch, voice quality, timing, and so on) and text rendering, whether in calligraphy or typography — e.g. \"Intonational focus\", 4/29/2011; \"Prosodic lettering\", 5/8/2011; and many other posts about the communicative use of…",
-      "body": "Like others, I've often noted analogies between prosody (as modulations of pitch, voice quality, timing, and so on) and text rendering, whether in calligraphy or typography — e.g. \"Intonational focus\", 4/29/2011; \"Prosodic lettering\", 5/8/2011; and many other posts about the communicative use of color, font choice, spatial placement, punctuation, and so on. Some aspects of […]",
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73692&utm_source=rss&utm_medium=rss&utm_campaign=the-social-evolution-of-typographical-prosody",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Mon, 08 Jun 2026 15:44:5"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "orthography",
-        "prosody"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:25.391Z",
-      "hash": "5b4dc86f8a72c6f1"
-    },
-    {
-      "id": "article:b8bc1866ea7229b5",
-      "type": "article",
-      "title": "Twenty",
-      "summary": "Twenty: In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants. Google, working under the motto “Don’t Be Evil,” had just dethroned Yahoo! as the planet’s most popular Internet search engine (AskJeeves was not available for comment). Nickelback was at the height of its…",
-      "body": "Twenty: In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants. Google, working under the motto “Don’t Be Evil,” had just dethroned Yahoo! as the planet’s most popular Internet search engine (AskJeeves was not available for comment). Nickelback was at the height of its fame. Internet Explorer was the most used web browser, […]",
-      "source": {
-        "name": "Damn Interesting",
-        "url": "https://www.damninteresting.com/twenty/",
-        "trustTier": "publication",
-        "author": "Alan Bellows",
-        "date": "Fri, 19 Sep 2025 13:32:2"
-      },
-      "tags": [
-        "curiosities",
-        "history",
-        "science",
-        "announcements",
-        "adventure",
-        "disaster",
-        "discovery",
-        "disorders",
-        "dubious claims",
-        "engineering"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:24.151Z",
-      "hash": "b8bc1866ea7229b5"
-    },
-    {
-      "id": "article:f476a31b7e64e496",
-      "type": "article",
-      "title": "Hidden Fungal Networks Could Stretch from the Earth to the Sun a Billion Times Over",
-      "summary": "A new map of global mycorrhizal fungi details the massive scope of the vital systems The post Hidden Fungal Networks Could Stretch from the Earth to the Sun a Billion Times Over appeared first on Nautilus.",
-      "body": "A new map of global mycorrhizal fungi details the massive scope of the vital systems The post Hidden Fungal Networks Could Stretch from the Earth to the Sun a Billion Times Over appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/533940db01ef8097.png",
-        "alt": "Hidden Fungal Networks Could Stretch from the Earth to the Sun a Billion Times Over",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/hidden-fungal-networks-could-stretch-from-the-earth-to-the-sun-a-billion-times-over-1281923/",
-        "trustTier": "publication",
-        "author": "Jake Currie",
-        "date": "Thu, 11 Jun 2026 21:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "environment"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:22.188Z",
-      "hash": "f476a31b7e64e496"
-    },
-    {
-      "id": "article:05276f355dffa0c1",
-      "type": "article",
-      "title": "How to See a Bird: Robert Macfarlane and Jackie Morris’s Exquisite Illustrated Field Guide to the Wonder of the Winged",
-      "summary": "“Split the Lark — and You’ll find the Music, ” Emily Dickinson taunted the materialists, “Now, do you doubt that your Bird was true?” In the wake of On the Origin of Species, the poet intuited that for all its magnificent revelations, science could tell us nothing about the spirit of a creature —…",
-      "body": "“Split the Lark — and You’ll find the Music, ” Emily Dickinson taunted the materialists, “Now, do you doubt that your Bird was true?” In the wake of On the Origin of Species, the poet intuited that for all its magnificent revelations, science could tell us nothing about the spirit of a creature — a distinction between scientific fact and poetic truth, between ways of looking and styles of seeing, Ursula K. Le Guin would capture an epoch later with her astute observation that while both celebrate what they describe, science objectifies the universe by describing it from the outside,… read…",
-      "image": {
-        "src": "data/images/320399a5f4ec72e2.jpg",
-        "alt": "How to See a Bird: Robert Macfarlane and Jackie Morris’s Exquisite Illustrated Field Guide to the Wonder of the Winged",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/06/11/book-of-birds-macfarlane-morris/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Thu, 11 Jun 2026 17:42:2"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "science",
-        "birds",
-        "books",
-        "illustration",
-        "jackie morris"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:21.857Z",
-      "hash": "05276f355dffa0c1"
-    },
-    {
-      "id": "article:5d62c1c0cff3ce82",
-      "type": "article",
-      "title": "What You Need to Know About How Tear Gas Harms Kids",
-      "summary": "The post What You Need to Know About How Tear Gas Harms Kids appeared first on ProPublica.",
-      "body": "The post What You Need to Know About How Tear Gas Harms Kids appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/ee8c37ea98eac6d1.jpg",
-        "alt": "What You Need to Know About How Tear Gas Harms Kids",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/article/how-tear-gas-harms-kids-trump-ice-cbp-minneapolis-portland",
-        "trustTier": "publication",
-        "date": "Wed, 10 Jun 2026 09:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "immigration"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:21.533Z",
-      "hash": "5d62c1c0cff3ce82",
-      "expires": "2026-09-10T05:27:21.533Z"
-    },
-    {
-      "id": "article:9931a6d400b22989",
-      "type": "article",
-      "title": "“After all the testing and lotteries and nail-biting, this is it?” Even New York parents are growing tired of gifted and talented programs",
-      "summary": "“After all the testing and lotteries and nail-biting, this is it?” Even New York parents are growing tired of gifted and talented programs",
-      "body": "“After all the testing and lotteries and nail-biting, this is it?” Even New York parents are growing tired of gifted and talented programs",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://nymag.com/intelligencer/article/gifted-talented-intelligence-public-schools-testing.html",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:20.664Z",
-      "hash": "9931a6d400b22989"
-    },
-    {
-      "id": "article:1683cff7b24bed91",
-      "type": "article",
-      "title": "What’s the Future of Gene Editing?",
-      "summary": "In the first episode of the new season of ‘The Joy of Why,’ Nobel Laureate Jennifer Doudna discusses how she discovered CRISPR’s genome-editing power, the breakthroughs and hurdles during its explosive growth, and what lies ahead for this groundbreaking technology. The post What’s the Future of…",
-      "body": "In the first episode of the new season of ‘The Joy of Why,’ Nobel Laureate Jennifer Doudna discusses how she discovered CRISPR’s genome-editing power, the breakthroughs and hurdles during its explosive growth, and what lies ahead for this groundbreaking technology. The post What’s the Future of Gene Editing? first appeared on Quanta Magazine",
-      "image": {
-        "src": "data/images/0ebd49629faead27.webp",
-        "alt": "What’s the Future of Gene Editing?",
-        "credit": "Quanta Magazine"
-      },
-      "source": {
-        "name": "Quanta Magazine",
-        "url": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/",
-        "trustTier": "publication",
-        "author": "Janna Levin and Steven Strogatz",
-        "date": "Thu, 11 Jun 2026 13:37:2"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "mathematics",
-        "biology",
-        "multimedia"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:19.316Z",
-      "hash": "1683cff7b24bed91"
-    },
-    {
-      "id": "poetry:60d5a545b0582b6e",
-      "type": "poem",
-      "title": "Ode to the West Wind",
-      "summary": "O wild West Wind, thou breath of Autumn's being,\nThou, from whose unseen presence the leaves dead\nAre driven, like ghosts from an enchanter fleeing,\nYellow, and black, and pale, and hectic red,",
-      "body": "O wild West Wind, thou breath of Autumn's being,\nThou, from whose unseen presence the leaves dead\nAre driven, like ghosts from an enchanter fleeing,\n\nYellow, and black, and pale, and hectic red,\nPestilence-stricken multitudes: O thou,\nWho chariotest to their dark wintry bed\n\nThe winged seeds, where they lie cold and low,\nEach like a corpse within its grave, until\nThine azure sister of the Spring shall blow\n\nHer clarion o'er the dreaming earth, and fill\n(Driving sweet buds like flocks to feed in air)\nWith living hues and odours plain and hill:\n\nWild Spirit, which art moving everywhere;\nDestroyer and preserver; hear, oh, hear!\n\nThou on whose stream, mid the steep sky's commotion,\nLoose clouds like earth's decaying leaves are shed,\nShook from the tangled boughs of Heaven and Ocean,\n\nAngels of rain and lightning: there are spread\nOn the blue surface of thine aery surge,\nLike the bright hair uplifted from the head\n\nOf some fierce Maenad, even from the dim verge\nOf the horizon to the zenith's height,\nThe locks of the approaching storm. Thou dirge\n\nOf the dying year, to which this closing night\nWill be the dome of a vast sepulchre,\nVaulted with all thy congregated might\n\nOf vapours, from whose solid atmosphere\nBlack rain, and fire, and hail will burst: oh, hear!\n\nThou who didst waken from his summer dreams\nThe blue Mediterranean, where he lay,\nLulled by the coil of his crystalline streams,\n\nBeside a pumice isle in Baiae's bay,\nAnd saw in sleep old palaces and towers\nQuivering within the wave's intenser day,\n\nAll overgrown with azure moss and flowers\nSo sweet, the sense faints picturing them! Thou\nFor whose path the Atlantic's level powers\n\nCleave themselves into chasms, while far below\nThe sea-blooms and the oozy woods which wear\nThe sapless foliage of the ocean, know\n\nThy voice, and suddenly grow gray with fear,\nAnd tremble and despoil themselves: oh, hear!\n\nIf I were a dead leaf thou mightest bear;\nIf I were a swift cloud to fly with thee;\nA wave to pant beneath thy power, and share\n\nThe impulse of thy strength, only less free\nThan thou, O uncontrollable! If even\nI were as in my boyhood, and could be\n\nThe comrade of thy wanderings over Heaven,\nAs then, when to outstrip thy skiey speed\nScarce seemed a vision; I would ne'er have striven\n\nAs thus with thee in prayer in my sore need.\nOh, lift me as a wave, a leaf, a cloud!\nI fall upon the thorns of life! I bleed!\n\nA heavy weight of hours has chained and bowed\nOne too like thee: tameless, and swift, and proud.\n\nMake me thy lyre, even as the forest is:\nWhat if my leaves are falling like its own!\nThe tumult of thy mighty harmonies\n\nWill take from both a deep, autumnal tone,\nSweet though in sadness. Be thou, Spirit fierce,\nMy spirit! Be thou me, impetuous one!\n\nDrive my dead thoughts over the universe\nLike withered leaves to quicken a new birth!\nAnd, by the incantation of this verse,\n\nScatter, as from an unextinguished hearth\nAshes and sparks, my words among mankind!\nBe through my lips to unawakened earth\n\nThe trumpet of a prophecy! O, Wind,\nIf Winter comes, can Spring be far behind?",
-      "source": {
-        "name": "Percy Bysshe Shelley · PoetryDB",
-        "url": "https://poetrydb.org/title/Ode%20to%20the%20West%20Wind",
-        "trustTier": "community",
-        "author": "Percy Bysshe Shelley"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:18.827Z",
-      "hash": "60d5a545b0582b6e"
-    },
-    {
-      "id": "poetry:f1fd0a51752ae50f",
-      "type": "poem",
-      "title": "Dream On",
-      "summary": "Some people go their whole lives\nwithout ever writing a single poem.\nExtraordinary people who don't hesitate\nto cut somebody's heart or skull open.",
-      "body": "Some people go their whole lives\nwithout ever writing a single poem.\nExtraordinary people who don't hesitate\nto cut somebody's heart or skull open.\nThey go to baseball games with the greatest of ease.\nand play a few rounds of golf as if it were nothing.\nThese same people stroll into a church\nas if that were a natural part of life.\nInvesting money is second nature to them.\nThey contribute to political campaigns\nthat have absolutely no poetry in them\nand promise none for the future.\nThey sit around the dinner table at night\nand pretend as though nothing is missing.\nTheir children get caught shoplifting at the mall\nand no one admits that it is poetry they are missing.\nThe family dog howls all night,\nlonely and starving for more poetry in his life.\nWhy is it so difficult for them to see\nthat, without poetry, their lives are effluvial.\nSure, they have their banquets, their celebrations,\ncroquet, fox hunts, their sea shores and sunsets,\ntheir cocktails on the balcony, dog races,\nand all that kissing and hugging, and don't\nforget the good deeds, the charity work,\nnursing the baby squirrels all through the night,\nfilling the birdfeeders all winter,\nhelping the stranger change her tire.\nStill, there's that disagreeable exhalation\nfrom decaying matter, subtle but everpresent.\nThey walk around erect like champions.\nThey are smooth-spoken and witty.\nWhen alone, rare occasion, they stare\ninto the mirror for hours, bewildered.\nThere was something they meant to say, but didn't:\n\"And if we put the statue of the rhinoceros\nnext to the tweezers, and walk around the room three times,\nlearn to yodel, shave our heads, call\nour ancestors back from the dead--\"\npoetrywise it's still a bust, bankrupt.\nYou haven't scribbled a syllable of it.\nYou're a nowhere man misfiring\nthe very essence of your life, flustering\nnothing from nothing and back again.\nThe hereafter may not last all that long.\nRadiant childhood sweetheart,\nsecret code of everlasting joy and sorrow,\nfanciful pen strokes beneath the eyelids:\nall day, all night meditation, knot of hope,\nkernel of desire, pure ordinariness of life\nseeking, through poetry, a benediction\nor a bed to lie down on, to connect, reveal,\nexplore, to imbue meaning on the day's extravagant labor.\nAnd yet it's cruel to expect too much.\nIt's a rare species of bird\nthat refuses to be categorized.\nIts song is barely audible.\nIt is like a dragonfly in a dream--\nhere, then there, then here again,\nlow-flying amber-wing darting upward\nthen out of sight.\nAnd the dream has a pain in its heart\nthe wonders of which are manifold,\nor so the story is told.",
-      "source": {
-        "name": "Edward Taylor · PoetryDB",
-        "url": "https://poetrydb.org/title/Dream%20On",
-        "trustTier": "community",
-        "author": "Edward Taylor"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-12T05:27:18.827Z",
-      "hash": "f1fd0a51752ae50f"
-    },
-    {
-      "id": "art:si:ld1-1643406112513-1643406113819-0",
-      "type": "art",
-      "title": "Lewis' Moon Snail, Lewis's Moon Snail, Lewis's Moon",
-      "summary": "NMNH - Education & Outreach · Education and Outreach collections",
-      "body": "NMNH - Education & Outreach\nEducation and Outreach collections",
-      "image": {
-        "src": "data/images/30e47d33fcf9d1f0.jpg",
-        "alt": "Lewis' Moon Snail, Lewis's Moon Snail, Lewis's Moon",
-        "credit": "NMNH - Education & Outreach · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/384123cac-f24c-47e7-ba92-83b16aa22dc6",
-        "trustTier": "encyclopedic",
-        "date": "Education and Outreach collections"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon",
-        "education and outreach collections"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-12T05:27:18.481Z",
-      "hash": "9205e963dd970cf6"
     }
   ]
 }

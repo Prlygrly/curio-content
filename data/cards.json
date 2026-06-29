@@ -1,7 +1,944 @@
 {
-  "generatedAt": "2026-06-28T10:32:33.575Z",
+  "generatedAt": "2026-06-29T12:41:02.769Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:p8shk",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 2096. Find the best line for white.",
+      "body": "Solution, from → to: f3→d4, c6→d4, c2→a4, c8→d7, a4→d4, b6→d4, b2→d4. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "r1b1k1nr/p4p1p/1qnpp1p1/8/3bP3/P4N2/1BQ2PPP/RN2KB1R w KQkq - 0 1",
+        "lastMove": "g7d4"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/p8shk",
+        "trustTier": "community",
+        "date": "Mon, 29 Jun 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "opening",
+        "verylong",
+        "advantage"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-06-29T12:40:53.639Z",
+      "hash": "1a545da309a15046"
+    },
+    {
+      "id": "game:97b7948782f74cdd",
+      "type": "game",
+      "title": "Nintendo is increasing the price of Switch 2 in South Korea",
+      "summary": "The latest price hike comes shortly after Nintendo lamented rising oil prices and surging component costs.",
+      "body": "The latest price hike comes shortly after Nintendo lamented rising oil prices and surging component costs.",
+      "image": {
+        "src": "data/images/7cbb73429933a519.png",
+        "alt": "Nintendo is increasing the price of Switch 2 in South Korea",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/nintendo-is-increasing-the-price-of-switch-2-in-south-korea",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Mon, 29 Jun 2026 11:11:5"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:53.093Z",
+      "hash": "97b7948782f74cdd",
+      "expires": "2026-09-27T12:40:53.093Z"
+    },
+    {
+      "id": "game:a181f1502930e493",
+      "type": "game",
+      "title": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
+      "summary": "Skybound Entertainment CEO David 'DA' Alpert and co-chairman Jon Goldman discuss the company's future video game strategy following the successful release of Quarter Up's Invisible VS.",
+      "body": "Skybound Entertainment CEO David 'DA' Alpert and co-chairman Jon Goldman discuss the company's future video game strategy following the successful release of Quarter Up's Invisible VS.",
+      "image": {
+        "src": "data/images/51851c0086e9964d.png",
+        "alt": "Inside Skybound's video game strategy ft. David 'DA' Alpert and Jon Goldman",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/inside-skybound-s-video-game-strategy-ft-david-da-alpert-and-jon-goldman",
+        "trustTier": "publication",
+        "author": "Game Developer Podcast",
+        "date": "Fri, 26 Jun 2026 14:15:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:53.093Z",
+      "hash": "a181f1502930e493",
+      "expires": "2026-09-27T12:40:53.093Z"
+    },
+    {
+      "id": "trivia:d6f9f940bfb5133a",
+      "type": "trivia",
+      "title": "Which actor has NOT portrayed Billy Flynn in the musical \"Chicago\"?",
+      "summary": "Is it: David Hasselhoff · Christopher Walken · Jerry Springer · Patrick Swayze?",
+      "body": "Answer: Christopher Walken.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "musicals & theatres"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-06-29T12:40:50.769Z",
+      "hash": "d6f9f940bfb5133a"
+    },
+    {
+      "id": "trivia:bf231fd28db7e8eb",
+      "type": "trivia",
+      "title": "The \"To Love-Ru\" Manga was started in what year?",
+      "summary": "Is it: 2006 · 2007 · 2005 · 2004?",
+      "body": "Answer: 2006.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "japanese anime & manga"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-06-29T12:40:50.769Z",
+      "hash": "bf231fd28db7e8eb"
+    },
+    {
+      "id": "trivia:35e98a46e55c8da1",
+      "type": "trivia",
+      "title": "In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?",
+      "summary": "Is it: Arm · Chest · Leg · Head?",
+      "body": "Answer: Head.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:40:50.769Z",
+      "hash": "35e98a46e55c8da1"
+    },
+    {
+      "id": "trivia:ff26ef91ac946f4c",
+      "type": "trivia",
+      "title": "A piccolo is a smaller version of what instrument?",
+      "summary": "Is it: Harp · Trumpet · Flute · Violin?",
+      "body": "Answer: Flute.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:50.769Z",
+      "hash": "ff26ef91ac946f4c"
+    },
+    {
+      "id": "passage:gutenberg:98",
+      "type": "passage",
+      "title": "A Tale of Two Cities",
+      "summary": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all…",
+      "body": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only. There were a king with a large jaw and a queen with a plain face, on the throne of…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/98",
+        "trustTier": "publication",
+        "author": "Charles Dickens",
+        "date": "1859"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "history",
+        "revolution"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:40:50.473Z",
+      "hash": "3b688172195fedd3"
+    },
+    {
+      "id": "comic:smbc:8f5cbc4bed6f40bd",
+      "type": "comic",
+      "title": "Protocol",
+      "summary": "This is why there are tons of fantasy books about alchemists and NOTHING about chemists.",
+      "image": {
+        "src": "data/images/b986416c0eca4df4.png",
+        "alt": "This is why there are tons of fantasy books about alchemists and NOTHING about chemists.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/protocol-2",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sun, 28 Jun 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-29T12:40:48.847Z",
+      "hash": "8f5cbc4bed6f40bd"
+    },
+    {
+      "id": "comic:xkcd:1201",
+      "type": "comic",
+      "title": "Integration by Parts",
+      "summary": "If you can manage to choose u and v such that u = v = x, then the answer is just (1/2)x^2, which is easy to remember. Oh, and add a '+C' or you'll get yelled at.",
+      "body": "A guide to integration by parts: Given a problem of the form: â«f(x)g(x)dx = ? Choose variables u and v such that: u = f(x) dv = g(x)dx Now the original expression becomes: â«udv = ? Which definitely looks easier. Anyway, I gotta run. But good luck! {{Title text: If you can manage to choose u and v such that u = v = x, then the answer is just (1 2)x^2, which is easy to remember. Oh, and add a '+C' or you'll get yelled at.}}",
+      "image": {
+        "src": "data/images/b2bc2c52be1b4565.png",
+        "alt": "If you can manage to choose u and v such that u = v = x, then the answer is just (1/2)x^2, which is easy to remember. Oh, and add a '+C' or you'll get yelled at.",
+        "credit": "xkcd #1201 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/1201/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2013-04-19"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-29T12:40:48.700Z",
+      "hash": "3dcd3995f0b79ee9"
+    },
+    {
+      "id": "food:e525858bc9a4dd52",
+      "type": "food",
+      "title": "Green Bean Salad with Peaches",
+      "summary": "This green bean salad with peaches can anchor many summer meals. It features caramelized onions, toasted nuts, dates, a jolt of serrano pepper and a unifying oregano-garlic drizzle. Continue reading Green Bean Salad with Peaches on 101 Cookbooks",
+      "body": "This green bean salad with peaches can anchor many summer meals. It features caramelized onions, toasted nuts, dates, a jolt of serrano pepper and a unifying oregano-garlic drizzle. Continue reading Green Bean Salad with Peaches on 101 Cookbooks",
+      "image": {
+        "src": "data/images/f19cd3a1fa4acc35.jpg",
+        "alt": "Green Bean Salad with Peaches",
+        "credit": "101 Cookbooks"
+      },
+      "source": {
+        "name": "101 Cookbooks",
+        "url": "https://www.101cookbooks.com/green-bean-salad-with-peaches/",
+        "trustTier": "community",
+        "author": "Heidi Swanson",
+        "date": "Sun, 28 Jun 2026 13:39:0"
+      },
+      "tags": [
+        "cooking",
+        "recipe",
+        "food",
+        "100+ vegetarian recipes",
+        "260+ vegan recipes",
+        "gluten free recipes",
+        "salad recipes",
+        "side dish recipes",
+        "summer"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:48.179Z",
+      "hash": "e525858bc9a4dd52"
+    },
+    {
+      "id": "craft:c3dd395a1bd60df5",
+      "type": "craft",
+      "title": "James Turrell’s 100th ‘Skyspace’ Opens in Aarhus",
+      "summary": "Permanently on view at ARoS, \"As Seen Below\" is the latest iteration of the beloved series.",
+      "body": "Permanently on view at ARoS, \"As Seen Below\" is the latest iteration of the beloved series.",
+      "image": {
+        "src": "data/images/6985744f0791f4fc.jpg",
+        "alt": "James Turrell’s 100th ‘Skyspace’ Opens in Aarhus",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/06/james-turrell-as-seen-below-skyspace-aros-aarhus-denmark/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Fri, 26 Jun 2026 17:47:3"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "color",
+        "denmark",
+        "immersive",
+        "installation",
+        "james turrell",
+        "light",
+        "site-specific"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:48.120Z",
+      "hash": "c3dd395a1bd60df5"
+    },
+    {
+      "id": "word:a8d5cc9fcb55605e",
+      "type": "word",
+      "title": "reverie",
+      "summary": "Noun: A state of dreaming while awake; a loose or irregular train of thought; musing or meditation; daydream. .mw-parser-output .defdate{font-size:smaller}",
+      "body": "1. A state of dreaming while awake; a loose or irregular train of thought; musing or meditation; daydream. .mw-parser-output .defdate{font-size:smaller}\n2. An extravagant conceit of the imagination; a vision.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/reverie",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:40:46.255Z",
+      "hash": "a8d5cc9fcb55605e"
+    },
+    {
+      "id": "article:aa2ff508ba2afde8",
+      "type": "article",
+      "title": "Low-tech Magazine: The Uncompressed Book Series",
+      "summary": "Image: The redesigned and revised chronological book edition. Photo: Marie Verdeil. Between 2019 and 2021, Low-tech Magazine published three books containing selections of articles from the website, spanning 14 years (2007-2021). In 2024, we launched the &ldquo;compressed edition&rdquo;, which…",
+      "body": "Image: The redesigned and revised chronological book edition. Photo: Marie Verdeil. Between 2019 and 2021, Low-tech Magazine published three books containing selections of articles from the website, spanning 14 years (2007-2021). In 2024, we launched the &ldquo;compressed edition&rdquo;, which squeezes the article catalog of the three-volume book series into just one book of 620 pages. We did this by switching to a smaller font size, downsizing most images, and opting for a two-column layout. I rewrote some articles, especially older ones, resulting not only in fewer pages but also in better…",
+      "image": {
+        "src": "data/images/df345136d1192725.png",
+        "alt": "Low-tech Magazine: The Uncompressed Book Series",
+        "credit": "Low-Tech Magazine"
+      },
+      "source": {
+        "name": "Low-Tech Magazine",
+        "url": "https://solar.lowtechmagazine.com/2026/03/low-tech-magazine-the-uncompressed-book-series/",
+        "trustTier": "publication",
+        "date": "Mon, 30 Mar 2026 00:00:0"
+      },
+      "tags": [
+        "technology",
+        "sustainability",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:09.010Z",
+      "hash": "aa2ff508ba2afde8"
+    },
+    {
+      "id": "article:43b506eabefedb58",
+      "type": "article",
+      "title": "FIFA linguistics",
+      "summary": "Today's Tank McNamara: Has the English word goal actually been borrowed into Uzbek? Spanish seems to have borrowed gol, and likewise Portuguese, Italian, Turkish, Czech, etc. — but German has tor, French has but , Icelandic has mark, and many other languages have doubtless preserved native words…",
+      "body": "Today's Tank McNamara: Has the English word goal actually been borrowed into Uzbek? Spanish seems to have borrowed gol, and likewise Portuguese, Italian, Turkish, Czech, etc. — but German has tor, French has but , Icelandic has mark, and many other languages have doubtless preserved native words for football scores. Though commenters may have better […]",
+      "image": {
+        "src": "data/images/43c093d45ccd8379.jpg",
+        "alt": "FIFA linguistics",
+        "credit": "Language Log"
+      },
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73761&utm_source=rss&utm_medium=rss&utm_campaign=fifa-linguistics",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Sun, 28 Jun 2026 14:05:3"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "linguistics in the comics"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:08.066Z",
+      "hash": "43b506eabefedb58"
+    },
+    {
+      "id": "article:3125b32598d3a0af",
+      "type": "article",
+      "title": "There Once Was a Man Called Curley",
+      "summary": "There Once Was a Man Called Curley: In the village of Bellewstown, about 15 miles north of Dublin, Ireland, they still talk about what Barney Curley did back in 1975. It all happened during a horse race on the Hill of Crockafotha. It was just an amateur jockey race on a lazy summer day in a…",
+      "body": "There Once Was a Man Called Curley: In the village of Bellewstown, about 15 miles north of Dublin, Ireland, they still talk about what Barney Curley did back in 1975. It all happened during a horse race on the Hill of Crockafotha. It was just an amateur jockey race on a lazy summer day in a sleepy, remote town; it wasn’t meant […]",
+      "source": {
+        "name": "Damn Interesting",
+        "url": "https://www.damninteresting.com/there-once-was-a-man-called-curley/",
+        "trustTier": "publication",
+        "author": "Alan Bellows",
+        "date": "Sat, 06 Sep 2025 14:50:3"
+      },
+      "tags": [
+        "curiosities",
+        "history",
+        "science",
+        "articles",
+        "adventure",
+        "espionage",
+        "innovation",
+        "whimsy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:06.821Z",
+      "hash": "3125b32598d3a0af"
+    },
+    {
+      "id": "article:012138ff9d128432",
+      "type": "article",
+      "title": "In Praise of Leisure",
+      "summary": "Why the life of the mind should be available to all.",
+      "body": "Why the life of the mind should be available to all.",
+      "source": {
+        "name": "Lapham's Quarterly",
+        "url": "https://www.laphamsquarterly.org/roundtable/praise-leisure",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "history",
+        "culture",
+        "literature"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:06.637Z",
+      "hash": "012138ff9d128432"
+    },
+    {
+      "id": "article:620bcc4c5a39f1af",
+      "type": "article",
+      "title": "How the Great Zen Master and Peace Activist Thich Nhat Hanh Found Himself and Lost His Self in a Library Epiphany",
+      "summary": "\"To live, we must die every instant. We must perish again and again in the storms that make life possible.\"",
+      "body": "\"To live, we must die every instant. We must perish again and again in the storms that make life possible.\"",
+      "image": {
+        "src": "data/images/4305f8728d32a371.jpg",
+        "alt": "How the Great Zen Master and Peace Activist Thich Nhat Hanh Found Himself and Lost His Self in a Library Epiphany",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/06/28/thich-nhat-hanh-fragrant-palm-leaves/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sun, 28 Jun 2026 09:31:2"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "psychology",
+        "books",
+        "buddhism",
+        "thich nhat hanh"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:04.567Z",
+      "hash": "620bcc4c5a39f1af"
+    },
+    {
+      "id": "article:a7997c2f329dbdf8",
+      "type": "article",
+      "title": "How the Left Abandoned the Jews. Plus. . .",
+      "summary": "What do Americans really think about race relations? The comedic genius of Stephen Sondheim. What does Britain’s next prime minister actually believe? And more.",
+      "body": "What do Americans really think about race relations? The comedic genius of Stephen Sondheim. What does Britain’s next prime minister actually believe? And more.",
+      "image": {
+        "src": "data/images/a1771f188d0246d3.jpg",
+        "alt": "How the Left Abandoned the Jews. Plus. . .",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/how-the-left-abandoned-the-jews-plus",
+        "trustTier": "publication",
+        "author": "The Free Press",
+        "date": "Mon, 29 Jun 2026 10:03:5"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:04.297Z",
+      "hash": "a7997c2f329dbdf8",
+      "expires": "2026-07-29T12:40:04.297Z"
+    },
+    {
+      "id": "article:2382999e9abce6ef",
+      "type": "article",
+      "title": "7 Essential Experiences in Southwest Louisiana",
+      "summary": "In Southwest Louisiana, culture isn’t something tucked away in museums; it spills out of dance halls, crawfish pots, and marshes. In this region, accordion music echoes through restaurants, migratory birds fill coastal skies, and recipes passed down for generations still define local identity. As…",
+      "body": "In Southwest Louisiana, culture isn’t something tucked away in museums; it spills out of dance halls, crawfish pots, and marshes. In this region, accordion music echoes through restaurants, migratory birds fill coastal skies, and recipes passed down for generations still define local identity. As America celebrates its 250th anniversary, Southwest Louisiana offers a chance to experience a place where important parts of American culture took shape. From Cajun and Creole cuisine to zydeco music, many of the traditions that feel quintessentially American today were made in Southwest Louisiana.…",
+      "image": {
+        "src": "data/images/4b807cd5bfe93783.jpg",
+        "alt": "7 Essential Experiences in Southwest Louisiana",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/articles/essential-experiences-in-southwest-louisiana",
+        "trustTier": "publication",
+        "author": "Atlas Obscura",
+        "date": "Fri, 26 Jun 2026 12:02:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:03.042Z",
+      "hash": "2382999e9abce6ef"
+    },
+    {
+      "id": "article:b5ae95f61fda2ccd",
+      "type": "article",
+      "title": "David Thomson spent 60 years celebrating cinema. Now he thinks movies may have ruined us",
+      "summary": "David Thomson spent 60 years celebrating cinema. Now he thinks movies may have ruined us",
+      "body": "David Thomson spent 60 years celebrating cinema. Now he thinks movies may have ruined us",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://www.nytimes.com/2026/06/19/books/review/david-thomson-movies.html?unlocked_article_code=1.tFA.a89O.Mr_aBx-DeA_K&smid=url-share",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:02.701Z",
+      "hash": "b5ae95f61fda2ccd"
+    },
+    {
+      "id": "greek:df0658eeb68d3dc4",
+      "type": "greek",
+      "title": "πιστεύω",
+      "summary": "πιστεύω — “I believe, trust” · verb",
+      "body": "Note: often with εἰς + acc. (\"believe in\")\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CF%80%CE%B9%CF%83%CF%84%CE%B5%CF%8D%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:40:00.343Z",
+      "hash": "df0658eeb68d3dc4"
+    },
+    {
+      "id": "greek:866a3ec74fb23eb0",
+      "type": "greek",
+      "title": "θεός",
+      "summary": "θεός — “God” · noun",
+      "body": "Note: ὁ θεός; can mean \"a god\" without article\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B8%CE%B5%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:40:00.343Z",
+      "hash": "866a3ec74fb23eb0"
+    },
+    {
+      "id": "poetry:f5c9532a2e6e0a53",
+      "type": "poem",
+      "title": "The Mill-Water",
+      "summary": "ONLY the sound remains\nOf the old mill;\nGone is the wheel;\nOn the prone roof and walls the nettle reigns.",
+      "body": "ONLY the sound remains\nOf the old mill;\nGone is the wheel;\nOn the prone roof and walls the nettle reigns.\n\nWater that toils no more\nDangles white locks\nAnd, falling, mocks\nThe music of the mill-wheel's busy roar.\n\nPretty to see, by day\nIts sound is naught\nCompared with thought\nAnd talk and noise of labour and of play.\n\nNight makes the difference.\nIn calm moonlight,\nGloom infinite,\nThe sound comes surging in upon the sense:\n\nSolitude, company,--\nWhen it is night,--\nGrief or delight\nBy it must haunted or concluded be.\n\nOften the silentness\nHas but this one\nCompanion;\nWherever one creeps in the other is:\n\nSometimes a thought is drowned\nBy it, sometimes\nOut of it climbs;\nAll thoughts begin or end upon this sound,\n\nOnly the idle foam\nOf water falling\nChangelessly calling,\nWhere once men had a work-place and a home.",
+      "source": {
+        "name": "Edward Thomas · PoetryDB",
+        "url": "https://poetrydb.org/title/The%20Mill-Water",
+        "trustTier": "community",
+        "author": "Edward Thomas"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:00.342Z",
+      "hash": "f5c9532a2e6e0a53"
+    },
+    {
+      "id": "poetry:5767e7d9fdd6221d",
+      "type": "poem",
+      "title": "Song",
+      "summary": "I would not feign a single sigh\n  Nor weep a single tear for thee:\nThe soul within these orbs burns dry;\n  A desert spreads where love should be.",
+      "body": "I would not feign a single sigh\n  Nor weep a single tear for thee:\nThe soul within these orbs burns dry;\n  A desert spreads where love should be.\nI would not be a worm to crawl\n  A writhing suppliant in thy way;\nFor love is life, is heaven, and all\n  The beams of an immortal day.\n\nFor sighs are idle things and vain,\n  And tears for idiots vainly fall.\nI would not kiss thy face again\n  Nor round thy shining slippers crawl.\nLove is the honey, not the bee,\n  Nor would I turn its sweets to gall\nFor all the beauty found in thee,\n  Thy lily neck, rose cheek, and all.\n\nI would not feign a single tale\n  Thy kindness or thy love to seek;\nNor sigh for Jenny of the Vale,\n  Her ruby smile or rosy cheek.\nI would not have a pain to own\n  For those dark curls and those bright eyes\nA frowning lip, a heart of stone,\n  False love and folly I despise.",
+      "source": {
+        "name": "John Clare · PoetryDB",
+        "url": "https://poetrydb.org/title/Song",
+        "trustTier": "community",
+        "author": "John Clare"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-06-29T12:40:00.342Z",
+      "hash": "5767e7d9fdd6221d"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399894364-0",
+      "type": "art",
+      "title": "Village in the Guarumo of the Río Magdalena, Colombia, with Botanical Sketches",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1850s · Drawings",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1850s · Drawings",
+      "image": {
+        "src": "data/images/d48b4507702b0fd0.jpg",
+        "alt": "Village in the Guarumo of the Río Magdalena, Colombia, with Botanical Sketches",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/23062",
+        "trustTier": "encyclopedic",
+        "date": "1850s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "botanical",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-29T12:39:59.746Z",
+      "hash": "835cc9da3c45483d"
+    },
+    {
+      "id": "met:311324",
+      "type": "art",
+      "title": "Figure (Yipwon)",
+      "summary": "Unknown artist · 19th century or earlier · Wood",
+      "body": "Unknown artist · 19th century or earlier · Wood\nThe Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1965\nThe Michael C. Rockefeller Wing",
+      "image": {
+        "src": "data/images/287c60a8dd435b4b.jpg",
+        "alt": "Figure (Yipwon)",
+        "credit": "The Met · The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1965"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/311324",
+        "trustTier": "encyclopedic",
+        "date": "19th century or earlier"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "moon",
+        "wood-sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-29T12:39:58.708Z",
+      "hash": "b5ef22230b1930e0"
+    },
+    {
+      "id": "met:61532",
+      "type": "art",
+      "title": "Stele with Maitreya and attendant bodhisattvas",
+      "summary": "Unknown artist · dated 534 (3rd year of Yongxi reign) · Stone",
+      "body": "Unknown artist · dated 534 (3rd year of Yongxi reign) · Stone\nRogers Fund, 1919\nAsian Art",
+      "image": {
+        "src": "data/images/e11020c4ecdaabaa.jpg",
+        "alt": "Stele with Maitreya and attendant bodhisattvas",
+        "credit": "The Met · Rogers Fund, 1919"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/61532",
+        "trustTier": "encyclopedic",
+        "date": "dated 534 (3rd year of Yongxi reign)"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "moon",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-29T12:39:57.936Z",
+      "hash": "f5bb5ce859f4c3f2"
+    },
+    {
+      "id": "met:552743",
+      "type": "art",
+      "title": "Figure of a Baboon",
+      "summary": "Unknown artist · 664–332 B.C. · Marble",
+      "body": "Unknown artist · 664–332 B.C. · Marble\nGift of Joseph W. Drexel, 1889\nEgyptian Art",
+      "image": {
+        "src": "data/images/208c3e2fcac28ef9.jpg",
+        "alt": "Figure of a Baboon",
+        "credit": "The Met · Gift of Joseph W. Drexel, 1889"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/552743",
+        "trustTier": "encyclopedic",
+        "date": "664–332 B.C."
+      },
+      "tags": [
+        "art",
+        "museum",
+        "moon"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-06-29T12:39:57.450Z",
+      "hash": "3f6ca1eca7626ce3"
+    },
+    {
+      "id": "onthisday:06-29:1832:8a260ded2ef2f19b",
+      "type": "history",
+      "title": "1832: Black Hawk War",
+      "summary": "Black Hawk War: Three men working in a cornfield were attacked by Sauk Native Americans, resulting in two deaths.",
+      "body": "Black Hawk War: Three men working in a cornfield were attacked by Sauk Native Americans, resulting in two deaths.",
+      "image": {
+        "src": "data/images/59a93dff2ed21271.jpg",
+        "alt": "Black Hawk War",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Black_Hawk_War",
+        "trustTier": "encyclopedic",
+        "date": "06-29"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:38:34.758Z",
+      "hash": "ba375ffbc4542e8b",
+      "expires": "2026-07-02T12:38:34.758Z"
+    },
+    {
+      "id": "onthisday:06-29:1971:9dd56f8388273ba6",
+      "type": "history",
+      "title": "1971: Soyuz 11",
+      "summary": "The Soyuz 11 spacecraft experienced uncontrolled decompression during preparations for reentry, killing Soviet cosmonauts Vladislav Volkov, Georgy Dobrovolsky and Viktor Patsayev—the only human deaths to have occurred in space.",
+      "body": "The Soyuz 11 spacecraft experienced uncontrolled decompression during preparations for reentry, killing Soviet cosmonauts Vladislav Volkov, Georgy Dobrovolsky and Viktor Patsayev—the only human deaths to have occurred in space.",
+      "image": {
+        "src": "data/images/d8f8acef33f8dba2.png",
+        "alt": "Soyuz 11",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Soyuz_11",
+        "trustTier": "encyclopedic",
+        "date": "06-29"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:38:34.758Z",
+      "hash": "1f2860e4993ffe23",
+      "expires": "2026-07-02T12:38:34.758Z"
+    },
+    {
+      "id": "onthisday:06-29:1967:ef00b58a4a04bcf8",
+      "type": "history",
+      "title": "1967: Jayne Mansfield",
+      "summary": "Actress Jayne Mansfield (pictured), her boyfriend Sam Brody, and their driver were killed in a car accident outside of New Orleans, while her children Miklós, Zoltán, and Mariska Hargitay escaped with only minor injuries.",
+      "body": "Actress Jayne Mansfield (pictured), her boyfriend Sam Brody, and their driver were killed in a car accident outside of New Orleans, while her children Miklós, Zoltán, and Mariska Hargitay escaped with only minor injuries.",
+      "image": {
+        "src": "data/images/54c1ba0961c97830.jpg",
+        "alt": "Jayne Mansfield",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Jayne_Mansfield",
+        "trustTier": "encyclopedic",
+        "date": "06-29"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:38:34.758Z",
+      "hash": "e37b5437038c52de",
+      "expires": "2026-07-02T12:38:34.758Z"
+    },
+    {
+      "id": "wikipedia:74800",
+      "type": "wiki",
+      "title": "Torus",
+      "summary": "In geometry, a torus is a surface of revolution generated by revolving a circle in three-dimensional space one full revolution about an axis that is coplanar with the circle. The main types of tori include ring tori, horn tori, and spindle tori. A ring torus is sometimes colloquially referred to as a doughnut.",
+      "body": "In geometry, a torus is a surface of revolution generated by revolving a circle in three-dimensional space one full revolution about an axis that is coplanar with the circle. The main types of tori include ring tori, horn tori, and spindle tori. A ring torus is sometimes colloquially referred to as a doughnut.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Torus",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:38:34.747Z",
+      "hash": "f3b805162e5241b6"
+    },
+    {
+      "id": "wikipedia:44853168",
+      "type": "wiki",
+      "title": "Bonifacio Trial House",
+      "summary": "The Roderico Reyes Ancestral House, more commonly known as the Bonifacio Trial House, is a historic house and museum in Maragondon, Cavite, Philippines. It was built in 1889 and served as a military court, wherein it has been a witness to the trial of Andres Bonifacio in 1897.",
+      "body": "The Roderico Reyes Ancestral House, more commonly known as the Bonifacio Trial House, is a historic house and museum in Maragondon, Cavite, Philippines. It was built in 1889 and served as a military court, wherein it has been a witness to the trial of Andres Bonifacio in 1897.",
+      "image": {
+        "src": "data/images/ed18d1d40a1e8e21.jpg",
+        "alt": "Bonifacio Trial House",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bonifacio_Trial_House",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:38:34.447Z",
+      "hash": "cd28ad89fc217d8e"
+    },
+    {
+      "id": "wikipedia:32416735",
+      "type": "wiki",
+      "title": "Strange Mercy",
+      "summary": "Strange Mercy is the third studio album by American musician St. Vincent, released on September 12, 2011, by 4AD, in the United Kingdom and a day later in the United States. The album's cover art was designed by St. Vincent, and was photographed by Tina Tyrell. The album peaked at No. 19 on the Billboard 200, and was…",
+      "body": "Strange Mercy is the third studio album by American musician St. Vincent, released on September 12, 2011, by 4AD, in the United Kingdom and a day later in the United States. The album's cover art was designed by St. Vincent, and was photographed by Tina Tyrell. The album peaked at No. 19 on the Billboard 200, and was St. Vincent's highest-charting album at the time, later being surpassed by her next two solo albums, St. Vincent (2014) and Masseduction (2017). In addition, Strange Mercy received significant critical acclaim.",
+      "image": {
+        "src": "data/images/141920de68844d48.jpg",
+        "alt": "Strange Mercy",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Strange_Mercy",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:38:34.141Z",
+      "hash": "761859e6a103ec9d"
+    },
+    {
+      "id": "wikipedia:1411349",
+      "type": "wiki",
+      "title": "Broglio Space Center",
+      "summary": "The Luigi Broglio Malindi Space Center (LBMSC) located near Malindi, Kenya, is an Italian Space Agency (ASI) Spaceport. It was named after its founder and Italian space pioneer Luigi Broglio. Developed in the 1960s through a partnership between the Sapienza University of Rome's Aerospace Research Centre and the…",
+      "body": "The Luigi Broglio Malindi Space Center (LBMSC) located near Malindi, Kenya, is an Italian Space Agency (ASI) Spaceport. It was named after its founder and Italian space pioneer Luigi Broglio. Developed in the 1960s through a partnership between the Sapienza University of Rome's Aerospace Research Centre and the National Aeronautics and Space Administration (NASA), the BSC served as a spaceport for the launch of both Italian and international satellites (1967–1988). The center comprises a main offshore launch site, known as the San Marco platform, as well as two secondary control platforms and a communications ground station on the mainland.",
+      "image": {
+        "src": "data/images/035ae7223136f559.jpg",
+        "alt": "Broglio Space Center",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Broglio_Space_Center",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-06-29T12:38:33.825Z",
+      "hash": "d5090a74292b928c"
+    },
     {
       "id": "chess:P1l9b",
       "type": "chess",
@@ -11502,950 +12439,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-06-18T11:54:00.869Z",
       "hash": "781d7f603e7bf391"
-    },
-    {
-      "id": "word:e9e6b9f34f177819",
-      "type": "word",
-      "title": "susurrus",
-      "summary": "Noun: A whispering or rustling sound; a murmur.",
-      "body": "1. A whispering or rustling sound; a murmur.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/susurrus",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:42.214Z",
-      "hash": "e9e6b9f34f177819"
-    },
-    {
-      "id": "quote:fa5499feb2a22475",
-      "type": "quote",
-      "title": "“Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.”",
-      "summary": "— Roy T. Bennett",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Roy_T._Bennett",
-        "trustTier": "community",
-        "author": "Roy T. Bennett"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:41.755Z",
-      "hash": "fa5499feb2a22475"
-    },
-    {
-      "id": "quote:8a5e4df8ca06e617",
-      "type": "quote",
-      "title": "“Prefer to be defeated in the presence of the wise than to excel among fools.”",
-      "summary": "— Dogen",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Dogen",
-        "trustTier": "community",
-        "author": "Dogen"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:41.755Z",
-      "hash": "8a5e4df8ca06e617"
-    },
-    {
-      "id": "article:aaef61086e367dda",
-      "type": "article",
-      "title": "Watch Baseball Games in Realtime in 8-Bit View",
-      "summary": "This is kind of fantastic: Ribbie lets you watch actual MLB baseball games “rendered pitch by pitch in a cozy 8-bit view while they happen”. Ribbie is a simple way to keep a live baseball game nearby. It shows the score, the bases, the count, and a tiny pixel field that moves with the real game.I…",
-      "body": "This is kind of fantastic: Ribbie lets you watch actual MLB baseball games “rendered pitch by pitch in a cozy 8-bit view while they happen”. Ribbie is a simple way to keep a live baseball game nearby. It shows the score, the bases, the count, and a tiny pixel field that moves with the real game.I built it because I wanted something between a stats tab and a full broadcast. Something you can leave open while you work, cook, or do whatever else, then glance over and know what is happening. There are a few different views you can use. The image above is the fullscreen view. Here’s the…",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/06/watch-baseball-games-in-realtime-in-8-bit-view",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-06-18T00:49:51Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-18T11:53:34.691Z",
-      "hash": "aaef61086e367dda"
-    },
-    {
-      "id": "article:600b33d91bf4de31",
-      "type": "article",
-      "title": "Your Problem Isn’t Willpower",
-      "summary": "Recently, I dug into the data on exercise and showed that, even if you really hate exercise, you would probably still be better off doing more than you do right now. But, of course, we already know we should exercise. We just don’t always do it. This is problem goes far beyond exercise. Life is…",
-      "body": "Recently, I dug into the data on exercise and showed that, even if you really hate exercise, you would probably still be better off doing more than you do right now. But, of course, we already know we should exercise. We just don’t always do it. This is problem goes far beyond exercise. Life is […] The post Your Problem Isn’t Willpower appeared first on Scott H Young.",
-      "image": {
-        "src": "data/images/a49e765453ea17e5.jpg",
-        "alt": "Your Problem Isn’t Willpower",
-        "credit": "Scott H. Young"
-      },
-      "source": {
-        "name": "Scott H. Young",
-        "url": "https://www.scotthyoung.com/blog/2026/06/17/your-problem-isnt-willpower/",
-        "trustTier": "community",
-        "author": "Scott Young",
-        "date": "Wed, 17 Jun 2026 16:00:0"
-      },
-      "tags": [
-        "learning",
-        "productivity",
-        "ideas",
-        "general"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-18T11:53:34.466Z",
-      "hash": "600b33d91bf4de31"
-    },
-    {
-      "id": "article:aaa91e85ad3fc789",
-      "type": "article",
-      "title": "What’s the Ideal Amount of Exercise?",
-      "summary": "How much should you exercise? Even if you really hate it? The post What’s the Ideal Amount of Exercise? appeared first on Scott H Young.",
-      "body": "How much should you exercise? Even if you really hate it? The post What’s the Ideal Amount of Exercise? appeared first on Scott H Young.",
-      "image": {
-        "src": "data/images/fdc3aa01eae91ec8.jpg",
-        "alt": "What’s the Ideal Amount of Exercise?",
-        "credit": "Scott H. Young"
-      },
-      "source": {
-        "name": "Scott H. Young",
-        "url": "https://www.scotthyoung.com/blog/2026/06/15/optimal-exercise/",
-        "trustTier": "community",
-        "author": "Scott Young",
-        "date": "Mon, 15 Jun 2026 17:15:5"
-      },
-      "tags": [
-        "learning",
-        "productivity",
-        "ideas",
-        "general"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-18T11:53:34.466Z",
-      "hash": "aaa91e85ad3fc789"
-    },
-    {
-      "id": "article:2a0e0efe2b09a854",
-      "type": "article",
-      "title": "Dr. Giulia Enders: How to Nourish Your Gut (And Keep It Thriving for Life)",
-      "summary": "Dr. Giulia Enders has changed the way millions of people think about the human body. As a physician, microbiome researcher, and bestselling author, she has spent years studying the surprising role the gut plays in everything from digestion and immunity to mood, sleep, metabolism, and long-term…",
-      "body": "Dr. Giulia Enders has changed the way millions of people think about the human body. As a physician, microbiome researcher, and bestselling author, she has spent years studying the surprising role the gut plays in everything from digestion and immunity to mood, sleep, metabolism, and long-term health. Public Release: June 23. Members have access now.Join … The post Dr. Giulia Enders: How to Nourish Your Gut (And Keep It Thriving for Life) appeared first on Farnam Street.",
-      "source": {
-        "name": "Farnam Street",
-        "url": "https://fs.blog/knowledge-project-podcast/dr-giulia-enders/",
-        "trustTier": "community",
-        "author": "Vicky",
-        "date": "Thu, 18 Jun 2026 09:45:0"
-      },
-      "tags": [
-        "ideas",
-        "psychology",
-        "decision-making"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-18T11:53:33.910Z",
-      "hash": "2a0e0efe2b09a854"
-    },
-    {
-      "id": "article:dbab87a36ad3607f",
-      "type": "article",
-      "title": "What ‘The Future Is Female’ Has Meant for Men",
-      "summary": "And how to lift up the next generation of American boys.",
-      "body": "And how to lift up the next generation of American boys.",
-      "image": {
-        "src": "data/images/375a82c72baf608a.png",
-        "alt": "What ‘The Future Is Female’ Has Meant for Men",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/what-the-future-is-female-has-meant",
-        "trustTier": "publication",
-        "author": "Shilo Brooks",
-        "date": "Thu, 18 Jun 2026 09:02:1"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-18T11:53:33.164Z",
-      "hash": "dbab87a36ad3607f",
-      "expires": "2026-07-18T11:53:33.164Z"
-    },
-    {
-      "id": "article:08dcebc5a29f5e81",
-      "type": "article",
-      "title": "More Than 770,000 Children Are No Longer Receiving SNAP Benefits After Trump Changes Federal Food Program",
-      "summary": "The post More Than 770,000 Children Are No Longer Receiving SNAP Benefits After Trump Changes Federal Food Program appeared first on ProPublica.",
-      "body": "The post More Than 770,000 Children Are No Longer Receiving SNAP Benefits After Trump Changes Federal Food Program appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/ce4f6b6a93062f30.jpg",
-        "alt": "More Than 770,000 Children Are No Longer Receiving SNAP Benefits After Trump Changes Federal Food Program",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/article/snap-benefits-children-food-stamps",
-        "trustTier": "publication",
-        "author": "Nicole Santa Cruz",
-        "date": "Wed, 17 Jun 2026 10:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "politics",
-        "trump administration"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-18T11:53:32.940Z",
-      "hash": "08dcebc5a29f5e81",
-      "expires": "2026-09-16T11:53:32.940Z"
-    },
-    {
-      "id": "article:aa12fd4ae0308baa",
-      "type": "article",
-      "title": "Mushkpuri Top in Abbottabad, Pakistan",
-      "summary": "Mushkpuri Top is one of the most scenic hiking destinations in northern Pakistan, known for its peaceful trails and sweeping mountain views. The journey to the summit begins near Nathia Gali and takes hikers through dense pine forests, fresh mountain air, and open meadows that burst into color…",
-      "body": "Mushkpuri Top is one of the most scenic hiking destinations in northern Pakistan, known for its peaceful trails and sweeping mountain views. The journey to the summit begins near Nathia Gali and takes hikers through dense pine forests, fresh mountain air, and open meadows that burst into color after the monsoon season. The hike is moderately challenging but rewarding, usually taking around three hours to reach the top. At an elevation of nearly 9,500 feet, the peak offers wide, uninterrupted views of the surrounding Himalayan foothills, making it a favorite escape for nature lovers and…",
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/mushkpuri-top",
-        "trustTier": "publication",
-        "date": "Tue, 16 Jun 2026 16:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "vistas",
-        "trails",
-        "mountains"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-18T11:53:32.665Z",
-      "hash": "aa12fd4ae0308baa"
-    },
-    {
-      "id": "greek:a3fb4baa29941699",
-      "type": "greek",
-      "title": "ἀγαθός",
-      "summary": "ἀγαθός, -ή, -όν — “good” · adjective",
-      "body": "Note: declines like 2-1-2 (masc 2nd / fem 1st / neut 2nd)\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%B1%CE%B8%CF%8C%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "adjective"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:30.685Z",
-      "hash": "a3fb4baa29941699"
-    },
-    {
-      "id": "greek:46649385866cc949",
-      "type": "greek",
-      "title": "ἀδελφός",
-      "summary": "ἀδελφός — “brother” · noun",
-      "body": "Note: ὁ ἀδελφός; plural can mean \"brothers and sisters\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B4%CE%B5%CE%BB%CF%86%CF%8C%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:30.685Z",
-      "hash": "46649385866cc949"
-    },
-    {
-      "id": "greek:d400c7e173bfe638",
-      "type": "greek",
-      "title": "υἱός",
-      "summary": "υἱός — “son” · noun",
-      "body": "Note: ὁ υἱός\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CF%85%E1%BC%B1%CF%8C%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:30.684Z",
-      "hash": "d400c7e173bfe638"
-    },
-    {
-      "id": "greek:d9c132ab1aa46f39",
-      "type": "greek",
-      "title": "ὁ",
-      "summary": "ὁ, ἡ, τό — “the” · article",
-      "body": "Note: masc/fem/neut forms; declines fully\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BD%81#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "article",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-18T11:53:30.684Z",
-      "hash": "d9c132ab1aa46f39"
-    },
-    {
-      "id": "poetry:bf8bfe11eef256be",
-      "type": "poem",
-      "title": "Troilus and Criseyde: Book IV",
-      "summary": "But al to litel, weylaway the whyle,\nLasteth swich Ioye, y-thonked be Fortune!\nThat semeth trewest, whan she wol bygyle,\nAnd can to foles so hir song entune,",
-      "body": "\nBut al to litel, weylaway the whyle,\nLasteth swich Ioye, y-thonked be Fortune!\nThat semeth trewest, whan she wol bygyle,\nAnd can to foles so hir song entune,\nThat she hem hent and blent, traytour comune;\nAnd whan a wight is from hir wheel y-throwe,\nThan laugheth she, and maketh him the mowe.\n\nFrom Troilus she gan hir brighte face\nAwey to wrythe, and took of him non hede,\nBut caste him clene out of his lady grace,\nAnd on hir wheel she sette up Diomede;\nFor which right now myn herte ginneth blede,\nAnd now my penne, allas! With which I wryte,\nQuaketh for drede of that I moot endyte.\n\nFor how Criseyde Troilus forsook,\nOr at the leste, how that she was unkinde,\nMot hennes-forth ben matere of my book,\nAs wryten folk through which it is in minde.\nAllas! That they sholde ever cause finde\nTo speke hir harm; and if they on hir lye,\nY-wis, hem-self sholde han the vilanye.\n\nO ye Herines, Nightes doughtren three,\nThat endelees compleynen ever in pyne,\nMegera, Alete, and eek Thesiphone;\nThou cruel Mars eek, fader to Quiryne,\nThis ilke ferthe book me helpeth fyne,\nSo that the los of lyf and love y-fere\nOf Troilus be fully shewed here.\n\nExplicit prohemium.\n\nIncipit Quartus Liber.\n\nLigginge in ost, as I have seyd er this,\nThe Grekes stronge, aboute Troye toun,\nBifel that, whan that Phebus shyning is\nUp-on the brest of Hercules Lyoun,\nThat Ector, with ful many a bold baroun,\nCaste on a day with Grekes for to fighte,\nAs he was wont to greve hem what he mighte.\n\nNot I how longe or short it was bitwene\nThis purpos and that day they fighte mente;\nBut on a day wel armed, bright and shene,\nEctor, and many a worthy wight out wente,\nWith spere in hond and bigge bowes bente;\nAnd in the herd, with-oute lenger lette,\nHir fomen in the feld anoon hem mette.\n\nThe longe day, with speres sharpe y-grounde,\nWith arwes, dartes, swerdes, maces felle,\nThey fighte and bringen hors and man to grounde,\nAnd with hir axes out the braynes quelle.\nBut in the laste shour, sooth for to telle,\nThe folk of Troye hem-selven so misledden,\nThat with the worse at night homward they fledden.\n\nAt whiche day was taken Antenor,\nMaugre Polydamas or Monesteo,\nSantippe, Sarpedon, Polynestor,\nPolyte, or eek the Troian daun Ripheo,\nAnd othere lasse folk, as Phebuseo.\nSo that, for harm, that day the folk of Troye\nDredden to lese a greet part of hir Ioye.\n\nOf Pryamus was yeve, at Greek requeste,\nA tyme of trewe, and tho they gonnen trete,\nHir prisoneres to chaungen, moste and leste,\nAnd for the surplus yeven sommes grete.\nThis thing anoon was couth in every strete,\nBothe in thassege, in toune, and every-where,\nAnd with the firste it cam to Calkas ere.\n\nWhan Calkas knew this tretis sholde holde,\nIn consistorie, among the Grekes, sone\nHe gan in thringe forth, with lordes olde,\nAnd sette him there-as he was wont to done;\nAnd with a chaunged face hem bad a bone,\nFor love of god, to don that reverence,\nTo stinte noyse, and yeve him audience.\n\nThanne seyde he thus, `Lo! Lordes myne, I was\nTroian, as it is knowen out of drede;\nAnd, if that yow remembre, I am Calkas,\nThat alderfirst yaf comfort to your nede,\nAnd tolde wel how that ye sholden spede.\nFor dredelees, thorugh yow, shal, in a stounde,\nBen Troye y-brend, and beten doun to grounde.\n\n`And in what forme, or in what maner wyse\nThis town to shende, and al your lust to acheve,\nYe han er this wel herd it me devyse;\nThis knowe ye, my lordes, as I leve.\nAnd for the Grekes weren me so leve,\nI com my-self in my propre persone,\nTo teche in this how yow was best to done;\n\n`Havinge un-to my tresour ne my rente\nRight no resport, to respect of your ese.\nThus al my good I loste and to yow wente,\nWening in this you, lordes, for to plese.\nBut al that los ne doth me no disese.\nI vouche-sauf, as wisly have I Ioye,\nFor you to lese al that I have in Troye,\n\n`Save of a doughter, that I lafte, allas!\nSlepinge at hoom, whanne out of Troye I sterte.\nO sterne, O cruel fader that I was!\nHow mighte I have in that so hard an herte?\nAllas! I ne hadde y-brought hir in hir sherte!\nFor sorwe of which I wol not live to morwe,\nBut-if ye lordes rewe up-on my sorwe.\n\n`For, by that cause I say no tyme er now\nHir to delivere, I holden have my pees;\nBut now or never, if that it lyke yow,\nI may hir have right sone, doutelees.\nO help and grace! Amonges al this prees,\nRewe on this olde caitif in destresse,\nSin I through yow have al this hevinesse!\n\n`Ye have now caught and fetered in prisoun\nTroians y-nowe; and if your willes be,\nMy child with oon may have redempcioun.\nNow for the love of god and of bountee,\nOon of so fele, allas! So yeve him me.\nWhat nede were it this preyere for to werne,\nSin ye shul bothe han folk and toun as yerne?\n\n`On peril of my lyf, I shal nat lye,\nAppollo hath me told it feithfully;\nI have eek founde it be astronomye,\nBy sort, and by augurie eek trewely,\nAnd dar wel seye, the tyme is faste by,\nThat fyr and flaumbe on al the toun shal sprede;\nAnd thus shal Troye turne to asshen dede.\n\n`For certeyn, Phebus and Neptunus bothe,\nThat makeden the walles of the toun,\nBen with the folk of Troye alwey so wrothe,\nThat thei wol bringe it to confusioun,\nRight in despyt of king Lameadoun.\nBy-cause he nolde payen hem hir hyre,\nThe toun of Troye shal ben set on-fyre.'\n\nTelling his tale alwey, this olde greye,\nHumble in speche, and in his lokinge eke,\nThe salte teres from his eyen tweye\nFul faste ronnen doun by eyther cheke.\nSo longe he gan of socour hem by-seke\nThat, for to hele him of his sorwes sore,\nThey yave him Antenor, with-oute more.\n\nBut who was glad y-nough but Calkas tho?\nAnd of this thing ful sone his nedes leyde\nOn hem that sholden for the tretis go,\nAnd hem for Antenor ful ofte preyde\nTo bringen hoom king Toas and Criseyde;\nAnd whan Pryam his save-garde sente,\nThembassadours to Troye streyght they wente.\n\nThe cause y-told of hir cominge, the olde\nPryam the king ful sone in general\nLet here-upon his parlement to holde,\nOf which the effect rehersen yow I shal.\nThembassadours ben answered for fynal,\nTheschaunge of prisoners and al this nede\nHem lyketh wel, and forth in they procede.\n\nThis Troilus was present in the place,\nWhan axed was for Antenor Criseyde,\nFor which ful sone chaungen gan his face,\nAs he that with tho wordes wel neigh deyde.\nBut nathelees, he no word to it seyde,\nLest men sholde his affeccioun espye;\nWith mannes herte he gan his sorwes drye.\n\nAnd ful of anguissh and of grisly drede\nAbood what lordes wolde un-to it seye;\nAnd if they wolde graunte, as god forbede,\nTheschaunge of hir, than thoughte he thinges tweye,\nFirst, how to save hir honour, and what weye\nHe mighte best theschaunge of hir withstonde;\nFul faste he caste how al this mighte stonde.\n\nLove him made al prest to doon hir byde,\nAnd rather dye than she sholde go;\nBut resoun seyde him, on that other syde,\n`With-oute assent of hir ne do not so,\nLest for thy werk she wolde be thy fo,\nAnd seyn, that thorugh thy medling is y-blowe\nYour bother love, there it was erst unknowe.'\n\nFor which he gan deliberen, for the beste,\nThat though the lordes wolde that she wente,\nHe wolde lat hem graunte what hem leste,\nAnd telle his lady first what that they mente.\nAnd whan that she had seyd him hir entente,\nTher-after wolde he werken also blyve,\nThough al the world ayein it wolde stryve.\n\nEctor, which that wel the Grekes herde,\nFor Antenor how they wolde han Criseyde,\nGan it withstonde, and sobrely answerde: --\n`Sires, she nis no prisoner,' he seyde;\n`I noot on yow who that this charge leyde,\nBut, on my part, ye may eft-sone hem telle,\nWe usen here no wommen for to selle.'\n\nThe noyse of peple up-stirte thanne at ones,\nAs breme as blase of straw y-set on fyre;\nFor infortune it wolde, for the nones,\nThey sholden hir confusioun desyre.\n`Ector,' quod they, `what goost may yow enspyre\nThis womman thus to shilde and doon us lese\nDaun Antenor? -- a wrong wey now ye chese --\n\n`That is so wys, and eek so bold baroun,\nAnd we han nede to folk, as men may see;\nHe is eek oon, the grettest of this toun;\nO Ector, lat tho fantasyes be!\nO king Priam,' quod they, `thus seggen we,\nThat al our voys is to for-gon Criseyde;'\nAnd to deliveren Antenor they preyde.\n\nO Iuvenal, lord! Trewe is thy sentence,\nThat litel witen folk what is to yerne\nThat they ne finde in hir desyr offence;\nFor cloud of errour let hem not descerne\nWhat best is; and lo, here ensample as yerne.\nThis folk desiren now deliveraunce\nOf Antenor, that broughte hem to mischaunce!\n\nFor he was after traytour to the toun\nOf Troye; allas! They quitte him out to rathe;\nO nyce world, lo, thy discrecioun!\nCriseyde, which that never dide hem skathe,\nShal now no lenger in hir blisse bathe;\nBut Antenor, he shal com hoom to toune,\nAnd she shal out; thus seyden here and howne.\n\nFor which delibered was by parlement\nFor Antenor to yelden out Criseyde,\nAnd it pronounced by the president,\nAl-theigh that Ector `nay' ful ofte preyde.\nAnd fynaly, what wight that it with-seyde,\nIt was for nought, it moste been, and sholde;\nFor substaunce of the parlement it wolde.\n\nDeparted out of parlement echone,\nThis Troilus, with-oute wordes mo,\nUn-to his chaumbre spedde him faste allone,\nBut-if it were a man of his or two,\nThe whiche he bad out faste for to go,\nBy-cause he wolde slepen, as he seyde,\nAnd hastely up-on his bed him leyde.\n\nAnd as in winter leves been biraft,\nEche after other, til the tree be bare,\nSo that ther nis but bark and braunche y-laft,\nLyth Troilus, biraft of ech wel-fare,\nY-bounden in the blake bark of care,\nDisposed wood out of his wit to breyde,\nSo sore him sat the chaunginge of Criseyde.\n\nHe rist him up, and every dore he shette\nAnd windowe eek, and tho this sorweful man\nUp-on his beddes syde a-doun him sette,\nFul lyk a deed image pale and wan;\nAnd in his brest the heped wo bigan\nOut-breste, and he to werken in this wyse\nIn his woodnesse, as I shal yow devyse.\n\nRight as the wilde bole biginneth springe\nNow here, now there, y-darted to the herte,\nAnd of his deeth roreth in compleyninge,\nRight so gan he aboute the chaumbre sterte,\nSmyting his brest ay with his festes smerte;\nHis heed to the wal, his body to the grounde\nFul ofte he swapte, him-selven to confounde.\n\nHis eyen two, for pitee of his herte,\nOut stremeden as swifte welles tweye;\nThe heighe sobbes of his sorwes smerte\nHis speche him refte, unnethes mighte he seye,\n`O deeth, allas! Why niltow do me deye?\nA-cursed be the day which that nature\nShoop me to ben a lyves creature!'\n\nBut after, whan the furie and the rage\nWhich that his herte twiste and faste threste,\nBy lengthe of tyme somwhat gan asswage,\nUp-on his bed he leyde him doun to reste;\nBut tho bigonne his teres more out-breste,\nThat wonder is, the body may suffyse\nTo half this wo, which that I yow devyse.\n\nThan seyde he thus, `Fortune! Allas the whyle!\nWhat have I doon, what have I thus a-gilt?\nHow mightestow for reuthe me bigyle?\nIs ther no grace, and shal I thus be spilt?\nShal thus Criseyde awey, for that thou wilt?\nAllas! How maystow in thyn herte finde\nTo been to me thus cruel and unkinde?\n\n`Have I thee nought honoured al my lyve,\nAs thou wel wost, above the goddes alle?\nWhy wiltow me fro Ioye thus depryve?\nO Troilus, what may men now thee calle\nBut wrecche of wrecches, out of honour falle\nIn-to miserie, in which I wol biwayle\nCriseyde, allas! Til that the breeth me fayle?\n\n`Allas, Fortune! If that my lyf in Ioye\nDisplesed hadde un-to thy foule envye,\nWhy ne haddestow my fader, king of Troye,\nBy-raft the lyf, or doon my bretheren dye,\nOr slayn my-self, that thus compleyne and crye,\nI, combre-world, that may of no-thing serve,\nBut ever dye, and never fully sterve?\n\n`If that Criseyde allone were me laft,\nNought roughte I whider thou woldest me stere;\nAnd hir, allas! Than hastow me biraft.\nBut ever-more, lo! This is thy manere,\nTo reve a wight that most is to him dere,\nTo preve in that thy gerful violence.\nThus am I lost, ther helpeth no defence!\n\n`O verray lord of love, O god, allas!\nThat knowest best myn herte and al my thought,\nWhat shal my sorwful lyf don in this cas\nIf I for-go that I so dere have bought?\nSin ye Cryseyde and me han fully brought\nIn-to your grace, and bothe our hertes seled,\nHow may ye suffre, allas! It be repeled?\n\n`What I may doon, I shal, whyl I may dure\nOn lyve in torment and in cruel peyne,\nThis infortune or this disaventure,\nAllone as I was born, y-wis, compleyne;\nNe never wil I seen it shyne or reyne;\nBut ende I wil, as Edippe, in derknesse\nMy sorwful lyf, and dyen in distresse.\n\n`O wery goost, that errest to and fro,\nWhy niltow fleen out of the wofulleste\nBody, that ever mighte on grounde go?\nO soule, lurkinge in this wo, unneste,\nFlee forth out of myn herte, and lat it breste,\nAnd folwe alwey Criseyde, thy lady dere;\nThy righte place is now no lenger here!\n\n`O wofulle eyen two, sin your disport\nWas al to seen Criseydes eyen brighte,\nWhat shal ye doon but, for my discomfort,\nStonden for nought, and wepen out your sighte?\nSin she is queynt, that wont was yow to lighte,\nIn veyn fro-this-forth have I eyen tweye\nY-formed, sin your vertue is a-weye.\n\n`O my Criseyde, O lady sovereyne\nOf thilke woful soule that thus cryeth,\nWho shal now yeven comfort to the peyne?\nAllas, no wight; but when myn herte dyeth,\nMy spirit, which that so un-to yow hyeth,\nReceyve in gree, for that shal ay yow serve;\nFor-thy no fors is, though the body sterve.\n\n`O ye loveres, that heighe upon the wheel\nBen set of Fortune, in good aventure,\nGod leve that ye finde ay love of steel,\nAnd longe mot your lyf in Ioye endure!\nBut whan ye comen by my sepulture,\nRemembreth that your felawe resteth there;\nFor I lovede eek, though I unworthy were.\n\n`O olde, unholsom, and mislyved man,\nCalkas I mene, allas! What eyleth thee\nTo been a Greek, sin thou art born Troian?\nO Calkas, which that wilt my bane be,\nIn cursed tyme was thou born for me!\nAs wolde blisful Iove, for his Ioye,\nThat I thee hadde, where I wolde, in Troye!'\n\nA thousand sykes, hottere than the glede,\nOut of his brest ech after other wente,\nMedled with pleyntes newe, his wo to fede,\nFor which his woful teres never stente;\nAnd shortly, so his peynes him to-rente,\nAnd wex so mat, that Ioye nor penaunce\nHe feleth noon, but lyth forth in a traunce.\n\nPandare, which that in the parlement\nHadde herd what every lord and burgeys seyde,\nAnd how ful graunted was, by oon assent,\nFor Antenor to yelden so Criseyde,\nGan wel neigh wood out of his wit to breyde,\nSo that, for wo, he niste what he mente;\nBut in a rees to Troilus he wente.\n\nA certeyn knight, that for the tyme kepte\nThe chaumbre-dore, un-dide it him anoon;\nAnd Pandare, that ful tendreliche wepte,\nIn-to the derke chaumbre, as stille as stoon,\nToward the bed gan softely to goon,\nSo confus, that he niste what to seye;\nFor verray wo his wit was neigh aweye.\n\nAnd with his chere and loking al to-torn,\nFor sorwe of this, and with his armes folden,\nHe stood this woful Troilus biforn,\nAnd on his pitous face he gan biholden;\nBut lord, so often gan his herte colden,\nSeing his freend in wo, whos hevinesse\nHis herte slow, as thoughte him, for distresse.\n\nThis woful wight, this Troilus, that felte\nHis freend Pandare y-comen him to see,\nGan as the snow ayein the sonne melte,\nFor which this sorwful Pandare, of pitee,\nGan for to wepe as tendreliche as he;\nAnd specheles thus been thise ilke tweye,\nThat neyther mighte o word for sorwe seye.\n\nBut at the laste this woful Troilus,\nNey deed for smert, gan bresten out to rore,\nAnd with a sorwful noyse he seyde thus,\nAmong his sobbes and his sykes sore,\n`Lo! Pandare, I am deed, with-outen more.\nHastow nought herd at parlement,' he seyde,\n`For Antenor how lost is my Criseyde?'\n\nThis Pandarus, ful deed and pale of hewe,\nFul pitously answerde and seyde, `Yis!\nAs wisly were it fals as it is trewe,\nThat I have herd, and wot al how it is.\nO mercy, god, who wolde have trowed this?\nWho wolde have wend that, in so litel a throwe,\nFortune our Ioye wolde han over-throwe?\n\n`For in this world ther is no creature,\nAs to my doom, that ever saw ruyne\nStraungere than this, thorugh cas or aventure.\nBut who may al eschewe, or al devyne?\nSwich is this world; for-thy I thus defyne,\nNe trust no wight to finden in Fortune\nAy propretee; hir yeftes been comune.\n\n`But tel me this, why thou art now so mad\nTo sorwen thus? Why lystow in this wyse,\nSin thy desyr al holly hastow had,\nSo that, by right, it oughte y-now suffyse?\nBut I, that never felte in my servyse\nA frendly chere or loking of an ye,\nLat me thus wepe and wayle, til I dye.\n\n`And over al this, as thou wel wost thy-selve,\nThis town is ful of ladies al aboute;\nAnd, to my doom, fairer than swiche twelve\nAs ever she was, shal I finde, in som route,\nYe, oon or two, with-outen any doute.\nFor-thy be glad, myn owene dere brother,\nIf she be lost, we shal recovere another.\n\n`What, god for-bede alwey that ech plesaunce\nIn o thing were, and in non other wight!\nIf oon can singe, another can wel daunce;\nIf this be goodly, she is glad and light;\nAnd this is fayr, and that can good a-right.\nEch for his vertu holden is for dere,\nBothe heroner and faucon for rivere.\n\n`And eek, as writ Zanzis, that was ful wys,\n\"The newe love out chaceth ofte the olde;\"\nAnd up-on newe cas lyth newe avys.\nThenk eek, thy-self to saven artow holde;\nSwich fyr, by proces, shal of kinde colde.\nFor sin it is but casuel plesaunce,\nSom cas shal putte it out of remembraunce.\n\n`For al-so seur as day cometh after night,\nThe newe love, labour or other wo,\nOr elles selde seinge of a wight,\nDon olde affecciouns alle over-go.\nAnd, for thy part, thou shalt have oon of tho\nTo abrigge with thy bittre peynes smerte;\nAbsence of hir shal dryve hir out of herte.'\n\nThise wordes seyde he for the nones alle,\nTo helpe his freend, lest he for sorwe deyde.\nFor douteles, to doon his wo to falle,\nHe roughte not what unthrift that he seyde.\nBut Troilus, that neigh for sorwe deyde,\nTok litel hede of al that ever he mente;\nOon ere it herde, at the other out it wente:\n\nBut at the laste answerde and seyde, `Freend,\nThis lechecraft, or heled thus to be,\nWere wel sitting, if that I were a feend,\nTo traysen hir that trewe is unto me!\nI pray god, lat this consayl never y-thee;\nBut do me rather sterve anon-right here\nEr I thus do as thou me woldest lere.\n\n`She that I serve, y-wis, what so thou seye,\nTo whom myn herte enhabit is by right,\nShal han me holly hires til that I deye.\nFor, Pandarus, sin I have trouthe hir hight,\nI wol not been untrewe for no wight;\nBut as hir man I wol ay live and sterve,\nAnd never other creature serve.\n\n`And ther thou seyst, thou shalt as faire finde\nAs she, lat be, make no comparisoun\nTo creature y-formed here by kinde.\nO leve Pandare, in conclusioun,\nI wol not be of thyn opinioun,\nTouching al this; for whiche I thee biseche,\nSo hold thy pees; thou sleest me with thy speche.\n\n`Thow biddest me I sholde love an-other\nAl freshly newe, and lat Criseyde go!\nIt lyth not in my power, leve brother.\nAnd though I mighte, I wolde not do so.\nBut canstow pleyen raket, to and fro,\nNetle in, dokke out, now this, now that, Pandare?\nNow foule falle hir, for thy wo that care!\n\n`Thow farest eek by me, thou Pandarus,\nAs he, that whan a wight is wo bi-goon,\nHe cometh to him a pas, and seyth right thus,\n\"Thenk not on smert, and thou shalt fele noon.\"\nThou most me first transmuwen in a stoon,\nAnd reve me my passiounes alle,\nEr thou so lightly do my wo to falle.\n\n`The deeth may wel out of my brest departe\nThe lyf, so longe may this sorwe myne;\nBut fro my soule shal Criseydes darte\nOut never-mo; but doun with Proserpyne,\nWhan I am deed, I wol go wone in pyne;\nAnd ther I wol eternaly compleyne\nMy wo, and how that twinned be we tweyne.\n\n`Thow hast here maad an argument, for fyn,\nHow that it sholde a lasse peyne be\nCriseyde to for-goon, for she was myn,\nAnd live in ese and in felicitee.\nWhy gabbestow, that seydest thus to me\nThat \"him is wors that is fro wele y-throwe,\nThan he hadde erst non of that wele y-knowe?\"\n\n`But tel me now, sin that thee thinketh so light\nTo chaungen so in love, ay to and fro,\nWhy hastow not don bisily thy might\nTo chaungen hir that doth thee al thy wo?\nWhy niltow lete hir fro thyn herte go?\nWhy niltow love an-other lady swete,\nThat may thyn herte setten in quiete?\n\n`If thou hast had in love ay yet mischaunce,\nAnd canst it not out of thyn herte dryve,\nI, that livede in lust and in plesaunce\nWith hir as muche as creature on-lyve,\nHow sholde I that foryete, and that so blyve?\nO where hastow ben hid so longe in muwe,\nThat canst so wel and formely arguwe?\n\n`Nay, nay, god wot, nought worth is al thy reed,\nFor which, for what that ever may bifalle,\nWith-outen wordes mo, I wol be deed.\nO deeth, that endere art of sorwes alle,\nCom now, sin I so ofte after thee calle,\nFor sely is that deeth, soth for to seyne,\nThat, ofte y-cleped, cometh and endeth peyne.\n\n`Wel wot I, whyl my lyf was in quiete,\nEr thou me slowe, I wolde have yeven hyre;\nBut now thy cominge is to me so swete,\nThat in this world I no-thing so desyre.\nO deeth, sin with this sorwe I am a-fyre,\nThou outher do me anoon yn teres drenche,\nOr with thy colde strook myn hete quenche!\n\n`Sin that thou sleest so fele in sondry wyse\nAyens hir wil, unpreyed, day and night,\nDo me, at my requeste, this servyse,\nDelivere now the world, so dostow right,\nOf me, that am the wofulleste wight\nThat ever was; for tyme is that I sterve,\nSin in this world of right nought may I serve.'\n\nThis Troilus in teres gan distille,\nAs licour out of alambyk ful faste;\nAnd Pandarus gan holde his tunge stille,\nAnd to the ground his eyen doun he caste.\nBut nathelees, thus thoughte he at the laste,\n`What, parde, rather than my felawe deye,\nYet shal I som-what more un-to him seye:'\n\nAnd seyde, `Freend, sin thou hast swich distresse,\nAnd sin thee list myn arguments to blame,\nWhy nilt thy-selven helpen doon redresse,\nAnd with thy manhod letten al this grame?\nGo ravisshe hir ne canstow not for shame!\nAnd outher lat hir out of toune fare,\nOr hold hir stille, and leve thy nyce fare.\n\n`Artow in Troye, and hast non hardiment\nTo take a womman which that loveth thee,\nAnd wolde hir-selven been of thyn assent?\nNow is not this a nyce vanitee?\nRys up anoon, and lat this weping be,\nAnd kyth thou art a man, for in this houre\nI wil be deed, or she shal bleven oure.'\n\nTo this answerde him Troilus ful softe,\nAnd seyde, `Parde, leve brother dere,\nAl this have I my-self yet thought ful ofte,\nAnd more thing than thou devysest here.\nBut why this thing is laft, thou shalt wel here;\nAnd whan thou me hast yeve an audience,\nTher-after mayst thou telle al thy sentence.\n\n`First, sin thou wost this toun hath al this werre\nFor ravisshing of wommen so by might,\nIt sholde not be suffred me to erre,\nAs it stant now, ne doon so gret unright.\nI sholde han also blame of every wight,\nMy fadres graunt if that I so withstode,\nSin she is chaunged for the tounes goode.\n\n`I have eek thought, so it were hir assent,\nTo aske hir at my fader, of his grace;\nThan thenke I, this were hir accusement,\nSin wel I woot I may hir not purchace.\nFor sin my fader, in so heigh a place\nAs parlement, hath hir eschaunge enseled,\nHe nil for me his lettre be repeled.\n\n`Yet drede I most hir herte to pertourbe\nWith violence, if I do swich a game;\nFor if I wolde it openly distourbe,\nIt moste been disclaundre to hir name.\nAnd me were lever deed than hir defame,\nAs nolde god but-if I sholde have\nHir honour lever than my lyf to save!\n\n`Thus am I lost, for ought that I can see;\nFor certeyn is, sin that I am hir knight,\nI moste hir honour levere han than me\nIn every cas, as lovere oughte of right.\nThus am I with desyr and reson twight;\nDesyr for to destourben hir me redeth,\nAnd reson nil not, so myn herte dredeth.'\n\nThus wepinge that he coude never cesse,\nHe seyde, `Allas! How shal I, wrecche, fare?\nFor wel fele I alwey my love encresse,\nAnd hope is lasse and lasse alwey, Pandare!\nEncressen eek the causes of my care;\nSo wel-a-wey, why nil myn herte breste?\nFor, as in love, ther is but litel reste.'\n\nPandare answerde, `Freend, thou mayst, for me,\nDon as thee list; but hadde ich it so hote,\nAnd thyn estat, she sholde go with me;\nThough al this toun cryede on this thing by note,\nI nolde sette at al that noyse a grote.\nFor when men han wel cryed, than wol they roune;\nA wonder last but nyne night never in toune.\n\n`Devyne not in reson ay so depe\nNe curteysly, but help thy-self anoon;\nBet is that othere than thy-selven wepe,\nAnd namely, sin ye two been al oon.\nRys up, for by myn heed, she shal not goon;\nAnd rather be in blame a lyte y-founde\nThan sterve here as a gnat, with-oute wounde.\n\n`It is no shame un-to yow, ne no vyce\nHir to with-holden, that ye loveth most.\nParaunter, she mighte holden thee for nyce\nTo lete hir go thus to the Grekes ost.\nThenk eek Fortune, as wel thy-selven wost,\nHelpeth hardy man to his enpryse,\nAnd weyveth wrecches, for hir cowardyse.\n\n`And though thy lady wolde a litel hir greve,\nThou shalt thy pees ful wel here-after make,\nBut as for me, certayn, I can not leve\nThat she wolde it as now for yvel take.\nWhy sholde than for ferd thyn herte quake?\nThenk eek how Paris hath, that is thy brother,\nA love; and why shaltow not have another?\n\n`And Troilus, o thing I dar thee swere,\nThat if Criseyde, whiche that is thy leef,\nNow loveth thee as wel as thou dost here,\nGod helpe me so, she nil nat take a-greef,\nThough thou do bote a-noon in this mischeef.\nAnd if she wilneth fro thee for to passe,\nThanne is she fals; so love hir wel the lasse.\n\n`For-thy tak herte, and thenk, right as a knight,\nThourgh love is broken alday every lawe.\nKyth now sumwhat thy corage and thy might,\nHave mercy on thy-self, for any awe.\nLat not this wrecched wo thin herte gnawe,\nBut manly set the world on sixe and sevene;\nAnd, if thou deye a martir, go to hevene.\n\n`I wol my-self be with thee at this dede,\nThough ich and al my kin, up-on a stounde,\nShulle in a strete as dogges liggen dede,\nThourgh-girt with many a wyd and blody wounde.\nIn every cas I wol a freend be founde.\nAnd if thee list here sterven as a wrecche,\nA-dieu, the devel spede him that it recche!'\n\nThis Troilus gan with tho wordes quiken,\nAnd seyde, `Freend, graunt mercy, ich assente;\nBut certaynly thou mayst not me so priken,\nNe peyne noon ne may me so tormente,\nThat, for no cas, it is not myn entente,\nAt shorte wordes, though I dyen sholde,\nTo ravisshe hir, but-if hir-self it wolde.'\n\n`Why, so mene I,' quod Pandarus, `al this day.\nBut tel me than, hastow hir wil assayed,\nThat sorwest thus?' And he answerde, `Nay.'\n`Wher-of artow,' quod Pandare, `than a-mayed,\nThat nost not that she wol ben y-vel apayed\nTo ravisshe hir, sin thou hast not ben there,\nBut-if that Iove tolde it in thyn ere?\n\n`For-thy rys up, as nought ne were, anoon,\nAnd wash thy face, and to the king thou wende,\nOr he may wondren whider thou art goon.\nThou most with wisdom him and othere blende;\nOr, up-on cas, he may after thee sende\nEr thou be war; and shortly, brother dere,\nBe glad, and lat me werke in this matere.\n\n`For I shal shape it so, that sikerly\nThou shalt this night som tyme, in som manere,\nCom speke with thy lady prevely,\nAnd by hir wordes eek, and by hir chere,\nThou shalt ful sone aperceyve and wel here\nAl hir entente, and in this cas the beste;\nAnd fare now wel, for in this point I reste.'\n\nThe swifte Fame, whiche that false thinges\nEgal reporteth lyk the thinges trewe,\nWas thorugh-out Troye y-fled with preste winges\nFro man to man, and made this tale al newe,\nHow Calkas doughter, with hir brighte hewe,\nAt parlement, with-oute wordes more,\nI-graunted was in chaunge of Antenore.\n\nThe whiche tale anoon-right as Criseyde\nHad herd, she, which that of hir fader roughte,\nAs in this cas, right nought, ne whanne he deyde,\nFul bisily to Iuppiter bisoughte\nYeve hem mischaunce that this tretis broughte.\nBut shortly, lest thise tales sothe were,\nShe dorste at no wight asken it, for fere.\n\nAs she that hadde hir herte and al hir minde\nOn Troilus y-set so wonder faste,\nThat al this world ne mighte hir love unbinde,\nNe Troilus out of hir herte caste;\nShe wol ben his, whyl that hir lyf may laste.\nAnd thus she brenneth bothe in love and drede,\nSo that she niste what was best to rede.\n\nBut as men seen in toune, and al aboute,\nThat wommen usen frendes to visyte,\nSo to Criseyde of wommen com a route\nFor pitous Ioye, and wenden hir delyte;\nAnd with hir tales, dere y-nough a myte,\nThese wommen, whiche that in the cite dwelle,\nThey sette hem doun, and seyde as I shal telle.\n\nQuod first that oon, `I am glad, trewely,\nBy-cause of yow, that shal your fader see.'\nA-nother seyde, `Y-wis, so nam not I,\nFor al to litel hath she with us be.'\nQuod tho the thridde, `I hope, y-wis, that she\nShal bringen us the pees on every syde,\nThat, whan she gooth, almighty god hir gyde!'\n\nTho wordes and tho wommanisshe thinges,\nShe herde hem right as though she thennes were;\nFor, god it wot, hir herte on other thing is,\nAlthough the body sat among hem there.\nHir advertence is alwey elles-where;\nFor Troilus ful faste hir soule soughte;\nWith-outen word, alwey on him she thoughte.\n\nThise wommen, that thus wenden hir to plese,\nAboute nought gonne alle hir tales spende;\nSwich vanitee ne can don hir non ese,\nAs she that, al this mene whyle. brende\nOf other passioun than that they wende,\nSo that she felte almost hir herte deye\nFor wo, and wery of that companye.\n\nFor which no lenger mighte she restreyne\nHir teres, so they gonnen up to welle,\nThat yaven signes of the bitter peyne\nIn whiche hir spirit was, and moste dwelle;\nRemembring hir, fro heven unto which helle\nShe fallen was, sith she forgoth the sighte\nOf Troilus, and sorowfully she sighte.\n\nAnd thilke foles sittinge hir aboute\nWenden, that she wepte and syked sore\nBy-cause that she sholde out of that route\nDeparte, and never pleye with hem more.\nAnd they that hadde y-knowen hir of yore\nSeye hir so wepe, and thoughte it kindenesse,\nAnd eche of hem wepte eek for hir destresse;\n\nAnd bisily they gonnen hir conforten\nOf thing, god wot, on which she litel thoughte;\nAnd with hir tales wenden hir disporten,\nAnd to be glad they often hir bisoughte.\nBut swich an ese ther-with they hir wroughte\nRight as a man is esed for to fele,\nFor ache of heed, to clawen him on his hele!\n\nBut after al this nyce vanitee\nThey took hir leve, and hoom they wenten alle.\nCriseyde, ful of sorweful pitee,\nIn-to hir chaumbre up wente out of the halle,\nAnd on hir bed she gan for deed to falle,\nIn purpos never thennes for to ryse;\nAnd thus she wroughte, as I shal yow devyse.\n\nHir ounded heer, that sonnish was of hewe,\nShe rente, and eek hir fingres longe and smale\nShe wrong ful ofte, and bad god on hir rewe,\nAnd with the deeth to doon bote on hir bale.\nHir hewe, whylom bright, that tho was pale,\nBar witnes of hir wo and hir constreynte;\nAnd thus she spak, sobbinge, in hir compleynte:\n\n`Alas!' quod she, `out of this regioun\nI, woful wrecche and infortuned wight,\nAnd born in corsed constellacioun,\nMot goon, and thus departen fro my knight;\nWo worth, allas! That ilke dayes light\nOn which I saw him first with eyen tweyne,\nThat causeth me, and I him, al this peyne!'\n\nTherwith the teres from hir eyen two\nDoun fille, as shour in Aperill ful swythe;\nHir whyte brest she bet, and for the wo\nAfter the deeth she cryed a thousand sythe,\nSin he that wont hir wo was for to lythe,\nShe mot for-goon; for which disaventure\nShe held hir-self a forlost creature.\n\nShe seyde, `How shal he doon, and I also?\nHow sholde I live, if that I from him twinne?\nO dere herte eek, that I love so,\nWho shal that sorwe sleen that ye ben inne?\nO Calkas, fader, thyn be al this sinne!\nO moder myn, that cleped were Argyve,\nWo worth that day that thou me bere on lyve!\n\n`To what fyn sholde I live and sorwen thus?\nHow sholde a fish with-oute water dure?\nWhat is Criseyde worth, from Troilus?\nHow sholde a plaunte or lyves creature\nLive, with-oute his kinde noriture?\nFor which ful oft a by-word here I seye,\nThat \"rotelees, mot grene sone deye.\"\n\n`I shal don thus, sin neither swerd ne darte\nDar I non handle, for the crueltee,\nThat ilke day that I from yow departe,\nIf sorwe of that nil not my bane be,\nThan shal no mete or drinke come in me\nTil I my soule out of my breste unshethe;\nAnd thus my-selven wol I do to dethe.\n\n`And, Troilus, my clothes everichoon\nShul blake been, in tokeninge, herte swete,\nThat I am as out of this world agoon,\nThat wont was yow to setten in quiete;\nAnd of myn ordre, ay til deeth me mete,\nThe observaunce ever, in your absence,\nShal sorwe been, compleynte, and abstinence.\n\n`Myn herte and eek the woful goost ther-inne\nBiquethe I, with your spirit to compleyne\nEternally, for they shal never twinne.\nFor though in erthe y-twinned be we tweyne,\nYet in the feld of pitee, out of peyne,\nThat hight Elysos, shul we been y-fere,\nAs Orpheus and Erudice, his fere.\n\n`Thus, herte myn, for Antenor, allas!\nI sone shal be chaunged, as I wene.\nBut how shul ye don in this sorwful cas,\nHow shal youre tendre herte this sustene?\nBut herte myn, for-yet this sorwe and tene,\nAnd me also; for, soothly for to seye,\nSo ye wel fare, I recche not to deye.'\n\nHow mighte it ever y-red ben or y-songe,\nThe pleynte that she made in hir distresse?\nI noot; but, as for me, my litel tonge,\nIf I discreven wolde hir hevinesse,\nIt sholde make hir sorwe seme lesse\nThan that it was, and childishly deface\nHir heigh compleynte, and therfore I it pace.\n\nPandare, which that sent from Troilus\nWas to Criseyde, as ye han herd devyse,\nThat for the beste it was accorded thus,\nAnd he ful glad to doon him that servyse,\nUn-to Criseyde, in a ful secree wyse,\nTher-as she lay in torment and in rage,\nCom hir to telle al hoolly his message,\n\nAnd fond that she hir-selven gan to trete\nFul pitously; for with hir salte teres\nHir brest, hir face, y-bathed was ful wete;\nThe mighty tresses of hir sonnish heres,\nUnbroyden, hangen al aboute hir eres;\nWhich yaf him verray signal of martyre\nOf deeth, which that hir herte gan desyre.\n\nWhan she him saw, she gan for sorwe anoon\nHir tery face a-twixe hir armes hide,\nFor which this Pandare is so wo bi-goon,\nThat in the hous he mighte unnethe abyde,\nAs he that pitee felte on every syde.\nFor if Criseyde hadde erst compleyned sore,\nTho gan she pleyne a thousand tymes more.\n\nAnd in hir aspre pleynte than she seyde,\n`Pandare first of Ioyes mo than two\nWas cause causinge un-to me, Criseyde,\nThat now transmuwed been in cruel wo.\nWher shal I seye to yow \"wel come\" or no,\nThat alderfirst me broughte in-to servyse\nOf love, allas! That endeth in swich wyse?\n\n`Endeth than love in wo? Ye, or men lyeth!\nAnd alle worldly blisse, as thinketh me.\nThe ende of blisse ay sorwe it occupyeth;\nAnd who-so troweth not that it so be,\nLat him upon me, woful wrecche, y-see,\nThat my-self hate, and ay my birthe acorse,\nFelinge alwey, fro wikke I go to worse.\n\n`Who-so me seeth, he seeth sorwe al at ones,\nPeyne, torment, pleynte, wo, distresse.\nOut of my woful body harm ther noon is,\nAs anguish, langour, cruel bitternesse,\nA-noy, smert, drede, fury, and eek siknesse.\nI trowe, y-wis, from hevene teres reyne,\nFor pitee of myn aspre and cruel peyne!    '\n\n`And thou, my suster, ful of discomfort,'\nQuod Pandarus, `what thenkestow to do?\nWhy ne hastow to thy-selven som resport,\nWhy woltow thus thy-selve, allas, for-do?\nLeef al this werk and tak now hede to\nThat I shal seyn, and herkne, of good entente,\nThis, which by me thy Troilus thee sente.'\n\nTorned hir tho Criseyde, a wo makinge\nSo greet that it a deeth was for to see: --\n`Allas!' quod she, `what wordes may ye bringe?\nWhat wol my dere herte seyn to me,\nWhich that I drede never-mo to see?\nWol he have pleynte or teres, er I wende?\nI have y-nowe, if he ther-after sende!'\n\nShe was right swich to seen in hir visage\nAs is that wight that men on bere binde;\nHir face, lyk of Paradys the image,\nWas al y-chaunged in another kinde.\nThe pleye, the laughtre men was wont to finde\nOn hir, and eek hir Ioyes everychone,\nBen fled, and thus lyth now Criseyde allone.\n\nAboute hir eyen two a purpre ring\nBi-trent, in sothfast tokninge of hir peyne,\nThat to biholde it was a dedly thing,\nFor which Pandare mighte not restreyne\nThe teres from his eyen for to reyne.\nBut nathelees, as he best mighte, he seyde\nFrom Troilus thise wordes to Criseyde.\n\n`Lo, nece, I trowe ye han herd al how\nThe king, with othere lordes, for the beste,\nHath mad eschaunge of Antenor and yow,\nThat cause is of this sorwe and this unreste.\nBut how this cas doth Troilus moleste,\nThat may non erthely mannes tonge seye;\nFor verray wo his wit is al aweye.\n\n`For which we han so sorwed, he and I,\nThat in-to litel bothe it hadde us slawe;\nBut thurgh my conseil this day, fynally,\nHe somwhat is fro weping now with-drawe.\nAnd semeth me that he desyreth fawe\nWith yow to been al night, for to devyse\nRemede in this, if ther were any wyse.\n\n`This, short and pleyne, theffect of my message,\nAs ferforth as my wit can comprehende.\nFor ye, that been of torment in swich rage,\nMay to no long prologe as now entende;\nAnd her-upon ye may answere him sende.\nAnd, for the love of god, my nece dere,\nSo leef this wo er Troilus be here.'\n\n`Gret is my wo,' quod she, and sighte sore,\nAs she that feleth dedly sharp distresse;\n`But yet to me his sorwe is muchel more,\nThat love him bet than he him-self, I gesse.\nAllas! For me hath he swich hevinesse?\nCan he for me so pitously compleyne?\nY-wis, his sorwe doubleth al my peyne.\n\n`Grevous to me, god wot, is for to twinne,'\nQuod she, `but yet it hardere is to me\nTo seen that sorwe which that he is inne;\nFor wel wot I, it wol my bane be;\nAnd deye I wol in certayn,' tho quod she;\n`But bidde him come, er deeth, that thus me threteth,\nDryve out that goost which in myn herte beteth.'\n\nThise wordes seyd, she on hir armes two\nFil gruf, and gan to wepe pitously.\nQuod Pandarus, `Allas! Why do ye so,\nSyn wel ye woot the tyme is faste by,\nThat he shal come? Arys up hastely,\nThat he yow nat biwopen thus ne finde,\nBut ye wol have him wood out of his minde!\n\n`For wiste he that ye ferde in this manere,\nHe wolde him-selve slee; and if I wende\nTo han this fare, he sholde not come here\nFor al the good that Pryam may despende.\nFor to what fyn he wolde anoon pretende,\nThat knowe I wel; and for-thy yet I seye,\nSo leef this sorwe, or platly he wol deye.\n\n`And shapeth yow his sorwe for to abregge,\nAnd nought encresse, leve nece swete;\nBeth rather to him cause of flat than egge,\nAnd with som wysdom ye his sorwes bete.\nWhat helpeth it to wepen ful a strete,\nOr though ye bothe in salte teres dreynte?\nBet is a tyme of cure ay than of pleynte.\n\n`I mene thus; whan I him hider bringe,\nSin ye ben wyse, and bothe of oon assent,\nSo shapeth how distourbe your goinge,\nOr come ayen, sone after ye be went.\nWommen ben wyse in short avysement;\nAnd lat sen how your wit shal now avayle;\nAnd what that I may helpe, it shal not fayle.'\n\n`Go,' quod Criseyde, `and uncle, trewely,\nI shal don al my might, me to restreyne\nFrom weping in his sighte, and bisily,\nHim for to glade, I shal don al my peyne,\nAnd in myn herte seken every veyne;\nIf to this soor ther may be founden salve,\nIt shal not lakken, certain, on myn halve.'\n\nGoth Pandarus, and Troilus he soughte,\nTil in a temple he fond him allone,\nAs he that of his lyf no lenger roughte;\nBut to the pitouse goddes everichone\nFul tendrely he preyde, and made his mone,\nTo doon him sone out of this world to pace;\nFor wel he thoughte ther was non other grace.\n\nAnd shortly, al the sothe for to seye,\nHe was so fallen in despeyr that day,\nThat outrely he shoop him for to deye.\nFor right thus was his argument alwey:\nHe seyde, he nas but loren, waylawey!\n`For al that comth, comth by necessitee;\nThus to be lorn, it is my destinee.\n\n`For certaynly, this wot I wel,' he seyde,\n`That for-sight of divyne purveyaunce\nHath seyn alwey me to for-gon Criseyde,\nSin god seeth every thing, out of doutaunce,\nAnd hem disponeth, thourgh his ordenaunce,\nIn hir merytes sothly for to be,\nAs they shul comen by predestinee.\n\n`But nathelees, allas! Whom shal I leve?\nFor ther ben grete clerkes many oon,\nThat destinee thorugh argumentes preve;\nAnd som men seyn that nedely ther is noon;\nBut that free chois is yeven us everichoon.\nO, welaway! So sleye arn clerkes olde,\nThat I not whos opinion I may holde.\n\n`For som men seyn, if god seth al biforn,\nNe god may not deceyved ben, pardee,\nThan moot it fallen, though men hadde it sworn,\nThat purveyaunce hath seyn bifore to be.\nWherfor I seye, that from eterne if he\nHath wist biforn our thought eek as our dede,\nWe have no free chois, as these clerkes rede.\n\n`For other thought nor other dede also\nMight never be, but swich as purveyaunce,\nWhich may not ben deceyved never-mo,\nHath feled biforn, with-outen ignoraunce.\nFor if ther mighte been a variaunce\nTo wrythen out fro goddes purveyinge,\nTher nere no prescience of thing cominge;\n\n`But it were rather an opinioun\nUncerteyn, and no stedfast forseinge;\nAnd certes, that were an abusioun,\nThat god shuld han no parfit cleer witinge\nMore than we men that han doutous weninge.\nBut swich an errour up-on god to gesse\nWere fals and foul, and wikked corsednesse.\n\n`Eek this is an opinioun of somme\nThat han hir top ful heighe and smothe y-shore;\nThey seyn right thus, that thing is not to come\nFor that the prescience hath seyn bifore\nThat it shal come; but they seyn that therfore\nThat it shal come, therfore the purveyaunce\nWot it biforn with-outen ignoraunce;\n\n`And in this manere this necessitee\nRetorneth in his part contrarie agayn.\nFor needfully bihoveth it not to be\nThat thilke thinges fallen in certayn\nThat ben purveyed; but nedely, as they seyn,\nBihoveth it that thinges, whiche that falle,\nThat they in certayn ben purveyed alle.\n\n`I mene as though I laboured me in this,\nTo enqueren which thing cause of which thing be;\nAs whether that the prescience of god is\nThe certayn cause of the necessitee\nOf thinges that to comen been, pardee;\nOr if necessitee of thing cominge\nBe cause certeyn of the purveyinge.\n\n`But now ne enforce I me nat in shewinge\nHow the ordre of causes stant; but wel wot I,\nThat it bihoveth that the bifallinge\nOf thinges wist biforen certeynly\nBe necessarie, al seme it not ther-by\nThat prescience put falling necessaire\nTo thing to come, al falle it foule or faire.\n\n`For if ther sit a man yond on a see,\nThan by necessitee bihoveth it\nThat, certes, thyn opinioun soth be,\nThat wenest or coniectest that he sit;\nAnd ferther-over now ayenward yit,\nLo, right so it is of the part contrarie,\nAs thus; (now herkne, for I wol not tarie):\n\n`I seye, that if the opinioun of thee\nBe sooth, for that he sit, than seye I this,\nThat he mot sitten by necessitee;\nAnd thus necessitee in either is.\nFor in him nede of sittinge is, y-wis,\nAnd in thee nede of sooth; and thus, forsothe,\nTher moot necessitee ben in yow bothe.\n\n`But thou mayst seyn, the man sit not therfore,\nThat thyn opinioun of sitting soth is;\nBut rather, for the man sit ther bifore,\nTherfore is thyn opinioun sooth, y-wis.\nAnd I seye, though the cause of sooth of this\nComth of his sitting, yet necessitee\nIs entrechaunged, bothe in him and thee.\n\n`Thus on this same wyse, out of doutaunce,\nI may wel maken, as it semeth me,\nMy resoninge of goddes purveyaunce,\nAnd of the thinges that to comen be;\nBy whiche reson men may wel y-see,\nThat thilke thinges that in erthe falle,\nThat by necessitee they comen alle.\n\n`For al-though that, for thing shal come, y-wis,\nTherfore is it purveyed, certaynly,\nNat that it comth for it purveyed is:\nYet nathelees, bihoveth it nedfully,\nThat thing to come be purveyed, trewely;\nOr elles, thinges that purveyed be,\nThat they bityden by necessitee.\n\n`And this suffyseth right y-now, certeyn,\nFor to destroye our free chois every del. --\nBut now is this abusion, to seyn,\nThat fallinge of the thinges temporel\nIs cause of goddes prescience eternel.\nNow trewely, that is a fals sentence,\nThat thing to come sholde cause his prescience.\n\n`What mighte I wene, and I hadde swich a thought,\nBut that god purveyth thing that is to come\nFor that it is to come, and elles nought?\nSo mighte I wene that thinges alle and some,\nThat whylom been bifalle and over-come,\nBen cause of thilke sovereyn purveyaunce,\nThat for-wot al with-outen ignoraunce.\n\n`And over al this, yet seye I more herto,\nThat right as whan I woot ther is a thing,\nY-wis, that thing mot nedefully be so;\nEek right so, whan I woot a thing coming,\nSo mot it come; and thus the bifalling\nOf thinges that ben wist bifore the tyde,\nThey mowe not been eschewed on no syde.'\n\nThan seyde he thus, `Almighty Iove in trone,\nThat wost of al this thing the soothfastnesse,\nRewe on my sorwe, or do me deye sone,\nOr bring Criseyde and me fro this distresse.'\nAnd whyl he was in al this hevinesse,\nDisputinge with him-self in this matere,\nCom Pandare in, and seyde as ye may here.\n\n`O mighty god,' quod Pandarus, `in trone,\nEy! Who seigh ever a wys man faren so?\nWhy, Troilus, what thenkestow to done?\nHastow swich lust to been thyn owene fo?\nWhat, parde, yet is not Criseyde a-go!\nWhy list thee so thy-self for-doon for drede,\nThat in thyn heed thyn eyen semen dede?\n\n`Hastow not lived many a yeer biforn\nWith-outen hir, and ferd ful wel at ese?\nArtow for hir and for non other born?\nHath kinde thee wroughte al-only hir to plese?\nLat be, and thenk right thus in thy disese.\nThat, in the dees right as ther fallen chaunces,\nRight so in love, ther come and goon plesaunces.\n\n`And yet this is a wonder most of alle,\nWhy thou thus sorwest, sin thou nost not yit,\nTouching hir goinge, how that it shal falle,\nNe if she can hir-self distorben it.\nThou hast not yet assayed al hir wit.\nA man may al by tyme his nekke bede\nWhan it shal of, and sorwen at the nede.\n\n`For-thy take hede of that that I shal seye;\nI have with hir y-spoke and longe y-be,\nSo as accorded was bitwixe us tweye.\nAnd ever-mor me thinketh thus, that she\nHath som-what in hir hertes prevetee,\nWher-with she can, if I shal right arede,\nDistorbe al this, of which thou art in drede.\n\n`For which my counseil is, whan it is night,\nThou to hir go, and make of this an ende;\nAnd blisful Iuno, thourgh hir grete mighte,\nShal, as I hope, hir grace un-to us sende.\nMyn herte seyth, \"Certeyn, she shal not wende;\"\nAnd for-thy put thyn herte a whyle in reste;\nAnd hold this purpos, for it is the beste.'\n\nThis Troilus answerde, and sighte sore,\n`Thou seyst right wel, and I wil do right so;'\nAnd what him liste, he seyde un-to it more.\nAnd whan that it was tyme for to go,\nFul prevely him-self, with-outen mo,\nUn-to hir com, as he was wont to done;\nAnd how they wroughte, I shal yow telle sone.\n\nSoth is, that whan they gonne first to mete,\nSo gan the peyne hir hertes for to twiste,\nThat neither of hem other mighte grete,\nBut hem in armes toke and after kiste.\nThe lasse wofulle of hem bothe niste\nWher that he was, ne mighte o word out-bringe,\nAs I seyde erst, for wo and for sobbinge.\n\nTho woful teres that they leten falle\nAs bittre weren, out of teres kinde,\nFor peyne, as is ligne aloes or galle.\nSo bittre teres weep nought, as I finde,\nThe woful Myrra through the bark and rinde.\nThat in this world ther nis so hard an herte,\nThat nolde han rewed on hir peynes smerte.\n\nBut whan hir woful wery gostes tweyne\nRetorned been ther-as hem oughte dwelle,\nAnd that som-what to wayken gan the peyne\nBy lengthe of pleynte, and ebben gan the welle\nOf hire teres, and the herte unswelle,\nWith broken voys, al hoors for-shright, Criseyde\nTo Troilus thise ilke wordes seyde:\n\n`O Iove, I deye, and mercy I beseche!\nHelp, Troilus!' And ther-with-al hir face\nUpon his brest she leyde, and loste speche;\nHir woful spirit from his propre place,\nRight with the word, alwey up poynt to pace.\nAnd thus she lyth with hewes pale and grene,\nThat whylom fresh and fairest was to sene.\n\nThis Troilus, that on hir gan biholde,\nClepinge hir name, (and she lay as for deed,\nWith-oute answere, and felte hir limes colde,\nHir eyen throwen upward to hir heed),\nThis sorwful man can now noon other reed,\nBut ofte tyme hir colde mouth he kiste;\nWher him was wo, god and him-self it wiste!\n\nHe rist him up, and long streight he hir leyde;\nFor signe of lyf, for ought he can or may,\nCan he noon finde in no-thing on Criseyde,\nFor which his song ful ofte is `weylaway!'\nBut whan he saugh that specheles she lay,\nWith sorwful voys and herte of blisse al bare,\nHe seyde how she was fro this world y-fare!\n\nSo after that he longe hadde hir compleyned,\nHis hondes wrong, and seyde that was to seye,\nAnd with his teres salte hir brest bireyned,\nHe gan tho teris wypen of ful dreye,\nAnd pitously gan for the soule preye,\nAnd seyde, `O lord, that set art in thy trone,\nRewe eek on me, for I shal folwe hir sone!'\n\nShe cold was and with-outen sentement,\nFor aught he woot, for breeth ne felte he noon;\nAnd this was him a preignant argument\nThat she was forth out of this world agoon;\nAnd whan he seigh ther was non other woon,\nHe gan hir limes dresse in swich manere\nAs men don hem that shul be leyd on bere.\n\nAnd after this, with sterne and cruel herte,\nHis swerd a-noon out of his shethe he twighte,\nHim-self to sleen, how sore that him smerte,\nSo that his sowle hir sowle folwen mighte,\nTher-as the doom of Mynos wolde it dighte;\nSin love and cruel Fortune it ne wolde,\nThat in this world he lenger liven sholde.\n\nThanne seyde he thus, fulfild of heigh desdayn,\n`O cruel Iove, and thou, Fortune adverse,\nThis al and som, that falsly have ye slayn\nCriseyde, and sin ye may do me no werse,\nFy on your might and werkes so diverse!\nThus cowardly ye shul me never winne;\nTher shal no deeth me fro my lady twinne.\n\n`For I this world, sin ye han slayn hir thus,\nWol lete, and folowe hir spirit lowe or hye;\nShal never lover seyn that Troilus\nDar not, for fere, with his lady dye;\nFor certeyn, I wol bere hir companye.\nBut sin ye wol not suffre us liven here,\nYet suffreth that our soules ben y-fere.\n\n`And thou, citee, whiche that I leve in wo,\nAnd thou, Pryam, and bretheren al y-fere,\nAnd thou, my moder, farwel! For I go;\nAnd Attropos, make redy thou my bere!\nAnd thou, Criseyde, o swete herte dere,\nReceyve now my spirit!' wolde he seye,\nWith swerd at herte, al redy for to deye\n\nBut as god wolde, of swough ther-with she abreyde,\nAnd gan to syke, and `Troilus' she cryde;\nAnd he answerde, `Lady myn Criseyde,\nLive ye yet?' and leet his swerd doun glyde.\n`Ye, herte myn, that thanked be Cupyde!'\nQuod she, and ther-with-al she sore sighte;\nAnd he bigan to glade hir as he mighte;\n\nTook hir in armes two, and kiste hir ofte,\nAnd hir to glade he dide al his entente;\nFor which hir goost, that flikered ay on-lofte,\nIn-to hir woful herte ayein it wente.\nBut at the laste, as that hir eyen glente\nA-syde, anoon she gan his swerd aspye,\nAs it lay bare, and gan for fere crye,\n\nAnd asked him, why he it hadde out-drawe?\nAnd Troilus anoon the cause hir tolde,\nAnd how himself ther-with he wolde have slawe.\nFor which Criseyde up-on him gan biholde,\nAnd gan him in hir armes faste folde,\nAnd seyde, `O mercy, god, lo, which a dede!\nAllas! How neigh we were bothe dede!\n\n`Thanne if I ne hadde spoken, as grace was,\nYe wolde han slayn your-self anoon?' quod she.\n`Ye, douteless;' and she answerde, `Allas!\nFor, by that ilke lord that made me,\nI nolde a forlong wey on-lyve han be,\nAfter your deeth, to han been crouned quene\nOf al the lond the sonne on shyneth shene.\n\n`But with this selve swerd, which that here is,\nMy-selve I wolde han slayn!' -- quod she tho;\n`But ho, for we han right y-now of this,\nAnd late us ryse and streight to bedde go\nAnd there lat ys speken of oure wo.\nFor, by the morter which that I see brenne,\nKnowe I ful wel that day is not fer henne.'\n\nWhan they were in hir bedde, in armes folde,\nNought was it lyk tho nightes here-biforn;\nFor pitously ech other gan biholde,\nAs they that hadden al hir blisse y-lorn,\nBiwaylinge ay the day that they were born.\nTil at the last this sorwful wight Criseyde\nTo Troilus these ilke wordes seyde: --\n\n`Lo, herte myn, wel wot ye this,' quod she,\n`That if a wight alwey his wo compleyne,\nAnd seketh nought how holpen for to be,\nIt nis but folye and encrees of peyne;\nAnd sin that here assembled be we tweyne\nTo finde bote of wo that we ben inne,\nIt were al tyme sone to biginne.\n\n`I am a womman, as ful wel ye woot,\nAnd as I am avysed sodeynly,\nSo wol I telle yow, whyl it is hoot.\nMe thinketh thus, that nouther ye nor I\nOughte half this wo to make skilfully.\nFor there is art y-now for to redresse\nThat yet is mis, and sleen this hevinesse.\n\n`Sooth is, the wo, the whiche that we ben inne,\nFor ought I woot, for no-thing elles is\nBut for the cause that we sholden twinne.\nConsidered al, ther nis no-more amis.\nBut what is thanne a remede un-to this,\nBut that we shape us sone for to mete?\nThis al and som, my dere herte swete.\n\n`Now that I shal wel bringen it aboute\nTo come ayein, sone after that I go,\nTher-of am I no maner thing in doute.\nFor dredeles, with-inne a wouke or two,\nI shal ben here; and, that it may be so\nBy alle right, and in a wordes fewe,\nI shal yow wel an heep of weyes shewe.\n\n`For which I wol not make long sermoun,\nFor tyme y-lost may not recovered be;\nBut I wol gon to my conclusioun,\nAnd to the beste, in ought that I can see.\nAnd, for the love of god, for-yeve it me\nIf I speke ought ayein your hertes reste;\nFor trewely, I speke it for the beste;\n\n`Makinge alwey a protestacioun,\nThat now these wordes, whiche that I shal seye,\nNis but to shewe yow my mocioun,\nTo finde un-to our helpe the beste weye;\nAnd taketh it non other wyse, I preye.\nFor in effect what-so ye me comaunde,\nThat wol I doon, for that is no demaunde.\n\n`Now herkneth this, ye han wel understonde,\nMy goinge graunted is by parlement\nSo ferforth, that it may not be with-stonde\nFor al this world, as by my Iugement.\nAnd sin ther helpeth noon avysement\nTo letten it, lat it passe out of minde;\nAnd lat us shape a bettre wey to finde.\n\n`The sothe is, that the twinninge of us tweyne\nWol us disese and cruelliche anoye.\nBut him bihoveth som-tyme han a peyne,\nThat serveth love, if that he wol have Ioye.\nAnd sin I shal no ferthere out of Troye\nThan I may ryde ayein on half a morwe,\nIt oughte lesse causen us to sorwe.\n\n`So as I shal not so ben hid in muwe,\nThat day by day, myn owene herte dere,\nSin wel ye woot that it is now a trewe,\nYe shal ful wel al myn estat y-here.\nAnd er that truwe is doon, I shal ben here,\nAnd thanne have ye bothe Antenor y-wonne\nAnd me also; beth glad now, if ye conne;\n\n`And thenk right thus, \"Criseyde is now agoon,\nBut what! She shal come hastely ayeyn;\"\nAnd whanne, allas? By god, lo, right anoon,\nEr dayes ten, this dar I saufly seyn.\nAnd thanne at erste shul we been so fayn,\nSo as we shulle to-gederes ever dwelle,\nThat al this world ne mighte our blisse telle.\n\n`I see that ofte, ther-as we ben now,\nThat for the beste, our counseil for to hyde,\nYe speke not with me, nor I with yow\nIn fourtenight; ne see yow go ne ryde.\nMay ye not ten dayes thanne abyde,\nFor myn honour, in swich an aventure?\nY-wis, ye mowen elles lite endure!\n\n`Ye knowe eek how that al my kin is here,\nBut-if that onliche it my fader be;\nAnd eek myn othere thinges alle y-fere,\nAnd nameliche, my dere herte, ye,\nWhom that I nolde leven for to see\nFor al this world, as wyd as it hath space;\nOr elles, see ich never Ioves face!\n\n`Why trowe ye my fader in this wyse\nCoveiteth so to see me, but for drede\nLest in this toun that folkes me dispyse\nBy-cause of him, for his unhappy dede?\nWhat woot my fader what lyf that I lede?\nFor if he wiste in Troye how wel I fare,\nUs neded for my wending nought to care.\n\n`Ye seen that every day eek, more and more,\nMen trete of pees; and it supposed is,\nThat men the quene Eleyne shal restore,\nAnd Grekes us restore that is mis.\nSo though ther nere comfort noon but this,\nThat men purposen pees on every syde,\nYe may the bettre at ese of herte abyde.\n\n`For if that it be pees, myn herte dere,\nThe nature of the pees mot nedes dryve\nThat men moste entrecomunen y-fere,\nAnd to and fro eek ryde and gon as blyve\nAlday as thikke as been flen from an hyve;\nAnd every wight han libertee to bleve\nWhere-as him list the bet, with-outen leve.\n\n`And though so be that pees ther may be noon,\nYet hider, though ther never pees ne were,\nI moste come; for whider sholde I goon,\nOr how mischaunce sholde I dwelle there\nAmong tho men of armes ever in fere?\nFor which, as wisly god my soule rede,\nI can not seen wher-of ye sholden drede.\n\n`Have here another wey, if it so be\nThat al this thing ne may yow not suffyse.\nMy fader, as ye knowen wel, pardee,\nIs old, and elde is ful of coveityse,\nAnd I right now have founden al the gyse,\nWith-oute net, wher-with I shal him hente;\nAnd herkeneth how, if that ye wole assente.\n\n`Lo, Troilus, men seyn that hard it is\nThe wolf ful, and the wether hool to have;\nThis is to seyn, that men ful ofte, y-wis,\nMot spenden part, the remenant for to save.\nFor ay with gold men may the herte grave\nOf him that set is up-on coveityse;\nAnd how I mene, I shal it yow devyse.\n\n`The moeble which that I have in this toun\nUn-to my fader shal I take, and seye,\nThat right for trust and for savacioun\nIt sent is from a freend of his or tweye,\nThe whiche freendes ferventliche him preye\nTo senden after more, and that in hye,\nWhyl that this toun stant thus in Iupartye.\n\n`And that shal been an huge quantitee,\nThus shal I seyn, but, lest it folk aspyde,\nThis may be sent by no wight but by me;\nI shal eek shewen him, if pees bityde,\nWhat frendes that ich have on every syde\nToward the court, to doon the wrathe pace\nOf Priamus, and doon him stonde in grace.\n\n`So what for o thing and for other, swete,\nI shal him so enchaunten with my sawes,\nThat right in hevene his sowle is, shal he mete!\nFor al Appollo, or his clerkes lawes,\nOr calculinge avayleth nought three hawes;\nDesyr of gold shal so his sowle blende,\nThat, as me lyst, I shal wel make an ende.\n\n`And if he wolde ought by his sort it preve\nIf that I lye, in certayn I shal fonde\nDistorben him, and plukke him by the sleve,\nMakinge his sort, and beren him on honde,\nHe hath not wel the goddes understonde.\nFor goddes speken in amphibologyes,\nAnd, for o sooth they tellen twenty lyes.\n\n`Eek drede fond first goddes, I suppose,\nThus shal I seyn, and that his cowarde herte\nMade him amis the goddes text to glose,\nWhan he for ferde out of his Delphos sterte.\nAnd but I make him sone to converte,\nAnd doon my reed with-inne a day or tweye,\nI wol to yow oblige me to deye.'\n\nAnd treweliche, as writen wel I finde,\nThat al this thing was seyd of good entente;\nAnd that hir herte trewe was and kinde\nTowardes him, and spak right as she mente,\nAnd that she starf for wo neigh, whan she wente,\nAnd was in purpos ever to be trewe;\nThus writen they that of hir werkes knewe.\n\nThis Troilus, with herte and eres spradde,\nHerde al this thing devysen to and fro;\nAnd verraylich him semed that he hadde\nThe selve wit; but yet to lete hir go\nHis herte misforyaf him ever-mo.\nBut fynally, he gan his herte wreste\nTo trusten hir, and took it for the beste.\n\nFor which the grete furie of his penaunce\nWas queynt with hope, and ther-with hem bitwene\nBigan for Ioye the amorouse daunce.\nAnd as the briddes, whan the sonne is shene,\nDelyten in hir song in leves grene,\nRight so the wordes that they spake y-fere\nDelyted hem, and made hir hertes clere.\n\nBut natheles, the wending of Criseyde,\nFor al this world, may nought out of his minde;\nFor which ful ofte he pitously hir preyde,\nThat of hir heste he might hir trewe finde,\nAnd seyde hire, `Certes, if ye be unkinde,\nAnd but ye come at day set in-to Troye,\nNe shal I never have hele, honour, ne Ioye.\n\n`For al-so sooth as sonne up-rist on morwe,\nAnd, god! So wisly thou me, woful wrecche,\nTo reste bringe out of this cruel sorwe,\nI wol my-selven slee if that ye drecche.\nBut of my deeth though litel be to recche,\nYet, er that ye me cause so to smerte,\nDwel rather here, myn owene swete herte!\n\n`For trewely, myn owene lady dere,\nTho sleightes yet that I have herd yow stere\nFul shaply been to failen alle y-fere.\nFor thus men seyn, \"That oon thenketh the bere,\nBut al another thenketh his ledere.\"\nYour sire is wys, and seyd is, out of drede,\n\"Men may the wyse at-renne, and not at-rede.\"\n\n`It is ful hard to halten unespyed\nBifore a crepul, for he can the craft;\nYour fader is in sleighte as Argus yed;\nFor al be that his moeble is him biraft,\nHis olde sleighte is yet so with him laft,\nYe shal not blende him for your womanhede,\nNe feyne a-right, and that is al my drede.\n\n`I noot if pees shal ever-mo bityde;\nBut, pees or no, for ernest ne for game,\nI woot, sin Calkas on the Grekis syde\nHath ones been, and lost so foule his name,\nHe dar no more come here ayein for shame;\nFor which that weye, for ought I can espye,\nTo trusten on, nis but a fantasye.\n\n`Ye shal eek seen, your fader shal yow glose\nTo been a wyf, and as he can wel preche,\nHe shal som Grek so preyse and wel alose,\nThat ravisshen he shal yow with his speche,\nOr do yow doon by force as he shal teche.\nAnd Troilus, of whom ye nil han routhe,\nShal causeles so sterven in his trouthe!\n\n`And over al this, your fader shal despyse\nUs alle, and seyn this citee nis but lorn;\nAnd that thassege never shal aryse,\nFor-why the Grekes han it alle sworn\nTil we be slayn, and doun our walles torn.\nAnd thus he shal yow with his wordes fere,\nThat ay drede I, that ye wol bleve there.\n\n`Ye shul eek seen so many a lusty knight\nA-mong the Grekes, ful of worthinesse,\nAnd eche of hem with herte, wit, and might\nTo plesen yow don al his besinesse,\nThat ye shul dullen of the rudenesse\nOf us sely Troianes, but-if routhe\nRemorde yow, or vertue of your trouthe.\n\n`And this to me so grevous is to thinke,\nThat fro my brest it wol my soule rende;\nNe dredeles, in me ther may not sinke\nA good opinioun, if that ye wende;\nFor-why your faderes sleighte wol us shende.\nAnd if ye goon, as I have told yow yore,\nSo thenk I nam but deed, with-oute more.\n\n`For which, with humble, trewe, and pitous herte,\nA thousand tymes mercy I yow preye;\nSo reweth on myn aspre peynes smerte,\nAnd doth somwhat, as that I shal yow seye,\nAnd lat us stele away bitwixe us tweye;\nAnd thenk that folye is, whan man may chese,\nFor accident his substaunce ay to lese.\n\n`I mene this, that sin we mowe er day\nWel stele away, and been to-gider so,\nWhat wit were it to putten in assay,\nIn cas ye sholden to your fader go,\nIf that ye mighte come ayein or no?\nThus mene I, that it were a gret folye\nTo putte that sikernesse in Iupertye.\n\n`And vulgarly to speken of substaunce\nOf tresour, may we bothe with us lede\nY-nough to live in honour and plesaunce,\nTil in-to tyme that we shal ben dede;\nAnd thus we may eschewen al this drede.\nFor everich other wey ye can recorde,\nMyn herte, y-wis, may not ther-with acorde.\n\n`And hardily, ne dredeth no poverte,\nFor I have kin and freendes elles-where\nThat, though we comen in oure bare sherte,\nUs sholde neither lakke gold ne gere,\nBut been honured whyl we dwelten there.\nAnd go we anoon, for, as in myn entente,\nThis is the beste, if that ye wole assente.'\n\nCriseyde, with a syk, right in this wyse\nAnswerde, `Y-wis, my dere herte trewe,\nWe may wel stele away, as ye devyse,\nAnd finde swich unthrifty weyes newe;\nBut afterward, ful sore it wol us rewe.\nAnd help me god so at my moste nede\nAs causeles ye suffren al this drede!\n\n`For thilke day that I for cherisshinge\nOr drede of fader, or of other wight,\nOr for estat, delyt, or for weddinge,\nBe fals to yow, my Troilus, my knight,\nSaturnes doughter, Iuno, thorugh hir might,\nAs wood as Athamante do me dwelle\nEternaly in Stix, the put of helle!\n\n`And this on every god celestial\nI swere it yow; and eek on eche goddesse,\nOn every Nymphe and deite infernal,\nOn Satiry and Fauny more and lesse,\nThat halve goddes been of wildernesse;\nAnd Attropos my threed of lyf to-breste\nIf I be fals; now trowe me if thow leste!\n\n`And thou, Simoys, that as an arwe clere\nThorugh Troye rennest ay downward to the see,\nBer witnesse of this word that seyd is here,\nThat thilke day that ich untrewe be\nTo Troilus, myn owene herte free,\nThat thou retorne bakwarde to thy welle,\nAnd I with body and soule sinke in helle!\n\n`But that ye speke, awey thus for to go\nAnd leten alle your freendes, god for-bede,\nFor any womman, that ye sholden so,\nAnd namely, sin Troye hath now swich nede\nOf help; and eek of o thing taketh hede,\nIf this were wist, my lif laye in balaunce,\nAnd your honour; god shilde us fro mischaunce!\n\n`And if so be that pees her-after take,\nAs alday happeth, after anger, game,\nWhy, lord! The sorwe and wo ye wolden make,\nThat ye ne dorste come ayein for shame!\nAnd er that ye Iuparten so your name,\nBeth nought to hasty in this hote fare;\nFor hasty man ne wanteth never care.\n\n`What trowe ye the peple eek al aboute\nWolde of it seye? It is ful light to arede.\nThey wolden seye, and swere it, out of doute,\nThat love ne droof yow nought to doon this dede,\nBut lust voluptuous and coward drede.\nThus were al lost, y-wis, myn herte dere,\nYour honour, which that now shyneth so clere.\n\n`And also thenketh on myn honestee,\nThat floureth yet, how foule I sholde it shende,\nAnd with what filthe it spotted sholde be,\nIf in this forme I sholde with yow wende.\nNe though I livede un-to the worldes ende,\nMy name sholde I never ayeinward winne;\nThus were I lost, and that were routhe and sinne.\n\n`And for-thy slee with reson al this hete;\nMen seyn, \"The suffraunt overcometh,\" pardee;\nEek \"Who-so wol han leef, he lief mot lete;\"\nThus maketh vertue of necessitee\nBy pacience, and thenk that lord is he\nOf fortune ay, that nought wol of hir recche;\nAnd she ne daunteth no wight but a wrecche.\n\n`And trusteth this, that certes, herte swete,\nEr Phebus suster, Lucina the shene,\nThe Leoun passe out of this Ariete,\nI wol ben here, with-outen any wene.\nI mene, as helpe me Iuno, hevenes quene,\nThe tenthe day, but-if that deeth me assayle,\nI wol yow seen with-outen any fayle.'\n\n`And now, so this be sooth,' quod Troilus,\n`I shal wel suffre un-to the tenthe day,\nSin that I see that nede it moot be thus.\nBut, for the love of god, if it be may,\nSo lat us stele prively away;\nFor ever in oon, as for to live in reste,\nMyn herte seyth that it wol been the beste.'\n\n`O mercy, god, what lyf is this?' quod she;\n`Allas, ye slee me thus for verray tene!\nI see wel now that ye mistrusten me;\nFor by your wordes it is wel y-sene.\nNow, for the love of Cynthia the shene,\nMistrust me not thus causeles, for routhe;\nSin to be trewe I have yow plight my trouthe.\n\n`And thenketh wel, that som tyme it is wit\nTo spende a tyme, a tyme for to winne;\nNe, pardee, lorn am I nought fro yow yit,\nThough that we been a day or two a-twinne.\nDryf out the fantasyes yow with-inne;\nAnd trusteth me, and leveth eek your sorwe,\nOr here my trouthe, I wol not live til morwe.\n\n`For if ye wiste how sore it doth me smerte,\nYe wolde cesse of this; for god, thou wost,\nThe pure spirit wepeth in myn herte,\nTo see yow wepen that I love most,\nAnd that I moot gon to the Grekes ost.\nYe, nere it that I wiste remedye\nTo come ayein, right here I wolde dye!\n\n`But certes, I am not so nyce a wight\nThat I ne can imaginen a wey\nTo come ayein that day that I have hight.\nFor who may holde thing that wol a-way?\nMy fader nought, for al his queynte pley.\nAnd by my thrift, my wending out of Troye\nAnother day shal torne us alle to Ioye.\n\n`For-thy, with al myn herte I yow beseke,\nIf that yow list don ought for my preyere,\nAnd for the love which that I love yow eke,\nThat er that I departe fro yow here,\nThat of so good a comfort and a chere\nI may you seen, that ye may bringe at reste\nMyn herte, which that is at point to breste.\n\n`And over al this I pray yow,' quod she tho,\n`Myn owene hertes soothfast suffisaunce,\nSin I am thyn al hool, with-outen mo,\nThat whyl that I am absent, no plesaunce\nOf othere do me fro your remembraunce.\nFor I am ever a-gast, for-why men rede,\nThat \"love is thing ay ful of bisy drede.\"\n\n`For in this world ther liveth lady noon,\nIf that ye were untrewe, as god defende!\nThat so bitraysed were or wo bigoon\nAs I, that alle trouthe in yow entende.\nAnd douteles, if that ich other wende,\nI nere but deed; and er ye cause finde,\nFor goddes love, so beth me not unkinde.'\n\nTo this answerde Troilus and seyde,\n`Now god, to whom ther nis no cause y-wrye,\nMe glade, as wis I never un-to Criseyde,\nSin thilke day I saw hir first with ye,\nWas fals, ne never shal til that I dye.\nAt shorte wordes, wel ye may me leve;\nI can no more, it shal be founde at preve.'\n\n`Graunt mercy, goode myn, y-wis,' quod she,\n`And blisful Venus lat me never sterve\nEr I may stonde of plesaunce in degree\nTo quyte him wel, that so wel can deserve;\nAnd whyl that god my wit wol me conserve,\nI shal so doon, so trewe I have yow founde,\nThat ay honour to me-ward shal rebounde.\n\n`For trusteth wel, that your estat royal\nNe veyn delyt, nor only worthinesse\nOf yow in werre, or torney marcial,\nNe pompe, array, nobley, or eek richesse,\nNe made me to rewe on your distresse;\nBut moral vertue, grounded upon trouthe,\nThat was the cause I first hadde on yow routhe!\n\n`Eek gentil herte and manhod that ye hadde,\nAnd that ye hadde, as me thoughte, in despyt\nEvery thing that souned in-to badde,\nAs rudenesse and poeplish appetyt;\nAnd that your reson brydled your delyt,\nThis made, aboven every creature,\nThat I was your, and shal, whyl I may dure.\n\n`And this may lengthe of yeres not for-do,\nNe remuable fortune deface;\nBut Iuppiter, that of his might may do\nThe sorwful to be glad, so yeve us grace,\nEr nightes ten, to meten in this place,\nSo that it may your herte and myn suffyse;\nAnd fareth now wel, for tyme is that ye ryse.'\n\nAnd after that they longe y-pleyned hadde,\nAnd ofte y-kist, and streite in armes folde,\nThe day gan ryse, and Troilus him cladde,\nAnd rewfulliche his lady gan biholde,\nAs he that felte dethes cares colde,\nAnd to hir grace he gan him recomaunde;\nWher him was wo, this holde I no demaunde.\n\nFor mannes heed imaginen ne can,\nNe entendement considere, ne tonge telle\nThe cruel peynes of this sorwful man,\nThat passen every torment doun in helle.\nFor whan he saugh that she ne mighte dwelle,\nWhich that his soule out of his herte rente,\nWith-outen more, out of the chaumbre he wente.\n",
-      "source": {
-        "name": "Geoffrey Chaucer · PoetryDB",
-        "url": "https://poetrydb.org/title/Troilus%20and%20Criseyde%3A%20Book%20IV",
-        "trustTier": "community",
-        "author": "Geoffrey Chaucer"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-18T11:53:30.682Z",
-      "hash": "bf8bfe11eef256be"
-    },
-    {
-      "id": "poetry:6d6772d3536e31a2",
-      "type": "poem",
-      "title": "Sonnet 137: Thou blind fool, Love, what dost thou to mine eyes",
-      "summary": "Thou blind fool, Love, what dost thou to mine eyes,\nThat they behold, and see not what they see?\nThey know what beauty is, see where it lies,\nYet what the best is take the worst to be.",
-      "body": "Thou blind fool, Love, what dost thou to mine eyes,\nThat they behold, and see not what they see?\nThey know what beauty is, see where it lies,\nYet what the best is take the worst to be.\nIf eyes, corrupt by over-partial looks,\nBe anchor'd in the bay where all men ride,\nWhy of eyes' falsehood hast thou forged hooks,\nWhereto the judgment of my heart is tied?\nWhy should my heart think that a several plot,\nWhich my heart knows the wide world's common place?\nOr mine eyes, seeing this, say this is not,\nTo put fair truth upon so foul a face?\n  In things right true my heart and eyes have err'd,\n  And to this false plague are they now transferr'd.",
-      "source": {
-        "name": "William Shakespeare · PoetryDB",
-        "url": "https://poetrydb.org/title/Sonnet%20137%3A%20Thou%20blind%20fool%2C%20Love%2C%20what%20dost%20thou%20to%20mine%20eyes",
-        "trustTier": "community",
-        "author": "William Shakespeare"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-18T11:53:30.682Z",
-      "hash": "6d6772d3536e31a2"
-    },
-    {
-      "id": "art:si:ld1-1643381040022-1643381042413-1",
-      "type": "art",
-      "title": "Untitled (Botanical Study)",
-      "summary": "Smithsonian American Art Museum · 1880s · Drawings",
-      "body": "Smithsonian American Art Museum\n1880s · Drawings",
-      "image": {
-        "src": "data/images/f275adcf9323753c.jpg",
-        "alt": "Untitled (Botanical Study)",
-        "credit": "Smithsonian American Art Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://americanart.si.edu/collections/search/artwork/?id=3368",
-        "trustTier": "encyclopedic",
-        "date": "1880s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "botanical",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-18T11:53:30.154Z",
-      "hash": "24464b8c300502c7"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399894891-1",
-      "type": "art",
-      "title": "Botanical Sketch, Ecuador",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1850s · Drawings",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1850s · Drawings",
-      "image": {
-        "src": "data/images/a1c9f1edc21780b3.jpg",
-        "alt": "Botanical Sketch, Ecuador",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/23747",
-        "trustTier": "encyclopedic",
-        "date": "1850s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "botanical",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-18T11:53:30.154Z",
-      "hash": "95fcacfd04368a7a"
-    },
-    {
-      "id": "art:si:ld1-1643381040022-1643381056510-0",
-      "type": "art",
-      "title": "Meadow Beauty (Rhexia virginica), Rattlesnake Roat (Nabalus albus), Pitcherplant (Sarracenia purpurea)",
-      "summary": "Smithsonian American Art Museum · 1880s · Paintings",
-      "body": "Smithsonian American Art Museum\n1880s · Paintings",
-      "image": {
-        "src": "data/images/f2552d3749ca1f1b.jpg",
-        "alt": "Meadow Beauty (Rhexia virginica), Rattlesnake Roat (Nabalus albus), Pitcherplant (Sarracenia purpurea)",
-        "credit": "Smithsonian American Art Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://americanart.si.edu/collections/search/artwork/?id=26120",
-        "trustTier": "encyclopedic",
-        "date": "1880s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "botanical",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-18T11:53:30.153Z",
-      "hash": "b90b8c6a3d04d343"
-    },
-    {
-      "id": "met:191317",
-      "type": "art",
-      "title": "Commemorating the Hudson-Fulton Celebration, 1909",
-      "summary": "Jules Edouard Roiné · 1909 · Bronze",
-      "body": "Jules Edouard Roiné · 1909 · Bronze\nGift of Thomas L. Elder, 1910\nEuropean Sculpture and Decorative Arts",
-      "image": {
-        "src": "data/images/919a9ee48449efa4.jpg",
-        "alt": "Commemorating the Hudson-Fulton Celebration, 1909",
-        "credit": "The Met · Gift of Thomas L. Elder, 1910"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/191317",
-        "trustTier": "encyclopedic",
-        "author": "Jules Edouard Roiné",
-        "date": "1909"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "ship",
-        "medals and plaquettes"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-18T11:53:28.577Z",
-      "hash": "f92a6b199c5d3cec"
-    },
-    {
-      "id": "met:16246",
-      "type": "art",
-      "title": "Ship and Windsock (from Sketchbook)",
-      "summary": "Albert Bierstadt · ca. 1891 · Graphite on wove paper with gilt edges, bound in a leather\r cover",
-      "body": "Albert Bierstadt · ca. 1891 · Graphite on wove paper with gilt edges, bound in a leather\r cover\nBequest of Marguerite H. Rohlfs, 1995\nThe American Wing",
-      "image": {
-        "src": "data/images/ffcff3dfdcf853af.jpg",
-        "alt": "Ship and Windsock (from Sketchbook)",
-        "credit": "The Met · Bequest of Marguerite H. Rohlfs, 1995"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/16246",
-        "trustTier": "encyclopedic",
-        "author": "Albert Bierstadt",
-        "date": "ca. 1891"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "ship"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-18T11:53:28.126Z",
-      "hash": "0ff44796041d22f3"
-    },
-    {
-      "id": "met:435872",
-      "type": "art",
-      "title": "The Gulf of Marseille Seen from L'Estaque",
-      "summary": "Paul Cézanne · ca. 1885 · Oil on canvas",
-      "body": "Paul Cézanne · ca. 1885 · Oil on canvas\nH. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929\nEuropean Paintings",
-      "image": {
-        "src": "data/images/f9346bc293a2eb1e.jpg",
-        "alt": "The Gulf of Marseille Seen from L'Estaque",
-        "credit": "The Met · H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/435872",
-        "trustTier": "encyclopedic",
-        "author": "Paul Cézanne",
-        "date": "ca. 1885"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "ship",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-18T11:53:28.064Z",
-      "hash": "bb788bcf96a1b4c4"
-    },
-    {
-      "id": "apod:2022-03-24",
-      "type": "space",
-      "title": "Arp 78: Peculiar Galaxy in Aries",
-      "summary": "Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is over 100,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this…",
-      "body": "Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is over 100,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait from the large Gemini North telescope near the summit of Maunakea, Hawaii, planet Earth. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's spiral arm is likely pumped-up by galactic-scale gravitational tidal interactions The close companion galaxy responsible is NGC 770, located off the upper right of this frame. But more distant background galaxies are clearly visible in the cosmic field of view.",
-      "image": {
-        "src": "data/images/71d4af78fed411d6.jpg",
-        "alt": "Arp 78: Peculiar Galaxy in Aries",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap220324.html",
-        "trustTier": "encyclopedic",
-        "date": "2022-03-24"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:26.728Z",
-      "hash": "615d3bb3f18f7ec5"
-    },
-    {
-      "id": "apod:2008-04-08",
-      "type": "space",
-      "title": "Southern Orion: From Belt to Witch",
-      "summary": "Do you recognize the belt of Orion in this image? The familiar trio of stars, visible to the unaided eye, can be found across the upper left. Otherwise, the southern part of the constellation Orion has taken on a new look in this unusually deep and wide view First note that the lower left belt star, Alnitak, is the…",
-      "body": "Do you recognize the belt of Orion in this image? The familiar trio of stars, visible to the unaided eye, can be found across the upper left. Otherwise, the southern part of the constellation Orion has taken on a new look in this unusually deep and wide view First note that the lower left belt star, Alnitak, is the easternmost star in Orion's belt. Left of Alnitak is the Flame Nebula, with clouds of bright emission and dramatic dark dust lanes. Directly below Alnitak, a close inspection will reveal the Horsehead Nebula. Farther right and below is the Orion Nebula, M42, itself visible to the unaided eye. The brightest star in the frame, near the bottom right, is Rigel. A bright blue star, Rigel illuminates the ominously shaped dust patch known as the Witch Head Nebula, visible as the blue reflection nebula near the lower right corner. Finally, appearing as a vast red ring and encompassing the entire region, is Barnard's Loop. Humans could see this entire menagerie, unaided, were their eyes about 10,000 times more sensitive.",
-      "image": {
-        "src": "data/images/45b3c5661bbec1eb.jpg",
-        "alt": "Southern Orion: From Belt to Witch",
-        "credit": "© St�phane Guisard"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap080408.html",
-        "trustTier": "encyclopedic",
-        "date": "2008-04-08"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:26.728Z",
-      "hash": "8a86328493cf8f77"
-    },
-    {
-      "id": "apod:2022-03-13",
-      "type": "space",
-      "title": "Colorful Airglow Bands Surround Milky Way",
-      "summary": "Why would the sky glow like a giant repeating rainbow? Airglow. Now air glows all of the time, but it is usually hard to see. A disturbance however -- like an approaching storm -- may cause noticeable rippling in the Earth's atmosphere. These gravity waves are oscillations in air analogous to those created when a…",
-      "body": "Why would the sky glow like a giant repeating rainbow? Airglow. Now air glows all of the time, but it is usually hard to see. A disturbance however -- like an approaching storm -- may cause noticeable rippling in the Earth's atmosphere. These gravity waves are oscillations in air analogous to those created when a rock is thrown in calm water. Red airglow likely originates from OH molecules about 87-kilometers high, excited by ultraviolet light from the Sun, while orange and green airglow is likely caused by sodium and oxygen atoms slightly higher up. While driving near Keluke Lake in Qinghai Provence in China a few years ago, the photographer originally noticed mainly the impressive central band of the Milky Way Galaxy. Stopping to photograph it, surprisingly, the resulting sensitive camera image showed airglow bands to be quite prominent and span the entire sky. The featured image has been digitally enhanced to make the colors more vibrant.",
-      "image": {
-        "src": "data/images/cda30578f6e0d297.jpg",
-        "alt": "Colorful Airglow Bands Surround Milky Way",
-        "credit": "© Xiaohan Wang"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap220313.html",
-        "trustTier": "encyclopedic",
-        "date": "2022-03-13"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:26.728Z",
-      "hash": "1e519dd15f38377b"
-    },
-    {
-      "id": "apod:2022-07-19",
-      "type": "space",
-      "title": "Pleiades over Half Dome",
-      "summary": "Stars come in bunches. The most famous bunch of stars on the sky is the Pleiades, a bright cluster that can be easily seen with the unaided eye. The Pleiades lies only about 450 light years away, formed about 100 million years ago, and will likely last about another 250 million years. Our Sun was likely born in a…",
-      "body": "Stars come in bunches. The most famous bunch of stars on the sky is the Pleiades, a bright cluster that can be easily seen with the unaided eye. The Pleiades lies only about 450 light years away, formed about 100 million years ago, and will likely last about another 250 million years. Our Sun was likely born in a star cluster, but now, being about 4.5 billion years old, its stellar birth companions have long since dispersed. The Pleiades star cluster is pictured over Half Dome, a famous rock structure in Yosemite National Park in California, USA. The featured image is a composite of 28 foreground exposures and 174 images of the stellar background, all taken from the same location and by the same camera on the same night in October 2019. After calculating the timing of a future juxtaposition of the Pleiades and Half Dome, the astrophotrographer was unexpectedly rewarded by an electrical blackout, making the background sky unusually dark.",
-      "image": {
-        "src": "data/images/de504da7760334ee.jpg",
-        "alt": "Pleiades over Half Dome",
-        "credit": "© Dheera Venkatraman"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap220719.html",
-        "trustTier": "encyclopedic",
-        "date": "2022-07-19"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:26.728Z",
-      "hash": "5de883fc6e66427e"
-    },
-    {
-      "id": "apod:2023-11-05",
-      "type": "space",
-      "title": "Creature Aurora Over Norway",
-      "summary": "It was Halloween and the sky looked like a creature. Exactly which creature, the astrophotographer was unsure (but possibly you can suggest one). Exactly what caused this eerie apparition in 2013 was sure: one of the best auroral displays that year. This spectacular aurora had an unusually high degree of detail.…",
-      "body": "It was Halloween and the sky looked like a creature. Exactly which creature, the astrophotographer was unsure (but possibly you can suggest one). Exactly what caused this eerie apparition in 2013 was sure: one of the best auroral displays that year. This spectacular aurora had an unusually high degree of detail. Pictured here, the vivid green and purple auroral colors are caused by high atmospheric oxygen and nitrogen reacting to a burst of incoming electrons. Birch trees in Tromsø, Norway formed an also eerie foreground. Frequently, new photogenic auroras accompany new geomagnetic storms. Almost Hyperspace: Random APOD Generator",
-      "image": {
-        "src": "data/images/facfeea3d81b48d7.jpg",
-        "alt": "Creature Aurora Over Norway",
-        "credit": "© Ole C. Salomonsen (Arctic Light Photo)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap231105.html",
-        "trustTier": "encyclopedic",
-        "date": "2023-11-05"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:26.728Z",
-      "hash": "05b811aa86d12791"
-    },
-    {
-      "id": "onthisday:06-18:2012:6941285c18730c3a",
-      "type": "history",
-      "title": "2012: Salman of Saudi Arabia",
-      "summary": "Salman bin Abdulaziz Al Saud was appointed the crown prince of Saudi Arabia.",
-      "body": "Salman bin Abdulaziz Al Saud was appointed the crown prince of Saudi Arabia.",
-      "image": {
-        "src": "data/images/37ca1fbc1f69ae37.jpg",
-        "alt": "Salman of Saudi Arabia",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia",
-        "trustTier": "encyclopedic",
-        "date": "06-18"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:25.840Z",
-      "hash": "ab3ffe3e24ffc571",
-      "expires": "2026-06-21T11:53:25.840Z"
-    },
-    {
-      "id": "onthisday:06-18:1940:975bc4a0ffc176c3",
-      "type": "history",
-      "title": "1940: World War II",
-      "summary": "World War II: Charles de Gaulle gave his Appeal of 18 June speech, often considered to be the origin of the French Resistance.",
-      "body": "World War II: Charles de Gaulle gave his Appeal of 18 June speech, often considered to be the origin of the French Resistance.",
-      "image": {
-        "src": "data/images/33a41211a19cafb8.jpg",
-        "alt": "World War II",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/World_War_II",
-        "trustTier": "encyclopedic",
-        "date": "06-18"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:25.840Z",
-      "hash": "8ca12e1c9e7ebb6a",
-      "expires": "2026-06-21T11:53:25.840Z"
-    },
-    {
-      "id": "wikipedia:3558661",
-      "type": "wiki",
-      "title": "Kevin Betsy",
-      "summary": "Kevin Eddie Lewis Betsy is a football coach and a former professional footballer having played at the Championship level, briefly in the Premier League, and for the Seychelles national team. Betsy is currently the first team development coach at championship club Queens Park Rangers.",
-      "body": "Kevin Eddie Lewis Betsy is a football coach and a former professional footballer having played at the Championship level, briefly in the Premier League, and for the Seychelles national team. Betsy is currently the first team development coach at championship club Queens Park Rangers.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Kevin_Betsy",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:24.700Z",
-      "hash": "7db731745b1aa2c4"
-    },
-    {
-      "id": "wikipedia:1147293",
-      "type": "wiki",
-      "title": "John Spencer (actor)",
-      "summary": "John Spencer was an American actor. He was best known for his role as Leo McGarry on the NBC political drama series The West Wing (1999–2006) and for his role as attorney Tommy Mullaney in NBC legal drama series L.A. Law (1990–1994). His performance on The West Wing earned him a Primetime Emmy Award in 2002, out of…",
-      "body": "John Spencer was an American actor. He was best known for his role as Leo McGarry on the NBC political drama series The West Wing (1999–2006) and for his role as attorney Tommy Mullaney in NBC legal drama series L.A. Law (1990–1994). His performance on The West Wing earned him a Primetime Emmy Award in 2002, out of five total nominations.",
-      "image": {
-        "src": "data/images/91e4f902e79446d9.jpg",
-        "alt": "John Spencer (actor)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/John_Spencer_(actor)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:24.385Z",
-      "hash": "8935f8f42c0d9649"
-    },
-    {
-      "id": "wikipedia:52173797",
-      "type": "wiki",
-      "title": "Fool, I'm a Woman",
-      "summary": "\"Fool, I'm a Woman\" is a song co-written and recorded by American country music singer Sara Evans. It was released in April 1999 as the third single from her album No Place That Far. The song reached No. 32 on the Billboard Hot Country Singles & Tracks chart. Evans wrote the song with Matraca Berg, and Martina…",
-      "body": "\"Fool, I'm a Woman\" is a song co-written and recorded by American country music singer Sara Evans. It was released in April 1999 as the third single from her album No Place That Far. The song reached No. 32 on the Billboard Hot Country Singles & Tracks chart. Evans wrote the song with Matraca Berg, and Martina McBride provides backing vocals.",
-      "image": {
-        "src": "data/images/e5b96654784f26e5.jpg",
-        "alt": "Fool, I'm a Woman",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Fool%2C_I'm_a_Woman",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:24.220Z",
-      "hash": "9d4956b7ca1de988"
-    },
-    {
-      "id": "wikipedia:10193761",
-      "type": "wiki",
-      "title": "Textile recycling",
-      "summary": "Textile recycling is the process of recovering fiber, yarn, or fabric and reprocessing the material into new, useful products. Textile waste is split into pre-consumer and post-consumer waste and is sorted into five different categories derived from a pyramid model. Textiles can be either reused or…",
-      "body": "Textile recycling is the process of recovering fiber, yarn, or fabric and reprocessing the material into new, useful products. Textile waste is split into pre-consumer and post-consumer waste and is sorted into five different categories derived from a pyramid model. Textiles can be either reused or mechanically/chemically recycled.",
-      "image": {
-        "src": "data/images/0116e3e9cf4e3e2b.jpg",
-        "alt": "Textile recycling",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Textile_recycling",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-18T11:53:24.067Z",
-      "hash": "73f95afb598a505e"
-    },
-    {
-      "id": "game:ae4ba9b56b66a710",
-      "type": "game",
-      "title": "Rockstar suffers legal blow in union busting dispute as trial date set",
-      "summary": "The decision means fired union workers will be able to bring blacklisting claims against the studio at trial later this year.",
-      "body": "The decision means fired union workers will be able to bring blacklisting claims against the studio at trial later this year.",
-      "image": {
-        "src": "data/images/2013e0595393c2d2.png",
-        "alt": "Rockstar suffers legal blow in union busting dispute as trial date set",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/rockstar-suffers-legal-blow-in-union-busting-dispute-as-trial-date-set",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Wed, 17 Jun 2026 13:30:3"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-17T18:02:08.366Z",
-      "hash": "ae4ba9b56b66a710",
-      "expires": "2026-09-15T18:02:08.366Z"
-    },
-    {
-      "id": "game:9e15fe64d697837b",
-      "type": "game",
-      "title": "Returnal director will be 'responsibly ambitious' to ensure his new studio prospers",
-      "summary": "The Housemarque veteran explains how he intends to break new ground while remaining 'lean and mean'—and yes, that might involve the use of generative AI.",
-      "body": "The Housemarque veteran explains how he intends to break new ground while remaining 'lean and mean'—and yes, that might involve the use of generative AI.",
-      "image": {
-        "src": "data/images/b6b46586154ded57.png",
-        "alt": "Returnal director will be 'responsibly ambitious' to ensure his new studio prospers",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/production/-the-game-is-the-boss-returnal-director-harry-krueger-wants-his-new-studio-to-live-forever",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Wed, 17 Jun 2026 14:29:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-17T18:02:08.366Z",
-      "hash": "9e15fe64d697837b",
-      "expires": "2026-09-15T18:02:08.366Z"
-    },
-    {
-      "id": "game:5c6236a374631674",
-      "type": "game",
-      "title": "Report: Xbox was set on splitting with Ninja Theory when unveiling its new project",
-      "summary": "Microsoft reportedly had already planned to sunset or split with Ninja Theory while presenting Senua during the latest showcase.",
-      "body": "Microsoft reportedly had already planned to sunset or split with Ninja Theory while presenting Senua during the latest showcase.",
-      "image": {
-        "src": "data/images/a0452762029fb878.png",
-        "alt": "Report: Xbox was set on splitting with Ninja Theory when unveiling its new project",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/report-xbox-was-set-on-splitting-with-ninja-theory-when-showing-its-new-project",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Wed, 17 Jun 2026 15:34:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-17T18:02:08.365Z",
-      "hash": "5c6236a374631674",
-      "expires": "2026-09-15T18:02:08.365Z"
     },
     {
       "id": "curated:handwriting-beats-typing",

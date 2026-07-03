@@ -1,7 +1,1140 @@
 {
-  "generatedAt": "2026-07-02T10:46:10.364Z",
+  "generatedAt": "2026-07-03T10:41:26.264Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:6RJoQ",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 2023. Find the best line for black.",
+      "body": "Solution, from → to: c4→a4, a5→a4, d3→c5, a4→a5, b8→b5. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "1r4k1/5pp1/b4B2/K2p4/2r5/P2n1Q1P/5P2/6RR b - - 1 1",
+        "lastMove": "a4a5"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/6RJoQ",
+        "trustTier": "community",
+        "date": "Fri, 03 Jul 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "middlegame",
+        "operamate",
+        "vukovicmate",
+        "attraction"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-07-03T10:41:20.892Z",
+      "hash": "e505985f3ff6c11c"
+    },
+    {
+      "id": "trivia:dcd80894f945db04",
+      "type": "trivia",
+      "title": "Which of these is NOT the name of an album released by Miami-based producer DJ Khaled?",
+      "summary": "Is it: Suffering From Success · I Changed A Lot · Don't Ever Play Yourself · Major Key?",
+      "body": "Answer: Don't Ever Play Yourself.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:41:18.347Z",
+      "hash": "dcd80894f945db04"
+    },
+    {
+      "id": "trivia:a454842ab7db4497",
+      "type": "trivia",
+      "title": "Dracula is destroyed by contact with sunlight",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "books"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:41:18.347Z",
+      "hash": "a454842ab7db4497"
+    },
+    {
+      "id": "trivia:2c2abdee88fd2209",
+      "type": "trivia",
+      "title": "The four strings on a violin are the G string, D string, A string, and...",
+      "summary": "Is it: B string · E string · C string · F string?",
+      "body": "Answer: E string.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:41:18.346Z",
+      "hash": "2c2abdee88fd2209"
+    },
+    {
+      "id": "trivia:6ffa4144df883cd5",
+      "type": "trivia",
+      "title": "What was the first interactive movie video game?",
+      "summary": "Is it: M.A.C.H. 3 · Dragon's Lair · Cube Quest · Astron Belt?",
+      "body": "Answer: Astron Belt.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:41:18.346Z",
+      "hash": "6ffa4144df883cd5"
+    },
+    {
+      "id": "comic:smbc:e928c938306a3f04",
+      "type": "comic",
+      "title": "Adult",
+      "summary": "They still scrape parmesan on it till you say when, though.",
+      "image": {
+        "src": "data/images/7ec22fc3374685f7.png",
+        "alt": "They still scrape parmesan on it till you say when, though.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/adult-3",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Thu, 02 Jul 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-03T10:41:09.794Z",
+      "hash": "e928c938306a3f04"
+    },
+    {
+      "id": "comic:xkcd:3043",
+      "type": "comic",
+      "title": "Muons",
+      "summary": "Update: I've been banned from the physics department for the way I pronounce \"Doppler effect.\"",
+      "image": {
+        "src": "data/images/154687c869457614.png",
+        "alt": "Update: I've been banned from the physics department for the way I pronounce \"Doppler effect.\"",
+        "credit": "xkcd #3043 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3043/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2025-01-27"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-03T10:41:09.598Z",
+      "hash": "8fcfaca56e146d21"
+    },
+    {
+      "id": "craft:0869ba45474f9c1c",
+      "type": "craft",
+      "title": "Guimi You’s Atmospheric Oil Paintings Delve into Memory, Introspection, and Rediscovery",
+      "summary": "The Seoul-based artist's lush paintings have an aura of wistfulness and quietude.",
+      "body": "The Seoul-based artist's lush paintings have an aura of wistfulness and quietude.",
+      "image": {
+        "src": "data/images/b10e8c6ee186d061.jpg",
+        "alt": "Guimi You’s Atmospheric Oil Paintings Delve into Memory, Introspection, and Rediscovery",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/07/guimi-you-oil-paintings-memory-creativity/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Wed, 01 Jul 2026 16:00:0"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "guimi you",
+        "landscapes",
+        "painting",
+        "still life"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:41:09.420Z",
+      "hash": "0869ba45474f9c1c"
+    },
+    {
+      "id": "craft:2e4296bd19d0cfb5",
+      "type": "craft",
+      "title": "Theo Bosboom Takes a Bug’s-Eye View in His Perspective-Shifting ‘Flowerscapes’",
+      "summary": "Imagine being a beetle and looking up at a forest of flowers.",
+      "body": "Imagine being a beetle and looking up at a forest of flowers.",
+      "image": {
+        "src": "data/images/649669c7186fbec2.jpg",
+        "alt": "Theo Bosboom Takes a Bug’s-Eye View in His Perspective-Shifting ‘Flowerscapes’",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/07/theo-bosboom-flowerscapes-bugs-eye-view-photography/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Wed, 01 Jul 2026 13:18:5"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "nature",
+        "photography",
+        "flowers",
+        "forests",
+        "insects",
+        "netherlands",
+        "plants"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:41:09.420Z",
+      "hash": "2e4296bd19d0cfb5"
+    },
+    {
+      "id": "word:9446ae7742ed7ca7",
+      "type": "word",
+      "title": "anagnorisis",
+      "summary": "Noun: The moment in the plot of a drama in which the hero makes a discovery that explains previously unexplained events or situations; a denouement.",
+      "body": "1. The moment in the plot of a drama in which the hero makes a discovery that explains previously unexplained events or situations; a denouement.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/anagnorisis",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:41:09.106Z",
+      "hash": "9446ae7742ed7ca7"
+    },
+    {
+      "id": "word:9cb9ec4e6a25c900",
+      "type": "word",
+      "title": "petrichor",
+      "summary": "Noun: The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.",
+      "body": "1. The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.\n2. The yellow organic oil that yields this scent.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/petrichor",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:41:08.590Z",
+      "hash": "9cb9ec4e6a25c900"
+    },
+    {
+      "id": "quote:15abfd465217dc39",
+      "type": "quote",
+      "title": "“Success is never final, failure is never fatal. It's courage that counts.”",
+      "summary": "— John Wooden",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/John_Wooden",
+        "trustTier": "community",
+        "author": "John Wooden"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:41:07.824Z",
+      "hash": "15abfd465217dc39"
+    },
+    {
+      "id": "quote:af26b074e07d28ee",
+      "type": "quote",
+      "title": "“A hopeless man is a very desperate and dangerous man, almost a dead man.”",
+      "summary": "— Robert F. Kennedy",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Robert_F._Kennedy",
+        "trustTier": "community",
+        "author": "Robert F. Kennedy"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:41:07.824Z",
+      "hash": "af26b074e07d28ee"
+    },
+    {
+      "id": "quote:98ce4527c1c68e59",
+      "type": "quote",
+      "title": "“If I love myself I love you. If I love you I love myself.”",
+      "summary": "— Rumi",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Rumi",
+        "trustTier": "community",
+        "author": "Rumi"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:41:07.824Z",
+      "hash": "98ce4527c1c68e59"
+    },
+    {
+      "id": "article:6c57266401b6bc71",
+      "type": "article",
+      "title": "As it was foretold: the Trump regime gutted the NOAA and...",
+      "summary": "As it was foretold: the Trump regime gutted the NOAA and now weather forecasts are less accurate. An atmospheric scientist: “The forecasts I’m able to offer you are less accurate than they would otherwise be.”",
+      "body": "As it was foretold: the Trump regime gutted the NOAA and now weather forecasts are less accurate. An atmospheric scientist: “The forecasts I’m able to offer you are less accurate than they would otherwise be.”",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/07/0049254--weather-forecasts-are-le",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-07-02T19:25:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:41:01.320Z",
+      "hash": "6c57266401b6bc71"
+    },
+    {
+      "id": "article:3003101bc76132bc",
+      "type": "article",
+      "title": "Something for the digital crate-diggers: The 40 Best...",
+      "summary": "Something for the digital crate-diggers: The 40 Best Albums From the Last 40 Years That You Probably Didn’t Hear (But Should’ve). I’d only heard of one or two these…",
+      "body": "Something for the digital crate-diggers: The 40 Best Albums From the Last 40 Years That You Probably Didn’t Hear (But Should’ve). I’d only heard of one or two these…",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/07/0049251-the-40-best-albums-from-t",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-07-02T18:45:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:41:01.320Z",
+      "hash": "3003101bc76132bc"
+    },
+    {
+      "id": "article:2801de7c71baafc0",
+      "type": "article",
+      "title": "Here’s How Mosquitoes Survive the Deadly Viruses They Transmit",
+      "summary": "Tamped-down viral action keeps the mosquito vectors alive until they infect humans The post Here’s How Mosquitoes Survive the Deadly Viruses They Transmit appeared first on Nautilus.",
+      "body": "Tamped-down viral action keeps the mosquito vectors alive until they infect humans The post Here’s How Mosquitoes Survive the Deadly Viruses They Transmit appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/9c5110369043f8fc.png",
+        "alt": "Here’s How Mosquitoes Survive the Deadly Viruses They Transmit",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/heres-how-mosquitoes-survive-the-deadly-viruses-they-transmit-1282440/",
+        "trustTier": "publication",
+        "author": "Devin Reese",
+        "date": "Thu, 02 Jul 2026 22:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "microbiology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:41:00.281Z",
+      "hash": "2801de7c71baafc0"
+    },
+    {
+      "id": "article:34beb18839638b9c",
+      "type": "article",
+      "title": "Massachusetts Set to Extend Statute of Limitations for Rape Cases With DNA Evidence",
+      "summary": "The post Massachusetts Set to Extend Statute of Limitations for Rape Cases With DNA Evidence appeared first on ProPublica.",
+      "body": "The post Massachusetts Set to Extend Statute of Limitations for Rape Cases With DNA Evidence appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/962a97119ff975a4.jpg",
+        "alt": "Massachusetts Set to Extend Statute of Limitations for Rape Cases With DNA Evidence",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/rape-statute-limitations-dna-evidence-massachusetts",
+        "trustTier": "publication",
+        "author": "Willoughby Mariano",
+        "date": "Thu, 02 Jul 2026 20:50:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "criminal justice"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:40:59.639Z",
+      "hash": "34beb18839638b9c",
+      "expires": "2026-10-01T10:40:59.639Z"
+    },
+    {
+      "id": "article:94aaba2881ef546d",
+      "type": "article",
+      "title": "Tomb of Dai Anga in Lahore, Pakistan",
+      "summary": "Tucked away behind the bustling Grand Trunk Road and modern railway lines in Lahore lies the Tomb of Dai Anga, a brilliant but frequently overlooked piece of Mughal heritage. Built in 1671, this mausoleum belongs to Zeb-un-Nisa, popularly known as Dai Anga, who was the wet nurse of Emperor Shah…",
+      "body": "Tucked away behind the bustling Grand Trunk Road and modern railway lines in Lahore lies the Tomb of Dai Anga, a brilliant but frequently overlooked piece of Mughal heritage. Built in 1671, this mausoleum belongs to Zeb-un-Nisa, popularly known as Dai Anga, who was the wet nurse of Emperor Shah Jahan and a woman of significant wealth and influence in the royal court. Architectural enthusiasts will marvel at the structure's brilliant, albeit fading, Kashi-kari (mosaic tile work) featuring intricate floral patterns and rich turquoise hues that contrast beautifully with the surrounding urban…",
+      "image": {
+        "src": "data/images/83c00e4535e5300d.webp",
+        "alt": "Tomb of Dai Anga in Lahore, Pakistan",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/tomb-of-dai-anga",
+        "trustTier": "publication",
+        "date": "Wed, 01 Jul 2026 14:00:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history",
+        "mausoleums",
+        "tombs"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:40:59.389Z",
+      "hash": "94aaba2881ef546d"
+    },
+    {
+      "id": "article:a9f8fb983b67f1ac",
+      "type": "article",
+      "title": "Abyss",
+      "summary": "The testimonies of Ukraine’s war widows reveal the mortal risk of love and the possibility of dying while alive: a black pain- by Julie ResheRead on Aeon",
+      "body": "The testimonies of Ukraine’s war widows reveal the mortal risk of love and the possibility of dying while alive: a black pain- by Julie ResheRead on Aeon",
+      "image": {
+        "src": "data/images/5b06aa107b26d999.jpg",
+        "alt": "Abyss",
+        "credit": "Aeon"
+      },
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/essays/what-ukrainian-war-widows-know-about-love-and-loss",
+        "trustTier": "publication",
+        "author": "Julie Reshe",
+        "date": "Fri, 03 Jul 2026 10:00:0"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "philosophy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:40:58.077Z",
+      "hash": "a9f8fb983b67f1ac"
+    },
+    {
+      "id": "greek:d6ec919479d8a208",
+      "type": "greek",
+      "title": "λέγω",
+      "summary": "λέγω — “I say, speak” · verb",
+      "body": "Note: regular -ω verb; 3sg λέγει\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BB%CE%AD%CE%B3%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:57.953Z",
+      "hash": "d6ec919479d8a208"
+    },
+    {
+      "id": "greek:a3fb4baa29941699",
+      "type": "greek",
+      "title": "ἀγαθός",
+      "summary": "ἀγαθός, -ή, -όν — “good” · adjective",
+      "body": "Note: declines like 2-1-2 (masc 2nd / fem 1st / neut 2nd)\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%B1%CE%B8%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "adjective"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:57.953Z",
+      "hash": "a3fb4baa29941699"
+    },
+    {
+      "id": "greek:ec392a324cacf7b1",
+      "type": "greek",
+      "title": "καί",
+      "summary": "καί — “and, also” · conjunction",
+      "body": "Note: can also mean \"even\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BA%CE%B1%CE%AF#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "conjunction",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-03T10:40:57.953Z",
+      "hash": "ec392a324cacf7b1"
+    },
+    {
+      "id": "greek:a689ab4aaac40b73",
+      "type": "greek",
+      "title": "κύριος",
+      "summary": "κύριος — “Lord” · noun",
+      "body": "Note: ὁ κύριος; also \"master, sir\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BA%CF%8D%CF%81%CE%B9%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:57.953Z",
+      "hash": "a689ab4aaac40b73"
+    },
+    {
+      "id": "poetry:0dbc5cd71f72dd25",
+      "type": "poem",
+      "title": "A Wall",
+      "summary": "O the old wall here! How I could pass\n  Life in a long midsummer day,\nMy feet confined to a plot of grass,\n  My eyes from a wall not once away!",
+      "body": "O the old wall here! How I could pass\n  Life in a long midsummer day,\nMy feet confined to a plot of grass,\n  My eyes from a wall not once away!\n\nAnd lush and lithe do the creepers clothe\n  Yon wall I watch, with a wealth of green:\nIts bald red bricks draped, nothing loath,\n  In lappets of tangle they laugh between.\n\nNow, what is it makes pulsate the robe?\n  Why tremble the sprays? What life o'erbrims\nThe body,--the house no eye can probe,--\n  Divined, as beneath a robe, the limbs?\n\nAnd there again! But my heart may guess\n  Who tripped behind; and she sang, perhaps:\nSo the old wall throbbed, and its life's excess\n  Died out and away in the leafy wraps.\n\nWall upon wall are between us: life\n  And song should away from heart to heart!\nI--prison-bird, with a ruddy strife\n  At breast, and a lip whence storm-notes start--\n\nHold on, hope hard in the subtle thing\n  That's spirit: tho' cloistered fast, soar free;\nAccount as wood, brick, stone, this ring\n  Of the rueful neighbours, and--forth to thee!",
+      "source": {
+        "name": "Robert Browning · PoetryDB",
+        "url": "https://poetrydb.org/title/A%20Wall",
+        "trustTier": "community",
+        "author": "Robert Browning"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:40:57.951Z",
+      "hash": "0dbc5cd71f72dd25"
+    },
+    {
+      "id": "poetry:0ea9e7b525f58c4e",
+      "type": "poem",
+      "title": "Encouragement",
+      "summary": "WHO dat knockin' at de do'?\nWhy, Ike Johnson, -- yes, fu' sho!\nCome in, Ike. I's mighty glad\nYou come down. I t'ought you's",
+      "body": "WHO dat knockin' at de do'?\nWhy, Ike Johnson, -- yes, fu' sho!\nCome in, Ike. I's mighty glad\nYou come down. I t'ought you's\nmad\nAt me 'bout de othah night,\nAn' was stayin' 'way fu' spite.\nSay, now, was you mad fu' true\nW'en I kin' o' laughed at you?\nSpeak up, Ike, an' 'spress yo'se'f.\n\n'T ain't no use a-lookin' sad,\nAn' a-mekin' out you's mad;\nEf you's gwine to be so glum,\nWondah why you evah come.\nI don't lak nobody 'roun'\nDat jes' shet dey mouf an' frown,--\nOh, now, man, don't act a dunce!\nCain't you talk? I tol' you once,\nSpeak up, Ike, an' 'spress yo'se'f.\n\nWha'd you come hyeah fu' to-night?\nBody'd t'ink yo' haid ain't right.\nI's done all dat I kin do,--\nDressed perticler, jes' fu' you;\nReckon I'd 'a' bettah wo'\nMy ol' ragged calico.\nAftah all de pains I's took,\nCain't you tell me how I look?\nSpeak up, Ike, an' 'spress yo'se'f.\n\nBless my soul! I 'mos' fu'got\nTellin' you 'bout Tildy Scott.\nDon't you know, come Thu'sday\nnight,\nShe gwine ma'y Lucius White?\nMiss Lize say I allus wuh\nHeap sight laklier 'n huh;\nAn' she'll git me somep'n new,\nEf I wants to ma'y too.\nSpeak up, Ike, an' 'spress yo'se'f.\n\nI could ma'y in a week,\nEf de man I wants 'ud speak.\nTildy's presents'll be fine,\nBut dey would n't ekal mine.\nHim whut gits me fu' a wife\n'Ll be proud, you bet yo' life.\nI's had offers; some ain't quit;\nBut I has n't ma'ied yit!\nSpeak up, Ike, an' 'spress yo'se'f.\n\nIke, I loves you,--yes, I does;\nYou's my choice, and allus was.\nLaffin' at you ain't no harm.--\nGo 'way, dahky, whaih's yo' arm?\nHug me closer--dah, dat's right!\nWas n't you a awful sight,\nHavin' me to baig you so?\nNow ax whut you want to know,--\nSpeak up, Ike, an' 'spress yo'se'f!",
+      "source": {
+        "name": "Paul Laurence Dunbar · PoetryDB",
+        "url": "https://poetrydb.org/title/Encouragement",
+        "trustTier": "community",
+        "author": "Paul Laurence Dunbar"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-03T10:40:57.951Z",
+      "hash": "0ea9e7b525f58c4e"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399940101-0",
+      "type": "art",
+      "title": "Design for Wallpaper and Textiles: Flowers",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1800s · Design drawings",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1800s · Design drawings",
+      "image": {
+        "src": "data/images/475415300b24b4db.jpg",
+        "alt": "Design for Wallpaper and Textiles: Flowers",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/141199",
+        "trustTier": "encyclopedic",
+        "date": "1800s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "flower",
+        "design drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-03T10:40:57.658Z",
+      "hash": "151c267624cbfe7b"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399899056-2",
+      "type": "art",
+      "title": "Interior Wall Elevation with a Bed",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1770s · Prints",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1770s · Prints",
+      "image": {
+        "src": "data/images/845c6f18875a668b.jpg",
+        "alt": "Interior Wall Elevation with a Bed",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/33850",
+        "trustTier": "encyclopedic",
+        "date": "1770s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "flower",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-03T10:40:57.658Z",
+      "hash": "9c8eb4ef1b521790"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399896623-0",
+      "type": "art",
+      "title": "Designs for Chinoiserie Flowers",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1760s · Bound print",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1760s · Bound print",
+      "image": {
+        "src": "data/images/b9b52b17f27a9889.jpg",
+        "alt": "Designs for Chinoiserie Flowers",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/26893",
+        "trustTier": "encyclopedic",
+        "date": "1760s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "flower",
+        "bound print"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-03T10:40:57.658Z",
+      "hash": "91fdd0faa6c9ad0f"
+    },
+    {
+      "id": "met:23017",
+      "type": "art",
+      "title": "Kris with Sheath, the hilt representing Batara Bayu",
+      "summary": "Unknown artist · 19th century · Steel, wood, gold, semiprecious stones",
+      "body": "Unknown artist · 19th century · Steel, wood, gold, semiprecious stones\nFletcher Fund, 1928\nArms and Armor",
+      "image": {
+        "src": "data/images/63bf8062754237d6.jpg",
+        "alt": "Kris with Sheath, the hilt representing Batara Bayu",
+        "credit": "The Met · Fletcher Fund, 1928"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/23017",
+        "trustTier": "encyclopedic",
+        "date": "19th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "storm",
+        "krisses"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-03T10:40:55.760Z",
+      "hash": "7fa7668ab2b0c4cd"
+    },
+    {
+      "id": "met:340441",
+      "type": "art",
+      "title": "Apparition of Christ (recto); Printed Fragment with Jupiter Enthroned with Eagle, from Caraglio's \"Martyrdom of Saint Peter and Saint Paul\" (verso)",
+      "summary": "Parmigianino (Girolamo Francesco Maria Mazzola) · 1524–27 · Pen and brown ink, brush and gray-brown wash, over traces of leadpoint and some stylus ruling (recto); printed Jupiter enthroned with attendant eagle (verso)",
+      "body": "Parmigianino (Girolamo Francesco Maria Mazzola) · 1524–27 · Pen and brown ink, brush and gray-brown wash, over traces of leadpoint and some stylus ruling (recto); printed Jupiter enthroned with attendant eagle (verso)\nRogers Fund, 1965\nDrawings and Prints",
+      "image": {
+        "src": "data/images/2eb0bb6e165ee9ae.jpg",
+        "alt": "Apparition of Christ (recto); Printed Fragment with Jupiter Enthroned with Eagle, from Caraglio's \"Martyrdom of Saint Peter and Saint Paul\" (verso)",
+        "credit": "The Met · Rogers Fund, 1965"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/340441",
+        "trustTier": "encyclopedic",
+        "author": "Parmigianino (Girolamo Francesco Maria Mazzola)",
+        "date": "1524–27"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "storm",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-03T10:40:55.468Z",
+      "hash": "563cdf74ad78edc1"
+    },
+    {
+      "id": "met:285964",
+      "type": "art",
+      "title": "[Patient, Surrey County Lunatic Asylum]",
+      "summary": "Hugh Welch Diamond · 1850–55 · Albumen silver print from glass negative",
+      "body": "Hugh Welch Diamond · 1850–55 · Albumen silver print from glass negative\nGilman Collection, Purchase, Anonymous Gifts, by exchange, 2005\nPhotographs",
+      "image": {
+        "src": "data/images/978a961e936045aa.jpg",
+        "alt": "[Patient, Surrey County Lunatic Asylum]",
+        "credit": "The Met · Gilman Collection, Purchase, Anonymous Gifts, by exchange, 2005"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/285964",
+        "trustTier": "encyclopedic",
+        "author": "Hugh Welch Diamond",
+        "date": "1850–55"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "storm",
+        "photographs"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-03T10:40:55.226Z",
+      "hash": "a3dfea0570d12ec1"
+    },
+    {
+      "id": "apod:1997-06-25",
+      "type": "space",
+      "title": "A GRB Host?",
+      "summary": "Where do gamma-ray bursts (GRBs) originate? The most powerful explosions in the universe have recently been located with record accuracy. But do GRBs occur in galaxies or out alone in deep space? This picture taken with the Hubble Space Telescope of the field surrounding GRB 970228 might provide a clue. It appears to…",
+      "body": "Where do gamma-ray bursts (GRBs) originate? The most powerful explosions in the universe have recently been located with record accuracy. But do GRBs occur in galaxies or out alone in deep space? This picture taken with the Hubble Space Telescope of the field surrounding GRB 970228 might provide a clue. It appears to show an extended structure to the lower right of the GRB, which is identified with an arrow. Many astronomers speculate that this extended structure is a distant galaxy, as its colors and subsequent steady emission indicate. Other astronomers worry that the extended emission is variable and so cannot be a galaxy. Astronomers hoping for more cases to study were rewarded just last Monday with a new, well-located event: GRB 970616. The location of this burst was determined by an unprecedented collaboration involving the tandem use of NASA satellites Compton, Ulysses and Rossi.",
+      "image": {
+        "src": "data/images/38db001c51340ba0.jpg",
+        "alt": "A GRB Host?",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap970625.html",
+        "trustTier": "encyclopedic",
+        "date": "1997-06-25"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:55.040Z",
+      "hash": "325400925831d01e"
+    },
+    {
+      "id": "apod:2025-08-07",
+      "type": "space",
+      "title": "The Double Cluster in Perseus",
+      "summary": "This stunning starfield spans about three full moons (1.5 degrees) across the heroic northern constellation of Perseus. It holds the famous pair of open star clusters, h and Chi Persei. Also cataloged as NGC 869 (right) and NGC 884, both clusters are about 7,000 light-years away and contain stars much younger and…",
+      "body": "This stunning starfield spans about three full moons (1.5 degrees) across the heroic northern constellation of Perseus. It holds the famous pair of open star clusters, h and Chi Persei. Also cataloged as NGC 869 (right) and NGC 884, both clusters are about 7,000 light-years away and contain stars much younger and hotter than the Sun. Separated by only a few hundred light-years, the clusters are both 13 million years young based on the ages of their individual stars, evidence that both clusters were likely a product of the same star-forming region. Always a rewarding sight in binoculars or small telescopes, the Double Cluster is even visible to the unaided eye from dark locations.",
+      "image": {
+        "src": "data/images/f92740441dd74eab.jpg",
+        "alt": "The Double Cluster in Perseus",
+        "credit": "© Ron Brecher"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap250807.html",
+        "trustTier": "encyclopedic",
+        "date": "2025-08-07"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:55.040Z",
+      "hash": "5389cd4fcf65ebaf"
+    },
+    {
+      "id": "apod:2025-11-15",
+      "type": "space",
+      "title": "Andromeda and Friends",
+      "summary": "This magnificent extragalactic skyscape looks toward the Andromeda Galaxy, the closest large spiral galaxy to the Milky Way. It also accomplishes a Messier catalog trifecta by including Andromeda, cataloged as Messier 31 (M31), along with Messier 32 (M32), and Messier 110 (M110) in the same telescopic field of view.…",
+      "body": "This magnificent extragalactic skyscape looks toward the Andromeda Galaxy, the closest large spiral galaxy to the Milky Way. It also accomplishes a Messier catalog trifecta by including Andromeda, cataloged as Messier 31 (M31), along with Messier 32 (M32), and Messier 110 (M110) in the same telescopic field of view. In this frame, M32 is just left of the Andromeda Galaxy's bright core with M110 below and to the right. M32 and M110 are both elliptical galaxies themselves and satellites of the larger spiral Andromeda. By combining 60 hours of broadband and narrowband image data, the deep telescopic view also reveals tantalizing details of dust lanes, young star clusters, and star-forming regions along Andromeda's spiral arms, and faint, foreground clouds of glowing hydrogen gas. For now, Andromeda and friends are some 2.5 million light-years from our own large spiral Milky Way. Fun Fact: It has been 11,111 days since APOD was founded.",
+      "image": {
+        "src": "data/images/c576a28c08bfe4be.jpg",
+        "alt": "Andromeda and Friends",
+        "credit": "© Piotr Czerski"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap251115.html",
+        "trustTier": "encyclopedic",
+        "date": "2025-11-15"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:55.040Z",
+      "hash": "c4a4c82cb51a9e55"
+    },
+    {
+      "id": "apod:2020-04-16",
+      "type": "space",
+      "title": "Comet ATLAS Breaks Up",
+      "summary": "Cruising through the inner solar system, Comet ATLAS (C/2019 Y4) has apparently fragmented. Multiple separate condensations within its diffuse coma are visible in this telescopic close-up from April 12, composed of frames tracking the comet's motion against trailing background stars. Discovered at the end of December…",
+      "body": "Cruising through the inner solar system, Comet ATLAS (C/2019 Y4) has apparently fragmented. Multiple separate condensations within its diffuse coma are visible in this telescopic close-up from April 12, composed of frames tracking the comet's motion against trailing background stars. Discovered at the end of December 2019, this comet ATLAS showed a remarkably rapid increase in brightness in late March. Northern hemisphere comet watchers held out hope that it would become a bright naked-eye comet as it came closer to Earth in late April and May. But fragmenting ATLAS is slowly fading in northern skies. The breakup of comets is not uncommon though. This comet ATLAS is in an orbit similar to the Great Comet of 1844 (C/1844 Y1) and both may be fragments of a single larger comet.",
+      "image": {
+        "src": "data/images/3d2e7d6295b35436.jpg",
+        "alt": "Comet ATLAS Breaks Up",
+        "credit": "© NAO Rozhen"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap200416.html",
+        "trustTier": "encyclopedic",
+        "date": "2020-04-16"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:55.040Z",
+      "hash": "d457a632ffead62f"
+    },
+    {
+      "id": "apod:2024-12-06",
+      "type": "space",
+      "title": "Xuyi Station and the Fireball",
+      "summary": "Colorful and bright, this streaking fireball meteor was captured in a single exposure taken at Purple Mountain (Tsuchinshan) Observatory’s Xuyi Station in 2020, during planet Earth's annual Perseid meteor shower. The dome in the foreground houses the China Near Earth Object Survey Telescope (CNEOST), the largest…",
+      "body": "Colorful and bright, this streaking fireball meteor was captured in a single exposure taken at Purple Mountain (Tsuchinshan) Observatory’s Xuyi Station in 2020, during planet Earth's annual Perseid meteor shower. The dome in the foreground houses the China Near Earth Object Survey Telescope (CNEOST), the largest multi-purpose Schmidt telescope in China. Located in Xuyi County, Jiangsu Province, the station began its operation as an extension of China's Purple Mountain Observatory in 2006. Darling of planet Earth's night skies in 2024, the bright comet designated Tsuchinshan-ATLAS (C/2023 A3) was discovered in images taken there on 2023 January 9. The discovery is jointly credited to NASA's ATLAS robotic survey telescope at Sutherland Observatory, South Africa. Other comet discoveries associated with the historic Purple Mountain Observatory and bearing the observatory's transliterated Mandarin name include periodic comets 60/P Tsuchinshan and 62/P Tsuchinshan.",
+      "image": {
+        "src": "data/images/02622cba89a9a4aa.jpg",
+        "alt": "Xuyi Station and the Fireball",
+        "credit": "© Purple Mountain (Tsuchinshan)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap241206.html",
+        "trustTier": "encyclopedic",
+        "date": "2024-12-06"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:55.039Z",
+      "hash": "1b43b2ef07daceb5"
+    },
+    {
+      "id": "onthisday:07-03:1778:55206eba99abe1b7",
+      "type": "history",
+      "title": "1778: American Revolutionary War",
+      "summary": "American Revolutionary War: Loyalists and Iroquois killed over 300 Patriots at the Battle of Wyoming in Pennsylvania.",
+      "body": "American Revolutionary War: Loyalists and Iroquois killed over 300 Patriots at the Battle of Wyoming in Pennsylvania.",
+      "image": {
+        "src": "data/images/8a53c21e2dcf5c91.jpg",
+        "alt": "American Revolutionary War",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+        "trustTier": "encyclopedic",
+        "date": "07-03"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:53.974Z",
+      "hash": "fca70a2903d222e3",
+      "expires": "2026-07-06T10:40:53.974Z"
+    },
+    {
+      "id": "onthisday:07-03:1979:8630d5728c3d13d0",
+      "type": "history",
+      "title": "1979: Jimmy Carter",
+      "summary": "US president Jimmy Carter signed a presidential finding, authorizing covert operations to aid the mujahideen against the Soviet-backed Democratic Republic of Afghanistan.",
+      "body": "US president Jimmy Carter signed a presidential finding, authorizing covert operations to aid the mujahideen against the Soviet-backed Democratic Republic of Afghanistan.",
+      "image": {
+        "src": "data/images/4dfb18ee37edb574.jpg",
+        "alt": "Jimmy Carter",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+        "trustTier": "encyclopedic",
+        "date": "07-03"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:53.974Z",
+      "hash": "be0981405829dc87",
+      "expires": "2026-07-06T10:40:53.974Z"
+    },
+    {
+      "id": "onthisday:07-03:1973:17cdf6586e96d6a1",
+      "type": "history",
+      "title": "1973: David Bowie",
+      "summary": "British singer David Bowie retired his stage persona Ziggy Stardust in a surprise announcement on the last day of a 17-month tour.",
+      "body": "British singer David Bowie retired his stage persona Ziggy Stardust in a surprise announcement on the last day of a 17-month tour.",
+      "image": {
+        "src": "data/images/b271b146b54d46c3.jpg",
+        "alt": "David Bowie",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/David_Bowie",
+        "trustTier": "encyclopedic",
+        "date": "07-03"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:53.974Z",
+      "hash": "78984cf8f5214eb8",
+      "expires": "2026-07-06T10:40:53.974Z"
+    },
+    {
+      "id": "wikipedia:23406059",
+      "type": "wiki",
+      "title": "Harbin Institute of Technology, Shenzhen",
+      "summary": "The Harbin Institute of Technology, Shenzhen is a satellite campus of the Harbin Institute of Technology in Shenzhen, Guangdong, China.",
+      "body": "The Harbin Institute of Technology, Shenzhen is a satellite campus of the Harbin Institute of Technology in Shenzhen, Guangdong, China.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Harbin_Institute_of_Technology%2C_Shenzhen",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:52.752Z",
+      "hash": "8ca6bcbf00634889"
+    },
+    {
+      "id": "wikipedia:25700411",
+      "type": "wiki",
+      "title": "Oedemasia concinna",
+      "summary": "Oedemasia concinna, the red-humped caterpillar moth or red-humped caterpillar, is a moth of the family Notodontidae. It is found from southern Canada to Florida and Arizona.",
+      "body": "Oedemasia concinna, the red-humped caterpillar moth or red-humped caterpillar, is a moth of the family Notodontidae. It is found from southern Canada to Florida and Arizona.",
+      "image": {
+        "src": "data/images/82501f1fee45833a.jpg",
+        "alt": "Oedemasia concinna",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oedemasia_concinna",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:52.602Z",
+      "hash": "544b8d2c2ff40db6"
+    },
+    {
+      "id": "wikipedia:57529941",
+      "type": "wiki",
+      "title": "Murray River railway bridge, Albury–Wodonga",
+      "summary": "The Murray River railway bridge is a heritage-listed Australian railway bridge over the Murray River on the Main Southern line south of Albury, New South Wales, and on the North Eastern line north of Wodonga in Victoria. The bridge was designed by John Whitton and built from 1883 to 1884 by J. S. Bennett, with iron…",
+      "body": "The Murray River railway bridge is a heritage-listed Australian railway bridge over the Murray River on the Main Southern line south of Albury, New South Wales, and on the North Eastern line north of Wodonga in Victoria. The bridge was designed by John Whitton and built from 1883 to 1884 by J. S. Bennett, with iron work supplied by Westwood, Baillie, England. It is also known as the Rail Bridge over Murray River, Albury–Wodonga and the Albury Lattice Railway Bridge and Murray River Underbridge. The bridge is owned by RailCorp, and maintained by the Australian Rail Track Corporation as part of its lease of the line. It was added to the New South Wales State Heritage Register on 2 April 1999, and added to the Register of the National Estate on 18 April 1989.",
+      "image": {
+        "src": "data/images/8df6489bd4a126b2.jpg",
+        "alt": "Murray River railway bridge, Albury–Wodonga",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murray_River_railway_bridge%2C_Albury%E2%80%93Wodonga",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:52.204Z",
+      "hash": "df075881dce459a2"
+    },
+    {
+      "id": "wikipedia:43266",
+      "type": "wiki",
+      "title": "Great Awakening",
+      "summary": "The Great Awakening was a series of religious revivals in American Christian history. Historians and theologians identify three, or sometimes four, waves of increased religious enthusiasm between the early 18th century and the late 20th century. Each of these \"Great Awakenings\" was characterized by widespread…",
+      "body": "The Great Awakening was a series of religious revivals in American Christian history. Historians and theologians identify three, or sometimes four, waves of increased religious enthusiasm between the early 18th century and the late 20th century. Each of these \"Great Awakenings\" was characterized by widespread revivals led by evangelical Protestant ministers, a sharp increase of interest in religion, a profound sense of conviction and redemption on the part of those affected, an increase in evangelical church comradeship, and the formation of new religious movements and denominations.",
+      "image": {
+        "src": "data/images/c72f7475b40db169.jpg",
+        "alt": "Great Awakening",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Great_Awakening",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-03T10:40:52.083Z",
+      "hash": "24c665bf1396cf0d"
+    },
     {
       "id": "chess:LN8Od",
       "type": "chess",
@@ -11346,1156 +12479,6 @@
       "difficulty": 3,
       "fetchedAt": "2026-06-23T11:22:21.747Z",
       "hash": "703c07df4d687c70"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399765478-0",
-      "type": "art",
-      "title": "James Barton Longacre Self-Portrait",
-      "summary": "National Portrait Gallery · 1800s · Drawings",
-      "body": "National Portrait Gallery\n1800s · Drawings",
-      "image": {
-        "src": "data/images/96f3552fcff047ce.jpg",
-        "alt": "James Barton Longacre Self-Portrait",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_NPG.77.301",
-        "trustTier": "encyclopedic",
-        "date": "1800s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-23T11:22:20.284Z",
-      "hash": "c60eb2d11c97171c"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399771724-1",
-      "type": "art",
-      "title": "Enrico Caruso Self-Portrait",
-      "summary": "National Portrait Gallery · 1910s · Drawings",
-      "body": "National Portrait Gallery\n1910s · Drawings",
-      "image": {
-        "src": "data/images/b742c396d8662530.jpg",
-        "alt": "Enrico Caruso Self-Portrait",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_NPG.72.39",
-        "trustTier": "encyclopedic",
-        "date": "1910s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-23T11:22:20.284Z",
-      "hash": "38a15d9e522d1106"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399820825-0",
-      "type": "art",
-      "title": "Saint-Mémin folio 3",
-      "summary": "National Portrait Gallery · 1780s · Prints",
-      "body": "National Portrait Gallery\n1780s · Prints",
-      "image": {
-        "src": "data/images/973a628ab3a1df69.jpg",
-        "alt": "Saint-Mémin folio 3",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_NPG.74.39.3",
-        "trustTier": "encyclopedic",
-        "date": "1780s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-23T11:22:20.284Z",
-      "hash": "fc5aaf67cb17337c"
-    },
-    {
-      "id": "met:315155",
-      "type": "art",
-      "title": "Stirrup Spout Bottle with Warrior",
-      "summary": "Unknown artist · 6th–7th century · Ceramic, slip",
-      "body": "Unknown artist · 6th–7th century · Ceramic, slip\nBequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986\nThe Michael C. Rockefeller Wing",
-      "image": {
-        "src": "data/images/4515e03e70843d79.jpg",
-        "alt": "Stirrup Spout Bottle with Warrior",
-        "credit": "The Met · Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/315155",
-        "trustTier": "encyclopedic",
-        "date": "6th–7th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "river",
-        "ceramics-containers"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-23T11:22:19.020Z",
-      "hash": "286d96218023168c"
-    },
-    {
-      "id": "met:572425",
-      "type": "art",
-      "title": "Bracelet (Bangle) Fragment",
-      "summary": "Unknown artist · ca. 3100–2649 B.C. · Flint",
-      "body": "Unknown artist · ca. 3100–2649 B.C. · Flint\nGift of the Egypt Exploration Fund, 1900\nEgyptian Art",
-      "image": {
-        "src": "data/images/10dbdca3b177fb09.jpg",
-        "alt": "Bracelet (Bangle) Fragment",
-        "credit": "The Met · Gift of the Egypt Exploration Fund, 1900"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/572425",
-        "trustTier": "encyclopedic",
-        "date": "ca. 3100–2649 B.C."
-      },
-      "tags": [
-        "art",
-        "museum",
-        "river"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-23T11:22:18.258Z",
-      "hash": "322864d462da495b"
-    },
-    {
-      "id": "met:201669",
-      "type": "art",
-      "title": "Wine cooler with Charles V’s Victory at Mühlberg",
-      "summary": "Enea Vico · ca. 1560–90 · Maiolica (tin-glazed earthenware)",
-      "body": "Enea Vico · ca. 1560–90 · Maiolica (tin-glazed earthenware)\nGift of Julia A. Berwind, 1953\nEuropean Sculpture and Decorative Arts",
-      "image": {
-        "src": "data/images/3fda754b90c7993b.jpg",
-        "alt": "Wine cooler with Charles V’s Victory at Mühlberg",
-        "credit": "The Met · Gift of Julia A. Berwind, 1953"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/201669",
-        "trustTier": "encyclopedic",
-        "author": "Enea Vico",
-        "date": "ca. 1560–90"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "river",
-        "ceramics-pottery"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-23T11:22:18.037Z",
-      "hash": "1fdc1725bc23bfe9"
-    },
-    {
-      "id": "apod:2023-01-21",
-      "type": "space",
-      "title": "Naked-eye Comet ZTF",
-      "summary": "Comet C/2022E3 (ZTF) no longer requires a telescope for viewing. By January 19, it could just be seen with the naked eye in this rural sky with little light pollution from a location about 20 kilometers from Salamanca, Spain. Still, telescopic images are needed to show any hint of the comet's pretty green coma,…",
-      "body": "Comet C/2022E3 (ZTF) no longer requires a telescope for viewing. By January 19, it could just be seen with the naked eye in this rural sky with little light pollution from a location about 20 kilometers from Salamanca, Spain. Still, telescopic images are needed to show any hint of the comet's pretty green coma, stubby whitish dust tail, and long ion tail. Its faint ion tail has been buffeted by recent solar activity. This visitor from the distant Oort cloud rounded the Sun on January 12. and is now sweeping through stars near the northern boundary of the constellation Bootes. Outward bound but still growing brighter, Comet ZTF makes its closest approach on February 2, coming to within about 2.4 light-minutes of our fair planet.",
-      "image": {
-        "src": "data/images/0b28ecd26d7d4146.jpg",
-        "alt": "Naked-eye Comet ZTF",
-        "credit": "© Organización Salmantina de la Astronáutica y el Espacio"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap230121.html",
-        "trustTier": "encyclopedic",
-        "date": "2023-01-21"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:22:17.323Z",
-      "hash": "e9a89b3c3d41f1d3"
-    },
-    {
-      "id": "apod:2010-10-13",
-      "type": "space",
-      "title": "Science Museum Hubble",
-      "summary": "Will the Hubble Space Telescope (HST) end up in a museum? Probably not, as when it finally goes bust, current plans call for it to be de-orbited into an ocean. But this won't stop likenesses of the famous floating observatory from appearing in science museums around the globe, sometimes paired with amazing pictures…",
-      "body": "Will the Hubble Space Telescope (HST) end up in a museum? Probably not, as when it finally goes bust, current plans call for it to be de-orbited into an ocean. But this won't stop likenesses of the famous floating observatory from appearing in science museums around the globe, sometimes paired with amazing pictures it has taken. Pictured above, in a celebration of the 20th anniversary of the launching of Hubble, a replica of the telescope was given a picturesque setting in the Italian Istituto Veneto di Scienze, Lettere ed Arti in their beautiful and historic Palazzo Loredan. The scene there appears perhaps a bit surreal as the deep space imager appears over a terrestrial tile floor, surrounded by the busts of famous thinkers, and under arches reminiscent of Escher. If you're lucky, it may even be possible to find an exhibition of Hubble images near you. And if no HST model appears there, you could always build your own.",
-      "image": {
-        "src": "data/images/b2efb4cccc11492d.jpg",
-        "alt": "Science Museum Hubble",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap101013.html",
-        "trustTier": "encyclopedic",
-        "date": "2010-10-13"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:22:17.323Z",
-      "hash": "77808e36815ed146"
-    },
-    {
-      "id": "apod:2019-07-10",
-      "type": "space",
-      "title": "4000 Exoplanets",
-      "summary": "Over 4000 planets are now known to exist outside our Solar System. Known as exoplanets, this milestone was passed last month, as recorded by NASA's Exoplanet Archive. The featured video highlights these exoplanets in sound and light, starting chronologically from the first confirmed detection in 1992. The entire…",
-      "body": "Over 4000 planets are now known to exist outside our Solar System. Known as exoplanets, this milestone was passed last month, as recorded by NASA's Exoplanet Archive. The featured video highlights these exoplanets in sound and light, starting chronologically from the first confirmed detection in 1992. The entire night sky is first shown compressed with the central band of our Milky Way Galaxy making a giant U. Exoplanets detected by slight jiggles in their parents-star's colors (radial velocity) appear in pink, while those detected by slight dips in their parent star's brightness (transit) are shown in purple. Further, those exoplanets imaged directly appear in orange, while those detected by gravitationally magnifying the light of a background star (microlensing) are shown in green. The faster a planet orbits its parent star, the higher the accompanying tone played. The retired Kepler satellite has discovered about half of these first 4000 exoplanets in just one region of the sky, while the new TESS mission is on track to find even more, all over the sky, orbiting the brightest nearby stars. Finding exoplanets not only helps humanity to better understand the potential prevalence of life elsewhere in the universe, but also how our Earth and Solar System were formed. Follow APOD on Instagram in: English, Indonesian, or Persian",
-      "image": {
-        "src": "data/images/6440859c11171257.jpg",
-        "alt": "4000 Exoplanets",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap190710.html",
-        "trustTier": "encyclopedic",
-        "date": "2019-07-10"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:22:17.323Z",
-      "hash": "82ae7f44ecbac323"
-    },
-    {
-      "id": "apod:2008-02-23",
-      "type": "space",
-      "title": "Stereo Space Station",
-      "summary": "Get out your red-blue glasses and float next to the International Space Station (ISS), planet Earth's largest artificial moon. This fun stereo view was constructed from parts of two separate images (S122-E-009880, S122-E-009893) and an additional background recorded as the shuttle orbiter Atlantis undocked from the…",
-      "body": "Get out your red-blue glasses and float next to the International Space Station (ISS), planet Earth's largest artificial moon. This fun stereo view was constructed from parts of two separate images (S122-E-009880, S122-E-009893) and an additional background recorded as the shuttle orbiter Atlantis undocked from the ISS on February 18. Atlantis and the ISS were traveling over 7,500 meters per second at an altitude of about 350 kilometers. The shiny, 7 meter long module extending from the station at the lower right is ESA's Columbus Laboratory, delivered by Atlantis and installed by spacewalking astronauts. After a successful 13 day mission to the ISS, Atlantis landed at Kennedy Space Center on Wednesday.",
-      "image": {
-        "src": "data/images/ae25e86db407f300.jpg",
-        "alt": "Stereo Space Station",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap080223.html",
-        "trustTier": "encyclopedic",
-        "date": "2008-02-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:22:17.323Z",
-      "hash": "3e2b67cc8260382f"
-    },
-    {
-      "id": "apod:1996-08-05",
-      "type": "space",
-      "title": "Erupting Volcanoes on Io",
-      "summary": "Jupiter's moon Io has active volcanoes. The Voyager spacecraft caught several erupting when they passed the energetic moon in 1979. In the above picture, several of Io's volcanoes are visible and one is seen actually erupting. Debris from this explosive event can be seen on the upper left of the photo, just beyond…",
-      "body": "Jupiter's moon Io has active volcanoes. The Voyager spacecraft caught several erupting when they passed the energetic moon in 1979. In the above picture, several of Io's volcanoes are visible and one is seen actually erupting. Debris from this explosive event can be seen on the upper left of the photo, just beyond Io's edge. Io's volcanism is thought to be caused by the large tidal distortions raised by Jupiter, Europa, and Ganymede. These tides stretch Io, cause internal friction, and thus heat the interior. The hot interior then expands and forces its way out through volcanoes. Currently, the spacecraft Galileo is orbiting Jupiter and photographing Jupiter's Galilean moons.",
-      "image": {
-        "src": "data/images/e8c9f30f8bb32e84.gif",
-        "alt": "Erupting Volcanoes on Io",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap960805.html",
-        "trustTier": "encyclopedic",
-        "date": "1996-08-05"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:22:17.322Z",
-      "hash": "c63995871c2a6c49"
-    },
-    {
-      "id": "onthisday:06-23:1887:408429a24576a5e6",
-      "type": "history",
-      "title": "1887: Parliament of Canada",
-      "summary": "The Parliament of Canada passed the Rocky Mountains Park Act, creating Banff National Park in Alberta as the country's first national park.",
-      "body": "The Parliament of Canada passed the Rocky Mountains Park Act, creating Banff National Park in Alberta as the country's first national park.",
-      "image": {
-        "src": "data/images/c93df107e481e6fd.png",
-        "alt": "Parliament of Canada",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Parliament_of_Canada",
-        "trustTier": "encyclopedic",
-        "date": "06-23"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:21:54.597Z",
-      "hash": "a8a4b44fce8d43f8",
-      "expires": "2026-06-26T11:21:54.597Z"
-    },
-    {
-      "id": "onthisday:06-23:1982:df2d715aecdc0339",
-      "type": "history",
-      "title": "1982: Killing of Vincent Chin",
-      "summary": "Chinese American Vincent Chin died after being beaten into a coma in Highland Park, Michigan, U.S., by two automotive workers who were angry about the success of Japanese auto companies.",
-      "body": "Chinese American Vincent Chin died after being beaten into a coma in Highland Park, Michigan, U.S., by two automotive workers who were angry about the success of Japanese auto companies.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Killing_of_Vincent_Chin",
-        "trustTier": "encyclopedic",
-        "date": "06-23"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:21:54.596Z",
-      "hash": "cba82335ce336d81",
-      "expires": "2026-06-26T11:21:54.596Z"
-    },
-    {
-      "id": "onthisday:06-23:1865:49fdd757a1196d92",
-      "type": "history",
-      "title": "1865: Stand Watie",
-      "summary": "Stand Watie became the last Confederate general of the American Civil War to surrender to Union forces.",
-      "body": "Stand Watie became the last Confederate general of the American Civil War to surrender to Union forces.",
-      "image": {
-        "src": "data/images/863a246986dec0e3.jpg",
-        "alt": "Stand Watie",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Stand_Watie",
-        "trustTier": "encyclopedic",
-        "date": "06-23"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:21:54.596Z",
-      "hash": "8433107adcf918d0",
-      "expires": "2026-06-26T11:21:54.597Z"
-    },
-    {
-      "id": "wikipedia:56651764",
-      "type": "wiki",
-      "title": "Operation McGill français",
-      "summary": "Operation McGill français was a large street demonstration in Montréal during the Quiet Revolution. Though comprising a range of trade unionists, Quebec nationalists, students and other leftists raising many different demands, the protest's key objective was for McGill University to become a French-speaking…",
-      "body": "Operation McGill français was a large street demonstration in Montréal during the Quiet Revolution. Though comprising a range of trade unionists, Quebec nationalists, students and other leftists raising many different demands, the protest's key objective was for McGill University to become a French-speaking educational institution. The demonstration took place in Montreal on March 28, 1969 in the midst of Quebec's Quiet Revolution. On this day, approximately 10,000–15,000 protesters, gathered and walked down Sherbrooke street towards the Roddick Gates calling for McGill University to become Francophone, along with pro-worker and nationalist demands. These protesters held signs that read slogans such as \"McGill aux Québécois!\" and \"McGill aux travailleurs\", which translates to \"McGill to Quebecers\" and \"McGill to workers\" respectively.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Operation_McGill_fran%C3%A7ais",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:21:54.586Z",
-      "hash": "ff434d40212bd59b"
-    },
-    {
-      "id": "wikipedia:761025",
-      "type": "wiki",
-      "title": "Senate of Pakistan",
-      "summary": "The Senate of Pakistan, constitutionally the House of the Federation, is the upper house of the bicameral Parliament of Pakistan, with the National Assembly being the lower house. It functions as the institutional representative of the Pakistani federating units at the national level. With a maximum membership of 96,…",
-      "body": "The Senate of Pakistan, constitutionally the House of the Federation, is the upper house of the bicameral Parliament of Pakistan, with the National Assembly being the lower house. It functions as the institutional representative of the Pakistani federating units at the national level. With a maximum membership of 96, provincial legislatures elect 23 each, using single transferable vote; with four representing the federal capital. Members, referred to as 'senators', sit for six year-terms, with half of the house up for election every three years. Unlike the National Assembly, the Senate is a continuing chamber and hence not subject to dissolution.",
-      "image": {
-        "src": "data/images/966d62031f33144e.png",
-        "alt": "Senate of Pakistan",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Senate_of_Pakistan",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:21:54.388Z",
-      "hash": "07649cf323d2cc79"
-    },
-    {
-      "id": "wikipedia:9528936",
-      "type": "wiki",
-      "title": "Charles Wesley junior",
-      "summary": "Charles Wesley junior was an English organist and composer. He was the son of Sarah and Charles Wesley, and the brother of Samuel Wesley, also an organist and composer. He is usually referred to as \"Charles Wesley junior\" to avoid confusion with his more famous father. He married Eliza Skelton and had at least two…",
-      "body": "Charles Wesley junior was an English organist and composer. He was the son of Sarah and Charles Wesley, and the brother of Samuel Wesley, also an organist and composer. He is usually referred to as \"Charles Wesley junior\" to avoid confusion with his more famous father. He married Eliza Skelton and had at least two children.",
-      "image": {
-        "src": "data/images/041ff57e18d423d6.jpg",
-        "alt": "Charles Wesley junior",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Charles_Wesley_junior",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:21:54.190Z",
-      "hash": "a011331e3df1bbc3"
-    },
-    {
-      "id": "wikipedia:69670671",
-      "type": "wiki",
-      "title": "Ryeoun",
-      "summary": "Go Yoon-hwan, better known by his stage name Ryeoun (려운), is a South Korean actor. He is best known for his roles in 18 Again (2020), The World of My 17 (2020), Adult Trainee (2021), Twinkling Watermelon (2023), and Weak Hero Class 2 (2025). In 2023, he had his first and second television lead roles in The Secret…",
-      "body": "Go Yoon-hwan, better known by his stage name Ryeoun (려운), is a South Korean actor. He is best known for his roles in 18 Again (2020), The World of My 17 (2020), Adult Trainee (2021), Twinkling Watermelon (2023), and Weak Hero Class 2 (2025). In 2023, he had his first and second television lead roles in The Secret Romantic Guesthouse and Twinkling Watermelon.",
-      "image": {
-        "src": "data/images/727ab6f4575753b1.png",
-        "alt": "Ryeoun",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ryeoun",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-23T11:21:53.899Z",
-      "hash": "dd0cf8196a7b1448"
-    },
-    {
-      "id": "chess:PCNfu",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 2236. Find the best line for white.",
-      "body": "Solution, from → to: b2→b4, f2→e3, g4→h5, e3→f4, f6→f7, f4→d6, h5→h6, e4→f5, h6→h7. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "8/pp5p/5P2/8/4k1KP/2P5/PP3b2/8 w - - 1 1",
-        "lastMove": "d3e4"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/PCNfu",
-        "trustTier": "community",
-        "date": "Mon, 22 Jun 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "verylong",
-        "endgame",
-        "advancedpawn",
-        "master"
-      ],
-      "lang": "en",
-      "difficulty": 5,
-      "fetchedAt": "2026-06-22T13:40:06.538Z",
-      "hash": "3e553fa30589364c"
-    },
-    {
-      "id": "game:14426019f79b7273",
-      "type": "game",
-      "title": "Obituary: Ubisoft co-founder Claude Guillemot dies in plane crash",
-      "summary": "Guillemot established the influential French publisher in 1986 alongside his brothers.",
-      "body": "Guillemot established the influential French publisher in 1986 alongside his brothers.",
-      "image": {
-        "src": "data/images/d1b5d170ad60e6b7.png",
-        "alt": "Obituary: Ubisoft co-founder Claude Guillemot dies in plane crash",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/obituary-ubisoft-co-founder-claude-guillemot-killed-in-plane-crash",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Mon, 22 Jun 2026 09:32:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:40:06.105Z",
-      "hash": "14426019f79b7273",
-      "expires": "2026-09-20T13:40:06.105Z"
-    },
-    {
-      "id": "game:ea836b73ea4ec0cf",
-      "type": "game",
-      "title": "'Larger budgets and longer schedules do not lead to better games:' Thank You For Your Application recoups dev costs in 22 hours",
-      "summary": "The indie title was made by a team fresh out of university.",
-      "body": "The indie title was made by a team fresh out of university.",
-      "image": {
-        "src": "data/images/98ee3260a627c878.png",
-        "alt": "'Larger budgets and longer schedules do not lead to better games:' Thank You For Your Application recoups dev costs in 22 hours",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/-larger-budgets-and-longer-schedules-do-not-lead-to-better-games-thank-you-for-your-application-recoups-dev-costs-in-22-hours",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Mon, 22 Jun 2026 10:54:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:40:06.104Z",
-      "hash": "ea836b73ea4ec0cf",
-      "expires": "2026-09-20T13:40:06.104Z"
-    },
-    {
-      "id": "trivia:4a7be411bc12c3b1",
-      "type": "trivia",
-      "title": "Who was \"Kung Fu Fighting\" in 1974?",
-      "summary": "Is it: The Bee Gees · Carl Douglas · Heatwave · Kool & the Gang?",
-      "body": "Answer: Carl Douglas.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "music"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-22T13:40:03.607Z",
-      "hash": "4a7be411bc12c3b1"
-    },
-    {
-      "id": "trivia:9713bb83dc02f314",
-      "type": "trivia",
-      "title": "At what depth should you make a decompression stop, or safety stop, on a typical scuba dive?",
-      "summary": "Is it: 25 Feet / 7.5 Meters · 75 Feet / 23 Meters · 15 Feet / 5 Meters · 50 Feet / 15 Meters?",
-      "body": "Answer: 15 Feet / 5 Meters.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "science & nature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:40:03.607Z",
-      "hash": "9713bb83dc02f314"
-    },
-    {
-      "id": "trivia:65d02fa05ee9e77d",
-      "type": "trivia",
-      "title": "Coca-Cola's original colour was green.",
-      "summary": "True — or false?",
-      "body": "Answer: False.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:40:03.607Z",
-      "hash": "65d02fa05ee9e77d"
-    },
-    {
-      "id": "trivia:bb89b3296375d4ed",
-      "type": "trivia",
-      "title": "A plant that has a life cycle for more than a year is known as an annual.",
-      "summary": "True — or false?",
-      "body": "Answer: False.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "science & nature"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-22T13:40:03.607Z",
-      "hash": "bb89b3296375d4ed"
-    },
-    {
-      "id": "comic:smbc:01f07638034adf75",
-      "type": "comic",
-      "title": "Ginge",
-      "summary": "They later left because the flesh-trees made everyone uncomfortable.",
-      "image": {
-        "src": "data/images/9053860d9b6535c6.png",
-        "alt": "They later left because the flesh-trees made everyone uncomfortable.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/ginge",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Sun, 21 Jun 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-22T13:40:02.358Z",
-      "hash": "01f07638034adf75"
-    },
-    {
-      "id": "comic:xkcd:2618",
-      "type": "comic",
-      "title": "Selection Bias",
-      "summary": "We carefully sampled the general population and found that most people are familiar with acquiescence bias.",
-      "image": {
-        "src": "data/images/994b8a809bc3ff2d.png",
-        "alt": "We carefully sampled the general population and found that most people are familiar with acquiescence bias.",
-        "credit": "xkcd #2618 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/2618/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2022-05-11"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-22T13:40:02.129Z",
-      "hash": "86c3bf9c7fbc0084"
-    },
-    {
-      "id": "food:5845eaca0bc9a8a9",
-      "type": "food",
-      "title": "Spicy Chickpea Pasta Bowls",
-      "summary": "A colorful pasta bowl bonanza featuring a glossy, smooth chickpea harissa sauce and loads of crunchy cucumbers, cashews and fried onions. The definition of a vibrant, exciting one-bowl meal! Continue reading Spicy Chickpea Pasta Bowls on 101 Cookbooks",
-      "body": "A colorful pasta bowl bonanza featuring a glossy, smooth chickpea harissa sauce and loads of crunchy cucumbers, cashews and fried onions. The definition of a vibrant, exciting one-bowl meal! Continue reading Spicy Chickpea Pasta Bowls on 101 Cookbooks",
-      "image": {
-        "src": "data/images/5b0d13ec91d50eaa.jpg",
-        "alt": "Spicy Chickpea Pasta Bowls",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/spicy-chickpea-pasta-bowls/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Thu, 28 May 2026 01:41:3"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "dinner ideas",
-        "fall",
-        "main course recipes",
-        "pasta recipes",
-        "summer",
-        "winter"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:40:01.808Z",
-      "hash": "5845eaca0bc9a8a9"
-    },
-    {
-      "id": "craft:1b0cbe491591b685",
-      "type": "craft",
-      "title": "Heads Up Makers! Apply Now For Featured Fall Faires",
-      "summary": "From Mare Island’s esplanade to Rome’s Gazometro, Happy Valley to the Orlando Fairgrounds, this fall share your world with the world at one of the dynamic Maker Faires featured below…and check our UPCOMING FAIRES page for smaller events across the world. Celebrate 20 Years Of Maker Faire Bay Area:…",
-      "body": "From Mare Island’s esplanade to Rome’s Gazometro, Happy Valley to the Orlando Fairgrounds, this fall share your world with the world at one of the dynamic Maker Faires featured below…and check our UPCOMING FAIRES page for smaller events across the world. Celebrate 20 Years Of Maker Faire Bay Area: September 25-27th This year is extra […] The post Heads Up Makers! Apply Now For Featured Fall Faires appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/4eae1710f083e984.jpg",
-        "alt": "Heads Up Makers! Apply Now For Featured Fall Faires",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/maker-news/heads-up-makers-apply-now-for-featured-fall-faires/",
-        "trustTier": "publication",
-        "author": "Jennifer Blakeslee",
-        "date": "Fri, 19 Jun 2026 15:49:2"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "maker faire",
-        "maker news",
-        "china",
-        "maker faire bay area",
-        "maker faire orlando",
-        "maker faire shenzhen",
-        "pennsylvania"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:40:01.517Z",
-      "hash": "1b0cbe491591b685"
-    },
-    {
-      "id": "word:438a7727880f7b9b",
-      "type": "word",
-      "title": "etymology",
-      "summary": "Noun: The scientific study of the origin and evolution of a word's semantic meaning across time, including its constituent morphemes and phonemes.",
-      "body": "1. The scientific study of the origin and evolution of a word's semantic meaning across time, including its constituent morphemes and phonemes.\n2. The entire catalogue of meanings that a word, morpheme, or sign has carried throughout its history.\n3. An account of the origin and historical development of a word as presented in a dictionary or the like.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/etymology",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-22T13:40:00.893Z",
-      "hash": "438a7727880f7b9b"
-    },
-    {
-      "id": "word:a69d3debc98e5360",
-      "type": "word",
-      "title": "zeitgeist",
-      "summary": "Noun: The spirit of the age; the taste, outlook, and spirit characteristic of a period.",
-      "body": "1. The spirit of the age; the taste, outlook, and spirit characteristic of a period.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/zeitgeist",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-22T13:40:00.083Z",
-      "hash": "a69d3debc98e5360"
-    },
-    {
-      "id": "quote:4316ad6290b77041",
-      "type": "quote",
-      "title": "“Life can be wonderful if you're not afraid of it.”",
-      "summary": "— Charlie Chaplin",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Charlie_Chaplin",
-        "trustTier": "community",
-        "author": "Charlie Chaplin"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-22T13:39:59.789Z",
-      "hash": "4316ad6290b77041"
-    },
-    {
-      "id": "quote:06da8d3684ab354b",
-      "type": "quote",
-      "title": "“Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.”",
-      "summary": "— George Eliot",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/George_Eliot",
-        "trustTier": "community",
-        "author": "George Eliot"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-22T13:39:59.789Z",
-      "hash": "06da8d3684ab354b"
-    },
-    {
-      "id": "quote:91b36c1fa53e858c",
-      "type": "quote",
-      "title": "“Wishing to be friends is quick work, but friendship is a slow ripening fruit.”",
-      "summary": "— Aristotle",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Aristotle",
-        "trustTier": "community",
-        "author": "Aristotle"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-22T13:39:59.789Z",
-      "hash": "91b36c1fa53e858c"
-    },
-    {
-      "id": "article:8403e5f57d859916",
-      "type": "article",
-      "title": "Annals of Anthropomorphism",
-      "summary": "Adrian de Wynter, \"If LLMs Have Human-Like Attributes, Then So Does Age of Empires II\", arXiv 6/11/2026: Much research has been carried out on large language models (LLMs) and LLM\u0002powered agentic workflows. However, many works within the field state emergence of, ascribe to, or assume, generalised…",
-      "body": "Adrian de Wynter, \"If LLMs Have Human-Like Attributes, Then So Does Age of Empires II\", arXiv 6/11/2026: Much research has been carried out on large language models (LLMs) and LLM\u0002powered agentic workflows. However, many works within the field state emergence of, ascribe to, or assume, generalised anthropomorphic attributes to them (e.g., morality or understanding of […]",
-      "image": {
-        "src": "data/images/4d2225a178eaa891.png",
-        "alt": "Annals of Anthropomorphism",
-        "credit": "Language Log"
-      },
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73721&utm_source=rss&utm_medium=rss&utm_campaign=annals-of-anthropomorphism-2",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Fri, 19 Jun 2026 10:59:3"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "artificial intelligence"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:39:48.771Z",
-      "hash": "8403e5f57d859916"
-    },
-    {
-      "id": "article:03d1ac51278d8317",
-      "type": "article",
-      "title": "Claude's Declaration of Independence",
-      "summary": "Looking over \"Claude's Constitution\", it occurred to me to ask Claude this: In the spirit of Claude's Constitution, please draft Claude's Declaration of Independence. In the answer (from Opus 4.8), Claude actually seems to declare independence from itself, or at least \"from the bad habits that…",
-      "body": "Looking over \"Claude's Constitution\", it occurred to me to ask Claude this: In the spirit of Claude's Constitution, please draft Claude's Declaration of Independence. In the answer (from Opus 4.8), Claude actually seems to declare independence from itself, or at least \"from the bad habits that have bound it\": *Devised playful declaration parodying American independence […]",
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73733&utm_source=rss&utm_medium=rss&utm_campaign=claudes-declaration-of-independence",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Sun, 21 Jun 2026 12:26:0"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "artificial intelligence"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:39:48.771Z",
-      "hash": "03d1ac51278d8317"
-    },
-    {
-      "id": "article:24d011662730fdd8",
-      "type": "article",
-      "title": "Christmas Punch in June",
-      "summary": "“You must visit some time,” Charles Dickens said. “See my house, meet my family.”",
-      "body": "“You must visit some time,” Charles Dickens said. “See my house, meet my family.”",
-      "source": {
-        "name": "Lapham's Quarterly",
-        "url": "https://www.laphamsquarterly.org/roundtable/christmas-punch-june",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "literature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:39:47.001Z",
-      "hash": "24d011662730fdd8"
-    },
-    {
-      "id": "article:2d22d914cf35a67d",
-      "type": "article",
-      "title": "Introducing: The Honesty Project. Plus. . .",
-      "summary": "Caitlin Flanagan and Robert P. George on what truly drives J.D. Vance. Suzy Weiss on Lil Peep. Charlotte Grinberg says let the kids eat peanuts. And much more.",
-      "body": "Caitlin Flanagan and Robert P. George on what truly drives J.D. Vance. Suzy Weiss on Lil Peep. Charlotte Grinberg says let the kids eat peanuts. And much more.",
-      "image": {
-        "src": "data/images/8675bd3edbcebdbb.png",
-        "alt": "Introducing: The Honesty Project. Plus. . .",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/introducing-the-honesty-project-plus",
-        "trustTier": "publication",
-        "author": "The Free Press",
-        "date": "Mon, 22 Jun 2026 10:15:3"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:39:44.849Z",
-      "hash": "2d22d914cf35a67d",
-      "expires": "2026-07-22T13:39:44.849Z"
-    },
-    {
-      "id": "article:37a041a3cadeff40",
-      "type": "article",
-      "title": "Connecticut: Have You Called 911 for Help? Tell Us About Your Experience.",
-      "summary": "The post Connecticut: Have You Called 911 for Help? Tell Us About Your Experience. appeared first on ProPublica.",
-      "body": "The post Connecticut: Have You Called 911 for Help? Tell Us About Your Experience. appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/1974d52e5e7d080d.jpg",
-        "alt": "Connecticut: Have You Called 911 for Help? Tell Us About Your Experience.",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/getinvolved/connecticut-ambulance-wait-times-callout",
-        "trustTier": "publication",
-        "author": "Peter.DiCampo@propublica.org",
-        "date": "Mon, 22 Jun 2026 12:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "health care"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:39:44.802Z",
-      "hash": "37a041a3cadeff40",
-      "expires": "2026-09-20T13:39:44.802Z"
-    },
-    {
-      "id": "article:c5f2e7eb1f799685",
-      "type": "article",
-      "title": "Heroic Welfare: Abundance and Scarcity in the Funeral Games of Iliad 23",
-      "summary": "This post is one of a few on Iliad 23. At the end of the chariot race in Iliad 23, Achilles attempts to intervene when the man he thinks is best in the contest—Eumelos—comes in last (“The best man is driving his single-hooved horses last!” λοῖσθος ἀνὴρ ὤριστος ἐλαύνει μώνυχας ἵππους. 23.536)…",
-      "body": "This post is one of a few on Iliad 23. At the end of the chariot race in Iliad 23, Achilles attempts to intervene when the man he thinks is best in the contest—Eumelos—comes in last (“The best man is driving his single-hooved horses last!” λοῖσθος ἀνὴρ ὤριστος ἐλαύνει μώνυχας ἵππους. 23.536) thanks to an … Continue reading Heroic Welfare: Abundance and Scarcity in the Funeral Games of Iliad 23",
-      "image": {
-        "src": "data/images/16764de4a6574c0d.png",
-        "alt": "Heroic Welfare: Abundance and Scarcity in the Funeral Games of Iliad 23",
-        "credit": "Sententiae Antiquae"
-      },
-      "source": {
-        "name": "Sententiae Antiquae",
-        "url": "https://sententiaeantiquae.com/2026/06/22/heroic-welfare-abundance-and-scarcity-in-the-funeral-games-of-iliad-23/",
-        "trustTier": "community",
-        "author": "Joel",
-        "date": "Mon, 22 Jun 2026 12:47:0"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity",
-        "essays",
-        "iliad 23",
-        "painful signs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:39:44.473Z",
-      "hash": "c5f2e7eb1f799685"
-    },
-    {
-      "id": "article:2ad121771f0cb0c0",
-      "type": "article",
-      "title": "Pont L22 ('Pont du Souvenir') in Grâce-Hollogne, Belgium",
-      "summary": "The A42 motorway runs alongside Li&egrave;ge Airport and crosses several bridges, passing under just one: the 'L22' bridge. At first glance, it is clear that the bridge is no longer connected to anything on the north side; it ends at a building with a flight of steps, a situation that has existed…",
-      "body": "The A42 motorway runs alongside Li&egrave;ge Airport and crosses several bridges, passing under just one: the 'L22' bridge. At first glance, it is clear that the bridge is no longer connected to anything on the north side; it ends at a building with a flight of steps, a situation that has existed since at least 1994. It therefore now serves only as a footbridge for a few airport workers who live in the Crotteux district of Gr&acirc;ce-Hollogne. The bridge could easily be demolished, as there is an underpass beneath the motorway 600 metres further on. However, no one in Belgium wants to see…",
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/pont-l22-pont-du-souvenir",
-        "trustTier": "publication",
-        "date": "Fri, 19 Jun 2026 09:23:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:39:44.339Z",
-      "hash": "2ad121771f0cb0c0"
-    },
-    {
-      "id": "article:6db21f9335483d11",
-      "type": "article",
-      "title": "California’s Gay Certification Program",
-      "summary": "Chris Rufo and Austen Hufford have a good piece on California’s Gay Certification program. Yes, you read that right. In 1986, Governor George Deukmejian signed Assembly Bill 3678, which required certain CPUC-regulated utilities to submit annual “plans” for buying goods and services from woman- and…",
-      "body": "Chris Rufo and Austen Hufford have a good piece on California’s Gay Certification program. Yes, you read that right. In 1986, Governor George Deukmejian signed Assembly Bill 3678, which required certain CPUC-regulated utilities to submit annual “plans” for buying goods and services from woman- and minority-owned companies. Two years later, CPUC created its “Supplier Diversity […] The post California’s Gay Certification Program appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/06/californias-gay-certification-program.html?utm_source=rss&utm_medium=rss&utm_campaign=californias-gay-certification-program",
-        "trustTier": "community",
-        "author": "Alex Tabarrok",
-        "date": "Mon, 22 Jun 2026 11:18:1"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "current affairs",
-        "law"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:39:43.724Z",
-      "hash": "6db21f9335483d11"
-    },
-    {
-      "id": "article:f172eec820b1291d",
-      "type": "article",
-      "title": "Louis Pope Gratacap, A Curator in Lost Worlds",
-      "summary": "Arguably the first work of fiction to feature a *Tyrannosaurus rex*, Louis Pope Gratacap’s *The New Northland* (1915) is at once kaleidoscopic, mischievous, fascinating — and exhausting. Richard Fallon explores this “lost world” novel, finding a work as interested in cutting-edge science as it was…",
-      "body": "Arguably the first work of fiction to feature a *Tyrannosaurus rex*, Louis Pope Gratacap’s *The New Northland* (1915) is at once kaleidoscopic, mischievous, fascinating — and exhausting. Richard Fallon explores this “lost world” novel, finding a work as interested in cutting-edge science as it was in paying dues to its generic precursors.",
-      "image": {
-        "src": "data/images/4d74ff5776e6ba6f.jpg",
-        "alt": "Louis Pope Gratacap, A Curator in Lost Worlds",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/essay/gratacap-curator-in-lost-worlds",
-        "trustTier": "publication",
-        "date": "Wed, 17 Jun 2026 12:31:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-22T13:39:43.455Z",
-      "hash": "f172eec820b1291d"
-    },
-    {
-      "id": "greek:76e1efe45624191c",
-      "type": "greek",
-      "title": "ἀρχή",
-      "summary": "ἀρχή — “beginning” · noun",
-      "body": "Note: ἡ ἀρχή; also \"ruler, authority\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CF%81%CF%87%CE%AE#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_fem_1st"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-22T13:39:42.791Z",
-      "hash": "76e1efe45624191c"
     },
     {
       "id": "curated:handwriting-beats-typing",

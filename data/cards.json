@@ -1,7 +1,974 @@
 {
-  "generatedAt": "2026-07-04T10:16:02.684Z",
+  "generatedAt": "2026-07-05T10:20:08.379Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:lPHsl",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1752. Find the best line for black.",
+      "body": "Solution, from → to: f3→f2, f4→d5, f2→f1=Q. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "8/Pk6/1B3r2/2P5/4pN2/5pPP/2K4P/8 b - - 0 1",
+        "lastMove": "c4c5"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/lPHsl",
+        "trustTier": "community",
+        "date": "Sun, 05 Jul 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "endgame",
+        "advancedpawn",
+        "short",
+        "crushing"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:20:05.035Z",
+      "hash": "a3f9e007db6f45bf"
+    },
+    {
+      "id": "trivia:178b15c2786b3f60",
+      "type": "trivia",
+      "title": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+      "summary": "Is it: Transport · Data link · Network · Session?",
+      "body": "Answer: Transport.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "computers"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-07-05T10:20:02.303Z",
+      "hash": "178b15c2786b3f60"
+    },
+    {
+      "id": "trivia:45a208d8b5444986",
+      "type": "trivia",
+      "title": "Rhinoplasty is a surgical procedure on what part of the human body?",
+      "summary": "Is it: Ears · Chin · Nose · Neck?",
+      "body": "Answer: Nose.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "science & nature"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:20:02.303Z",
+      "hash": "45a208d8b5444986"
+    },
+    {
+      "id": "trivia:7f4ab1d5331aba00",
+      "type": "trivia",
+      "title": "In \"Sonic the Hedgehog 2\" for the Sega Genesis, what do you input in the sound test screen to access the secret level select?",
+      "summary": "Is it: The first release date of \"Sonic the Hedgehog\" · The date Sonic Team was founded · The Lead Programmer's birthday · The first release date of \"Sonic the Hedgehog 2\"?",
+      "body": "Answer: The Lead Programmer's birthday.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-07-05T10:20:02.303Z",
+      "hash": "7f4ab1d5331aba00"
+    },
+    {
+      "id": "trivia:970fdad86806dc99",
+      "type": "trivia",
+      "title": "What was the first commerically available computer processor?",
+      "summary": "Is it: AMD AM386 · TMS 1000 · Intel 486SX · Intel 4004?",
+      "body": "Answer: Intel 4004.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "computers"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:20:02.303Z",
+      "hash": "970fdad86806dc99"
+    },
+    {
+      "id": "passage:gutenberg:1260",
+      "type": "passage",
+      "title": "Jane Eyre",
+      "summary": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. I was glad…",
+      "body": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. I was glad of it: I never liked long walks, especially on chilly afternoons: dreadful to me was the coming home in the raw twilight, with nipped fingers and toes, and a heart saddened by the chidings of Bessie, the nurse, and humbled by the consciousness of my physical inferiority to Eliza, John, and Georgiana Reed. The said Eliza, John, and…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/1260",
+        "trustTier": "publication",
+        "author": "Charlotte Brontë",
+        "date": "1847"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "romance",
+        "gothic"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:20:02.164Z",
+      "hash": "1f6a6118b636cfc1"
+    },
+    {
+      "id": "comic:smbc:5d6d2568e2c04088",
+      "type": "comic",
+      "title": "Typical",
+      "summary": "I believe it follows that an average married man should be looking for about 5/6 of a wife.",
+      "image": {
+        "src": "data/images/ff7ebe08450fabb4.png",
+        "alt": "I believe it follows that an average married man should be looking for about 5/6 of a wife.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/typical",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 04 Jul 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-05T10:20:01.215Z",
+      "hash": "5d6d2568e2c04088"
+    },
+    {
+      "id": "comic:xkcd:415",
+      "type": "comic",
+      "title": "Restraining Order",
+      "summary": "On Mondays I go running, so you'll have to get up early and follow along on a parallel street. What fun!",
+      "body": "[[Man and woman stand facing one another. Both hold sheets of paper.]] Text reads: Not content with normal restraining orders, my ex got creative. Man: Wait... I can't get closer than 500 yards of you... or more than 600 yards away? Woman: You'll have to move somewhere within this ring. {{title text: On Mondays I go running, so you'll have to get up early and follow along a parallel street. What fun!}}",
+      "image": {
+        "src": "data/images/1f71733263512301.png",
+        "alt": "On Mondays I go running, so you'll have to get up early and follow along on a parallel street.  What fun!",
+        "credit": "xkcd #415 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/415/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2008-04-25"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-05T10:20:01.032Z",
+      "hash": "d9a4ee1888c6a7d0"
+    },
+    {
+      "id": "food:0a7b3aca64cdd87f",
+      "type": "food",
+      "title": "Bean and Lentil Soup with Kale",
+      "summary": "A hearty tomato-based soup made with beans, lentils, kale, and a deep mushroom broth. More importantly, it freezes well so you always have a good meal at the ready. Continue reading Bean and Lentil Soup with Kale on 101 Cookbooks",
+      "body": "A hearty tomato-based soup made with beans, lentils, kale, and a deep mushroom broth. More importantly, it freezes well so you always have a good meal at the ready. Continue reading Bean and Lentil Soup with Kale on 101 Cookbooks",
+      "image": {
+        "src": "data/images/b5b50599f6f67662.jpg",
+        "alt": "Bean and Lentil Soup with Kale",
+        "credit": "101 Cookbooks"
+      },
+      "source": {
+        "name": "101 Cookbooks",
+        "url": "https://www.101cookbooks.com/bean-lentil-kale-soup/",
+        "trustTier": "community",
+        "author": "Heidi Swanson",
+        "date": "Fri, 03 Jul 2026 21:18:0"
+      },
+      "tags": [
+        "cooking",
+        "recipe",
+        "food",
+        "100+ vegetarian recipes",
+        "260+ vegan recipes",
+        "90 best soup recipes",
+        "dinner ideas",
+        "fall",
+        "gluten free recipes",
+        "high protein recipes"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:20:00.905Z",
+      "hash": "0a7b3aca64cdd87f"
+    },
+    {
+      "id": "craft:5d0f20c63ad11daf",
+      "type": "craft",
+      "title": "Katherine Wolkoff Meditates on Absence in Her Tender Photos of Deer Beds",
+      "summary": "The artist wanders along deer paths on Block Island, which sits a few miles off the coast of Rhode Island.",
+      "body": "The artist wanders along deer paths on Block Island, which sits a few miles off the coast of Rhode Island.",
+      "image": {
+        "src": "data/images/3838a7a80fa16cae.jpg",
+        "alt": "Katherine Wolkoff Meditates on Absence in Her Tender Photos of Deer Beds",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/07/katherine-wolkoff-deer-beds-nature-photographs/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Thu, 02 Jul 2026 13:14:3"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "nature",
+        "photography",
+        "animals",
+        "deer",
+        "katherine wolkoff"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:20:00.838Z",
+      "hash": "5d0f20c63ad11daf"
+    },
+    {
+      "id": "word:1d1eb04abcf86a7e",
+      "type": "word",
+      "title": "ethos",
+      "summary": "Noun: The character or fundamental values of a person, people, culture, or movement.",
+      "body": "1. The character or fundamental values of a person, people, culture, or movement.\n2. A form of rhetoric in which the writer or speaker invokes their authority, competence or expertise in an attempt to persuade others that their view is correct.\n3. The traits in a work of art which express the ideal or typic character, as influenced by the ethos (character or fundamental values) of a people, rather than emotional situations or individual character traits in a narrow sense; opposed to pathos.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/ethos",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:51.364Z",
+      "hash": "1d1eb04abcf86a7e"
+    },
+    {
+      "id": "book-review:c2304ecf1104610a",
+      "type": "book-review",
+      "title": "Lineages of the Engineering State: On China, the United States, and the Future",
+      "summary": "“Perhaps, when we claim that China has exhausted the conceptual resources of the West, what we really mean is that China has exhausted the conceptual resources of American journalists and defense intellectuals in the Washington, DC area.” The post Lineages of the Engineering State: On China, the…",
+      "body": "“Perhaps, when we claim that China has exhausted the conceptual resources of the West, what we really mean is that China has exhausted the conceptual resources of American journalists and defense intellectuals in the Washington, DC area.” The post Lineages of the Engineering State: On China, the United States, and the Future appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/lineages-of-the-engineering-state-on-china-the-united-states-and-the-future/",
+        "trustTier": "publication",
+        "author": "Morgan Barry",
+        "date": "Thu, 02 Jul 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "reviews",
+        "asia",
+        "capitalism",
+        "china",
+        "economy",
+        "engineering",
+        "foreign policy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:19:36.534Z",
+      "hash": "c2304ecf1104610a"
+    },
+    {
+      "id": "article:a3af93c78c3b8888",
+      "type": "article",
+      "title": "Courtney Love Looks Back on Her Life as a Movie Star",
+      "summary": "I first met Courtney Love in 1994. I was twelve years old, and I felt ugly and confused pretty much all the time. I was slouching through the locker bay at Calle Mayor Middle School in Torrance, California, when I saw it: the beauty queen, mouth agape in bliss, makeup streaked down her face, tiara…",
+      "body": "I first met Courtney Love in 1994. I was twelve years old, and I felt ugly and confused pretty much all the time. I was slouching through the locker bay at Calle Mayor Middle School in Torrance, California, when I saw it: the beauty queen, mouth agape in bliss, makeup streaked down her face, tiara sparkling. This was the image on the cover of Hole’s album Live Through This, which was released that year and was lying in a trash can as if placed there for me by God. Love, the band’s frontwoman, gave me my first real experience with female anger, and her existence in the world—and the way her…",
+      "image": {
+        "src": "data/images/cee6249b69299f9a.jpg",
+        "alt": "Courtney Love Looks Back on Her Life as a Movie Star",
+        "credit": "The Current (Criterion)"
+      },
+      "source": {
+        "name": "The Current (Criterion)",
+        "url": "https://www.criterion.com/current/posts/9206-courtney-love-looks-back-on-her-life-as-a-movie-star",
+        "trustTier": "publication",
+        "author": "Yasi Salek",
+        "date": "Thu, 02 Jul 2026 06:40:0"
+      },
+      "tags": [
+        "film",
+        "essay",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:19:34.544Z",
+      "hash": "a3af93c78c3b8888"
+    },
+    {
+      "id": "article:b8bc1866ea7229b5",
+      "type": "article",
+      "title": "Twenty",
+      "summary": "Twenty: In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants. Google, working under the motto “Don’t Be Evil,” had just dethroned Yahoo! as the planet’s most popular Internet search engine (AskJeeves was not available for comment). Nickelback was at the height of its…",
+      "body": "Twenty: In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants. Google, working under the motto “Don’t Be Evil,” had just dethroned Yahoo! as the planet’s most popular Internet search engine (AskJeeves was not available for comment). Nickelback was at the height of its fame. Internet Explorer was the most used web browser, […]",
+      "source": {
+        "name": "Damn Interesting",
+        "url": "https://www.damninteresting.com/twenty/",
+        "trustTier": "publication",
+        "author": "Alan Bellows",
+        "date": "Fri, 19 Sep 2025 13:32:2"
+      },
+      "tags": [
+        "curiosities",
+        "history",
+        "science",
+        "announcements",
+        "adventure",
+        "disaster",
+        "discovery",
+        "disorders",
+        "dubious claims",
+        "engineering"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:19:31.703Z",
+      "hash": "b8bc1866ea7229b5"
+    },
+    {
+      "id": "article:d240f2e194c97949",
+      "type": "article",
+      "title": "Was Homer’s Ithaca an Island?",
+      "summary": "JAMES DIGGLE & JOHN UNDERHILL In search of the real Ithaca Continue reading Was Homer’s Ithaca an Island?",
+      "body": "JAMES DIGGLE & JOHN UNDERHILL In search of the real Ithaca Continue reading Was Homer’s Ithaca an Island?",
+      "image": {
+        "src": "data/images/65e8ee7694aab339.png",
+        "alt": "Was Homer’s Ithaca an Island?",
+        "credit": "Antigone Journal"
+      },
+      "source": {
+        "name": "Antigone Journal",
+        "url": "https://antigonejournal.com/2026/07/in-search-of-ithaca/",
+        "trustTier": "publication",
+        "author": "Antigone",
+        "date": "Sat, 04 Jul 2026 17:28:2"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "history",
+        "greek literature",
+        "material culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:19:29.755Z",
+      "hash": "d240f2e194c97949"
+    },
+    {
+      "id": "article:7c57fc5997a26922",
+      "type": "article",
+      "title": "“He Didn’t Need to Die.” How an Immigration Detention Center Repeatedly Failed to Address a Mental Health Crisis.",
+      "summary": "The post “He Didn’t Need to Die.” How an Immigration Detention Center Repeatedly Failed to Address a Mental Health Crisis. appeared first on ProPublica.",
+      "body": "The post “He Didn’t Need to Die.” How an Immigration Detention Center Repeatedly Failed to Address a Mental Health Crisis. appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/4761f531f2802fe6.jpg",
+        "alt": "“He Didn’t Need to Die.” How an Immigration Detention Center Repeatedly Failed to Address a Mental Health Crisis.",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/camp-east-montana-mental-health-immigration",
+        "trustTier": "publication",
+        "author": "Perla Trevizo",
+        "date": "Fri, 03 Jul 2026 09:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "immigration",
+        "trump administration"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:19:29.225Z",
+      "hash": "7c57fc5997a26922",
+      "expires": "2026-10-03T10:19:29.225Z"
+    },
+    {
+      "id": "article:b796674521c9c0ee",
+      "type": "article",
+      "title": "Epic Bullsh*t: Laughing with Homer",
+      "summary": "This post is one of a few on Iliad 23. A few years ago I posted a bit from Plato’s Ion, discussing the proposition that there is something about laughter that is alien to the expectations of Homeric performance. In doing so, I perhaps was not specific enough in focusing just on Homer. There was ……",
+      "body": "This post is one of a few on Iliad 23. A few years ago I posted a bit from Plato’s Ion, discussing the proposition that there is something about laughter that is alien to the expectations of Homeric performance. In doing so, I perhaps was not specific enough in focusing just on Homer. There was … Continue reading Epic Bullsh*t: Laughing with Homer",
+      "image": {
+        "src": "data/images/f8671b81c410667a.jpg",
+        "alt": "Epic Bullsh*t: Laughing with Homer",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/06/29/epic-bullsht-laughing-with-homer/",
+        "trustTier": "community",
+        "author": "Joel",
+        "date": "Mon, 29 Jun 2026 12:39:4"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "book 23",
+        "painful signs"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:19:29.146Z",
+      "hash": "b796674521c9c0ee"
+    },
+    {
+      "id": "article:6768530709926e9d",
+      "type": "article",
+      "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
+      "summary": "Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s possible to bring nonliving materials to life, or something close to it, in the lab. The post For the First Time, a Cell Built From Scratch Grows and Divides first appeared on…",
+      "body": "Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s possible to bring nonliving materials to life, or something close to it, in the lab. The post For the First Time, a Cell Built From Scratch Grows and Divides first appeared on Quanta Magazine",
+      "image": {
+        "src": "data/images/e685e86d121851d1.webp",
+        "alt": "For the First Time, a Cell Built From Scratch Grows and Divides",
+        "credit": "Quanta Magazine"
+      },
+      "source": {
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+        "trustTier": "publication",
+        "author": "Yasemin Saplakoglu",
+        "date": "Wed, 01 Jul 2026 14:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "mathematics",
+        "biology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:19:27.541Z",
+      "hash": "6768530709926e9d"
+    },
+    {
+      "id": "greek:dd29813e8594af34",
+      "type": "greek",
+      "title": "ἄνθρωπος",
+      "summary": "ἄνθρωπος — “human, man” · noun",
+      "body": "Note: ὁ ἄνθρωπος; generic \"person\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%84%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:27.399Z",
+      "hash": "dd29813e8594af34"
+    },
+    {
+      "id": "greek:f34cc1f630b7ffb3",
+      "type": "greek",
+      "title": "ζωή",
+      "summary": "ζωή — “life” · noun",
+      "body": "Note: ἡ ζωή\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B6%CF%89%CE%AE#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_fem_1st"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:27.399Z",
+      "hash": "f34cc1f630b7ffb3"
+    },
+    {
+      "id": "greek:0ae85978994e704d",
+      "type": "greek",
+      "title": "οὐρανός",
+      "summary": "οὐρανός — “heaven” · noun",
+      "body": "Note: ὁ οὐρανός; often plural οἱ οὐρανοί\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BF%E1%BD%90%CF%81%CE%B1%CE%BD%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:27.399Z",
+      "hash": "0ae85978994e704d"
+    },
+    {
+      "id": "poetry:60ddb7d2ba66d520",
+      "type": "poem",
+      "title": "Sonnet XLVI: Plain-Path'd Experience",
+      "summary": "Plain-path'd Experience, th'unlearned's guide,\nHer simple followers evidently shows\nSometimes what Schoolmen scarcely can decide,\nNor yet wise Reason absolutely knows.",
+      "body": "Plain-path'd Experience, th'unlearned's guide,\nHer simple followers evidently shows\nSometimes what Schoolmen scarcely can decide,\nNor yet wise Reason absolutely knows.\nIn making trial of a murther wrought,\nIf the vile actors of the heinous deed\nNear the dead body happily be brought,\nOft it hath been prov'd the breathless corse will bleed.\nShe's coming near, that my poor heart hath slain,\nLong since departed, to the world no more,\nThe ancient wounds no longer can contain,\nBut fall to bleeding as they did before.\nBut what of this? Should she to death be led,\nIt furthers justice, but helps not the dead.",
+      "source": {
+        "name": "Michael Drayton · PoetryDB",
+        "url": "https://poetrydb.org/title/Sonnet%20XLVI%3A%20Plain-Path'd%20Experience",
+        "trustTier": "community",
+        "author": "Michael Drayton"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:19:27.398Z",
+      "hash": "60ddb7d2ba66d520"
+    },
+    {
+      "id": "poetry:fd3d4a6ec269fc27",
+      "type": "poem",
+      "title": "To Marion",
+      "summary": "MARION! why that pensive brow?\nWhat disgust to life hast thou?\nChange that discontented air;\nFrowns become not one so fair.",
+      "body": "MARION! why that pensive brow?\nWhat disgust to life hast thou?\nChange that discontented air;\nFrowns become not one so fair.\n'Tis not Love disturbs thy rest,\nLove's a stranger to thy breast:\n_He_, in dimpling smiles, appears,\nOr mourns in sweetly timid tears;\nOr bends the languid eyelid down,\nBut _shuns_ the cold forbidding 'frown'.\nThen resume thy former fire,\nSome will _love_, and all admire!\nWhile that icy aspect chills us,\nNought but cool Indiff'rence thrills us.\nWould'st thou wand'ring hearts beguile,\nSmile, at least, or _seem_ to _smile_;\nEyes like _thine_ were never meant\nTo hide their orbs in dark restraint;\nSpite of all thou fain wouldst say,\nStill in _truant_ beams they play.\nThy lips--but here my _modest_ Muse\nHer impulse _chaste_ must needs refuse:\nShe _blushes, curtsies, frowns,_--in short She\nDreads lest the _Subject_ should transport me;\nAnd flying off, in search of _Reason_,\nBrings Prudence back in proper season.\n_All_ I shall, therefore, say (whate'er\nI think, is neither here nor there,)\nIs, that such _lips_, of looks endearing,\nWere form'd for _better things_ than _sneering_.\nOf soothing compliments divested,\nAdvice at least's disinterested;\nSuch is my artless song to thee,\nFrom all the flow of Flatt'ry free;\nCounsel like _mine_ is as a brother's,\n_My_ heart is given to some others;\nThat is to say, unskill'd to cozen,\nIt shares itself among a dozen.\n\n  Marion, adieu! oh, pr'ythee slight not\nThis warning, though it may delight not;\nAnd, lest my precepts be displeasing,\nTo those who think remonstrance teazing,\nAt once I'll tell thee our opinion,\nConcerning Woman's soft Dominion:\nHowe'er we gaze, with admiration,\nOn eyes of blue or lips carnation;\nHowe'er the flowing locks attract us,\nHowe'er those beauties may distract us;\nStill fickle, we are prone to rove,\n_These_ cannot fix our souls to love;\nIt is not too _severe_ a stricture,\nTo say they form a _pretty picture_;\nBut would'st thou see the secret chain,\nWhich binds us in your humble train,\nTo hail you Queens of all Creation,\nKnow, in a _word, 'tis Animation_.",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/To%20Marion",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-05T10:19:27.398Z",
+      "hash": "fd3d4a6ec269fc27"
+    },
+    {
+      "id": "met:400581",
+      "type": "art",
+      "title": "Sunflower (Helianthus annuus), from the Flowers series for Old Judge Cigarettes",
+      "summary": "Goodwin & Company · 1890 · Commercial color lithograph",
+      "body": "Goodwin & Company · 1890 · Commercial color lithograph\nThe Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick\nDrawings and Prints",
+      "image": {
+        "src": "data/images/ba84d3e90f977ea5.jpg",
+        "alt": "Sunflower (Helianthus annuus), from the Flowers series for Old Judge Cigarettes",
+        "credit": "The Met · The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/400581",
+        "trustTier": "encyclopedic",
+        "author": "Goodwin & Company",
+        "date": "1890"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-05T10:19:25.621Z",
+      "hash": "9a780a658ecc697b"
+    },
+    {
+      "id": "met:193938",
+      "type": "art",
+      "title": "Souvenir",
+      "summary": "Pierre-Denis Chaumont · 1789–92 · Gold",
+      "body": "Pierre-Denis Chaumont · 1789–92 · Gold\nGift of J. Pierpont Morgan, 1917\nEuropean Sculpture and Decorative Arts",
+      "image": {
+        "src": "data/images/58298f717f41f673.jpg",
+        "alt": "Souvenir",
+        "credit": "The Met · Gift of J. Pierpont Morgan, 1917"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/193938",
+        "trustTier": "encyclopedic",
+        "author": "Pierre-Denis Chaumont",
+        "date": "1789–92"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower",
+        "metalwork-gold and platinum"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-05T10:19:25.223Z",
+      "hash": "c8f66588dd7624d5"
+    },
+    {
+      "id": "apod:2021-11-30",
+      "type": "space",
+      "title": "In Motion: Uranus and Moons",
+      "summary": "What's that moving across the sky? A planet just a bit too faint to see with the unaided eye: Uranus. The gas giant out past Saturn was tracked earlier this month near opposition -- when it was closest to Earth and at its brightest. The featured video captured by the Bayfordbury Observatory in Hertfordshire, UK is a…",
+      "body": "What's that moving across the sky? A planet just a bit too faint to see with the unaided eye: Uranus. The gas giant out past Saturn was tracked earlier this month near opposition -- when it was closest to Earth and at its brightest. The featured video captured by the Bayfordbury Observatory in Hertfordshire, UK is a four-hour time-lapse showing Uranus with its four largest moons in tow: Titania, Oberon, Umbriel and Ariel. Uranus' apparent motion past background stars is really dominated by Earth's own orbital motion around our Sun. The cross seen centered on Uranus is called a diffraction spike and is caused by light diffracting around the four arms that hold one of the telescope's mirrors in place. The rotation of the diffraction spikes is not caused by the rotation of Uranus but, essentially, by the rotation of the Earth. During the next few months Uranus itself will be visible with binoculars, but, as always, to see its moons will require a telescope.",
+      "image": {
+        "src": "data/images/2967187c602d7d11.jpg",
+        "alt": "In Motion: Uranus and Moons",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap211130.html",
+        "trustTier": "encyclopedic",
+        "date": "2021-11-30"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:25.102Z",
+      "hash": "6ca73ab0cb0ad016"
+    },
+    {
+      "id": "apod:2022-09-08",
+      "type": "space",
+      "title": "North America and the Pelican",
+      "summary": "Fans of our fair planet might recognize the outlines of these cosmic clouds. On the left, bright emission outlined by dark, obscuring dust lanes seems to trace a continental shape, lending the popular name North America Nebula to the emission region cataloged as NGC 7000. To the right, just off the North America…",
+      "body": "Fans of our fair planet might recognize the outlines of these cosmic clouds. On the left, bright emission outlined by dark, obscuring dust lanes seems to trace a continental shape, lending the popular name North America Nebula to the emission region cataloged as NGC 7000. To the right, just off the North America Nebula's east coast, is IC 5070, whose avian profile suggests the Pelican Nebula. The two bright nebulae are about 1,500 light-years away, part of the same large and complex star forming region, almost as nearby as the better-known Orion Nebula. At that distance, the 3 degree wide field of view would span 80 light-years. This careful cosmic portrait uses narrowband images combined to highlight the bright ionization fronts and the characteristic glow from atomic hydrogen, and oxygen gas. These nebulae can be seen with binoculars from a dark location. Look northeast of bright star Deneb in Cygnus the Swan, soaring high in the northern summer night sky.",
+      "image": {
+        "src": "data/images/fa7848cce49038f0.jpg",
+        "alt": "North America and the Pelican",
+        "credit": "© Frank Sackenheim"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap220908.html",
+        "trustTier": "encyclopedic",
+        "date": "2022-09-08"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:25.102Z",
+      "hash": "7d91070a950a4f45"
+    },
+    {
+      "id": "apod:2024-11-28",
+      "type": "space",
+      "title": "NGC 206 and the Star Clouds of Andromeda",
+      "summary": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up…",
+      "body": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.",
+      "image": {
+        "src": "data/images/b989e8f173125cdf.jpg",
+        "alt": "NGC 206 and the Star Clouds of Andromeda",
+        "credit": "© Roberto Marinoni"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap241128.html",
+        "trustTier": "encyclopedic",
+        "date": "2024-11-28"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:25.102Z",
+      "hash": "3310535ae944e677"
+    },
+    {
+      "id": "apod:1998-10-21",
+      "type": "space",
+      "title": "The Case of the Missing Aurora",
+      "summary": "Sometimes, near midnight, auroras suddenly stop. Nobody knows why. This nightside gap in aurora was confirmed recently by D. Chua (U. Washington) and colleagues in data from the Ultraviolet Imager onboard the Polar spacecraft. The gap appears from space as a slight break in a more full auroral arc surrounding a…",
+      "body": "Sometimes, near midnight, auroras suddenly stop. Nobody knows why. This nightside gap in aurora was confirmed recently by D. Chua (U. Washington) and colleagues in data from the Ultraviolet Imager onboard the Polar spacecraft. The gap appears from space as a slight break in a more full auroral arc surrounding a magnetic pole of the Earth. Pictured above are clouds and auroras occurring last August near Wildcat Mountain in Wisconsin.",
+      "image": {
+        "src": "data/images/131cf31ccc607839.jpg",
+        "alt": "The Case of the Missing Aurora",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap981021.html",
+        "trustTier": "encyclopedic",
+        "date": "1998-10-21"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:25.102Z",
+      "hash": "9897c1bad650d770"
+    },
+    {
+      "id": "apod:2011-07-26",
+      "type": "space",
+      "title": "Galaxy NGC 474: Cosmic Blender",
+      "summary": "What's happening to galaxy NGC 474? The multiple layers of emission appear strangely complex and unexpected given the relatively featureless appearance of the elliptical galaxy in less deep images. The cause of the shells is currently unknown, but possibly tidal tails related to debris left over from absorbing…",
+      "body": "What's happening to galaxy NGC 474? The multiple layers of emission appear strangely complex and unexpected given the relatively featureless appearance of the elliptical galaxy in less deep images. The cause of the shells is currently unknown, but possibly tidal tails related to debris left over from absorbing numerous small galaxies in the past billion years. Alternatively the shells may be like ripples in a pond, where the ongoing collision with the spiral galaxy just above NGC 474 is causing density waves to ripple though the galactic giant. Regardless of the actual cause, the above image dramatically highlights the increasing consensus that at least some elliptical galaxies have formed in the recent past, and that the outer halos of most large galaxies are not really smooth but have complexities induced by frequent interactions with -- and accretions of -- smaller nearby galaxies. The halo of our own Milky Way Galaxy is one example of such unexpected complexity. NGC 474 spans about 250,000 light years and lies about 100 million light years distant toward the constellation of the Fish (Pisces). APOD Lecture and Star Party: This Friday night at Ft. Wilkins, Michigan",
+      "image": {
+        "src": "data/images/5456c10c645010f1.jpg",
+        "alt": "Galaxy NGC 474: Cosmic Blender",
+        "credit": "© P.-A. Duc (CEA, CFHT), Atlas 3D Collaboration"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap110726.html",
+        "trustTier": "encyclopedic",
+        "date": "2011-07-26"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:25.102Z",
+      "hash": "e04e9ff5b780d12d"
+    },
+    {
+      "id": "onthisday:07-05:1944:8ac62f489048a134",
+      "type": "history",
+      "title": "1944: World War II",
+      "summary": "Second World War: Canadian troops defeated the last German counterattacks against Carpiquet, Normandy, France.",
+      "body": "Second World War: Canadian troops defeated the last German counterattacks against Carpiquet, Normandy, France.",
+      "image": {
+        "src": "data/images/33a41211a19cafb8.jpg",
+        "alt": "World War II",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/World_War_II",
+        "trustTier": "encyclopedic",
+        "date": "07-05"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:24.257Z",
+      "hash": "c6dff3e4979a47c5",
+      "expires": "2026-07-08T10:19:24.257Z"
+    },
+    {
+      "id": "onthisday:07-05:1990:2e63f88c85ded661",
+      "type": "history",
+      "title": "1990: 1990 ARCO explosion",
+      "summary": "An explosion at a petrochemical plant in Channelview, Texas, United States, killed 17 people and injured 5 others.",
+      "body": "An explosion at a petrochemical plant in Channelview, Texas, United States, killed 17 people and injured 5 others.",
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/1990_ARCO_explosion",
+        "trustTier": "encyclopedic",
+        "date": "07-05"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:24.257Z",
+      "hash": "a072bc2fc2a7eea5",
+      "expires": "2026-07-08T10:19:24.257Z"
+    },
+    {
+      "id": "onthisday:07-05:1937:da2e927c42e5863b",
+      "type": "history",
+      "title": "1937: Hormel Foods",
+      "summary": "The Hormel Foods Corporation introduced Spam, the canned precooked meat product that would eventually enter into pop culture, folklore, and urban legend.",
+      "body": "The Hormel Foods Corporation introduced Spam, the canned precooked meat product that would eventually enter into pop culture, folklore, and urban legend.",
+      "image": {
+        "src": "data/images/d3a6114c16f59120.jpg",
+        "alt": "Hormel Foods",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Hormel_Foods",
+        "trustTier": "encyclopedic",
+        "date": "07-05"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:24.257Z",
+      "hash": "e2f6213f8d06630c",
+      "expires": "2026-07-08T10:19:24.257Z"
+    },
+    {
+      "id": "wikipedia:80292866",
+      "type": "wiki",
+      "title": "2025 Pearl of Africa T20 Series",
+      "summary": "The 2025 Pearl of Africa T20 Series was a men's Twenty20 International (T20I) cricket tournament played in Entebbe, Uganda, in July 2025. This was the second edition of the tournament, and is being organized by the Uganda Cricket Association. The participating teams were the hosts Uganda along with the national teams…",
+      "body": "The 2025 Pearl of Africa T20 Series was a men's Twenty20 International (T20I) cricket tournament played in Entebbe, Uganda, in July 2025. This was the second edition of the tournament, and is being organized by the Uganda Cricket Association. The participating teams were the hosts Uganda along with the national teams from Kenya and United Arab Emirates and the A team of Namibia. Kuwait was also originally scheduled to participate, but it was announced on 26 June that the tournament has been reduced to four teams. On 3 July, it was announced that Nigeria joined the tournament as the fifth team.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2025_Pearl_of_Africa_T20_Series",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:24.247Z",
+      "hash": "e60ba274304e48e4"
+    },
+    {
+      "id": "wikipedia:21042121",
+      "type": "wiki",
+      "title": "Markovščina",
+      "summary": "Markovščina is a clustered village in the Municipality of Hrpelje-Kozina in the Littoral region of Slovenia.",
+      "body": "Markovščina is a clustered village in the Municipality of Hrpelje-Kozina in the Littoral region of Slovenia.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Markov%C5%A1%C4%8Dina",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:24.130Z",
+      "hash": "6568316e68cf376d"
+    },
+    {
+      "id": "wikipedia:34417027",
+      "type": "wiki",
+      "title": "Angelina Veneziano",
+      "summary": "Angelina Veneziano is a fictional character from the American CBS soap opera The Young and the Restless. She is portrayed by Diana DeGarmo, who is famed for being runner-up on the third season of the reality television competition American Idol. She was introduced by former executive producer and head writer Maria…",
+      "body": "Angelina Veneziano is a fictional character from the American CBS soap opera The Young and the Restless. She is portrayed by Diana DeGarmo, who is famed for being runner-up on the third season of the reality television competition American Idol. She was introduced by former executive producer and head writer Maria Arena Bell on October 31, 2011, as the daughter of mob boss Angelo Veneziano. Angelina was described as a mob boss daughter and aspiring singer by Zap2it. DeGarmo described her as an over-the-top \"jersey girl\", and noted her flamboyant costumes and voice. The show's executive producer and head writer Maria Arena Bell offered DeGarmo the role of Veneziano after seeing her performance of Penny Pingleton in the musical production of Hairspray.",
+      "image": {
+        "src": "data/images/0f5ded322d54542e.jpg",
+        "alt": "Angelina Veneziano",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Angelina_Veneziano",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:24.027Z",
+      "hash": "e3df80e7d3eee314"
+    },
+    {
+      "id": "wikipedia:49584250",
+      "type": "wiki",
+      "title": "Shosh, Nagorno-Karabakh",
+      "summary": "Shosh or Shushikend is a village in the Khojaly District of Azerbaijan, in the region of Nagorno-Karabakh. Until 2023 it was controlled by the breakaway Republic of Artsakh. The village had an ethnic Armenian-majority population until the expulsion of the Armenian population of Nagorno-Karabakh by Azerbaijan…",
+      "body": "Shosh or Shushikend is a village in the Khojaly District of Azerbaijan, in the region of Nagorno-Karabakh. Until 2023 it was controlled by the breakaway Republic of Artsakh. The village had an ethnic Armenian-majority population until the expulsion of the Armenian population of Nagorno-Karabakh by Azerbaijan following the 2023 Azerbaijani offensive in Nagorno-Karabakh.",
+      "image": {
+        "src": "data/images/89e602cb0d0b48a4.jpg",
+        "alt": "Shosh, Nagorno-Karabakh",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shosh%2C_Nagorno-Karabakh",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-05T10:19:23.902Z",
+      "hash": "ad715bd51a2ebb0b"
+    },
     {
       "id": "chess:6v74p",
       "type": "chess",
@@ -11527,973 +12494,6 @@
       "difficulty": 5,
       "fetchedAt": "2026-06-24T10:55:36.776Z",
       "hash": "31642c57bc709fdb"
-    },
-    {
-      "id": "game:8f825256bc67699d",
-      "type": "game",
-      "title": "How a 12 year wait made Alien Isolation 2 a better sequel",
-      "summary": "We sat down with creative director Al Hope and animation director Simon Ridge to talk about Creative Assembly's big return to survival horror and the Alien franchise.",
-      "body": "We sat down with creative director Al Hope and animation director Simon Ridge to talk about Creative Assembly's big return to survival horror and the Alien franchise.",
-      "image": {
-        "src": "data/images/255c07a902edb29c.png",
-        "alt": "How a 12 year wait made Alien Isolation 2 a better sequel",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/design/how-a-12-year-wait-made-alien-isolation-2-a-better-sequel",
-        "trustTier": "publication",
-        "author": "Alessandro Fillari",
-        "date": "Tue, 23 Jun 2026 14:40:4"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:36.485Z",
-      "hash": "8f825256bc67699d",
-      "expires": "2026-09-22T10:55:36.485Z"
-    },
-    {
-      "id": "game:758bbb1f34613dfe",
-      "type": "game",
-      "title": "Report: Tencent mulling exits from multiple Japanese studios",
-      "summary": "The company went on an investment spree in Japan at the turn of the decade but is now purportedly keen to refocus its portfolio around UGC platforms.",
-      "body": "The company went on an investment spree in Japan at the turn of the decade but is now purportedly keen to refocus its portfolio around UGC platforms.",
-      "image": {
-        "src": "data/images/4fddfbd196707cf6.png",
-        "alt": "Report: Tencent mulling exits from multiple Japanese studios",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/report-tencent-mulling-exits-from-multiple-japanese-studios",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Tue, 23 Jun 2026 13:22:2"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:36.485Z",
-      "hash": "758bbb1f34613dfe",
-      "expires": "2026-09-22T10:55:36.485Z"
-    },
-    {
-      "id": "game:3378d35cca7c71b2",
-      "type": "game",
-      "title": "Atari and MobyGames launch new career development platform called Moby Professional",
-      "summary": "MobyGames wants to help you land your next job.",
-      "body": "MobyGames wants to help you land your next job.",
-      "image": {
-        "src": "data/images/4f6471dc0a204ac2.jpg",
-        "alt": "Atari and MobyGames launch new career development platform called Moby Professional",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/atari-and-mobygames-launch-new-career-development-platform-called-moby-professional",
-        "trustTier": "publication",
-        "author": "Bryant Francis",
-        "date": "Wed, 24 Jun 2026 08:00:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:36.484Z",
-      "hash": "3378d35cca7c71b2",
-      "expires": "2026-09-22T10:55:36.484Z"
-    },
-    {
-      "id": "trivia:7c12d19d165bf267",
-      "type": "trivia",
-      "title": "Who was the previous drummer of blink-182 before Travis Barker?",
-      "summary": "Is it: Scott Raynor · Atom Willard · Derek Grant · Ilan Rubin?",
-      "body": "Answer: Scott Raynor.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "music"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-06-24T10:55:34.101Z",
-      "hash": "7c12d19d165bf267"
-    },
-    {
-      "id": "trivia:0d1f7a143150335d",
-      "type": "trivia",
-      "title": "How many controllers could a Nintendo GameCube have plugged in at one time?",
-      "summary": "Is it: 4 · 8 · 2 · 6?",
-      "body": "Answer: 4.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:34.101Z",
-      "hash": "0d1f7a143150335d"
-    },
-    {
-      "id": "trivia:19a7a16f202fb36d",
-      "type": "trivia",
-      "title": "What are the first names of the first father and son pair that were both Prime Ministers of Canada?",
-      "summary": "Is it: Justin and Pierre · Brian and Justin · John and Louis · Brian and Pierre?",
-      "body": "Answer: Justin and Pierre.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "politics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:34.101Z",
-      "hash": "19a7a16f202fb36d"
-    },
-    {
-      "id": "trivia:768797a5e51aa039",
-      "type": "trivia",
-      "title": "Who is one of the co-princes of Andorra?",
-      "summary": "Is it: The Pope · The monarch of the UK · No-one (the position is vacant) · The president of France?",
-      "body": "Answer: The president of France.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "politics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:34.101Z",
-      "hash": "768797a5e51aa039"
-    },
-    {
-      "id": "comic:smbc:cdb1388f673086d7",
-      "type": "comic",
-      "title": "Spiraling",
-      "summary": "We were both spiraling, kids, when we found each other.",
-      "image": {
-        "src": "data/images/7b40849d6d22f8b6.png",
-        "alt": "We were both spiraling, kids, when we found each other.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/spiraling",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Tue, 23 Jun 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-24T10:55:32.245Z",
-      "hash": "cdb1388f673086d7"
-    },
-    {
-      "id": "comic:xkcd:1433",
-      "type": "comic",
-      "title": "Lightsaber",
-      "summary": "A long time in the future, in a galaxy far, far, away, astronomers in the year 2008 sight an unusual gamma-ray burst originating from somewhere far across the universe.",
-      "body": "{{Title text: A long time in the future, in a galaxy far, far, away, astronomers in the year 2008 sight an unusual gamma-ray burst originating from somewhere far across the universe.}} [[Darth Vader and Luke Skywalker]] Darth Vader: I see you have constructed a new lightsaber. [[Darth Vader turns on the lightsaber]] >> [[Darth Vader looks at the light saber]] Darth Vader: Where does it end? Luke: Doesn't Someone off-scene: Hull breach all along sector five!!",
-      "image": {
-        "src": "data/images/954cb69faa0cb69b.png",
-        "alt": "A long time in the future, in a galaxy far, far, away, astronomers in the year 2008 sight an unusual gamma-ray burst originating from somewhere far across the universe.",
-        "credit": "xkcd #1433 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1433/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2014-10-13"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-24T10:55:32.023Z",
-      "hash": "84b3bf527e83e8a3"
-    },
-    {
-      "id": "food:1bc4b2d9eeef30b6",
-      "type": "food",
-      "title": "Cottage Cheese Wraps",
-      "summary": "Cottage cheese wraps are a great foundation recipe! They’re high in protein, wildly versatile, and super satisfying, You can stuff them with a wide range of fillings, drizzles, and spreads depending on the season. Here are all my tips and tricks and favorite ways to enjoy them. Continue reading…",
-      "body": "Cottage cheese wraps are a great foundation recipe! They’re high in protein, wildly versatile, and super satisfying, You can stuff them with a wide range of fillings, drizzles, and spreads depending on the season. Here are all my tips and tricks and favorite ways to enjoy them. Continue reading Cottage Cheese Wraps on 101 Cookbooks",
-      "image": {
-        "src": "data/images/51dd9ca3aa2cd9c0.jpg",
-        "alt": "Cottage Cheese Wraps",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/cottage-cheese-wraps/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Wed, 20 May 2026 17:09:5"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "baking recipes",
-        "breakfast recipes",
-        "dinner ideas",
-        "gluten free recipes",
-        "high protein recipes",
-        "low carb recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:31.686Z",
-      "hash": "1bc4b2d9eeef30b6"
-    },
-    {
-      "id": "food:39fcd85255918f3d",
-      "type": "food",
-      "title": "70+ High-Fiber Recipes",
-      "summary": "A collection of 70+ great everyday high-fiber recipes built around ingredients like lentils, beans, whole grains, berries, and vegetables. You’ll find ideas spanning soups and stews, grain bowls, breakfasts, and salads. They’re the kind of fill-you-up recipes that are big on flavor and just happen…",
-      "body": "A collection of 70+ great everyday high-fiber recipes built around ingredients like lentils, beans, whole grains, berries, and vegetables. You’ll find ideas spanning soups and stews, grain bowls, breakfasts, and salads. They’re the kind of fill-you-up recipes that are big on flavor and just happen to be naturally rich in fiber. Continue reading 70+ High-Fiber Recipes on 101 Cookbooks",
-      "image": {
-        "src": "data/images/2a7fbfda9354cc12.jpg",
-        "alt": "70+ High-Fiber Recipes",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/high-fiber-recipes/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Tue, 02 Jun 2026 20:29:4"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:31.686Z",
-      "hash": "39fcd85255918f3d"
-    },
-    {
-      "id": "craft:ff02a7a604117803",
-      "type": "craft",
-      "title": "Elliot McGucken Suspends Einstein’s ‘Light Cones’ Over Desert Expanses",
-      "summary": "The sublime enigmas of nature form the basis of the physicist-photographer's explorations of landscape and light.",
-      "body": "The sublime enigmas of nature form the basis of the physicist-photographer's explorations of landscape and light.",
-      "image": {
-        "src": "data/images/500e270fe4c11e4e.jpg",
-        "alt": "Elliot McGucken Suspends Einstein’s ‘Light Cones’ Over Desert Expanses",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/06/elliot-mcgucken-spacetime-light-cone-sculptures-photography-landscapes/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Tue, 23 Jun 2026 20:20:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "nature",
-        "photography",
-        "science",
-        "deserts",
-        "dr. elliott mcgucken",
-        "drones",
-        "landscapes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:24.842Z",
-      "hash": "ff02a7a604117803"
-    },
-    {
-      "id": "word:0331353fdca40f3f",
-      "type": "word",
-      "title": "halcyon",
-      "summary": "Noun: A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.",
-      "body": "1. A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.\n2. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.\n3. A tropical kingfisher of the genus Halcyon, such as the sacred kingfisher (Halcyon sancta) of Australia.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/halcyon",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-24T10:55:24.030Z",
-      "hash": "0331353fdca40f3f"
-    },
-    {
-      "id": "word:1a6a5d9201c71efe",
-      "type": "word",
-      "title": "oblivion",
-      "summary": "Noun: The state of forgetting completely, of being oblivious, unconscious, unaware, as when sleeping, drunk, or dead.",
-      "body": "1. The state of forgetting completely, of being oblivious, unconscious, unaware, as when sleeping, drunk, or dead.\n2. The state of being completely forgotten, of being reduced to a state of non-existence, extinction, or nothingness, including through war and destruction. for an area like hell, a wasteland.\n3. A form of purgatory.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/oblivion",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-24T10:55:23.528Z",
-      "hash": "1a6a5d9201c71efe"
-    },
-    {
-      "id": "quote:df4df24883ea46d1",
-      "type": "quote",
-      "title": "“To be truly ignorant, be content with your own knowledge.”",
-      "summary": "— Zhuangzi",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Zhuangzi",
-        "trustTier": "community",
-        "author": "Zhuangzi"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-24T10:55:23.125Z",
-      "hash": "df4df24883ea46d1"
-    },
-    {
-      "id": "quote:9eeae2a247724112",
-      "type": "quote",
-      "title": "“A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.”",
-      "summary": "— Tony Robbins",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Tony_Robbins",
-        "trustTier": "community",
-        "author": "Tony Robbins"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-24T10:55:23.125Z",
-      "hash": "9eeae2a247724112"
-    },
-    {
-      "id": "quote:5a0890fe4b6bafc3",
-      "type": "quote",
-      "title": "“The traveler sees what he sees. The tourist sees what he has come to see.”",
-      "summary": "— Gilbert Chesterton",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Gilbert_Chesterton",
-        "trustTier": "community",
-        "author": "Gilbert Chesterton"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-24T10:55:23.125Z",
-      "hash": "5a0890fe4b6bafc3"
-    },
-    {
-      "id": "book-review:9a702d6ac56bb132",
-      "type": "book-review",
-      "title": "“Dear Syria … ”",
-      "summary": "“Here I was, crossing from Lebanon into Syria and from the realm of other peoples’ stories into that of lived experience, including my own.” The post “Dear Syria … ” appeared first on Public Books.",
-      "body": "“Here I was, crossing from Lebanon into Syria and from the realm of other peoples’ stories into that of lived experience, including my own.” The post “Dear Syria … ” appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/dear-syria/",
-        "trustTier": "publication",
-        "author": "Imani Radney",
-        "date": "Tue, 23 Jun 2026 15:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "essays",
-        "displacement",
-        "economics",
-        "lives & histories",
-        "patriotism",
-        "political science",
-        "politics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:23.030Z",
-      "hash": "9a702d6ac56bb132"
-    },
-    {
-      "id": "article:73ec0f7e3af8affa",
-      "type": "article",
-      "title": "Why Cops Stereotypically Like Doughnuts",
-      "summary": "While most professions don’t require 24-hour, 7-days-a-week, 365-days-a-year staffing, first responders are an exception. Emergencies and criminal activities can occur at any time of year, day or night, and they don’t take time off, not even for Christmas. For this reason, there are always…",
-      "body": "While most professions don’t require 24-hour, 7-days-a-week, 365-days-a-year staffing, first responders are an exception. Emergencies and criminal activities can occur at any time of year, day or night, and they don’t take time off, not even for Christmas. For this reason, there are always firefighters, EMTs, and police officers on duty at any given point in time. And police officers, unlike other emergency service providers, are often out on patrol at all hours of the day and night. As you might imagine, this can be pretty boring. If you try driving around any given town at 3 a.m., you’ll…",
-      "image": {
-        "src": "data/images/4fd6059906eec2fa.jpg",
-        "alt": "Why Cops Stereotypically Like Doughnuts",
-        "credit": "Now I Know"
-      },
-      "source": {
-        "name": "Now I Know",
-        "url": "https://nowiknow.com/why-cops-stereotypically-like-doughnuts/",
-        "trustTier": "community",
-        "author": "Dan Lewis",
-        "date": "Tue, 23 Jun 2026 13:04:2"
-      },
-      "tags": [
-        "trivia",
-        "curiosities"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:17.888Z",
-      "hash": "73ec0f7e3af8affa"
-    },
-    {
-      "id": "article:e7c0552a284e3587",
-      "type": "article",
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "summary": "Hello! 8 years ago, I wrote excitedly about discovering Tailwind. At that time I really had no idea how to structure my CSS code and given the choice between a pile of complete chaos and Tailwind, I was really happy to choose Tailwind. It helped me make a lot of tiny sites! I spent the last week…",
-      "body": "Hello! 8 years ago, I wrote excitedly about discovering Tailwind. At that time I really had no idea how to structure my CSS code and given the choice between a pile of complete chaos and Tailwind, I was really happy to choose Tailwind. It helped me make a lot of tiny sites! I spent the last week or so migrating a couple of sites away from Tailwind and towards more semantic HTML + vanilla CSS, and it was SO fun and SO interesting, so here are some things I learned! As usual I&rsquo;m not a full-time frontend developer and so all of my CSS learning has happened in fits and starts over many…",
-      "source": {
-        "name": "Julia Evans",
-        "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-        "trustTier": "community",
-        "date": "2026-05-15T00:00:00+00:0"
-      },
-      "tags": [
-        "programming",
-        "computers",
-        "technology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:15.784Z",
-      "hash": "e7c0552a284e3587"
-    },
-    {
-      "id": "article:dabbeabad8adad72",
-      "type": "article",
-      "title": "Not surprising to KDO readers and I don’t really know who...",
-      "summary": "Not surprising to KDO readers and I don’t really know who still needs to hear this in June 2026 but: the US is in the middle of a “rolling coup” by ultra-conservatives who are “well along the path of destroying our democracy”.",
-      "body": "Not surprising to KDO readers and I don’t really know who still needs to hear this in June 2026 but: the US is in the middle of a “rolling coup” by ultra-conservatives who are “well along the path of destroying our democracy”.",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/06/0049204-the-us-is-in-the-middle-o",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-06-23T20:20:00Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:15.714Z",
-      "hash": "dabbeabad8adad72"
-    },
-    {
-      "id": "article:b369c4f1d3943ce1",
-      "type": "article",
-      "title": "Does Nurture Trump Nature in Disease Risk Prediction?",
-      "summary": "Social determinants of health can match or exceed genetic risk of common diseases The post Does Nurture Trump Nature in Disease Risk Prediction? appeared first on Nautilus.",
-      "body": "Social determinants of health can match or exceed genetic risk of common diseases The post Does Nurture Trump Nature in Disease Risk Prediction? appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/11cfcbf16e975726.png",
-        "alt": "Does Nurture Trump Nature in Disease Risk Prediction?",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/does-nurture-trump-nature-in-disease-risk-prediction-1282197/",
-        "trustTier": "publication",
-        "author": "Jake Currie",
-        "date": "Tue, 23 Jun 2026 23:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "health"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:14.901Z",
-      "hash": "b369c4f1d3943ce1"
-    },
-    {
-      "id": "article:22cc08d3979b758e",
-      "type": "article",
-      "title": "Show Your Shelf: Library Special",
-      "summary": "ANTIGONE READERS And their books Continue reading Show Your Shelf: Library Special",
-      "body": "ANTIGONE READERS And their books Continue reading Show Your Shelf: Library Special",
-      "image": {
-        "src": "data/images/cd8de44fa3ea309b.jpg",
-        "alt": "Show Your Shelf: Library Special",
-        "credit": "Antigone Journal"
-      },
-      "source": {
-        "name": "Antigone Journal",
-        "url": "https://antigonejournal.com/2026/06/readers-shelves/",
-        "trustTier": "publication",
-        "author": "Antigone",
-        "date": "Sat, 20 Jun 2026 14:33:0"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity",
-        "history",
-        "material culture",
-        "the classical tradition",
-        "the future of classics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:14.651Z",
-      "hash": "22cc08d3979b758e"
-    },
-    {
-      "id": "article:9333e3b03b116538",
-      "type": "article",
-      "title": "Oscar Wilde said there is only good art and bad art — the artist's morality is beside the point. But it's not that simple",
-      "summary": "Oscar Wilde said there is only good art and bad art — the artist's morality is beside the point. But it's not that simple",
-      "body": "Oscar Wilde said there is only good art and bad art — the artist's morality is beside the point. But it's not that simple",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://libertiesjournal.com/articles/odious-art/",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:13.705Z",
-      "hash": "9333e3b03b116538"
-    },
-    {
-      "id": "article:25425c61678786aa",
-      "type": "article",
-      "title": "How to Think About the American Revolution",
-      "summary": "* SPECIAL SEMIQUINCENTENNIAL ISSUE *The revolutionary and founding generations did their heroic part in bequeathing to us this legacy of freedom. So abundant is this gift that to live up to it is the most fulfilling thing we can do. The post How to Think About the American Revolution appeared…",
-      "body": "* SPECIAL SEMIQUINCENTENNIAL ISSUE *The revolutionary and founding generations did their heroic part in bequeathing to us this legacy of freedom. So abundant is this gift that to live up to it is the most fulfilling thing we can do. The post How to Think About the American Revolution appeared first on Imprimis.",
-      "image": {
-        "src": "data/images/a914f271357a0fae.png",
-        "alt": "How to Think About the American Revolution",
-        "credit": "Imprimis"
-      },
-      "source": {
-        "name": "Imprimis",
-        "url": "https://imprimis.hillsdale.edu/how-to-think-about-the-american-revolution/",
-        "trustTier": "publication",
-        "author": "Christopher Flannery",
-        "date": "Thu, 18 Jun 2026 16:17:0"
-      },
-      "tags": [
-        "ideas",
-        "liberty",
-        "lecture",
-        "culture",
-        "education",
-        "government",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:13.525Z",
-      "hash": "25425c61678786aa"
-    },
-    {
-      "id": "article:c0aacfd3d792997c",
-      "type": "article",
-      "title": "GLP-1 drugs and marriage",
-      "summary": "GLP-1 medications generate large weight loss and may also alter social and economic outcomes. Using the Understanding America Study, I compare women starting GLP-1s for weight loss with matched women who would like to start a GLP-1 but have not. Single women’s marriage/cohabitation rates rise by…",
-      "body": "GLP-1 medications generate large weight loss and may also alter social and economic outcomes. Using the Understanding America Study, I compare women starting GLP-1s for weight loss with matched women who would like to start a GLP-1 but have not. Single women’s marriage/cohabitation rates rise by 29 percentage points and employment among baseline non-employed women […] The post GLP-1 drugs and marriage appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/06/glp-1-drugs-and-marriage.html?utm_source=rss&utm_medium=rss&utm_campaign=glp-1-drugs-and-marriage",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Wed, 24 Jun 2026 06:25:0"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "data source",
-        "medicine"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:13.073Z",
-      "hash": "c0aacfd3d792997c"
-    },
-    {
-      "id": "article:839efd48f739be7c",
-      "type": "article",
-      "title": "Emergent Ventures winners, 55th cohort",
-      "summary": "Aliaksandra Melnichenka, Belarus/Kentucky, to support science and math writing. Guilherme Pinho, Sao Paulo, real estate titling and transactions in Brazil. Diyar Zhakpelov, Astana, Kazakhstan, 17, exam prep app for Kazakhs, general career support. Randy Chang, AI policy writings, Ontario/Chapel…",
-      "body": "Aliaksandra Melnichenka, Belarus/Kentucky, to support science and math writing. Guilherme Pinho, Sao Paulo, real estate titling and transactions in Brazil. Diyar Zhakpelov, Astana, Kazakhstan, 17, exam prep app for Kazakhs, general career support. Randy Chang, AI policy writings, Ontario/Chapel Hill. Jesse Casana, Dartmouth, archaeology tranche, “Drone-acquired synthetic aperture radar (SAR), a novel and experimental technology, […] The post Emergent Ventures winners, 55th cohort appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/06/emergent-ventures-winners-55th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-winners-55th-cohort",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Wed, 24 Jun 2026 05:17:0"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "education"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:13.073Z",
-      "hash": "839efd48f739be7c"
-    },
-    {
-      "id": "poetry:0b5643f9d05d5221",
-      "type": "poem",
-      "title": "Apparent Failure",
-      "summary": "No, for I'll save it! Seven years since\n  I passed through Paris, stopped a day\nTo see the baptism of your Prince,\n  Saw, made my bow, and went my way:",
-      "body": "No, for I'll save it! Seven years since\n  I passed through Paris, stopped a day\nTo see the baptism of your Prince,\n  Saw, made my bow, and went my way:\nWalking the heat and headache off,\n  I took the Seine-side, you surmise,\nThought of the Congress, Gortschakoff,\n  Cavour's appeal and Buol's replies,\n  So sauntered till--what met my eyes?\n\nOnly the Doric little Morgue!\n  The dead-house where you show your drowned:\nPetrarch's Vaucluse makes proud the Sorgue,\n  Your Morgue has made the Seine renowned.\nOne pays one's debt in such a case;\n  I plucked up heart and entered,--stalked,\nKeeping a tolerable face\n  Compared with some whose cheeks were chalked:\n  Let them! No Briton's to be balked!\n\nFirst came the silent gazers; next,\n  A screen of glass, we're thankful for;\nLast, the sight's self, the sermon's text,\n  The three men who did most abhor\nTheir life in Paris yesterday,\n  So killed themselves: and now, enthroned\nEach on his copper couch, they lay\n  Fronting me, waiting to be owned.\n  I thought, and think, their sin's atoned.\n\nPoor men, God made, and all for that!\n  The reverence struck me; o'er each head\nReligiously was hung its hat,\n  Each coat dripped by the owner's bed,\nSacred from touch: each had his berth,\n  His bounds, his proper place of rest,\nWho last night tenanted on earth\n  Some arch, where twelve such slept abreast,--\n  Unless the plain asphalt seemed best.\n\nHow did it happen, my poor boy?\n  You wanted to be Buonaparte\nAnd have the Tuileries for toy,\n And could not, so it broke your heart?\nYou, old one by his side, I judge,\n  Were, red as blood, a socialist,\nA leveller! Does the Empire grudge\n  You've gained what no Republic missed?\n  Be quiet, and unclench your fist!\n\nAnd this--why, he was red in vain,\n  Or black,--poor fellow that is blue!\nWhat fancy was it, turned your brain?\n  Oh, women were the prize for you!\nMoney gets women, cards and dice\n  Get money, and ill-luck gets just\nThe copper couch and one clear nice\n  Cool squirt of water o'er your bust,\n  The right thing to extinguish lust!\n\nIt's wiser being good than bad;\n  It's safer being meek than fierce:\nIt's fitter being sane than mad.\n  My own hope is, a sun will pierce\nThe thickest cloud earth ever stretched;\n  That, after Last, returns the First,\nTho' a wide compass round be fetched;\n  That what began best, can't end worst,\n  Nor what God blessed once, prove accurst.",
-      "source": {
-        "name": "Robert Browning · PoetryDB",
-        "url": "https://poetrydb.org/title/Apparent%20Failure",
-        "trustTier": "community",
-        "author": "Robert Browning"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:11.860Z",
-      "hash": "0b5643f9d05d5221"
-    },
-    {
-      "id": "poetry:ca309ed28462033d",
-      "type": "poem",
-      "title": "The Morgante Maggiore of Pulci",
-      "summary": "CANTO THE FIRST.\nIn the beginning was the Word next God;\n  God was the Word, the Word no less was He:\nThis was in the beginning, to my mode",
-      "body": "CANTO THE FIRST.\n\nIn the beginning was the Word next God;\n  God was the Word, the Word no less was He:\nThis was in the beginning, to my mode\n  Of thinking, and without Him nought could be:\nTherefore, just Lord! from out thy high abode,\n  Benign and pious, bid an angel flee,\nOne only, to be my companion, who\nShall help my famous, worthy, old song through.\n\nAnd thou, oh Virgin! daughter, mother, bride,\n  Of the same Lord, who gave to you each key\nOf Heaven, and Hell, and every thing beside,\n  The day thy Gabriel said \"All hail!\" to thee,\nSince to thy servants Pity's ne'er denied,\n  With flowing rhymes, a pleasant style and free,\nBe to my verses then benignly kind,\nAnd to the end illuminate my mind.\n\n'Twas in the season when sad Philomel\n  Weeps with her sister, who remembers and\nDeplores the ancient woes which both befel,\n  And makes the nymphs enamoured, to the hand\nOf Phaëton, by Phoebus loved so well,\n  His car (but tempered by his sire's command)\nWas given, and on the horizon's verge just now\nAppeared, so that Tithonus scratched his brow:\n\nWhen I prepared my bark first to obey,\n  As it should still obey, the helm, my mind,\nAnd carry prose or rhyme, and this my lay\n  Of Charles the Emperor, whom you will find\nBy several pens already praised; but they\n  Who to diffuse his glory were inclined,\nFor all that I can see in prose or verse,\nHave understood Charles badly, and wrote worse.\n\nLeonardo Aretino said already,\n  That if, like Pepin, Charles had had a writer\nOf genius quick, and diligently steady,\n  No hero would in history look brighter;\nHe in the cabinet being always ready,\n  And in the field a most victorious fighter,\nWho for the church and Christian faith had wrought,\nCertes, far more than yet is said or thought.\n\nYou still may see at Saint Liberatore,\n  The abbey, no great way from Manopell,\nErected in the Abruzzi to his glory,\n  Because of the great battle in which fell\nA pagan king, according to the story,\n  And felon people whom Charles sent to Hell:\nAnd there are bones so many, and so many,\nNear them Giusaffa's would seem few, if any.\n\nBut the world, blind and ignorant, don't prize\n  His virtues as I wish to see them: thou,\nFlorence, by his great bounty don't arise,\n  And hast, and may have, if thou wilt allow,\nAll proper customs and true courtesies:\n  Whate'er thou hast acquired from then till now,\nWith knightly courage, treasure, or the lance,\nIs sprung from out the noble blood of France.\n\nTwelve Paladins had Charles in court, of whom\n  The wisest and most famous was Orlando;\nHim traitor Gan conducted to the tomb\n  In Roncesvalles, as the villain planned too,\nWhile the horn rang so loud, and knelled the doom\n  Of their sad rout, though he did all knight can do:\nAnd Dante in his comedy has given\nTo him a happy seat with Charles in Heaven.\n\n'Twas Christmas-day; in Paris all his court\n  Charles held; the Chief, I say, Orlando was,\nThe Dane; Astolfo there too did resort,\n  Also Ansuigi, the gay time to pass\nIn festival and in triumphal sport,\n  The much-renowned St. Dennis being the cause;\nAngiolin of Bayonne, and Oliver,\nAnd gentle Belinghieri too came there:\n\nAvolio, and Arino, and Othone\n  Of Normandy, and Richard Paladin,\nWise Hamo, and the ancient Salamone,\n  Walter of Lion's Mount, and Baldovin,\nWho was the son of the sad Ganellone,\n  Were there, exciting too much gladness in\nThe son of Pepin:--when his knights came hither,\nHe groaned with joy to see them altogether.\n\nBut watchful Fortune, lurking, takes good heed\n  Ever some bar 'gainst our intents to bring.\nWhile Charles reposed him thus, in word and deed,\n  Orlando ruled court, Charles, and every thing;\nCurst Gan, with envy bursting, had such need\n  To vent his spite, that thus with Charles the king\nOne day he openly began to say,\n\"Orlando must we always then obey?\n\n\"A thousand times I've been about to say,\n  Orlando too presumptuously goes on;\nHere are we, counts, kings, dukes, to own thy sway,\n  Hamo, and Otho, Ogier, Solomon,\nEach have to honour thee and to obey;\n  But he has too much credit near the throne,\nWhich we won't suffer, but are quite decided\nBy such a boy to be no longer guided.\n\n\"And even at Aspramont thou didst begin\n  To let him know he was a gallant knight,\nAnd by the fount did much the day to win;\n  But I know _who_ that day had won the fight\nIf it had not for good Gherardo been;\n  The victory was Almonte's else; his sight\nHe kept upon the standard--and the laurels,\nIn fact and fairness, are his earning, Charles!\n\n\"If thou rememberest being in Gascony,\n  When there advanced the nations out of Spain\nThe Christian cause had suffered shamefully,\n  Had not his valour driven them back again.\nBest speak the truth when there's a reason why:\n  Know then, oh Emperor! that all complain:\nAs for myself, I shall repass the mounts\nO'er which I crossed with two and sixty counts.\n\n\"'Tis fit thy grandeur should dispense relief,\n  So that each here may have his proper part,\nFor the whole court is more or less in grief:\n  Perhaps thou deem'st this lad a Mars in heart?\"\nOrlando one day heard this speech in brief,\n  As by himself it chanced he sate apart:\nDispleased he was with Gan because he said it,\nBut much more still that Charles should give him credit.\n\nAnd with the sword he would have murdered Gan,\n  But Oliver thrust in between the pair,\nAnd from his hand extracted Durlindan,\n  And thus at length they separated were.\nOrlando angry too with Carloman,\n  Wanted but little to have slain him there;\nThen forth alone from Paris went the Chief,\nAnd burst and maddened with disdain and grief.\n\nFrom Ermellina, consort of the Dane,\n  He took Cortana, and then took Rondell,\nAnd on towards Brara pricked him o'er the plain;\n  And when she saw him coming, Aldabelle\nStretched forth her arms to clasp her lord again:\n  Orlando, in whose brain all was not well,\nAs \"Welcome, my Orlando, home,\" she said,\nRaised up his sword to smite her on the head.\n\nLike him a Fury counsels, his revenge\n  On Gan in that rash act he seemed to take,\nWhich Aldabella thought extremely strange;\n  But soon Orlando found himself awake;\nAnd his spouse took his bridle on this change,\n  And he dismounted from his horse, and spake\nOf every thing which passed without demur,\nAnd then reposed himself some days with her.\n\nThen full of wrath departed from the place,\n  As far as pagan countries roamed astray,\nAnd while he rode, yet still at every pace\n  The traitor Gan remembered by the way;\nAnd wandering on in error a long space,\n  An abbey which in a lone desert lay,\n'Midst glens obscure, and distant lands, he found,\nWhich formed the Christian's and the Pagan's bound.\n\nThe Abbot was called Clermont, and by blood\n  Descended from Angrante: under cover\nOf a great mountain's brow the abbey stood,\n  But certain savage giants looked him over;\nOne Passamont was foremost of the brood,\n  And Alabaster and Morgante hover\nSecond and third, with certain slings, and throw\nIn daily jeopardy the place below.\n\nThe monks could pass the convent gate no more,\n  Nor leave their cells for water or for wood;\nOrlando knocked, but none would ope, before\n  Unto the Prior it at length seemed good;\nEntered, he said that he was taught to adore\n  Him who was born of Mary's holiest blood,\nAnd was baptized a Christian; and then showed\nHow to the abbey he had found his road.\n\nSaid the Abbot, \"You are welcome; what is mine\n  We give you freely, since that you believe\nWith us in Mary Mother's Son divine;\n  And that you may not, Cavalier, conceive\nThe cause of our delay to let you in\n  To be rusticity, you shall receive\nThe reason why our gate was barred to you:\nThus those who in suspicion live must do.\n\n\"When hither to inhabit first we came\n  These mountains, albeit that they are obscure,\nAs you perceive, yet without fear or blame\n  They seemed to promise an asylum sure:\nFrom savage brutes alone, too fierce to tame,\n  'Twas fit our quiet dwelling to secure;\nBut now, if here we'd stay, we needs must guard\nAgainst domestic beasts with watch and ward.\n\n\"These make us stand, in fact, upon the watch;\n  For late there have appeared three giants rough,\nWhat nation or what kingdom bore the batch\n  I know not, but they are all of savage stuff;\nWhen Force and Malice with some genius match,\n  You know, they can do all--_we_ are not enough:\nAnd these so much our orisons derange,\nI know not what to do, till matters change.\n\n\"Our ancient fathers, living the desert in,\n  For just and holy works were duly fed;\nThink not they lived on locusts sole, 'tis certain\n  That manna was rained down from heaven instead;\nBut here 'tis fit we keep on the alert in\n  Our bounds, or taste the stones showered down for bread,\nFrom off yon mountain daily raining faster,\nAnd flung by Passamont and Alabaster.\n\n\"The third, Morgante, 's savagest by far; he\n  Plucks up pines, beeches, poplar-trees, and oaks,\nAnd flings them, our community to bury;\n  And all that I can do but more provokes.\"\nWhile thus they parley in the cemetery,\n  A stone from one of their gigantic strokes,\nWhich nearly crushed Rondell, came tumbling over,\nSo that he took a long leap under cover.\n\n\"For God-sake, Cavalier, come in with speed;\n  The manna's falling now,\" the Abbot cried.\n\"This fellow does not wish my horse should feed,\n  Dear Abbot,\" Roland unto him replied,\n\"Of restiveness he'd cure him had he need;\n  That stone seems with good will and aim applied.\"\nThe holy father said, \"I don't deceive;\nThey'll one day fling the mountain, I believe.\"\n\nOrlando bade them take care of Rondello,\n  And also made a breakfast of his own;\n\"Abbot,\" he said, \"I want to find that fellow\n  Who flung at my good horse yon corner-stone.\"\nSaid the abbot, \"Let not my advice seem shallow;\n  As to a brother dear I speak alone;\nI would dissuade you, Baron, from this strife,\nAs knowing sure that you will lose your life.\n\n\"That Passamont has in his hand three darts--\n  Such slings, clubs, ballast-stones, that yield you must:\nYou know that giants have much stouter hearts\n  Than us, with reason, in proportion just:\nIf go you will, guard well against their arts,\n  For these are very barbarous and robust.\"\nOrlando answered,\" This I'll see, be sure,\nAnd walk the wild on foot to be secure.\"\n\nThe Abbot signed the great cross on his front,\n  \"Then go you with God's benison and mine.\"\nOrlando, after he had scaled the mount,\n  As the Abbot had directed, kept the line\nRight to the usual haunt of Passamont;\n  Who, seeing him alone in this design,\nSurveyed him fore and aft with eyes observant,\nThen asked him, \"If he wished to stay as servant?\"\n\nAnd promised him an office of great ease.\n  But, said Orlando, \"Saracen insane!\nI come to kill you, if it shall so please\n  God, not to serve as footboy in your train;\nYou with his monks so oft have broke the peace--\n  Vile dog! 'tis past his patience to sustain.\"\nThe Giant ran to fetch his arms, quite furious,\nWhen he received an answer so injurious.\n\nAnd being returned to where Orlando stood,\n  Who had not moved him from the spot, and swinging\nThe cord, he hurled a stone with strength so rude,\n  As showed a sample of his skill in slinging;\nIt rolled on Count Orlando's helmet good\n  And head, and set both head and helmet ringing,\nSo that he swooned with pain as if he died,\nBut more than dead, he seemed so stupified.\n\nThen Passamont, who thought him slain outright,\n  Said, \"I will go, and while he lies along,\nDisarm me: why such craven did I fight?\"\n  But Christ his servants ne'er abandons long,\nEspecially Orlando, such a knight,\n  As to desert would almost be a wrong.\nWhile the giant goes to put off his defences,\nOrlando has recalled his force and senses:\n\nAnd loud he shouted, \"Giant, where dost go?\n  Thou thought'st me doubtless for the bier outlaid;\nTo the right about--without wings thou'rt too slow\n  To fly my vengeance--currish renegade!\n'Twas but by treachery thou laid'st me low.\"\n  The giant his astonishment betrayed,\nAnd turned about, and stopped his journey on,\nAnd then he stooped to pick up a great stone.\n\nOrlando had Cortana bare in hand;\n  To split the head in twain was what he schemed:\nCortana clave the skull like a true brand,\n  And pagan Passamont died unredeemed;\nYet harsh and haughty, as he lay he banned,\n  And most devoutly Macon still blasphemed;\nBut while his crude, rude blasphemies he heard,\nOrlando thanked the Father and the Word,--\n\nSaying, \"What grace to me thou'st this day given!\n  And I to thee, O Lord! am ever bound;\nI know my life was saved by thee from Heaven,\n  Since by the Giant I was fairly downed.\nAll things by thee are measured just and even;\n  Our power without thine aid would nought be found:\nI pray thee take heed of me, till I can\nAt least return once more to Carloman.\"\n\nAnd having said thus much, he went his way;\n  And Alabaster he found out below,\nDoing the very best that in him lay\n  To root from out a bank a rock or two.\nOrlando, when he reached him, loud 'gan say,\n  \"How think'st thou, glutton, such a stone to throw?\"\nWhen Alabaster heard his deep voice ring,\nHe suddenly betook him to his sling,\n\nAnd hurled a fragment of a size so large\n  That if it had in fact fulfilled its mission,\nAnd Roland not availed him of his targe,\n  There would have been no need of a physician.\nOrlando set himself in turn to charge,\n  And in his bulky bosom made incision\nWith all his sword. The lout fell; but o'erthrown, he\nHowever by no means forgot Macone.\n\nMorgante had a palace in his mode,\n  Composed of branches, logs of wood, and earth,\nAnd stretched himself at ease in this abode,\n  And shut himself at night within his berth.\nOrlando knocked, and knocked again, to goad\n  The giant from his sleep; and he came forth,\nThe door to open, like a crazy thing,\nFor a rough dream had shook him slumbering.\n\nHe thought that a fierce serpent had attacked him,\n  And Mahomet he called; but Mahomet\nIs nothing worth, and, not an instant backed him;\n  But praying blessed Jesu, he was set\nAt liberty from all the fears which racked him;\n  And to the gate he came with great regret--\n\"Who knocks here?\" grumbling all the while, said he.\n\"That,\" said Orlando, \"you will quickly see:\n\n\"I come to preach to you, as to your brothers,--\n  Sent by the miserable monks--repentance;\nFor Providence divine, in you and others,\n  Condemns the evil done, my new acquaintance!\n'Tis writ on high--your wrong must pay another's:\n  From Heaven itself is issued out this sentence.\nKnow then, that colder now than a pilaster\nI left your Passamont and Alabaster.\"\n\nMorgante said, \"Oh gentle Cavalier!\n  Now by thy God say me no villany;\nThe favour of your name I fain would hear,\n  And if a Christian, speak for courtesy.\"\nReplied Orlando, \"So much to your ear\n  I by my faith disclose contentedly;\nChrist I adore, who is the genuine Lord,\nAnd, if you please, by you may be adored.\"\n\nThe Saracen rejoined in humble tone,\n  \"I have had an extraordinary vision;\nA savage serpent fell on me alone,\n  And Macon would not pity my condition;\nHence to thy God, who for ye did atone\n  Upon the cross, preferred I my petition;\nHis timely succour set me safe and free,\nAnd I a Christian am disposed to be.\"\n\nOrlando answered, \"Baron just and pious,\n  If this good wish your heart can really move\nTo the true God, who will not then deny us\n  Eternal honour, you will go above,\nAnd, if you please, as friends we will ally us,\n  And I will love you with a perfect love.\nYour idols are vain liars, full of fraud:\nThe only true God is the Christian's God.\n\n\"The Lord descended to the virgin breast\n  Of Mary Mother, sinless and divine;\nIf you acknowledge the Redeemer blest,\n  Without whom neither sun nor star can shine,\nAbjure bad Macon's false and felon test,\n  Your renegado god, and worship mine,\nBaptize yourself with zeal, since you repent.\"\nTo which Morgante answered, \"I'm content.\"\n\nAnd then Orlando to embrace him flew,\n  And made much of his convert, as he cried,\n\"To the abbey I will gladly marshal you.\"\n  To whom Morgante, \"Let us go,\" replied:\n\"I to the friars have for peace to sue.\"\n  Which thing Orlando heard with inward pride,\nSaying, \"My brother, so devout and good,\nAsk the Abbot pardon, as I wish you would:\n\n\"Since God has granted your illumination,\n  Accepting you in mercy for his own,\nHumility should be your first oblation.\"\n  Morgante said, \"For goodness' sake, make known,--\nSince that your God is to be mine--your station,\n  And let your name in verity be shown;\nThen will I everything at your command do.\"\nOn which the other said, he was Orlando.\n\n\"Then,\" quoth the Giant, \"blessed be Jesu\n  A thousand times with gratitude and praise!\nOft, perfect Baron! have I heard of you\n  Through all the different periods of my days:\nAnd, as I said, to be your vassal too\n  I wish, for your great gallantry always.\"\nThus reasoning, they continued much to say,\nAnd onwards to the abbey went their way.\n\nAnd by the way about the giants dead\n  Orlando with Morgante reasoned: \"Be,\nFor their decease, I pray you, comforted,\n  And, since it is God's pleasure, pardon me;\nA thousand wrongs unto the monks they bred;\n  And our true Scripture soundeth openly,\nGood is rewarded, and chastised the ill,\nWhich the Lord never faileth to fulfil:\n\n\"Because His love of justice unto all\n  Is such, He wills His judgment should devour\nAll who have sin, however great or small;\n  But good He well remembers to restore.\nNor without justice holy could we call\n  Him, whom I now require you to adore.\nAll men must make His will their wishes sway,\nAnd quickly and spontaneously obey.\n\n\"And here our doctors are of one accord,\n  Coming on this point to the same conclusion,--\nThat in their thoughts, who praise in Heaven the Lord,\n  If Pity e'er was guilty of intrusion\nFor their unfortunate relations stored\n  In Hell below, and damned in great confusion,\nTheir happiness would be reduced to nought,--\nAnd thus unjust the Almighty's self be thought.\n\n\"But they in Christ have firmest hope, and all\n  Which seems to Him, to them too must appear\nWell done; nor could it otherwise befall;\n  He never can in any purpose err.\nIf sire or mother suffer endless thrall,\n  They don't disturb themselves for him or her:\nWhat pleases God to them must joy inspire;--\nSuch is the observance of the eternal choir.\"\n\n\"A word unto the wise,\" Morgante said,\n  \"Is wont to be enough, and you shall see\nHow much I grieve about my brethren dead;\n  And if the will of God seem good to me,\nJust, as you tell me, 'tis in Heaven obeyed--\n  Ashes to ashes,--merry let us be!\nI will cut off the hands from both their trunks,\nAnd carry them unto the holy monks.\n\n\"So that all persons may be sure and certain\n  That they are dead, and have no further fear\nTo wander solitary this desert in,\n  And that they may perceive my spirit clear\nBy the Lord's grace, who hath withdrawn the curtain\n  Of darkness, making His bright realm appear.\"\nHe cut his brethren's hands off at these words,\nAnd left them to the savage beasts and birds.\n\nThen to the abbey they went on together,\n  Where waited them the Abbot in great doubt.\nThe monks, who knew not yet the fact, ran thither\n  To their superior, all in breathless rout,\nSaying with tremor, \"Please to tell us whether\n  You wish to have this person in or out?\"\nThe Abbot, looking through upon the Giant,\nToo greatly feared, at first, to be compliant.\n\nOrlando seeing him thus agitated,\n  Said quickly, \"Abbot, be thou of good cheer;\nHe Christ believes, as Christian must be rated,\n  And hath renounced his Macon false;\" which here\nMorgante with the hands corroborated,\n  A proof of both the giants' fate quite clear:\nThence, with due thanks, the Abbot God adored,\nSaying, \"Thou hast contented me, O Lord!\"\n\nHe gazed; Morgante's height he calculated,\n  And more than once contemplated his size;\nAnd then he said, \"O Giant celebrated!\n  Know, that no more my wonder will arise,\nHow you could tear and fling the trees you late did,\n  When I behold your form with my own eyes.\nYou now a true and perfect friend will show\nYourself to Christ, as once you were a foe.\n\n\"And one of our apostles, Saul once named,\n  Long persecuted sore the faith of Christ,\nTill, one day, by the Spirit being inflamed,\n  'Why dost thou persecute me thus?' said Christ;\nAnd then from his offence he was reclaimed,\n  And went for ever after preaching Christ,\nAnd of the faith became a trump, whose sounding\nO'er the whole earth is echoing and rebounding.\n\n\"So, my Morgante, you may do likewise:\n  He who repents--thus writes the Evangelist--\nOccasions more rejoicing in the skies\n  Than ninety-nine of the celestial list.\nYou may be sure, should each desire arise\n  With just zeal for the Lord, that you'll exist\nAmong the happy saints for evermore;\nBut you were lost and damned to Hell before!\"\n\nAnd thus great honour to Morgante paid\n  The Abbot: many days they did repose.\nOne day, as with Orlando they both strayed,\n  And sauntered here and there, where'er they chose,\nThe Abbot showed a chamber, where arrayed\n  Much armour was, and hung up certain bows;\nAnd one of these Morgante for a whim\nGirt on, though useless, he believed, to him.\n\nThere being a want of water in the place,\n  Orlando, like a worthy brother, said,\n\"Morgante, I could wish you in this case\n  To go for water.\" \"You shall be obeyed\nIn all commands,\" was the reply, \"straight ways.\"\n  Upon his shoulder a great tub he laid,\nAnd went out on his way unto a fountain,\nWhere he was wont to drink, below the mountain.\n\nArrived there, a prodigious noise he hears,\n  Which suddenly along the forest spread;\nWhereat from out his quiver he prepares\n  An arrow for his bow, and lifts his head;\nAnd lo! a monstrous herd of swine appears,\n  And onward rushes with tempestuous tread,\nAnd to the fountain's brink precisely pours;\nSo that the Giant's joined by all the boars.\n\nMorgante at a venture shot an arrow,\n  Which pierced a pig precisely in the ear,\nAnd passed unto the other side quite through;\n  So that the boar, defunct, lay tripped up near.\nAnother, to revenge his fellow farrow,\n  Against the Giant rushed in fierce career,\nAnd reached the passage with so swift a foot,\nMorgante was not now in time to shoot.\n\nPerceiving that the pig was on him close,\n  He gave him such a punch upon the head,\nAs floored him so that he no more arose,\n  Smashing the very bone; and he fell dead\nNext to the other. Having seen such blows,\n  The other pigs along the valley fled;\nMorgante on his neck the bucket took,\nFull from the spring, which neither swerved nor shook.\n\nThe tub was on one shoulder, and there were\n  The hogs on t'other, and he brushed apace\nOn to the abbey, though by no means near,\n  Nor spilt one drop of water in his race.\nOrlando, seeing him so soon appear\n  With the dead boars, and with that brimful vase,\nMarvelled to see his strength so very great;\nSo did the Abbot, and set wide the gate.\n\nThe monks, who saw the water fresh and good,\n  Rejoiced, but much more to perceive the pork;\nAll animals are glad at sight of food:\n  They lay their breviaries to sleep, and work\nWith greedy pleasure, and in such a mood,\n  That the flesh needs no salt beneath their fork.\nOf rankness and of rot there is no fear,\nFor all the fasts are now left in arrear.\n\nAs though they wished to burst at once, they ate;\n  And gorged so that, as if the bones had been\nIn water, sorely grieved the dog and cat,\n  Perceiving that they all were picked too clean.\nThe Abbot, who to all did honour great,\n  A few days after this convivial scene,\nGave to Morgante a fine horse, well trained,\nWhich he long time had for himself maintained.\n\nThe horse Morgante to a meadow led,\n  To gallop, and to put him to the proof,\nThinking that he a back of iron had,\n  Or to skim eggs unbroke was light enough;\nBut the horse, sinking with the pain, fell dead,\n  And burst, while cold on earth lay head and hoof.\nMorgante said, \"Get up, thou sulky cur!\"\nAnd still continued pricking with the spur.\n\nBut finally he thought fit to dismount,\n  And said, \"I am as light as any feather,\nAnd he has burst;--to this what say you, Count?\"\n  Orlando answered, \"Like a ship's mast rather\nYou seem to me, and with the truck for front:\n  Let him go! Fortune wills that we together\nShould march, but you on foot Morgante still.\"\nTo which the Giant answered,\" So I will.\n\n\"When there shall be occasion, you will see\n  How I approve my courage in the fight.\"\nOrlando said, \"I really think you'll be,\n  If it should prove God's will, a goodly knight;\nNor will you napping there discover me.\n  But never mind your horse, though out of sight\n'Twere best to carry him into some wood,\nIf but the means or way I understood.\"\n\nThe Giant said, \"Then carry him I will,\n  Since that to carry me he was so slack--\nTo render, as the gods do, good for ill;\n  But lend a hand to place him on my back.\"\nOrlando answered, \"If my counsel still\n  May weigh, Morgante, do not undertake\nTo lift or carry this dead courser, who,\nAs you have done to him, will do to you.\n\n\"Take care he don't revenge himself, though dead,\n  As Nessus did of old beyond all cure.\nI don't know if the fact you've heard or read;\n  But he will make you burst, you may be sure.\"\n\"But help him on my back,\" Morgante said,\n  \"And you shall see what weight I can endure.\nIn place, my gentle Roland, of this palfrey,\nWith all the bells, I'd carry yonder belfry.\"\n\nThe Abbot said, \"The steeple may do well,\n  But for the bells, you've broken them, I wot.\"\nMorgante answered, \"Let them pay in Hell\n  The penalty who lie dead in yon grot;\"\nAnd hoisting up the horse from where he fell,\n  He said, \"Now look if I the gout have got,\nOrlando, in the legs,--or if I have force;\"--\nAnd then he made two gambols with the horse.\n\nMorgante was like any mountain framed;\n  So if he did this 'tis no prodigy;\nBut secretly himself Orlando blamed,\n  Because he was one of his family;\nAnd fearing that he might be hurt or maimed,\n  Once more he bade him lay his burden by:\n\"Put down, nor bear him further the desert in.\"\nMorgante said, \"I'll carry him for certain.\"\n\nHe did; and stowed him in some nook away,\n  And to the abbey then returned with speed.\nOrlando said, \"Why longer do we stay?\n  Morgante, here is nought to do indeed.\"\nThe Abbot by the hand he took one day,\n  And said, with great respect, he had agreed\nTo leave his reverence; but for this decision\nHe wished to have his pardon and permission.\n\nThe honours they continued to receive\n  Perhaps exceeded what his merits claimed:\nHe said, \"I mean, and quickly, to retrieve\n  The lost days of time past, which may be blamed;\nSome days ago I should have asked your leave,\n  Kind father, but I really was ashamed,\nAnd know not how to show my sentiment,\nSo much I see you with our stay content.\n\n\"But in my heart I bear through every clime\n  The Abbot, abbey, and this solitude--\nSo much I love you in so short a time;\n  For me, from Heaven reward you with all good\nThe God so true, the eternal Lord sublime!\n  Whose kingdom at the last hath open stood.\nMeantime we stand expectant of your blessing.\nAnd recommend us to your prayers with pressing.\"\n\nNow when the Abbot Count Orlando heard,\n  His heart grew soft with inner tenderness,\nSuch fervour in his bosom bred each word;\n  And, \"Cavalier,\" he said, \"if I have less\nCourteous and kind to your great worth appeared,\n  Than fits me for such gentle blood to express,\nI know I have done too little in this case;\nBut blame our ignorance, and this poor place.\n\n\"We can indeed but honour you with masses,\n  And sermons, thanksgivings, and pater-nosters,\nHot suppers, dinners (fitting other places\n  In verity much rather than the cloisters);\nBut such a love for you my heart embraces,\n  For thousand virtues which your bosom fosters,\nThat wheresoe'er you go I too shall be,\nAnd, on the other part, you rest with me.\n\n\"This may involve a seeming contradiction;\n  But you I know are sage, and feel, and taste,\nAnd understand my speech with full conviction.\n  For your just pious deeds may you be graced\nWith the Lord's great reward and benediction,\n  By whom you were directed to this waste:\nTo His high mercy is our freedom due,\nFor which we render thanks to Him and you.\n\n\"You saved at once our life and soul: such fear\n  The Giants caused us, that the way was lost\nBy which we could pursue a fit career\n  In search of Jesus and the saintly Host;\nAnd your departure breeds such sorrow here,\n  That comfortless we all are to our cost;\nBut months and years you would not stay in sloth,\nNor are you formed to wear our sober cloth,\n\n\"But to bear arms, and wield the lance; indeed,\n  With these as much is done as with this cowl;\nIn proof of which the Scripture you may read,\n  This Giant up to Heaven may bear his soul\nBy your compassion: now in peace proceed.\n  Your state and name I seek not to unroll;\nBut, if I'm asked, this answer shall be given,\nThat here an angel was sent down from Heaven.\n\n\"If you want armour or aught else, go in,\n  Look o'er the wardrobe, and take what you choose,\nAnd cover with it o'er this Giant's skin.\"\n  Orlando answered, \"If there should lie loose\nSome armour, ere our journey we begin,\n  Which might be turned to my companion's use,\nThe gift would be acceptable to me.\"\nThe Abbot said to him, \"Come in and see.\"\n\nAnd in a certain closet, where the wall\n  Was covered with old armour like a crust,\nThe Abbot said to them, \"I give you all.\"\n  Morgante rummaged piecemeal from the dust\nThe whole, which, save one cuirass, was too small,\n  And that too had the mail inlaid with rust.\nThey wondered how it fitted him exactly,\nWhich ne'er had suited others so compactly.\n\n'Twas an immeasurable Giant's, who\n  By the great Milo of Agrante fell\nBefore the abbey many years ago.\n  The story on the wall was figured well;\nIn the last moment of the abbey's foe,\n  Who long had waged a war implacable:\nPrecisely as the war occurred they drew him,\nAnd there was Milo as he overthrew him.\n\nSeeing this history, Count Orlando said\n  In his own heart, \"O God who in the sky\nKnow'st all things! how was Milo hither led?\n  Who caused the Giant in this place to die?\"\nAnd certain letters, weeping, then he read,\n  So that he could not keep his visage dry,--\nAs I will tell in the ensuing story:\nFrom evil keep you the high King of Glory!",
-      "source": {
-        "name": "George Gordon, Lord Byron · PoetryDB",
-        "url": "https://poetrydb.org/title/The%20Morgante%20Maggiore%20of%20Pulci",
-        "trustTier": "community",
-        "author": "George Gordon, Lord Byron"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-06-24T10:55:11.860Z",
-      "hash": "ca309ed28462033d"
-    },
-    {
-      "id": "art:si:ld1-1643408110535-1643408155488-0",
-      "type": "art",
-      "title": "Reinhardtia paiewonskiana Read et al.",
-      "summary": "NMNH - Botany Dept.",
-      "body": "NMNH - Botany Dept.",
-      "image": {
-        "src": "data/images/a5fa2395c28115f3.jpg",
-        "alt": "Reinhardtia paiewonskiana Read et al.",
-        "credit": "NMNH - Botany Dept. · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/3ceb3ce21-ca5e-4854-b880-da630e279bb6",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "botanical"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-24T10:55:01.069Z",
-      "hash": "bade372f2bdcef5e"
-    },
-    {
-      "id": "met:336134",
-      "type": "art",
-      "title": "Portrait of Edgar Degas, wearing a hat",
-      "summary": "Marcellin Desboutin · 1876 · Drypoint; first state of two",
-      "body": "Marcellin Desboutin · 1876 · Drypoint; first state of two\nPurchase, 1998\nDrawings and Prints",
-      "image": {
-        "src": "data/images/6177640fbf594548.jpg",
-        "alt": "Portrait of Edgar Degas, wearing a hat",
-        "credit": "The Met · Purchase, 1998"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/336134",
-        "trustTier": "encyclopedic",
-        "author": "Marcellin Desboutin",
-        "date": "1876"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "cat",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-24T10:54:59.639Z",
-      "hash": "e0ed8ab7d991f275"
-    },
-    {
-      "id": "met:377259",
-      "type": "art",
-      "title": "June",
-      "summary": "Francesco Bartolozzi · July 10, 1789 · Etching and engraving; third state",
-      "body": "Francesco Bartolozzi · July 10, 1789 · Etching and engraving; third state\nGertrude and Thomas Jefferson Mumford Collection, Gift of Dorothy Quick Mayer, 1942\nDrawings and Prints",
-      "image": {
-        "src": "data/images/c1bd0a9307ae2fcc.jpg",
-        "alt": "June",
-        "credit": "The Met · Gertrude and Thomas Jefferson Mumford Collection, Gift of Dorothy Quick Mayer, 1942"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/377259",
-        "trustTier": "encyclopedic",
-        "author": "Francesco Bartolozzi",
-        "date": "July 10, 1789"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "cat",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-24T10:54:59.410Z",
-      "hash": "3e322d8d22d3f376"
-    },
-    {
-      "id": "met:336860",
-      "type": "art",
-      "title": "Ruins of the Chateau of Crèmieux (Isère)",
-      "summary": "Charles-François Daubigny · 1850 · Etching and aquatint on chine collé; second state of two (Delteil)",
-      "body": "Charles-François Daubigny · 1850 · Etching and aquatint on chine collé; second state of two (Delteil)\nGift of David Keppel, 1917\nDrawings and Prints",
-      "image": {
-        "src": "data/images/745dc5ddebb72103.jpg",
-        "alt": "Ruins of the Chateau of Crèmieux (Isère)",
-        "credit": "The Met · Gift of David Keppel, 1917"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/336860",
-        "trustTier": "encyclopedic",
-        "author": "Charles-François Daubigny",
-        "date": "1850"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "cat",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-06-24T10:54:59.316Z",
-      "hash": "84ff2b3e1d09b728"
-    },
-    {
-      "id": "apod:2006-04-14",
-      "type": "space",
-      "title": "Smoke from the Cigar Galaxy",
-      "summary": "Very bright in infrared light, well-known starburst galaxy M82's popular name describes its suggestive shape seen at visible wavelengths - The Cigar Galaxy. Ironically, M82's fantastic appearance in this Spitzer Space Telescope image really is due to cosmic \"smoke\" - the infrared emission of exented dust features…",
-      "body": "Very bright in infrared light, well-known starburst galaxy M82's popular name describes its suggestive shape seen at visible wavelengths - The Cigar Galaxy. Ironically, M82's fantastic appearance in this Spitzer Space Telescope image really is due to cosmic \"smoke\" - the infrared emission of exented dust features blown by stellar winds from M82's luminous, central star forming regions. The false-color view highlights a component of dust emission from complex carbon molecules called polycyclic aromatic hydrocarbons or PAHs. PAHs are also seen in star forming regions throughout our own, much calmer, Milky Way Galaxy and are products of combustion on planet Earth. Likely triggered by interactions with nearby galaxy M81, M82's intense star formation activity appears to be blowing out immense clouds of dust and PAHs extending nearly 20,000 light-years both above and below the galactic plane. M82 is about 12 million light-years away in the constellation Ursa Major.",
-      "image": {
-        "src": "data/images/112131de2f0ceecd.jpg",
-        "alt": "Smoke from the Cigar Galaxy",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap060414.html",
-        "trustTier": "encyclopedic",
-        "date": "2006-04-14"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-24T10:54:57.640Z",
-      "hash": "90cb07b0755c1e2f"
-    },
-    {
-      "id": "apod:2011-11-25",
-      "type": "space",
-      "title": "A Glimpse of CLIMSO",
-      "summary": "A tantalizing glimpse inside this dome was captured after sunset at the mountain top Pic Du Midi Observatory in the French Pyrenees. But while most are just beginning their work at sunset, this observatory's day was done. The instrument looming within is CLIMSO (for Christian Latouche IMageur Solaire), dedicated to…",
-      "body": "A tantalizing glimpse inside this dome was captured after sunset at the mountain top Pic Du Midi Observatory in the French Pyrenees. But while most are just beginning their work at sunset, this observatory's day was done. The instrument looming within is CLIMSO (for Christian Latouche IMageur Solaire), dedicated to exploring dynamic phenomena across the surface and atmosphere of the Sun. To image the solar atmosphere or corona, CLIMSO uses coronagraphs. Developed by French astronomer Bernard Lyot in the 1930s, coronagraphs block light from the center of the telescope beam to create an artificial solar eclipse and allow a continuous view of the solar corona. In this surreal twilight scene above a sea of clouds, the dome's interior was revealed by the single, long exposure as the open slit rotated across the field of view.",
-      "image": {
-        "src": "data/images/a2ada883edb8d934.jpg",
-        "alt": "A Glimpse of CLIMSO",
-        "credit": "© picdumidi.org"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap111125.html",
-        "trustTier": "encyclopedic",
-        "date": "2011-11-25"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-24T10:54:57.640Z",
-      "hash": "a42df19bb8552be4"
-    },
-    {
-      "id": "apod:2018-09-02",
-      "type": "space",
-      "title": "A Powerful Solar Flare",
-      "summary": "It was one of the most powerful solar flares in recorded history. Occurring in 2003 and seen across the electromagnetic spectrum, the Sun briefly became over 100 times brighter in X-rays than normal. The day after this tremendous X 17 solar flare -- and subsequent Coronal Mass Ejection (CME) -- energetic particles…",
-      "body": "It was one of the most powerful solar flares in recorded history. Occurring in 2003 and seen across the electromagnetic spectrum, the Sun briefly became over 100 times brighter in X-rays than normal. The day after this tremendous X 17 solar flare -- and subsequent Coronal Mass Ejection (CME) -- energetic particles emitted from the explosions struck the Earth, creating auroras and affecting satellites. The spacecraft that took these frames -- SOHO -- was put in a turtle-like safe mode to avoid further damage from this and subsequent solar particle storms. The featured time-lapse movie condenses into 10 seconds events that occurred over 4 hours. The CME, visible around the central sun-shade, appears about three-quarters of the way through the video, while frames toward the very end are progressively noisier as protons from the explosions strike SOHO's LASCO detector. One this day in 1859, the effects of an even more powerful solar storm caused telegraphs on Earth to spark in what is known as the Carrington Event. Powerful solar storms such as these may create beautiful aurora-filled skies, but they also pose a real danger as they can damage satellites and even power grids across the Earth.",
-      "image": {
-        "src": "data/images/f6b1291564e8f5d0.jpg",
-        "alt": "A Powerful Solar Flare",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap180902.html",
-        "trustTier": "encyclopedic",
-        "date": "2018-09-02"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-24T10:54:57.640Z",
-      "hash": "688c3eac77644928"
-    },
-    {
-      "id": "apod:2007-10-19",
-      "type": "space",
-      "title": "IC 5067 in the Pelican Nebula",
-      "summary": "The prominent ridge of emission featured in this dramatic skyscape is cataloged as IC 5067. Part of a larger emission nebula with a distinctive shape, popularly called The Pelican Nebula, the ridge spans about 10 light-years following the curve of the cosmic pelican's head and neck. This false color view also…",
-      "body": "The prominent ridge of emission featured in this dramatic skyscape is cataloged as IC 5067. Part of a larger emission nebula with a distinctive shape, popularly called The Pelican Nebula, the ridge spans about 10 light-years following the curve of the cosmic pelican's head and neck. This false color view also translates the pervasive glow of narrow emission lines from atoms in the nebula to a color palette made popular in Hubble Space Telescope images of star forming regions. Fantastic, dark shapes inhabiting the 1/2 degree wide field are clouds of cool gas and dust sculpted by the winds and radiation from hot, massive stars. Close-ups of some of the sculpted clouds show clear signs of newly forming stars. The Pelican Nebula, itself cataloged as IC 5070, is about 2,000 light-years away. To find it, look northeast of bright star Deneb in the high flying constellation Cygnus. A new APOD RSS feed is available here, or from the link line below.",
-      "image": {
-        "src": "data/images/0110c40c37376aba.jpg",
-        "alt": "IC 5067 in the Pelican Nebula",
-        "credit": "© Antonio Fernandez"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap071019.html",
-        "trustTier": "encyclopedic",
-        "date": "2007-10-19"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-06-24T10:54:57.640Z",
-      "hash": "c4e612c82dda3c80"
     },
     {
       "id": "curated:handwriting-beats-typing",

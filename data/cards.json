@@ -1,7 +1,1131 @@
 {
-  "generatedAt": "2026-07-19T09:56:36.197Z",
+  "generatedAt": "2026-07-20T10:57:23.853Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:NY2PS",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1749. Find the best line for white.",
+      "body": "Solution, from → to: e5→f7, d8→f6, g3→e5. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "r1bq1r2/pppp1pk1/7p/2b1N1pQ/2Bnn3/6B1/PPP2PPP/RN3RK1 w - - 1 1",
+        "lastMove": "g8g7"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/NY2PS",
+        "trustTier": "community",
+        "date": "Mon, 20 Jul 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "opening",
+        "crushing",
+        "short",
+        "pin"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:57:08.169Z",
+      "hash": "1efcbe4f81a54851"
+    },
+    {
+      "id": "game:5d7498c721e9d845",
+      "type": "game",
+      "title": "Two thirds of remaining Doom (2016) devs laid off during latest round of Xbox cuts",
+      "summary": "'I've been a gamer my whole life. If you cut a stat in half everyone would call that nerfed.'",
+      "body": "'I've been a gamer my whole life. If you cut a stat in half everyone would call that nerfed.'",
+      "image": {
+        "src": "data/images/b90e23a30ea4b0cb.png",
+        "alt": "Two thirds of remaining Doom (2016) devs laid off during latest round of Xbox cuts",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/production/two-thirds-of-doom-2016-development-team-laid-off-during-latest-round-of-xbox-cuts",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Mon, 20 Jul 2026 09:56:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:57:07.650Z",
+      "hash": "5d7498c721e9d845",
+      "expires": "2026-10-18T10:57:07.650Z"
+    },
+    {
+      "id": "trivia:61b59473762fcdd8",
+      "type": "trivia",
+      "title": "Which two men are credited with independently discovering differential calculus?",
+      "summary": "Is it: Plato and Aristotle · Newton and Leibnitz · Dvorak and Smith · Asiimov and Rutherford?",
+      "body": "Answer: Newton and Leibnitz.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "mathematics"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:57:04.958Z",
+      "hash": "61b59473762fcdd8"
+    },
+    {
+      "id": "trivia:e5221736e09d88c3",
+      "type": "trivia",
+      "title": "Which of these characters is the mascot of the video game company SEGA?",
+      "summary": "Is it: Opa-Opa · Alex Kidd · Dynamite Headdy · Sonic the Hedgehog?",
+      "body": "Answer: Sonic the Hedgehog.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:57:04.958Z",
+      "hash": "e5221736e09d88c3"
+    },
+    {
+      "id": "trivia:853a8d175b44df98",
+      "type": "trivia",
+      "title": "What year did the James Cameron film \"Titanic\" come out in theaters?",
+      "summary": "Is it: 1999 · 1996 · 1997 · 1998?",
+      "body": "Answer: 1997.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "film"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:57:04.958Z",
+      "hash": "853a8d175b44df98"
+    },
+    {
+      "id": "trivia:f8ba450534a2baab",
+      "type": "trivia",
+      "title": "How many seasons did the Sci-Fi television show \"Stargate Atlantis\" have?",
+      "summary": "Is it: 10 · 2 · 7 · 5?",
+      "body": "Answer: 5.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "television"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:57:04.958Z",
+      "hash": "f8ba450534a2baab"
+    },
+    {
+      "id": "passage:gutenberg:1661",
+      "type": "passage",
+      "title": "The Adventures of Sherlock Holmes",
+      "summary": "To Sherlock Holmes she is always _the_ woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it,…",
+      "body": "To Sherlock Holmes she is always _the_ woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer—excellent for drawing the veil from men’s motives and actions. But for the trained…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/1661",
+        "trustTier": "publication",
+        "author": "Arthur Conan Doyle",
+        "date": "1892"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "mystery",
+        "detective",
+        "short-stories"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:57:04.363Z",
+      "hash": "a0f5107d6d420b1e"
+    },
+    {
+      "id": "comic:smbc:682415aa9e0c159b",
+      "type": "comic",
+      "title": "Poof",
+      "summary": "Actually, things were at their best during the last year of my life when I had no responsibilities.",
+      "image": {
+        "src": "data/images/6206e1ad047fbaad.png",
+        "alt": "Actually, things were at their best during the last year of my life when I had no responsibilities.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/poof",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sun, 19 Jul 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-20T10:57:03.199Z",
+      "hash": "682415aa9e0c159b"
+    },
+    {
+      "id": "comic:xkcd:958",
+      "type": "comic",
+      "title": "Hotels",
+      "summary": "'Rating: 1/5. Room filled to brim with semen, and when front desk clerk opened mouth to talk, bedbugs poured out.'",
+      "body": "[[Person 1 is sitting at a desk with a laptop, looking at a review website]] Person 1: What's with this negative review? You *liked* that hotel. Black Hat Man: I have a script that posts a bad review for every hotel I stay at. It reduces demand, which means more vacancies and lower prices next time. Person 1: What if the place sucks? Black Hat Man: I change the review to positive to steer other people over there. Person 1: You punish companies you like! Black Hat Man: The odds of *my* review putting a hotel out of business are negligible. Person 1: If we all did that the system would collapse! Black Hat Man: Doesn't affect my logic. Tragedy of the commons. Person 1: That's not even the…",
+      "image": {
+        "src": "data/images/efe1508a0ae1b5e8.png",
+        "alt": "'Rating: 1/5. Room filled to brim with semen, and when front desk clerk opened mouth to talk, bedbugs poured out.'",
+        "credit": "xkcd #958 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/958/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2011-09-30"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-20T10:57:02.877Z",
+      "hash": "b28b74a1a10aea10"
+    },
+    {
+      "id": "word:0331353fdca40f3f",
+      "type": "word",
+      "title": "halcyon",
+      "summary": "Noun: A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.",
+      "body": "1. A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.\n2. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.\n3. A tropical kingfisher of the genus Halcyon, such as the sacred kingfisher (Halcyon sancta) of Australia.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/halcyon",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:57:00.962Z",
+      "hash": "0331353fdca40f3f"
+    },
+    {
+      "id": "quote:75c2a45a2a38ed5b",
+      "type": "quote",
+      "title": "“Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!”",
+      "summary": "— Tony Robbins",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Tony_Robbins",
+        "trustTier": "community",
+        "author": "Tony Robbins"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:59.297Z",
+      "hash": "75c2a45a2a38ed5b"
+    },
+    {
+      "id": "quote:f6fcfbf90840e134",
+      "type": "quote",
+      "title": "“Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.”",
+      "summary": "— Peter Drucker",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Peter_Drucker",
+        "trustTier": "community",
+        "author": "Peter Drucker"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:59.297Z",
+      "hash": "f6fcfbf90840e134"
+    },
+    {
+      "id": "quote:ff37bdaa6c305163",
+      "type": "quote",
+      "title": "“How to get more opportunity: Create more opportunity for others.”",
+      "summary": "— Jack Butcher",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Jack_Butcher",
+        "trustTier": "community",
+        "author": "Jack Butcher"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:59.297Z",
+      "hash": "ff37bdaa6c305163"
+    },
+    {
+      "id": "article:c23d1baf0ca71558",
+      "type": "article",
+      "title": "Is generational punctuation still a thing?",
+      "summary": "Apparently so, though it's continuing to evolve. Reviewing Florence Hazrat's forthcoming book On the Mark: From Periods to Interrobangs, How Punctuation Remade the World, Judith Shulevitz focuses on the current generational and contextual differences in English punctuation (\"Punctuation: A…",
+      "body": "Apparently so, though it's continuing to evolve. Reviewing Florence Hazrat's forthcoming book On the Mark: From Periods to Interrobangs, How Punctuation Remade the World, Judith Shulevitz focuses on the current generational and contextual differences in English punctuation (\"Punctuation: A generational divide\", The Atlantic 7/14/2026). There was a flurry of attention to such things a couple […]",
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73871&utm_source=rss&utm_medium=rss&utm_campaign=is-generational-punctuation-still-a-thing",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Sun, 19 Jul 2026 14:46:2"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "diglossia and digraphia"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:48.476Z",
+      "hash": "c23d1baf0ca71558"
+    },
+    {
+      "id": "article:c48c7c08aeb8f295",
+      "type": "article",
+      "title": "This Is How To Live A Good Life: 5 Secrets From Ancient Wisdom",
+      "summary": "How do we live a good life? Gahhhhhhhhh. Why don’t we ever deal with easy questions on this blog, huh? Who decides this stuff? (Don’t answer that.) Look, alright, nobody, and I mean NOBODY, knows what they’re doing. I spent the first few decades of my life thinking everybody else received a Secret…",
+      "body": "How do we live a good life? Gahhhhhhhhh. Why don’t we ever deal with easy questions on this blog, huh? Who decides this stuff? (Don’t answer that.) Look, alright, nobody, and I mean NOBODY, knows what they’re doing. I spent the first few decades of my life thinking everybody else received a Secret Pamphlet and […] The post This Is How To Live A Good Life: 5 Secrets From Ancient Wisdom appeared first on Barking Up The Wrong Tree.",
+      "image": {
+        "src": "data/images/c87da18994b5e91c.jpg",
+        "alt": "This Is How To Live A Good Life: 5 Secrets From Ancient Wisdom",
+        "credit": "Barking Up the Wrong Tree"
+      },
+      "source": {
+        "name": "Barking Up the Wrong Tree",
+        "url": "https://bakadesuyo.com/2026/07/how-to-live-a-good-life/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-live-a-good-life",
+        "trustTier": "community",
+        "author": "Eric Barker",
+        "date": "Sun, 19 Jul 2026 18:05:5"
+      },
+      "tags": [
+        "psychology",
+        "self-improvement",
+        "science",
+        "live the good life"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:47.149Z",
+      "hash": "c48c7c08aeb8f295"
+    },
+    {
+      "id": "article:5b333d524c740dd8",
+      "type": "article",
+      "title": "How to Learn Creative Skills",
+      "summary": "Creative skills often seem shrouded in mystery. While learning math and languages may be difficult, at least they are somewhat straightforward. Getting good requires a lot of practice, but there are well-worn paths to take. In contrast, creative skills have an aura of unlearnability to them.…",
+      "body": "Creative skills often seem shrouded in mystery. While learning math and languages may be difficult, at least they are somewhat straightforward. Getting good requires a lot of practice, but there are well-worn paths to take. In contrast, creative skills have an aura of unlearnability to them. Either you have creative talent, or you don’t. But […] The post How to Learn Creative Skills appeared first on Scott H Young.",
+      "image": {
+        "src": "data/images/b0c3506694d32131.png",
+        "alt": "How to Learn Creative Skills",
+        "credit": "Scott H. Young"
+      },
+      "source": {
+        "name": "Scott H. Young",
+        "url": "https://www.scotthyoung.com/blog/2026/07/16/how-to-learn-creative-skills/",
+        "trustTier": "community",
+        "author": "Scott Young",
+        "date": "Thu, 16 Jul 2026 16:14:2"
+      },
+      "tags": [
+        "learning",
+        "productivity",
+        "ideas",
+        "general"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:45.579Z",
+      "hash": "5b333d524c740dd8"
+    },
+    {
+      "id": "article:94d09ece2348887e",
+      "type": "article",
+      "title": "Radar Map Shows Wildfires in Canada Blanketing the US with Smoke",
+      "summary": "More than 800 wildfires are currently active The post Radar Map Shows Wildfires in Canada Blanketing the US with Smoke appeared first on Nautilus.",
+      "body": "More than 800 wildfires are currently active The post Radar Map Shows Wildfires in Canada Blanketing the US with Smoke appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/f99ce2d50a3b1748.png",
+        "alt": "Radar Map Shows Wildfires in Canada Blanketing the US with Smoke",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/radar-map-shows-wildfires-in-canada-blanketing-the-us-with-smoke-1282776/",
+        "trustTier": "publication",
+        "author": "David Nield",
+        "date": "Fri, 17 Jul 2026 21:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "environment"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:44.935Z",
+      "hash": "94d09ece2348887e"
+    },
+    {
+      "id": "article:e0e0b23d36bba62d",
+      "type": "article",
+      "title": "Drinking Water With Meals May Make You Eat More, Not Less",
+      "summary": "This common dieting tip might be a myth The post Drinking Water With Meals May Make You Eat More, Not Less appeared first on Nautilus.",
+      "body": "This common dieting tip might be a myth The post Drinking Water With Meals May Make You Eat More, Not Less appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/cb965db8d8ca8e4c.png",
+        "alt": "Drinking Water With Meals May Make You Eat More, Not Less",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/drinking-water-with-meals-may-make-you-eat-more-not-less-1282772/",
+        "trustTier": "publication",
+        "author": "Jake Currie",
+        "date": "Fri, 17 Jul 2026 20:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "health"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:44.935Z",
+      "hash": "e0e0b23d36bba62d"
+    },
+    {
+      "id": "article:75773da36fd02b1d",
+      "type": "article",
+      "title": "What All the New Fighting with Iran Is About. Plus. . .",
+      "summary": "Today in The Free Press: the nuns suing New York. Tyler Cowen on ‘billionaire derangement syndrome.’ Should we blame Canada for the wildfire smoke? And more.",
+      "body": "Today in The Free Press: the nuns suing New York. Tyler Cowen on ‘billionaire derangement syndrome.’ Should we blame Canada for the wildfire smoke? And more.",
+      "image": {
+        "src": "data/images/016b0f2bcf6eb89e.jpg",
+        "alt": "What All the New Fighting with Iran Is About. Plus. . .",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/new-fighting-with-iran-front-page",
+        "trustTier": "publication",
+        "author": "The Free Press",
+        "date": "Mon, 20 Jul 2026 10:02:3"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:44.438Z",
+      "hash": "75773da36fd02b1d",
+      "expires": "2026-08-19T10:56:44.438Z"
+    },
+    {
+      "id": "article:fa25170775c179c5",
+      "type": "article",
+      "title": "Starving Then Stoned: Achilles’ Story of Niobe in Iliad 24",
+      "summary": "This is one of a few posts dedicated to Iliad 24. In the last post on book 24, I wrote about how pity and wonder drive the actions of the epic’s close, furnishing both a resolution to many of the poem’s conflicts while also providing models for interpretation and ‘reading’, if not a foundation for…",
+      "body": "This is one of a few posts dedicated to Iliad 24. In the last post on book 24, I wrote about how pity and wonder drive the actions of the epic’s close, furnishing both a resolution to many of the poem’s conflicts while also providing models for interpretation and ‘reading’, if not a foundation for ethical … Continue reading Starving Then Stoned: Achilles’ Story of Niobe in Iliad 24",
+      "image": {
+        "src": "data/images/9920513862cea0ca.jpg",
+        "alt": "Starving Then Stoned: Achilles’ Story of Niobe in Iliad 24",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/07/15/starving-then-stoned-achilles-story-of-niobe-in-iliad-24/",
+        "trustTier": "community",
+        "author": "Joel",
+        "date": "Wed, 15 Jul 2026 13:01:2"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:44.164Z",
+      "hash": "fa25170775c179c5"
+    },
+    {
+      "id": "article:00e22cfc22c9ef87",
+      "type": "article",
+      "title": "Fueled by peyote, the anthropologist and cult leader Carlos Castaneda was one of the world’s most read authors in 1970. Today he’s an artifact",
+      "summary": "Fueled by peyote, the anthropologist and cult leader Carlos Castaneda was one of the world’s most read authors in 1970. Today he’s an artifact",
+      "body": "Fueled by peyote, the anthropologist and cult leader Carlos Castaneda was one of the world’s most read authors in 1970. Today he’s an artifact",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://www.nytimes.com/2026/07/04/books/review/american-trickster-ru-marshall.html?unlocked_article_code=1.wlA.oStK.TVY_UawDmoYH&smid=url-share",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:43.545Z",
+      "hash": "00e22cfc22c9ef87"
+    },
+    {
+      "id": "article:9b06b0247562950a",
+      "type": "article",
+      "title": "Democrats are more politically segregated than are Republicans",
+      "summary": "We estimate the extent of workplace political segregation in the United States by merging data covering over 45 million workers. We present four main findings. First, partisans are segregated by workplace. The average Democrat’s coworkers are 11.7 percentage points (pp; 95% confidence interval…",
+      "body": "We estimate the extent of workplace political segregation in the United States by merging data covering over 45 million workers. We present four main findings. First, partisans are segregated by workplace. The average Democrat’s coworkers are 11.7 percentage points (pp; 95% confidence interval (CI) [10.6, 12.8]) more Democratic than the average Republican’s. After controlling for […] The post Democrats are more politically segregated than are Republicans appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/07/democrats-are-more-politically-segregated-than-are-republicans.html?utm_source=rss&utm_medium=rss&utm_campaign=democrats-are-more-politically-segregated-than-are-republicans",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Mon, 20 Jul 2026 05:27:3"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "data source",
+        "political science"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:42.647Z",
+      "hash": "9b06b0247562950a"
+    },
+    {
+      "id": "article:36bd191d82ff972e",
+      "type": "article",
+      "title": "“Worthless Idiot, Donkey Head”: Parodies of Pedantry on the Renaissance Stage",
+      "summary": "Pompous know-it-alls were once a mainstay of mockery on the Italian stage. Arnoud Visser investigates this stock character of the pedant and his association with individual superiority, social distinction, and sexual transgression, finding a form of satire that took aim at the Renaissance…",
+      "body": "Pompous know-it-alls were once a mainstay of mockery on the Italian stage. Arnoud Visser investigates this stock character of the pedant and his association with individual superiority, social distinction, and sexual transgression, finding a form of satire that took aim at the Renaissance humanist’s erudition and lofty ideals.",
+      "image": {
+        "src": "data/images/bf9d4f8976f06846.jpg",
+        "alt": "“Worthless Idiot, Donkey Head”: Parodies of Pedantry on the Renaissance Stage",
+        "credit": "The Public Domain Review"
+      },
+      "source": {
+        "name": "The Public Domain Review",
+        "url": "https://publicdomainreview.org/essay/parodies-of-pedantry",
+        "trustTier": "publication",
+        "date": "Wed, 08 Jul 2026 12:09:0"
+      },
+      "tags": [
+        "essay",
+        "history",
+        "culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:42.435Z",
+      "hash": "36bd191d82ff972e"
+    },
+    {
+      "id": "article:447dd8ec71abcd20",
+      "type": "article",
+      "title": "The Skinner revolution",
+      "summary": "A 1979 doc examining the life and ideas of B F Skinner, with a focus on his radical, controversial behaviour experiments- by Aeon VideoWatch on Aeon",
+      "body": "A 1979 doc examining the life and ideas of B F Skinner, with a focus on his radical, controversial behaviour experiments- by Aeon VideoWatch on Aeon",
+      "image": {
+        "src": "data/images/232210d7369cd83a.jpg",
+        "alt": "The Skinner revolution",
+        "credit": "Aeon"
+      },
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/videos/how-bf-skinner-upended-our-understanding-of-behaviour-and-control",
+        "trustTier": "publication",
+        "author": "Aeon Video",
+        "date": "Mon, 20 Jul 2026 10:01:0"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "philosophy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:40.988Z",
+      "hash": "447dd8ec71abcd20"
+    },
+    {
+      "id": "poetry:1be62d3d5f91d161",
+      "type": "poem",
+      "title": "Jubilate Agno: Fragment D",
+      "summary": "Let Dew, house of Dew rejoice with Xanthenes a precious stone of an amber colour.\nLet Round, house of Round rejoice with Myrmecites a gern having an Emmet in it.\nLet New, house of New rejoice with Nasamonites a gem of a sanguine colour…",
+      "body": "Let Dew, house of Dew rejoice with Xanthenes a precious stone of an amber colour.\n\nLet Round, house of Round rejoice with Myrmecites a gern having an Emmet in it.\n\nLet New, house of New rejoice with Nasamonites a gem of a sanguine colour with black veins.\n\nLet Hook, house of Hook rejoice with Sarda a Cornelian -- blessed be the name of the Lord Jesus by hook.\n\nLet Crook, house of Crook rejoice with Ophites black spotted marble -- Blessed be the name of the Lord Jesus by crook. The Lord enable me to shift.\n\nLet Lime, house of Lime rejoice with Sandareses a kind of gem in Pliny's list.\n\nLet Linnet, house of Linnet rejoice with Tanos, which is a mean sort of Emerald.\n\nLet Hind, house of Hind rejoice with Paederos Opal -- God be gracious to Mrs Hind, that lived at Canbury.\n\nLet Tyrrel, house of Tyrrel rejoice with Sardius Lapis an Onyx of a black colour. God speed Hawke's Fleet.\n\nLet Moss, house of Moss rejoice with the Pearl-Oyster behold how God has consider'd for him that lacketh.\n\nLet Ross, house of Ross rejoice with the Great Flabber Dabber Flat Clapping Fish with hands. Vide Anson's Voyage and Psalm 98th ix.\n\nLet Fisher, house of Fisher rejoice with Sandastros kind of burning stone with gold drops in the body of it. God be gracious to Fisher of Cambridge and to all of his name and kindred.\n\nLet Fuller, house of Fuller rejoice with Perileucos a precious stone with a white thread descending from its face to the bottom.\n\nLet Thorpe, house of Thorpe rejoice with Xystios an ordinary stone of the Jasper-kind.\n\nLet Alban, house of Alban rejoice with Scorpites a precious stone in some degree of the creatures.\n\nLet Wand, house of Wand rejoice with Synochitis a gem supposed by Pliny to have certain magical effects.\n\nLet Freeman, house of Freeman rejoice with Carcinias a precious stone the colour of a sea-crab. The Lord raise the landed interest.\n\nLet Quince, house of Quince rejoice with Onychipuncta a gem of the jasper kind.\n\nLet Manly, house of Manly rejoice with the Booby a tropical bird.\n\nLet Fage, house of Fage rejoice with the Fiddlefish -- Blessed be the name of the Lord Jesus in the fish's mouth.\n\nLet Benning, house of Benning rejoice with the Sea-Egg. Lord have mercy on the soul of Benning's wife.\n\nLet Singleton, house of Singleton rejoice with the Hog-Plumb. Lord have mercy on the soul of Lord Vane.\n\nLet Thickness, house of Thickness rejoice with The Papah a fruit found at Chequetan.\n\nLet Heartly, house of Heartly rejoice with the Drummer-Fish. God be gracious to Heartly of Christ, to Marsh, Hingeston and Bill.\n\nLet Sizer, house of Sizer rejoice with Trichros a precious stone black at bottom, white atop and blood-red in the middle.\n\nLet Chetwind, house of Chetwind rejoice with Hammocrysos, a gem with gold sands on it.\n\nLet Branch, house of Branch rejoice with Hæmatites -- Blessed be the name of the Lord Jesus THE BRANCH.\n\nLet Dongworth, house of Dongworth rejoice with Rhymay the Bread-fruit. God be gracious to the immortal soul of Richard Dongworth.\n\nLet Randall, house of Randall rejoice with Guavoes. God give Randall success.\n\nLet Osborne, house of Osborne rejoice with Lithizontes a sort of carbuncle. God be gracious to the Duke of Leeds and his family.\n\nLet Oldcastle, house of Oldcastle rejoice with Leucopthalmos. God put it in heart of king to repair and beautify Dover Castle.\n\nLet Beeson, house of Beeson rejoice with Pyropus, carbuncle opal. God be gracious to Masters of Yoke's Place.\n\nLet Salmon, house of Salmon rejoice with Sapinos a kind of Amethyst.\n\nLet Crutenden, house of Crutenden rejoice with Veneris Gemma a kind of amethyst.\n\nLet Bridges, house of Bridges rejoice with Jasponyx, which is the Jasper-Onyx.\n\nLet Lane, house of Lane rejoice with Myrmecias a precious stone with little knots in it.\n\nLet Cope, house of Cope rejoice with Centipedes. God give me strength to cope with all my adversaries.\n\nLet Sutton, house of Sutton rejoice with Cholos a gem of the Emerald kind.\n\nLet Pelham, house of Pelham rejoice with Callimus in Taphiusio one stone in the body of another. God bless the Duke of Newcastle.\n\nLet Holies, house of Holies rejoice with Pyriasis a black stone that burns by friction. The Lord kindle amongst Englishmen a sense of their name.\n\nLet Lister, house of Lister rejoice with Craterites a very hard stone. The Lord hear my prayer even as I attend unto his commandments.\n\nLet Ash, house of Ash rejoice with Callaica a green gem. God be gracious to Miss Leroche my fellow traveler from Calais.\n\nLet Baily, house of Baily rejoice with Catopyrites of Cappadocia. God be gracious to the immortal soul of Lewes Baily author of the Practice of Piety.\n\nLet Glover, house of Glover rejoice with Capnites a kind of Jasper -- blessed be the memory of Glover the martyr.\n\nLet Egerton, house of Egerton rejoice with Sphragis green but not pellucid.\n\nLet Reading, house of Reading rejoice with Synodontites found in the fish Synodontes. 27th July N.S. 1762 Lord Jesus have mercy on my soul.\n\nLet Bolton, house of Bolton rejoice with Polygrammos, a kind of Jasper with white streaks.\n\nLet Paulet, house of Paulet rejoice with Chalcites, a precious stone of the colour of Brass.\n\nLet Stapleton, house of Stapleton rejoice with Scythis a precious stone -- the Lord rebuild the old houses of England.\n\nLet Newdigate, house of Newdigate rejoice with Sandaserion a stone in India like Green Oil.\n\nLet Knightly, house of Knightly rejoice with Zoronysios a gem supposed by the ancients to have magical effects. Star -- word -- herb -- gem.\n\nLet Fellows, house of Fellows rejoice with Syrites a gem found in a Wolf's bladder.\n\nLet Ascham, house of Ascham rejoice with Thyitis a precious stone remarkably hard. God be gracious to Bennet.\n\nLet Mowbray, house of Mowbray rejoice with The Black and Blue Creeper a beautiful small bird of Brazil.\n\nLet Aldrich, house of Aldrich rejoice with the Trincalo or Tricolor, a leaf without a flower or the flower of a leaf.\n\nLet Culmer, house of Culmer rejoice with Phloginos a gem of a fire-colour.\n\nLet Catesby, house of Catesby rejoice with Cerites a precious stone like wax.\n\nLet Atterbury, house of Atterbury rejoice with Eurotias a black stone with the appearance of mould on it.\n\nLet Hoare, house of Hoare rejoice with Crysopis a precious stone of a gold-colour. God be gracious to John Rust.\n\nLet Fane, house of Fane rejoice with Chalcedonius Lapis a sort of onyx called a Chalcedony.\n\nLet Lorman, house of Lorman rejoice with Cheramites, a sort of precious stone.\n\nLet Flexney, house of Flexney rejoice with Triopthalmos -- God be gracious to Churchill, Loyd and especially to Sheels.\n\nLet Gavel, house of Gavel rejoice with Phlogites a precious stone of a various flame-colour.\n\nLet Hederick, house of Hederick rejoice with Pyritis a precious stone which held in the hand will burn it; this is fixed fire.\n\nLet Pleasant, house of Pleasant rejoice with The Carrier Fish -- God be gracious to Dame Fysh.\n\nLet Tayler, house of Tayler rejoice with the Flying Mole -- God keep him from the poor man's garden. God be gracious to William Tayler Sen and Junr.\n\nLet Grieve, house of Grieve rejoice with Orites a precious stone perfectly round. Blessed be the name of the Man of Melancholy, for Jacob Grieve.\n\nLet Bowes, house of Bowes rejoice with the Dog Fly. Lord have mercy upon me and support me in all my plagues and temptations.\n\nLet Alberton, house of Alberton rejoice with Paneros a precious stone good against barrenness.\n\nLet Morgan, house of Morgan rejoice with Prasius Lapis of a Leek-green colour.\n\nLet Powell, house of Powell rejoice with Synochitis a precious stone abused by the ancient sorcerers.\n\nLet Howell, house of Howell rejoice with Ostracias a gem like an oyster.\n\nLet Close, house of Close rejoice with Chalcophonos a gem sounding like brass. O all ye gems of the mine bless ye the Lord, praise him and magnify him for ever.\n\nLet Johnson, house of Johnson rejoice with Omphalocarpa a kind of bur. God be gracious to Samuel Johnson.\n\nLet Hopgood, house of Hopgood rejoice with Nepenthes an herb which infused in wine drives away sadness -- very likely.\n\nLet Hopwood, house of Hopwood rejoice with Aspalathus the Rose of Jerusalem.\n\nLet Benson, house of Benson rejoice with Sea-Ragwort or Powder'd Bean. Lord have mercy on the soul of Dr Benson Bsp. of Gloucester.\n\nLet Marvel, house of Marvel rejoice with Brya a little shrub like birch.\n\nLet Hull, house of Hull rejoice with Subis a bird called the Spight which breaks the Eagle's eggs.\n\nLet Mason, house of Mason rejoice with Suberies the Capitol Cork Tree. Lord be merciful to William Mason.\n\nLet Fountain, house of Fountain rejoice with Syriacus Rephanus a sweet kind of Radish.\n\nLet Scroop, house of Scroop rejoice with Fig-Wine -- Palmi primarium vinum. Not so -- Palmi-primum is the word.\n\nLet Hollingstead, house of Hollingstead rejoice with Sissitietaeris herb of good fellowship. Praise the name of the Lord September 1762.\n\nLet Moyle, house of Moyle rejoice with Phlox a flame-colour'd flower without smell, tentanda via est. Via, veritas, vita sunt Christus.\n\nLet Mount, house of Mount rejoice with Anthera a flowering herb. The Lord lift me up.\n\nLet Dowers, house of Dowers rejoice with The American Nonpareil a beautiful small-bird.\n\nLet Cudworth, house of Cudworth rejoice with the Indian Jaca Tree, which bears large clusters of fruit like apples.\n\nLet Cuthbert, house of Cuthbert rejoice with Phyllandrian a good herb growing in marshes -- Lord have mercy on the soul of Cornelius Harrison.\n\nLet Chillingworth, house of Chillingworth rejoice with Polygonoides an herb with leaves like laurel long and thick good against serpents.\n\nLet Conworth, house of Conworth rejoice with Nenuphar a kind of Water Lily.\n\nLet Ransom, house of Ransom rejoice with Isidos Plocamos a sea shrub of the Coral kind, or rather like Coral.\n\nLet Ponder, house of Ponder rejoice with Polion an herb, whose leaves are white in the morning, purple at noon, and blue in the evening.\n\nLet Woodward, house of Woodward rejoice with Nerium the Rose-Laurel -- God make the professorship of fossils in Cambridge a useful thing.\n\nLet Spincks, house of Spinks rejoice with Struthiomela a little sort of Quinces -- The Lord Jesus pray for me.\n\nLet Peacock, house of Peacock rejoice with Engalacton an herb good to breed milk.\n\nLet Nason, house of Nason rejoice with Errhinum a medicine to clear the nose.\n\nLet Bold, house of Bold rejoice with the Hop-Hornbeam. God send me a neighbour this September.\n\nLet Spriggings, house of Spriggings rejoice with Eon the Tree of which Argo was built.\n\nLet Bear, house of Bear rejoice with Gelotophyllis an herb which drank in wine and myrrh causes excess of laughter.\n\nLet Sloper, house of Sloper rejoice with Gelotophye another laughing plant.\n\nLet Tollfree, house of Tollfree rejoice with Fern of Trees -- Lord stave off evil this day.\n\nLet Clare, house of Clare rejoice with Galeotes a kind of Lizard at enmity with serpents. Lord receive the soul of Dr Wilcox Master of Clare Hall.\n\nLet Wilmot, house of Wilmot rejoice with Epipetros an herb coming up spontaneous (of the seed of the earth) but never flowers.\n\nLet Anstey, house of Anstey rejoice with Eumeces a kind of balm. Lord have mercy on Christopher Anstey and his kinswoman.\n\nLet Ruston, house of Ruston rejoice with Fulviana Herba, ab inventore good to provoke urine. Lord have mercy upon Roger Pratt and his family.\n\nLet Atwood, house of Atwood rejoice with Rhodora with leaves like a nettle and flower like a rose. God bless all benefactors of Pembroke Hall.\n\nLet Shield, house of Shield rejoice with Reseda herb dissolving swelling, and imposthumes.\n\nLet Atkins, house of Atkins rejoice with Salicastrum Wild Wine upon willows and osiers.\n\nLet Pearson, house of Pearson rejoice with the American Aloe. I pray for the soul of Frances Burton.\n\nLet Hough, house of Hough rejoice with Pegasus The Flying Horse there be millions of them in the air. God bless the memories of Bsp. Hough and of Peter.\n\nLet Evelyn, house of Evelyn rejoice with Phu a Plinian shrub sweet-scented. I pray God for trees enough in the posterities.\n\nLet Wing, house of Wing rejoice with Phlomos a sort of Rush. I give the glory to God, thro Christ, for taking the Havannah. Septr 30th 1762.\n\nLet Chace, house of Chace rejoice with Papyrus. God be gracious to Sr Richard and family.\n\nLet Pulteney, house of Pulteney rejoice with Tragion a shrub like Juniper.\n\nLet Abdy, house of Abdy rejoice with Ecbolia a medicine to fetch a dead child out of the womb. God give me to bless for Gulstone and Halford.\n\nLet Hoadley, house of Hoadley rejoice with Dryos Hyphear which is the Oak-Missletoe.\n\nLet Free, house of Free rejoice with Thya a kind of Wild Cypress.\n\nLet Pink, house of Pink rejoice with Trigonum herb used in garlands -- the Lord succeed my pink borders.\n\nLet Somner, house of Somner rejoice with the Blue Daisie -- God be gracious to my neighbour and his family this day, 7th Octr 1762.\n\nLet Race, house of Race rejoice with Osiritis Dogshead. God be praised for the eighth of October 1762.\n\nLet Trowell, house of Trowell rejoice with Teuchites kind of sweet rush.\n\nLet Tilson, house of Tilson rejoice with Teramnos a kind of weed. Lord have mercy on the soul of Tilson, Fellow of Pembroke Hall.\n\nLet Loom, house of Loom rejoice with Colocasia, an Egyptian Bean of whose leaves they made cups and pots.\n\nLet Knock, house of Knock rejoice with Condurdon which bears red flowers in July and worn about the neck is good for scrophulous cases.\n\nLet Case, house of Case rejoice with Coctanum a Syrian Fig. The Lord cure my cough.\n\nLet Tomlyn, house of Tomlyn rejoice with Tetralyx a kind of herb.\n\nLet Bason, house of Bason rejoice with Thelypteris which is Sea-Fern.\n\nLet Joslyn, house of Joslyn rejoice with Cotonea a Venetian herb.\n\nLet Mace, house of Mace rejoice with Adipsos a kind of Green Palm with the smell of a quince.\n\nLet Potts, house of Potts rejoice with Ulex an herb like rosemary with a quality of attracting gold.\n\nLet Bedingfield, house of Bedingfield rejoice with Zygia, which is a kind of maple.\n\nLet Tough, house of Tough rejoice with Accipitrina. N.B. The hawk beat the raven St Luke's day 1762.\n\nLet Balsam, house of Balsam rejoice with Chenomycon an herb the sight of which terrifies a goose. Lord have mercy on William Hunter his family.\n\nLet Graves, house of Graves rejoice with Cinnaris the Stag's antidote -- the persecuted Christian is as the hunted stag.\n\nLet Tombs, house of Tombs rejoice with Acesis Water Sage -- God be gracious to Christopher Charles Tombs.\n\nLet Addy, house of Addy rejoice with Crysippea a kind of herb so called from the discoverer.\n\nLet Jump, house of Jump rejoice with Zoster a Sea-Shrub. Blessed be the name of Christ for the Anniversary of the Battle of Agincourt 1762.\n\nLet Bracegirdle, house of Bracegirdle rejoice with Xiris a kind of herb with sharp leaves.\n\nLet Girdlestone, house of Girdlestone rejoice with Crysocarpum a kind of Ivy.\n\nLet Homer, house of Homer rejoice with Cinnabar which makes a red colour.\n\nLet Lenox, house of Lenox rejoice with Achnas the Wild Pear Tree. God be gracious to the Duke of Richmond.\n\nLet Altham, house of Altham rejoice with the Everlasting Apple-Tree.\n\nLet Travell, house of Travell rejoice with Ciborium The Egyptian Bean.\n\nLet Tyers, house of Tyers rejoice with Ægilops a kind of bulbous root. God give good will to Jonathan Tyers and his family this day. All Saints. N.S. 1762.\n\nLet Clever, house of Clever rejoice with Calathiana a sort of Autumnal flower.\n\nLet Bones, house of Bones rejoice with The Red-Crested Black and Blue Bird of Surinam.\n\nLet Pownall, house of Pownall rejoice with the Murrion a creature of the Beaver kind.\n\nLet Fig, house of Fig rejoice with Fleawort. The Lord magnify the idea of Smart singing hymns on this day in the eyes of the whole University of Cambridge. Novr 5th 1762. N.S.\n\nLet Codrington, house of Codrington rejoice with Thelyphonon an herb whose root kills scorpions.\n\nLet Butler, house of Butler rejoice with Theombrotios a Persian herb. God be gracious to the immortal Soul of the Duke of Ormond.\n\nLet Bodley, house of Bodley rejoice with Tetragnathius a creature of the Spider kind.\n\nLet Acton, house of Acton rejoice with Theangelis an herb used by the Ancients for magical purposes.\n\nLet Peckwater, house of Peckwater rejoice with Tettigonia a small kind of Grashopper.\n\nLet Sheldon, house of Sheldon rejoice with Teucrion an herb like Germander.\n\nLet Breckock, house of Brecknock rejoice with Thalassegle an herb. God be merciful to Timothy Brecknock.\n\nLet Plank, house of Plank rejoice with the Sea Purslain -- God be gracious to Thomas Rosoman and family.\n\nLet Goosetree, house of Goosetree rejoice with Hippophaes a kind of teazle used in the dressing of cloth. God exalt the Soul of Captain Goosetree.\n\nLet Baimbridge, house of Baimbridge rejoice with Hippophæstum of the same kind. Horses shou'd be dock'd in winter. -- Bambridge praise the name of the Lord.\n\nLet Metcalf, house of Metcalf rejoice with Holcus Wall-Barley -- God give grace to my adversaries to ask council of Abel.\n\nLet Graner, house of Graner rejoice with Hircules Bastard Nard. The Lord English Granier and his family.\n\nLet Cape, house of Cape rejoice with Orgament an herb.\n\nLet Oram, house of Oram rejoice with Halus an herb like unto Orgament.\n\nLet Sykes, house of Skyes rejoice with Hadrobolum a kind of sweet gum.\n\nLet Plumer, house of Plumer rejoice with Hastula Regia an herb resembling a spear.\n\nLet Digby, house of Digby rejoice with Glycryhiza Sweetroot. God be gracious to Sr Digby Legard his Son and family.\n\nLet Otway, house of Otway rejoice with Hippice an herb which being held in an horse's mouth keeps him from hunger.\n\nLet Cecil, house of Cecil rejoice with Gnaphalium an herb bleached by nature white and soft for the purpose of flax. God bless Lord Salisbury.\n\nLet Rogers, house of Rogers rejoice with Hypelates a kind of Laurel -- God be gracious to Rogers and Spilsbury with their families.\n\nLet Cambden, house of Cambden rejoice with Glischromargos a kind of white marl.\n\nLet Conduit, house of Conduit rejoice with Greecula a kind of Rose. God be gracious to the immortal soul of Sr Isaac Newton.\n\nLet Hands, house of Hands rejoice with Hadrosphserum kind of Spikenard with broad leaves.\n\nLet Snipe, house of Snipe rejoice with Hæmotimon a kind of red glass. Blessed be the name of Jesus for the 29th of Novr.\n\nLet Aylesworth, house of Aylesworth rejoice with Glinon which is a kind of Maple.\n\nLet Aisley, house of Aisley rejoice with Halicastrum which is a kind of bread corn.\n\nLet Ready, house of Ready rejoice with Junco The Reed Sparrow. Blessed be the name of Christ Jesus Voice and Instrument.\n\nLet Bland, house of Bland rejoice with Lacta a kind of Cassia. God be gracious to Bland of Durham and the Widow George.\n\nLet Abington, house of Abington rejoice with Lea a kind of Colewort praise him upon the sound of the trumpet.\n\nLet Adcock, house of Adcock rejoice with Lada a shrub, which has gummy leaves.\n\nLet Snow, house of Snow rejoice with Hysginum a plant dying Scarlet.\n\nLet Wardell, house of Wardell rejoice with Leiostreum a smooth oyster. God give grace to the black trumpeter and have mercy on the soul of Scipio.\n\nLet Herring, house of Herring rejoice with Iberica a kind of herb. Blessed be the name of the Lord Jesus for Miss Herring.\n\nLet Dolben, house of Dolben rejoice with Irio Winter Cresses, Rock Gentle or Rock Gallant.\n\nLet Oakley, house of Oakley rejoice with the Skink a little amphibious creature found upon Nile.\n\nLet Owen, house of Owen rejoice with the Shag-green a beast from which the skin so called is taken.\n\nLet Twist, house of Twist rejoice with Neottophora a little creature that carries its young upon its back.\n\nLet Constant, house of Constant rejoice with the Musk-Goat -- I bless God for two visions of Anne Hope's being in charity with me.\n\nLet Amos, house of Amos rejoice with The Avosetta a bird found at Rome.\n\nLet Humphreys, house of Humphreys rejoice with The Beardmanica a curious bird.\n\nLet Busby, house of Busby rejoice with The Ganser a bird. God prosper Westminster-School.\n\nLet Alured, house of Alured rejoice with the Book-Spider -- I refer the people of both Universitys to the Bible for their morality.\n\nLet Lidgate, house of Lidgate rejoice with The Flammant a curious large bird on the coast of Cuba. God make us amends for the restoration of the Havannah.\n\nLet Cunningham, house of Cunningham rejoice with The Bohemian Jay. I pray for Peace between the K. of Prussia and Empress Queen.\n\nLet Thornhill, house of Thornhill rejoice with The Albicore a Sea Bird. God be gracious to Hogarth his wife. Blessed be the name of the Lord Jesus at Adgecomb.\n\nLet Dawn, house of Dawn rejoice with The Frigate Bird which is found upon the coasts of India.\n\nLet Horton, house of Horton rejoice with Birdlime -- Blessed be the name of the Lord Jesus against the destruction of Small Birds.\n\nLet Arne, house of Arne rejoice with The Jay of Bengal. God be gracious to Arne his wife to Michael and Charles Burney.\n\nLet Westbrooke, house of Westbrooke rejoice with the Quail of Bengal. God be gracious to the people of Maidstone.\n\nLet Allcock, house of Allcock rejoice with The King of the Wavows a strange fowl. I pray for the whose University of Cambridge especially Jesus College this blessed day.\n\nLet Audley, house of Audley rejoice with The Green Crown Bird. The Lord help on with the hymns.\n\nLet Bloom, house of Bloom rejoice with Hecatompus a fish with an hundred feet.\n\nLet Beacon, house of Beacon rejoice with Amadavad a fine bird in the East Indies.\n\nLet Blomer, house of Blomer rejoice with Halimus a Shrub to hedge with. Lord have mercy upon poor labourers this bitter frost Deer 29 N.S. 1762.\n\nLet Merrick, house of Merrick rejoice with Lageus a kind of Grape. God all-sufficient bless and forward the Psalmist in the Lord Jesus.\n\nLet Appleby, house of Appleby rejoice with Laburnum a shrub whose blossom is disliked by bees.\n\nLet Waite, house of Waite rejoice with the Shittah-Tree -- blessed be the name of the Lord Jesus for the musicians and dancers this holiday-time.\n\nLet Stedman, house of Stedman rejoice with Jacobasa St James's Wort. God be merciful to the house of Stuart.\n\nLet Poet, house of Poet rejoice with Hedrychum a kind of ointment of a sweet smelling savour. God speed the New Year thro' Christ 1763.\n\nLet Jesse, house of Jesse rejoice with the Lawrey a kind of bird. God forward my version of the psalms thro' Jesus Christ our Lord.\n\nLet Clemison, house of Clemison rejoice with Helix a kind of Ivy. God be praised for the vision of the Redcap and packet.\n\nLet Crockatt, house of Crockatt rejoice with Emboline an Asiatic Shrub with small leaves an antidote. I pray for the soul of Crockatt the bookseller the first to put me upon a version of the Psalms.\n\nLet Oakley, house of Oakley rejoice with Haliphasus a tree with such bitter fruit that nothing but swine will touch it.\n\nLet Preacher, house of Preacher rejoice with Helvella a small sort of cabbage. God be merciful to the immortal soul of Stephen Preacher.\n\nLet Heron, house of Heron rejoice with the Tunal-Tree on which the Cochineal feeds.\n\nLet Kitcat, house of Kitcat rejoice with Copec the Pitch-Stone. Janry 8th 1763 Hallelujah.\n\nLet Gisbourne, house of Gisbourne rejoice with Isocinnamon an herb of a sweet smelling savour.\n\nLet Poor, house of Poor rejoice with Jasione a kind of Withwind -- Lord have mercy on the poor this hard weather. Jan: 10th 1763.\n\nLet Eccles, house of Eccles rejoice with Heptapleuros a kind of Plantain. I pray for a musician or musicians to set the new psalms.\n\nLet Moseley, house of Moseley rejoice with Spruce -- I bless God for Old Foundation Day at Pemb. Hall.\n\nLet Pass, house of Pass rejoice with Salt -- The Lord pass the last year's accounts in my conscience thro' the merits of Jesus Christ. New Year by Old Stile 1763.\n\nLet Forward, house of Forward rejoice with Immussulus a kind of bird -- the Lord forward my translation of the psalms this year.\n\nLet Quarme, house of Quarme rejoice with Thyosiris yellow Succory -- I pray God bless all my Subscribers.\n\nLet Larkin, house of Larkin rejoice with Long-wort or Torch-herb -- God give me good riddance of my present grievances.\n\nLet Halford, house of Halford rejoice with Siren a musical bird. God considered thou me for the baseness of those I have served very highly.\n\nLet Ayerst, house of Ayerst rejoice with the Wild Beet -- God be gracious to Smith, Cousins, Austin, Cam and Kingsley and Kinleside.\n\nLet Decker, house of Decker rejoice with Sirpe a Cyrenian plant yielding an odoriferous juice.\n\nLet Cust, house of Cust rejoice with Margaris a date like unto a pearl.\n\nLet Usher, house of Usher rejoice with Condurdon an herb with a red flower worn about the neck for the scurvy.\n\nLet Slingsby, house of Slingsby rejoice with Midas a little worm breeding in beans.\n\nLet Farmer, house of Farmer rejoice with Merois an herb growing at Meroe leaf like lettuce and good for dropsy.\n\nLet Affleck, house of Affleck rejoice with The Box-thorn. Blessed be the name of the Lord Jesus Emanuel.\n\nLet Arnold, house of Arnold rejoice with Leucographis a simple good against spitting of blood.\n\nLet Morris, house of Morris rejoice with Lepidium a Simple of the Cress kind.\n\nLet Crane, house of Crane rejoice with Libanotis an herb that smells like Frankinsense.\n\nLet Arden, house of Arden rejoice with Mew an herb with the stalk and leaves like Anise.\n\nLet Joram, house of Joram rejoice with Meliphylla Balm Gentle God be gracious to John Sherrat.\n\nLet Odwell, house of Odwell rejoice with Lappago Maiden Lips. Blessed be the name of Jesus in singularities and singular mercies.\n\nLet Odney, house of Odney rejoice with Canaria a simple called Hound's-grass.",
+      "source": {
+        "name": "Christopher Smart · PoetryDB",
+        "url": "https://poetrydb.org/title/Jubilate%20Agno%3A%20Fragment%20D",
+        "trustTier": "community",
+        "author": "Christopher Smart"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:40.860Z",
+      "hash": "1be62d3d5f91d161"
+    },
+    {
+      "id": "poetry:5d7d1db93285ad3c",
+      "type": "poem",
+      "title": "Lines to a Reviewer",
+      "summary": "Alas, good friend, what profit can you see\nIn hating such a hateless thing as me?\nThere is no sport in hate where all the rage\nIs on one side: in vain would you assuage",
+      "body": "Alas, good friend, what profit can you see\nIn hating such a hateless thing as me?\nThere is no sport in hate where all the rage\nIs on one side: in vain would you assuage\nYour frowns upon an unresisting smile,\nIn which not even contempt lurks to beguile\nYour heart, by some faint sympathy of hate.\nOh, conquer what you cannot satiate!\nFor to your passion I am far more coy\nThan ever yet was coldest maid or boy\nIn winter noon. Of your antipathy\nIf I am the Narcissus, you are free\nTo pine into a sound with hating me.",
+      "source": {
+        "name": "Percy Bysshe Shelley · PoetryDB",
+        "url": "https://poetrydb.org/title/Lines%20to%20a%20Reviewer",
+        "trustTier": "community",
+        "author": "Percy Bysshe Shelley"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-20T10:56:40.860Z",
+      "hash": "5d7d1db93285ad3c"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399893546-1",
+      "type": "art",
+      "title": "Textile",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1920s · Textiles",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1920s · Textiles",
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/20819",
+        "trustTier": "encyclopedic",
+        "date": "1920s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "textile",
+        "textiles"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-20T10:56:40.303Z",
+      "hash": "160408fe473c637c"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399986996-1",
+      "type": "art",
+      "title": "Textile",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1920s · Textiles",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1920s · Textiles",
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/288399",
+        "trustTier": "encyclopedic",
+        "date": "1920s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "textile",
+        "textiles"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-20T10:56:40.303Z",
+      "hash": "6d409fcc2920ff85"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399902540-1",
+      "type": "art",
+      "title": "Textile",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1860s · Textiles",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1860s · Textiles",
+      "image": {
+        "src": "data/images/57b8565cc1f7540f.jpg",
+        "alt": "Textile",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/44445",
+        "trustTier": "encyclopedic",
+        "date": "1860s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "textile",
+        "textiles"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-20T10:56:40.303Z",
+      "hash": "8186041cf4b7f09c"
+    },
+    {
+      "id": "met:437409",
+      "type": "art",
+      "title": "Portrait of a Woman",
+      "summary": "Rembrandt · Oil on canvas",
+      "body": "Rembrandt · Oil on canvas\nH. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929\nEuropean Paintings",
+      "image": {
+        "src": "data/images/48f6df9c5d102fef.jpg",
+        "alt": "Portrait of a Woman",
+        "credit": "The Met · H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/437409",
+        "trustTier": "encyclopedic",
+        "author": "Rembrandt"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "cat",
+        "paintings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-20T10:56:38.975Z",
+      "hash": "81ce0f2402e637c1"
+    },
+    {
+      "id": "met:342714",
+      "type": "art",
+      "title": "The Entry into Jerusalem;  Christ riding on a donkey towards an arched city gate; an elderly man spreads out his cloak on the road, from \"The Passion of Christ\", after Dürer",
+      "summary": "Marcantonio Raimondi · ca. 1500–34 · Engraving; second state of three",
+      "body": "Marcantonio Raimondi · ca. 1500–34 · Engraving; second state of three\nGift of Henry Walters, 1917\nDrawings and Prints",
+      "image": {
+        "src": "data/images/4ba448eea351a88c.jpg",
+        "alt": "The Entry into Jerusalem;  Christ riding on a donkey towards an arched city gate; an elderly man spreads out his cloak on the road, from \"The Passion of Christ\", after Dürer",
+        "credit": "The Met · Gift of Henry Walters, 1917"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/342714",
+        "trustTier": "encyclopedic",
+        "author": "Marcantonio Raimondi",
+        "date": "ca. 1500–34"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "cat",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-20T10:56:38.814Z",
+      "hash": "e3ed7c0ed26b8081"
+    },
+    {
+      "id": "met:40086",
+      "type": "art",
+      "title": "Scholar viewing a waterfall",
+      "summary": "Ma Yuan · early 13th century · Album leaf; ink and color on silk",
+      "body": "Ma Yuan · early 13th century · Album leaf; ink and color on silk\nEx coll.: C. C. Wang Family, Gift of The Dillon Fund, 1973\nAsian Art",
+      "image": {
+        "src": "data/images/838aedeac1d38409.jpg",
+        "alt": "Scholar viewing a waterfall",
+        "credit": "The Met · Ex coll.: C. C. Wang Family, Gift of The Dillon Fund, 1973"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/40086",
+        "trustTier": "encyclopedic",
+        "author": "Ma Yuan",
+        "date": "early 13th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "cat",
+        "paintings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-20T10:56:38.662Z",
+      "hash": "70e9a6692d3359cc"
+    },
+    {
+      "id": "apod:2023-11-15",
+      "type": "space",
+      "title": "M1: The Incredible Expanding Crab",
+      "summary": "Cataloged as M1, the Crab Nebula is the first on Charles Messier's famous list of things which are not comets. In fact, the Crab Nebula is now known to be a supernova remnant, an expanding cloud of debris from the death explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the…",
+      "body": "Cataloged as M1, the Crab Nebula is the first on Charles Messier's famous list of things which are not comets. In fact, the Crab Nebula is now known to be a supernova remnant, an expanding cloud of debris from the death explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across, the nebula is still expanding at a rate of about 1,500 kilometers per second. You can see the expansion by comparing these sharp images from the Hubble Space Telescope and James Webb Space Telescope. The Crab's dynamic, fragmented filaments were captured in visible light by Hubble in 2005 and Webb in infrared light in 2023. This cosmic crustacean lies about 6,500 light-years away in the constellation Taurus.",
+      "image": {
+        "src": "data/images/7110d4687dccf29c.jpg",
+        "alt": "M1: The Incredible Expanding Crab",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap231115.html",
+        "trustTier": "encyclopedic",
+        "date": "2023-11-15"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:36.572Z",
+      "hash": "cfaef085cd6a3bbc"
+    },
+    {
+      "id": "apod:2012-03-29",
+      "type": "space",
+      "title": "Rocket Trails in the Milky Way",
+      "summary": "On March 27, five sounding rockets leapt into early morning skies from NASA's Wallops Flight Facility in Virginia. Part of the Anomalous Transport Rocket EXperiment (ATREX), begining at 4:58 am EDT the rockets launched consecutively at 80 second intervals. Releasing a chemical tracer they created luminous white…",
+      "body": "On March 27, five sounding rockets leapt into early morning skies from NASA's Wallops Flight Facility in Virginia. Part of the Anomalous Transport Rocket EXperiment (ATREX), begining at 4:58 am EDT the rockets launched consecutively at 80 second intervals. Releasing a chemical tracer they created luminous white clouds within Earth's ionosphere at altitudes above 60 to 65 miles, swept along by the poorly understood high-altitude jet stream. (Not the same jet stream that airliners fly through at altitudes of 5 to 6 miles.) Seen along the mid-atlantic region of the United States, the clouds drifted through starry skies, captured in this clear photograph from East Point, New Jersey. Looking south toward the launch site, the tantalizing celestial background includes the stars of Sagittarius, Scorpius, and the more permanent faint, white, luminous clouds of the Milky Way.",
+      "image": {
+        "src": "data/images/ed253f00a3b5422c.jpg",
+        "alt": "Rocket Trails in the Milky Way",
+        "credit": "© Catching the Light"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap120329.html",
+        "trustTier": "encyclopedic",
+        "date": "2012-03-29"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:36.572Z",
+      "hash": "9f8c627e5e4ef972"
+    },
+    {
+      "id": "apod:2013-09-10",
+      "type": "space",
+      "title": "Extrasolar Super-Earth Gliese 1214b Might Hold Water",
+      "summary": "Might this distant planet hold water? Actually, given how close Gliese 1214b is to its parent star, any water, if it exists, would surely be in the form of steam. In the above artist's illustration, the super-Earth Gliese 1214b is imagined passing in front of its parent star, creating a mini-eclipse that alerted…",
+      "body": "Might this distant planet hold water? Actually, given how close Gliese 1214b is to its parent star, any water, if it exists, would surely be in the form of steam. In the above artist's illustration, the super-Earth Gliese 1214b is imagined passing in front of its parent star, creating a mini-eclipse that alerted humanity to its presence. Gliese 1214b, also designated GJ 1214b, has been designated a super-Earth because it is larger than the Earth but smaller a planet like Neptune. The entire Gliese 1214 planetary system is of the closest known systems to our Sun, located only 42 light years away. The parent star, Gliese 1214 is a slightly smaller and cooler version of our Sun. Recent observations from the Subaru telescope in Hawaii found very little scattering of blue light from the parent star by the planet. This appears most consistent with a planet that has a watery atmosphere -- although it is still possible that the super-Earth has clouds so thick that little of any color of light was scattered. Detecting water on exoplanets is important partly because most lifeforms on Earth need water to survive. Follow APOD on: Facebook (Daily) (Sky) (Spanish) or Google Plus (Daily) (River)",
+      "image": {
+        "src": "data/images/7b323d7048853174.jpg",
+        "alt": "Extrasolar Super-Earth Gliese 1214b Might Hold Water",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap130910.html",
+        "trustTier": "encyclopedic",
+        "date": "2013-09-10"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:36.572Z",
+      "hash": "24074b122e5ca7cf"
+    },
+    {
+      "id": "apod:2013-07-03",
+      "type": "space",
+      "title": "Stars and Lightning Over Greece",
+      "summary": "It may appear, at first, like the Galaxy is producing the lightning, but really it's the Earth. In the foreground of the above picturesque nighttime landscape is the Greek Island of Corfu, with town lights surrounding Lake Korrision. Visible farther in the distance are lights from the town of Preveza on the Greek…",
+      "body": "It may appear, at first, like the Galaxy is producing the lightning, but really it's the Earth. In the foreground of the above picturesque nighttime landscape is the Greek Island of Corfu, with town lights surrounding Lake Korrision. Visible farther in the distance are lights from the town of Preveza on the Greek mainland. In the more distant sky a thunderstorm is threatening, with two lightning strokes caught together during this 45 second wide-angle exposure taken in mid-May. The lightning branch on the left appears to be striking near Preveza, whereas the lightning strike on the right appears to be striking near Mount Ainos on the Greek Island of Cephalonia. Much farther in the distance, strewn about the sky, are hundreds of stars in the neighborhood of our Sun in the Milky Way Galaxy. Furthest away, arching over the entire panorama, are billions of stars that together compose the central band of our Milky Way. News: YouTube video of yesterday's Russian rocket explosion",
+      "image": {
+        "src": "data/images/fd4ed739d563673b.jpg",
+        "alt": "Stars and Lightning Over Greece",
+        "credit": "© Bill Metallinos"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap130703.html",
+        "trustTier": "encyclopedic",
+        "date": "2013-07-03"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:36.572Z",
+      "hash": "b3c45c591ffe0139"
+    },
+    {
+      "id": "apod:2015-10-11",
+      "type": "space",
+      "title": "In the Center of the Trifid Nebula",
+      "summary": "Clouds of glowing gas mingle with dust lanes in the Trifid Nebula, a star forming region toward the constellation of the Archer (Sagittarius). In the center, the three prominent dust lanes that give the Trifid its name all come together. Mountains of opaque dust appear on the right, while other dark filaments of dust…",
+      "body": "Clouds of glowing gas mingle with dust lanes in the Trifid Nebula, a star forming region toward the constellation of the Archer (Sagittarius). In the center, the three prominent dust lanes that give the Trifid its name all come together. Mountains of opaque dust appear on the right, while other dark filaments of dust are visible threaded throughout the nebula. A single massive star visible near the center causes much of the Trifid's glow. The Trifid, also known as M20, is only about 300,000 years old, making it among the youngest emission nebulae known. The nebula lies about 9,000 light years away and the part pictured here spans about 10 light years. The above image is a composite with luminance taken from an image by the 8.2-m ground-based Subaru Telescope, detail provided by the 2.4-m orbiting Hubble Space Telescope, color data provided by Martin Pugh and image assembly and processing provided by Robert Gendler. Follow APOD on: Facebook, Google Plus, or Twitter",
+      "image": {
+        "src": "data/images/9b6417064b4d89c6.jpg",
+        "alt": "In the Center of the Trifid Nebula",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap151011.html",
+        "trustTier": "encyclopedic",
+        "date": "2015-10-11"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:36.572Z",
+      "hash": "e8c2b6ce20b331f5"
+    },
+    {
+      "id": "onthisday:07-20:1976:bbade5b5b516b95c",
+      "type": "history",
+      "title": "1976: Viking 1",
+      "summary": "The Viking 1 lander became the first spacecraft to successfully land on Mars and perform its mission.",
+      "body": "The Viking 1 lander became the first spacecraft to successfully land on Mars and perform its mission.",
+      "image": {
+        "src": "data/images/3889f9d5ea4263ff.jpg",
+        "alt": "Viking 1",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Viking_1",
+        "trustTier": "encyclopedic",
+        "date": "07-20"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:35.723Z",
+      "hash": "4df6025914159ac9",
+      "expires": "2026-07-23T10:56:35.723Z"
+    },
+    {
+      "id": "onthisday:07-20:1969:30b0954227320690",
+      "type": "history",
+      "title": "1969: Apollo 11",
+      "summary": "The Apollo 11 Lunar Module Eagle landed on the Sea of Tranquillity, where Neil Armstrong and Buzz Aldrin became the first men to walk on the Moon six and a half hours later (bootprint pictured).",
+      "body": "The Apollo 11 Lunar Module Eagle landed on the Sea of Tranquillity, where Neil Armstrong and Buzz Aldrin became the first men to walk on the Moon six and a half hours later (bootprint pictured).",
+      "image": {
+        "src": "data/images/0719509d0e2e4b8f.jpg",
+        "alt": "Apollo 11",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Apollo_11",
+        "trustTier": "encyclopedic",
+        "date": "07-20"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:35.723Z",
+      "hash": "f9c503877b330693",
+      "expires": "2026-07-23T10:56:35.723Z"
+    },
+    {
+      "id": "onthisday:07-20:1807:60809920024515cc",
+      "type": "history",
+      "title": "1807: Claude Niépce",
+      "summary": "French brothers Claude and Nicéphore Niépce received a patent for their Pyréolophore, one of the world's first internal combustion engines.",
+      "body": "French brothers Claude and Nicéphore Niépce received a patent for their Pyréolophore, one of the world's first internal combustion engines.",
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Claude_Ni%C3%A9pce",
+        "trustTier": "encyclopedic",
+        "date": "07-20"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:35.723Z",
+      "hash": "1232c051c8858aa2",
+      "expires": "2026-07-23T10:56:35.723Z"
+    },
+    {
+      "id": "wikipedia:42899592",
+      "type": "wiki",
+      "title": "João Ferreira (politician)",
+      "summary": "João Manuel Peixoto Ferreira is a Portuguese biologist and politician, serving as Member of the European Parliament for the Portuguese Communist Party (PCP); part of the European United Left–Nordic Green Left, where he was a vice-chair from 7 February 2012 to 30 June 2014, since 2009.",
+      "body": "João Manuel Peixoto Ferreira is a Portuguese biologist and politician, serving as Member of the European Parliament for the Portuguese Communist Party (PCP); part of the European United Left–Nordic Green Left, where he was a vice-chair from 7 February 2012 to 30 June 2014, since 2009.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Ferreira_(politician)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:34.782Z",
+      "hash": "5c0ed485f9377464"
+    },
+    {
+      "id": "wikipedia:11372562",
+      "type": "wiki",
+      "title": "Los Santos de Maimona",
+      "summary": "Los Santos de Maimona is a municipality in the province of Badajoz, Extremadura, Spain. It has an area of 108 km2. In 2018, the population was 8,126.",
+      "body": "Los Santos de Maimona is a municipality in the province of Badajoz, Extremadura, Spain. It has an area of 108 km2. In 2018, the population was 8,126.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Los_Santos_de_Maimona",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:34.516Z",
+      "hash": "5c84aa84419934c7"
+    },
+    {
+      "id": "wikipedia:33595411",
+      "type": "wiki",
+      "title": "Mount Zion Cemetery (Washington, D.C.)",
+      "summary": "Mount Zion Cemetery/Female Union Band Society Cemetery is a historic cemetery located at 27th Street NW and Mill Road NW in the Georgetown neighborhood of Washington, D.C., United States. The cemetery is actually two adjoining burial grounds: the Mount Zion Cemetery and Female Union Band Society Cemetery. Together…",
+      "body": "Mount Zion Cemetery/Female Union Band Society Cemetery is a historic cemetery located at 27th Street NW and Mill Road NW in the Georgetown neighborhood of Washington, D.C., United States. The cemetery is actually two adjoining burial grounds: the Mount Zion Cemetery and Female Union Band Society Cemetery. Together these cemeteries occupy approximately three and a half acres of land. The property fronts Mill Road NW and overlooks Rock Creek Park to the rear. Mount Zion Cemetery, positioned to the East, is approximately 67,300 square feet in area; the Female Union Band Cemetery, situated to the West, contains approximately 66,500 square feet. Mount Zion Cemetery, founded in 1808 as The Old Methodist Burial Ground, was leased property later sold to Mount Zion United Methodist Church. Although the cemetery buried both White and Black persons since its inception, it served an almost exclusively African American population after 1849. In 1842, the Female Union Band Society purchased the western lot to establish a secular burying ground for African Americans. Both cemeteries were abandoned by 1950.",
+      "image": {
+        "src": "data/images/f2a225e46a7ae21d.jpg",
+        "alt": "Mount Zion Cemetery (Washington, D.C.)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mount_Zion_Cemetery_(Washington%2C_D.C.)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:34.194Z",
+      "hash": "d666143d2c1f65f3"
+    },
+    {
+      "id": "wikipedia:1672512",
+      "type": "wiki",
+      "title": "Arnold Arboretum",
+      "summary": "The Arnold Arboretum is a botanical research institution and free public park affiliated with Harvard University and located in the Jamaica Plain and Roslindale neighborhoods of Boston.",
+      "body": "The Arnold Arboretum is a botanical research institution and free public park affiliated with Harvard University and located in the Jamaica Plain and Roslindale neighborhoods of Boston.",
+      "image": {
+        "src": "data/images/74e088bf6723e5be.jpg",
+        "alt": "Arnold Arboretum",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arnold_Arboretum",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-20T10:56:33.813Z",
+      "hash": "8ee4a543c5c6617e"
+    },
     {
       "id": "chess:8iSrE",
       "type": "chess",
@@ -11276,1175 +12400,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-07-10T11:07:58.063Z",
       "hash": "0e68985cfc7b1622"
-    },
-    {
-      "id": "onthisday:07-10:1999:47bf3f01557a3ec3",
-      "type": "history",
-      "title": "1999: United States women's national soccer team",
-      "summary": "The United States defeated China in the final match of the third FIFA Women's World Cup, setting records in both attendance and television ratings for women's sports.",
-      "body": "The United States defeated China in the final match of the third FIFA Women's World Cup, setting records in both attendance and television ratings for women's sports.",
-      "image": {
-        "src": "data/images/3b377ee50221381e.png",
-        "alt": "United States women's national soccer team",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/United_States_women's_national_soccer_team",
-        "trustTier": "encyclopedic",
-        "date": "07-10"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-10T11:07:57.340Z",
-      "hash": "cfe1bcc123d6e968",
-      "expires": "2026-07-13T11:07:57.340Z"
-    },
-    {
-      "id": "onthisday:07-10:1668:b12a008da3a1e5a5",
-      "type": "history",
-      "title": "1668: Anglo-Spanish War (1654–1660)",
-      "summary": "Anglo-Spanish War (1654–1660): Henry Morgan with an English privateer force landed at Porto Bello (in modern-day Panama) in an attempt to capture the Spanish city.",
-      "body": "Anglo-Spanish War (1654–1660): Henry Morgan with an English privateer force landed at Porto Bello (in modern-day Panama) in an attempt to capture the Spanish city.",
-      "image": {
-        "src": "data/images/cd8aa4dfa33b98c2.jpg",
-        "alt": "Anglo-Spanish War (1654–1660)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1654%E2%80%931660)",
-        "trustTier": "encyclopedic",
-        "date": "07-10"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-10T11:07:57.340Z",
-      "hash": "adb24fe32dcea93a",
-      "expires": "2026-07-13T11:07:57.340Z"
-    },
-    {
-      "id": "onthisday:07-10:645:be948d15eaf8ceec",
-      "type": "history",
-      "title": "645: Soga clan",
-      "summary": "In a plot to eliminate the Japanese Soga clan, Prince Naka no Ōe assassinated Soga no Iruka (depicted), beginning the Isshi incident.",
-      "body": "In a plot to eliminate the Japanese Soga clan, Prince Naka no Ōe assassinated Soga no Iruka (depicted), beginning the Isshi incident.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Soga_clan",
-        "trustTier": "encyclopedic",
-        "date": "07-10"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-10T11:07:57.340Z",
-      "hash": "f87f95c63738fb0e",
-      "expires": "2026-07-13T11:07:57.340Z"
-    },
-    {
-      "id": "wikipedia:34226737",
-      "type": "wiki",
-      "title": "Diocese of La Ceiba",
-      "summary": "The Diocese of La Ceiba is a Latin Church ecclesiastical jurisdiction or diocese of the Catholic Church in Honduras. It is a suffragan in the ecclesiastical province of the metropolitan Archdiocese of San Pedro Sula. The diocese was erected on 30 December 2011 by Pope Benedict XVI.",
-      "body": "The Diocese of La Ceiba is a Latin Church ecclesiastical jurisdiction or diocese of the Catholic Church in Honduras. It is a suffragan in the ecclesiastical province of the metropolitan Archdiocese of San Pedro Sula. The diocese was erected on 30 December 2011 by Pope Benedict XVI.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Diocese_of_La_Ceiba",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-10T11:07:56.741Z",
-      "hash": "6cbd86e46188870d"
-    },
-    {
-      "id": "wikipedia:44490414",
-      "type": "wiki",
-      "title": "Bay (shelving)",
-      "summary": "A bay is a basic unit of library shelving. Bays are bookcases about 3 feet (0.9 m) wide, arranged together in rows.",
-      "body": "A bay is a basic unit of library shelving. Bays are bookcases about 3 feet (0.9 m) wide, arranged together in rows.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Bay_(shelving)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-10T11:07:56.460Z",
-      "hash": "6654cd4a077fcc70"
-    },
-    {
-      "id": "wikipedia:31803953",
-      "type": "wiki",
-      "title": "Coleophora acanthyllidis",
-      "summary": "Coleophora acanthyllidis is a moth of the family Coleophoridae. It is found in Algeria and Tunisia.",
-      "body": "Coleophora acanthyllidis is a moth of the family Coleophoridae. It is found in Algeria and Tunisia.",
-      "image": {
-        "src": "data/images/f2f7117546a33af0.jpg",
-        "alt": "Coleophora acanthyllidis",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Coleophora_acanthyllidis",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-10T11:07:55.183Z",
-      "hash": "6174c49404b22aba"
-    },
-    {
-      "id": "wikipedia:27094513",
-      "type": "wiki",
-      "title": "Strigatella scutulata",
-      "summary": "Strigatella scutulata is a species of sea snail, a marine gastropod mollusk in the family Mitridae, the miters or miter snails.",
-      "body": "Strigatella scutulata is a species of sea snail, a marine gastropod mollusk in the family Mitridae, the miters or miter snails.",
-      "image": {
-        "src": "data/images/0432167e7d4daa64.jpg",
-        "alt": "Strigatella scutulata",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Strigatella_scutulata",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-10T11:07:54.795Z",
-      "hash": "f134a301babb3238"
-    },
-    {
-      "id": "chess:UOjh4",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1939. Find the best line for white.",
-      "body": "Solution, from → to: g5→g6, d5→d8, e1→a1, g4→e5, a7→a8. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "6k1/Rp4p1/8/2pq1pPp/6nP/2P5/1P3P2/4R1K1 w - h6 0 1",
-        "lastMove": "h7h5"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/UOjh4",
-        "trustTier": "community",
-        "date": "Thu, 09 Jul 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "endgame",
-        "crushing",
-        "quietmove",
-        "long"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-09T11:08:39.811Z",
-      "hash": "5b00f729102e9083"
-    },
-    {
-      "id": "game:060b7b1f5d9ff380",
-      "type": "game",
-      "title": "Xbox has laid off 379 Zenimax workers in Maryland",
-      "summary": "That includes 213 employees at The Elder Scrolls Online developer ZeniMax Online Studios.",
-      "body": "That includes 213 employees at The Elder Scrolls Online developer ZeniMax Online Studios.",
-      "image": {
-        "src": "data/images/95c5a55ba139367f.png",
-        "alt": "Xbox has laid off 379 Zenimax workers in Maryland",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/xbox-had-laid-off-379-zenimax-workers-in-maryland",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Thu, 09 Jul 2026 07:42:4"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:39.453Z",
-      "hash": "060b7b1f5d9ff380",
-      "expires": "2026-10-07T11:08:39.453Z"
-    },
-    {
-      "id": "game:7f9d600135e5fb1a",
-      "type": "game",
-      "title": "Blizzard eliminates 'small number' of roles in China",
-      "summary": "The news comes with Activision Blizzard's parent company cutting jobs across the board.",
-      "body": "The news comes with Activision Blizzard's parent company cutting jobs across the board.",
-      "image": {
-        "src": "data/images/aadf328f99db3f2e.png",
-        "alt": "Blizzard eliminates 'small number' of roles in China",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/blizzard-eliminates-small-number-of-roles-in-china",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Wed, 08 Jul 2026 16:29:3"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:39.453Z",
-      "hash": "7f9d600135e5fb1a",
-      "expires": "2026-10-07T11:08:39.453Z"
-    },
-    {
-      "id": "trivia:d308128bcbd644b4",
-      "type": "trivia",
-      "title": "What episode of \"Mr. Bean\" saw him trying to prevent people from seeing him naked?",
-      "summary": "Is it: Mr. Bean Goes to Town · Back to School Mr. Bean · Mr. Bean in Room 426 · The Trouble with Mr. Bean?",
-      "body": "Answer: Mr. Bean in Room 426.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "television"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:37.244Z",
-      "hash": "d308128bcbd644b4"
-    },
-    {
-      "id": "trivia:bce09b270f4b8fea",
-      "type": "trivia",
-      "title": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
-      "summary": "Is it: Plan 9 from Outer Space · The Man from Planet X · The Day The Earth Stood Still · It Came from Outer Space?",
-      "body": "Answer: Plan 9 from Outer Space.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "film"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-09T11:08:37.244Z",
-      "hash": "bce09b270f4b8fea"
-    },
-    {
-      "id": "trivia:eff1c5030422d0fe",
-      "type": "trivia",
-      "title": "Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?",
-      "summary": "Is it: John von Neumann · Werner Heisenberg · Albert Einstein · Max Planck?",
-      "body": "Answer: Werner Heisenberg.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-09T11:08:37.244Z",
-      "hash": "eff1c5030422d0fe"
-    },
-    {
-      "id": "trivia:c8f0f9d64002b1e8",
-      "type": "trivia",
-      "title": "What was the development code name for the \"Weatherlight\" expansion for \"Magic: The Gathering\", released in 1997?",
-      "summary": "Is it: Macchiato · Decaf · Frappuccino · Mocha Latte?",
-      "body": "Answer: Mocha Latte.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "board games"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-09T11:08:37.244Z",
-      "hash": "c8f0f9d64002b1e8"
-    },
-    {
-      "id": "passage:gutenberg:84",
-      "type": "passage",
-      "title": "Frankenstein",
-      "summary": "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday, and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking. I am already far north of London, and as I walk in the streets of…",
-      "body": "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday, and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking. I am already far north of London, and as I walk in the streets of Petersburgh, I feel a cold northern breeze play upon my cheeks, which braces my nerves and fills me with delight. Do you understand this feeling? This breeze, which has travelled from the regions towards which I am advancing, gives me a foretaste of those icy climes. Inspirited by this wind of promise, my daydreams become more fervent and…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/84",
-        "trustTier": "publication",
-        "author": "Mary Shelley",
-        "date": "1818"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "gothic",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:08:36.928Z",
-      "hash": "6cad170a13629ac3"
-    },
-    {
-      "id": "comic:smbc:26bd81fb76041dc5",
-      "type": "comic",
-      "title": "Four",
-      "summary": "Readers are encouraged to try to beat this, and fail.",
-      "image": {
-        "src": "data/images/ded1397aade0f04f.png",
-        "alt": "Readers are encouraged to try to beat this, and fail.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/four-3",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Wed, 08 Jul 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-09T11:08:35.946Z",
-      "hash": "26bd81fb76041dc5"
-    },
-    {
-      "id": "comic:xkcd:1350",
-      "type": "comic",
-      "title": "Lorenz",
-      "summary": "Every choice, no matter how small, begins a new story.",
-      "body": "((This April Fools' Day comic has a dynamic panel structure along the lines of a choose-your-own-adventure format - the viewer is presented with up to 4 options for each bit of dialogue, with each choice opening up a new subtree of potential options for the next bit of dialog, and new panel images are chosen semi-randomly based on a graph of potential panel transitions. Readers were also invited to submit dialog options for trees where there were not yet 4 fixed options, thus growing the potential story space. As such there is no fixed transcript for this comic.)) {{Title text: Every choice, no matter how small, begins a new story.}}",
-      "image": {
-        "src": "data/images/d0b1f1d393996ecd.png",
-        "alt": "Every choice, no matter how small, begins a new story.",
-        "credit": "xkcd #1350 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1350/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2014-04-01"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-09T11:08:35.744Z",
-      "hash": "04beac711d47bb4a"
-    },
-    {
-      "id": "comic:xkcd:3269",
-      "type": "comic",
-      "title": "Airport Meeting",
-      "summary": "Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'",
-      "image": {
-        "src": "data/images/b346dce5828f5958.png",
-        "alt": "Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'",
-        "credit": "xkcd #3269 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3269/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2026-07-08"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-09T11:08:35.467Z",
-      "hash": "215e9d14099c38b5"
-    },
-    {
-      "id": "food:b4bbb89303a2e4c2",
-      "type": "food",
-      "title": "100% Rye Chocolate Brownies",
-      "summary": "If you’re interested in baking more with whole grain flours, these rye chocolate brownies are a great place to start. Made with 100% whole grain rye flour, they’re intensely chocolatey, rich, and wildly fudgy. The rye brings a malty depth that makes these some of my favorite brownies to date.…",
-      "body": "If you’re interested in baking more with whole grain flours, these rye chocolate brownies are a great place to start. Made with 100% whole grain rye flour, they’re intensely chocolatey, rich, and wildly fudgy. The rye brings a malty depth that makes these some of my favorite brownies to date. Continue reading 100% Rye Chocolate Brownies on 101 Cookbooks",
-      "image": {
-        "src": "data/images/329185aa2437e680.jpg",
-        "alt": "100% Rye Chocolate Brownies",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/rye-chocolate-brownies/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Thu, 11 Jun 2026 18:31:0"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "baking recipes",
-        "chocolate recipes",
-        "dessert recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:35.348Z",
-      "hash": "b4bbb89303a2e4c2"
-    },
-    {
-      "id": "craft:6bb6d67f19cf58bf",
-      "type": "craft",
-      "title": "Collin van der Sluijs’ ‘Wanderland’ Imagines a Vast Ecosystem Encompassing the Momentous and Mundane",
-      "summary": "The Dutch artist reflects on loss, grief, and the therapeutic powers of nature in his first presentation at Joy Machine.",
-      "body": "The Dutch artist reflects on loss, grief, and the therapeutic powers of nature in his first presentation at Joy Machine.",
-      "image": {
-        "src": "data/images/0879de781c138bcd.jpg",
-        "alt": "Collin van der Sluijs’ ‘Wanderland’ Imagines a Vast Ecosystem Encompassing the Momentous and Mundane",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/07/collin-van-der-sluijs-wanderland-chicago/",
-        "trustTier": "publication",
-        "author": "Joy Machine",
-        "date": "Tue, 07 Jul 2026 21:50:5"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "partner",
-        "birds",
-        "collin van der sluijs",
-        "drawing",
-        "flowers",
-        "moths",
-        "painting"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:35.208Z",
-      "hash": "6bb6d67f19cf58bf"
-    },
-    {
-      "id": "craft:1942bfc90426ce14",
-      "type": "craft",
-      "title": "Open Source Hardware Certifications for June 2026",
-      "summary": "The Open Source Hardware Association added 26 new certifications in June, from microcontrollers to scrolling tools and everything in between. The post Open Source Hardware Certifications for June 2026 appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "The Open Source Hardware Association added 26 new certifications in June, from microcontrollers to scrolling tools and everything in between. The post Open Source Hardware Certifications for June 2026 appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/b44be71edf3d0652.jpg",
-        "alt": "Open Source Hardware Certifications for June 2026",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/technology/open-source/open-source-hardware-certifications-for-june-2026/",
-        "trustTier": "publication",
-        "author": "Sid Drmay",
-        "date": "Tue, 07 Jul 2026 16:00:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "maker news",
-        "open source",
-        "technology",
-        "mouse",
-        "nintendo",
-        "open source hardware",
-        "oshwa"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:34.981Z",
-      "hash": "1942bfc90426ce14"
-    },
-    {
-      "id": "word:8d66c2538c4cfa37",
-      "type": "word",
-      "title": "threnody",
-      "summary": "Noun: A song or poem of lamentation or mourning for a dead person; a dirge; an elegy.",
-      "body": "1. A song or poem of lamentation or mourning for a dead person; a dirge; an elegy.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/threnody",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:08:34.802Z",
-      "hash": "8d66c2538c4cfa37"
-    },
-    {
-      "id": "quote:00fb659509aa98e1",
-      "type": "quote",
-      "title": "“Kind words can be short and easy to speak, but their echoes are truly endless.”",
-      "summary": "— Mother Teresa",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Mother_Teresa",
-        "trustTier": "community",
-        "author": "Mother Teresa"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:08:33.516Z",
-      "hash": "00fb659509aa98e1"
-    },
-    {
-      "id": "quote:273d98cabfe7e027",
-      "type": "quote",
-      "title": "“New opinions are always suspected, and usually opposed, without any other reason but because they are not common.”",
-      "summary": "— John Locke",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/John_Locke",
-        "trustTier": "community",
-        "author": "John Locke"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:08:33.516Z",
-      "hash": "273d98cabfe7e027"
-    },
-    {
-      "id": "quote:d2bc576e3d223ce1",
-      "type": "quote",
-      "title": "“Integrity is the ability to stand by an idea.”",
-      "summary": "— Ayn Rand",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Ayn_Rand",
-        "trustTier": "community",
-        "author": "Ayn Rand"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:08:33.516Z",
-      "hash": "d2bc576e3d223ce1"
-    },
-    {
-      "id": "book-review:93c2999246a49297",
-      "type": "book-review",
-      "title": "The Right to Return: Chinese Merchants, the Scott Act, and Legal Knowledge in an Era of Exclusion",
-      "summary": "“For the first time, customs officials were authorized not only to block newcomers from China but also to turn away long-resident Chinese migrants returning from abroad.” The post The Right to Return: Chinese Merchants, the Scott Act, and Legal Knowledge in an Era of Exclusion appeared first on…",
-      "body": "“For the first time, customs officials were authorized not only to block newcomers from China but also to turn away long-resident Chinese migrants returning from abroad.” The post The Right to Return: Chinese Merchants, the Scott Act, and Legal Knowledge in an Era of Exclusion appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/the-right-to-return-chinese-merchants-the-scott-act-and-legal-knowledge-in-an-era-of-exclusion/",
-        "trustTier": "publication",
-        "author": "Morgan Barry",
-        "date": "Wed, 08 Jul 2026 15:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "essays",
-        "14th amendment",
-        "asian american studies",
-        "birthright citizenship",
-        "citizenship",
-        "history",
-        "immigration"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:31.789Z",
-      "hash": "93c2999246a49297"
-    },
-    {
-      "id": "article:792f9df1b48748a6",
-      "type": "article",
-      "title": "A sealed copy of Super Mario Bros. NES cartridge...",
-      "summary": "A sealed copy of Super Mario Bros. NES cartridge recently sold at auction for $3 million. “It bears the coveted gloss sticker seal affixed to the top lid, identifying it as a second-production example.”",
-      "body": "A sealed copy of Super Mario Bros. NES cartridge recently sold at auction for $3 million. “It bears the coveted gloss sticker seal affixed to the top lid, identifying it as a second-production example.”",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/07/0049288-sealed-copy-super-mario",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-07-08T22:45:00Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:25.451Z",
-      "hash": "792f9df1b48748a6"
-    },
-    {
-      "id": "article:ffad9c61e1169fe2",
-      "type": "article",
-      "title": "Can We Geoengineer Our Way Out of a Super El Nino?",
-      "summary": "A natural experiment in sun-scorched Australia points the way The post Can We Geoengineer Our Way Out of a Super El Nino? appeared first on Nautilus.",
-      "body": "A natural experiment in sun-scorched Australia points the way The post Can We Geoengineer Our Way Out of a Super El Nino? appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/093ba86dc5c098ab.png",
-        "alt": "Can We Geoengineer Our Way Out of a Super El Nino?",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/can-we-geoengineer-our-way-out-of-a-super-el-nino-1282580/",
-        "trustTier": "publication",
-        "author": "Jake Currie",
-        "date": "Wed, 08 Jul 2026 22:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "environment"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:24.573Z",
-      "hash": "ffad9c61e1169fe2"
-    },
-    {
-      "id": "article:3187517c04e1d485",
-      "type": "article",
-      "title": "Graham Platner Is Not Going Quietly",
-      "summary": "The controversial Maine progressive may be out of the Senate race, but his resignation speech suggests he is already plotting a comeback, writes Eli Lake.",
-      "body": "The controversial Maine progressive may be out of the Senate race, but his resignation speech suggests he is already plotting a comeback, writes Eli Lake.",
-      "image": {
-        "src": "data/images/6a675198ef6bcaec.jpg",
-        "alt": "Graham Platner Is Not Going Quietly",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/graham-platner-is-not-going-quietly",
-        "trustTier": "publication",
-        "author": "Eli Lake",
-        "date": "Thu, 09 Jul 2026 04:21:1"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:23.978Z",
-      "hash": "3187517c04e1d485",
-      "expires": "2026-08-08T11:08:23.978Z"
-    },
-    {
-      "id": "article:e7721b276596a117",
-      "type": "article",
-      "title": "“As If He Were Going to His Death”: Priam and Katabasis in Iliad 24",
-      "summary": "This is one of a few posts dedicated to Iliad 24. After the gods have decided to force Achilles to return Hektor’s body, Thetis is dispatched to talk to her son and Iris tells Priam to go with a ransom to Achilles. Priam meets resistance from his family, but eventually he begins his journey across…",
-      "body": "This is one of a few posts dedicated to Iliad 24. After the gods have decided to force Achilles to return Hektor’s body, Thetis is dispatched to talk to her son and Iris tells Priam to go with a ransom to Achilles. Priam meets resistance from his family, but eventually he begins his journey across the … Continue reading “As If He Were Going to His Death”: Priam and Katabasis in Iliad 24",
-      "image": {
-        "src": "data/images/238d4fe8b9d55b61.jpg",
-        "alt": "“As If He Were Going to His Death”: Priam and Katabasis in Iliad 24",
-        "credit": "Sententiae Antiquae"
-      },
-      "source": {
-        "name": "Sententiae Antiquae",
-        "url": "https://sententiaeantiquae.com/2026/07/05/as-if-he-were-going-to-his-death-priam-and-katabasis-in-iliad-24/",
-        "trustTier": "community",
-        "author": "Joel",
-        "date": "Sun, 05 Jul 2026 12:17:3"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity",
-        "iliad 24",
-        "painful signs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:23.743Z",
-      "hash": "e7721b276596a117"
-    },
-    {
-      "id": "article:e344eb4feac56317",
-      "type": "article",
-      "title": "Africa’s cultural landmarks: rock-hewn churches of Lalibela, Ethiopia",
-      "summary": "Most buildings rise from the bottom up, stone by stone. Not so these churches: carved from a single rock, top-to-bottom- by Aeon VideoWatch on Aeon",
-      "body": "Most buildings rise from the bottom up, stone by stone. Not so these churches: carved from a single rock, top-to-bottom- by Aeon VideoWatch on Aeon",
-      "image": {
-        "src": "data/images/3bbf219da83b2fe8.jpg",
-        "alt": "Africa’s cultural landmarks: rock-hewn churches of Lalibela, Ethiopia",
-        "credit": "Aeon"
-      },
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth",
-        "trustTier": "publication",
-        "author": "Aeon Video",
-        "date": "Thu, 09 Jul 2026 10:01:0"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "philosophy"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-09T11:08:21.795Z",
-      "hash": "e344eb4feac56317"
-    },
-    {
-      "id": "greek:76e1efe45624191c",
-      "type": "greek",
-      "title": "ἀρχή",
-      "summary": "ἀρχή — “beginning” · noun",
-      "body": "Note: ἡ ἀρχή; also \"ruler, authority\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CF%81%CF%87%CE%AE#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_fem_1st"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:08:21.641Z",
-      "hash": "76e1efe45624191c"
-    },
-    {
-      "id": "art:si:ld1-1643398738600-1643398750754-0",
-      "type": "art",
-      "title": "Gas mask with filter canister worn at demonstrations in Ferguson, Missouri",
-      "summary": "National Museum of African American History and Culture · 2010s · gas masks",
-      "body": "National Museum of African American History and Culture\n2010s · gas masks",
-      "image": {
-        "src": "data/images/0f0b061a86131529.jpg",
-        "alt": "Gas mask with filter canister worn at demonstrations in Ferguson, Missouri",
-        "credit": "National Museum of African American History and Culture · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://nmaahc.si.edu/object/nmaahc_2016.122ab",
-        "trustTier": "encyclopedic",
-        "date": "2010s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "mask",
-        "gas masks"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-09T11:07:34.835Z",
-      "hash": "5ce2296a72260406"
-    },
-    {
-      "id": "met:418873",
-      "type": "art",
-      "title": "Concord, U.S.N., from the Famous Ships series (N50) for Virginia Brights Cigarettes",
-      "summary": "Allen & Ginter · 1895 · Albumen photograph",
-      "body": "Allen & Ginter · 1895 · Albumen photograph\nThe Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick\nDrawings and Prints",
-      "image": {
-        "src": "data/images/8c3a4ed020916255.jpg",
-        "alt": "Concord, U.S.N., from the Famous Ships series (N50) for Virginia Brights Cigarettes",
-        "credit": "The Met · The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/418873",
-        "trustTier": "encyclopedic",
-        "author": "Allen & Ginter",
-        "date": "1895"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "ship",
-        "photographs"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-09T11:07:33.224Z",
-      "hash": "194d9b5458bbd02d"
-    },
-    {
-      "id": "met:424972",
-      "type": "art",
-      "title": "Steamship New York, Albany \"Day\" Line, from the Ocean and River Steamers series (N83) for Duke brand cigarettes",
-      "summary": "W. Duke, Sons & Co. · 1887 · Commercial color lithograph",
-      "body": "W. Duke, Sons & Co. · 1887 · Commercial color lithograph\nThe Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick\nDrawings and Prints",
-      "image": {
-        "src": "data/images/ebd10ccd17e0d6f8.jpg",
-        "alt": "Steamship New York, Albany \"Day\" Line, from the Ocean and River Steamers series (N83) for Duke brand cigarettes",
-        "credit": "The Met · The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/424972",
-        "trustTier": "encyclopedic",
-        "author": "W. Duke, Sons & Co.",
-        "date": "1887"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "ship",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-09T11:07:33.090Z",
-      "hash": "54db10a91a4408a9"
-    },
-    {
-      "id": "met:895022",
-      "type": "art",
-      "title": "General Washington",
-      "summary": "Benoit Louis Prevost · 1781 · Etching and engraving; first state (without title)",
-      "body": "Benoit Louis Prevost · 1781 · Etching and engraving; first state (without title)\nHarris Brisbane Dick Fund, 1917\nDrawings and Prints",
-      "image": {
-        "src": "data/images/ac6f10ab4ebbf6c6.jpg",
-        "alt": "General Washington",
-        "credit": "The Met · Harris Brisbane Dick Fund, 1917"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/895022",
-        "trustTier": "encyclopedic",
-        "author": "Benoit Louis Prevost",
-        "date": "1781"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "ship",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-09T11:07:32.541Z",
-      "hash": "5abaeb15cd008eb7"
-    },
-    {
-      "id": "apod:2024-07-24",
-      "type": "space",
-      "title": "Exaggerated Moon",
-      "summary": "Our Moon doesn't really have craters this big. Earth's Moon, Luna, also doesn't naturally show this spikey texture, and its colors are more subtle. But this digital creation is based on reality. The featured image is a digital composite of a good Moon image and surface height data taken from NASA's Lunar Orbiter…",
-      "body": "Our Moon doesn't really have craters this big. Earth's Moon, Luna, also doesn't naturally show this spikey texture, and its colors are more subtle. But this digital creation is based on reality. The featured image is a digital composite of a good Moon image and surface height data taken from NASA's Lunar Orbiter Laser Altimeter (LOLA) mission -- and then exaggerated for educational understanding. The digital enhancements, for example, accentuate lunar highlands and show more clearly craters that illustrate the tremendous bombardment our Moon has been through during its 4.6-billion-year history. The dark areas, called maria, have fewer craters and were once seas of molten lava. Additionally, the image colors, although based on the moon's real composition, are changed and exaggerated. Here, a blue hue indicates a region that is iron rich, while orange indicates a slight excess of aluminum. Although the Moon has shown the same side to the Earth for billions of years, modern technology is allowing humanity to learn much more about it -- and how it affects the Earth.",
-      "image": {
-        "src": "data/images/b4121348516d26c3.jpg",
-        "alt": "Exaggerated Moon",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap240724.html",
-        "trustTier": "encyclopedic",
-        "date": "2024-07-24"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:07:32.178Z",
-      "hash": "8a32fa6f57c7161d"
-    },
-    {
-      "id": "apod:2002-04-28",
-      "type": "space",
-      "title": "Doomed Star Eta Carinae",
-      "summary": "Carinae may be about to explode. But no one knows when - it may be next year, it may be one million years from now. Eta Carinae's mass - about 100 times greater than our Sun - makes it an excellent candidate for a full blown supernova. Historical records do show that about 150 years ago Eta Carinae underwent an…",
-      "body": "Carinae may be about to explode. But no one knows when - it may be next year, it may be one million years from now. Eta Carinae's mass - about 100 times greater than our Sun - makes it an excellent candidate for a full blown supernova. Historical records do show that about 150 years ago Eta Carinae underwent an unusual outburst that made it one of the brightest stars in the southern sky. Eta Carinae, in the Keyhole Nebula, is the only star currently thought to emit natural LASER light. This image, taken in 1996, resulted from sophisticated image-processing procedures designed to bring out new details in the unusual nebula that surrounds this rogue star. Now clearly visible are two distinct lobes, a hot central region, and strange radial streaks. The lobes are filled with lanes of gas and dust which absorb the blue and ultraviolet light emitted near the center. The streaks remain unexplained. Will these clues tell us how the nebula was formed? Will they better indicate when Eta Carinae will explode?",
-      "image": {
-        "src": "data/images/4a3280bd4ecbf210.jpg",
-        "alt": "Doomed Star Eta Carinae",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap020428.html",
-        "trustTier": "encyclopedic",
-        "date": "2002-04-28"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:07:32.178Z",
-      "hash": "0a4414649c67c0d5"
-    },
-    {
-      "id": "apod:2003-06-02",
-      "type": "space",
-      "title": "The Fogs of Mars",
-      "summary": "Fogs of clouds and dust covered parts of southern Mars during last Martian winter. Giant volcanoes, such as Ascraeus Mons, the central circular feature near the top of the image, were surrounded by large water clouds. Slightly southwest, Pavonis Mons and Arisa Mons also peeked above their water clouds. The rough…",
-      "body": "Fogs of clouds and dust covered parts of southern Mars during last Martian winter. Giant volcanoes, such as Ascraeus Mons, the central circular feature near the top of the image, were surrounded by large water clouds. Slightly southwest, Pavonis Mons and Arisa Mons also peeked above their water clouds. The rough terrain below center is Labyrinthus Noctis, a maze of deep troughs running over 200 kilometers long. Directly south, a large white dust storm fogs Syria Planum, a large plateau. This image mosaic was taken by the Mars Global Surveyor spacecraft currently orbiting Mars. Soon, five more Earth-launched spacecraft should arrive at the Red Planet, named for the Roman god of war.",
-      "image": {
-        "src": "data/images/72cfb1eab7480e7b.jpg",
-        "alt": "The Fogs of Mars",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap030602.html",
-        "trustTier": "encyclopedic",
-        "date": "2003-06-02"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:07:32.178Z",
-      "hash": "7e8930429c353236"
-    },
-    {
-      "id": "apod:1996-09-16",
-      "type": "space",
-      "title": "The Sun Erupts",
-      "summary": "The Sun is a seething ball of extremely hot gas. Above, the Sun was captured by Skylab in 1973 throwing off one the largest eruptive prominences in recorded history. The Sun has survived for about 5 billion years, and will likely survive for another 5 billion. The Sun is not on fire, will never explode, and a solar…",
-      "body": "The Sun is a seething ball of extremely hot gas. Above, the Sun was captured by Skylab in 1973 throwing off one the largest eruptive prominences in recorded history. The Sun has survived for about 5 billion years, and will likely survive for another 5 billion. The Sun is not on fire, will never explode, and a solar flare will never destroy the Earth. The Sun continues to present many unanswered questions. For example: Why is the Sun's corona so hot? What causes the Sun's unusual magnetic field? Why does the Sun's center emit so few neutrinos?",
-      "image": {
-        "src": "data/images/3052e4934da849eb.gif",
-        "alt": "The Sun Erupts",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap960916.html",
-        "trustTier": "encyclopedic",
-        "date": "1996-09-16"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:07:32.178Z",
-      "hash": "48ccea092935580c"
-    },
-    {
-      "id": "apod:2008-11-03",
-      "type": "space",
-      "title": "A Spectacular Rayed Crater on Mercury",
-      "summary": "Why does Mercury have so many rayed craters? No one is sure. The robotic MESSENGER spacecraft that is taking unprecedented images as it swoops past the innermost planet has provided dramatic confirmation that Mercury has more rayed craters than Earth's Moon. Pictured above, a particularly spectacular rayed crater…",
-      "body": "Why does Mercury have so many rayed craters? No one is sure. The robotic MESSENGER spacecraft that is taking unprecedented images as it swoops past the innermost planet has provided dramatic confirmation that Mercury has more rayed craters than Earth's Moon. Pictured above, a particularly spectacular rayed crater spanning approximately 80 kilometers was imaged by MESSENGER during last month's flyby from about 20,000 kilometers up. The rays prevalence is a mystery because space weathering effects such as dust accumulation and solar wind attenuation should be greater on Mercury than on the Moon. Hypothesized solutions currently include the optical properties of Mercurian dust, and that Mercury's high mass and proximity to the Sun cause more violent impacts, thus typically raising more light material. MESSENGER will buzz past Mercury again next year before entering orbit in 2011.",
-      "image": {
-        "src": "data/images/b5617716ed76dba8.jpg",
-        "alt": "A Spectacular Rayed Crater on Mercury",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap081103.html",
-        "trustTier": "encyclopedic",
-        "date": "2008-11-03"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:07:32.178Z",
-      "hash": "5fb96522fafaa720"
-    },
-    {
-      "id": "onthisday:07-09:2008:79e8b8af1c886246",
-      "type": "history",
-      "title": "2008: Nuclear program of Iran",
-      "summary": "Under the belief that Israel and the United States were planning to attack its nuclear program, Iran conducted the Great Prophet III missile test and war games.",
-      "body": "Under the belief that Israel and the United States were planning to attack its nuclear program, Iran conducted the Great Prophet III missile test and war games.",
-      "image": {
-        "src": "data/images/8deb9c4e0553f844.png",
-        "alt": "Nuclear program of Iran",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Nuclear_program_of_Iran",
-        "trustTier": "encyclopedic",
-        "date": "07-09"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:07:31.392Z",
-      "hash": "798110258710394d",
-      "expires": "2026-07-12T11:07:31.392Z"
-    },
-    {
-      "id": "onthisday:07-09:1962:95a41c70c4b2c4bd",
-      "type": "history",
-      "title": "1962: Starfish Prime",
-      "summary": "The United States conducted the Starfish Prime high-altitude nuclear test, the largest nuclear explosion in outer space.",
-      "body": "The United States conducted the Starfish Prime high-altitude nuclear test, the largest nuclear explosion in outer space.",
-      "image": {
-        "src": "data/images/ff01a7c965d46166.jpg",
-        "alt": "Starfish Prime",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Starfish_Prime",
-        "trustTier": "encyclopedic",
-        "date": "07-09"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:07:31.392Z",
-      "hash": "ff00822b43900a72",
-      "expires": "2026-07-12T11:07:31.392Z"
-    },
-    {
-      "id": "onthisday:07-09:1640:80c9f15706137313",
-      "type": "history",
-      "title": "1640: Virginia Governor's Council",
-      "summary": "The Virginia Governor's Council made John Punch the first legally recognized slave in England's North American colonies.",
-      "body": "The Virginia Governor's Council made John Punch the first legally recognized slave in England's North American colonies.",
-      "image": {
-        "src": "data/images/3a5eb6557deedec3.png",
-        "alt": "Virginia Governor's Council",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Virginia_Governor's_Council",
-        "trustTier": "encyclopedic",
-        "date": "07-09"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-09T11:07:31.392Z",
-      "hash": "39f9c6c0c92570e6",
-      "expires": "2026-07-12T11:07:31.392Z"
     },
     {
       "id": "curated:handwriting-beats-typing",

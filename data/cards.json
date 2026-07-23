@@ -1,7 +1,1181 @@
 {
-  "generatedAt": "2026-07-22T10:30:20.643Z",
+  "generatedAt": "2026-07-23T10:27:46.918Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:FmfSw",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1921. Find the best line for black.",
+      "body": "Solution, from → to: d8→d2, f3→d2, g6→g2, h2→h1, g2→d2, h1→g1, d2→g2. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "3r3k/R6p/p3p1r1/2P5/1P2b3/5N1P/6PK/5R2 b - - 1 1",
+        "lastMove": "f7a7"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/FmfSw",
+        "trustTier": "community",
+        "date": "Thu, 23 Jul 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "verylong",
+        "endgame",
+        "discoveredcheck",
+        "advantage"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-07-23T10:27:44.168Z",
+      "hash": "2e601d46be08e562"
+    },
+    {
+      "id": "game:0d0125a10af9398e",
+      "type": "game",
+      "title": "Splatoon Raiders started off as a tower defense game",
+      "summary": "Director Yoshihiko Ito shares insight about the importance of maintaining the series' key strengths when prototyping new ideas.",
+      "body": "Director Yoshihiko Ito shares insight about the importance of maintaining the series' key strengths when prototyping new ideas.",
+      "image": {
+        "src": "data/images/439f14298bb29328.png",
+        "alt": "Splatoon Raiders started off as a tower defense game",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/design/splatoon-raiders-started-as-a-tower-defense-game-but-its-splatoon-ness-got-lost",
+        "trustTier": "publication",
+        "author": "Diego Argüello",
+        "date": "Wed, 22 Jul 2026 14:27:1"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:43.774Z",
+      "hash": "0d0125a10af9398e",
+      "expires": "2026-10-21T10:27:43.774Z"
+    },
+    {
+      "id": "game:ee6741d04d412b76",
+      "type": "game",
+      "title": "A Kinect game that debuted in 2013 has been revived in the year of our lord 2026",
+      "summary": "Freefall Racers is returning to screens after 13 years via Nex Playground.",
+      "body": "Freefall Racers is returning to screens after 13 years via Nex Playground.",
+      "image": {
+        "src": "data/images/309a3fb7011943a5.png",
+        "alt": "A Kinect game that debuted in 2013 has been revived in the year of our lord 2026",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/a-kinect-game-that-debuted-in-2013-has-been-revived-in-the-year-of-our-lord-2026",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Wed, 22 Jul 2026 15:31:5"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:43.773Z",
+      "hash": "ee6741d04d412b76",
+      "expires": "2026-10-21T10:27:43.773Z"
+    },
+    {
+      "id": "game:54b0a00ce046bde3",
+      "type": "game",
+      "title": "Microsoft launches Xbox backward compatibility for PC",
+      "summary": "After a month of brutal news, Microsoft is launching Xbox backward compatibility on PC.",
+      "body": "After a month of brutal news, Microsoft is launching Xbox backward compatibility on PC.",
+      "image": {
+        "src": "data/images/af142b927fa577bf.jpg",
+        "alt": "Microsoft launches Xbox backward compatibility for PC",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/microsoft-launches-xbox-backward-compatibility-for-pc",
+        "trustTier": "publication",
+        "author": "Diego Argüello",
+        "date": "Wed, 22 Jul 2026 15:57:5"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:43.773Z",
+      "hash": "54b0a00ce046bde3",
+      "expires": "2026-10-21T10:27:43.773Z"
+    },
+    {
+      "id": "trivia:fe8e755b8c9890cf",
+      "type": "trivia",
+      "title": "The Little Entente was an alliance formed against which nation?",
+      "summary": "Is it: Hungary · Germany · France · Prussia?",
+      "body": "Answer: Hungary.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:41.661Z",
+      "hash": "fe8e755b8c9890cf"
+    },
+    {
+      "id": "trivia:f7c3dc21cc8b0be0",
+      "type": "trivia",
+      "title": "Who was the first jedi that Starkiller had to kill in Star Wars: The Force Unleashed?",
+      "summary": "Is it: Kento Marek · Ahsoka Tano · Kazdan Paratus · Rahm Kota?",
+      "body": "Answer: Rahm Kota.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:41.661Z",
+      "hash": "f7c3dc21cc8b0be0"
+    },
+    {
+      "id": "trivia:b2d31e7f99cc6e4a",
+      "type": "trivia",
+      "title": "How much money did the 2019 Marvel movie \"Avengers: Endgame\" gross for it's record-breaking worldwide opening weekend?",
+      "summary": "Is it: 1.2 billion USD · 392 million USD · 640 million USD · 456 million USD?",
+      "body": "Answer: 1.2 billion USD.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "film"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:41.661Z",
+      "hash": "b2d31e7f99cc6e4a"
+    },
+    {
+      "id": "trivia:deccdb8402d7d7b2",
+      "type": "trivia",
+      "title": "Which car tire manufacturer is famous for its \"Eagle\" brand of tires, and is the official tire supplier of NASCAR?",
+      "summary": "Is it: Goodyear · Bridgestone · Michelin · Pirelli?",
+      "body": "Answer: Goodyear.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "vehicles"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:27:41.660Z",
+      "hash": "deccdb8402d7d7b2"
+    },
+    {
+      "id": "comic:smbc:57a66225ad7adce7",
+      "type": "comic",
+      "title": "Bully",
+      "summary": "And now I bully you with a wall of text.",
+      "image": {
+        "src": "data/images/869a9494de0410e8.png",
+        "alt": "And now I bully you with a wall of text.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/bully-2",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Wed, 22 Jul 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-23T10:27:40.646Z",
+      "hash": "57a66225ad7adce7"
+    },
+    {
+      "id": "comic:xkcd:262",
+      "type": "comic",
+      "title": "IN UR REALITY",
+      "summary": "Hey, at least I ran out of staples.",
+      "body": "[[Two men stand facing one another. Man on the left is wearing a hat and holding a cat and a piece of paper. Man 2 has raised his arms. There are three cats with captions stuck to them]] Man: Oh hi; I'm here from the internet Man 2: What are you doing!? Man: Gluing captions to your cats. > {{Title-text: Hey, at least I ran out of staples.}}",
+      "image": {
+        "src": "data/images/40e2e6265e0bb997.png",
+        "alt": "Hey, at least I ran out of staples.",
+        "credit": "xkcd #262 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/262/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2007-05-16"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-23T10:27:40.488Z",
+      "hash": "d727cc24bf8883ea"
+    },
+    {
+      "id": "comic:xkcd:3275",
+      "type": "comic",
+      "title": "Calibration Nobel",
+      "summary": "We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.",
+      "image": {
+        "src": "data/images/21cebaf3d7777a20.png",
+        "alt": "We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.",
+        "credit": "xkcd #3275 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3275/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-07-22"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-23T10:27:40.395Z",
+      "hash": "b6c8720a220f7e55"
+    },
+    {
+      "id": "food:f693836767f2c4c4",
+      "type": "food",
+      "title": "Oat Recipes: 25+ Favorite Ways to Cook with Oats",
+      "summary": "If you have a bag of oats you want to put to good use, start here. This page shares my favorite oat recipes from 101 Cookbooks over the years. Baked oatmeal, granola, muffins, cookies, pancakes, crackers, breads, crumbles, and bite-sized snacks all represent and show just how diverse and delicious…",
+      "body": "If you have a bag of oats you want to put to good use, start here. This page shares my favorite oat recipes from 101 Cookbooks over the years. Baked oatmeal, granola, muffins, cookies, pancakes, crackers, breads, crumbles, and bite-sized snacks all represent and show just how diverse and delicious oats can be. Continue reading Oat Recipes: 25+ Favorite Ways to Cook with Oats on 101 Cookbooks",
+      "image": {
+        "src": "data/images/782fc40372f96867.jpg",
+        "alt": "Oat Recipes: 25+ Favorite Ways to Cook with Oats",
+        "credit": "101 Cookbooks"
+      },
+      "source": {
+        "name": "101 Cookbooks",
+        "url": "https://www.101cookbooks.com/oat-recipes/",
+        "trustTier": "community",
+        "author": "Heidi Swanson",
+        "date": "Fri, 26 Jun 2026 22:26:3"
+      },
+      "tags": [
+        "cooking",
+        "recipe",
+        "food",
+        "100+ vegetarian recipes",
+        "baking recipes",
+        "breakfast recipes",
+        "cookie recipes",
+        "whole grain recipes"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:40.288Z",
+      "hash": "f693836767f2c4c4"
+    },
+    {
+      "id": "craft:f8eebf549037bfd0",
+      "type": "craft",
+      "title": "Saman and Sasan Oskouei’s Sculptures Puncture the Weight of Everyday Objects",
+      "summary": "The brothers puncture everyday objects with irregular yet cohesive holes, rendering their former functions impractical.",
+      "body": "The brothers puncture everyday objects with irregular yet cohesive holes, rendering their former functions impractical.",
+      "image": {
+        "src": "data/images/2cc0ef02c980af4b.jpg",
+        "alt": "Saman and Sasan Oskouei’s Sculptures Puncture the Weight of Everyday Objects",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/07/saman-and-sasan-oskouei-weight-of-less/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Wed, 22 Jul 2026 17:52:4"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "furniture",
+        "saman and sasan oskouei",
+        "sculpture",
+        "wood"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:40.226Z",
+      "hash": "f8eebf549037bfd0"
+    },
+    {
+      "id": "craft:a7acfefadb3358cd",
+      "type": "craft",
+      "title": "Debra Broz’s Kitschy ‘Superorganisms’ Are Both Familiar and Strange",
+      "summary": "The Seattle-based artist's quirky sculptures are made from from found figurines.",
+      "body": "The Seattle-based artist's quirky sculptures are made from from found figurines.",
+      "image": {
+        "src": "data/images/42ee72a637c4d200.jpg",
+        "alt": "Debra Broz’s Kitschy ‘Superorganisms’ Are Both Familiar and Strange",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/07/debra-broz-superorganisms-ceramics-found-objects-sculpture/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Wed, 22 Jul 2026 19:54:0"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "animals",
+        "ceramics",
+        "debra broz",
+        "found objects",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:40.226Z",
+      "hash": "a7acfefadb3358cd"
+    },
+    {
+      "id": "craft:dcdb28496f69184e",
+      "type": "craft",
+      "title": "The Era of Contradiction Materializes in Genesis Belanger’s Uncanny Sculptures",
+      "summary": "“I’m interested in creating work that reflects the contradictions we navigate every day, where life can be both exhilarating and devastating.\"",
+      "body": "“I’m interested in creating work that reflects the contradictions we navigate every day, where life can be both exhilarating and devastating.\"",
+      "image": {
+        "src": "data/images/45b5e73ea5db0843.jpg",
+        "alt": "The Era of Contradiction Materializes in Genesis Belanger’s Uncanny Sculptures",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/07/genesis-belanger-public-art-fund-sculptures/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Wed, 22 Jul 2026 13:36:2"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "birds",
+        "bronze",
+        "ceramics",
+        "consumerism",
+        "genesis belanger",
+        "public art",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:40.226Z",
+      "hash": "dcdb28496f69184e"
+    },
+    {
+      "id": "word:357de8f622ff2aae",
+      "type": "word",
+      "title": "labyrinth",
+      "summary": "Noun: A maze-like structure built by Daedalus in Knossos, containing the Minotaur. A complicated irregular network of passages or paths, especially underground or covered, in which it is difficult to find one's way.",
+      "body": "1. A maze-like structure built by Daedalus in Knossos, containing the Minotaur. A complicated irregular network of passages or paths, especially underground or covered, in which it is difficult to find one's way.\n2. A complicated irregular network of passages or paths, especially underground or covered, in which it is difficult to find one's way.\n3. A maze formed by paths separated by high hedges.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/labyrinth",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:27:39.802Z",
+      "hash": "357de8f622ff2aae"
+    },
+    {
+      "id": "word:e3164293edaffa30",
+      "type": "word",
+      "title": "eclectic",
+      "summary": "Adjective: Selecting a mixture of what appears to be best of various doctrines, methods or styles.",
+      "body": "1. Selecting a mixture of what appears to be best of various doctrines, methods or styles.\n2. Unrelated and unspecialized; heterogeneous.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/eclectic",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Adjective"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:27:38.797Z",
+      "hash": "e3164293edaffa30"
+    },
+    {
+      "id": "quote:0ddcfcf917e3dc15",
+      "type": "quote",
+      "title": "“There is no self-discovery without pain and loss.”",
+      "summary": "— Anita Krizzan",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Anita_Krizzan",
+        "trustTier": "community",
+        "author": "Anita Krizzan"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:27:38.643Z",
+      "hash": "0ddcfcf917e3dc15"
+    },
+    {
+      "id": "quote:b424814da039c2f5",
+      "type": "quote",
+      "title": "“When it is dark enough, you can see the stars.”",
+      "summary": "— Ralph Waldo Emerson",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Ralph_Waldo_Emerson",
+        "trustTier": "community",
+        "author": "Ralph Waldo Emerson"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:27:38.643Z",
+      "hash": "b424814da039c2f5"
+    },
+    {
+      "id": "book-review:b3187ba09c6e7239",
+      "type": "book-review",
+      "title": "You Have Nothing to Lose But Your Supply Chains!",
+      "summary": "“Logistics,” warns Susan Zieger, “reveals how the illicit economy is the legitimate economy: the nature of free trade prevents the two from ever being separated.” The post You Have Nothing to Lose But Your Supply Chains! appeared first on Public Books.",
+      "body": "“Logistics,” warns Susan Zieger, “reveals how the illicit economy is the legitimate economy: the nature of free trade prevents the two from ever being separated.” The post You Have Nothing to Lose But Your Supply Chains! appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/you-have-nothing-to-lose-but-your-supply-chains/",
+        "trustTier": "publication",
+        "author": "Imani Radney",
+        "date": "Wed, 22 Jul 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "reviews",
+        "capitalism",
+        "history",
+        "infrastructure",
+        "metaphor",
+        "networks",
+        "supply chains"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:38.585Z",
+      "hash": "b3187ba09c6e7239"
+    },
+    {
+      "id": "article:9837ee772ac7a877",
+      "type": "article",
+      "title": "“A Radical Democracy of Images”: Mike Mills on His Work Outside of Feature Filmmaking",
+      "summary": "The following interview was conducted in December 2025, as Criterion Collection executive producer Kim Hendrickson and director Mike Mills were working to prepare the box set I’ll Remind You of Everything: The Films of Mike Mills. Hi, Mike—maybe we start with Deformer, since it feels like an…",
+      "body": "The following interview was conducted in December 2025, as Criterion Collection executive producer Kim Hendrickson and director Mike Mills were working to prepare the box set I’ll Remind You of Everything: The Films of Mike Mills. Hi, Mike—maybe we start with Deformer, since it feels like an origin point for you as a filmmaker. It’s one of the first things I ever did, in 1996. I was hanging out a lot at the Alleged Gallery in New York City, run by Aaron Rose, which showed a lot of artists from the skateboarding universe. I was reuniting with skate culture after art school at Cooper Union; it…",
+      "image": {
+        "src": "data/images/dcc16a2a631d3d11.jpg",
+        "alt": "“A Radical Democracy of Images”: Mike Mills on His Work Outside of Feature Filmmaking",
+        "credit": "The Current (Criterion)"
+      },
+      "source": {
+        "name": "The Current (Criterion)",
+        "url": "https://www.criterion.com/current/posts/9231--a-radical-democracy-of-images-mike-mills-on-his-work-outside-of-feature-filmmaking",
+        "trustTier": "publication",
+        "author": "Kim Hendrickson",
+        "date": "Wed, 22 Jul 2026 07:05:0"
+      },
+      "tags": [
+        "film",
+        "essay",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:36.410Z",
+      "hash": "9837ee772ac7a877"
+    },
+    {
+      "id": "article:ab7f27493bfed867",
+      "type": "article",
+      "title": "Heart of a Phoenix",
+      "summary": "One year later, &lt;em&gt;Lapham’s Quarterly&lt;/em&gt; lives. What’s ahead in year two of our revival.",
+      "body": "One year later, &lt;em&gt;Lapham’s Quarterly&lt;/em&gt; lives. What’s ahead in year two of our revival.",
+      "source": {
+        "name": "Lapham's Quarterly",
+        "url": "https://www.laphamsquarterly.org/roundtable/heart-phoenix",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "history",
+        "culture",
+        "literature"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:33.155Z",
+      "hash": "ab7f27493bfed867"
+    },
+    {
+      "id": "article:376596f8915633de",
+      "type": "article",
+      "title": "Australia’s Greater Gliders Fly Majestically From Tree to Tree—And Now We Know Exactly How Far",
+      "summary": "It’s not as far as we thought, though The post Australia’s Greater Gliders Fly Majestically From Tree to Tree—And Now We Know Exactly How Far appeared first on Nautilus.",
+      "body": "It’s not as far as we thought, though The post Australia’s Greater Gliders Fly Majestically From Tree to Tree—And Now We Know Exactly How Far appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/0ebf7bc1b429c6eb.png",
+        "alt": "Australia’s Greater Gliders Fly Majestically From Tree to Tree—And Now We Know Exactly How Far",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/australias-greater-gliders-fly-majestically-from-tree-to-tree-and-now-we-know-exactly-how-far-1282905/",
+        "trustTier": "publication",
+        "author": "David Nield",
+        "date": "Wed, 22 Jul 2026 19:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "zoology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:32.123Z",
+      "hash": "376596f8915633de"
+    },
+    {
+      "id": "article:0747ba74203dcb3f",
+      "type": "article",
+      "title": "Apocalypse Troy: Nolan’s Odyssey and the End of Civilization",
+      "summary": "THEODORE NASH Did Homer know the Sea People? Continue reading Apocalypse Troy: Nolan’s Odyssey and the End of Civilization",
+      "body": "THEODORE NASH Did Homer know the Sea People? Continue reading Apocalypse Troy: Nolan’s Odyssey and the End of Civilization",
+      "image": {
+        "src": "data/images/5bc68770638b69f5.png",
+        "alt": "Apocalypse Troy: Nolan’s Odyssey and the End of Civilization",
+        "credit": "Antigone Journal"
+      },
+      "source": {
+        "name": "Antigone Journal",
+        "url": "https://antigonejournal.com/2026/07/nolan-odyssey-end-civilization/",
+        "trustTier": "publication",
+        "author": "Antigone",
+        "date": "Tue, 21 Jul 2026 14:57:4"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "history",
+        "greek literature",
+        "the classical tradition"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:31.997Z",
+      "hash": "0747ba74203dcb3f"
+    },
+    {
+      "id": "article:beb13a73b7714909",
+      "type": "article",
+      "title": "Taking Helen Seriously: Reading Trauma into The Iliad",
+      "summary": "This is one of a few posts dedicated to Iliad 24. I have written about trauma and the Iliad in several posts. Last year, I provided an overview of work on psychology and Homer. Part of what I explain there is that there was resistance in much of the 20th century to applying modern psychological…",
+      "body": "This is one of a few posts dedicated to Iliad 24. I have written about trauma and the Iliad in several posts. Last year, I provided an overview of work on psychology and Homer. Part of what I explain there is that there was resistance in much of the 20th century to applying modern psychological notions to … Continue reading Taking Helen Seriously: Reading Trauma into The Iliad",
+      "image": {
+        "src": "data/images/417e7476204602f9.jpg",
+        "alt": "Taking Helen Seriously: Reading Trauma into The Iliad",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/07/21/taking-helen-seriously-reading-trauma-into-the-iliad/",
+        "trustTier": "community",
+        "author": "sententiaeantiquae",
+        "date": "Tue, 21 Jul 2026 11:18:3"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:31.205Z",
+      "hash": "beb13a73b7714909"
+    },
+    {
+      "id": "article:340b91f70b3c0a64",
+      "type": "article",
+      "title": "Fuel Tank Orca Mural in Palmer Station, Antarctica",
+      "summary": "The fuel tank mural at Palmer Station is one of the most recognizable landmarks at this remote Antarctic research base. Painted on the station’s large fuel tank, the mural features a leaping orca and adds a unique piece of public art to the otherwise industrial scenery. Visible from the water as…",
+      "body": "The fuel tank mural at Palmer Station is one of the most recognizable landmarks at this remote Antarctic research base. Painted on the station’s large fuel tank, the mural features a leaping orca and adds a unique piece of public art to the otherwise industrial scenery. Visible from the water as ships approach the station, it has become a familiar symbol of Palmer Station for residents and visitors alike. The mural stands out against the surrounding Antarctic landscape and serves as a reminder that even in one of the world’s most isolated workplaces, people bring creativity and personality…",
+      "image": {
+        "src": "data/images/b004076babad705c.jpg",
+        "alt": "Fuel Tank Orca Mural in Palmer Station, Antarctica",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/fuel-tank-orca-mural",
+        "trustTier": "publication",
+        "date": "Wed, 22 Jul 2026 16:00:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history",
+        "whales",
+        "murals"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:31.155Z",
+      "hash": "340b91f70b3c0a64"
+    },
+    {
+      "id": "article:f7660e96f6cf796f",
+      "type": "article",
+      "title": "Suns Cinema in Washington, D.C.",
+      "summary": "Set on one of the best streets in Washington, DC, this neighborhood gem has the perfect mix of an impressive film selection and delicious cocktails. Affordable tickets to see a big variety of movies screened almost daily make this spot worth visiting. Independently run, the owner David Cabrera…",
+      "body": "Set on one of the best streets in Washington, DC, this neighborhood gem has the perfect mix of an impressive film selection and delicious cocktails. Affordable tickets to see a big variety of movies screened almost daily make this spot worth visiting. Independently run, the owner David Cabrera shows films he likes that range in topic, format, and style. The place is decorated with some nods to movies such as the zebra wallpaper behind the bar (Margot Tenenbaum from “The Royal Tenenbaums”), geometric carpeting in the hallway (“The Shining”), and flamingo wallpaper in the bathroom (Pink…",
+      "image": {
+        "src": "data/images/b363910949fec755.jpg",
+        "alt": "Suns Cinema in Washington, D.C.",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/suns-cinema",
+        "trustTier": "publication",
+        "date": "Wed, 22 Jul 2026 15:54:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history",
+        "movie theater",
+        "cinema"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-23T10:27:31.155Z",
+      "hash": "f7660e96f6cf796f"
+    },
+    {
+      "id": "greek:5bf3b645e83602c0",
+      "type": "greek",
+      "title": "δέ",
+      "summary": "δέ — “but, and” · conjunction",
+      "body": "Note: postpositive — never appears first in clause\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B4%CE%AD#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "conjunction",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-23T10:27:29.461Z",
+      "hash": "5bf3b645e83602c0"
+    },
+    {
+      "id": "greek:46649385866cc949",
+      "type": "greek",
+      "title": "ἀδελφός",
+      "summary": "ἀδελφός — “brother” · noun",
+      "body": "Note: ὁ ἀδελφός; plural can mean \"brothers and sisters\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B4%CE%B5%CE%BB%CF%86%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:27:29.460Z",
+      "hash": "46649385866cc949"
+    },
+    {
+      "id": "met:436187",
+      "type": "art",
+      "title": "A Dragoon on Horseback",
+      "summary": "Edouard Detaille · 1876 · Oil on wood",
+      "body": "Edouard Detaille · 1876 · Oil on wood\nBequest of Martha T. Fiske Collord, in memory of her first husband, Josiah M. Fiske, 1908\nEuropean Paintings",
+      "image": {
+        "src": "data/images/0e9e6ecc63987f14.jpg",
+        "alt": "A Dragoon on Horseback",
+        "credit": "The Met · Bequest of Martha T. Fiske Collord, in memory of her first husband, Josiah M. Fiske, 1908"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/436187",
+        "trustTier": "encyclopedic",
+        "author": "Edouard Detaille",
+        "date": "1876"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "horse",
+        "paintings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-23T10:26:41.433Z",
+      "hash": "048d7c4844299b7e"
+    },
+    {
+      "id": "met:437259",
+      "type": "art",
+      "title": "Troops at Rest",
+      "summary": "Jean-Baptiste Joseph Pater · ca. 1725 · Oil on canvas",
+      "body": "Jean-Baptiste Joseph Pater · ca. 1725 · Oil on canvas\nBequest of Ethel Tod Humphrys, 1956\nEuropean Paintings",
+      "image": {
+        "src": "data/images/ccd2a0c7c90edb80.jpg",
+        "alt": "Troops at Rest",
+        "credit": "The Met · Bequest of Ethel Tod Humphrys, 1956"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/437259",
+        "trustTier": "encyclopedic",
+        "author": "Jean-Baptiste Joseph Pater",
+        "date": "ca. 1725"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "horse",
+        "paintings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-23T10:26:41.392Z",
+      "hash": "aa5487be0de87907"
+    },
+    {
+      "id": "met:334969",
+      "type": "art",
+      "title": "Saint Ignatius of Loyola and Allegories of the Four Continents",
+      "summary": "Felix Anton Scheffler · 1715–60 · Pen and black ink, gray wash, heightened with white, over black chalk, on blue paper",
+      "body": "Felix Anton Scheffler · 1715–60 · Pen and black ink, gray wash, heightened with white, over black chalk, on blue paper\nGift of the Estate of James Hyden, 1959\nDrawings and Prints",
+      "image": {
+        "src": "data/images/aaa014c0f077570b.jpg",
+        "alt": "Saint Ignatius of Loyola and Allegories of the Four Continents",
+        "credit": "The Met · Gift of the Estate of James Hyden, 1959"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/334969",
+        "trustTier": "encyclopedic",
+        "author": "Felix Anton Scheffler",
+        "date": "1715–60"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "horse",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-23T10:26:41.339Z",
+      "hash": "b301039cf0753a93"
+    },
+    {
+      "id": "apod:2005-07-15",
+      "type": "space",
+      "title": "Reflections on the Inner Solar System",
+      "summary": "Only Mars is missing from this reflective view of the major rocky bodies of the inner solar system. Captured on July 8th, the serene, twilight picture looks out over the Flat Tops Wilderness area from near Toponas, Colorado, USA and includes planets Mercury, Venus, Earth, and Earth's large natural satellite, the…",
+      "body": "Only Mars is missing from this reflective view of the major rocky bodies of the inner solar system. Captured on July 8th, the serene, twilight picture looks out over the Flat Tops Wilderness area from near Toponas, Colorado, USA and includes planets Mercury, Venus, Earth, and Earth's large natural satellite, the Moon. The Moon is in a young crescent phase about three degrees above bright planet Venus. Forest fires contribute to a layer of smoke in Earth's sky that almost hides planet Mercury, still visible very near the horizon. Just a week earlier Venus and Mercury were joined by Saturn, forming a notable grouping in the west also enjoyed by skygazers across planet Earth.",
+      "image": {
+        "src": "data/images/6b2b2c2aa4a1db3d.jpg",
+        "alt": "Reflections on the Inner Solar System",
+        "credit": "© Jimmy Westlake (Colorado Mountain College)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap050715.html",
+        "trustTier": "encyclopedic",
+        "date": "2005-07-15"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:40.724Z",
+      "hash": "2f6987c1ee0df830"
+    },
+    {
+      "id": "apod:2015-01-28",
+      "type": "space",
+      "title": "Comet Lovejoy in a Winter Sky",
+      "summary": "Which of these night sky icons can you find in this beautiful and deep exposure of the northern winter sky? Skylights include the stars in Orion's belt, the Orion Nebula, the Pleiades star cluster, the bright stars Betelgeuse and Rigel, the California Nebula, Barnard's Loop, and Comet Lovejoy. The belt stars of Orion…",
+      "body": "Which of these night sky icons can you find in this beautiful and deep exposure of the northern winter sky? Skylights include the stars in Orion's belt, the Orion Nebula, the Pleiades star cluster, the bright stars Betelgeuse and Rigel, the California Nebula, Barnard's Loop, and Comet Lovejoy. The belt stars of Orion are nearly vertical in the central line between the horizon and the image center, with the lowest belt star obscured by the red glowing Flame Nebula. To the belt's left is the red arc of Barnard's Loop followed by the bright orange star Betelgeuse, while to the belt's right is the colorful Orion Nebula followed by the bright blue star Rigel. The blue cluster of bright stars near the top center is the Pleiades, and the red nebula to its left is the California nebula. The bright orange dot above the image center is the star Aldebaran, while the green object with the long tail to its right is Comet C/2014 Q2 (Lovejoy). The featured image was taken about two weeks ago near Palau village in Spain.",
+      "image": {
+        "src": "data/images/bab1ab8d60059d24.jpg",
+        "alt": "Comet Lovejoy in a Winter Sky",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap150128.html",
+        "trustTier": "encyclopedic",
+        "date": "2015-01-28"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:40.724Z",
+      "hash": "cf3772aafb5ed7da"
+    },
+    {
+      "id": "apod:2011-11-22",
+      "type": "space",
+      "title": "Leonid Fireball over Tenerife",
+      "summary": "Historically active, this year's Leonid meteor shower was diminished by bright moonlight. Still, faithful night sky watchers did see the shower peak on November 18 and even the glare of moonlight didn't come close to masking this brilliant fireball meteor. The colorful meteor trail and final flare was captured early…",
+      "body": "Historically active, this year's Leonid meteor shower was diminished by bright moonlight. Still, faithful night sky watchers did see the shower peak on November 18 and even the glare of moonlight didn't come close to masking this brilliant fireball meteor. The colorful meteor trail and final flare was captured early that morning in western skies over the Canary Island Observatorio del Teide on Tenerife. Particles of dust swept up when planet Earth passes near the orbit of periodic comet Tempel-Tuttle, Leonid meteors typically enter the atmosphere at nearly 70 kilometers per second. Looking away from the Moon, the wide angle camera lens also recorded bright stars in the familiar constellations Orion and Taurus near picture center. Inset are two exposures of this fireball's persistent train. The consecutive train images follow the meteor's flash by several minutes as high altitude winds disperse the faint, smokey trail. The two large telescope buildings are the GREGOR telescope with reddish dome and the Vacuum Tower Telescope along the right edge of the frame, both sun watching telescopes.",
+      "image": {
+        "src": "data/images/291e287910bc171c.jpg",
+        "alt": "Leonid Fireball over Tenerife",
+        "credit": "© Juergen Rendtel"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap111122.html",
+        "trustTier": "encyclopedic",
+        "date": "2011-11-22"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:40.724Z",
+      "hash": "5b9ddf5cf384b867"
+    },
+    {
+      "id": "apod:2018-11-14",
+      "type": "space",
+      "title": "The Cave Nebula in Hydrogen, Oxygen, and Sulfur",
+      "summary": "What's inside this cosmic cave? A stellar nursery 10 light-years deep. The featured skyscape is dominated by dusty Sh2-155, the Cave Nebula. In the telescopic image, data taken through a narrowband filters tracks the nebular glow of hydrogen, oxygen, and sulfur, colors that together form the Hubble Palette. About…",
+      "body": "What's inside this cosmic cave? A stellar nursery 10 light-years deep. The featured skyscape is dominated by dusty Sh2-155, the Cave Nebula. In the telescopic image, data taken through a narrowband filters tracks the nebular glow of hydrogen, oxygen, and sulfur, colors that together form the Hubble Palette. About 2,400 light-years away, the scene lies along the plane of our Milky Way Galaxy toward the royal northern constellation of Cepheus. Astronomical explorations of the region reveal that it has formed at the boundary of the massive Cepheus B molecular cloud and the hot, young stars of the Cepheus OB 3 association. The bright rim of ionized hydrogen gas is energized by radiation from the hot stars, dominated by the bright star just to the left of the cave entrance. Radiation driven ionization fronts are likely triggering collapsing cores and new star formation within.",
+      "image": {
+        "src": "data/images/aae3d456c7e7bbb7.jpg",
+        "alt": "The Cave Nebula in Hydrogen, Oxygen, and Sulfur",
+        "credit": "© Chuck Ayoub"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap181114.html",
+        "trustTier": "encyclopedic",
+        "date": "2018-11-14"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:40.724Z",
+      "hash": "861a2ba41906973d"
+    },
+    {
+      "id": "apod:2004-06-16",
+      "type": "space",
+      "title": "Elliptical Galaxy M87",
+      "summary": "cal galaxy M87 is a type of galaxy that looks much different than our own Milky Way Galaxy. Even for an elliptical galaxy, though, M87 is peculiar. M87 is much bigger than an average galaxy, appears near the center of a whole cluster of galaxies known as the Virgo Cluster, and shows an unusually high number of…",
+      "body": "cal galaxy M87 is a type of galaxy that looks much different than our own Milky Way Galaxy. Even for an elliptical galaxy, though, M87 is peculiar. M87 is much bigger than an average galaxy, appears near the center of a whole cluster of galaxies known as the Virgo Cluster, and shows an unusually high number of globular clusters. These globular clusters are visible as faint spots surrounding the bright center of M87. In general, elliptical galaxies contain similar numbers of stars as spiral galaxies, but are ellipsoidal in shape (spirals are mostly flat), have no spiral structure, and little gas and dust. The above image of M87 was taken recently by the Canada-France-Hawaii Telescope on top of the dormant volcano Mauna Kea in Hawaii, USA. News: APOD turns nine years old today!",
+      "image": {
+        "src": "data/images/e363823c0b7bb496.jpg",
+        "alt": "Elliptical Galaxy M87",
+        "credit": "© Canada-France-Hawaii Telescope"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap040616.html",
+        "trustTier": "encyclopedic",
+        "date": "2004-06-16"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:40.724Z",
+      "hash": "7e7c38aa72c65a4f"
+    },
+    {
+      "id": "onthisday:07-23:1319:db477710ecabc8a0",
+      "type": "history",
+      "title": "1319: Knights Hospitaller",
+      "summary": "A fleet led by the Knights Hospitaller sank 22 of 28 ships of the Turkish Aydinid emirate.",
+      "body": "A fleet led by the Knights Hospitaller sank 22 of 28 ships of the Turkish Aydinid emirate.",
+      "image": {
+        "src": "data/images/1b68fe69868a325a.png",
+        "alt": "Knights Hospitaller",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Knights_Hospitaller",
+        "trustTier": "encyclopedic",
+        "date": "07-23"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:39.625Z",
+      "hash": "0d6e4f9cf62fe120",
+      "expires": "2026-07-26T10:26:39.625Z"
+    },
+    {
+      "id": "onthisday:07-23:1940:14a68d5d0dc9fc09",
+      "type": "history",
+      "title": "1940: Sumner Welles",
+      "summary": "Sumner Welles, U.S. Under Secretary of State, issued a declaration that the U.S. government would not recognize the Soviet Union's annexation of the Baltic states.",
+      "body": "Sumner Welles, U.S. Under Secretary of State, issued a declaration that the U.S. government would not recognize the Soviet Union's annexation of the Baltic states.",
+      "image": {
+        "src": "data/images/23ef9465e47c2487.jpg",
+        "alt": "Sumner Welles",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Sumner_Welles",
+        "trustTier": "encyclopedic",
+        "date": "07-23"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:39.625Z",
+      "hash": "2fd937dffb6d2e9d",
+      "expires": "2026-07-26T10:26:39.625Z"
+    },
+    {
+      "id": "onthisday:07-23:1942:9965698534ac82b7",
+      "type": "history",
+      "title": "1942: The Holocaust",
+      "summary": "The Holocaust: The gas chambers at Treblinka extermination camp began operation, killing 6,500 Jews who had been transported from the Warsaw Ghetto the day before.",
+      "body": "The Holocaust: The gas chambers at Treblinka extermination camp began operation, killing 6,500 Jews who had been transported from the Warsaw Ghetto the day before.",
+      "image": {
+        "src": "data/images/0571210047a37a75.jpg",
+        "alt": "The Holocaust",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/The_Holocaust",
+        "trustTier": "encyclopedic",
+        "date": "07-23"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:39.625Z",
+      "hash": "032a093858763aaf",
+      "expires": "2026-07-26T10:26:39.625Z"
+    },
+    {
+      "id": "wikipedia:11508587",
+      "type": "wiki",
+      "title": "Neubeuern",
+      "summary": "Neubeuern is a municipality in the district of Rosenheim in Bavaria in Germany. It lies on the river Inn.",
+      "body": "Neubeuern is a municipality in the district of Rosenheim in Bavaria in Germany. It lies on the river Inn.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Neubeuern",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:39.613Z",
+      "hash": "7ae20c10d9321cff"
+    },
+    {
+      "id": "wikipedia:26158405",
+      "type": "wiki",
+      "title": "Tomáš Zmoray",
+      "summary": "Tomáš Zmoray is a Slovak ski jumper who has competed since 2005. At the 2010 Winter Olympics in Vancouver, he finished 42nd in the individual normal hill and 43rd in the individual large hill events.",
+      "body": "Tomáš Zmoray is a Slovak ski jumper who has competed since 2005. At the 2010 Winter Olympics in Vancouver, he finished 42nd in the individual normal hill and 43rd in the individual large hill events.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Zmoray",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:39.511Z",
+      "hash": "7837daba8fa9af80"
+    },
+    {
+      "id": "wikipedia:60782069",
+      "type": "wiki",
+      "title": "Pedioplanis burchelli",
+      "summary": "Pedioplanis burchelli, known commonly as Burchell's sand lizard, is a species of lizard in the family Lacertidae. The species is native to Southern Africa.",
+      "body": "Pedioplanis burchelli, known commonly as Burchell's sand lizard, is a species of lizard in the family Lacertidae. The species is native to Southern Africa.",
+      "image": {
+        "src": "data/images/82e95e95a8d8cda5.jpg",
+        "alt": "Pedioplanis burchelli",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pedioplanis_burchelli",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:39.405Z",
+      "hash": "c259039ecb78c522"
+    },
+    {
+      "id": "wikipedia:1372680",
+      "type": "wiki",
+      "title": "Francesco Faà di Bruno",
+      "summary": "Francesco Faà di Bruno was an Italian priest and advocate of the poor, a leading mathematician of his era and a noted religious musician. In 1988 he was beatified by Pope John Paul II. He is the eponym of Faà di Bruno's formula.",
+      "body": "Francesco Faà di Bruno was an Italian priest and advocate of the poor, a leading mathematician of his era and a noted religious musician. In 1988 he was beatified by Pope John Paul II. He is the eponym of Faà di Bruno's formula.",
+      "image": {
+        "src": "data/images/87020290e7c45732.jpg",
+        "alt": "Francesco Faà di Bruno",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Francesco_Fa%C3%A0_di_Bruno",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-23T10:26:39.320Z",
+      "hash": "56a65744a21859a3"
+    },
     {
       "id": "chess:0uaV2",
       "type": "chess",
@@ -11282,1124 +12456,6 @@
       "difficulty": 3,
       "fetchedAt": "2026-07-13T11:17:03.784Z",
       "hash": "8aa303018ba293eb"
-    },
-    {
-      "id": "met:452309",
-      "type": "art",
-      "title": "Carpet",
-      "summary": "Unknown artist · ca. 1550 · Wool (warp, weft, and pile); asymmetrically knotted pile",
-      "body": "Unknown artist · ca. 1550 · Wool (warp, weft, and pile); asymmetrically knotted pile\nGift of Joseph V. McMullan, 1971\nIslamic Art",
-      "image": {
-        "src": "data/images/cc35716a5b9f9763.jpg",
-        "alt": "Carpet",
-        "credit": "The Met · Gift of Joseph V. McMullan, 1971"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/452309",
-        "trustTier": "encyclopedic",
-        "date": "ca. 1550"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "flower",
-        "textiles-rugs"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-13T11:17:01.167Z",
-      "hash": "36d8a0cf490dd69a"
-    },
-    {
-      "id": "met:226510",
-      "type": "art",
-      "title": "Piece",
-      "summary": "Unknown artist · late 18th century · Silk",
-      "body": "Unknown artist · late 18th century · Silk\nRogers Fund, 1940\nEuropean Sculpture and Decorative Arts",
-      "image": {
-        "src": "data/images/9d337bf70f79f3d3.jpg",
-        "alt": "Piece",
-        "credit": "The Met · Rogers Fund, 1940"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/226510",
-        "trustTier": "encyclopedic",
-        "date": "late 18th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "flower",
-        "textiles-woven"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-13T11:16:59.907Z",
-      "hash": "41fad79fd46c8386"
-    },
-    {
-      "id": "met:216425",
-      "type": "art",
-      "title": "Piece",
-      "summary": "Unknown artist · 1760–70 · Silk",
-      "body": "Unknown artist · 1760–70 · Silk\nRogers Fund, 1909\nEuropean Sculpture and Decorative Arts",
-      "image": {
-        "src": "data/images/796831b7a4d00383.jpg",
-        "alt": "Piece",
-        "credit": "The Met · Rogers Fund, 1909"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/216425",
-        "trustTier": "encyclopedic",
-        "date": "1760–70"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "flower",
-        "textiles-woven"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-13T11:16:59.799Z",
-      "hash": "5c61ee85e35f7e6b"
-    },
-    {
-      "id": "apod:2012-02-01",
-      "type": "space",
-      "title": "Red Aurora Over Australia",
-      "summary": "Why would the sky glow red? Aurora. Last week's solar storms, emanating mostly from active sunspot region 1402, showered particles on the Earth that excited oxygen atoms high in the Earth's atmosphere. As the excited element's electrons fell back to their ground state, they emitted a red glow. Were oxygen atoms lower…",
-      "body": "Why would the sky glow red? Aurora. Last week's solar storms, emanating mostly from active sunspot region 1402, showered particles on the Earth that excited oxygen atoms high in the Earth's atmosphere. As the excited element's electrons fell back to their ground state, they emitted a red glow. Were oxygen atoms lower in Earth's atmosphere excited, the glow would be predominantly green. Pictured above, this high red aurora is visible just above the horizon last week near Flinders, Victoria, Australia. The sky that night, however, also glowed with more familiar but more distant objects, including the central disk of our Milky Way Galaxy on the left, and the neighboring Large and Small Magellanic Cloud galaxies on the right. A time-lapse video highlighting auroras visible that night puts the picturesque scene in context. Why the sky did not also glow green remains unknown.",
-      "image": {
-        "src": "data/images/98afaebd3f56fd34.jpg",
-        "alt": "Red Aurora Over Australia",
-        "credit": "© Alex Cherney (Terrastro, TWAN)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap120201.html",
-        "trustTier": "encyclopedic",
-        "date": "2012-02-01"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:57.943Z",
-      "hash": "18cfad343fa0faab"
-    },
-    {
-      "id": "apod:2021-05-17",
-      "type": "space",
-      "title": "NGC 4565: Galaxy on Edge",
-      "summary": "Is our Milky Way Galaxy this thin? Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful…",
-      "body": "Is our Milky Way Galaxy this thin? Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the spiral galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. An assortment of other background galaxies is included in the pretty field of view. Thought similar in shape to our own Milky Way Galaxy, NGC 4565 lies about 40 million light-years distant and spans some 100,000 light-years. Easily spotted with small telescopes, sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.",
-      "image": {
-        "src": "data/images/1eac7d7969a61018.jpg",
-        "alt": "NGC 4565: Galaxy on Edge",
-        "credit": "© CFHT"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap210517.html",
-        "trustTier": "encyclopedic",
-        "date": "2021-05-17"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:57.943Z",
-      "hash": "aeeb2ee75860b2a8"
-    },
-    {
-      "id": "apod:2001-02-07",
-      "type": "space",
-      "title": "Distant Open Cluster M103",
-      "summary": "Bright blue stars highlight the open cluster known as M103. The gas clouds from which these stars condensed has long dispersed. Of the stars that were formed, the brightest, bluest, and most massive have already used up their nuclear fuel and self-destructed in supernova explosions. A 20 million-year age for M103 was…",
-      "body": "Bright blue stars highlight the open cluster known as M103. The gas clouds from which these stars condensed has long dispersed. Of the stars that were formed, the brightest, bluest, and most massive have already used up their nuclear fuel and self-destructed in supernova explosions. A 20 million-year age for M103 was estimated by finding the brightest main-sequence stars that still survive and theoretically computing their lifetimes. In fact, a formerly blue star has recently evolved off the main sequence and is visible above as the red giant star near the cluster center. In general, yellow stars like our Sun are usually less bright and hence less prominent in open clusters than their massive blue cousins. Light takes about 14 years to cross M103. Although visible with binoculars toward the constellation of Cassiopeia, M103's great distance of 8000 light years makes it appear four times smaller than a full moon.",
-      "image": {
-        "src": "data/images/069cb557bd4b6eba.jpg",
-        "alt": "Distant Open Cluster M103",
-        "credit": "© N. A. Sharp"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap010207.html",
-        "trustTier": "encyclopedic",
-        "date": "2001-02-07"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:57.943Z",
-      "hash": "c6f6231d8e4cf495"
-    },
-    {
-      "id": "apod:1996-10-16",
-      "type": "space",
-      "title": "SN 1006: Pieces of the Cosmic Ray Puzzle",
-      "summary": "Research balloon flights conducted in 1912 by Austrian physicist Victor Hess revealed that the Earth was constantly bombarded by high energy radiation from space - which came to be called \"Cosmic Rays\". What are Cosmic Rays and where do they come from? They are now known to be mostly subatomic particles -…",
-      "body": "Research balloon flights conducted in 1912 by Austrian physicist Victor Hess revealed that the Earth was constantly bombarded by high energy radiation from space - which came to be called \"Cosmic Rays\". What are Cosmic Rays and where do they come from? They are now known to be mostly subatomic particles - predominantly protons and electrons - but their origin is a long standing mystery. After almost a century of study, this cosmic puzzle may have been at least partially solved by new X-ray images and spectra from the ASCA satellite observatory. Pieced together to show the region around a star observed to go supernova in 1006 AD, the overlapping X-ray snapshots above (seen in false color) reveal the bright rims of the exploded star's still expanding blast wave. These ASCA observations show for the first time that the energy spectrum of the bright regions is like that produced by extremely high energy electrons streaming through a magnetic field at nearly the speed of light. If (as expected) high energy protons are associated with these energetic electrons then supernova remnants like SN 1006 are sources of Hess' puzzling Cosmic Rays.",
-      "image": {
-        "src": "data/images/47b74077eaa492f8.gif",
-        "alt": "SN 1006: Pieces of the Cosmic Ray Puzzle",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap961016.html",
-        "trustTier": "encyclopedic",
-        "date": "1996-10-16"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:57.943Z",
-      "hash": "0b828de28cb16465"
-    },
-    {
-      "id": "apod:2001-01-23",
-      "type": "space",
-      "title": "Spherical Planetary Nebula Abell 39",
-      "summary": "One of the largest spheres in our Galaxy is giving valuable clues about the chemical composition of stars by its very shape. Planetary nebula Abell 39, now six light-years across, was once a sun-like star's outer atmosphere expelled thousands of years ago. The nearly perfect spherical nature of Abell 39 allows…",
-      "body": "One of the largest spheres in our Galaxy is giving valuable clues about the chemical composition of stars by its very shape. Planetary nebula Abell 39, now six light-years across, was once a sun-like star's outer atmosphere expelled thousands of years ago. The nearly perfect spherical nature of Abell 39 allows astronomers to accurately estimate how much relative material is actually absorbing and emitting light. Observations indicate that Abell 39 contains only about half of the oxygen found in the Sun, an intriguing but not surprising confirmation of the chemical differences between stars. The reason why the central star is slightly off center by 0.1 light-years is currently unknown. Abell 39 lies about 7000 light years away, although several galaxies millions of light years away can be seen through and around the nebula.",
-      "image": {
-        "src": "data/images/3894b8e16614dc74.jpg",
-        "alt": "Spherical Planetary Nebula Abell 39",
-        "credit": "© WIYN Obs."
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap010123.html",
-        "trustTier": "encyclopedic",
-        "date": "2001-01-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:57.943Z",
-      "hash": "c4eed842155d91ad"
-    },
-    {
-      "id": "onthisday:07-13:1943:2fcf4f599cd26ad5",
-      "type": "history",
-      "title": "1943: World War II",
-      "summary": "World War II: Operation Fustian, an Allied operation to capture the Primosole Bridge in Sicily, was launched.",
-      "body": "World War II: Operation Fustian, an Allied operation to capture the Primosole Bridge in Sicily, was launched.",
-      "image": {
-        "src": "data/images/33a41211a19cafb8.jpg",
-        "alt": "World War II",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/World_War_II",
-        "trustTier": "encyclopedic",
-        "date": "07-13"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:56.736Z",
-      "hash": "25c42e76ee104827",
-      "expires": "2026-07-16T11:16:56.736Z"
-    },
-    {
-      "id": "onthisday:07-13:1831:a961c3b2e1f213c7",
-      "type": "history",
-      "title": "1831: Wallachia",
-      "summary": "Wallachian officials adopted the Regulamentul Organic, which engendered a period of reforms that provided for the westernization of the local society.",
-      "body": "Wallachian officials adopted the Regulamentul Organic, which engendered a period of reforms that provided for the westernization of the local society.",
-      "image": {
-        "src": "data/images/2f15b2f90f5378ab.png",
-        "alt": "Wallachia",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Wallachia",
-        "trustTier": "encyclopedic",
-        "date": "07-13"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:56.736Z",
-      "hash": "f1304cdf25a40a0a",
-      "expires": "2026-07-16T11:16:56.736Z"
-    },
-    {
-      "id": "onthisday:07-13:1863:5f0e5d66f2d6135a",
-      "type": "history",
-      "title": "1863: New York City draft riots",
-      "summary": "Four days of rioting began in New York City in response to laws passed by the U.S. Congress to draft men to fight in the American Civil War.",
-      "body": "Four days of rioting began in New York City in response to laws passed by the U.S. Congress to draft men to fight in the American Civil War.",
-      "image": {
-        "src": "data/images/da09edc0600ee91d.jpg",
-        "alt": "New York City draft riots",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/New_York_City_draft_riots",
-        "trustTier": "encyclopedic",
-        "date": "07-13"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:56.736Z",
-      "hash": "65202dcfe68fff83",
-      "expires": "2026-07-16T11:16:56.736Z"
-    },
-    {
-      "id": "wikipedia:32655770",
-      "type": "wiki",
-      "title": "Sovetsky District, Kursk Oblast",
-      "summary": "Sovetsky District is an administrative and municipal district (raion), one of the twenty-eight in Kursk Oblast, Russia. It is located in the west of the oblast. The area of the district is 1,150 square kilometers (440 sq mi). Its administrative center is the urban locality of Kshensky. Population: 16,348 (2021…",
-      "body": "Sovetsky District is an administrative and municipal district (raion), one of the twenty-eight in Kursk Oblast, Russia. It is located in the west of the oblast. The area of the district is 1,150 square kilometers (440 sq mi). Its administrative center is the urban locality of Kshensky. Population: 16,348 (2021 census); 19,080 (2010 census); 23,673 ; 28,252 (1989 Soviet census). The population of Kshensky accounts for 34.2% of the district's total population.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Sovetsky_District%2C_Kursk_Oblast",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:55.468Z",
-      "hash": "6205c5d2d31066f8"
-    },
-    {
-      "id": "wikipedia:12989384",
-      "type": "wiki",
-      "title": "Oberweiler im Tal",
-      "summary": "Oberweiler im Tal is an Ortsgemeinde – a municipality belonging to a Verbandsgemeinde, a kind of collective municipality – in the Kusel district in Rhineland-Palatinate, Germany. It belongs to the Verbandsgemeinde Lauterecken-Wolfstein.",
-      "body": "Oberweiler im Tal is an Ortsgemeinde – a municipality belonging to a Verbandsgemeinde, a kind of collective municipality – in the Kusel district in Rhineland-Palatinate, Germany. It belongs to the Verbandsgemeinde Lauterecken-Wolfstein.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Oberweiler_im_Tal",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:54.038Z",
-      "hash": "a2facea49bfa40b4"
-    },
-    {
-      "id": "wikipedia:34718043",
-      "type": "wiki",
-      "title": "Austrostipa ramosissima",
-      "summary": "Austrostipa ramosissima, the stout bamboo grass, grows in moist areas in eastern Australia. It is often found in well-drained habitats in eucalyptus woodlands or forests.",
-      "body": "Austrostipa ramosissima, the stout bamboo grass, grows in moist areas in eastern Australia. It is often found in well-drained habitats in eucalyptus woodlands or forests.",
-      "image": {
-        "src": "data/images/478e9d306e5abcde.jpg",
-        "alt": "Austrostipa ramosissima",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Austrostipa_ramosissima",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:52.563Z",
-      "hash": "4d2d66570a616de0"
-    },
-    {
-      "id": "wikipedia:33717365",
-      "type": "wiki",
-      "title": "Sportpark De Toekomst",
-      "summary": "Sportcomplex De Toekomst is a sporting complex in Ouder-Amstel, Netherlands, owned by Ajax. The complex comprises nine football fields and is located close to the Johan Cruyff Arena and on the outskirts of Amsterdam. Its main field has seating capacity for 2,250 people.",
-      "body": "Sportcomplex De Toekomst is a sporting complex in Ouder-Amstel, Netherlands, owned by Ajax. The complex comprises nine football fields and is located close to the Johan Cruyff Arena and on the outskirts of Amsterdam. Its main field has seating capacity for 2,250 people.",
-      "image": {
-        "src": "data/images/11bc1664474e4525.jpg",
-        "alt": "Sportpark De Toekomst",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Sportpark_De_Toekomst",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-13T11:16:52.237Z",
-      "hash": "d77f5c1b3037e368"
-    },
-    {
-      "id": "chess:rpI19",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 2069. Find the best line for white.",
-      "body": "Solution, from → to: f3→f7, g8→h8, h1→g1, e4→f3, f7→f3. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "rn1q2k1/pp3pbp/2pP4/4r2P/2B1b3/5Q2/PPPP1P2/R1BK3R w - - 1 1",
-        "lastMove": "g6e4"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/rpI19",
-        "trustTier": "community",
-        "date": "Sun, 12 Jul 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "crushing",
-        "long"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-12T09:55:06.377Z",
-      "hash": "999f1ebaee033191"
-    },
-    {
-      "id": "trivia:bb011ff911358262",
-      "type": "trivia",
-      "title": "Which artist's style was to use small different colored dots to create a picture?",
-      "summary": "Is it: Vincent Van Gogh · Henri Rousseau · Georges Seurat · Paul Cézanne?",
-      "body": "Answer: Georges Seurat.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "art"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:55:03.363Z",
-      "hash": "bb011ff911358262"
-    },
-    {
-      "id": "trivia:17dfcbf4cb1d2176",
-      "type": "trivia",
-      "title": "In the remake of \"Resident Evil 2\", which medallion does not exist?",
-      "summary": "Is it: Unicorn Medallion · Dragon Medallion · Maiden Medallion · Lion Medallion?",
-      "body": "Answer: Dragon Medallion.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-12T09:55:03.362Z",
-      "hash": "17dfcbf4cb1d2176"
-    },
-    {
-      "id": "trivia:da3c51697b9835d0",
-      "type": "trivia",
-      "title": "Who is the frontman of the band 30 Seconds to Mars?",
-      "summary": "Is it: Jared Leto · Gerard Way · Mike Shinoda · Matthew Bellamy?",
-      "body": "Answer: Jared Leto.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "music"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:55:03.362Z",
-      "hash": "da3c51697b9835d0"
-    },
-    {
-      "id": "trivia:86d3ac3281efe538",
-      "type": "trivia",
-      "title": "All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:",
-      "summary": "Is it: Urutora · London · Washington · Rungata?",
-      "body": "Answer: Urutora.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "geography"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:55:03.362Z",
-      "hash": "86d3ac3281efe538"
-    },
-    {
-      "id": "passage:gutenberg:43",
-      "type": "passage",
-      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-      "summary": "Mr. Utterson the lawyer was a man of a rugged countenance that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable. At friendly meetings, and when the wine was to his taste, something eminently human beaconed from his eye; something indeed which never found its…",
-      "body": "Mr. Utterson the lawyer was a man of a rugged countenance that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable. At friendly meetings, and when the wine was to his taste, something eminently human beaconed from his eye; something indeed which never found its way into his talk, but which spoke not only in these silent symbols of the after-dinner face, but more often and loudly in the acts of his life. He was austere with himself; drank gin when he was alone, to mortify a taste for vintages; and though he enjoyed the theatre, had not crossed the doors of one for twenty years. But he had an…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/43",
-        "trustTier": "publication",
-        "author": "Robert Louis Stevenson",
-        "date": "1886"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "gothic",
-        "mystery"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:55:03.129Z",
-      "hash": "70558e6170fa769a"
-    },
-    {
-      "id": "passage:gutenberg:1342",
-      "type": "passage",
-      "title": "Pride and Prejudice",
-      "summary": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other…",
-      "body": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters. “My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?” Mr. Bennet replied that he had not. “But it is,” returned she; “for Mrs. Long has just been here, and she told me all about it.” Mr. Bennet made no answer. “Do not you want to know who has taken it?” cried his…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1342",
-        "trustTier": "publication",
-        "author": "Jane Austen",
-        "date": "1813"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "romance",
-        "regency"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:55:03.077Z",
-      "hash": "2c77190f0de913e9"
-    },
-    {
-      "id": "comic:smbc:ccf84bfacd39865d",
-      "type": "comic",
-      "title": "Dadalus",
-      "summary": "Disobey God and get drowned immediately is really more of an Abrahamic religion thing.",
-      "image": {
-        "src": "data/images/e56d1b3a14d2d6ef.png",
-        "alt": "Disobey God and get drowned immediately is really more of an Abrahamic religion thing.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/dadalus",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Sat, 11 Jul 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-12T09:55:01.992Z",
-      "hash": "ccf84bfacd39865d"
-    },
-    {
-      "id": "comic:xkcd:678",
-      "type": "comic",
-      "title": "Researcher Translation",
-      "summary": "A technology that is '20 years away' will be 20 years away indefinitely.",
-      "body": "((A table showing two columns. The left column is labeled \"If a researcher says a cool new technology should be available to consumers in...\", and the right column is labeled \"What they mean is...\")) [[The fourth quarter of next year - The project will be canceled in six months.]] [[Five years - I've solved the interesting research problems. The rest is just business, which is easy, right?]] [[Ten years - We haven't finished inventing it yet, but when we do, it'll be awesome.]] [[25+ years - It has not been conclusively proven impossible.]] [[We're not really looking at market applications right now. - I like being the only one with a hovercar.]] {{Title text: A technology that is '20…",
-      "image": {
-        "src": "data/images/e2b538a0a6fbe621.png",
-        "alt": "A technology that is '20 years away' will be 20 years away indefinitely.",
-        "credit": "xkcd #678 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/678/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2009-12-21"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-12T09:55:01.791Z",
-      "hash": "220d7250f5187004"
-    },
-    {
-      "id": "food:6068d0f5b5da020e",
-      "type": "food",
-      "title": "Iced Sesame Noodles",
-      "summary": "Iced sesame noodles have become a thing in our house in recent years. Cold noodles plus a creamy sesame sauce and a line up of great toppings equals custom bowls everyone loves! Continue reading Iced Sesame Noodles on 101 Cookbooks",
-      "body": "Iced sesame noodles have become a thing in our house in recent years. Cold noodles plus a creamy sesame sauce and a line up of great toppings equals custom bowls everyone loves! Continue reading Iced Sesame Noodles on 101 Cookbooks",
-      "image": {
-        "src": "data/images/8050c450003dc1a8.jpg",
-        "alt": "Iced Sesame Noodles",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/sesame-noodles/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Thu, 09 Jul 2026 23:03:1"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "260+ vegan recipes",
-        "dinner ideas",
-        "main course recipes",
-        "summer"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:55:01.590Z",
-      "hash": "6068d0f5b5da020e"
-    },
-    {
-      "id": "craft:0dfea5b444ce9bc6",
-      "type": "craft",
-      "title": "The Longtail of Incarceration Unfolds in Gil Batle’s Surreal Narratives",
-      "summary": "The lively flora and fauna of a tiny Filipino island commingle with harrowing memories of California prisons in the surreal works of Gil Batle.",
-      "body": "The lively flora and fauna of a tiny Filipino island commingle with harrowing memories of California prisons in the surreal works of Gil Batle.",
-      "image": {
-        "src": "data/images/991b800efe4946bc.jpg",
-        "alt": "The Longtail of Incarceration Unfolds in Gil Batle’s Surreal Narratives",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/07/gil-batle-porcelain-plate-paintings/",
-        "trustTier": "publication",
-        "author": "Grace Ebert",
-        "date": "Fri, 10 Jul 2026 16:03:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "birds",
-        "fish",
-        "gil batle",
-        "incarceration",
-        "narrative",
-        "painting"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:55:01.520Z",
-      "hash": "0dfea5b444ce9bc6"
-    },
-    {
-      "id": "word:9cba55b6449cccb2",
-      "type": "word",
-      "title": "kairos",
-      "summary": "Noun: A time when conditions are right for the accomplishment of a crucial action; the opportune and decisive moment.",
-      "body": "1. A time when conditions are right for the accomplishment of a crucial action; the opportune and decisive moment.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/kairos",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:55:01.130Z",
-      "hash": "9cba55b6449cccb2"
-    },
-    {
-      "id": "word:fce4bc957b4963e7",
-      "type": "word",
-      "title": "pathos",
-      "summary": "Noun: The quality or property of anything which touches the feelings or excites emotions and passions, especially that which awakens tender emotions, such as pity, sorrow, and the like; contagious warmth of feeling, action, or expression; pathetic quality.",
-      "body": "1. The quality or property of anything which touches the feelings or excites emotions and passions, especially that which awakens tender emotions, such as pity, sorrow, and the like; contagious warmth of feeling, action, or expression; pathetic quality.\n2. A form of rhetoric in which the writer or speaker uses emotional appeals to the audience as the main form of persuasion.\n3. An author's attempt to evoke a feeling of pity or sympathetic sorrow for a character.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/pathos",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:55:00.660Z",
-      "hash": "fce4bc957b4963e7"
-    },
-    {
-      "id": "word:2498fe925ce2ca11",
-      "type": "word",
-      "title": "solitude",
-      "summary": "Noun: Aloneness; the state of being alone, solitary, or by oneself.",
-      "body": "1. Aloneness; the state of being alone, solitary, or by oneself.\n2. A lonely or deserted place.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/solitude",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:54:32.319Z",
-      "hash": "2498fe925ce2ca11"
-    },
-    {
-      "id": "quote:fe9f6e8ed89bc34b",
-      "type": "quote",
-      "title": "“In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.”",
-      "summary": "— Spencer Johnson",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Spencer_Johnson",
-        "trustTier": "community",
-        "author": "Spencer Johnson"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:54:32.037Z",
-      "hash": "fe9f6e8ed89bc34b"
-    },
-    {
-      "id": "quote:9498a5de5db5c4d2",
-      "type": "quote",
-      "title": "“Better a diamond with a flaw than a pebble without one.”",
-      "summary": "— Chinese Proverb",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Chinese_Proverb",
-        "trustTier": "community",
-        "author": "Chinese Proverb"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:54:32.037Z",
-      "hash": "9498a5de5db5c4d2"
-    },
-    {
-      "id": "quote:8fb32a9cbb36fdcf",
-      "type": "quote",
-      "title": "“Your problem isn't the problem. Your reaction is the problem.”",
-      "summary": "— Unknown",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:54:32.037Z",
-      "hash": "8fb32a9cbb36fdcf"
-    },
-    {
-      "id": "article:a293f14fe07c69c8",
-      "type": "article",
-      "title": "Věra Chytilová’s Boldly Antiauthoritarian Take on Teen Horror",
-      "summary": "Deep Dives One of the most mischievous figures in world cinema, Věra Chytilová is still best known for Daisies, the daring 1966 film whose gonzo vision of female rebellion and empowerment launched her into the public eye. This Czechoslovak New Wave landmark—which follows the hedonistic exploits of…",
-      "body": "Deep Dives One of the most mischievous figures in world cinema, Věra Chytilová is still best known for Daisies, the daring 1966 film whose gonzo vision of female rebellion and empowerment launched her into the public eye. This Czechoslovak New Wave landmark—which follows the hedonistic exploits of two young women, both named Marie—was banned in the director’s home country for its many shots of wasted food, at a time when rations were strictly enforced by the communist government. Beyond the popularity of this signature work, though, there’s much left to discover in Chytilová’s…",
-      "image": {
-        "src": "data/images/158c062d65eb5415.jpg",
-        "alt": "Věra Chytilová’s Boldly Antiauthoritarian Take on Teen Horror",
-        "credit": "The Current (Criterion)"
-      },
-      "source": {
-        "name": "The Current (Criterion)",
-        "url": "https://www.criterion.com/current/posts/9213-vera-chytilova-s-boldly-antiauthoritarian-take-on-teen-horror",
-        "trustTier": "publication",
-        "author": "Grace Byron",
-        "date": "Thu, 09 Jul 2026 15:49:0"
-      },
-      "tags": [
-        "film",
-        "essay",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:54:29.205Z",
-      "hash": "a293f14fe07c69c8"
-    },
-    {
-      "id": "article:eadf2e7b2e7e72ab",
-      "type": "article",
-      "title": "The Uncomfortable Reason You Keep Self-Sabotaging: 6 Secrets From Philosophy’s Most Honest Madman",
-      "summary": "Why do we so frequently self-sabotage? The usual answers can’t be accurate. We’re far too good at it for that. Too consistent. Some part of us must be quietly invested in staying stuck. But nobody will say that to our faces. Aaaaaaactually, come to think of it, I know a guy who would… If you […]…",
-      "body": "Why do we so frequently self-sabotage? The usual answers can’t be accurate. We’re far too good at it for that. Too consistent. Some part of us must be quietly invested in staying stuck. But nobody will say that to our faces. Aaaaaaactually, come to think of it, I know a guy who would… If you […] The post The Uncomfortable Reason You Keep Self-Sabotaging: 6 Secrets From Philosophy’s Most Honest Madman appeared first on Barking Up The Wrong Tree.",
-      "image": {
-        "src": "data/images/6d71875b059a3e1b.jpg",
-        "alt": "The Uncomfortable Reason You Keep Self-Sabotaging: 6 Secrets From Philosophy’s Most Honest Madman",
-        "credit": "Barking Up the Wrong Tree"
-      },
-      "source": {
-        "name": "Barking Up the Wrong Tree",
-        "url": "https://bakadesuyo.com/2026/06/self-sabotage/?utm_source=rss&utm_medium=rss&utm_campaign=self-sabotage",
-        "trustTier": "community",
-        "author": "Eric Barker",
-        "date": "Sun, 21 Jun 2026 19:36:4"
-      },
-      "tags": [
-        "psychology",
-        "self-improvement",
-        "science",
-        "be more productive",
-        "be sexier",
-        "live the good life",
-        "make better decisions"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:54:25.768Z",
-      "hash": "eadf2e7b2e7e72ab"
-    },
-    {
-      "id": "article:e7c0552a284e3587",
-      "type": "article",
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "summary": "Hello! 8 years ago, I wrote excitedly about discovering Tailwind. At that time I really had no idea how to structure my CSS code and given the choice between a pile of complete chaos and Tailwind, I was really happy to choose Tailwind. It helped me make a lot of tiny sites! I spent the last week…",
-      "body": "Hello! 8 years ago, I wrote excitedly about discovering Tailwind. At that time I really had no idea how to structure my CSS code and given the choice between a pile of complete chaos and Tailwind, I was really happy to choose Tailwind. It helped me make a lot of tiny sites! I spent the last week or so migrating a couple of sites away from Tailwind and towards more semantic HTML + vanilla CSS, and it was SO fun and SO interesting, so here are some things I learned! As usual I&rsquo;m not a full-time frontend developer and so all of my CSS learning has happened in fits and starts over many…",
-      "source": {
-        "name": "Julia Evans",
-        "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-        "trustTier": "community",
-        "date": "2026-05-15T00:00:00+00:0"
-      },
-      "tags": [
-        "programming",
-        "computers",
-        "technology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:54:24.950Z",
-      "hash": "e7c0552a284e3587"
-    },
-    {
-      "id": "article:f1fa2a4c88afcba0",
-      "type": "article",
-      "title": "How Wikipedia Turned a World Cup Controversy into an Antisemitic Conspiracy Theory",
-      "summary": "The referee of the Argentina-Egypt match isn't Jewish. But when his Wikipedia page was changed to say that he is, an even bigger set of lies about Israel and Jews raced across the internet, writes Ashley Rindsberg.",
-      "body": "The referee of the Argentina-Egypt match isn't Jewish. But when his Wikipedia page was changed to say that he is, an even bigger set of lies about Israel and Jews raced across the internet, writes Ashley Rindsberg.",
-      "image": {
-        "src": "data/images/93e9f50a47b210a3.jpg",
-        "alt": "How Wikipedia Turned a World Cup Controversy into an Antisemitic Conspiracy Theory",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/how-wikipedia-turned-a-world-cup",
-        "trustTier": "publication",
-        "author": "Ashley Rindsberg",
-        "date": "Sat, 11 Jul 2026 19:56:0"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:54:22.886Z",
-      "hash": "f1fa2a4c88afcba0",
-      "expires": "2026-08-11T09:54:22.886Z"
-    },
-    {
-      "id": "article:f9d8abb5c6b68114",
-      "type": "article",
-      "title": "The French surrealists, stricken by serving in World War I, adopted a new philosophical approach: “vibrant pessimism”",
-      "summary": "The French surrealists, stricken by serving in World War I, adopted a new philosophical approach: “vibrant pessimism”",
-      "body": "The French surrealists, stricken by serving in World War I, adopted a new philosophical approach: “vibrant pessimism”",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://lareviewofbooks.org/article/andre-breton-nadja-magic-art-cavalier-perspective-pessimism",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:54:22.193Z",
-      "hash": "f9d8abb5c6b68114"
-    },
-    {
-      "id": "article:64233094cb1bba0a",
-      "type": "article",
-      "title": "*A Tale of Three Cities*",
-      "summary": "The author is Bob Harris, and the subtitle is The Life and Times of Lord Daer 1763-1794. Who is Lord Daer? Don’t worry about that! So many books on the Scottish Enlightenment cover one particular thing, but somehow fail to give the reader a proper sense of life on the ground. I found this is […]…",
-      "body": "The author is Bob Harris, and the subtitle is The Life and Times of Lord Daer 1763-1794. Who is Lord Daer? Don’t worry about that! So many books on the Scottish Enlightenment cover one particular thing, but somehow fail to give the reader a proper sense of life on the ground. I found this is […] The post *A Tale of Three Cities* appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-tale-of-three-cities.html?utm_source=rss&utm_medium=rss&utm_campaign=a-tale-of-three-cities",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Sun, 12 Jul 2026 07:17:2"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "books",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:54:21.621Z",
-      "hash": "64233094cb1bba0a"
-    },
-    {
-      "id": "greek:866a3ec74fb23eb0",
-      "type": "greek",
-      "title": "θεός",
-      "summary": "θεός — “God” · noun",
-      "body": "Note: ὁ θεός; can mean \"a god\" without article\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%B8%CE%B5%CF%8C%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:54:20.288Z",
-      "hash": "866a3ec74fb23eb0"
-    },
-    {
-      "id": "greek:e41ea3017c23bcd8",
-      "type": "greek",
-      "title": "εἰμί",
-      "summary": "εἰμί — “I am” · verb",
-      "body": "Note: irregular; 3sg ἐστίν; learn paradigm early\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%B5%E1%BC%B0%CE%BC%CE%AF#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "verb"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-12T09:54:20.288Z",
-      "hash": "e41ea3017c23bcd8"
-    },
-    {
-      "id": "poetry:057bca8faa9d5d35",
-      "type": "poem",
-      "title": "Original Poetry by Victor and Cazire",
-      "summary": "Here I sit with my paper, my pen and my ink,\nFirst of this thing, and that thing, and t'other thing think;\nThen my thoughts come so pell-mell all into my mind,\nThat the sense or the subject I never can find:",
-      "body": "Here I sit with my paper, my pen and my ink,\nFirst of this thing, and that thing, and t'other thing think;\nThen my thoughts come so pell-mell all into my mind,\nThat the sense or the subject I never can find:\nThis word is wrong placed,--no regard to the sense,\nThe present and future, instead of past tense,\nThen my grammar I want; O dear! what a bore,\nI think I shall never attempt to write more,\nWith patience I then my thoughts must arraign,\nHave them all in due order like mutes in a train,\nLike them too must wait in due patience and thought,\nOr else my fine works will all come to nought.\nMy wit too's so copious, it flows like a river,\nBut disperses its waters on black and white never;\nLike smoke it appears independent and free,\nBut ah luckless smoke! it all passes like thee--\nThen at length all my patience entirely lost,\nMy paper and pens in the fire are tossed;\nBut come, try again--you must never despair,\nOur Murray's or Entick's are not all so rare,\nImplore their assistance--they'll come to your aid,\nPerform all your business without being paid,\nThey'll tell you the present tense, future and past,\nWhich should come first, and which should come last,\nThis Murray will do--then to Entick repair,\nTo find out the meaning of any word rare.\nThis they friendly will tell, and ne'er make you blush,\nWith a jeering look, taunt, or an O fie! tush!\nThen straight all your thoughts in black and white put,\nNot minding the if's, the be's, and the but,\nThen read it all over, see how it will run,\nHow answers the wit, the retort, and the pun,\nYour writings may then with old Socrates vie,\nMay on the same shelf with Demosthenes lie,\nMay as Junius be sharp, or as Plato be sage.\nThe pattern or satire to all of the age;\nBut stop--a mad author I mean not to turn,\nNor with thirst of applause does my heated brain burn,\nSufficient that sense, wit, and grammar combined,\nMy letters may make some slight food for the mind;\nThat my thoughts to my friends I may freely impart,\nIn all the warm language that flows from the heart.\nHark! futurity calls! it loudly complains,\nIt bids me step forward and just hold the reins,\nMy excuse shall be humble, and faithful, and true,\nSuch as I fear can be made but by few--\nOf writers this age has abundance and plenty,\nThree score and a thousand, two millions and twenty,\nThree score of them wits who all sharply vie,\nTo try what odd creature they best can belie,\nA thousand are prudes who for CHARITY write,\nAnd fill up their sheets with spleen, envy, and spite[,]\nOne million are bards, who to Heaven aspire,\nAnd stuff their works full of bombast, rant, and fire,\nT'other million are wags who in Grubstreet attend,\nAnd just like a cobbler the old writings mend,\nThe twenty are those who for pulpits indite,\nAnd pore over sermons all Saturday night.\nAnd now my good friends--who come after I mean,\nAs I ne'er wore a cassock, or dined with a dean.\nOr like cobblers at mending I never did try,\nNor with poets in lyrics attempted to vie;\nAs for prudes these good souls I both hate and detest,\nSo here I believe the matter must rest.--\nI've heard your complaint--my answer I've made,\nAnd since to your calls all the tribute I've paid,\nAdieu my good friend; pray never despair,\nBut grammar and sense and everything dare,\nAttempt but to write dashing, easy, and free,\nThen take out your grammar and pay him his fee,\nBe not a coward, shrink not to a tense,\nBut read it all over and make it out sense.\nWhat a tiresome girl!--pray soon make an end,\nElse my limited patience you'll quickly expend.\nWell adieu, I no longer your patience will try--\nSo swift to the post now the letter shall fly.",
-      "source": {
-        "name": "Percy Bysshe Shelley · PoetryDB",
-        "url": "https://poetrydb.org/title/Original%20Poetry%20by%20Victor%20and%20Cazire",
-        "trustTier": "community",
-        "author": "Percy Bysshe Shelley"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:54:20.287Z",
-      "hash": "057bca8faa9d5d35"
-    },
-    {
-      "id": "poetry:529811917e6d5880",
-      "type": "poem",
-      "title": "The Dream",
-      "summary": "Our life is twofold: Sleep hath its own world,\nA boundary between the things misnamed\nDeath and existence: Sleep hath its own world,\nAnd a wide realm of wild reality,",
-      "body": "Our life is twofold: Sleep hath its own world,\nA boundary between the things misnamed\nDeath and existence: Sleep hath its own world,\nAnd a wide realm of wild reality,\nAnd dreams in their developement have breath,\nAnd tears, and tortures, and the touch of Joy;\nThey leave a weight upon our waking thoughts,\nThey take a weight from off our waking toils,\nThey do divide our being; they become\nA portion of ourselves as of our time,\nAnd look like heralds of Eternity;\nThey pass like spirits of the past,--they speak\nLike Sibyls of the future; they have power--\nThe tyranny of pleasure and of pain;\nThey make us what we were not--what they will,\nAnd shake us with the vision that's gone by,\nThe dread of vanished shadows--Are they so?\nIs not the past all shadow?--What are they?\nCreations of the mind?--The mind can make\nSubstance, and people planets of its own\nWith beings brighter than have been, and give\nA breath to forms which can outlive all flesh.\nI would recall a vision which I dreamed\nPerchance in sleep--for in itself a thought,\nA slumbering thought, is capable of years,\nAnd curdles a long life into one hour.\n\nI saw two beings in the hues of youth\nStanding upon a hill, a gentle hill,\nGreen and of mild declivity, the last\nAs 'twere the cape of a long ridge of such,\nSave that there was no sea to lave its base,\nBut a most living landscape, and the wave\nOf woods and cornfields, and the abodes of men\nScattered at intervals, and wreathing smoke\nArising from such rustic roofs;--the hill\nWas crowned with a peculiar diadem\nOf trees, in circular array, so fixed,\nNot by the sport of nature, but of man:\nThese two, a maiden and a youth, were there\nGazing--the one on all that was beneath\nFair as herself--but the Boy gazed on her;\nAnd both were young, and one was beautiful:\nAnd both were young--yet not alike in youth.\nAs the sweet moon on the horizon's verge,\nThe Maid was on the eve of Womanhood;\nThe Boy had fewer summers, but his heart\nHad far outgrown his years, and to his eye\nThere was but one belovéd face on earth,\nAnd that was shining on him: he had looked\nUpon it till it could not pass away;\nHe had no breath, no being, but in hers;\nShe was his voice; he did not speak to her,\nBut trembled on her words; she was his sight,\nFor his eye followed hers, and saw with hers,\nWhich coloured all his objects:--he had ceased\nTo live within himself; she was his life,\nThe ocean to the river of his thoughts,\nWhich terminated all: upon a tone,\nA touch of hers, his blood would ebb and flow,\nAnd his cheek change tempestuously--his heart\nUnknowing of its cause of agony.\nBut she in these fond feelings had no share:\nHer sighs were not for him; to her he was\nEven as a brother--but no more; 'twas much,\nFor brotherless she was, save in the name\nHer infant friendship had bestowed on him;\nHerself the solitary scion left\nOf a time-honoured race.--It was a name\nWhich pleased him, and yet pleased him not--and why?\nTime taught him a deep answer--when she loved\nAnother: even _now_ she loved another,\nAnd on the summit of that hill she stood\nLooking afar if yet her lover's steed\nKept pace with her expectancy, and flew.\n\nA change came o'er the spirit of my dream.\nThere was an ancient mansion, and before\nIts walls there was a steed caparisoned:\nWithin an antique Oratory stood\nThe Boy of whom I spake;--he was alone,\nAnd pale, and pacing to and fro: anon\nHe sate him down, and seized a pen, and traced\nWords which I could not guess of; then he leaned\nHis bowed head on his hands, and shook as 'twere\nWith a convulsion--then arose again,\nAnd with his teeth and quivering hands did tear\nWhat he had written, but he shed no tears.\nAnd he did calm himself, and fix his brow\nInto a kind of quiet: as he paused,\nThe Lady of his love re-entered there;\nShe was serene and smiling then, and yet\nShe knew she was by him beloved--she knew,\nFor quickly comes such knowledge, that his heart\nWas darkened with her shadow, and she saw\nThat he was wretched, but she saw not all.\nHe rose, and with a cold and gentle grasp\nHe took her hand; a moment o'er his face\nA tablet of unutterable thoughts\nWas traced, and then it faded, as it came;\nHe dropped the hand he held, and with slow steps\nRetired, but not as bidding her adieu,\nFor they did part with mutual smiles; he passed\nFrom out the massy gate of that old Hall,\nAnd mounting on his steed he went his way;\nAnd ne'er repassed that hoary threshold more.\n\nA change came o'er the spirit of my dream.\nThe Boy was sprung to manhood: in the wilds\nOf fiery climes he made himself a home,\nAnd his Soul drank their sunbeams: he was girt\nWith strange and dusky aspects; he was not\nHimself like what he had been; on the sea\nAnd on the shore he was a wanderer;\nThere was a mass of many images\nCrowded like waves upon me, but he was\nA part of all; and in the last he lay\nReposing from the noontide sultriness,\nCouched among fallen columns, in the shade\nOf ruined walls that had survived the names\nOf those who reared them; by his sleeping side\nStood camels grazing, and some goodly steeds\nWere fastened near a fountain; and a man\nClad in a flowing garb did watch the while,\nWhile many of his tribe slumbered around:\nAnd they were canopied by the blue sky,\nSo cloudless, clear, and purely beautiful,\nThat God alone was to be seen in Heaven.\n\nA change came o'er the spirit of my dream.\nThe Lady of his love was wed with One\nWho did not love her better:--in her home,\nA thousand leagues from his,--her native home,\nShe dwelt, begirt with growing Infancy,\nDaughters and sons of Beauty,--but behold!\nUpon her face there was the tint of grief,\nThe settled shadow of an inward strife,\nAnd an unquiet drooping of the eye,\nAs if its lid were charged with unshed tears.\nWhat could her grief be?--she had all she loved,\nAnd he who had so loved her was not there\nTo trouble with bad hopes, or evil wish,\nOr ill-repressed affliction, her pure thoughts.\nWhat could her grief be?--she had loved him not,\nNor given him cause to deem himself beloved,\nNor could he be a part of that which preyed\nUpon her mind--a spectre of the past.\n\nA change came o'er the spirit of my dream.\nThe Wanderer was returned.--I saw him stand\nBefore an Altar--with a gentle bride;\nHer face was fair, but was not that which made\nThe Starlight of his Boyhood;--as he stood\nEven at the altar, o'er his brow there came\nThe self-same aspect, and the quivering shock\nThat in the antique Oratory shook\nHis bosom in its solitude; and then--\nAs in that hour--a moment o'er his face\nThe tablet of unutterable thoughts\nWas traced,--and then it faded as it came,\nAnd he stood calm and quiet, and he spoke\nThe fitting vows, but heard not his own words,\nAnd all things reeled around him; he could see\nNot that which was, nor that which should have been--\nBut the old mansion, and the accustomed hall,\nAnd the remembered chambers, and the place,\nThe day, the hour, the sunshine, and the shade,\nAll things pertaining to that place and hour\nAnd her who was his destiny, came back\nAnd thrust themselves between him and the light:\nWhat business had they there at such a time?\n\nA change came o'er the spirit of my dream.\nThe Lady of his love;--Oh! she was changed\nAs by the sickness of the soul; her mind\nHad wandered from its dwelling, and her eyes\nThey had not their own lustre, but the look\nWhich is not of the earth; she was become\nThe Queen of a fantastic realm; her thoughts\nWere combinations of disjointed things;\nAnd forms, impalpable and unperceived\nOf others' sight, familiar were to hers.\nAnd this the world calls frenzy; but the wise\nHave a far deeper madness--and the glance\nOf melancholy is a fearful gift;\nWhat is it but the telescope of truth?\nWhich strips the distance of its fantasies,\nAnd brings life near in utter nakedness,\nMaking the cold reality too real!\n\nA change came o'er the spirit of my dream.\nThe Wanderer was alone as heretofore,\nThe beings which surrounded him were gone,\nOr were at war with him; he was a mark\nFor blight and desolation, compassed round\nWith Hatred and Contention; Pain was mixed\nIn all which was served up to him, until,\nLike to the Pontic monarch of old days,\nHe fed on poisons, and they had no power,\nBut were a kind of nutriment; he lived\nThrough that which had been death to many men,\nAnd made him friends of mountains: with the stars\nAnd the quick Spirit of the Universe\nHe held his dialogues; and they did teach\nTo him the magic of their mysteries;\nTo him the book of Night was opened wide,\nAnd voices from the deep abyss revealed\nA marvel and a secret--Be it so.\n\nMy dream was past; it had no further change.\nIt was of a strange order, that the doom\nOf these two creatures should be thus traced out\nAlmost like a reality--the one\nTo end in madness--both in misery.",
-      "source": {
-        "name": "George Gordon, Lord Byron · PoetryDB",
-        "url": "https://poetrydb.org/title/The%20Dream",
-        "trustTier": "community",
-        "author": "George Gordon, Lord Byron"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-12T09:54:20.287Z",
-      "hash": "529811917e6d5880"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399920714-1",
-      "type": "art",
-      "title": "The Moon, from The Seven Planets",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1530s · Figures (representations)",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1530s · Figures (representations)",
-      "image": {
-        "src": "data/images/3d341619b7fba4a0.jpg",
-        "alt": "The Moon, from The Seven Planets",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/102031",
-        "trustTier": "encyclopedic",
-        "date": "1530s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon",
-        "figures (representations)"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-12T09:54:19.742Z",
-      "hash": "c24307401ccc7b34"
-    },
-    {
-      "id": "art:si:ld1-1643406112513-1643406113819-0",
-      "type": "art",
-      "title": "Lewis' Moon Snail, Lewis's Moon Snail, Lewis's Moon",
-      "summary": "NMNH - Education & Outreach · Education and Outreach collections",
-      "body": "NMNH - Education & Outreach\nEducation and Outreach collections",
-      "image": {
-        "src": "data/images/30e47d33fcf9d1f0.jpg",
-        "alt": "Lewis' Moon Snail, Lewis's Moon Snail, Lewis's Moon",
-        "credit": "NMNH - Education & Outreach · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/384123cac-f24c-47e7-ba92-83b16aa22dc6",
-        "trustTier": "encyclopedic",
-        "date": "Education and Outreach collections"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon",
-        "education and outreach collections"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-12T09:54:19.742Z",
-      "hash": "9205e963dd970cf6"
     },
     {
       "id": "curated:handwriting-beats-typing",

@@ -1,7 +1,1162 @@
 {
-  "generatedAt": "2026-07-26T10:04:33.314Z",
+  "generatedAt": "2026-07-27T11:30:14.878Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:uwVsF",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 2036. Find the best line for black.",
+      "body": "Solution, from → to: b8→b6, a6→a7, b6→b1, a1→b1, c5→a7. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "1r1r2k1/p2b1ppp/Q3p3/n1q5/8/2PR1NP1/P3PPBP/R5K1 b - - 1 1",
+        "lastMove": "d1d3"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/uwVsF",
+        "trustTier": "community",
+        "date": "Mon, 27 Jul 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "middlegame",
+        "long",
+        "advantage",
+        "discoveredattack"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-07-27T11:30:05.382Z",
+      "hash": "8a088cef6241014e"
+    },
+    {
+      "id": "game:8557d2fa3b6b2233",
+      "type": "game",
+      "title": "Atari and Universal to create movies based on classic properties including Asteroids and Missile Command",
+      "summary": "Atari boss Wade Rosen said the company hopes to bring the 'spirit of our iconic brand and games to a new medium.'",
+      "body": "Atari boss Wade Rosen said the company hopes to bring the 'spirit of our iconic brand and games to a new medium.'",
+      "image": {
+        "src": "data/images/5fdc9cb24c3dce9f.png",
+        "alt": "Atari and Universal to create movies based on classic properties including Asteroids and Missile Command",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/atari-and-universal-to-create-movies-based-on-classic-properties-including-asteroids-and-missile-command",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Mon, 27 Jul 2026 11:03:5"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:30:04.945Z",
+      "hash": "8557d2fa3b6b2233",
+      "expires": "2026-10-25T11:30:04.945Z"
+    },
+    {
+      "id": "trivia:57b6304921fcb941",
+      "type": "trivia",
+      "title": "Where is Hadrian's Wall located?",
+      "summary": "Is it: Alexandria, Egypt · Dublin, Ireland · Rome, Italy · Carlisle, England?",
+      "body": "Answer: Carlisle, England.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "geography"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:30:02.693Z",
+      "hash": "57b6304921fcb941"
+    },
+    {
+      "id": "trivia:a174fe81bf411375",
+      "type": "trivia",
+      "title": "Who wrote the novel 'Fear And Loathing In Las Vegas'?",
+      "summary": "Is it: William S. Burroughs · F. Scott Fitzgerald · Hunter S. Thompson · Henry Miller?",
+      "body": "Answer: Hunter S. Thompson.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "books"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:30:02.693Z",
+      "hash": "a174fe81bf411375"
+    },
+    {
+      "id": "trivia:510bc981a21e1aeb",
+      "type": "trivia",
+      "title": "What was the best selling album of 2015?",
+      "summary": "Is it: Taylor Swift, 1989 · Justin Bieber, Purpose · Adele, 25 · Fetty Wap, Fetty Wap?",
+      "body": "Answer: Adele, 25.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:30:02.693Z",
+      "hash": "510bc981a21e1aeb"
+    },
+    {
+      "id": "trivia:7438299a0ff0a2e2",
+      "type": "trivia",
+      "title": "Etihad Stadium is the home stadium for which team?",
+      "summary": "Is it: Manchester United · Manchester City · Arsenal · Blackpool?",
+      "body": "Answer: Manchester City.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "sports"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-07-27T11:30:02.693Z",
+      "hash": "7438299a0ff0a2e2"
+    },
+    {
+      "id": "passage:gutenberg:43",
+      "type": "passage",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "summary": "Mr. Utterson the lawyer was a man of a rugged countenance that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable. At friendly meetings, and when the wine was to his taste, something eminently human beaconed from his eye; something indeed which never found its…",
+      "body": "Mr. Utterson the lawyer was a man of a rugged countenance that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable. At friendly meetings, and when the wine was to his taste, something eminently human beaconed from his eye; something indeed which never found its way into his talk, but which spoke not only in these silent symbols of the after-dinner face, but more often and loudly in the acts of his life. He was austere with himself; drank gin when he was alone, to mortify a taste for vintages; and though he enjoyed the theatre, had not crossed the doors of one for twenty years. But he had an…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/43",
+        "trustTier": "publication",
+        "author": "Robert Louis Stevenson",
+        "date": "1886"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "gothic",
+        "mystery"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:30:02.482Z",
+      "hash": "70558e6170fa769a"
+    },
+    {
+      "id": "passage:gutenberg:35",
+      "type": "passage",
+      "title": "The Time Machine",
+      "summary": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burnt brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses. Our…",
+      "body": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burnt brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses. Our chairs, being his patents, embraced and caressed us rather than submitted to be sat upon, and there was that luxurious after-dinner atmosphere, when thought runs gracefully free of the trammels of precision. And he put it to us in this way—marking the points with a lean forefinger—as we sat and lazily admired his earnestness over this new…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/35",
+        "trustTier": "publication",
+        "author": "H. G. Wells",
+        "date": "1895"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "science-fiction",
+        "novel"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:30:02.435Z",
+      "hash": "6730091402608289"
+    },
+    {
+      "id": "comic:smbc:da0f2f3b7a983168",
+      "type": "comic",
+      "title": "Dance",
+      "summary": "And don't get me started on the transphobic twist.",
+      "image": {
+        "src": "data/images/39f81b9b570e0ffa.png",
+        "alt": "And don't get me started on the transphobic twist.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/dance-4",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sun, 26 Jul 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-27T11:30:01.869Z",
+      "hash": "da0f2f3b7a983168"
+    },
+    {
+      "id": "comic:xkcd:652",
+      "type": "comic",
+      "title": "More Accurate",
+      "summary": "We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.",
+      "body": "[[A man with a shotgun approaches a woman.]] Man: Sarah! Come with me if you want to live! A robot assassin has been sent here to kill you! [[The woman holds her hands over her mouth.]] Man: I'm here to save you. I may not be as strong or fast as a machine, but I'll fight to keep you -- [[There's a huge orange and yellow explosion. The two are disintegrated.]] > [[A flying robot assassin is above the bomb site.]] {{Title text: We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.}}",
+      "image": {
+        "src": "data/images/fb44685e7c9f5ef1.png",
+        "alt": "We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.",
+        "credit": "xkcd #652 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/652/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2009-10-21"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-27T11:30:01.655Z",
+      "hash": "7de6ebef03b39772"
+    },
+    {
+      "id": "word:a8d5cc9fcb55605e",
+      "type": "word",
+      "title": "reverie",
+      "summary": "Noun: A state of dreaming while awake; a loose or irregular train of thought; musing or meditation; daydream. .mw-parser-output .defdate{font-size:smaller}",
+      "body": "1. A state of dreaming while awake; a loose or irregular train of thought; musing or meditation; daydream. .mw-parser-output .defdate{font-size:smaller}\n2. An extravagant conceit of the imagination; a vision.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/reverie",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:22.590Z",
+      "hash": "a8d5cc9fcb55605e"
+    },
+    {
+      "id": "quote:59e033dd3f7c5ce8",
+      "type": "quote",
+      "title": "“I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.”",
+      "summary": "— Joan Rivers",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Joan_Rivers",
+        "trustTier": "community",
+        "author": "Joan Rivers"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:22.182Z",
+      "hash": "59e033dd3f7c5ce8"
+    },
+    {
+      "id": "quote:cfa57b8bdd3e294e",
+      "type": "quote",
+      "title": "“Live the moment for the moment.”",
+      "summary": "— Michael Jordan",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Michael_Jordan",
+        "trustTier": "community",
+        "author": "Michael Jordan"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:22.182Z",
+      "hash": "cfa57b8bdd3e294e"
+    },
+    {
+      "id": "quote:b22f77474ed4df86",
+      "type": "quote",
+      "title": "“If we will be quiet and ready enough, we shall find compensation in every disappointment.”",
+      "summary": "— Henry David Thoreau",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Henry_David_Thoreau",
+        "trustTier": "community",
+        "author": "Henry David Thoreau"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:22.182Z",
+      "hash": "b22f77474ed4df86"
+    },
+    {
+      "id": "article:2aeaddc7364e3553",
+      "type": "article",
+      "title": "This Is How To Overcome Burnout: 5 Secrets From Philosophy",
+      "summary": "It’s a Saturday afternoon. There’s nothing you’re supposed to be doing. No deadline looming. But there’s a voice in your head: “You should be accomplishing something.” Who is that voice? Where the heck is it coming from? A philosopher named Byung-Chul Han has a theory… There was a time when…",
+      "body": "It’s a Saturday afternoon. There’s nothing you’re supposed to be doing. No deadline looming. But there’s a voice in your head: “You should be accomplishing something.” Who is that voice? Where the heck is it coming from? A philosopher named Byung-Chul Han has a theory… There was a time when society’s main job was saying […] The post This Is How To Overcome Burnout: 5 Secrets From Philosophy appeared first on Barking Up The Wrong Tree.",
+      "image": {
+        "src": "data/images/b923d758ccde1a11.jpg",
+        "alt": "This Is How To Overcome Burnout: 5 Secrets From Philosophy",
+        "credit": "Barking Up the Wrong Tree"
+      },
+      "source": {
+        "name": "Barking Up the Wrong Tree",
+        "url": "https://bakadesuyo.com/2026/07/overcome-burnout/?utm_source=rss&utm_medium=rss&utm_campaign=overcome-burnout",
+        "trustTier": "community",
+        "author": "Eric Barker",
+        "date": "Sun, 05 Jul 2026 19:17:5"
+      },
+      "tags": [
+        "psychology",
+        "self-improvement",
+        "science",
+        "be happier",
+        "master the workplace"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:29:16.430Z",
+      "hash": "2aeaddc7364e3553"
+    },
+    {
+      "id": "article:f868aa3f6c5e1598",
+      "type": "article",
+      "title": "Psychedelics Might Not Have Evolved to Get Humans High",
+      "summary": "Hallucination may have more to do with our shared brain chemistry with snails, insects, and sea urchins The post Psychedelics Might Not Have Evolved to Get Humans High appeared first on Nautilus.",
+      "body": "Hallucination may have more to do with our shared brain chemistry with snails, insects, and sea urchins The post Psychedelics Might Not Have Evolved to Get Humans High appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/e138eade3a27df19.png",
+        "alt": "Psychedelics Might Not Have Evolved to Get Humans High",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/psychedelics-might-not-have-evolved-to-get-humans-high-1283013/",
+        "trustTier": "publication",
+        "author": "Kristen French",
+        "date": "Fri, 24 Jul 2026 20:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "evolution"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:29:15.369Z",
+      "hash": "f868aa3f6c5e1598"
+    },
+    {
+      "id": "article:de40f7f47b1d30ec",
+      "type": "article",
+      "title": "The One Hundred Milliseconds Between the World and You: Oliver Sacks on Perception",
+      "summary": "“If the doors of perception were cleansed,” William Blake wrote, “everything would appear to man as it is, infinite.” But we are finite creatures, in time and in space, and there is a limit to how much reality we can bear — evolution gave us consciousness so that we may sieve the salient from the…",
+      "body": "“If the doors of perception were cleansed,” William Blake wrote, “everything would appear to man as it is, infinite.” But we are finite creatures, in time and in space, and there is a limit to how much reality we can bear — evolution gave us consciousness so that we may sieve the salient from the infinite, equipped it with attention so that we may narrow the aperture of perception to take in only what is relevant to us from the immense vista of now. The astonishing thing is that even though we all have more or less the same perceptual… read article",
+      "image": {
+        "src": "data/images/bafd419226a26f5a.jpg",
+        "alt": "The One Hundred Milliseconds Between the World and You: Oliver Sacks on Perception",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/07/25/oliver-sacks-perception/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sun, 26 Jul 2026 03:11:1"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "science",
+        "books",
+        "oliver sacks"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:29:15.204Z",
+      "hash": "de40f7f47b1d30ec"
+    },
+    {
+      "id": "article:6522315773974d8d",
+      "type": "article",
+      "title": "‘Why I Left the Left.’ Plus. . .",
+      "summary": "Mr. President, give up on a nuclear deal with Iran. Could AI agents start trying to kill humans? Jillian Michaels on MAHA. And more in today's Front Page.",
+      "body": "Mr. President, give up on a nuclear deal with Iran. Could AI agents start trying to kill humans? Jillian Michaels on MAHA. And more in today's Front Page.",
+      "image": {
+        "src": "data/images/a20815f7a2c7314f.jpg",
+        "alt": "‘Why I Left the Left.’ Plus. . .",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/why-i-left-the-left-plus",
+        "trustTier": "publication",
+        "author": "The Free Press",
+        "date": "Mon, 27 Jul 2026 10:02:3"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:29:14.766Z",
+      "hash": "6522315773974d8d",
+      "expires": "2026-08-26T11:29:14.766Z"
+    },
+    {
+      "id": "article:036900adee8bd928",
+      "type": "article",
+      "title": "How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery",
+      "summary": "The post How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery appeared first on ProPublica.",
+      "body": "The post How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/fd39b5cf164f2873.jpg",
+        "alt": "How Trump’s “America First” Administration Could Shut U.S. Scientists Out of the Next Nobel-Worthy Discovery",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/federal-science-grants-russell-vought-omb",
+        "trustTier": "publication",
+        "author": "Lisa Song",
+        "date": "Mon, 27 Jul 2026 09:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "trump administration"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:29:14.709Z",
+      "hash": "036900adee8bd928",
+      "expires": "2026-10-25T11:29:14.709Z"
+    },
+    {
+      "id": "article:9a58c710fbbd04ca",
+      "type": "article",
+      "title": "On viewing Nolan’s Odyssey",
+      "summary": "Disclaimer: I haven’t read any other reviews though I have listened to the one by Mark Kermode, as well as the accompanying interview with Nolan conducted by Simon Mayo. I’m also acutely aware that every Classicist and their Argos have since commented on the film. Below are my thoughts as a film…",
+      "body": "Disclaimer: I haven’t read any other reviews though I have listened to the one by Mark Kermode, as well as the accompanying interview with Nolan conducted by Simon Mayo. I’m also acutely aware that every Classicist and their Argos have since commented on the film. Below are my thoughts as a film goer with an interest in … Continue reading On viewing Nolan’s Odyssey",
+      "image": {
+        "src": "data/images/624779c8d472d3b7.png",
+        "alt": "On viewing Nolan’s Odyssey",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/07/24/on-viewing-nolans-odyssey/",
+        "trustTier": "community",
+        "author": "eltonteb",
+        "date": "Fri, 24 Jul 2026 15:55:4"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "essays",
+        "homer",
+        "movies",
+        "nolan",
+        "odyssey"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:29:14.624Z",
+      "hash": "9a58c710fbbd04ca"
+    },
+    {
+      "id": "article:c1bfdce116b11498",
+      "type": "article",
+      "title": "The Hard Truth About the Sanctuary Movement",
+      "summary": "In a healthy country, the American experiment with the sanctuary movement would be widely recognized as a deadly failure. The post The Hard Truth About the Sanctuary Movement appeared first on Imprimis.",
+      "body": "In a healthy country, the American experiment with the sanctuary movement would be widely recognized as a deadly failure. The post The Hard Truth About the Sanctuary Movement appeared first on Imprimis.",
+      "image": {
+        "src": "data/images/8b4203b38dcbe80f.jpg",
+        "alt": "The Hard Truth About the Sanctuary Movement",
+        "credit": "Imprimis"
+      },
+      "source": {
+        "name": "Imprimis",
+        "url": "https://imprimis.hillsdale.edu/the-hard-truth-about-the-sanctuary-movement/",
+        "trustTier": "publication",
+        "author": "Sean Davis",
+        "date": "Fri, 24 Jul 2026 21:16:0"
+      },
+      "tags": [
+        "ideas",
+        "liberty",
+        "lecture",
+        "american liberalism",
+        "immigration",
+        "law",
+        "law enforcement"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:29:14.192Z",
+      "hash": "c1bfdce116b11498"
+    },
+    {
+      "id": "article:1f1fe26a09780d10",
+      "type": "article",
+      "title": "In search of the northern cassowary",
+      "summary": "Join the search for the elusive cassowary, a big bird that plays an outsized role in maintaining its rainforest home- by Aeon VideoWatch on Aeon",
+      "body": "Join the search for the elusive cassowary, a big bird that plays an outsized role in maintaining its rainforest home- by Aeon VideoWatch on Aeon",
+      "image": {
+        "src": "data/images/d53203cb50491c5d.jpg",
+        "alt": "In search of the northern cassowary",
+        "credit": "Aeon"
+      },
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/videos/scientists-and-locals-unite-to-film-a-large-elusive-new-guinean-bird",
+        "trustTier": "publication",
+        "author": "Aeon Video",
+        "date": "Mon, 27 Jul 2026 10:01:0"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "philosophy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:29:12.792Z",
+      "hash": "1f1fe26a09780d10"
+    },
+    {
+      "id": "greek:6886080b12b3ff94",
+      "type": "greek",
+      "title": "ἄγγελος",
+      "summary": "ἄγγελος — “angel, messenger” · noun",
+      "body": "Note: ὁ ἄγγελος; literal sense is \"messenger\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:12.666Z",
+      "hash": "6886080b12b3ff94"
+    },
+    {
+      "id": "greek:dd29813e8594af34",
+      "type": "greek",
+      "title": "ἄνθρωπος",
+      "summary": "ἄνθρωπος — “human, man” · noun",
+      "body": "Note: ὁ ἄνθρωπος; generic \"person\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%84%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:12.666Z",
+      "hash": "dd29813e8594af34"
+    },
+    {
+      "id": "poetry:d95707ab0c105c8e",
+      "type": "poem",
+      "title": "The Voice of the Ancient Bard",
+      "summary": "Youth of delight!  come hither\nAnd see the opening morn,\nImage of Truth new-born.\nDoubt is fled, and clouds of reason,",
+      "body": "Youth of delight!  come hither\nAnd see the opening morn,\nImage of Truth new-born.\nDoubt is fled, and clouds of reason,\nDark disputes and artful teazing.\nFolly is an endless maze;\nTangled roots perplex her ways;\nHow many have fallen there!\nThey stumble all night over bones of the dead;\nAnd feel--they know not what but care;\nAnd wish to lead others, when they should be led.",
+      "source": {
+        "name": "William Blake · PoetryDB",
+        "url": "https://poetrydb.org/title/The%20Voice%20of%20the%20Ancient%20Bard",
+        "trustTier": "community",
+        "author": "William Blake"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:29:12.664Z",
+      "hash": "d95707ab0c105c8e"
+    },
+    {
+      "id": "poetry:841599b99d26eac0",
+      "type": "poem",
+      "title": "Heaven and Earth",
+      "summary": "PART I.\nSCENE I.--_A woody and mountainous district near Mount\n                    Ararat.--Time, midnight_.\n               _Enter_ ANAH _and_ AHOLIBAMAH.",
+      "body": "PART I.\n\nSCENE I.--_A woody and mountainous district near Mount\n                    Ararat.--Time, midnight_.\n\n               _Enter_ ANAH _and_ AHOLIBAMAH.\n\n_Anah_. OUR father sleeps: it is the hour when they\nWho love us are accustomed to descend\nThrough the deep clouds o'er rocky Ararat:--\nHow my heart beats!\n\n_Aho._               Let us proceed upon\nOur invocation.\n\n_Anah_.         But the stars are hidden.\nI tremble.\n\n_Aho._     So do I, but not with fear\nOf aught save their delay.\n\n_Anah_.                    My sister, though\nI love Azaziel more than----oh, too much!\nWhat was I going to say? my heart grows impious.\n\n_Aho._ And where is the impiety of loving\nCelestial natures?\n\n_Anah_.            But, Aholibamah,\nI love our God less since his angel loved me:\nThis cannot be of good; and though I know not\nThat I do wrong, I feel a thousand fears\nWhich are not ominous of right.\n\n_Aho._                          Then wed thee\nUnto some son of clay, and toil and spin!\nThere's Japhet loves thee well, hath loved thee long:\nMarry, and bring forth dust!\n\n_Anah_.                      I should have loved\nAzaziel not less were he mortal; yet\nI am glad he is not. I cannot outlive him.\nAnd when I think that his immortal wings\nWill one day hover o'er the sepulchre\nOf the poor child of clay which so adored him,\nAs he adores the Highest, death becomes\nLess terrible; but yet I pity him:\nHis grief will be of ages, or at least\nMine would be such for him, were I the Seraph,\nAnd he the perishable.\n\n_Aho._                 Rather say,\nThat he will single forth some other daughter\nOf earth, and love her as he once loved Anah.\n\n_Anah_. And if it should be so, and she loved him,\nBetter thus than that he should weep for me.\n\n_Aho._ If I thought thus of Samiasa's love,\nAll Seraph as he is, I'd spurn him from me.\nBut to our invocation!--'Tis the hour.\n\n_Anah_.\n                Seraph!\n             From thy sphere!\n  Whatever star contain thy glory;\n    In the eternal depths of heaven\n    Albeit thou watchest with \"the seven,\"\n  Though through space infinite and hoary\n    Before thy bright wings worlds be driven,\n                   Yet hear!\n  Oh! think of her who holds thee dear!\n    And though she nothing is to thee,\n  Yet think that thou art all to her.\n    Thou canst not tell,--and never be\n    Such pangs decreed to aught save me,--\n      The bitterness of tears.\n      Eternity is in thine years,\n  Unborn, undying beauty in thine eyes;\n  With me thou canst not sympathise,\n    Except in love, and there thou must\n    Acknowledge that more loving dust\n  Ne'er wept beneath the skies.\n  Thou walk'st thy many worlds, thou see'st\n    The face of him who made thee great,\n  As he hath made me of the least\n    Of those cast out from Eden's gate:\n              Yet, Seraph dear!\n                  Oh hear!\n  For thou hast loved me, and I would not die\n    Until I know what I must die in knowing,\n  That thou forget'st in thine eternity\n    Her whose heart Death could not keep from o'er-flowing\n  For thee, immortal essence as thou art!\n    Great is their love who love in sin and fear;\n  And such, I feel, are waging in my heart\n  A war unworthy: to an Adamite\n    Forgive, my Seraph! that such thoughts appear,\n      For sorrow is our element;\n                 Delight\n  An Eden kept afar from sight,\n      Though sometimes with our visions blent.\n              The hour is near\n  Which tells me we are not abandoned quite.--\n               Appear! Appear!\n                  Seraph!\n      My own Azaziel! be but here,\n  And leave the stars to their own light!\n\n_Aho._\n               Samiasa!\n               Wheresoe'er\n      Thou rulest in the upper air--\n      Or warring with the spirits who may dare\n              Dispute with him\n    Who made all empires, empire; or recalling\n  Some wandering star, which shoots through the abyss,\n    Whose tenants dying, while their world is falling,\n  Share the dim destiny of clay in this;\n    Or joining with the inferior cherubim,\n    Thou deignest to partake their hymn--\n               Samiasa!\n  I call thee, I await thee, and I love thee.\n    Many may worship thee, that will I not:\n  If that thy spirit down to mine may move thee,\n    Descend and share my lot!\n    Though I be formed of clay,\n      And thou of beams\n    More bright than those of day\n      On Eden's streams,\n    Thine immortality can not repay\n      With love more warm than mine\n    My love. There is a ray\n      In me, which, though forbidden yet to shine,\n      I feel was lighted at thy God's and thine.\n    It may be hidden long: death and decay\n      Our mother Eve bequeathed us--but my heart\n    Defies it: though this life must pass away,\n      Is _that_ a cause for thee and me to part?\n    Thou art immortal--so am I: I feel--\n      I feel my immortality o'ersweep\n    All pains, all tears, all fears, and peal,\n      Like the eternal thunders of the deep,\n    Into my ears this truth--\"Thou liv'st for ever!\"\n        But if it be in joy\n    I know not, nor would know;\n  That secret rests with the Almighty giver,\n    Who folds in clouds the fonts of bliss and woe.\n        But thee and me he never can destroy;\n    Change us he may, but not o'erwhelm; we are\n    Of as eternal essence, and must war\n    With him if he will war with us; with _thee_\n      I can share all things, even immortal sorrow;\n    For thou hast ventured to share life with _me_,\n    And shall _I_ shrink from thine eternity?\n      No! though the serpent's sting should pierce me thorough,\n    And thou thyself wert like the serpent, coil\n      Around me still! and I will smile,\n            And curse thee not; but hold\n          Thee in as warm a fold\n          As----but descend, and prove\n          A mortal's love\n  For an immortal. If the skies contain\n  More joy than thou canst give and take, remain!\n\n_Anah_. Sister! sister! I view them winging\nTheir bright way through the parted night.\n\n_Aho._ The clouds from off their pinions flinging,\nAs though they bore to-morrow's light.\n\n_Anah_. But if our father see the sight!\n\n_Aho._ He would but deem it was the moon\nRising unto some sorcerer's tune\nAn hour too soon.\n\n_Anah_. They come! _he_ comes!--Azaziel!\n\n_Aho._                                   Haste\nTo meet them! Oh! for wings to bear\nMy spirit, while they hover there,\n        To Samiasa's breast!\n\n_Anah_. Lo! they have kindled all the west,\nLike a returning sunset;--lo!\n        On Ararat's late secret crest\nA mild and many-coloured bow,\nThe remnant of their flashing path,\nNow shines! and now, behold! it hath\nReturned to night, as rippling foam,\n  Which the Leviathan hath lashed\nFrom his unfathomable home,\nWhen sporting on the face of the calm deep,\n  Subsides soon after he again hath dashed\nDown, down, to where the Ocean's fountains sleep.\n\n_Aho._ They have touched earth! Samiasa!\n\n_Anah_.                                 My Azaziel!\n                                                            [_Exeunt_.\n\nSCENE II.--_Enter_ IRAD _and_ JAPHET.\n\n_Irad_. Despond not: wherefore wilt thou wander thus\nTo add thy silence to the silent night,\nAnd lift thy tearful eye unto the stars?\nThey cannot aid thee.\n\n_Japh._               But they soothe me--now\nPerhaps she looks upon them as I look.\nMethinks a being that is beautiful\nBecometh more so as it looks on beauty,\nThe eternal beauty of undying things.\nOh, Anah!\n\n_Irad_.    But she loves thee not.\n\n_Japh._                           Alas!\n\n_Irad_. And proud Aholibamah spurns me also.\n\n_Japh._ I feel for thee too.\n\n_Irad_.                      Let her keep her pride,\nMine hath enabled me to bear her scorn:\nIt may be, time too will avenge it.\n\n_Japh._                            Canst thou\nFind joy in such a thought?\n\n_Irad_.                     Nor joy nor sorrow.\nI loved her well; I would have loved her better,\nHad love been met with love: as 'tis, I leave her\nTo brighter destinies, if so she deems them.\n\n_Japh._ What destinies?\n\n_Irad_.                 I have some cause to think\nShe loves another.\n\n_Japh._             Anah!\n\n_Irad_.                  No; her sister.\n\n_Japh._ What other?\n\n_Irad_.             That I know not; but her air,\nIf not her words, tells me she loves another.\n\n_Japh._ Aye, but not Anah: she but loves her God.\n\n_Irad_. Whate'er she loveth, so she loves thee not,\nWhat can it profit thee?\n\n_Japh._                  True, nothing; but\nI love.\n\n_Irad_. And so did I.\n\n_Japh._               And now thou lov'st not,\nOr think'st thou lov'st not, art thou happier?\n\n_Irad_.                                       Yes.\n\n_Japh._ I pity thee.\n\n_Irad_.              Me! why?\n\n_Japh._                      For being happy,\nDeprived of that which makes my misery.\n\n_Irad_. I take thy taunt as part of thy distemper,\nAnd would not feel as thou dost for more shekels\nThan all our father's herds would bring, if weighed\nAgainst the metal of the sons of Cain--\nThe yellow dust they try to barter with us,\nAs if such useless and discoloured trash,\nThe refuse of the earth, could be received\nFor milk, and wool, and flesh, and fruits, and all\nOur flocks and wilderness afford.--Go, Japhet,\nSigh to the stars, as wolves howl to the moon--\nI must back to my rest.\n\n_Japh._                  And so would I\nIf I could rest.\n\n_Irad_.          Thou wilt not to our tents then?\n\n_Japh._ No, Irad; I will to the cavern, whose\nMouth they say opens from the internal world,\nTo let the inner spirits of the earth\nForth when they walk its surface.\n\n_Irad_.                            Wherefore so?\nWhat wouldst thou there?\n\n_Japh._                   Soothe further my sad spirit\nWith gloom as sad: it is a hopeless spot,\nAnd I am hopeless.\n\n_Irad_.            But 'tis dangerous;\nStrange sounds and sights have peopled it with terrors.\nI must go with thee.\n\n_Japh._               Irad, no; believe me\nI feel no evil thought, and fear no evil.\n\n_Irad_. But evil things will be thy foe the more\nAs not being of them: turn thy steps aside,\nOr let mine be with thine.\n\n_Japh._                    No, neither, Irad;\nI must proceed alone.\n\n_Irad_.                Then peace be with thee!\n                                                         [_Exit_ IRAD.\n\n_Japh._ (_solus_).\nPeace! I have sought it where it should be found,\nIn love--with love, too, which perhaps deserved it;\nAnd, in its stead, a heaviness of heart,\nA weakness of the spirit, listless days,\nAnd nights inexorable to sweet sleep\nHave come upon me. Peace! what peace? the calm\nOf desolation, and the stillness of\nThe untrodden forest, only broken by\nThe sweeping tempest through its groaning boughs;\nSuch is the sullen or the fitful state\nOf my mind overworn. The Earth's grown wicked,\nAnd many signs and portents have proclaimed\nA change at hand, and an o'erwhelming doom\nTo perishable beings. Oh, my Anah!\nWhen the dread hour denounced shall open wide\nThe fountains of the deep, how mightest thou\nHave lain within this bosom, folded from\nThe elements; this bosom, which in vain\nHath beat for thee, and then will beat more vainly,\nWhile thine--Oh, God! at least remit to her\nThy wrath! for she is pure amidst the failing\nAs a star in the clouds, which cannot quench,\nAlthough they obscure it for an hour. My Anah!\nHow would I have adored thee, but thou wouldst not;\nAnd still would I redeem thee--see thee live\nWhen Ocean is earth's grave, and, unopposed\nBy rock or shallow, the Leviathan,\nLord of the shoreless sea and watery world,\nShall wonder at his boundlessness of realm.            [_Exit_ JAPHET.\n\n                      _Enter_ NOAH _and_ SHEM.\n\n_Noah_. Where is thy brother Japhet?\n\n_Shem_.                              He went forth,\nAccording to his wont, to meet with Irad,\nHe said; but, as I fear, to bend his steps\nTowards Anah's tents, round which he hovers nightly,\nLike a dove round and round its pillaged nest;\nOr else he walks the wild up to the cavern\nWhich opens to the heart of Ararat.\n\n_Noah_. What doth he there? It is an evil spot\nUpon an earth all evil; for things worse\nThan even wicked men resort there: he\nStill loves this daughter of a fated race,\nAlthough he could not wed her if she loved him,\nAnd that she doth not. Oh, the unhappy hearts\nOf men! that one of my blood, knowing well\nThe destiny and evil of these days,\nAnd that the hour approacheth, should indulge\nIn such forbidden yearnings! Lead the way;\nHe must be sought for!\n\n_Shem_.                 Go not forward, father:\nI will seek Japhet.\n\n_Noah_.              Do not fear for me:\nAll evil things are powerless on the man\nSelected by Jehovah.--Let us on.\n\n_Shem_. To the tents of the father of the sisters?\n\n_Noah_. No; to the cavern of the Caucasus.\n                                           [_Exeunt_ NOAH _and_ SHEM.\n\nSCENE III.--_The mountains.--A cavern, and the rocks\n                 of Caucasus_.\n\n_Japh._ (_solus_). Ye wilds, that look eternal; and thou cave,\nWhich seem'st unfathomable; and ye mountains,\nSo varied and so terrible in beauty;\nHere, in your rugged majesty of rocks\nAnd toppling trees that twine their roots with stone\nIn perpendicular places, where the foot\nOf man would tremble, could he reach them--yes,\nYe look eternal! Yet, in a few days,\nPerhaps even hours, ye will be changed, rent, hurled\nBefore the mass of waters; and yon cave,\nWhich seems to lead into a lower world,\nShall have its depths searched by the sweeping wave,\nAnd dolphins gambol in the lion's den!\nAnd man----Oh, men! my fellow-beings! Who\nShall weep above your universal grave,\nSave I? Who shall be left to weep? My kinsmen,\nAlas! what am I better than ye are,\nThat I must live beyond ye? Where shall be\nThe pleasant places where I thought of Anah\nWhile I had hope? or the more savage haunts,\nScarce less beloved, where I despaired for her?\nAnd can it be!--Shall yon exulting peak,\nWhose glittering top is like a distant star,\nLie low beneath the boiling of the deep?\nNo more to have the morning sun break forth,\nAnd scatter back the mists in floating folds\nFrom its tremendous brow? no more to have\nDay's broad orb drop behind its head at even,\nLeaving it with a crown of many hues?\nNo more to be the beacon of the world,\nFor angels to alight on, as the spot\nNearest the stars? And can those words \"_no more_\"\nBe meant for thee, for all things, save for us,\nAnd the predestined creeping things reserved\nBy my sire to Jehovah's bidding? May\n_He_ preserve _them_, and I _not_ have the power\nTo snatch the loveliest of earth's daughters from\nA doom which even some serpent, with his mate,\nShall 'scape to save his kind to be prolonged,\nTo hiss and sting through some emerging world,\nReeking and dank from out the slime, whose ooze\nShall slumber o'er the wreck of this, until\nThe salt morass subside into a sphere\nBeneath the sun, and be the monument,\nThe sole and undistinguished sepulchre,\nOf yet quick myriads of all life? How much\nBreath will be stilled at once! All beauteous world!\nSo young, so marked out for destruction, I\nWith a cleft heart look on thee day by day,\nAnd night by night, thy numbered days and nights.\nI cannot save thee, cannot save even her\nWhose love had made me love thee more; but as\nA portion of thy dust, I cannot think\nUpon thy coming doom without a feeling\nSuch as--Oh God! and canst thou--                        [_He pauses_.\n\n               [_A rushing sound from the cavern is heard, and shouts\n                      of laughter--afterwards a Spirit passes_.\n\n_Japh._                             In the name\nOf the Most High, what art thou?\n\n_Spirit_ (_laughs_).             Ha! ha! ha!\n\n_Japh._ By all that earth holds holiest, speak!\n\n_Spirit_ (_laughs_).                           Ha! ha!\n\n_Japh._ By the approaching deluge! by the earth\nWhich will be strangled by the ocean! by\nThe deep which will lay open all her fountains!\nThe heaven which will convert her clouds to seas,\nAnd the Omnipotent who makes and crushes!\nThou unknown, terrible, and indistinct,\nYet awful Thing of Shadows, speak to me!\nWhy dost thou laugh that horrid laugh?\n\n_Spirit_.                             Why weep'st thou?\n\n_Japh._ For earth and all her children.\n\n_Spirit_.                              Ha! ha! ha!\n                                                   [_Spirit vanishes_.\n\n_Japh._ How the fiend mocks the tortures of a world,\nThe coming desolation of an orb,\nOn which the sun shall rise and warm no life!\nHow the earth sleeps! and all that in it is\nSleep too upon the very eve of death!\nWhy should they wake to meet it? What are here,\nWhich look like death in life, and speak like things\nBorn ere this dying world? They come like clouds!\n                              [_Various Spirits pass from the cavern_.\n\n_Spirit_.\n            Rejoice!\n        The abhorréd race\n  Which could not keep in Eden their high place,\n        But listened to the voice\n  Of knowledge without power,\n        Are nigh the hour,\n            Of Death!\n  Not slow, not single, not by sword, nor sorrow,\n    Nor years, nor heart-break, nor Time's sapping motion,\n  Shall they drop off. Behold their last to-morrow!\n        Earth shall be Ocean!\n            And no breath,\n  Save of the winds, be on the unbounded wave!\n        Angels shall tire their wings, but find no spot:\n  Not even a rock from out the liquid grave\n        Shall lift its point to save,\n  Or show the place where strong Despair hath died,\n  After long looking o'er the ocean wide\n        For the expected ebb which cometh not:\n            All shall be void,\n                Destroyed!\n  Another element shall be the lord\n    Of life, and the abhorred\n  Children of dust be quenched; and of each hue\n  Of earth nought left but the unbroken blue;\n  And of the variegated mountain\n        Shall nought remain\n        Unchanged, or of the level plain;\n        Cedar and pine shall lift their tops in vain:\n  All merged within the universal fountain,\n        Man, earth, and fire, shall die,\n            And sea and sky\n  Look vast and lifeless in the eternal eye.\n            Upon the foam\n                Who shall erect a home?\n\n_Japh._ (_coming forward_).\n                My sire!\n            Earth's seed shall not expire;\n            Only the evil shall be put away\n                From day.\n        Avaunt! ye exulting demons of the waste!\n  Who howl your hideous joy\n  When God destroys whom you dare not destroy:\n            Hence! haste!\n      Back to your inner caves!\n      Until the waves\n  Shall search you in your secret place,\n        And drive your sullen race\n  Forth, to be rolled upon the tossing winds,\n      In restless wretchedness along all space!\n\n_Spirit_.\n            Son of the saved!\n      When thou and thine have braved\n        The wide and warring element;\n    When the great barrier of the deep is rent,\n  Shall thou and thine be good or happy?--No!\n  Thy new world and new race shall be of woe--\n    Less goodly in their aspect, in their years\n          Less than the glorious giants, who\n        Yet walk the world in pride,\n  The Sons of Heaven by many a mortal bride.\n    Thine shall be nothing of the past, save tears!\n          And art thou not ashamed\n              Thus to survive,\n          And eat, and drink, and wive?\n  With a base heart so far subdued and tamed,\n  As even to hear this wide destruction named,\n  Without such grief and courage, as should rather\n    Bid thee await the world-dissolving wave,\n  Than seek a shelter with thy favoured father,\n    And build thy city o'er the drowned earth's grave?\n          Who would outlive their kind,\n          Except the base and blind?\n                     Mine\n                 Hateth thine\n    As of a different order in the sphere,\n                But not our own.\n  There is not one who hath not left a throne\n    Vacant in heaven to dwell in darkness here,\n  Rather than see his mates endure alone.\n                Go, wretch! and give\n  A life like thine to other wretches--live!\n    And when the annihilating waters roar\n                Above what they have done,\n    Envy the giant patriarchs then no more,\n  And scorn thy sire as the surviving one!\n                Thyself for being his son!\n\n           _Chorus of Spirits issuing from the cavern_.\n\n                Rejoice!\n        No more the human voice\n        Shall vex our joys in middle air\n              With prayer;\n            No more\n            Shall they adore;\n  And we, who ne'er for ages have adored\n          The prayer-exacting Lord,\n  To whom the omission of a sacrifice\n               Is vice;\n  We, we shall view the deep's salt sources poured\n  Until one element shall do the work\n        Of all in chaos; until they,\n        The creatures proud of their poor clay,\n  Shall perish, and their bleached bones shall lurk\n        In caves, in dens, in clefts of mountains, where\n  The deep shall follow to their latest lair;\n        Where even the brutes, in their despair,\n  Shall cease to prey on man and on each other,\n    And the striped tiger shall lie down to die\n  Beside the lamb, as though he were his brother;\n             Till all things shall be as they were,\n         Silent and uncreated, save the sky:\n                While a brief truce\n         Is made with Death, who shall forbear\n       The little remnant of the past creation,\n     To generate new nations for his use;\n       This remnant, floating o'er the undulation\n         Of the subsiding deluge, from its slime,\n     When the hot sun hath baked the reeking soil\n         Into a world, shall give again to Time\n         New beings--years, diseases, sorrow, crime--\n     With all companionship of hate and toil,\n                   Until----\n\n_Japh._ (_Interrupting them_).\n                    The eternal Will\n            Shall deign to expound this dream\n            Of good and evil; and redeem\n                Unto himself all times, all things;\n                And, gathered under his almighty wings,\n                    Abolish Hell!\n            And to the expiated Earth\n            Restore the beauty of her birth,\n              Her Eden in an endless paradise,\n            Where man no more can fall as once he fell,\n            And even the very demons shall do well!\n\n_Spirits_. And when shall take effect this wondrous spell?\n\n_Japh._ When the Redeemer cometh; first in pain,\n                    And then in glory.\n\n_Spirit_. Meantime still struggle in the mortal chain,\n           Till Earth wax hoary;\n  War with yourselves, and Hell, and Heaven, in vain,\n           Until the clouds look gory\n  With the blood reeking from each battle-plain;\n  New times, new climes, new arts, new men; but still,\n  The same old tears, old crimes, and oldest ill,\n  Shall be amongst your race in different forms;\n           But the same moral storms\n    Shall oversweep the future, as the waves\n    In a few hours the glorious giants' graves.\n\n                       _Chorus of Spirits_.\n\n               Brethren, rejoice!\n               Mortal, farewell!\nHark! hark! already we can hear the voice\n      Of growing Ocean's gloomy swell;\n    The winds, too, plume their piercing wings;\n    The clouds have nearly filled their springs;\nThe fountains of the great deep shall be broken,\n  And heaven set wide her windows; while mankind\nView, unacknowledged, each tremendous token--\n  Still, as they were from the beginning, blind.\n    We hear the sound they cannot hear,\n    The mustering thunders of the threatening sphere;\n      Yet a few hours their coming is delayed;\n    Their flashing banners, folded still on high,\n              Yet undisplayed,\n    Save to the Spirit's all-pervading eye.\n              Howl! howl! oh Earth!\nThy death is nearer than thy recent birth;\nTremble, ye mountains, soon to shrink below\n          The Ocean's overflow!\nThe wave shall break upon your cliffs; and shells,\n  The little shells, of ocean's least things be\nDeposed where now the eagle's offspring dwells--\n  How shall he shriek o'er the remorseless sea!\nAnd call his nestlings up with fruitless yell,\nUnanswered, save by the encroaching swell;--\nWhile man shall long in vain for his broad wings,\n  The wings which could not save:--\nWhere could he rest them, while the whole space brings\n  Nought to his eye beyond the deep, his grave?\n           Brethren, rejoice!\n  And loudly lift each superhuman voice--\n                 All die,\n  Save the slight remnant of Seth's seed--\n           The seed of Seth,\n  Exempt for future sorrow's sake from death.\n        But of the sons of Cain\n           None shall remain;\n      And all his goodly daughters\n  Must lie beneath the desolating waters;\n  Or, floating upward, with their long hair laid\n  Along the wave, the cruel heaven upbraid,\n           Which would not spare\n         Beings even in death so fair.\n             It is decreed,\n                All die!\n    And to the universal human cry\n  The universal silence shall succeed!\n           Fly, brethren, fly!\n           But still rejoice!\n                We fell!\n               They fall!\n                 So perish all\nThese petty foes of Heaven who shrink from Hell!\n                            [_The Spirits disappear, soaring upwards_.\n\n_Japh._ (_solus_).\nGod hath proclaimed the destiny of earth;\nMy father's ark of safety hath announced it;\nThe very demons shriek it from their caves;\nThe scroll of Enoch prophesied it long\nIn silent books, which, in their silence, say\nMore to the mind than thunder to the ear:\nAnd yet men listened not, nor listen; but\nWalk darkling to their doom: which, though so nigh,\nShakes them no more in their dim disbelief,\nThan their last cries shall shake the Almighty purpose,\nOr deaf obedient Ocean, which fulfils it.\nNo sign yet hangs its banner in the air;\nThe clouds are few, and of their wonted texture;\nThe Sun will rise upon the Earth's last day\nAs on the fourth day of creation, when\nGod said unto him, \"Shine!\" and he broke forth\nInto the dawn, which lighted not the yet\nUnformed forefather of mankind--but roused\nBefore the human orison the earlier\nMade and far sweeter voices of the birds,\nWhich in the open firmament of heaven\nHave wings like angels, and like them salute\nHeaven first each day before the Adamites:\nTheir matins now draw nigh--the east is kindling--\nAnd they will sing! and day will break! Both near,\nSo near the awful close! For these must drop\nTheir outworn pinions on the deep; and day,\nAfter the bright course of a few brief morrows,--\nAye, day will rise; but upon what?--a chaos,\nWhich was ere day; and which, renewed, makes Time\nNothing! for, without life, what are the hours?\nNo more to dust than is Eternity\nUnto Jehovah, who created both.\nWithout him, even Eternity would be\nA void: without man, Time, as made for man,\nDies with man, and is swallowed in that deep\nWhich has no fountain; as his race will be\nDevoured by that which drowns his infant world.--\nWhat have we here? Shapes of both earth and air?\nNo--_all_ of heaven, they are so beautiful.\nI cannot trace their features; but their forms,\nHow lovelily they move along the side\nOf the grey mountain, scattering its mist!\nAnd after the swart savage spirits, whose\nInfernal immortality poured forth\nTheir impious hymn of triumph, they shall be\nWelcome as Eden. It may be they come\nTo tell me the reprieve of our young world,\nFor which I have so often prayed.--They come!\nAnah! oh, God! and with her----\n\n        _Enter_ SAMIASA, AZAZIEL, ANAH, _and_ AHOLIBAMAH.\n\n_Anah_.                         Japhet!\n\n_Sam._                                 Lo!\nA son of Adam!\n\n_Aza._        What doth the earth-born here,\nWhile all his race are slumbering?\n\n_Japh._                           Angel! what\nDost thou on earth when thou should'st be on high?\n\n_Aza._ Know'st thou not, or forget'st thou, that a part\nOf our great function is to guard thine earth?\n\n_Japh._ But all good angels have forsaken earth,\nWhich is condemned; nay, even the evil fly\nThe approaching chaos. Anah! Anah! my\nIn vain, and long, and still to be, beloved!\nWhy walk'st thou with this Spirit, in those hours\nWhen no good Spirit longer lights below?\n\n_Anah_. Japhet, I cannot answer thee; yet, yet\nForgive me----\n\n_Japh._       May the Heaven, which soon no more\nWill pardon, do so! for thou art greatly tempted.\n\n_Aho._ Back to thy tents, insulting son of Noah!\nWe know thee not.\n\n_Japh._          The hour may come when thou\nMay'st know me better; and thy sister know\nMe still the same which I have ever been.\n\n_Sam._ Son of the patriarch, who hath ever been\nUpright before his God, whate'er thy gifts,\nAnd thy words seem of sorrow, mixed with wrath,\nHow have Azaziel, or myself, brought on thee\nWrong?\n\n_Japh._ Wrong! the greatest of all wrongs! but, thou\nSay'st well, though she be dust--I did not, could not,\nDeserve her. Farewell, Anah! I have said\nThat word so often! but now say it, ne'er\nTo be repeated. Angel! or whate'er\nThou art, or must be soon, hast thou the power\nTo save this beautiful--_these_ beautiful\nChildren of Cain?\n\n_Aza._           From what?\n\n_Japh._                    And is it so,\nThat ye too know not? Angels! angels! ye\nHave shared man's sin, and, it may be, now must\nPartake his punishment; or, at the least,\nMy sorrow.\n\n_Sam._ Sorrow! I ne'er thought till now\nTo hear an Adamite speak riddles to me.\n\n_Japh._ And hath not the Most High expounded them?\nThen ye are lost as they are lost.\n\n_Aho._                            So be it!\nIf they love as they are loved, they will not shrink\nMore to be mortal, than I would to dare\nAn immortality of agonies\nWith Samiasa!\n\n_Anah_.      Sister! sister! speak not\nThus.\n\n_Aza._ Fearest thou, my Anah?\n\n_Anah_.                       Yes, for thee:\nI would resign the greater remnant of\nThis little life of mine, before one hour\nOf thine eternity should know a pang.\n\n_Japh._ It is for _him_, then! for the Seraph thou\nHast left me! That is nothing, if thou hast not\nLeft thy God too! for unions like to these,\nBetween a mortal and an immortal, cannot\nBe happy or be hallowed. We are sent\nUpon the earth to toil and die; and they\nAre made to minister on high unto\nThe Highest: but if he can _save_ thee, soon\nThe hour will come in which celestial aid\nAlone can do so.\n\n_Anah_.         Ah! he speaks of Death.\n\n_Sam._ Of death to _us_! and those who are with us!\nBut that the man seems full of sorrow, I\nCould smile.\n\n_Japh._      I grieve not for myself, nor fear.\nI am safe, not for my own deserts, but those\nOf a well-doing sire, who hath been found\nRighteous enough to save his children. Would\nHis power was greater of redemption! or\nThat by exchanging my own life for hers,\nWho could alone have made mine happy, she,\nThe last and loveliest of Cain's race, could share\nThe ark which shall receive a remnant of\nThe seed of Seth!\n\n_Aho._            And dost thou think that we,\nWith Cain's, the eldest born of Adam's, blood\nWarm in our veins,--strong Cain! who was begotten\nIn Paradise,--would mingle with Seth's children?\nSeth, the last offspring of old Adam's dotage?\nNo, not to save all Earth, were Earth in peril!\nOur race hath always dwelt apart from thine\nFrom the beginning, and shall do so ever.\n\n_Japh._ I did not speak to thee, Aholibamah!\nToo much of the forefather whom thou vauntest\nHas come down in that haughty blood which springs\nFrom him who shed the first, and that a brother's!\nBut thou, my Anah! let me call thee mine,\nAlbeit thou art not; 'tis a word I cannot\nPart with, although I must from thee. My Anah!\nThou who dost rather make me dream that Abel\nHad left a daughter, whose pure pious race\nSurvived in thee, so much unlike thou art\nThe rest of the stem Cainites, save in beauty,\nFor all of them are fairest in their favour----\n\n_Aho._ (_interrupting him_).\nAnd would'st thou have her like our father's foe\nIn mind, in soul? If _I_ partook thy thought,\nAnd dreamed that aught of _Abel_ was in _her_!--\nGet thee hence, son of Noah; thou makest strife.\n\n_Japh._ Offspring of Cain, thy father did so!\n\n_Aho._                                        But\nHe slew not Seth: and what hast thou to do\nWith other deeds between his God and him?\n\n_Japh._ Thou speakest well: his God hath judged him, and\nI had not named his deed, but that thyself\nDidst seem to glory in him, nor to shrink\nFrom what he had done.\n\n_Aho._                 He was our father's father;\nThe eldest born of man, the strongest, bravest,\nAnd most enduring:--Shall I blush for him\nFrom whom we had our being? Look upon\nOur race; behold their stature and their beauty,\nTheir courage, strength, and length of days----\n\n_Japh._                                        They are numbered.\n\n_Aho._ Be it so! but while yet their hours endure,\nI glory in my brethren and our fathers.\n\n_Japh._ My sire and race but glory in their God,\nAnah! and thou?----\n\n_Anah_.             Whate'er our God decrees,\nThe God of Seth as Cain, I must obey,\nAnd will endeavour patiently to obey.\nBut could I dare to pray in his dread hour\nOf universal vengeance (if such should be),\nIt would not be to live, alone exempt\nOf all my house. My sister! oh, my sister!\nWhat were the world, or other worlds, or all\nThe brightest future, without the sweet past--\nThy love, my father's, all the life, and all\nThe things which sprang up with me, like the stars,\nMaking my dim existence radiant with\nSoft lights which were not mine? Aholibamah!\nOh! if there should be mercy--seek it, find it:\nI abhor Death, because that thou must die.\n\n_Aho._ What, hath this dreamer, with his father's ark,\nThe bugbear he hath built to scare the world,\nShaken _my_ sister? Are _we_ not the loved\nOf Seraphs? and if we were not, must we\nCling to a son of Noah for our lives?\nRather than thus----But the enthusiast dreams\nThe worst of dreams, the fantasies engendered\nBy hopeless love and heated vigils. Who\nShall shake these solid mountains, this firm earth,\nAnd bid those clouds and waters take a shape\nDistinct from that which we and all our sires\nHave seen them wear on their eternal way?\nWho shall do this?\n\n_Japh._           He whose one word produced them.\n\n_Aho._ Who _heard_ that word?\n\n_Japh._                      The universe, which leaped\nTo life before it. Ah! smilest thou still in scorn?\nTurn to thy Seraphs: if they attest it not,\nThey are none.\n\n_Sam._        Aholibamah, own thy God!\n\n_Aho._ I have ever hailed our Maker, Samiasa,\nAs thine, and mine: a God of Love, not Sorrow.\n\n_Japh._ Alas! what else is Love but Sorrow? Even\nHe who made earth in love had soon to grieve\nAbove its first and best inhabitants.\n\n_Aho._ 'Tis said so.\n\n_Japh._              It is even so.\n\n                     _Enter_ NOAH _and_ SHEM.\n\n_Noah_.                             Japhet! What\nDost thou here with these children of the wicked?\nDread'st thou not to partake their coming doom?\n\n_Japh._ Father, it cannot be a sin to seek\nTo save an earth-born being; and behold,\nThese are not of the sinful, since they have\nThe fellowship of angels.\n\n_Noah_.                   These are they, then,\nWho leave the throne of God, to take them wives\nFrom out the race of Cain; the sons of Heaven,\nWho seek Earth's daughters for their beauty?\n\n_Aza._                                      Patriarch!\nThou hast said it.\n\n_Noah_.            Woe, woe, woe to such communion!\nHas not God made a barrier between Earth\nAnd Heaven, and limited each, kind to kind?\n\n_Sam._ Was not man made in high Jehovah's image?\nDid God not love what he had made? And what\nDo we but imitate and emulate\nHis love unto created love?\n\n_Noah_.                    I am\nBut man, and was not made to judge mankind,\nFar less the sons of God; but as our God\nHas deigned to commune with me, and reveal\n_His_ judgments, I reply, that the descent\nOf Seraphs from their everlasting seat\nUnto a perishable and perishing,\nEven on the very _eve_ of _perishing_?--world,\nCannot be good.\n\n_Aza._          What! though it were to save?\n\n_Noah_. Not ye in all your glory can redeem\nWhat he who made you glorious hath condemned.\nWere your immortal mission safety, 'twould\nBe general, not for two, though beautiful;\nAnd beautiful they are, but not the less\nCondemned.\n\n_Japh._    Oh, father! say it not.\n\n_Noah_.                            Son! son!\nIf that thou wouldst avoid their doom, forget\nThat they exist: they soon shall cease to be,\nWhile thou shalt be the sire of a new world,\nAnd better.\n\n_Japh._     Let me die with _this_, and _them_!\n\n_Noah_. Thou _shouldst_ for such a thought, but shalt not: he\nWho _can_, redeems thee.\n\n_Sam._                    And why him and thee,\nMore than what he, thy son, prefers to both?\n\n_Noah_. Ask him who made thee greater than myself\nAnd mine, but not less subject to his own\nAlmightiness. And lo! his mildest and\nLeast to be tempted messenger appears!\n\n              _Enter_ RAPHAEL _the Archangel_.\n\n_Raph._\n                Spirits!\n        Whose seat is near the throne,\n            What do ye here?\n    Is thus a Seraph's duty to be shown,\n           Now that the hour is near\n       When Earth must be alone?\n                Return!\n            Adore and burn,\n  In glorious homage with the elected \"Seven.\"\n            Your place is Heaven.\n\n_Sam._\n                 Raphael!\n  The first and fairest of the sons of God,\n            How long hath this been law,\n  That Earth by angels must be left untrod?\n            Earth! which oft saw\n  Jehovah's footsteps not disdain her sod!\n      The world he loved, and made\n      For love; and oft have we obeyed\n  His frequent mission with delighted pinions:\n      Adoring him in his least works displayed;\n  Watching this youngest star of his dominions;\n      And, as the latest birth of his great word,\n      Eager to keep it worthy of our Lord.\n            Why is thy brow severe?\n  And wherefore speak'st thou of destruction near?\n\n_Raph._\n        Had Samiasa and Azaziel been\n    In their true place, with the angelic choir,\n                Written in fire\n              They would have seen\n              Jehovah's late decree,\n  And not enquired their Maker's breath of me:\n              But ignorance must ever be\n                A part of sin;\n  And even the Spirits' knowledge shall grow less\n              As they wax proud within;\n  For Blindness is the first-born of Excess.\n    When all good angels left the world, ye stayed,\n  Stung with strange passions, and debased\n    By mortal feelings for a mortal maid:\n  But ye are pardoned thus far, and replaced\n  With your pure equals. Hence! away! away!\n                 Or stay,\n  And lose Eternity by that delay!\n\n_Aza._\n        And thou! if Earth be thus forbidden\n                In the decree\n          To us until this moment hidden,\n                Dost thou not err as we\n                  In being here?\n\n_Raph._\n  I came to call ye back to your fit sphere,\n    In the great name and at the word of God,\n  Dear, dearest in themselves, and scarce less dear--\n    That which I came to do: till now we trod\n  Together the eternal space; together\n    Let us still walk the stars. True, Earth must die!\n  Her race, returned into her womb, must wither,\n    And much which she inherits: but oh! why\n    Cannot this Earth be made, or be destroyed,\n    Without involving ever some vast void\n  In the immortal ranks? immortal still\n    In their immeasurable forfeiture.\n  Our brother Satan fell; his burning will\n    Rather than longer worship dared endure!\n    But ye who still are pure!\n  Seraphs! less mighty than that mightiest one,--\n    Think how he was undone!\n  And think if tempting man can compensate\n    For Heaven desired too late?\n          Long have I warred,\n          Long must I war\n      With him who deemed it hard\n  To be created, and to acknowledge him\n  Who midst the cherubim\n    Made him as suns to a dependent star,\n  Leaving the archangels at his right hand dim.\n      I loved him--beautiful he was: oh, Heaven!\n  Save _his_ who made, what beauty and what power\n  Was ever like to Satan's! Would the hour\n      In which he fell could ever be forgiven!\n  The wish is impious: but, oh ye!\n  Yet undestroyed, be warned! Eternity\n    With him, or with his God, is in your choice:\n  He hath not tempted you; he cannot tempt\n  The angels, from his further snares exempt:\n    But man hath listened to his voice,\n  And ye to woman's--beautiful she is,\n  The serpent's voice less subtle than her kiss.\n  The snake but vanquished dust; but she will draw\n  A second host from heaven, to break Heaven's law.\n                Yet, yet, oh fly!\n                Ye cannot die;\n                But they\n                Shall pass away,\n  While ye shall fill with shrieks the upper sky\n      For perishable clay,\n  Whose memory in your immortality\n      Shall long outlast the Sun which gave them day.\n  Think how your essence differeth from theirs\n  In all but suffering! why partake\n  The agony to which they must be heirs--\n  Born to be ploughed with years, and sown with cares,\n    And reaped by Death, lord of the human soil?\n  Even had their days been left to toil their path\n  Through time to dust, unshortened by God's wrath,\n    Still they are Evil's prey, and Sorrow's spoil.\n\n_Aho._\n                Let them fly!\n  I hear the voice which says that all must die,\n  Sooner than our white-bearded patriarchs died;\n                And that on high\n              An ocean is prepared,\n                While from below\n  The deep shall rise to meet Heaven's overflow--\n              Few shall be spared,\n  It seems; and, of that few, the race of Cain\n  Must lift their eyes to Adam's God in vain.\n              Sister! since it is so,\n            And the eternal Lord\n          In vain would be implored\n      For the remission of one hour of woe,\n  Let us resign even what we have adored,\n  And meet the wave, as we would meet the sword,\n      If not unmoved, yet undismayed,\n  And wailing less for us than those who shall\n  Survive in mortal or immortal thrall,\n      And, when the fatal waters are allayed,\n  Weep for the myriads who can weep no more.\n  Fly, Seraphs! to your own eternal shore,\n  Where winds nor howl, nor waters roar.\n        Our portion is to die,\n      And yours to live for ever:\n    But which is best, a dead Eternity,\n  Or living, is but known to the great Giver.\n        Obey him, as we shall obey;\n    I would not keep this life of mine in clay\n        An hour beyond his will;\n  Nor see ye lose a portion of his grace,\n  For all the mercy which Seth's race\n              Find still.\n                  Fly!\n    And as your pinions bear ye back to Heaven,\n  Think that my love still mounts with thee on high,\n                Samiasa!\n  And if I look up with a tearless eye,\n    'Tis that an angel's bride disdains to weep,--\n    Farewell! Now rise, inexorable deep!\n\n_Anah_.\n                And must we die?\n              And must I lose thee too,\n                  Azaziel?\n            Oh, my heart! my heart!\n              Thy prophecies were true!\n            And yet thou wert so happy too!\n    The blow, though not unlocked for, falls as new:\n                But yet depart!\n                    Ah! why?\n        Yet let me not retain thee--fly!\n     My pangs can be but brief; but thine would be\n     Eternal, if repulsed from Heaven for me.\n         Too much already hast thou deigned\n             To one of Adam's race!\n  Our doom is sorrow: not to us alone,\n    But to the Spirits who have not disdained\n  To love us, cometh anguish with disgrace.\n  The first who taught us knowledge hath been hurled\n    From his once archangelic throne\n    Into some unknown world:\n         And thou, Azaziel! No--\n         Thou shall not suffer woe\n  For me. Away! nor weep!\n    Thou canst not weep; but yet\n    May'st suffer more, not weeping: then forget\n  Her, whom the surges of the all-strangling deep\n  Can bring no pang like this. Fly! fly!\n  Being gone, 'twill be less difficult to die.\n\n_Japh._\n            Oh say not so!\n          Father! and thou, archangel, thou!\n    Surely celestial mercy lurks below\n  That pure severe serenity of brow:\n    Let them not meet this sea without a shore,\n    Save in our ark, or let me be no more!\n\n_Noah_.\n      Peace, child of passion, peace!\n  If not within thy heart, yet with thy tongue\n      Do God no wrong!\n  Live as he wills it--die, when he ordains,\n  A righteous death, unlike the seed of Cain's.\n    Cease, or be sorrowful in silence; cease\n  To weary Heaven's ear with thy selfish plaint.\n    Wouldst thou have God commit a sin for thee?\n            Such would it be\n         To alter his intent\n  For a mere mortal sorrow. Be a man!\n  And bear what Adam's race must bear, and can.\n\n_Japh._\n      Aye, father! but when they are gone,\n        And we are all alone,\n  Floating upon the azure desert, and\n  The depth beneath us hides our own dear land,\n    And dearer, silent friends and brethren, all\n    Buried in its immeasurable breast,\n  Who, who, our tears, our shrieks, shall then command?\n    Can we in Desolation's peace have rest?\n      Oh God! be thou a God, and spare\n        Yet while 'tis time!\n      Renew not Adam's fall:\n    Mankind were then but twain,\n  But they are numerous now as are the waves\n        And the tremendous rain,\n  Whose drops shall be less thick than would their graves,\n    Were graves permitted to the seed of Cain.\n\n_Noah_. Silence, vain boy! each word of thine's a crime.\nAngel! forgive this stripling's fond despair.\n\n_Raph._ Seraphs! these mortals speak in passion: Ye!\nWho are, or should be, passionless and pure,\nMay now return with me.\n\n_Sam._                  It may not be:\nWe have chosen, and will endure.\n\n_Raph._ Say'st thou?\n\n_Aza._               He hath said it, and I say, Amen!\n\n_Raph._\n            Again!\n      Then from this hour,\n      Shorn as ye are of all celestial power,\n  And aliens from your God,\n            Farewell!\n\n_Japh._             Alas! where shall they dwell?\nHark, hark! Deep sounds, and deeper still,\n  Are howling from the mountain's bosom:\nThere's not a breath of wind upon the hill,\n  Yet quivers every leaf, and drops each blossom:\nEarth groans as if beneath a heavy load.\n\n_Noah_. Hark, hark! the sea-birds cry!\n  In clouds they overspread the lurid sky,\nAnd hover round the mountain, where before\n  Never a white wing, wetted by the wave,\n      Yet dared to soar,\n  Even when the waters waxed too fierce to brave.\n      Soon it shall be their only shore,\n      And then, no more!\n\n_Japh._ The sun! the sun!\nHe riseth, but his better light is gone;\n        And a black circle, bound\n        His glaring disk around,\nProclaims Earth's last of summer days hath shone!\n      The clouds return into the hues of night,\nSave where their brazen-coloured edges streak\nThe verge where brighter morns were wont to break.\n\n_Noah_. And lo! yon flash of light,\nThe distant thunder's harbinger, appears!\n      It cometh! hence, away!\nLeave to the elements their evil prey!\nHence to where our all-hallowed ark uprears\n          Its safe and wreckless sides!\n\n_Japh._ Oh, father, stay!\nLeave not my Anah to the swallowing tides!\n\n_Noah_. Must we not leave all life to such? Begone!\n\n_Japh._                 Not I.\n\n_Noah_.                 Then die\n                       With them!\nHow darest thou look on that prophetic sky,\nAnd seek to save what all things now condemn,\n        In overwhelming unison\n              With just Jehovah's wrath!\n\n_Japh._ Can rage and justice join in the same path?\n\n_Noah_. Blasphemer! darest thou murmur even now!\n\n_Raph._ Patriarch, be still a father! smooth thy brow:\nThy son, despite his folly, shall not sink:\nHe knows not what he says, yet shall not drink\n  With sobs the salt foam of the swelling waters;\nBut be, when passion passeth, good as thou,\n  Nor perish like Heaven's children with man's daughters.\n\n_Aho._ The tempest cometh; heaven and earth unite\n    For the annihilation of all life.\n    Unequal is the strife\nBetween our strength and the Eternal Might!\n\n_Sam._ But ours is with thee; we will bear ye far\n  To some untroubled star,\nWhere thou, and Anah, shalt partake our lot:\n  And if thou dost not weep for thy lost earth,\nOur forfeit Heaven shall also be forgot.\n\n_Anah_. Oh! my dear father's tents, my place of birth,\nAnd mountains, land, and woods! when ye are not,\nWho shall dry up my tears?\n\n_Aza._                    Thy spirit-lord.\nFear not; though we are shut from Heaven,\nYet much is ours, whence we can not be driven.\n\n_Raph._ Rebel! thy words are wicked, as thy deeds\nShall henceforth be but weak: the flaming sword,\nWhich chased the first-born out of Paradise,\nStill flashes in the angelic hands.\n\n_Aza._ It cannot slay us: threaten dust with death,\nAnd talk of weapons unto that which bleeds.\nWhat are thy swords in our immortal eyes?\n\n_Raph._ The moment cometh to approve thy strength;\n          And learn at length\nHow vain to war with what thy God commands:\nThy former force was in thy faith.\n\n               _Enter Mortals, flying for refuge_.\n\n                       _Chorus of Mortals_.\n\nThe heavens and earth are mingling--God! oh God!\nWhat have we done? Yet spare!\nHark! even the forest beasts howl forth their prayer!\n  The dragon crawls from out his den,\n  To herd, in terror, innocent with men;\nAnd the birds scream their agony through air.\nYet, yet, Jehovah! yet withdraw thy rod\nOf wrath, and pity thine own world's despair!\nHear not man only but all nature plead!\n\n_Raph._ Farewell, thou earth! ye wretched sons of clay,\nI cannot, must not, aid you. 'Tis decreed!\n                                                      [_Exit_ RAPHAEL.\n\n_Japh._ Some clouds sweep on as vultures for their prey,\nWhile others, fixed as rocks, await the word\nAt which their wrathful vials shall be poured.\nNo azure more shall robe the firmament,\n  Nor spangled stars be glorious: Death hath risen:\nIn the Sun's place a pale and ghastly glare\nHath wound itself around the dying air.\n\n_Aza._ Come, Anah! quit this chaos-founded prison,\nTo which the elements again repair,\nTo turn it into what it was: beneath\nThe shelter of these wings thou shall be safe,\nAs was the eagle's nestling once within\nIts mother's.--Let the coming chaos chafe\nWith all its elements! Heed not their din!\nA brighter world than this, where thou shalt breathe\nEthereal life, will we explore:\nThese darkened clouds are not the only skies.\n\n                        [AZAZIEL _and_ SAMIASA _fly off, and disappear\n                             with_ ANAH _and_ AHOLIBAMAH.\n\n_Japh._ They are gone! They have disappeared amidst the roar\nOf the forsaken world; and never more,\nWhether they live, or die with all Earth's life,\nNow near its last, can aught restore\nAnah unto these eyes.\n\n                       _Chorus of Mortals_.\n\nOh son of Noah! mercy on thy kind!\nWhat! wilt thou leave us all--all--_all_ behind?\nWhile safe amidst the elemental strife,\nThou sitt'st within thy guarded ark?\n\n_A Mother_ (_offering her infant to_ JAPHET).\n      Oh, let this child embark!\n      I brought him forth in woe,\n           But thought it joy\n   To see him to my bosom clinging so.\n           Why was he born?\n           What hath he done--\n           My unweaned son--\n    To move Jehovah's wrath or scorn?\n    What is there in this milk of mine, that Death\n      Should stir all Heaven and Earth up to destroy\n               My boy,\n    And roll the waters o'er his placid breath?\n    Save him, thou seed of Seth!\n    Or curséd be--with him who made\n    Thee and thy race, for which we are betrayed!\n\n_Japh._ Peace! 'tis no hour for curses, but for prayer!\n\n                       _Chorus of Mortals_.\n\n                For prayer!!!\n                And where\n            Shall prayer ascend,\nWhen the swoln clouds unto the mountains bend\n                And burst,\nAnd gushing oceans every barrier rend,\n  Until the very deserts know no thirst?\n                Accursed\nBe he who made thee and thy sire!\nWe deem our curses vain; we must expire;\n        But as we know the worst,\nWhy should our hymns be raised, our knees be bent\nBefore the implacable Omnipotent,\nSince we must fall the same?\nIf he hath made Earth, let it be his shame,\n  To make a world for torture.--Lo! they come,\nThe loathsome waters, in their rage!\n  And with their roar make wholesome nature dumb!\n  The forest's trees (coeval with the hour\nWhen Paradise upsprung,\n  Ere Eve gave Adam knowledge for her dower,\nOr Adam his first hymn of slavery sung),\n  So massy, vast, yet green in their old age,\n          Are overtopped,\nTheir summer blossoms by the surges lopped,\nWhich rise, and rise, and rise.\nVainly we look up to the lowering skies--\n  They meet the seas,\nAnd shut out God from our beseeching eyes.\n  Fly, son of Noah, fly! and take thine ease,\nIn thine allotted ocean-tent;\nAnd view, all floating o'er the element,\nThe corpses of the world of thy young days:\n        Then to Jehovah raise\n        Thy song of praise!\n\n_A Mortal_.\n            Blesséd are the dead\n            Who die in the Lord!\nAnd though the waters be o'er earth outspread,\n            Yet, as _his_ word,\n            Be the decree adored!\nHe gave me life--he taketh but\n  The breath which is his own:\nAnd though these eyes should be for ever shut,\n  Nor longer this weak voice before his throne\n  Be heard in supplicating tone,\n          Still blessed be the Lord,\n            For what is past,\n            For that which is:\n            For all are his,\n            From first to last--\nTime--Space--Eternity--Life--Death--\n  The vast known and immeasurable unknown.\nHe made, and can unmake;\n  And shall I, for a little gasp of breath,\nBlaspheme and groan?\n  No; let me die, as I have lived, in faith,\nNor quiver, though the Universe may quake!\n\n                       _Chorus of Mortals_.\n\n            Where shall we fly?\n            Not to the mountains high;\nFor now their torrents rush, with double roar,\n  To meet the Ocean, which, advancing still,\n  Already grasps each drowning hill,\nNor leaves an unsearched cave.\n\n                         _Enter a Woman_.\n\n_Woman_.\n      Oh, save me, save!\nOur valley is no more:\n  My father and my father's tent,\nMy brethren and my brethren's herds,\n  The pleasant trees that o'er our noonday bent,\nAnd sent forth evening songs from sweetest birds,\nThe little rivulet which freshened all\n      Our pastures green,\n      No more are to be seen.\nWhen to the mountain cliff I climbed this morn,\n  I turned to bless the spot,\n  And not a leaf appeared about to fall;--\n  And now they are not!--\nWhy was I born?\n\n_Japh._\n              To die! in youth to die!\n    And happier in that doom,\n    Than to behold the universal tomb,\n              Which I\n    Am thus condemned to weep above in vain.\n    Why, when all perish, why must I remain?\n\n                [_The waters rise; Men fly in every direction; many\n                    are overtaken by the waves: the Chorus of\n                    Mortals disperses in search of safety up the\n                    mountains:_ JAPHET _remains upon a rock, while\n                    the Ark floats towards him in the distance_.",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/Heaven%20and%20Earth",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-27T11:29:12.664Z",
+      "hash": "841599b99d26eac0"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399932312-0",
+      "type": "art",
+      "title": "Nine Landscapes (Study of Forms in Space)",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1890s · Drawings",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1890s · Drawings",
+      "image": {
+        "src": "data/images/5f852c16424336c5.jpg",
+        "alt": "Nine Landscapes (Study of Forms in Space)",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/126886",
+        "trustTier": "encyclopedic",
+        "date": "1890s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "landscape",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-27T11:29:12.163Z",
+      "hash": "3954788c3dad6724"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399941500-0",
+      "type": "art",
+      "title": "Study of landscape",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1850s · Drawings",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1850s · Drawings",
+      "image": {
+        "src": "data/images/d5e3ccca80871aee.jpg",
+        "alt": "Study of landscape",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/144721",
+        "trustTier": "encyclopedic",
+        "date": "1850s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "landscape",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-27T11:29:12.163Z",
+      "hash": "683cef87b7d24ec6"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399891039-0",
+      "type": "art",
+      "title": "Landscape",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1900s · Drawings",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1900s · Drawings",
+      "image": {
+        "src": "data/images/123626e5d0e15248.jpg",
+        "alt": "Landscape",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/12876",
+        "trustTier": "encyclopedic",
+        "date": "1900s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "landscape",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-27T11:29:12.163Z",
+      "hash": "0e3aa7b1f939de73"
+    },
+    {
+      "id": "met:69895",
+      "type": "art",
+      "title": "Gift Cloth (Fukusa)",
+      "summary": "Unknown artist · 18th century · Silk, metallic thread",
+      "body": "Unknown artist · 18th century · Silk, metallic thread\nAnonymous Gift, 1949\nAsian Art",
+      "image": {
+        "src": "data/images/4aa829fe92c85503.jpg",
+        "alt": "Gift Cloth (Fukusa)",
+        "credit": "The Met · Anonymous Gift, 1949"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/69895",
+        "trustTier": "encyclopedic",
+        "date": "18th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "bird",
+        "textiles-woven"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-27T11:29:10.664Z",
+      "hash": "0cbe8843084f7bf9"
+    },
+    {
+      "id": "met:359067",
+      "type": "art",
+      "title": "Broadside with 48 scenes relating to the story of the prodigal son",
+      "summary": "Juan Llorens · ca. 1860–70 · Wood engraving",
+      "body": "Juan Llorens · ca. 1860–70 · Wood engraving\nMax G. Wildnauer Fund, 1978\nDrawings and Prints",
+      "image": {
+        "src": "data/images/6505bedbc452351f.jpg",
+        "alt": "Broadside with 48 scenes relating to the story of the prodigal son",
+        "credit": "The Met · Max G. Wildnauer Fund, 1978"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/359067",
+        "trustTier": "encyclopedic",
+        "author": "Juan Llorens",
+        "date": "ca. 1860–70"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "bird",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-27T11:29:10.551Z",
+      "hash": "dcb2ce0f52baf39f"
+    },
+    {
+      "id": "met:307910",
+      "type": "art",
+      "title": "Band Fragment with Tufts",
+      "summary": "Unknown artist · 9th–13th century · Camelid hair, cotton",
+      "body": "Unknown artist · 9th–13th century · Camelid hair, cotton\nRogers Fund, 1928\nThe Michael C. Rockefeller Wing",
+      "image": {
+        "src": "data/images/54fe71a8653d6cab.jpg",
+        "alt": "Band Fragment with Tufts",
+        "credit": "The Met · Rogers Fund, 1928"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/307910",
+        "trustTier": "encyclopedic",
+        "date": "9th–13th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "bird",
+        "textiles-woven"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-27T11:29:10.401Z",
+      "hash": "4fb7df9c657c4429"
+    },
+    {
+      "id": "apod:2017-02-01",
+      "type": "space",
+      "title": "Four Planets Orbiting Star HR 8799",
+      "summary": "Does life exist outside our Solar System? To help find out, NASA has created the Nexus for Exoplanet System Science (NExSS) to better locate and study distant star systems that hold hope of harboring living inhabitants. A new observational result from a NExSS collaboration is the featured time-lapse video of recently…",
+      "body": "Does life exist outside our Solar System? To help find out, NASA has created the Nexus for Exoplanet System Science (NExSS) to better locate and study distant star systems that hold hope of harboring living inhabitants. A new observational result from a NExSS collaboration is the featured time-lapse video of recently discovered planets orbiting the star HR 8799. The images for the video were taken over seven years from the Keck Observatory in Hawaii. Four exoplanets appear as white dots partially circling their parent star, purposefully occluded in the center. The central star HR 8799 is slightly larger and more massive than our Sun, while each of the planets is thought to be a few times the mass of Jupiter. The HR 8799 system lies about 130 light years away toward the constellation of the Flying Horse (Pegasus). Research will now continue on whether any known or potential planets -- or even moons of these planets -- in the HR 8799 star system could harbor life. Open Science: Browse 1,400+ codes in the Astrophysics Source Code Library",
+      "image": {
+        "src": "data/images/7ee892c7b90fdd43.jpg",
+        "alt": "Four Planets Orbiting Star HR 8799",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap170201.html",
+        "trustTier": "encyclopedic",
+        "date": "2017-02-01"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:09.632Z",
+      "hash": "770ec67817c2d5bb"
+    },
+    {
+      "id": "apod:2019-11-22",
+      "type": "space",
+      "title": "Orion Rising",
+      "summary": "Looking toward the east in the early hours of a September morning this single exposure made with tripod and camera captured a simple visual experience. Rising above the tree-lined slope are familiar stars in planet Earth's northern night and the constellation Orion the Hunter. Brighter stars marking the celestial…",
+      "body": "Looking toward the east in the early hours of a September morning this single exposure made with tripod and camera captured a simple visual experience. Rising above the tree-lined slope are familiar stars in planet Earth's northern night and the constellation Orion the Hunter. Brighter stars marking the celestial Hunter's shoulder (Betelgeuse), foot (Rigel), belt, and sword are clearly reflected in the calm waters from northern Latvia's Vitrupe river. Of course, winter is coming to planet Earth's northern hemisphere. By then Orion and this beautiful starry vista will be seen rising in early evening skies.",
+      "image": {
+        "src": "data/images/05ab5c3be9c61936.jpg",
+        "alt": "Orion Rising",
+        "credit": "© Vitalij Kopa"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap191122.html",
+        "trustTier": "encyclopedic",
+        "date": "2019-11-22"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:09.632Z",
+      "hash": "8b45d141cdce7097"
+    },
+    {
+      "id": "apod:2015-08-16",
+      "type": "space",
+      "title": "M1: The Crab Nebula from Hubble",
+      "summary": "This is the mess that is left when a star explodes. The Crab Nebula, the result of a supernova seen in 1054 AD, is filled with mysterious filaments. The filaments are not only tremendously complex, but appear to have less mass than expelled in the original supernova and a higher speed than expected from a free…",
+      "body": "This is the mess that is left when a star explodes. The Crab Nebula, the result of a supernova seen in 1054 AD, is filled with mysterious filaments. The filaments are not only tremendously complex, but appear to have less mass than expelled in the original supernova and a higher speed than expected from a free explosion. The featured image, taken by the Hubble Space Telescope, is presented in three colors chosen for scientific interest. The Crab Nebula spans about 10 light-years. In the nebula's very center lies a pulsar: a neutron star as massive as the Sun but with only the size of a small town. The Crab Pulsar rotates about 30 times each second. Students (of all ages): See free astronomy lectures online",
+      "image": {
+        "src": "data/images/34f87e77c478cc76.jpg",
+        "alt": "M1: The Crab Nebula from Hubble",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap150816.html",
+        "trustTier": "encyclopedic",
+        "date": "2015-08-16"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:09.631Z",
+      "hash": "c74bd92a34da7cc7"
+    },
+    {
+      "id": "apod:2014-09-24",
+      "type": "space",
+      "title": "The Lagoon Nebula in Stars Dust and Gas",
+      "summary": "The large majestic Lagoon Nebula is home for many young stars and hot gas. Spanning 100 light years across while lying only about 5000 light years distant, the Lagoon Nebula is so big and bright that it can be seen without a telescope toward the constellation of Sagittarius. Many bright stars are visible from NGC…",
+      "body": "The large majestic Lagoon Nebula is home for many young stars and hot gas. Spanning 100 light years across while lying only about 5000 light years distant, the Lagoon Nebula is so big and bright that it can be seen without a telescope toward the constellation of Sagittarius. Many bright stars are visible from NGC 6530, an open cluster that formed in the nebula only several million years ago. The greater nebula, also known as M8 and NGC 6523, is named \"Lagoon\" for the band of dust seen to the left of the open cluster's center. A bright knot of gas and dust in the nebula's center is known as the Hourglass Nebula. The featured picture is a newly processed panorama of M8, capturing five times the diameter of the Moon. Star formation continues in the Lagoon Nebula as witnessed by the many globules that exist there. APOD Wall Calendar: Nebulas and Star Clusters",
+      "image": {
+        "src": "data/images/fe4c8d559c03d4b7.jpg",
+        "alt": "The Lagoon Nebula in Stars Dust and Gas",
+        "credit": "© Remus Chua (Celestial Portraits)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap140924.html",
+        "trustTier": "encyclopedic",
+        "date": "2014-09-24"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:09.631Z",
+      "hash": "af4f055220c1ec06"
+    },
+    {
+      "id": "apod:2025-03-10",
+      "type": "space",
+      "title": "NGC 1499: The California Nebula",
+      "summary": "Could Queen Calafia's mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way's Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the…",
+      "body": "Could Queen Calafia's mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way's Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. On the featured image, the most prominent glow of the California Nebula is the red light characteristic of hydrogen atoms recombining with long lost electrons, stripped away (ionized) by energetic starlight. The star most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish Xi Persei just to the right of the nebula. A regular target for astrophotographers, the California Nebula can be spotted with a wide-field telescope under a dark sky toward the constellation of Perseus, not far from the Pleiades. Explore Your Universe: Random APOD Generator",
+      "image": {
+        "src": "data/images/f06965013e84edf9.jpg",
+        "alt": "NGC 1499: The California Nebula",
+        "credit": "© Toni Fabiani Mendez"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap250310.html",
+        "trustTier": "encyclopedic",
+        "date": "2025-03-10"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:09.631Z",
+      "hash": "713c0c9caa840552"
+    },
+    {
+      "id": "onthisday:07-27:1953:979571f1226e2dc6",
+      "type": "history",
+      "title": "1953: Korean Armistice Agreement",
+      "summary": "An armistice was signed to end hostilities in the Korean War, officially making the division of Korea indefinite by creating a 4 km wide (2.5 mi) demilitarized zone across the Korean Peninsula.",
+      "body": "An armistice was signed to end hostilities in the Korean War, officially making the division of Korea indefinite by creating a 4 km wide (2.5 mi) demilitarized zone across the Korean Peninsula.",
+      "image": {
+        "src": "data/images/397788c0ac565e27.jpg",
+        "alt": "Korean Armistice Agreement",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Korean_Armistice_Agreement",
+        "trustTier": "encyclopedic",
+        "date": "07-27"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:08.837Z",
+      "hash": "7ca6822938fb1299",
+      "expires": "2026-07-30T11:29:08.837Z"
+    },
+    {
+      "id": "onthisday:07-27:1225:3e4f50464e93bb58",
+      "type": "history",
+      "title": "1225: Gotland",
+      "summary": "Saint Mary's Church on Gotland, later to become Visby Cathedral (pictured), was consecrated.",
+      "body": "Saint Mary's Church on Gotland, later to become Visby Cathedral (pictured), was consecrated.",
+      "image": {
+        "src": "data/images/31b0aa4994fa1d6f.png",
+        "alt": "Gotland",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Gotland",
+        "trustTier": "encyclopedic",
+        "date": "07-27"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:08.837Z",
+      "hash": "bac37a19a080595d",
+      "expires": "2026-07-30T11:29:08.837Z"
+    },
+    {
+      "id": "onthisday:07-27:1214:c6337cbf4e500ac3",
+      "type": "history",
+      "title": "1214: Philip II of France",
+      "summary": "Philip II of France decisively won the Battle of Bouvines, the conclusive battle of the 1213–1214 Anglo-French War.",
+      "body": "Philip II of France decisively won the Battle of Bouvines, the conclusive battle of the 1213–1214 Anglo-French War.",
+      "image": {
+        "src": "data/images/694d2949ed6ddc04.jpg",
+        "alt": "Philip II of France",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Philip_II_of_France",
+        "trustTier": "encyclopedic",
+        "date": "07-27"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:08.837Z",
+      "hash": "0a948130099dfeb2",
+      "expires": "2026-07-30T11:29:08.837Z"
+    },
+    {
+      "id": "wikipedia:5312278",
+      "type": "wiki",
+      "title": "Hadley Wood",
+      "summary": "Hadley Wood is suburb of north London, close to the border with Hertfordshire. It is part of the London Borough of Enfield, 11 miles (17.7 km) north of Charing Cross, close to Chipping Barnet.",
+      "body": "Hadley Wood is suburb of north London, close to the border with Hertfordshire. It is part of the London Borough of Enfield, 11 miles (17.7 km) north of Charing Cross, close to Chipping Barnet.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hadley_Wood",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:08.091Z",
+      "hash": "572d99eec9d659b1"
+    },
+    {
+      "id": "wikipedia:43971368",
+      "type": "wiki",
+      "title": "9 Elefants",
+      "summary": "9 Elefants is a 2014 puzzle game developed by the French studio Microids and published by Anuman. It was released on April 24, 2014, for iOS and Android and has been met with a negative reception.",
+      "body": "9 Elefants is a 2014 puzzle game developed by the French studio Microids and published by Anuman. It was released on April 24, 2014, for iOS and Android and has been met with a negative reception.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/9_Elefants",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:07.983Z",
+      "hash": "4eb0de090a1cd10f"
+    },
+    {
+      "id": "wikipedia:1888186",
+      "type": "wiki",
+      "title": "Louisiana IceGators (ECHL)",
+      "summary": "The Louisiana IceGators were an ECHL team based in Lafayette, Louisiana, from 1995 until the end of the 2004–05 season. The team played its home games at the Cajundome and were last an affiliate of the National Hockey League's Minnesota Wild and the American Hockey League's Houston Aeros.",
+      "body": "The Louisiana IceGators were an ECHL team based in Lafayette, Louisiana, from 1995 until the end of the 2004–05 season. The team played its home games at the Cajundome and were last an affiliate of the National Hockey League's Minnesota Wild and the American Hockey League's Houston Aeros.",
+      "image": {
+        "src": "data/images/14485295c77bcf8f.png",
+        "alt": "Louisiana IceGators (ECHL)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Louisiana_IceGators_(ECHL)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:07.887Z",
+      "hash": "0bcc9ebc79fa65d1"
+    },
+    {
+      "id": "wikipedia:50020948",
+      "type": "wiki",
+      "title": "Soğuksu National Park",
+      "summary": "Soğuksu National Park, established on February 19, 1959, is a national park in central Anatolia, Turkey. It is located in the Kızılcahamam district of Ankara Province.",
+      "body": "Soğuksu National Park, established on February 19, 1959, is a national park in central Anatolia, Turkey. It is located in the Kızılcahamam district of Ankara Province.",
+      "image": {
+        "src": "data/images/86aa8db002c4ec51.jpg",
+        "alt": "Soğuksu National Park",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/So%C4%9Fuksu_National_Park",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-27T11:29:07.804Z",
+      "hash": "adc0cd3d4c1f4e60"
+    },
     {
       "id": "chess:FAlmo",
       "type": "chess",
@@ -11303,1170 +12458,6 @@
       "difficulty": 3,
       "fetchedAt": "2026-07-17T10:02:26.560Z",
       "hash": "d31aea8d8589d81a"
-    },
-    {
-      "id": "article:ca5cf2cded8b2bdf",
-      "type": "article",
-      "title": "Alice Doesn’t Live Here Anymore: At Home in the World",
-      "summary": "One of the funniest and most affecting scenes in 1970s Hollywood cinema is also one of the most quietly radical—no small feat in a decade of movies marked by wiggy experimentation, explosions of brutal and cathartic violence, and shaggy new forms of storytelling. In that context, this scene is…",
-      "body": "One of the funniest and most affecting scenes in 1970s Hollywood cinema is also one of the most quietly radical—no small feat in a decade of movies marked by wiggy experimentation, explosions of brutal and cathartic violence, and shaggy new forms of storytelling. In that context, this scene is almost austere: it involves a dress, a hairdo, and most important, an actress.In Martin Scorsese’s 1974 comedy-romance Alice Doesn’t Live Here Anymore, Ellen Burstyn plays Alice, a freshly minted widow and single mother, thirty-five years old and tentatively ready for a new life. She goes shopping for…",
-      "image": {
-        "src": "data/images/c464b7a7d7e3b77a.jpg",
-        "alt": "Alice Doesn’t Live Here Anymore: At Home in the World",
-        "credit": "The Current (Criterion)"
-      },
-      "source": {
-        "name": "The Current (Criterion)",
-        "url": "https://www.criterion.com/current/posts/9219-alice-doesn-t-live-here-anymore-at-home-in-the-world",
-        "trustTier": "publication",
-        "author": "Stephanie Zacharek",
-        "date": "Tue, 14 Jul 2026 08:56:0"
-      },
-      "tags": [
-        "film",
-        "essay",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-17T10:02:24.034Z",
-      "hash": "ca5cf2cded8b2bdf"
-    },
-    {
-      "id": "article:2f63d88895a57b19",
-      "type": "article",
-      "title": "Truth Over Feelings: Inside Opendoor’s Massive Turnaround",
-      "summary": "No company decides to fail. It drifts there one comfortable lie at a time. Kaz Nejatian took over Opendoor when it was just months away from bankruptcy and set out to rebuild it from the ground up. What happened next shocked everyone. Public Release: July 21. Members have access now.Join us. Most…",
-      "body": "No company decides to fail. It drifts there one comfortable lie at a time. Kaz Nejatian took over Opendoor when it was just months away from bankruptcy and set out to rebuild it from the ground up. What happened next shocked everyone. Public Release: July 21. Members have access now.Join us. Most turnaround stories are … The post Truth Over Feelings: Inside Opendoor’s Massive Turnaround appeared first on Farnam Street.",
-      "source": {
-        "name": "Farnam Street",
-        "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/",
-        "trustTier": "community",
-        "author": "Vicky",
-        "date": "Thu, 16 Jul 2026 09:50:0"
-      },
-      "tags": [
-        "ideas",
-        "psychology",
-        "decision-making"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-17T10:02:18.247Z",
-      "hash": "2f63d88895a57b19"
-    },
-    {
-      "id": "article:d33b4355e14dedb5",
-      "type": "article",
-      "title": "Some People Are Better at Eavesdropping Than Others",
-      "summary": "New study shows what happens in our brains as we track multiple conversations The post Some People Are Better at Eavesdropping Than Others appeared first on Nautilus.",
-      "body": "New study shows what happens in our brains as we track multiple conversations The post Some People Are Better at Eavesdropping Than Others appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/b6e132c300357d2f.png",
-        "alt": "Some People Are Better at Eavesdropping Than Others",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/some-people-are-better-at-eavesdropping-than-others-1282751/",
-        "trustTier": "publication",
-        "author": "Jake Currie",
-        "date": "Thu, 16 Jul 2026 21:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "neuroscience"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-17T10:02:18.090Z",
-      "hash": "d33b4355e14dedb5"
-    },
-    {
-      "id": "article:1cc31a6a7a9de827",
-      "type": "article",
-      "title": "When Monkeys Enter the Uncanny Valley",
-      "summary": "3-D avatars of macaques fool their flesh-and-blood counterparts—up to point The post When Monkeys Enter the Uncanny Valley appeared first on Nautilus.",
-      "body": "3-D avatars of macaques fool their flesh-and-blood counterparts—up to point The post When Monkeys Enter the Uncanny Valley appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/217782ed820390c7.png",
-        "alt": "When Monkeys Enter the Uncanny Valley",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/when-monkeys-enter-the-uncanny-valley-1282747/",
-        "trustTier": "publication",
-        "author": "Devin Reese",
-        "date": "Thu, 16 Jul 2026 20:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "zoology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-17T10:02:18.090Z",
-      "hash": "1cc31a6a7a9de827"
-    },
-    {
-      "id": "article:f3c3266d100f12bc",
-      "type": "article",
-      "title": "The Wild Iris: Nobel Laureate Louise Glück on the Door at the End of Your Suffering",
-      "summary": "\"Whatever returns from oblivion returns to find a voice.\"",
-      "body": "\"Whatever returns from oblivion returns to find a voice.\"",
-      "image": {
-        "src": "data/images/1b1261506f19b615.jpg",
-        "alt": "The Wild Iris: Nobel Laureate Louise Glück on the Door at the End of Your Suffering",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/07/16/louse-gluck-wild-iris/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Thu, 16 Jul 2026 16:20:0"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "psychology",
-        "books",
-        "louise glück",
-        "poetry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-17T10:02:17.557Z",
-      "hash": "f3c3266d100f12bc"
-    },
-    {
-      "id": "article:49d21dc4a8181fe7",
-      "type": "article",
-      "title": "AI may sharpen what we do. But what manner of people will we become? K. Anthony Appiah on LLMs and morality",
-      "summary": "AI may sharpen what we do. But what manner of people will we become? K. Anthony Appiah on LLMs and morality",
-      "body": "AI may sharpen what we do. But what manner of people will we become? K. Anthony Appiah on LLMs and morality",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://humanistreview.ai/issue-1/appiah-ai-moral-character/",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-17T10:02:16.194Z",
-      "hash": "49d21dc4a8181fe7"
-    },
-    {
-      "id": "greek:514725f5fd86f09f",
-      "type": "greek",
-      "title": "ἐγώ",
-      "summary": "ἐγώ — “I” · pronoun",
-      "body": "Note: 1st person singular nominative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%90%CE%B3%CF%8E#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "pronoun",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-17T10:02:13.840Z",
-      "hash": "514725f5fd86f09f"
-    },
-    {
-      "id": "poetry:eb1c78ee8a213c98",
-      "type": "poem",
-      "title": "To Mary Who Died in This Opinion",
-      "summary": "Maiden, quench the glare of sorrow\nStruggling in thine haggard eye:\nFirmness dare to borrow\nFrom the wreck of destiny;",
-      "body": "Maiden, quench the glare of sorrow\nStruggling in thine haggard eye:\nFirmness dare to borrow\nFrom the wreck of destiny;\nFor the ray morn's bloom revealing\nCan never boast so bright an hue\nAs that which mocks concealing,\nAnd sheds its loveliest light on you.\n\nYet is the tie departed\nWhich bound thy lovely soul to bliss?\nHas it left thee broken-hearted\nIn a world so cold as this?\nYet, though, fainting fair one,\nSorrow's self thy cup has given,\nDream thou'lt meet thy dear one,\nNever more to part, in Heaven.\n\nExistence would I barter\nFor a dream so dear as thine,\nAnd smile to die a martyr\nOn affection's bloodless shrine.\nNor would I change for pleasure\nThat withered hand and ashy cheek,\nIf my heart enshrined a treasure\nSuch as forces thine to break.",
-      "source": {
-        "name": "Percy Bysshe Shelley · PoetryDB",
-        "url": "https://poetrydb.org/title/To%20Mary%20Who%20Died%20in%20This%20Opinion",
-        "trustTier": "community",
-        "author": "Percy Bysshe Shelley"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-17T10:02:13.839Z",
-      "hash": "eb1c78ee8a213c98"
-    },
-    {
-      "id": "poetry:d33c4d101585c1b6",
-      "type": "poem",
-      "title": "155. Epistle to Mrs. Scott of Wauchope House",
-      "summary": "GUDEWIFE,I MIND it weel in early date,\nWhen I was bardless, young, and blate,\n  An’ first could thresh the barn,\nOr haud a yokin’ at the pleugh;",
-      "body": "GUDEWIFE,I MIND it weel in early date,\nWhen I was bardless, young, and blate,\n  An’ first could thresh the barn,\nOr haud a yokin’ at the pleugh;\nAn, tho’ forfoughten sair eneugh,\n  Yet unco proud to learn:\nWhen first amang the yellow corn\n  A man I reckon’d was,\nAn’ wi’ the lave ilk merry morn\n  Could rank my rig and lass,\n    Still shearing, and clearing\n      The tither stooked raw,\n    Wi’ claivers, an’ haivers,\n      Wearing the day awa.\n\n\nE’en then, a wish, (I mind its pow’r),\nA wish that to my latest hour\n  Shall strongly heave my breast,\nThat I for poor auld Scotland’s sake\nSome usefu’ plan or book could make,\n  Or sing a sang at least.\nThe rough burr-thistle, spreading wide\n  Amang the bearded bear,\nI turn’d the weeder-clips aside,\n  An’ spar’d the symbol dear:\n    No nation, no station,\n      My envy e’er could raise;\n    A Scot still, but blot still,\n      I knew nae higher praise.\n\n\nBut still the elements o’ sang,\nIn formless jumble, right an’ wrang,\n  Wild floated in my brain;\n’Till on that har’st I said before,\nMay partner in the merry core,\n  She rous’d the forming strain;\nI see her yet, the sonsie quean,\n  That lighted up my jingle,\nHer witching smile, her pawky een\n  That gart my heart-strings tingle;\n    I firèd, inspired,\n      At every kindling keek,\n    But bashing, and dashing,\n      I fearèd aye to speak.\n\n\nHealth to the sex! ilk guid chiel says:\nWi’ merry dance in winter days,\n  An’ we to share in common;\nThe gust o’ joy, the balm of woe,\nThe saul o’ life, the heaven below,\n  Is rapture-giving woman.\nYe surly sumphs, who hate the name,\n  Be mindfu’ o’ your mither;\nShe, honest woman, may think shame\n  That ye’re connected with her:\n    Ye’re wae men, ye’re nae men\n      That slight the lovely dears;\n    To shame ye, disclaim ye,\n      Ilk honest birkie swears.\n\n\nFor you, no bred to barn and byre,\nWha sweetly tune the Scottish lyre,\n  Thanks to you for your line:\nThe marled plaid ye kindly spare,\nBy me should gratefully be ware;\n  ’Twad please me to the nine.\nI’d be mair vauntie o’ my hap,\n  Douce hingin owre my curple,\nThan ony ermine ever lap,\n  Or proud imperial purple.\n    Farewell then, lang hale then,\n      An’ plenty be your fa;\n    May losses and crosses\n      Ne’er at your hallan ca’!R. BURNS.March, 1787",
-      "source": {
-        "name": "Robert Burns · PoetryDB",
-        "url": "https://poetrydb.org/title/155.%20Epistle%20to%20Mrs.%20Scott%20of%20Wauchope%20House",
-        "trustTier": "community",
-        "author": "Robert Burns"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-17T10:02:13.839Z",
-      "hash": "d33c4d101585c1b6"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399828508-0",
-      "type": "art",
-      "title": "Self-portrait",
-      "summary": "National Portrait Gallery · 1920s · Drawings",
-      "body": "National Portrait Gallery\n1920s · Drawings",
-      "image": {
-        "src": "data/images/21bba0beef3855cd.jpg",
-        "alt": "Self-portrait",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_NPG.2020.5",
-        "trustTier": "encyclopedic",
-        "date": "1920s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-17T10:02:13.495Z",
-      "hash": "d15094f97be93106"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399809039-0",
-      "type": "art",
-      "title": "Minerva Chapman Self-Portrait",
-      "summary": "National Portrait Gallery · 1900s · Drawings",
-      "body": "National Portrait Gallery\n1900s · Drawings",
-      "image": {
-        "src": "data/images/adb7d1936c846c42.jpg",
-        "alt": "Minerva Chapman Self-Portrait",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_S_NPG.2002.226",
-        "trustTier": "encyclopedic",
-        "date": "1900s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-17T10:02:13.495Z",
-      "hash": "14b822ef85f2e25f"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399779444-0",
-      "type": "art",
-      "title": "Abbott Handerson Thayer Self-Portrait",
-      "summary": "National Portrait Gallery · 1920s · Paintings",
-      "body": "National Portrait Gallery\n1920s · Paintings",
-      "image": {
-        "src": "data/images/979ca4cf150ce7af.jpg",
-        "alt": "Abbott Handerson Thayer Self-Portrait",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_NPG.81.22",
-        "trustTier": "encyclopedic",
-        "date": "1920s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-17T10:02:13.495Z",
-      "hash": "6992e11969a85e97"
-    },
-    {
-      "id": "met:364816",
-      "type": "art",
-      "title": "Christ Crowned with Thorns, from \"The Passion of Christ\"",
-      "summary": "Jan Muller · 1615–20 · Engraving; second state of three",
-      "body": "Jan Muller · 1615–20 · Engraving; second state of three\nGift of Harry G. Friedman, 1957\nDrawings and Prints",
-      "image": {
-        "src": "data/images/5aa96cd66419af52.jpg",
-        "alt": "Christ Crowned with Thorns, from \"The Passion of Christ\"",
-        "credit": "The Met · Gift of Harry G. Friedman, 1957"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/364816",
-        "trustTier": "encyclopedic",
-        "author": "Jan Muller",
-        "date": "1615–20"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "cat",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-17T10:02:12.156Z",
-      "hash": "489234f9f6eeb627"
-    },
-    {
-      "id": "met:821716",
-      "type": "art",
-      "title": "Saturn",
-      "summary": "Sir Nicolas Dorigny · 1695 · Engraving",
-      "body": "Sir Nicolas Dorigny · 1695 · Engraving\nGift of Mrs. John Sichel, 1966\nDrawings and Prints",
-      "image": {
-        "src": "data/images/b92d7f76812155c3.jpg",
-        "alt": "Saturn",
-        "credit": "The Met · Gift of Mrs. John Sichel, 1966"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/821716",
-        "trustTier": "encyclopedic",
-        "author": "Sir Nicolas Dorigny",
-        "date": "1695"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "cat",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-17T10:02:11.957Z",
-      "hash": "0505fbe50bb6845f"
-    },
-    {
-      "id": "met:60451",
-      "type": "art",
-      "title": "Letter to the Nun Jōjūbō",
-      "summary": "Myōe Kōben 明恵高弁 · ca. 1221 · Hanging scroll; ink on paper",
-      "body": "Myōe Kōben 明恵高弁 · ca. 1221 · Hanging scroll; ink on paper\nGift of Sylvan Barnet and William Burto, in honor of Saretta and Howard Barnet, 2014\nAsian Art",
-      "image": {
-        "src": "data/images/8cfbd5b58824a054.jpg",
-        "alt": "Letter to the Nun Jōjūbō",
-        "credit": "The Met · Gift of Sylvan Barnet and William Burto, in honor of Saretta and Howard Barnet, 2014"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/60451",
-        "trustTier": "encyclopedic",
-        "author": "Myōe Kōben 明恵高弁",
-        "date": "ca. 1221"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "cat",
-        "calligraphy"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-17T10:02:11.859Z",
-      "hash": "5b02ab92400f814f"
-    },
-    {
-      "id": "apod:1996-02-29",
-      "type": "space",
-      "title": "Julius Caesar and Leap Days",
-      "summary": "Today, February 29th, is a leap day - a relatively rare occurrence. Advised by Alexandrian astronomer Sosigenes, Roman dictator Julius Caesar, pictured above in a self-decreed minted coin, created a calender system in 46 BC that contained one leap day every four years. The reason for adding leap days was that a year…",
-      "body": "Today, February 29th, is a leap day - a relatively rare occurrence. Advised by Alexandrian astronomer Sosigenes, Roman dictator Julius Caesar, pictured above in a self-decreed minted coin, created a calender system in 46 BC that contained one leap day every four years. The reason for adding leap days was that a year - defined by the time it takes the Earth to circle the Sun - does not actually take an exact integer number of days - defined by the time it takes for the Earth to rotate once. In fact, one year by these astronomical definitions is about 365.24219 days. If all calendar years contained 365 days, they would drift from the actual year by about 1 day every 4 years. Eventually July (named posthumously for Julius Caesar himself) would occur during the northern hemisphere winter! By making most years 365 days but every fourth year 366 days, the calendar year and the actual year remained more nearly in step. This \"Julian\" calender system was used until the year 1582 when Pope Gregory XIII added that leap days should not occur in years ending in \"00\" except if divisible by 400, providing a further fine tuning. This \"Gregorian\" calender system is the one in most common use today.",
-      "image": {
-        "src": "data/images/b89dae6fa10e2901.gif",
-        "alt": "Julius Caesar and Leap Days",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap960229.html",
-        "trustTier": "encyclopedic",
-        "date": "1996-02-29"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:10.074Z",
-      "hash": "23103ec44018cda2"
-    },
-    {
-      "id": "apod:2021-01-20",
-      "type": "space",
-      "title": "The Magnetic Field of the Whirlpool Galaxy",
-      "summary": "Do magnetic fields always flow along spiral arms? Our face-on view of the Whirlpool Galaxy (M51) allows a spectacularly clear view of the spiral wave pattern in a disk-shaped galaxy. When observed with a radio telescope, the magnetic field appears to trace the arms' curvature. However, with NASA’s flying…",
-      "body": "Do magnetic fields always flow along spiral arms? Our face-on view of the Whirlpool Galaxy (M51) allows a spectacularly clear view of the spiral wave pattern in a disk-shaped galaxy. When observed with a radio telescope, the magnetic field appears to trace the arms' curvature. However, with NASA’s flying Stratospheric Observatory for Infrared Astronomy (SOFIA) observatory, the magnetic field at the outer edge of M51's disk appears to weave across the arms instead. Magnetic fields are inferred by grains of dust aligning in one direction and acting like polaroid glasses on infrared light. In the featured image, the field orientations determined from this polarized light are algorithmically connected, creating streamlines. Possibly the gravitational tug of the companion galaxy, at the top of the frame, on the dusty gas of the reddish star-forming regions, visible in the Hubble Space Telescope image, enhances turbulence -- stirring the dust and lines to produce the unexpected field pattern of the outer arms.",
-      "image": {
-        "src": "data/images/ef2c14c31d93248f.jpg",
-        "alt": "The Magnetic Field of the Whirlpool Galaxy",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap210120.html",
-        "trustTier": "encyclopedic",
-        "date": "2021-01-20"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:10.074Z",
-      "hash": "e44cae1ecec8013b"
-    },
-    {
-      "id": "apod:2006-07-30",
-      "type": "space",
-      "title": "Valles Marineris: The Grand Canyon of Mars",
-      "summary": "The largest canyon in the Solar System cuts a wide swath across the face of Mars. Named Valles Marineris, the grand valley extends over 3,000 kilometers long, spans as much as 600 kilometers across, and delves as much as 8 kilometers deep. By comparison, the Earth's Grand Canyon in Arizona, USA is 800 kilometers…",
-      "body": "The largest canyon in the Solar System cuts a wide swath across the face of Mars. Named Valles Marineris, the grand valley extends over 3,000 kilometers long, spans as much as 600 kilometers across, and delves as much as 8 kilometers deep. By comparison, the Earth's Grand Canyon in Arizona, USA is 800 kilometers long, 30 kilometers across, and 1.8 kilometers deep. The origin of the Valles Marineris remains unknown, although a leading hypothesis holds that it started as a crack billions of years ago as the planet cooled. Recently, several geologic processes have been identified in the canyon. The above mosaic was created from over 100 images of Mars taken by Viking Orbiters in the 1970s.",
-      "image": {
-        "src": "data/images/23ce481601f325e1.jpg",
-        "alt": "Valles Marineris: The Grand Canyon of Mars",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap060730.html",
-        "trustTier": "encyclopedic",
-        "date": "2006-07-30"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:10.074Z",
-      "hash": "be7d440325d906c6"
-    },
-    {
-      "id": "apod:2011-05-22",
-      "type": "space",
-      "title": "Io: The Prometheus Plume",
-      "summary": "What's happening on Jupiter's moon Io? Two sulfurous eruptions are visible on Jupiter's volcanic moon Io in this color composite image from the robotic Galileo spacecraft that orbited Jupiter from 1995 to 2003. At the image top, over Io's limb, a bluish plume rises about 140 kilometers above the surface of a volcanic…",
-      "body": "What's happening on Jupiter's moon Io? Two sulfurous eruptions are visible on Jupiter's volcanic moon Io in this color composite image from the robotic Galileo spacecraft that orbited Jupiter from 1995 to 2003. At the image top, over Io's limb, a bluish plume rises about 140 kilometers above the surface of a volcanic caldera known as Pillan Patera. In the image middle, near the night/day shadow line, the ring shaped Prometheus plume is seen rising about 75 kilometers above Io while casting a shadow below the volcanic vent. Named for the Greek god who gave mortals fire, the Prometheus plume is visible in every image ever made of the region dating back to the Voyager flybys of 1979 - presenting the possibility that this plume has been continuously active for at least 18 years. The above digitally sharpened image of Io was originally recorded in 1997 from a distance of about 600,000 kilometers. Recent analyses of Galileo data has uncovered evidence of a magma ocean beneath Io's surface.",
-      "image": {
-        "src": "data/images/10b0c4a78ba6b28d.jpg",
-        "alt": "Io: The Prometheus Plume",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap110522.html",
-        "trustTier": "encyclopedic",
-        "date": "2011-05-22"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:10.074Z",
-      "hash": "01fe793abd9244ed"
-    },
-    {
-      "id": "apod:2016-10-14",
-      "type": "space",
-      "title": "Herschel's Orion",
-      "summary": "This dramatic image peers within M42, the Orion Nebula, the closest large star-forming region. Using data at infrared wavelengths from the Herschel Space Observatory, the false-color composite explores the natal cosmic cloud a mere 1,500 light-years distant. Cold, dense filaments of dust that would otherwise be dark…",
-      "body": "This dramatic image peers within M42, the Orion Nebula, the closest large star-forming region. Using data at infrared wavelengths from the Herschel Space Observatory, the false-color composite explores the natal cosmic cloud a mere 1,500 light-years distant. Cold, dense filaments of dust that would otherwise be dark at visible wavelengths are shown in reddish hues. Light-years long, the filaments weave together bright spots that correspond to regions of collapsing protostars. The brightest bluish area near the top of the frame is warmer dust heated by the hot Trapezium cluster stars that also power the nebula's visible glow. Herschel data has recently indicated ultraviolet starlight from the hot newborn stars likely contributes to the creation of carbon-hydrogen molecules, basic building blocks of life. This Herschel image spans about 3 degrees on the sky. That's about 80 light-years at the distance of the Orion Nebula.",
-      "image": {
-        "src": "data/images/067174105ead28e9.jpg",
-        "alt": "Herschel's Orion",
-        "credit": "© ESA/Herschel/PACS/SPIRE"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap161014.html",
-        "trustTier": "encyclopedic",
-        "date": "2016-10-14"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:10.073Z",
-      "hash": "0b7a84189615204c"
-    },
-    {
-      "id": "onthisday:07-17:1994:70d4fb04c9045ea0",
-      "type": "history",
-      "title": "1994: Brazil national football team",
-      "summary": "Brazil won the FIFA World Cup final against Italy 3–2 on penalties, following a 0–0 draw after extra time.",
-      "body": "Brazil won the FIFA World Cup final against Italy 3–2 on penalties, following a 0–0 draw after extra time.",
-      "image": {
-        "src": "data/images/64b7afd6dcb6235b.png",
-        "alt": "Brazil national football team",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
-        "trustTier": "encyclopedic",
-        "date": "07-17"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:09.114Z",
-      "hash": "22042818c437428b",
-      "expires": "2026-07-20T10:02:09.114Z"
-    },
-    {
-      "id": "onthisday:07-17:1936:3052be2d2907de2c",
-      "type": "history",
-      "title": "1936: Nationalist faction (Spanish Civil War)",
-      "summary": "Nationalist military officers launch a coup d'état against the Spanish Republic, beginning the Spanish Civil War",
-      "body": "Nationalist military officers launch a coup d'état against the Spanish Republic, beginning the Spanish Civil War",
-      "image": {
-        "src": "data/images/2a5fb9726ee61e08.png",
-        "alt": "Nationalist faction (Spanish Civil War)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Nationalist_faction_(Spanish_Civil_War)",
-        "trustTier": "encyclopedic",
-        "date": "07-17"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:09.114Z",
-      "hash": "b08ec2984506516e",
-      "expires": "2026-07-20T10:02:09.114Z"
-    },
-    {
-      "id": "onthisday:07-17:1771:f01e606e45886d7c",
-      "type": "history",
-      "title": "1771: Dene",
-      "summary": "Dene men who were acting as guides to Samuel Hearne on his exploration of the Coppermine River in present-day Nunavut, Canada, massacred a group of about twenty Copper Inuit.",
-      "body": "Dene men who were acting as guides to Samuel Hearne on his exploration of the Coppermine River in present-day Nunavut, Canada, massacred a group of about twenty Copper Inuit.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Dene",
-        "trustTier": "encyclopedic",
-        "date": "07-17"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:09.114Z",
-      "hash": "91888d2336ae5eaf",
-      "expires": "2026-07-20T10:02:09.114Z"
-    },
-    {
-      "id": "wikipedia:4211081",
-      "type": "wiki",
-      "title": "Damian Jackson (baseball)",
-      "summary": "Damian Jacques Jackson is an American former major league second baseman who played 11 seasons for nine Major League Baseball (MLB) teams. He batted and threw right-handed.",
-      "body": "Damian Jacques Jackson is an American former major league second baseman who played 11 seasons for nine Major League Baseball (MLB) teams. He batted and threw right-handed.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Damian_Jackson_(baseball)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:08.541Z",
-      "hash": "b3b2d1367165b8fc"
-    },
-    {
-      "id": "wikipedia:35069165",
-      "type": "wiki",
-      "title": "Confederación Xeral de Traballadores Galegos-Intersindical Nacional",
-      "summary": "Confederación Xeral de Traballadores Galegos-Intersindical Nacional was a nationalist trade union centre in Galicia. CXTG-IN was founded in 1985, as a split from the Intersindical Nacional dos Traballadores Galegos (INTG). Fernando Acuña served as the general secretary of the organization. Politically the movement…",
-      "body": "Confederación Xeral de Traballadores Galegos-Intersindical Nacional was a nationalist trade union centre in Galicia. CXTG-IN was founded in 1985, as a split from the Intersindical Nacional dos Traballadores Galegos (INTG). Fernando Acuña served as the general secretary of the organization. Politically the movement was close to Galician leftwing groups.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Confederaci%C3%B3n_Xeral_de_Traballadores_Galegos-Intersindical_Nacional",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:08.278Z",
-      "hash": "1ce907091cc02a8e"
-    },
-    {
-      "id": "wikipedia:62210910",
-      "type": "wiki",
-      "title": "Vitaliy Yermakov",
-      "summary": "Vitaliy Mykhaylovych Yermakov is a Ukrainian professional footballer who plays as a centre-back for Obolon Kyiv.",
-      "body": "Vitaliy Mykhaylovych Yermakov is a Ukrainian professional footballer who plays as a centre-back for Obolon Kyiv.",
-      "image": {
-        "src": "data/images/2a05a985b3cec376.jpg",
-        "alt": "Vitaliy Yermakov",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Vitaliy_Yermakov",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:07.577Z",
-      "hash": "761c3d0aa299ea57"
-    },
-    {
-      "id": "wikipedia:73083396",
-      "type": "wiki",
-      "title": "Bjolderup Parish",
-      "summary": "Bjolderup Parish is a parish in the Diocese of Haderslev in Aabenraa Municipality, Denmark.",
-      "body": "Bjolderup Parish is a parish in the Diocese of Haderslev in Aabenraa Municipality, Denmark.",
-      "image": {
-        "src": "data/images/3a99db33fda492fd.png",
-        "alt": "Bjolderup Parish",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Bjolderup_Parish",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-17T10:02:07.315Z",
-      "hash": "d1d012066fa39898"
-    },
-    {
-      "id": "chess:pJXRV",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1801. Find the best line for black.",
-      "body": "Solution, from → to: d1→f1, f3→g4, f7→f5, g4→g5, f5→e4. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "8/5pk1/6p1/8/4Q3/4PKPP/4N3/3q4 b - - 1 1",
-        "lastMove": "d4e2"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/pJXRV",
-        "trustTier": "community",
-        "date": "Thu, 16 Jul 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "endgame",
-        "crushing",
-        "fork",
-        "long"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-16T10:13:13.307Z",
-      "hash": "fd5ca77c73de8755"
-    },
-    {
-      "id": "game:bdcc82ce265b6e9b",
-      "type": "game",
-      "title": "Former Epic Games VP appointed Saber Interactive's chief business officer",
-      "summary": "Steve Allison will oversee publishing, marketing, and revenue opportunities, reporting directly to CEO Matthew Karch.",
-      "body": "Steve Allison will oversee publishing, marketing, and revenue opportunities, reporting directly to CEO Matthew Karch.",
-      "image": {
-        "src": "data/images/252022f17683fd80.png",
-        "alt": "Former Epic Games VP appointed Saber Interactive's chief business officer",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/former-epic-games-vp-appointed-saber-interactive-s-chief-business-officer",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Wed, 15 Jul 2026 18:00:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-16T10:13:12.815Z",
-      "hash": "bdcc82ce265b6e9b",
-      "expires": "2026-10-14T10:13:12.815Z"
-    },
-    {
-      "id": "game:77211ecaf2037cc2",
-      "type": "game",
-      "title": "NYU opens incubator applications for New York City-area devs",
-      "summary": "The NYC Game Design Future Lab offers mentorship, workshop, and investor opportunities for Big Apple-based developers.",
-      "body": "The NYC Game Design Future Lab offers mentorship, workshop, and investor opportunities for Big Apple-based developers.",
-      "image": {
-        "src": "data/images/304085ee4181b098.png",
-        "alt": "NYU opens incubator applications for New York City-area devs",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/nyu-opens-incubator-applications-for-new-york-city-area-devs",
-        "trustTier": "publication",
-        "author": "Bryant Francis",
-        "date": "Wed, 15 Jul 2026 15:32:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-16T10:13:12.815Z",
-      "hash": "77211ecaf2037cc2",
-      "expires": "2026-10-14T10:13:12.815Z"
-    },
-    {
-      "id": "game:a862c9ec6825336c",
-      "type": "game",
-      "title": "Dead Space co-creator Glen Schofield retires",
-      "summary": "Schofield had long tenures as manager of Dead Space maker Visceral Games as well as Call of Duty developer Sledgehammer Games.",
-      "body": "Schofield had long tenures as manager of Dead Space maker Visceral Games as well as Call of Duty developer Sledgehammer Games.",
-      "image": {
-        "src": "data/images/966e5fb69b2f443e.png",
-        "alt": "Dead Space co-creator Glen Schofield retires",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/call-of-duty-co-director-glen-schofield-retires",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Wed, 15 Jul 2026 17:04:2"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-16T10:13:12.815Z",
-      "hash": "a862c9ec6825336c",
-      "expires": "2026-10-14T10:13:12.815Z"
-    },
-    {
-      "id": "trivia:419a8d265495c248",
-      "type": "trivia",
-      "title": "The main playable character of the 2015 RPG \"Undertale\" is a monster.",
-      "summary": "True — or false?",
-      "body": "Answer: False.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-16T10:13:10.258Z",
-      "hash": "419a8d265495c248"
-    },
-    {
-      "id": "trivia:fca028b8f2fa208d",
-      "type": "trivia",
-      "title": "The Western Lowland Gorilla is scientifically know as?",
-      "summary": "Is it: Gorilla Gorilla Gorilla · Gorilla Gorilla Diehli · Gorilla Beringei Graueri · Gorilla Beringei Beringei?",
-      "body": "Answer: Gorilla Gorilla Gorilla.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "science & nature"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-16T10:13:10.257Z",
-      "hash": "fca028b8f2fa208d"
-    },
-    {
-      "id": "trivia:73250405bd03a8b6",
-      "type": "trivia",
-      "title": "Who performed \"I Took A Pill In Ibiza\"?",
-      "summary": "Is it: Mike Posner · Harry Styles · Robbie Williams · Avicii?",
-      "body": "Answer: Mike Posner.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "music"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-16T10:13:10.257Z",
-      "hash": "73250405bd03a8b6"
-    },
-    {
-      "id": "trivia:152ea78e6771a603",
-      "type": "trivia",
-      "title": "In \"My Little Pony: Friendship is Magic\", which of these ponies represents the quality of honesty?",
-      "summary": "Is it: Pinkie Pie · Applejack · Twilight Sparkle · Rarity?",
-      "body": "Answer: Applejack.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "cartoon & animations"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-16T10:13:10.257Z",
-      "hash": "152ea78e6771a603"
-    },
-    {
-      "id": "passage:gutenberg:2701",
-      "type": "passage",
-      "title": "Moby-Dick",
-      "summary": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth;…",
-      "body": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/2701",
-        "trustTier": "publication",
-        "author": "Herman Melville",
-        "date": "1851"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "sea",
-        "adventure"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-16T10:13:09.913Z",
-      "hash": "8e8c699abb4bca4a"
-    },
-    {
-      "id": "comic:smbc:30dc80cc307d7d96",
-      "type": "comic",
-      "title": "Pac",
-      "summary": "This is also why Daisy Duck has more linguistic capacity than Donald.",
-      "image": {
-        "src": "data/images/591dbe98d1cc2d1c.png",
-        "alt": "This is also why Daisy Duck has more linguistic capacity than Donald.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/pac",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Wed, 15 Jul 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-16T10:13:08.820Z",
-      "hash": "30dc80cc307d7d96"
-    },
-    {
-      "id": "comic:xkcd:206",
-      "type": "comic",
-      "title": "Reno Rhymes",
-      "summary": "Did you shoot a man in Reno? Now, I don't mean to pry.",
-      "body": "[[Two men stand facing one another. Man on the left is wearing a hat]] Man: You know, I once shot a man in Reno, just to watch him die. Man 2: Really? Well, I once shot a man in Reno, but I couldn't tell you why. Man: I once shot a man in Reno, then I went home to cry. Man 2: I once shot a man in Reno, then I watered his cacti. Man: I once shot a man in Reno 'cause they cancelled Firefly. Man 2: I once shot a man in Reno, him and all his succubi. Man: I once shot a man in Reno and a bunch more in My Lai. Man 2: I think we're done. {{title text: Did you shoot a man in Reno? Now, I don't mean to pry.}}",
-      "image": {
-        "src": "data/images/5e0cc99ff42b7d40.png",
-        "alt": "Did you shoot a man in Reno?  Now, I don't mean to pry.",
-        "credit": "xkcd #206 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/206/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2007-01-05"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-16T10:13:08.579Z",
-      "hash": "117a9ce52ff3b23f"
-    },
-    {
-      "id": "comic:xkcd:3272",
-      "type": "comic",
-      "title": "Time Change",
-      "summary": "All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.",
-      "image": {
-        "src": "data/images/70d623d651fd8ea7.png",
-        "alt": "All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.",
-        "credit": "xkcd #3272 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3272/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2026-07-15"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-16T10:13:08.414Z",
-      "hash": "fc0e75a39d859a93"
-    },
-    {
-      "id": "food:ec5e8d34d7a45ab0",
-      "type": "food",
-      "title": "Chili Crisp Corn",
-      "summary": "If you have a jar of chili crisp and some fresh ears of corn you’re well on your way to this summer-maxxing salad. Sweet corn, plenty of herbs, creamy dollops of goat cheese, and toasted pepitas come together in a spicy, crunchy way that disappears fast. Continue reading Chili Crisp Corn on 101…",
-      "body": "If you have a jar of chili crisp and some fresh ears of corn you’re well on your way to this summer-maxxing salad. Sweet corn, plenty of herbs, creamy dollops of goat cheese, and toasted pepitas come together in a spicy, crunchy way that disappears fast. Continue reading Chili Crisp Corn on 101 Cookbooks",
-      "image": {
-        "src": "data/images/af717bdd15da7834.jpg",
-        "alt": "Chili Crisp Corn",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/chili-crisp-corn/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Sat, 20 Jun 2026 19:07:2"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "gluten free recipes",
-        "quick recipes",
-        "salad recipes",
-        "side dish recipes",
-        "summer"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-16T10:13:08.272Z",
-      "hash": "ec5e8d34d7a45ab0"
-    },
-    {
-      "id": "craft:c165feba3038cd75",
-      "type": "craft",
-      "title": "Experience Ana Mendieta’s Visceral, ‘Neolithic’ Work in a Major Survey",
-      "summary": "A large-scale, immersive exhibition of her work opens today at Tate Modern.",
-      "body": "A large-scale, immersive exhibition of her work opens today at Tate Modern.",
-      "image": {
-        "src": "data/images/e3103ee0b80514b8.jpg",
-        "alt": "Experience Ana Mendieta’s Visceral, ‘Neolithic’ Work in a Major Survey",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/07/ana-mendieta-exhibition-photography-sculpture-art-history/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Wed, 15 Jul 2026 14:12:4"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "nature",
-        "photography",
-        "ana mendieta",
-        "art history",
-        "environment",
-        "feminism",
-        "land art"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-16T10:13:08.087Z",
-      "hash": "c165feba3038cd75"
-    },
-    {
-      "id": "craft:bd5f9f9bee01022b",
-      "type": "craft",
-      "title": "Review: Arduboy FX-C",
-      "summary": "Arduboy FX-C packs a surprising amount of experiences into a pocket-sized handheld. How could we say no to a review? The post Review: Arduboy FX-C appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "Arduboy FX-C packs a surprising amount of experiences into a pocket-sized handheld. How could we say no to a review? The post Review: Arduboy FX-C appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/4c5bc85ed5c7e2a7.jpg",
-        "alt": "Review: Arduboy FX-C",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/technology/review-arduboy-fx-c/",
-        "trustTier": "publication",
-        "author": "Sam Freeman",
-        "date": "Wed, 15 Jul 2026 16:00:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "arduino",
-        "fun & games",
-        "technology",
-        "arduboy",
-        "atmega",
-        "game",
-        "video game"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-16T10:13:07.804Z",
-      "hash": "bd5f9f9bee01022b"
-    },
-    {
-      "id": "word:0e8e6560b14acc0b",
-      "type": "word",
-      "title": "hubris",
-      "summary": "Noun: Excessive arrogance or pride, or presumption; originally toward the gods; a feeling of overwhelming and all-encompassing pride.",
-      "body": "1. Excessive arrogance or pride, or presumption; originally toward the gods; a feeling of overwhelming and all-encompassing pride.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/hubris",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-16T10:13:07.493Z",
-      "hash": "0e8e6560b14acc0b"
-    },
-    {
-      "id": "word:e7feed4c67ffa8fb",
-      "type": "word",
-      "title": "sophrosyne",
-      "summary": "Noun: The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "body": "1. The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/sophrosyne",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-16T10:13:06.754Z",
-      "hash": "e7feed4c67ffa8fb"
     },
     {
       "id": "curated:handwriting-beats-typing",

@@ -1,7 +1,1210 @@
 {
-  "generatedAt": "2026-07-30T10:30:16.529Z",
+  "generatedAt": "2026-07-31T10:44:24.238Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:as2Ko",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1821. Find the best line for black.",
+      "body": "Solution, from → to: f8→f1, d1→f1, g7→g1, f1→g1, g8→g1. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "2k2rr1/1bp3qp/8/1P1pN3/P2P4/2P1b3/R6N/3Q1R1K b - - 0 1",
+        "lastMove": "f3h2"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/as2Ko",
+        "trustTier": "community",
+        "date": "Fri, 31 Jul 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "exposedking",
+        "middlegame",
+        "operamate",
+        "long"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-07-31T10:44:20.644Z",
+      "hash": "3abe232aee62f6de"
+    },
+    {
+      "id": "game:67beec5386cc80c1",
+      "type": "game",
+      "title": "Unity brings dedicated engine support to Netflix Games",
+      "summary": "The engine maker said it wants to help developers produce titles for Netflix's multi-platform ecosystem.",
+      "body": "The engine maker said it wants to help developers produce titles for Netflix's multi-platform ecosystem.",
+      "image": {
+        "src": "data/images/940b7692038829c1.png",
+        "alt": "Unity brings dedicated engine support to Netflix Games",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/unity-brings-dedicated-engine-support-to-netflix-games",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Thu, 30 Jul 2026 13:15:3"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:20.198Z",
+      "hash": "67beec5386cc80c1",
+      "expires": "2026-10-29T10:44:20.198Z"
+    },
+    {
+      "id": "game:a054d15f810764ca",
+      "type": "game",
+      "title": "The truth behind the resurrection of Poinpy",
+      "summary": "Back from the dead and better than ever.",
+      "body": "Back from the dead and better than ever.",
+      "image": {
+        "src": "data/images/36a62324c2aa4658.png",
+        "alt": "The truth behind the resurrection of Poinpy",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/the-truth-behind-the-resurrection-of-poinpy",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Thu, 30 Jul 2026 13:46:4"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:20.198Z",
+      "hash": "a054d15f810764ca",
+      "expires": "2026-10-29T10:44:20.198Z"
+    },
+    {
+      "id": "game:31004c2c458c4ac0",
+      "type": "game",
+      "title": "Narrative Notebook #5: UNBEATABLE's music video vibes can't be beat",
+      "summary": "'Music doesn't make us feel things. Music IS feeling. Art IS feeling.'",
+      "body": "'Music doesn't make us feel things. Music IS feeling. Art IS feeling.'",
+      "image": {
+        "src": "data/images/e107cf0c8d9e86ab.png",
+        "alt": "Narrative Notebook #5: UNBEATABLE's music video vibes can't be beat",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/design/narrative-notebook-5-unbeatable-s-music-video-vibes-can-t-be-beat",
+        "trustTier": "publication",
+        "author": "Bryant Francis",
+        "date": "Thu, 30 Jul 2026 15:29:5"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:20.198Z",
+      "hash": "31004c2c458c4ac0",
+      "expires": "2026-10-29T10:44:20.198Z"
+    },
+    {
+      "id": "trivia:220d3f580e7e8c18",
+      "type": "trivia",
+      "title": "In which Indian city can the Taj Mahal be found?",
+      "summary": "Is it: Mumbai · Faridabad · Thane · Agra?",
+      "body": "Answer: Agra.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "geography"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:44:17.991Z",
+      "hash": "220d3f580e7e8c18"
+    },
+    {
+      "id": "trivia:5a5d90a8a090a5d7",
+      "type": "trivia",
+      "title": "Who wrote the novel \"Moby-Dick\"?",
+      "summary": "Is it: J. R. R. Tolkien · William Shakespeare · William Golding · Herman Melville?",
+      "body": "Answer: Herman Melville.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "books"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-07-31T10:44:17.991Z",
+      "hash": "5a5d90a8a090a5d7"
+    },
+    {
+      "id": "trivia:091f645cc8d56503",
+      "type": "trivia",
+      "title": "Klingons once had a period of Democracy in their history, they referred to it as the \"Dark Times\".",
+      "summary": "True — or false?",
+      "body": "Answer: True.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "television"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:17.991Z",
+      "hash": "091f645cc8d56503"
+    },
+    {
+      "id": "trivia:69f5685572061e6b",
+      "type": "trivia",
+      "title": "How many letters are there in the English alphabet?",
+      "summary": "Is it: 28 · 24 · 23 · 26?",
+      "body": "Answer: 26.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "general knowledge"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:44:17.991Z",
+      "hash": "69f5685572061e6b"
+    },
+    {
+      "id": "passage:gutenberg:1260",
+      "type": "passage",
+      "title": "Jane Eyre",
+      "summary": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. I was glad…",
+      "body": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. I was glad of it: I never liked long walks, especially on chilly afternoons: dreadful to me was the coming home in the raw twilight, with nipped fingers and toes, and a heart saddened by the chidings of Bessie, the nurse, and humbled by the consciousness of my physical inferiority to Eliza, John, and Georgiana Reed. The said Eliza, John, and…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/1260",
+        "trustTier": "publication",
+        "author": "Charlotte Brontë",
+        "date": "1847"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "romance",
+        "gothic"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:44:17.718Z",
+      "hash": "1f6a6118b636cfc1"
+    },
+    {
+      "id": "comic:smbc:b3d349c8de25356e",
+      "type": "comic",
+      "title": "Crank",
+      "summary": "The crank doesn't actually do anything, but it makes the humans happy.",
+      "image": {
+        "src": "data/images/9986c93988d19f33.png",
+        "alt": "The crank doesn't actually do anything, but it makes the humans happy.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/crank",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Thu, 30 Jul 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-31T10:44:17.020Z",
+      "hash": "b3d349c8de25356e"
+    },
+    {
+      "id": "comic:xkcd:1812",
+      "type": "comic",
+      "title": "Onboarding",
+      "summary": "'So we just have a steady flow of metal piling up in our server room? Isn't that a problem?' 'Yeah, you should bring that up at our next bismuth meeting.'",
+      "image": {
+        "src": "data/images/ab5c943f12b0f1fc.png",
+        "alt": "'So we just have a steady flow of metal piling up in our server room? Isn't that a problem?' 'Yeah, you should bring that up at our next bismuth meeting.'",
+        "credit": "xkcd #1812 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/1812/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2017-03-17"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-31T10:44:16.516Z",
+      "hash": "da0549384ccf68d1"
+    },
+    {
+      "id": "craft:289f6ef4f935b22f",
+      "type": "craft",
+      "title": "Zac Henderson Venerates Devil’s Tower in Bold Black-and-White Photos",
+      "summary": "Henderson also captures the changing light and the otherworldly textures and ochres of the iconic rock.",
+      "body": "Henderson also captures the changing light and the otherworldly textures and ochres of the iconic rock.",
+      "image": {
+        "src": "data/images/34e74681118fcee2.jpg",
+        "alt": "Zac Henderson Venerates Devil’s Tower in Bold Black-and-White Photos",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/07/zac-henderson-devils-tower-photographs/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Thu, 30 Jul 2026 17:10:0"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "nature",
+        "photography",
+        "black and white",
+        "geology",
+        "landscapes",
+        "wyoming",
+        "zac henderson"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:16.212Z",
+      "hash": "289f6ef4f935b22f"
+    },
+    {
+      "id": "word:1d1eb04abcf86a7e",
+      "type": "word",
+      "title": "ethos",
+      "summary": "Noun: The character or fundamental values of a person, people, culture, or movement.",
+      "body": "1. The character or fundamental values of a person, people, culture, or movement.\n2. A form of rhetoric in which the writer or speaker invokes their authority, competence or expertise in an attempt to persuade others that their view is correct.\n3. The traits in a work of art which express the ideal or typic character, as influenced by the ethos (character or fundamental values) of a people, rather than emotional situations or individual character traits in a narrow sense; opposed to pathos.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/ethos",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:44:15.712Z",
+      "hash": "1d1eb04abcf86a7e"
+    },
+    {
+      "id": "word:0e8e6560b14acc0b",
+      "type": "word",
+      "title": "hubris",
+      "summary": "Noun: Excessive arrogance or pride, or presumption; originally toward the gods; a feeling of overwhelming and all-encompassing pride.",
+      "body": "1. Excessive arrogance or pride, or presumption; originally toward the gods; a feeling of overwhelming and all-encompassing pride.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/hubris",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:44:14.701Z",
+      "hash": "0e8e6560b14acc0b"
+    },
+    {
+      "id": "quote:fa29633d223f4e8b",
+      "type": "quote",
+      "title": "“I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.”",
+      "summary": "— Nelson Mandela",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Nelson_Mandela",
+        "trustTier": "community",
+        "author": "Nelson Mandela"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:44:14.569Z",
+      "hash": "fa29633d223f4e8b"
+    },
+    {
+      "id": "quote:61ed608b95092759",
+      "type": "quote",
+      "title": "“We are all in the gutter, but some of us are looking at the stars.”",
+      "summary": "— Oscar Wilde",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Oscar_Wilde",
+        "trustTier": "community",
+        "author": "Oscar Wilde"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:44:14.569Z",
+      "hash": "61ed608b95092759"
+    },
+    {
+      "id": "quote:e8e19a958b54855f",
+      "type": "quote",
+      "title": "“When you are tempted to give up, your breakthrough is probably just around the corner.”",
+      "summary": "— Joyce Meyer",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Joyce_Meyer",
+        "trustTier": "community",
+        "author": "Joyce Meyer"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:44:14.569Z",
+      "hash": "e8e19a958b54855f"
+    },
+    {
+      "id": "book-review:617db9c638eb5827",
+      "type": "book-review",
+      "title": "On Our Nightstands: July 2026",
+      "summary": "At Public Books, our editorial staff and contributors are hard at work to provide readers with thought-provoking articles. But when the workday is done, what is actually on our nightstands? Here we bring you, in our own words, a behind-the-scenes look at what we have been reading this month.…",
+      "body": "At Public Books, our editorial staff and contributors are hard at work to provide readers with thought-provoking articles. But when the workday is done, what is actually on our nightstands? Here we bring you, in our own words, a behind-the-scenes look at what we have been reading this month. Nicholas Dames Editor in Chief Frederic […] The post On Our Nightstands: July 2026 appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/on-our-nightstands-july-2026/",
+        "trustTier": "publication",
+        "author": "Imani Radney",
+        "date": "Thu, 30 Jul 2026 15:07:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "reviews",
+        "astra house",
+        "duke university press",
+        "fiction",
+        "food",
+        "melville house",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:12.642Z",
+      "hash": "617db9c638eb5827"
+    },
+    {
+      "id": "book-review:63fddcb5e4f78624",
+      "type": "book-review",
+      "title": "The Wonderful Capacities of Other Animals",
+      "summary": "“As dogs, cats, horses, and probably all the higher animals, even birds have vivid dreams, we must admit that they possess some power of imagination.” —Charles Darwin, Descent of Man Darwin’s evolutionary theory did more than establish a corporeal commonality between species; it also raised hard…",
+      "body": "“As dogs, cats, horses, and probably all the higher animals, even birds have vivid dreams, we must admit that they possess some power of imagination.” —Charles Darwin, Descent of Man Darwin’s evolutionary theory did more than establish a corporeal commonality between species; it also raised hard questions about commonalities of consciousness. David Peña-Guzmán, cohost of […] The post The Wonderful Capacities of Other Animals appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/the-wonderful-capacities-of-other-animals/",
+        "trustTier": "publication",
+        "author": "Megan Cummins",
+        "date": "Wed, 29 Jul 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "interviews",
+        "animal ethics",
+        "animal rights",
+        "animal studies",
+        "animals",
+        "dreams",
+        "interview"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:12.642Z",
+      "hash": "63fddcb5e4f78624"
+    },
+    {
+      "id": "article:d7f38daaf235e6af",
+      "type": "article",
+      "title": "What Are the Most Untouchable Records in Sports?",
+      "summary": "I ran across this post on Threads the other day: “What’s the hardest record in sports history to ever break?” A sampling of the replies: “Bill Russell’s 11 NBA championships including 8 in a row.” “Lionel Messi scored 91 goals in the 2012 calendar year.” “Cy Young 749 complete games.” “Fernando…",
+      "body": "I ran across this post on Threads the other day: “What’s the hardest record in sports history to ever break?” A sampling of the replies: “Bill Russell’s 11 NBA championships including 8 in a row.” “Lionel Messi scored 91 goals in the 2012 calendar year.” “Cy Young 749 complete games.” “Fernando Tatis (Sr) - 2 Grand Slams in the same inning. Most of the others mentioned here are highly improbable, but there’s no way anyone ever hits 3 slams in one inning.” “Lionel Messi’s 8 Ballon d’or” “Sir Donald Bradman’s batting average in Test cricket. His 99.94.” “Russian wrestler Aleksandr Karelin.…",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/07/what-are-the-most-untouchable-records-in-sports",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-07-30T21:49:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:06.974Z",
+      "hash": "d7f38daaf235e6af"
+    },
+    {
+      "id": "article:aad9206ae57dbf4f",
+      "type": "article",
+      "title": "The Onion: Translator Of Original ‘Minions’ Epic Poem...",
+      "summary": "The Onion: Translator Of Original ‘Minions’ Epic Poem Slams ‘Sexless, Bloodless’ Film Adaptation. The actual Wilson on Bluesky: “No professional accomplishment has ever made me happier than this.” Most fun movie discourse since Barbenheimer.",
+      "body": "The Onion: Translator Of Original ‘Minions’ Epic Poem Slams ‘Sexless, Bloodless’ Film Adaptation. The actual Wilson on Bluesky: “No professional accomplishment has ever made me happier than this.” Most fun movie discourse since Barbenheimer.",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/07/0049423-translator-of-original-mi",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-07-31T01:29:31Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:06.973Z",
+      "hash": "aad9206ae57dbf4f"
+    },
+    {
+      "id": "article:fb9c0f5c5ae4ffc9",
+      "type": "article",
+      "title": "The Third Self: Mary Oliver on Creativity and Time",
+      "summary": "\"The most regretful people on earth are those who felt the call to creative work, who felt their own creative power restive and uprising, and gave to it neither power nor time.\"",
+      "body": "\"The most regretful people on earth are those who felt the call to creative work, who felt their own creative power restive and uprising, and gave to it neither power nor time.\"",
+      "image": {
+        "src": "data/images/2f3db3ded06dc03a.jpg",
+        "alt": "The Third Self: Mary Oliver on Creativity and Time",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/07/29/mary-oliver-upstream-creativity-power-time/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Wed, 29 Jul 2026 18:55:0"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "psychology",
+        "books",
+        "creativity",
+        "mary oliver"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:06.013Z",
+      "hash": "fb9c0f5c5ae4ffc9"
+    },
+    {
+      "id": "article:6da781634c42abc0",
+      "type": "article",
+      "title": "Puits Sainte-Renelde in Tubize, Belgium",
+      "summary": "Saintes is a Belgian village located 30 minutes' drive southwest of Brussels. It lies between the towns of Enghien and Hal, home to the famous Blue Forest of Hal. Everything in this small village is connected in one way or another to Renelde of Saintes, a devout woman who lived there in the…",
+      "body": "Saintes is a Belgian village located 30 minutes' drive southwest of Brussels. It lies between the towns of Enghien and Hal, home to the famous Blue Forest of Hal. Everything in this small village is connected in one way or another to Renelde of Saintes, a devout woman who lived there in the seventh century. She was elevated to the status of a saint, and the village church is dedicated to her. Her reliquary is paraded on a horse-drawn cart every year. The most unusual feature associated with her, however, is a well in the countryside to the south of the village. To understand this well, we…",
+      "image": {
+        "src": "data/images/879aba7cfd38e6d2.jpg",
+        "alt": "Puits Sainte-Renelde in Tubize, Belgium",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/puits-sainte-renelde",
+        "trustTier": "publication",
+        "date": "Thu, 30 Jul 2026 14:00:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history",
+        "waterworks",
+        "wells"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:05.146Z",
+      "hash": "6da781634c42abc0"
+    },
+    {
+      "id": "article:7ce6351aff917550",
+      "type": "article",
+      "title": "An unprecedented weapon?",
+      "summary": "I wonder if England had a “pause” movement back then: Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I’s massive machine, Warwolf. This terrifying device was over sixty feet (18 meters) high and was capable of throwing a…",
+      "body": "I wonder if England had a “pause” movement back then: Trebuchets reached the peak of their development in medieval times, probably the most famous example being Edward I’s massive machine, Warwolf. This terrifying device was over sixty feet (18 meters) high and was capable of throwing a three-hundred-pound (140-kilogram) rock several hundred years, projecting some […] The post An unprecedented weapon? appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/07/an-unprecedented-weapon.html?utm_source=rss&utm_medium=rss&utm_campaign=an-unprecedented-weapon",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Fri, 31 Jul 2026 07:03:2"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:04.191Z",
+      "hash": "7ce6351aff917550"
+    },
+    {
+      "id": "article:266de726c5aa4f28",
+      "type": "article",
+      "title": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
+      "summary": "Photographs from when Atlantic City beaches featured artists ornately sculpting sand.",
+      "body": "Photographs from when Atlantic City beaches featured artists ornately sculpting sand.",
+      "image": {
+        "src": "data/images/67dbd93da23a3d93.jpg",
+        "alt": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
+        "credit": "The Public Domain Review"
+      },
+      "source": {
+        "name": "The Public Domain Review",
+        "url": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture",
+        "trustTier": "publication",
+        "date": "Wed, 29 Jul 2026 13:07:0"
+      },
+      "tags": [
+        "essay",
+        "history",
+        "culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:03.972Z",
+      "hash": "266de726c5aa4f28"
+    },
+    {
+      "id": "article:2fda3eda24fb49af",
+      "type": "article",
+      "title": "A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere",
+      "summary": "An organelle discovered inside a microbe inside a cow’s gut helps explain how livestock burps contribute to warming our planet. The post A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere first appeared on Quanta Magazine",
+      "body": "An organelle discovered inside a microbe inside a cow’s gut helps explain how livestock burps contribute to warming our planet. The post A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere first appeared on Quanta Magazine",
+      "image": {
+        "src": "data/images/11645b65e948fd9a.webp",
+        "alt": "A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere",
+        "credit": "Quanta Magazine"
+      },
+      "source": {
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/",
+        "trustTier": "publication",
+        "author": "Marlowe Starling",
+        "date": "Mon, 27 Jul 2026 14:40:5"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "mathematics",
+        "biology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-07-31T10:44:03.398Z",
+      "hash": "2fda3eda24fb49af"
+    },
+    {
+      "id": "greek:fd18039c95c245aa",
+      "type": "greek",
+      "title": "λόγος",
+      "summary": "λόγος — “word” · noun",
+      "body": "Note: ὁ λόγος; also \"message, reason, account\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:44:02.948Z",
+      "hash": "fd18039c95c245aa"
+    },
+    {
+      "id": "greek:69ec86320445e935",
+      "type": "greek",
+      "title": "ἅγιος",
+      "summary": "ἅγιος, -α, -ον — “holy” · adjective",
+      "body": "Note: declines like 2-1-2; substantive use \"saint, holy one\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%85%CE%B3%CE%B9%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "adjective"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:44:02.948Z",
+      "hash": "69ec86320445e935"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399919426-0",
+      "type": "art",
+      "title": "Landscape of Nantucket Island",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1880s · Drawings",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1880s · Drawings",
+      "image": {
+        "src": "data/images/858b83e2b787225c.jpg",
+        "alt": "Landscape of Nantucket Island",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/98659",
+        "trustTier": "encyclopedic",
+        "date": "1880s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "landscape",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-31T10:43:16.142Z",
+      "hash": "3895d3cafecd95e0"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399894177-1",
+      "type": "art",
+      "title": "Mountainous Landscape, Colombia or Ecuador",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1850s · Drawings",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1850s · Drawings",
+      "image": {
+        "src": "data/images/505b2e9657246eb8.jpg",
+        "alt": "Mountainous Landscape, Colombia or Ecuador",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/22758",
+        "trustTier": "encyclopedic",
+        "date": "1850s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "landscape",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-31T10:43:16.142Z",
+      "hash": "edb31b6f0df33a06"
+    },
+    {
+      "id": "art:si:ld1-1643381040022-1643381055396-1",
+      "type": "art",
+      "title": "Landscape with Cumulous Clouds",
+      "summary": "Smithsonian American Art Museum · 1930s · Graphic arts",
+      "body": "Smithsonian American Art Museum\n1930s · Graphic arts",
+      "image": {
+        "src": "data/images/c45593ccf609da4f.jpg",
+        "alt": "Landscape with Cumulous Clouds",
+        "credit": "Smithsonian American Art Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://americanart.si.edu/collections/search/artwork/?id=24267",
+        "trustTier": "encyclopedic",
+        "date": "1930s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "landscape",
+        "graphic arts"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-31T10:43:16.142Z",
+      "hash": "a5d0b56a34a9ce6f"
+    },
+    {
+      "id": "met:336686",
+      "type": "art",
+      "title": "Three figures on horseback with indications at right",
+      "summary": "Félicien Rops · Graphite",
+      "body": "Félicien Rops · Graphite\nGift of Mrs. Albert Broccoli, 1980\nDrawings and Prints",
+      "image": {
+        "src": "data/images/ef117f0766057497.jpg",
+        "alt": "Three figures on horseback with indications at right",
+        "credit": "The Met · Gift of Mrs. Albert Broccoli, 1980"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/336686",
+        "trustTier": "encyclopedic",
+        "author": "Félicien Rops"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "horse",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-31T10:43:14.714Z",
+      "hash": "f222e80d68c469e9"
+    },
+    {
+      "id": "met:367100",
+      "type": "art",
+      "title": "Two Views of a Horse's Head; the Head of a Bearded Man in Profile",
+      "summary": "Anonymous, Italian, 16th century · 1550–1600 · Pen and brown ink, brush and brown wash, with some unrelated strokes of red chalk",
+      "body": "Anonymous, Italian, 16th century · 1550–1600 · Pen and brown ink, brush and brown wash, with some unrelated strokes of red chalk\nThe Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1948\nDrawings and Prints",
+      "image": {
+        "src": "data/images/974a68585dbe7ee1.jpg",
+        "alt": "Two Views of a Horse's Head; the Head of a Bearded Man in Profile",
+        "credit": "The Met · The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1948"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/367100",
+        "trustTier": "encyclopedic",
+        "author": "Anonymous, Italian, 16th century",
+        "date": "1550–1600"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "horse",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-31T10:43:14.672Z",
+      "hash": "4926ce6d3419b2a8"
+    },
+    {
+      "id": "met:44410",
+      "type": "art",
+      "title": "Horse and cavalry rider",
+      "summary": "Unknown artist · Earthenware with pigment",
+      "body": "Unknown artist · Earthenware with pigment\nCharlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994\nAsian Art",
+      "image": {
+        "src": "data/images/317408fae0d251c7.jpg",
+        "alt": "Horse and cavalry rider",
+        "credit": "The Met · Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/44410",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "horse",
+        "ceramics"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-07-31T10:43:14.630Z",
+      "hash": "ffcd4a7f4c9be241"
+    },
+    {
+      "id": "apod:2018-07-17",
+      "type": "space",
+      "title": "Moon and Venus over Cannon Beach",
+      "summary": "What's that spot next to the Moon? Venus. Two days ago, the crescent Moon slowly drifted past Venus, appearing within just one degree at its closest. This conjunction, though, was just one of several photographic adventures for our Moon this month (moon-th), because, for one, a partial solar eclipse occurred just a…",
+      "body": "What's that spot next to the Moon? Venus. Two days ago, the crescent Moon slowly drifted past Venus, appearing within just one degree at its closest. This conjunction, though, was just one of several photographic adventures for our Moon this month (moon-th), because, for one, a partial solar eclipse occurred just a few days before, on July 12. Currently, the Moon appears to be brightening, as seen from the Earth, as the fraction of its face illuminated by the Sun continues to increase. In a few days, the Moon will appear more than half full, and therefore be in its gibbous phase. Next week the face of the Moon that always faces the Earth will become, as viewed from the Earth, completely illuminated by the Sun. Even this full phase will bring an adventure, though, as a total eclipse of this Thunder Moon will occur on July 27. Don't worry about our Luna getting tired, though, because she'll be new again next month (moon-th) -- August 11 to be exact -- just as she causes another partial eclipse of the Sun. Pictured, Venus and the Moon were captured from Cannon Beach above a rock formation off the Oregon (USA) coast known as the Needles. About an hour after this image was taken, the spin of the Earth caused both Venus and the Moon to set.",
+      "image": {
+        "src": "data/images/25bb17e238a504f2.jpg",
+        "alt": "Moon and Venus over Cannon Beach",
+        "credit": "© James W. Young"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap180717.html",
+        "trustTier": "encyclopedic",
+        "date": "2018-07-17"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:13.516Z",
+      "hash": "eb29491d4c319533"
+    },
+    {
+      "id": "apod:2019-10-14",
+      "type": "space",
+      "title": "Andromeda before Photoshop",
+      "summary": "What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections. The picture is a stack of 223 images, each a 300 second…",
+      "body": "What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections. The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in Portugal over the past year. Obvious image deficiencies include bright parallel airplane trails, long and continuous satellite trails, short cosmic ray streaks, and bad pixels. These imperfections were actually not removed with Photoshop specifically, but rather greatly reduced with a series of computer software packages that included Astro Pixel Processor, DeepSkyStacker, and PixInsight. All of this work was done not to deceive you with a digital fantasy that has little to do with the real likeness of the Andromeda galaxy (M31), but to minimize Earthly artifacts that have nothing to do with the distant galaxy and so better recreate what M31 really does look like.",
+      "image": {
+        "src": "data/images/1e36042e5621d25b.jpg",
+        "alt": "Andromeda before Photoshop",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap191014.html",
+        "trustTier": "encyclopedic",
+        "date": "2019-10-14"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:13.516Z",
+      "hash": "6f07b01f73aa3366"
+    },
+    {
+      "id": "apod:2009-06-18",
+      "type": "space",
+      "title": "NGC 6240: Merging Galaxies",
+      "summary": "NGC 6240 offers a rare glimpse of a cosmic catastrophe in its final throes. The titanic galaxy-galaxy collision is located a mere 400 million light-years away in the constellation Ophiuchus. One of the brightest sources in the infrared sky, the merging galaxies spew distorted tidal tails of stars, gas, and dust and…",
+      "body": "NGC 6240 offers a rare glimpse of a cosmic catastrophe in its final throes. The titanic galaxy-galaxy collision is located a mere 400 million light-years away in the constellation Ophiuchus. One of the brightest sources in the infrared sky, the merging galaxies spew distorted tidal tails of stars, gas, and dust and undergo frantic bursts of star formation. The two supermassive black holes in the original galactic cores will also coalesce into a single, even more massive black hole. Soon, only one large galaxy will remain. This dramatic image of the scene is a multiwavelength composite; red colors trace infrared emission from dust recorded by the Spitzer Space Telescope, with Hubble visible light images of stars and gas in green and blue hues. The view spans over 300,000 light-years at the estimated distance of NGC 6240.",
+      "image": {
+        "src": "data/images/cb5ec74fe9981b09.jpg",
+        "alt": "NGC 6240: Merging Galaxies",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap090618.html",
+        "trustTier": "encyclopedic",
+        "date": "2009-06-18"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:13.516Z",
+      "hash": "db1d7f0e177fcdaa"
+    },
+    {
+      "id": "apod:2006-06-24",
+      "type": "space",
+      "title": "Nix and Hydra",
+      "summary": "Discovered in mid-2005, Pluto's small moons were provisionally designated S/2005 P1 and S/2005 P2. They have now been officially christened Nix and Hydra. Compared to Pluto and its large moon Charon, at 2,360 and 1,210 kilometers in diameter respectively, Nix (inner moon) and Hydra (outer moon) are tiny, estimated to…",
+      "body": "Discovered in mid-2005, Pluto's small moons were provisionally designated S/2005 P1 and S/2005 P2. They have now been officially christened Nix and Hydra. Compared to Pluto and its large moon Charon, at 2,360 and 1,210 kilometers in diameter respectively, Nix (inner moon) and Hydra (outer moon) are tiny, estimated to be only 40 to 160 kilometers across. Pluto and Charon are bright enough to create diffraction spikes in this Hubble Space Telescope image, but Nix and Hydra are some 5,000 times fainter than Pluto and appear only as small points of light. Still, their new names are appropriate for the distant Pluto system. In mythology, Nix was the goddess of darkness and night and the mother of Charon, while Hydra was a nine headed monster and is now orbiting the solar system's ninth planet. Of course Nix and Hydra also share initials with the pluto-bound spacecraft New Horizons.",
+      "image": {
+        "src": "data/images/904c962557945cda.jpg",
+        "alt": "Nix and Hydra",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap060624.html",
+        "trustTier": "encyclopedic",
+        "date": "2006-06-24"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:13.516Z",
+      "hash": "66aa184db9bd01d6"
+    },
+    {
+      "id": "apod:2020-06-22",
+      "type": "space",
+      "title": "Moon Mountains Magnified during Ring of Fire Eclipse",
+      "summary": "What are those dark streaks in this composite image of yesterday's solar eclipse? They are reversed shadows of mountains at the edge of the Moon. The center image, captured from Xiamen, China, has the Moon's center directly in front of the Sun's center. The Moon, though, was too far from the Earth to completely block…",
+      "body": "What are those dark streaks in this composite image of yesterday's solar eclipse? They are reversed shadows of mountains at the edge of the Moon. The center image, captured from Xiamen, China, has the Moon's center directly in front of the Sun's center. The Moon, though, was too far from the Earth to completely block the entire Sun. Light that streamed around all of the edges of the Moon is called a ring of fire. Images at each end of the sequence show sunlight that streamed through lunar valleys. As the Moon moved further in front of the Sun, left to right, only the higher peaks on the Moon's perimeter could block sunlight. Therefore, the dark streaks are projected, distorted, reversed, and magnified shadows of mountains at the Moon's edge. Bright areas are called Baily's Beads. Only a narrow swath across Earth's Eastern Hemisphere was able to see yesterday's full annular solar eclipse. Next June, though, a narrow swath across Earth's Northern Hemisphere will be able to see the next annular solar eclipse. A total solar eclipse will be visible at the bottom of the world near the end of this year. Gallery: Notable images of the Annular Solar Eclipse of 2020 June submitted to APOD",
+      "image": {
+        "src": "data/images/d4377330cc1613ed.jpg",
+        "alt": "Moon Mountains Magnified during Ring of Fire Eclipse",
+        "credit": "© Wang Letian (Eyes at Night)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap200622.html",
+        "trustTier": "encyclopedic",
+        "date": "2020-06-22"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:13.516Z",
+      "hash": "6c10f3d276aabd6a"
+    },
+    {
+      "id": "onthisday:07-31:1874:051930d43be66b4e",
+      "type": "history",
+      "title": "1874: Patrick Francis Healy",
+      "summary": "Patrick Francis Healy was inaugurated as president of Georgetown University, becoming the first African-American president of a predominantly white university in the United States.",
+      "body": "Patrick Francis Healy was inaugurated as president of Georgetown University, becoming the first African-American president of a predominantly white university in the United States.",
+      "image": {
+        "src": "data/images/65aecd2a3e184928.jpg",
+        "alt": "Patrick Francis Healy",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Patrick_Francis_Healy",
+        "trustTier": "encyclopedic",
+        "date": "07-31"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:12.160Z",
+      "hash": "241c4512490a0732",
+      "expires": "2026-08-03T10:43:12.160Z"
+    },
+    {
+      "id": "onthisday:07-31:1954:d3b5e2c52a604268",
+      "type": "history",
+      "title": "1954: 1954 Italian expedition to K2",
+      "summary": "A team of Italian climbers became the first to reach the summit of K2, the world's second-highest mountain.",
+      "body": "A team of Italian climbers became the first to reach the summit of K2, the world's second-highest mountain.",
+      "image": {
+        "src": "data/images/1083e82bffa4bbd5.jpg",
+        "alt": "1954 Italian expedition to K2",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/1954_Italian_expedition_to_K2",
+        "trustTier": "encyclopedic",
+        "date": "07-31"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:12.160Z",
+      "hash": "ba7c7cc5a2665f97",
+      "expires": "2026-08-03T10:43:12.160Z"
+    },
+    {
+      "id": "onthisday:07-31:1975:9a92bf1f8776f5e7",
+      "type": "history",
+      "title": "1975: The Troubles",
+      "summary": "The Troubles: In a botched paramilitary attack, three members of the popular Miami Showband and two Ulster Volunteer Force gunmen were killed in County Down, Northern Ireland.",
+      "body": "The Troubles: In a botched paramilitary attack, three members of the popular Miami Showband and two Ulster Volunteer Force gunmen were killed in County Down, Northern Ireland.",
+      "image": {
+        "src": "data/images/ad023569a48f9d2a.png",
+        "alt": "The Troubles",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/The_Troubles",
+        "trustTier": "encyclopedic",
+        "date": "07-31"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:12.160Z",
+      "hash": "988f5c22146e3ceb",
+      "expires": "2026-08-03T10:43:12.160Z"
+    },
+    {
+      "id": "wikipedia:33925085",
+      "type": "wiki",
+      "title": "Church of St Peter, Arlesey",
+      "summary": "Church of St Peter is a Grade I listed church in Arlesey, Bedfordshire, England. It became a listed building on 31 October 1966.",
+      "body": "Church of St Peter is a Grade I listed church in Arlesey, Bedfordshire, England. It became a listed building on 31 October 1966.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_St_Peter%2C_Arlesey",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:11.566Z",
+      "hash": "547b8ee64e232b17"
+    },
+    {
+      "id": "wikipedia:53971079",
+      "type": "wiki",
+      "title": "Murders of Abigail Williams and Liberty German",
+      "summary": "The murders of Abigail Williams and Liberty German, also known as the Delphi murders, occurred on February 13, 2017, in Delphi, Indiana, United States. Their bodies were discovered near the Monon High Bridge Trail, part of the Delphi Historic Trails, from which the girls disappeared the previous day. The murders…",
+      "body": "The murders of Abigail Williams and Liberty German, also known as the Delphi murders, occurred on February 13, 2017, in Delphi, Indiana, United States. Their bodies were discovered near the Monon High Bridge Trail, part of the Delphi Historic Trails, from which the girls disappeared the previous day. The murders received extensive media coverage, in part due to video and audio recordings released by law enforcement that came from German's smartphone, which recorded an individual believed to be the killer.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murders_of_Abigail_Williams_and_Liberty_German",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:10.847Z",
+      "hash": "30e20ecc9d3ad88a"
+    },
+    {
+      "id": "wikipedia:62246377",
+      "type": "wiki",
+      "title": "Bytantay",
+      "summary": "The Bytantay is a river in the Republic of Sakha in Russia. It is a left hand tributary of the Yana, and is 620 kilometres (390 mi) long, with a drainage basin of 40,200 square kilometres (15,500 mi2).",
+      "body": "The Bytantay is a river in the Republic of Sakha in Russia. It is a left hand tributary of the Yana, and is 620 kilometres (390 mi) long, with a drainage basin of 40,200 square kilometres (15,500 mi2).",
+      "image": {
+        "src": "data/images/b9d2084c522937a2.png",
+        "alt": "Bytantay",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bytantay",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:10.737Z",
+      "hash": "49fb3cc0f7cdfe04"
+    },
+    {
+      "id": "wikipedia:25727093",
+      "type": "wiki",
+      "title": "Adhémar Schwitzguébel",
+      "summary": "Adhémar Schwitzguébel (1844–1895) was a Swiss anarchist and trade unionist. Associated with the libertarian socialist faction of the International Workingmen's Association (IWA), he co-founded its Jura Federation and participated in the splinter organisation that became the Anti-Authoritarian International.…",
+      "body": "Adhémar Schwitzguébel (1844–1895) was a Swiss anarchist and trade unionist. Associated with the libertarian socialist faction of the International Workingmen's Association (IWA), he co-founded its Jura Federation and participated in the splinter organisation that became the Anti-Authoritarian International. Schwitzguébel became active in the establishment of workers' organisations in Switzerland, establishing the first trade union of watchmakers in the country before his death from stomach cancer.",
+      "image": {
+        "src": "data/images/67412ccd288b2cb8.jpg",
+        "alt": "Adhémar Schwitzguébel",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adh%C3%A9mar_Schwitzgu%C3%A9bel",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-07-31T10:43:10.655Z",
+      "hash": "db6d83246b3499d2"
+    },
     {
       "id": "chess:YxGsl",
       "type": "chess",
@@ -11287,1193 +12490,6 @@
       "difficulty": 3,
       "fetchedAt": "2026-07-21T10:28:05.993Z",
       "hash": "f5db47c88da4c13a"
-    },
-    {
-      "id": "article:cae0a5dfd2360d62",
-      "type": "article",
-      "title": "From Mitochondria to Minds: The Illustrated Science of the Psychedelic Dream Called Life",
-      "summary": "Like consciousness, like music, like love, life itself didn’t have to exist — nothing in the fundamental laws demands it. The universe could have gone on lapping at itself as a horizonless sea of pure spacetime, black and lifeless as the inside of a skull. But, in a whisper that soon became a…",
-      "body": "Like consciousness, like music, like love, life itself didn’t have to exist — nothing in the fundamental laws demands it. The universe could have gone on lapping at itself as a horizonless sea of pure spacetime, black and lifeless as the inside of a skull. But, in a whisper that soon became a symphony, life arose to give us such ceaseless wonders as the ghost pipe and the ginkgo, the bowerbird and the eye of the scallop. Neuroscientist Brian Isett and artist Claudia Biçen celebrate the wonder of how we went from mitochondria to minds in The Silent Teachers: How… read article",
-      "image": {
-        "src": "data/images/706553f29f80ac4a.jpg",
-        "alt": "From Mitochondria to Minds: The Illustrated Science of the Psychedelic Dream Called Life",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/07/19/the-forgotten-teachers/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Sun, 19 Jul 2026 22:26:5"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "books",
-        "enchanted lion",
-        "illustration",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-21T10:28:04.450Z",
-      "hash": "cae0a5dfd2360d62"
-    },
-    {
-      "id": "article:66c67f2edea477e7",
-      "type": "article",
-      "title": "My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed",
-      "summary": "The post My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed appeared first on ProPublica.",
-      "body": "The post My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/a6e70c512bee8d66.jpg",
-        "alt": "My Maddening Quest to Find Out if Blueberries Come From Farms Where Workers Were Harmed",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://projects.propublica.org/blueberries-farmworker-mistreatment/",
-        "trustTier": "publication",
-        "author": "Max Blau",
-        "date": "Tue, 21 Jul 2026 09:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "labor"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-21T10:28:03.842Z",
-      "hash": "66c67f2edea477e7",
-      "expires": "2026-10-19T10:28:03.842Z"
-    },
-    {
-      "id": "article:c3acb63de4867305",
-      "type": "article",
-      "title": "“Better off Dead”: Helen’s Lament for Hektor in Iliad 24",
-      "summary": "Once Hektor’s body is brought back to Troy, Priam and his family prepare for the term of burial promised by Achilles. Following the preparation of the body, three women of the household stand to sing laments in Hektor’s honor. Helen is the last. Homer, Iliad 24.761-775 Helen’s speech has the…",
-      "body": "Once Hektor’s body is brought back to Troy, Priam and his family prepare for the term of burial promised by Achilles. Following the preparation of the body, three women of the household stand to sing laments in Hektor’s honor. Helen is the last. Homer, Iliad 24.761-775 Helen’s speech has the appearance of being rather simple … Continue reading “Better off Dead”: Helen’s Lament for Hektor in Iliad 24",
-      "image": {
-        "src": "data/images/641199bb84d68a9f.jpg",
-        "alt": "“Better off Dead”: Helen’s Lament for Hektor in Iliad 24",
-        "credit": "Sententiae Antiquae"
-      },
-      "source": {
-        "name": "Sententiae Antiquae",
-        "url": "https://sententiaeantiquae.com/2026/07/18/better-off-dead-helens-lament-for-hektor-in-iliad-24/",
-        "trustTier": "community",
-        "author": "sententiaeantiquae",
-        "date": "Sat, 18 Jul 2026 11:14:5"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity",
-        "book 24",
-        "helen",
-        "painful signs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-21T10:28:03.523Z",
-      "hash": "c3acb63de4867305"
-    },
-    {
-      "id": "article:2fd0800da7616983",
-      "type": "article",
-      "title": "For Marco Roth, the cardinal sin of elegy writing “is to make it about oneself more than the deceased”",
-      "summary": "For Marco Roth, the cardinal sin of elegy writing “is to make it about oneself more than the deceased”",
-      "body": "For Marco Roth, the cardinal sin of elegy writing “is to make it about oneself more than the deceased”",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://romanticon.substack.com/p/the-burial-of-the-dead-ffd",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-21T10:28:03.016Z",
-      "hash": "2fd0800da7616983"
-    },
-    {
-      "id": "article:691b217b946be049",
-      "type": "article",
-      "title": "Launching a Second Scientific Revolution",
-      "summary": "If we continue as we have been, the prospect of our children living shorter, less healthy lives than we do is a real possibility. The post Launching a Second Scientific Revolution appeared first on Imprimis.",
-      "body": "If we continue as we have been, the prospect of our children living shorter, less healthy lives than we do is a real possibility. The post Launching a Second Scientific Revolution appeared first on Imprimis.",
-      "image": {
-        "src": "data/images/45d6e0e66209e762.jpg",
-        "alt": "Launching a Second Scientific Revolution",
-        "credit": "Imprimis"
-      },
-      "source": {
-        "name": "Imprimis",
-        "url": "https://imprimis.hillsdale.edu/launching-a-second-scientific-revolution/",
-        "trustTier": "publication",
-        "author": "Jay Bhattacharya",
-        "date": "Fri, 22 May 2026 15:29:2"
-      },
-      "tags": [
-        "ideas",
-        "liberty",
-        "lecture",
-        "economics",
-        "education",
-        "health care",
-        "technology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-21T10:28:02.617Z",
-      "hash": "691b217b946be049"
-    },
-    {
-      "id": "article:c7bcab4a2af633d6",
-      "type": "article",
-      "title": "Archie G. Norcross’ Maine Forest Fire Maps (1918–22)",
-      "summary": "Circular maps custom-made for the fire towers that once dotted the American wilderness.",
-      "body": "Circular maps custom-made for the fire towers that once dotted the American wilderness.",
-      "image": {
-        "src": "data/images/ed13507d4a8d51b6.jpg",
-        "alt": "Archie G. Norcross’ Maine Forest Fire Maps (1918–22)",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps",
-        "trustTier": "publication",
-        "date": "Tue, 14 Jul 2026 15:21:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-21T10:28:01.840Z",
-      "hash": "c7bcab4a2af633d6"
-    },
-    {
-      "id": "greek:4bbb5e9bfb47d245",
-      "type": "greek",
-      "title": "Ἰησοῦς",
-      "summary": "Ἰησοῦς — “Jesus” · noun",
-      "body": "Note: irregular declension: gen/dat Ἰησοῦ, acc Ἰησοῦν\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%B8%CE%B7%CF%83%CE%BF%E1%BF%A6%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_proper"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:28:00.152Z",
-      "hash": "4bbb5e9bfb47d245"
-    },
-    {
-      "id": "greek:468925ba1a4bcffd",
-      "type": "greek",
-      "title": "εἰς",
-      "summary": "εἰς — “into, to” · preposition",
-      "body": "Note: takes accusative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%B5%E1%BC%B0%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "preposition",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-21T10:28:00.152Z",
-      "hash": "468925ba1a4bcffd"
-    },
-    {
-      "id": "poetry:5270276b4c6e1518",
-      "type": "poem",
-      "title": "A Woman's Shortcomings",
-      "summary": "She has laughed as softly as if she sighed,\nShe has counted six, and over,\nOf a purse well filled, and a heart well tried -\nOh, each a worthy lover!",
-      "body": "She has laughed as softly as if she sighed,\nShe has counted six, and over,\nOf a purse well filled, and a heart well tried -\nOh, each a worthy lover!\nThey \"give her time\"; for her soul must slip\nWhere the world has set the grooving;\nShe will lie to none with her fair red lip:\nBut love seeks truer loving.\n\nShe trembles her fan in a sweetness dumb,\nAs her thoughts were beyond recalling;\nWith a glance for one, and a glance for some,\nFrom her eyelids rising and falling;\nSpeaks common words with a blushful air,\nHears bold words, unreproving;\nBut her silence says - what she never will swear -\nAnd love seeks better loving.\n\nGo, lady! lean to the night-guitar,\nAnd drop a smile to the bringer;\nThen smile as sweetly, when he is far,\nAt the voice of an in-door singer.\nBask tenderly beneath tender eyes;\nGlance lightly, on their removing;\nAnd join new vows to old perjuries -\nBut dare not call it loving!\n\nUnless you can think, when the song is done,\nNo other is soft in the rhythm;\nUnless you can feel, when left by One,\nThat all men else go with him;\nUnless you can know, when unpraised by his breath,\nThat your beauty itself wants proving;\nUnless you can swear \"For life, for death!\" -\nOh, fear to call it loving!\n\nUnless you can muse in a crowd all day\nOn the absent face that fixed you;\nUnless you can love, as the angels may,\nWith the breadth of heaven betwixt you;\nUnless you can dream that his faith is fast,\nThrough behoving and unbehoving;\nUnless you can die when the dream is past -\nOh, never call it loving!",
-      "source": {
-        "name": "Elizabeth Barrett Browning · PoetryDB",
-        "url": "https://poetrydb.org/title/A%20Woman's%20Shortcomings",
-        "trustTier": "community",
-        "author": "Elizabeth Barrett Browning"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-21T10:28:00.150Z",
-      "hash": "5270276b4c6e1518"
-    },
-    {
-      "id": "poetry:a61fe11d13770be3",
-      "type": "poem",
-      "title": "Sonnet.  to a Balloon Laden With Knowledge",
-      "summary": "Bright ball of flame that through the gloom of even\nSilently takest thine aethereal way,\nAnd with surpassing glory dimm'st each ray\nTwinkling amid the dark blue depths of Heaven,--",
-      "body": "Bright ball of flame that through the gloom of even\nSilently takest thine aethereal way,\nAnd with surpassing glory dimm'st each ray\nTwinkling amid the dark blue depths of Heaven,--\nUnlike the fire thou bearest, soon shalt thou\nFade like a meteor in surrounding gloom,\nWhilst that, unquenchable, is doomed to glow\nA watch-light by the patriot's lonely tomb;\nA ray of courage to the oppressed and poor;\nA spark, though gleaming on the hovel's hearth,\nWhich through the tyrant's gilded domes shall roar;\nA beacon in the darkness of the Earth;\nA sun which, o'er the renovated scene,\nShall dart like Truth where Falsehood yet has been.",
-      "source": {
-        "name": "Percy Bysshe Shelley · PoetryDB",
-        "url": "https://poetrydb.org/title/Sonnet.%20%20to%20a%20Balloon%20Laden%20With%20Knowledge",
-        "trustTier": "community",
-        "author": "Percy Bysshe Shelley"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-21T10:28:00.150Z",
-      "hash": "a61fe11d13770be3"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399785385-1",
-      "type": "art",
-      "title": "Carl Wimar Self-Portrait",
-      "summary": "National Portrait Gallery · 1850s · Paintings",
-      "body": "National Portrait Gallery\n1850s · Paintings",
-      "image": {
-        "src": "data/images/1d665a56ad58582f.jpg",
-        "alt": "Carl Wimar Self-Portrait",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_NPG.67.61",
-        "trustTier": "encyclopedic",
-        "date": "1850s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-21T10:27:59.668Z",
-      "hash": "269c8b0f3655334f"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399780209-0",
-      "type": "art",
-      "title": "John Barrymore Self-Portrait",
-      "summary": "National Portrait Gallery · 1920s · Drawings",
-      "body": "National Portrait Gallery\n1920s · Drawings",
-      "image": {
-        "src": "data/images/9f0b6dd69874f9e5.jpg",
-        "alt": "John Barrymore Self-Portrait",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_NPG.71.33",
-        "trustTier": "encyclopedic",
-        "date": "1920s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-21T10:27:59.668Z",
-      "hash": "e7c59c1c9aad5a76"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399761067-0",
-      "type": "art",
-      "title": "Edward Penfield Self-Portrait",
-      "summary": "National Portrait Gallery · 1890s · Prints",
-      "body": "National Portrait Gallery\n1890s · Prints",
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_NPG.89.153",
-        "trustTier": "encyclopedic",
-        "date": "1890s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-21T10:27:59.668Z",
-      "hash": "6612ee731aadf06f"
-    },
-    {
-      "id": "met:209799",
-      "type": "art",
-      "title": "Fan",
-      "summary": "Ferogio (François Fortuné Antoine) · ca. 1880 · Parchment, paint, mother-of-pearl, gilt",
-      "body": "Ferogio (François Fortuné Antoine) · ca. 1880 · Parchment, paint, mother-of-pearl, gilt\nGift of Mrs. William Randolph Hearst, 1963\nEuropean Sculpture and Decorative Arts",
-      "image": {
-        "src": "data/images/d4916e9bad3f1192.jpg",
-        "alt": "Fan",
-        "credit": "The Met · Gift of Mrs. William Randolph Hearst, 1963"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/209799",
-        "trustTier": "encyclopedic",
-        "author": "Ferogio (François Fortuné Antoine)",
-        "date": "ca. 1880"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "dancer",
-        "fans"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-21T10:27:58.248Z",
-      "hash": "e6e7881d689089c5"
-    },
-    {
-      "id": "met:454817",
-      "type": "art",
-      "title": "Prince Aurangzeb",
-      "summary": "Unknown artist · ca. 1653–55 · Opaque watercolor and gold on cloth",
-      "body": "Unknown artist · ca. 1653–55 · Opaque watercolor and gold on cloth\nHoward Hodgkin Collection, Purchase, Florence and Herbert Irving Acquisitions, Harris Brisbane Dick, and 2020 Benefit Funds; Howard S. and Nancy Marks, Lila Acheson Wallace, and Friends of Islamic Art Gifts; Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest; and funds from various donors, 2022\nIslamic Art",
-      "image": {
-        "src": "data/images/0d1716792dffdd6f.jpg",
-        "alt": "Prince Aurangzeb",
-        "credit": "The Met · Howard Hodgkin Collection, Purchase, Florence and Herbert Irving Acquisitions, Harris Brisbane Dick, and 2020 Benefit Funds; Howard S. and Nancy Marks, Lila Acheson Wallace, and Friends of Islamic Art Gifts; Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest; and funds from various donors, 2022"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/454817",
-        "trustTier": "encyclopedic",
-        "date": "ca. 1653–55"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "dancer",
-        "codices"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-21T10:27:58.013Z",
-      "hash": "8b583593159a4cb3"
-    },
-    {
-      "id": "met:700691",
-      "type": "art",
-      "title": "The royal family sitting under a canopy, watching dancers perform the opening ballet of 'La Costanza d'Ulisse'",
-      "summary": "Johann Ulrich Kraus · ca. 1700 · Etching",
-      "body": "Johann Ulrich Kraus · ca. 1700 · Etching\nHarris Brisbane Dick Fund, 1953\nDrawings and Prints",
-      "image": {
-        "src": "data/images/d115167435e8498e.jpg",
-        "alt": "The royal family sitting under a canopy, watching dancers perform the opening ballet of 'La Costanza d'Ulisse'",
-        "credit": "The Met · Harris Brisbane Dick Fund, 1953"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/700691",
-        "trustTier": "encyclopedic",
-        "author": "Johann Ulrich Kraus",
-        "date": "ca. 1700"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "dancer",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-21T10:27:57.901Z",
-      "hash": "7d73c4d91ebd6a05"
-    },
-    {
-      "id": "apod:2002-09-18",
-      "type": "space",
-      "title": "A Sagittarius Starscape",
-      "summary": "Many vast star fields in the plane of our Milky Way Galaxy are rich in clouds of stars, dust, and gas. First and foremost, visible in the above picture are millions of stars, many of which are similar to our Sun. Next huge filaments of dark interstellar dust run across the image and block the light from millions of…",
-      "body": "Many vast star fields in the plane of our Milky Way Galaxy are rich in clouds of stars, dust, and gas. First and foremost, visible in the above picture are millions of stars, many of which are similar to our Sun. Next huge filaments of dark interstellar dust run across the image and block the light from millions of more stars yet further across our Galaxy. The bright red region on the left is the Omega Nebula, an emission nebula of mostly hot hydrogen gas also known as M17. A small bright grouping of stars near the image center is the open cluster M18, while the long bright streak of stars just right of center is M24. On the far right of the image is the picturesque red emission nebula IC 1283 flanked by two blue reflection nebulas NGC 6589 and NGC 6590. These objects are visible with a small telescope toward the constellation of Sagittarius.",
-      "image": {
-        "src": "data/images/13d312eec67e9299.jpg",
-        "alt": "A Sagittarius Starscape",
-        "credit": "© AAO"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap020918.html",
-        "trustTier": "encyclopedic",
-        "date": "2002-09-18"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:57.164Z",
-      "hash": "2760bced84c8f4c2"
-    },
-    {
-      "id": "apod:2025-04-07",
-      "type": "space",
-      "title": "NGC 4414: A Flocculent Spiral Galaxy",
-      "summary": "How much mass do flocculent spirals hide? The featured image of flocculent spiral galaxy NGC 4414 was taken with the Hubble Space Telescope to help answer this question. Flocculent spirals -- galaxies without well-defined spiral arms -- are a quite common form of galaxy, and NGC 4414 is one of the closest. Stars and…",
-      "body": "How much mass do flocculent spirals hide? The featured image of flocculent spiral galaxy NGC 4414 was taken with the Hubble Space Telescope to help answer this question. Flocculent spirals -- galaxies without well-defined spiral arms -- are a quite common form of galaxy, and NGC 4414 is one of the closest. Stars and gas near the visible edge of spiral galaxies orbit the center so fast that the gravity from a large amount of unseen dark matter must be present to hold them together. Understanding the matter and dark matter distribution of NGC 4414 helps humanity calibrate the rest of the galaxy and, by deduction, flocculent spirals in general. Further, calibrating the distance to NGC 4414 helps humanity calibrate the cosmological distance scale of the entire visible universe.",
-      "image": {
-        "src": "data/images/a3135b965633fea8.jpg",
-        "alt": "NGC 4414: A Flocculent Spiral Galaxy",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap250407.html",
-        "trustTier": "encyclopedic",
-        "date": "2025-04-07"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:57.164Z",
-      "hash": "703bee18728b72df"
-    },
-    {
-      "id": "apod:1995-12-10",
-      "type": "space",
-      "title": "Apollo 14 Deploys ALSEP",
-      "summary": "After the lunar module of Apollo 14 set down on the Moon, Astronauts Alan Shepard and Edgar Mitchell deployed the Apollo Lunar Surface Experiments Package (ALSEP) and collected samples of lunar material. The ALSEP scientific experiments included a seismometer sensitive to slight lunar surface movements, and charged…",
-      "body": "After the lunar module of Apollo 14 set down on the Moon, Astronauts Alan Shepard and Edgar Mitchell deployed the Apollo Lunar Surface Experiments Package (ALSEP) and collected samples of lunar material. The ALSEP scientific experiments included a seismometer sensitive to slight lunar surface movements, and charged particle detectors which measured the solar wind. The seismometer successfully measured surface tremors interpreted as moonquakes and meteoroids striking the Moon, while the solar wind experiment was sensitive enough to detect the element argon. These and other ALSEP experiments helped classify the internal structure and magnetic field of Earth's Moon. Shepard and Mitchell also made a geology traverse to the rim of Cone Crater, carrying their tools and sample containers in the Modular Equipment Transporter (MET). In this picture Alan Shepard assembles a core tube which he will then hammer into the surface.",
-      "image": {
-        "src": "data/images/1b3b3f06fa0fcd04.gif",
-        "alt": "Apollo 14 Deploys ALSEP",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap951210.html",
-        "trustTier": "encyclopedic",
-        "date": "1995-12-10"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:57.164Z",
-      "hash": "3739674a303beff6"
-    },
-    {
-      "id": "apod:2022-12-21",
-      "type": "space",
-      "title": "Sun Halo at Sixty-three Degrees North",
-      "summary": "Happy Solstice! Today is the December solstice, marking an astronomical beginning of summer in the southern hemisphere and winter in the north. On its yearly trek through planet Earth's skies, at this solstice the Sun reaches its southern most declination, 23.5 degrees south, at 21:48 UTC. About 4 days ago the Sun…",
-      "body": "Happy Solstice! Today is the December solstice, marking an astronomical beginning of summer in the southern hemisphere and winter in the north. On its yearly trek through planet Earth's skies, at this solstice the Sun reaches its southern most declination, 23.5 degrees south, at 21:48 UTC. About 4 days ago the Sun was near this seasonal southern limit and so only just above the horizon at local noon from Ostersund in central Sweden. This view looking over the far northern lakeside city finds the midday Sun with a beautiful solar ice halo. Naturally occurring atmospheric ice crystals can produce the tantalizing halo displays, refracting and reflecting the sunlight through their hexagonal geometry. Still, with the Sun low and near the horizon in the clear sky, likely sources of the ice crystals producing this intense halo are snow cannons. Operating at a local ski area, the snowmaking machines create a visible plume at the top of the nearby island Froson toward the right side of the panorama.",
-      "image": {
-        "src": "data/images/8559d1ed4846ec32.jpg",
-        "alt": "Sun Halo at Sixty-three Degrees North",
-        "credit": "© Goran Strand"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap221221.html",
-        "trustTier": "encyclopedic",
-        "date": "2022-12-21"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:57.164Z",
-      "hash": "225074b157c5f030"
-    },
-    {
-      "id": "apod:1995-10-18",
-      "type": "space",
-      "title": "A Storm on Saturn",
-      "summary": "The white wisp shown on Saturn's cloud tops is actually a major storm system only discovered in December of 1994. Saturn's clouds are composed of primarily hydrogen and helium, but the storm's white clouds are actually ammonia ice crystals that have frozen upon upheaval to the top of the atmosphere. The storm may…",
-      "body": "The white wisp shown on Saturn's cloud tops is actually a major storm system only discovered in December of 1994. Saturn's clouds are composed of primarily hydrogen and helium, but the storm's white clouds are actually ammonia ice crystals that have frozen upon upheaval to the top of the atmosphere. The storm may look small but has an extent similar to the diameter of the Earth. This picture is a color composite of several taken by the Hubble Space Telescope. Saturn is the second largest planet in the Solar System and has the most elaborate ring system.",
-      "image": {
-        "src": "data/images/ad39d78211a9e908.gif",
-        "alt": "A Storm on Saturn",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap951018.html",
-        "trustTier": "encyclopedic",
-        "date": "1995-10-18"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:57.164Z",
-      "hash": "b5ef10d27c682c6f"
-    },
-    {
-      "id": "onthisday:07-21:1959:1a14c1900c0cf38c",
-      "type": "history",
-      "title": "1959: International Mathematical Olympiad",
-      "summary": "The inaugural International Mathematical Olympiad, the leading mathematical competition for pre-university students, began in Romania.",
-      "body": "The inaugural International Mathematical Olympiad, the leading mathematical competition for pre-university students, began in Romania.",
-      "image": {
-        "src": "data/images/7c3aac3d30031832.png",
-        "alt": "International Mathematical Olympiad",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/International_Mathematical_Olympiad",
-        "trustTier": "encyclopedic",
-        "date": "07-21"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:56.212Z",
-      "hash": "85abc6a932f478a0",
-      "expires": "2026-07-24T10:27:56.212Z"
-    },
-    {
-      "id": "onthisday:07-21:905:8541e3163cfd60f1",
-      "type": "history",
-      "title": "905: Louis the Blind",
-      "summary": "Louis III, Holy Roman Emperor, was captured and blinded during his attempt to restore Carolingian power over Italy by King Berengar I.",
-      "body": "Louis III, Holy Roman Emperor, was captured and blinded during his attempt to restore Carolingian power over Italy by King Berengar I.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Louis_the_Blind",
-        "trustTier": "encyclopedic",
-        "date": "07-21"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:56.212Z",
-      "hash": "6c3940eecb668dc2",
-      "expires": "2026-07-24T10:27:56.212Z"
-    },
-    {
-      "id": "onthisday:07-21:625:3ee6d8827f8b2b2d",
-      "type": "history",
-      "title": "625: Paulinus of York",
-      "summary": "Paulinus was consecrated as the first bishop of York by Justus, the archbishop of Canterbury.",
-      "body": "Paulinus was consecrated as the first bishop of York by Justus, the archbishop of Canterbury.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Paulinus_of_York",
-        "trustTier": "encyclopedic",
-        "date": "07-21"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:56.212Z",
-      "hash": "d00ee95496f3b602",
-      "expires": "2026-07-24T10:27:56.212Z"
-    },
-    {
-      "id": "wikipedia:71444157",
-      "type": "wiki",
-      "title": "Bäck Anders Hansson",
-      "summary": "Bäck Anders Hansson (1790–1867) was a swedish decorative painter active in Dalarna and surrounding regions.",
-      "body": "Bäck Anders Hansson (1790–1867) was a swedish decorative painter active in Dalarna and surrounding regions.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/B%C3%A4ck_Anders_Hansson",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:55.613Z",
-      "hash": "e4abca5327f77dae"
-    },
-    {
-      "id": "wikipedia:22568417",
-      "type": "wiki",
-      "title": "Nolife (TV channel)",
-      "summary": "Nolife was a French TV network. It described itself as TV \"for geeks, nerds and otakus\". Its main programming focused on videogames, Japanese culture, technology and various other topics. Its slogan was \"Y a pas que la vraie vie dans la vie !\".",
-      "body": "Nolife was a French TV network. It described itself as TV \"for geeks, nerds and otakus\". Its main programming focused on videogames, Japanese culture, technology and various other topics. Its slogan was \"Y a pas que la vraie vie dans la vie !\".",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Nolife_(TV_channel)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:54.635Z",
-      "hash": "48ea7117f24a5f47"
-    },
-    {
-      "id": "wikipedia:59712080",
-      "type": "wiki",
-      "title": "José Letelier",
-      "summary": "José Antonio Letelier Henríquez is a Chilean football coach and former professional goalkeeper. He was the head coach of the Chile women's national football team from 2015 to 2023. He is currently in charge of Peruvian side Alianza Lima (women).",
-      "body": "José Antonio Letelier Henríquez is a Chilean football coach and former professional goalkeeper. He was the head coach of the Chile women's national football team from 2015 to 2023. He is currently in charge of Peruvian side Alianza Lima (women).",
-      "image": {
-        "src": "data/images/dfe7f815306df69a.jpg",
-        "alt": "José Letelier",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Letelier",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:54.401Z",
-      "hash": "3b4f16c3567c1021"
-    },
-    {
-      "id": "wikipedia:10900485",
-      "type": "wiki",
-      "title": "Counting agent",
-      "summary": "A counting agent or count agent is a type of electoral observer and may be self-nominated, appointed by either the candidate standing for election or the candidate's election agent to oversee the counting at the election count.",
-      "body": "A counting agent or count agent is a type of electoral observer and may be self-nominated, appointed by either the candidate standing for election or the candidate's election agent to oversee the counting at the election count.",
-      "image": {
-        "src": "data/images/e70858b76f408012.png",
-        "alt": "Counting agent",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Counting_agent",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-21T10:27:54.068Z",
-      "hash": "dce18ef05cf8df2f"
-    },
-    {
-      "id": "chess:NY2PS",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1749. Find the best line for white.",
-      "body": "Solution, from → to: e5→f7, d8→f6, g3→e5. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "r1bq1r2/pppp1pk1/7p/2b1N1pQ/2Bnn3/6B1/PPP2PPP/RN3RK1 w - - 1 1",
-        "lastMove": "g8g7"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/NY2PS",
-        "trustTier": "community",
-        "date": "Mon, 20 Jul 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "opening",
-        "crushing",
-        "short",
-        "pin"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-20T10:57:08.169Z",
-      "hash": "1efcbe4f81a54851"
-    },
-    {
-      "id": "game:5d7498c721e9d845",
-      "type": "game",
-      "title": "Two thirds of remaining Doom (2016) devs laid off during latest round of Xbox cuts",
-      "summary": "'I've been a gamer my whole life. If you cut a stat in half everyone would call that nerfed.'",
-      "body": "'I've been a gamer my whole life. If you cut a stat in half everyone would call that nerfed.'",
-      "image": {
-        "src": "data/images/b90e23a30ea4b0cb.png",
-        "alt": "Two thirds of remaining Doom (2016) devs laid off during latest round of Xbox cuts",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/production/two-thirds-of-doom-2016-development-team-laid-off-during-latest-round-of-xbox-cuts",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Mon, 20 Jul 2026 09:56:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-20T10:57:07.650Z",
-      "hash": "5d7498c721e9d845",
-      "expires": "2026-10-18T10:57:07.650Z"
-    },
-    {
-      "id": "trivia:61b59473762fcdd8",
-      "type": "trivia",
-      "title": "Which two men are credited with independently discovering differential calculus?",
-      "summary": "Is it: Plato and Aristotle · Newton and Leibnitz · Dvorak and Smith · Asiimov and Rutherford?",
-      "body": "Answer: Newton and Leibnitz.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "mathematics"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-20T10:57:04.958Z",
-      "hash": "61b59473762fcdd8"
-    },
-    {
-      "id": "trivia:e5221736e09d88c3",
-      "type": "trivia",
-      "title": "Which of these characters is the mascot of the video game company SEGA?",
-      "summary": "Is it: Opa-Opa · Alex Kidd · Dynamite Headdy · Sonic the Hedgehog?",
-      "body": "Answer: Sonic the Hedgehog.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-20T10:57:04.958Z",
-      "hash": "e5221736e09d88c3"
-    },
-    {
-      "id": "trivia:853a8d175b44df98",
-      "type": "trivia",
-      "title": "What year did the James Cameron film \"Titanic\" come out in theaters?",
-      "summary": "Is it: 1999 · 1996 · 1997 · 1998?",
-      "body": "Answer: 1997.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "film"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-20T10:57:04.958Z",
-      "hash": "853a8d175b44df98"
-    },
-    {
-      "id": "trivia:f8ba450534a2baab",
-      "type": "trivia",
-      "title": "How many seasons did the Sci-Fi television show \"Stargate Atlantis\" have?",
-      "summary": "Is it: 10 · 2 · 7 · 5?",
-      "body": "Answer: 5.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "television"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-20T10:57:04.958Z",
-      "hash": "f8ba450534a2baab"
-    },
-    {
-      "id": "passage:gutenberg:1661",
-      "type": "passage",
-      "title": "The Adventures of Sherlock Holmes",
-      "summary": "To Sherlock Holmes she is always _the_ woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it,…",
-      "body": "To Sherlock Holmes she is always _the_ woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer—excellent for drawing the veil from men’s motives and actions. But for the trained…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1661",
-        "trustTier": "publication",
-        "author": "Arthur Conan Doyle",
-        "date": "1892"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "mystery",
-        "detective",
-        "short-stories"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-20T10:57:04.363Z",
-      "hash": "a0f5107d6d420b1e"
-    },
-    {
-      "id": "comic:smbc:682415aa9e0c159b",
-      "type": "comic",
-      "title": "Poof",
-      "summary": "Actually, things were at their best during the last year of my life when I had no responsibilities.",
-      "image": {
-        "src": "data/images/6206e1ad047fbaad.png",
-        "alt": "Actually, things were at their best during the last year of my life when I had no responsibilities.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/poof",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Sun, 19 Jul 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-20T10:57:03.199Z",
-      "hash": "682415aa9e0c159b"
-    },
-    {
-      "id": "comic:xkcd:958",
-      "type": "comic",
-      "title": "Hotels",
-      "summary": "'Rating: 1/5. Room filled to brim with semen, and when front desk clerk opened mouth to talk, bedbugs poured out.'",
-      "body": "[[Person 1 is sitting at a desk with a laptop, looking at a review website]] Person 1: What's with this negative review? You *liked* that hotel. Black Hat Man: I have a script that posts a bad review for every hotel I stay at. It reduces demand, which means more vacancies and lower prices next time. Person 1: What if the place sucks? Black Hat Man: I change the review to positive to steer other people over there. Person 1: You punish companies you like! Black Hat Man: The odds of *my* review putting a hotel out of business are negligible. Person 1: If we all did that the system would collapse! Black Hat Man: Doesn't affect my logic. Tragedy of the commons. Person 1: That's not even the…",
-      "image": {
-        "src": "data/images/efe1508a0ae1b5e8.png",
-        "alt": "'Rating: 1/5. Room filled to brim with semen, and when front desk clerk opened mouth to talk, bedbugs poured out.'",
-        "credit": "xkcd #958 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/958/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2011-09-30"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-20T10:57:02.877Z",
-      "hash": "b28b74a1a10aea10"
-    },
-    {
-      "id": "word:0331353fdca40f3f",
-      "type": "word",
-      "title": "halcyon",
-      "summary": "Noun: A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.",
-      "body": "1. A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.\n2. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.\n3. A tropical kingfisher of the genus Halcyon, such as the sacred kingfisher (Halcyon sancta) of Australia.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/halcyon",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-20T10:57:00.962Z",
-      "hash": "0331353fdca40f3f"
-    },
-    {
-      "id": "quote:75c2a45a2a38ed5b",
-      "type": "quote",
-      "title": "“Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!”",
-      "summary": "— Tony Robbins",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Tony_Robbins",
-        "trustTier": "community",
-        "author": "Tony Robbins"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-20T10:56:59.297Z",
-      "hash": "75c2a45a2a38ed5b"
-    },
-    {
-      "id": "quote:f6fcfbf90840e134",
-      "type": "quote",
-      "title": "“Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.”",
-      "summary": "— Peter Drucker",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Peter_Drucker",
-        "trustTier": "community",
-        "author": "Peter Drucker"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-20T10:56:59.297Z",
-      "hash": "f6fcfbf90840e134"
-    },
-    {
-      "id": "quote:ff37bdaa6c305163",
-      "type": "quote",
-      "title": "“How to get more opportunity: Create more opportunity for others.”",
-      "summary": "— Jack Butcher",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Jack_Butcher",
-        "trustTier": "community",
-        "author": "Jack Butcher"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-20T10:56:59.297Z",
-      "hash": "ff37bdaa6c305163"
-    },
-    {
-      "id": "article:c23d1baf0ca71558",
-      "type": "article",
-      "title": "Is generational punctuation still a thing?",
-      "summary": "Apparently so, though it's continuing to evolve. Reviewing Florence Hazrat's forthcoming book On the Mark: From Periods to Interrobangs, How Punctuation Remade the World, Judith Shulevitz focuses on the current generational and contextual differences in English punctuation (\"Punctuation: A…",
-      "body": "Apparently so, though it's continuing to evolve. Reviewing Florence Hazrat's forthcoming book On the Mark: From Periods to Interrobangs, How Punctuation Remade the World, Judith Shulevitz focuses on the current generational and contextual differences in English punctuation (\"Punctuation: A generational divide\", The Atlantic 7/14/2026). There was a flurry of attention to such things a couple […]",
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73871&utm_source=rss&utm_medium=rss&utm_campaign=is-generational-punctuation-still-a-thing",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Sun, 19 Jul 2026 14:46:2"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "diglossia and digraphia"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-20T10:56:48.476Z",
-      "hash": "c23d1baf0ca71558"
-    },
-    {
-      "id": "article:c48c7c08aeb8f295",
-      "type": "article",
-      "title": "This Is How To Live A Good Life: 5 Secrets From Ancient Wisdom",
-      "summary": "How do we live a good life? Gahhhhhhhhh. Why don’t we ever deal with easy questions on this blog, huh? Who decides this stuff? (Don’t answer that.) Look, alright, nobody, and I mean NOBODY, knows what they’re doing. I spent the first few decades of my life thinking everybody else received a Secret…",
-      "body": "How do we live a good life? Gahhhhhhhhh. Why don’t we ever deal with easy questions on this blog, huh? Who decides this stuff? (Don’t answer that.) Look, alright, nobody, and I mean NOBODY, knows what they’re doing. I spent the first few decades of my life thinking everybody else received a Secret Pamphlet and […] The post This Is How To Live A Good Life: 5 Secrets From Ancient Wisdom appeared first on Barking Up The Wrong Tree.",
-      "image": {
-        "src": "data/images/c87da18994b5e91c.jpg",
-        "alt": "This Is How To Live A Good Life: 5 Secrets From Ancient Wisdom",
-        "credit": "Barking Up the Wrong Tree"
-      },
-      "source": {
-        "name": "Barking Up the Wrong Tree",
-        "url": "https://bakadesuyo.com/2026/07/how-to-live-a-good-life/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-live-a-good-life",
-        "trustTier": "community",
-        "author": "Eric Barker",
-        "date": "Sun, 19 Jul 2026 18:05:5"
-      },
-      "tags": [
-        "psychology",
-        "self-improvement",
-        "science",
-        "live the good life"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-20T10:56:47.149Z",
-      "hash": "c48c7c08aeb8f295"
-    },
-    {
-      "id": "article:5b333d524c740dd8",
-      "type": "article",
-      "title": "How to Learn Creative Skills",
-      "summary": "Creative skills often seem shrouded in mystery. While learning math and languages may be difficult, at least they are somewhat straightforward. Getting good requires a lot of practice, but there are well-worn paths to take. In contrast, creative skills have an aura of unlearnability to them.…",
-      "body": "Creative skills often seem shrouded in mystery. While learning math and languages may be difficult, at least they are somewhat straightforward. Getting good requires a lot of practice, but there are well-worn paths to take. In contrast, creative skills have an aura of unlearnability to them. Either you have creative talent, or you don’t. But […] The post How to Learn Creative Skills appeared first on Scott H Young.",
-      "image": {
-        "src": "data/images/b0c3506694d32131.png",
-        "alt": "How to Learn Creative Skills",
-        "credit": "Scott H. Young"
-      },
-      "source": {
-        "name": "Scott H. Young",
-        "url": "https://www.scotthyoung.com/blog/2026/07/16/how-to-learn-creative-skills/",
-        "trustTier": "community",
-        "author": "Scott Young",
-        "date": "Thu, 16 Jul 2026 16:14:2"
-      },
-      "tags": [
-        "learning",
-        "productivity",
-        "ideas",
-        "general"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-20T10:56:45.579Z",
-      "hash": "5b333d524c740dd8"
-    },
-    {
-      "id": "article:94d09ece2348887e",
-      "type": "article",
-      "title": "Radar Map Shows Wildfires in Canada Blanketing the US with Smoke",
-      "summary": "More than 800 wildfires are currently active The post Radar Map Shows Wildfires in Canada Blanketing the US with Smoke appeared first on Nautilus.",
-      "body": "More than 800 wildfires are currently active The post Radar Map Shows Wildfires in Canada Blanketing the US with Smoke appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/f99ce2d50a3b1748.png",
-        "alt": "Radar Map Shows Wildfires in Canada Blanketing the US with Smoke",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/radar-map-shows-wildfires-in-canada-blanketing-the-us-with-smoke-1282776/",
-        "trustTier": "publication",
-        "author": "David Nield",
-        "date": "Fri, 17 Jul 2026 21:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "environment"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-20T10:56:44.935Z",
-      "hash": "94d09ece2348887e"
-    },
-    {
-      "id": "article:e0e0b23d36bba62d",
-      "type": "article",
-      "title": "Drinking Water With Meals May Make You Eat More, Not Less",
-      "summary": "This common dieting tip might be a myth The post Drinking Water With Meals May Make You Eat More, Not Less appeared first on Nautilus.",
-      "body": "This common dieting tip might be a myth The post Drinking Water With Meals May Make You Eat More, Not Less appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/cb965db8d8ca8e4c.png",
-        "alt": "Drinking Water With Meals May Make You Eat More, Not Less",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/drinking-water-with-meals-may-make-you-eat-more-not-less-1282772/",
-        "trustTier": "publication",
-        "author": "Jake Currie",
-        "date": "Fri, 17 Jul 2026 20:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "health"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-20T10:56:44.935Z",
-      "hash": "e0e0b23d36bba62d"
     },
     {
       "id": "curated:handwriting-beats-typing",

@@ -1,7 +1,857 @@
 {
-  "generatedAt": "2026-08-01T10:03:12.484Z",
+  "generatedAt": "2026-08-02T10:01:20.856Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:X0Xmi",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1869. Find the best line for white.",
+      "body": "Solution, from → to: e2→e6, f8→f7, e6→g4. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "r2q1rk1/pbp3bp/1p1pp1p1/8/3P1Pn1/2NB1N2/PPP1QP2/R3K2R w KQ - 0 1",
+        "lastMove": "f7g6"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/X0Xmi",
+        "trustTier": "community",
+        "date": "Sun, 02 Aug 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "middlegame",
+        "short",
+        "advantage",
+        "fork"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-08-02T10:01:14.414Z",
+      "hash": "69d62e0b28d4f5eb"
+    },
+    {
+      "id": "trivia:89d1af658d1b7fd0",
+      "type": "trivia",
+      "title": "The land mass of modern day Turkey is called what?",
+      "summary": "Is it: Ottoma · Ismuth of Anatolia · Ismuth of Ottoma · Anatolia?",
+      "body": "Answer: Anatolia.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "geography"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:01:11.003Z",
+      "hash": "89d1af658d1b7fd0"
+    },
+    {
+      "id": "trivia:4cfba92475af21fa",
+      "type": "trivia",
+      "title": "Tetsuya Fujita was a scientist that developed the scale for which natural disaster?",
+      "summary": "Is it: Volcanoes · Tornadoes · Earthquakes · Hurricanes?",
+      "body": "Answer: Tornadoes.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "science & nature"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:01:11.003Z",
+      "hash": "4cfba92475af21fa"
+    },
+    {
+      "id": "trivia:8a0703397f758b19",
+      "type": "trivia",
+      "title": "In the episode of SpongeBob SquarePants, \"Survival of the Idiots\", Spongebob called Patrick which nickname?",
+      "summary": "Is it: Pinhead · Larry · Dirty Dan · Starfish?",
+      "body": "Answer: Pinhead.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "television"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:01:11.003Z",
+      "hash": "8a0703397f758b19"
+    },
+    {
+      "id": "trivia:c342badb3aef71db",
+      "type": "trivia",
+      "title": "Which Russian author wrote the epic novel War and Peace?",
+      "summary": "Is it: Leo Tolstoy · Fyodor Dostoyevsky · Vladimir Nabokov · Alexander Pushkin?",
+      "body": "Answer: Leo Tolstoy.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "books"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:01:11.003Z",
+      "hash": "c342badb3aef71db"
+    },
+    {
+      "id": "comic:smbc:d9898130fd3cb520",
+      "type": "comic",
+      "title": "Doc",
+      "summary": "The weird part is that they're in a Burger King.",
+      "image": {
+        "src": "data/images/eab9e2e7fab011f6.png",
+        "alt": "The weird part is that they're in a Burger King.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/doc",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 01 Aug 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-02T10:01:09.253Z",
+      "hash": "d9898130fd3cb520"
+    },
+    {
+      "id": "comic:xkcd:2369",
+      "type": "comic",
+      "title": "All-in-One",
+      "summary": "Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.",
+      "image": {
+        "src": "data/images/dc3de2e81abb141f.png",
+        "alt": "Changes with this update: If you use the combined scan-shred function, it now performs them in that order instead of the reverse, saving a HUGE amount of CPU time.",
+        "credit": "xkcd #2369 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/2369/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2020-10-07"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-02T10:01:08.817Z",
+      "hash": "9e6d76431783cffb"
+    },
+    {
+      "id": "craft:b7588c183da8c179",
+      "type": "craft",
+      "title": "Reflections Dazzle in the Hyperrealistic Chrome Faces of Kip Omolade’s Vivid Portraits",
+      "summary": "Set against uninterrupted backgrounds, metallic portraits float almost deity-like amid vibrant color.",
+      "body": "Set against uninterrupted backgrounds, metallic portraits float almost deity-like amid vibrant color.",
+      "image": {
+        "src": "data/images/8b47850f163d1a8b.jpg",
+        "alt": "Reflections Dazzle in the Hyperrealistic Chrome Faces of Kip Omolade’s Vivid Portraits",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/07/kip-omolade-chrome-portraits-hyperrealism-paintings/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Fri, 31 Jul 2026 14:39:5"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "faces",
+        "hyperrealism",
+        "kip omolade",
+        "masks",
+        "painting",
+        "portraits"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:01:07.850Z",
+      "hash": "b7588c183da8c179"
+    },
+    {
+      "id": "word:d8e9d17c544494ff",
+      "type": "word",
+      "title": "logos",
+      "summary": "Noun: A form of rhetoric in which the writer or speaker uses logical argument as the main form of persuasion.",
+      "body": "1. A form of rhetoric in which the writer or speaker uses logical argument as the main form of persuasion.\n2. Alternative letter-case form of Logos.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/logos",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:01:05.792Z",
+      "hash": "d8e9d17c544494ff"
+    },
+    {
+      "id": "quote:5f545bf2b382ba3a",
+      "type": "quote",
+      "title": "“Aim for the moon. If you miss, you may hit a star.”",
+      "summary": "— W. Clement Stone",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/W._Clement_Stone",
+        "trustTier": "community",
+        "author": "W. Clement Stone"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:01:05.031Z",
+      "hash": "5f545bf2b382ba3a"
+    },
+    {
+      "id": "quote:292400ac2fcaa414",
+      "type": "quote",
+      "title": "“Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.”",
+      "summary": "— Samuel Beckett",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Samuel_Beckett",
+        "trustTier": "community",
+        "author": "Samuel Beckett"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:01:05.031Z",
+      "hash": "292400ac2fcaa414"
+    },
+    {
+      "id": "quote:6195b8e29bf78e2b",
+      "type": "quote",
+      "title": "“The world only exists in your eyes. You can make it as big or as small as you want.”",
+      "summary": "— F. Scott Fitzgerald",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/F._Scott_Fitzgerald",
+        "trustTier": "community",
+        "author": "F. Scott Fitzgerald"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:01:05.031Z",
+      "hash": "6195b8e29bf78e2b"
+    },
+    {
+      "id": "article:f5fddf0c260ecaa3",
+      "type": "article",
+      "title": "Literary controversy of the week",
+      "summary": "As you probably know, Emily Wilson wrote a critical review of Christopher Nolan's Odyssey movie, and Joyce Carol Oates posted a negative evaluation of Wilson's review, among lots of other (mass and social) media coverage. My favorite so far is today's SMBC: The mouseover title: \"I can barely enjoy…",
+      "body": "As you probably know, Emily Wilson wrote a critical review of Christopher Nolan's Odyssey movie, and Joyce Carol Oates posted a negative evaluation of Wilson's review, among lots of other (mass and social) media coverage. My favorite so far is today's SMBC: The mouseover title: \"I can barely enjoy Amleth anymore.\" The aftercomic: Wikpedia tells […]",
+      "image": {
+        "src": "data/images/bcb51b3a26caea2a.png",
+        "alt": "Literary controversy of the week",
+        "credit": "Language Log"
+      },
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73942&utm_source=rss&utm_medium=rss&utm_campaign=literary-controversy-of-the-week",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Thu, 30 Jul 2026 12:08:3"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "language and literature"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:00:58.263Z",
+      "hash": "f5fddf0c260ecaa3"
+    },
+    {
+      "id": "article:749f53893ed9eed3",
+      "type": "article",
+      "title": "Jeopardy! is Full of Lies*",
+      "summary": "The hit gameshow Jeopardy! is a game of facts. l. Three contestants stand behind their podiums, Alex Trebek (or now Ken Jennings) reads clues, and the players try to phrase their responses in the form of a question. If you know the facts, you get the points. If you make up your own facts, you lose…",
+      "body": "The hit gameshow Jeopardy! is a game of facts. l. Three contestants stand behind their podiums, Alex Trebek (or now Ken Jennings) reads clues, and the players try to phrase their responses in the form of a question. If you know the facts, you get the points. If you make up your own facts, you lose points. That’s the key rule of Jeopoardy! — don’t make stuff up. But there’s another part of the show that’s become a staple over the decades: the contestant interviews. After the first commercial break, the host chats briefly with each player about something interesting from their lives — a quirky…",
+      "image": {
+        "src": "data/images/8f1529e087872abb.jpg",
+        "alt": "Jeopardy! is Full of Lies*",
+        "credit": "Now I Know"
+      },
+      "source": {
+        "name": "Now I Know",
+        "url": "https://nowiknow.com/jeopardy-is-full-of-lies/",
+        "trustTier": "community",
+        "author": "Dan Lewis",
+        "date": "Thu, 30 Jul 2026 13:36:3"
+      },
+      "tags": [
+        "trivia",
+        "curiosities"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:00:57.407Z",
+      "hash": "749f53893ed9eed3"
+    },
+    {
+      "id": "article:107cb45fddd505b3",
+      "type": "article",
+      "title": "Meet the Literature Professor Fired for Teaching Literature",
+      "summary": "Vinita Prabhakar was fired for teaching an award-winning short story that the college president called “political.” She is now suing under a GOP-backed statute protecting free expression on campus, writes Josh Code.",
+      "body": "Vinita Prabhakar was fired for teaching an award-winning short story that the college president called “political.” She is now suing under a GOP-backed statute protecting free expression on campus, writes Josh Code.",
+      "image": {
+        "src": "data/images/c06463ed13ccb40e.png",
+        "alt": "Meet the Literature Professor Fired for Teaching Literature",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/academic-freedom-florida-professor-fired",
+        "trustTier": "publication",
+        "author": "Josh Code",
+        "date": "Fri, 31 Jul 2026 22:58:3"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:00:54.741Z",
+      "hash": "107cb45fddd505b3",
+      "expires": "2026-09-01T10:00:54.741Z"
+    },
+    {
+      "id": "article:95affc61e64990df",
+      "type": "article",
+      "title": "As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice",
+      "summary": "The post As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice appeared first on ProPublica.",
+      "body": "The post As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/e9cf238df85f984c.jpg",
+        "alt": "As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/trump-canada-tariffs-michigan-sault-ste-marie",
+        "trustTier": "publication",
+        "author": "Anna Clark",
+        "date": "Fri, 31 Jul 2026 09:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "politics",
+        "trump administration"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:00:54.610Z",
+      "hash": "95affc61e64990df",
+      "expires": "2026-10-31T10:00:54.610Z"
+    },
+    {
+      "id": "article:2ea43596e3e39873",
+      "type": "article",
+      "title": "Kawran Bazar in Dhaka, Bangladesh",
+      "summary": "Kawran Bazar is a massive wholesale market located in the center of Dhaka, and one of the largest wholesale markets in South Asia by some accounts. While it technically operates 24/7, some of the liveliest times are in the middle of the night and wee hours of the morning. 2 am fruit auction,…",
+      "body": "Kawran Bazar is a massive wholesale market located in the center of Dhaka, and one of the largest wholesale markets in South Asia by some accounts. While it technically operates 24/7, some of the liveliest times are in the middle of the night and wee hours of the morning. 2 am fruit auction, anyone? Kawran Bazar serves as a wholesale hub for Dhaka's essential food commodities. According to one source, the market handles a whopping 57% of the city's daily vegetable supply, not to mention the masses of fruits and other products. There’s an entire section dedicated to meat, with livestock…",
+      "image": {
+        "src": "data/images/37e31d1559e4542b.jpg",
+        "alt": "Kawran Bazar in Dhaka, Bangladesh",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/kawran-bazar",
+        "trustTier": "publication",
+        "date": "Fri, 31 Jul 2026 16:00:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history",
+        "markets"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:00:54.426Z",
+      "hash": "2ea43596e3e39873"
+    },
+    {
+      "id": "article:4295f1e36c416a10",
+      "type": "article",
+      "title": "Mexico (Taiwan) fact of the day",
+      "summary": "Mexico has quietly become a cornerstone of the AI boom, providing 40 per cent of US imports this year of the computer servers that are widely used in the data centres powering artificial intelligence. Taiwanese manufacturers are rapidly expanding factories in Mexico to assemble servers, which are…",
+      "body": "Mexico has quietly become a cornerstone of the AI boom, providing 40 per cent of US imports this year of the computer servers that are widely used in the data centres powering artificial intelligence. Taiwanese manufacturers are rapidly expanding factories in Mexico to assemble servers, which are now the country’s top US export, overtaking autos […] The post Mexico (Taiwan) fact of the day appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/08/mexico-taiwan-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=mexico-taiwan-fact-of-the-day",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Sun, 02 Aug 2026 04:35:5"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "current affairs",
+        "web/tech"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:00:52.772Z",
+      "hash": "4295f1e36c416a10"
+    },
+    {
+      "id": "poetry:641010af54099cd7",
+      "type": "poem",
+      "title": "The Grandmother",
+      "summary": "I.\nAnd Willy, my eldest-born, is gone, you say, little Anne?\nRuddy and white, and strong on his legs, he looks like a man.\nAnd Willy's wife has written: she never was over-wise,",
+      "body": "I.\nAnd Willy, my eldest-born, is gone, you say, little Anne?\nRuddy and white, and strong on his legs, he looks like a man.\nAnd Willy's wife has written: she never was over-wise,\nNever the wife for Willy: he would n't take my advice.\n\nII.\nFor, Annie, you see, her father was not the man to save,\nHad n't a head to manage, and drank himself into his grave.\nPretty enough, very pretty! but I was against it for one.\nEh!--but he would n't hear me--and Willy, you say, is gone.\n\nIII.\nWilly, my beauty, my eldest-born, the flower of the flock;\nNever a man could fling him: for Willy stood like a rock.\n`Here's a leg for a babe of a week!' says doctor; and he would be bound,\nThere was not his like that year in twenty parishes round.\n\nIV.\nStrong of his hands, and strong on his legs, but still of his tongue!\nI ought to have gone before him: I wonder he went so young.\nI cannot cry for him, Annie: I have not long to stay;\nPerhaps I shall see him the sooner, for he lived far away.\n\nV.\nWhy do you look at me, Annie? you think I am hard and cold;\nBut all my children have gone before me, I am so old:\nI cannot weep for Willy, nor can I weep for the rest;\nOnly at your age, Annie, I could have wept with the best.\n\nVI.\nFor I remember a quarrel I had with your father, my dear,\nAll for a slanderous story, that cost me many a tear.\nI mean your grandfather, Annie: it cost me a world of woe,\nSeventy years ago, my darling, seventy years ago.\n\nVII.\nFor Jenny, my cousin, had come to the place, and I knew right well\nThat Jenny had tript in her time: I knew, but I would not tell.\nAnd she to be coming and slandering me, the base little liar!\nBut the tongue is a fire as you know, my dear, the tongue is a fire.\n\nVIII.\nAnd the parson made it his text that week, and he said likewise,\nThat a lie which is half a truth is ever the blackest of lies,\nThat a lie which is all a lie may be met and fought with outright,\nBut a lie which is part a truth is a harder matter to fight.\n\nIX.\nAnd Willy had not been down to the farm for a week and a day;\nAnd all things look'd half-dead, tho' it was the middle of May.\nJenny, to slander me, who knew what Jenny had been!\nBut soiling another, Annie, will never make oneself clean.\n\nX.\nAnd I cried myself well-nigh blind, and all of an evening late\nI climb'd to the top of the garth, and stood by the road at the gate.\nThe moon like a rick on fire was rising over the dale,\nAnd whit, whit, whit, in the bush beside me chirrupt the nightingale.\n\nXI.\nAll of a sudden he stopt: there past by the gate of the farm,\nWilly,--he did n't see me,--and Jenny hung on his arm.\nOut into the road I started, and spoke I scarce knew how;\nAh, there's no fool like the old one -- it makes me angry now.\n\nXII.\nWilly stood up like a man, and look'd the thing that he meant;\nJenny, the viper, made me a mocking courtesy and went.\nAnd I said, `Let us part: in a hundred years it'll all be the same,\nYou cannot love me at all, if you love not my good name.'\n\nXIII.\nAnd he turn'd, and I saw his eyes all wet, in the sweet moonshine:\nSweetheart, I love you so well that your good name is mine.\nAnd what do I care for Jane, let her speak of you well of ill;\nBut marry me out of hand: we two shall be happy still.'\n\nXIV.\n`Marry you, Willy!' said I, `but I needs must speak my mind,\nAnd I fear you'll listen to tales, be jealous and hard and unkind.'\nBut he turn'd and claspt me in his arms, and answer'd, `No, love, no;'\nSeventy years ago, my darling, seventy years ago.\n\nXV.\nSo Willy and I were wedded: I wore a lilac gown;\nAnd the ringers rang with a will, and he gave the ringers a crown.\nBut the first that ever I bare was dead before he was born,\nShadow and shine is life, little Annie, flower and thorn.\n\nXVI.\nThat was the first time, too, that ever I thought of death.\nThere lay the sweet little body that never had drawn a breath.\nI had not wept, little Anne, not since I had been a wife;\nBut I wept like a child that day, for the babe had fought for his life.\n\nXVII.\nHis dear little face was troubled, as if with anger or pain:\nI look'd at the still little body--his trouble had all been in vain.\nFor Willy I cannot weep, I shall see him another morn:\nBut I wept like a child for the child that was dead before he was born.\n\nXVIII.\nBut he cheer'd me, my good man, for he seldom said me nay:\nKind, like a man, was he; like a man, too, would have his way:\nNever jealous--not he: we had many a happy year;\nAnd he died, and I could not weep--my own time seem'd so near.\n\nXIX.\nBut I wish'd it had been God's will that I, too, then could have died:\nI began to be tired a little, and fain had slept at his side.\nAnd that was ten years back, or more, if I don't forget:\nBut as to the children, Annie, they're all about me yet.\n\nXX.\nPattering over the boards, my Annie who left me at two,\nPatter she goes, my own little Annie, an Annie like you:\nPattering over the boards, she comes and goes at her will,\nWhile Harry is in the five-acre and Charlie ploughing the hill.\n\nXXI.\nAnd Harry and Charlie, I hear them too--they sing to their team:\nOften they come to the door in a pleasant kind of a dream.\nThey come and sit by my chair, they hover about my bed--\nI am not always certain if they be alive or dead.\n\nXXII.\nAnd yet I know for a truth, there's none of them left alive;\nFor Harry went at sixty, your father at sixty- five:\nAnd Willy, my eldest born, at nigh threescore and ten;\nI knew them all as babies, and now they're elderly men.\n\nXXIII.\nFor mine is a time of peace, it is not often I grieve;\nI am oftener sitting at home in my father's farm at eve:\nAnd the neighbors come and laugh and gossip, and so do I;\nI find myself often laughing at things that have long gone by.\n\nXXIV.\nTo be sure the preacher says, our sins should make us sad:\nBut mine is a time of peace, and there is Grace to be had;\nAnd God, not man, is the Judge of us all when life shall cease;\nAnd in this Book, little Annie, the message is one of Peace.\n\nXXV.\nAnd age is a time of peace, so it be free from pain,\nAnd happy has been my life; but I would not live it again.\nI seem to be tired a little, that's all, and long for rest;\nOnly at your age, Annie, I could have wept with the best.\n\nXXVI.\nSo Willy has gone, my beauty, my eldest-born, my flower;\nBut how can I weep for Willy, he has but gone for an hour,--\nGone for a minute, my son, from this room into the next;\nI, too, shall go in a minute. What time have I to be vext?\n\nXXVII.\nAnd Willy's wife has written, she never was over-wise.\nGet me my glasses, Annie: thank God that I keep my eyes.\nThere is but a trifle left you, when I shall have past away.\nBut stay with the old woman now: you cannot have long to stay.",
+      "source": {
+        "name": "Lord Alfred Tennyson · PoetryDB",
+        "url": "https://poetrydb.org/title/The%20Grandmother",
+        "trustTier": "community",
+        "author": "Lord Alfred Tennyson"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-02T10:00:51.125Z",
+      "hash": "641010af54099cd7"
+    },
+    {
+      "id": "met:386244",
+      "type": "art",
+      "title": "Du Moulin in Peasant Garb Dancing at the Opera",
+      "summary": "Jean Berain · n.d. · Etching and engraving",
+      "body": "Jean Berain · n.d. · Etching and engraving\nGift of the Estate of Randolph Gunter, 1962\nDrawings and Prints",
+      "image": {
+        "src": "data/images/16a969a1d7b68f3b.jpg",
+        "alt": "Du Moulin in Peasant Garb Dancing at the Opera",
+        "credit": "The Met · Gift of the Estate of Randolph Gunter, 1962"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/386244",
+        "trustTier": "encyclopedic",
+        "author": "Jean Berain",
+        "date": "n.d."
+      },
+      "tags": [
+        "art",
+        "museum",
+        "dancer",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-02T10:00:48.388Z",
+      "hash": "1c6a2663597a2610"
+    },
+    {
+      "id": "met:436015",
+      "type": "art",
+      "title": "Louis Gueymard (1822–1880) as Robert le Diable",
+      "summary": "Gustave Courbet · 1857 · Oil on canvas",
+      "body": "Gustave Courbet · 1857 · Oil on canvas\nGift of Elizabeth Milbank Anderson, 1919\nEuropean Paintings",
+      "image": {
+        "src": "data/images/409f6549ab5a1381.jpg",
+        "alt": "Louis Gueymard (1822–1880) as Robert le Diable",
+        "credit": "The Met · Gift of Elizabeth Milbank Anderson, 1919"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/436015",
+        "trustTier": "encyclopedic",
+        "author": "Gustave Courbet",
+        "date": "1857"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "dancer",
+        "paintings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-02T10:00:47.500Z",
+      "hash": "db9f2b974f38e4cb"
+    },
+    {
+      "id": "met:74425",
+      "type": "art",
+      "title": "Ten Elements for East Window of an Architectural Ensemble from a Jain Meeting Hall",
+      "summary": "Unknown artist · last quarter of 16th century · Teak with traces of color",
+      "body": "Unknown artist · last quarter of 16th century · Teak with traces of color\nGift of Robert W. and Lockwood de Forest, 1916\nAsian Art",
+      "image": {
+        "src": "data/images/5df5e11664c7d0e9.jpg",
+        "alt": "Ten Elements for East Window of an Architectural Ensemble from a Jain Meeting Hall",
+        "credit": "The Met · Gift of Robert W. and Lockwood de Forest, 1916"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/74425",
+        "trustTier": "encyclopedic",
+        "date": "last quarter of 16th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "dancer",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-02T10:00:46.996Z",
+      "hash": "ea439a99a54ad921"
+    },
+    {
+      "id": "apod:1996-08-04",
+      "type": "space",
+      "title": "NGC 3393: A Super Spiral?",
+      "summary": "A bird? A plane? No, but pictured here is something physically much larger, flying much higher, and moving much faster than either of these. It is, in fact, a Seyfert type 2 spiral galaxy. The \"S\" is actually a lane of stars, gas and dust circling the core. Designated NGC 3393, the bright core makes this galaxy a…",
+      "body": "A bird? A plane? No, but pictured here is something physically much larger, flying much higher, and moving much faster than either of these. It is, in fact, a Seyfert type 2 spiral galaxy. The \"S\" is actually a lane of stars, gas and dust circling the core. Designated NGC 3393, the bright core makes this galaxy a Seyfert and the infrared glow of central dust help distinguish it as \"type 2.\" Seyfert galaxies have extremely energetic nuclei similar to more powerful quasars. Seyferts are thought to have black holes in their centers. Most of the lines and small spots in this image are due to cosmic rays striking the imager and are unrelated to structure in the galaxy.",
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap960804.html",
+        "trustTier": "encyclopedic",
+        "date": "1996-08-04"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:46.235Z",
+      "hash": "13df948401ff0542"
+    },
+    {
+      "id": "apod:2024-11-19",
+      "type": "space",
+      "title": "Undulatus Clouds over Las Campanas Observatory",
+      "summary": "What's happening with these clouds? While it may seem that these long and thin clouds are pointing toward the top of a hill, and that maybe a world-famous observatory is located there, only part of that is true. In terms of clouds, the formation is a chance superposition of impressively periodic undulating air…",
+      "body": "What's happening with these clouds? While it may seem that these long and thin clouds are pointing toward the top of a hill, and that maybe a world-famous observatory is located there, only part of that is true. In terms of clouds, the formation is a chance superposition of impressively periodic undulating air currents in Earth's lower atmosphere. Undulatus, a type of Asperitas cloud, form at the peaks where the air is cool enough to cause the condensation of opaque water droplets. The wide-angle nature of the panorama creates the illusion that the clouds converge over the hill. In terms of land, there really is a world-famous observatory at the top of that peak: the Carnegie Science's Las Campanas Observatory in the Atacama Desert of Chile. The two telescope domes visible are the 6.5-meter Magellan Telescopes. The featured coincidental vista was a surprise but was captured by the phone of a quick-thinking photographer in late September. Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap241119.html",
+        "trustTier": "encyclopedic",
+        "date": "2024-11-19"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:46.235Z",
+      "hash": "95fbe041f195a747"
+    },
+    {
+      "id": "apod:2008-11-01",
+      "type": "space",
+      "title": "A Spectre in the Eastern Veil",
+      "summary": "Menacing flying forms and garish colors are a mark of the Halloween season. They also stand out in this cosmic close-up of the eastern Veil Nebula. The Veil Nebula itself is a large supernova remnant, the expanding debris cloud from the death explosion of a massive star. While the Veil is roughly circular in shape…",
+      "body": "Menacing flying forms and garish colors are a mark of the Halloween season. They also stand out in this cosmic close-up of the eastern Veil Nebula. The Veil Nebula itself is a large supernova remnant, the expanding debris cloud from the death explosion of a massive star. While the Veil is roughly circular in shape covering nearly 3 degrees on the sky in the constellation Cygnus, this portion of the eastern Veil spans only 1/2 degree, about the apparent size of the Moon. That translates to 12 light-years at the Veil's estimated distance of 1,400 light-years from planet Earth. In this composite of image data recorded through narrow band filters, emission from hydrogen atoms in the remnant is shown in red with strong emission from oxygen atoms in greenish hues. In the western part of the Veil lies another seasonal apparition, the Witch's Broom. Take a survey on Aesthetics and Astronomy.",
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap081101.html",
+        "trustTier": "encyclopedic",
+        "date": "2008-11-01"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:46.235Z",
+      "hash": "a7aecb5d2797851f"
+    },
+    {
+      "id": "apod:2023-09-19",
+      "type": "space",
+      "title": "HH 211: Jets from a Forming Star",
+      "summary": "Do stars always create jets as they form? No one is sure. As a gas cloud gravitationally contracts, it forms a disk that can spin too fast to continue contracting into a protostar. Theorists hypothesize that this spin can be reduced by expelling jets. This speculation coincides with known Herbig-Haro (HH) objects,…",
+      "body": "Do stars always create jets as they form? No one is sure. As a gas cloud gravitationally contracts, it forms a disk that can spin too fast to continue contracting into a protostar. Theorists hypothesize that this spin can be reduced by expelling jets. This speculation coincides with known Herbig-Haro (HH) objects, young stellar objects seen to emit jets -- sometimes in spectacular fashion. Pictured is Herbig-Haro 211, a young star in formation recently imaged by the Webb Space Telescope (JWST) in infrared light and in great detail. Along with the two narrow beams of particles, red shock waves can be seen as the outflows impact existing interstellar gas. The jets of HH 211 will likely change shape as they brighten and fade over the next 100,000 years, as research into the details of star formation continues.",
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap230919.html",
+        "trustTier": "encyclopedic",
+        "date": "2023-09-19"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:46.235Z",
+      "hash": "2b23d1a7ffdaab34"
+    },
+    {
+      "id": "apod:2004-09-18",
+      "type": "space",
+      "title": "M55: Globular Star Cluster",
+      "summary": "The fifty-fifth entry in Charles Messier's catalog, M55 is a large and lovely globular cluster of around 100,000 stars. Only 20,000 light-years away in the constellation Sagittarius, M55 appears to earth-bound observers to be nearly 2/3 the size of the full moon. Globular star clusters like M55 roam the halo of our…",
+      "body": "The fifty-fifth entry in Charles Messier's catalog, M55 is a large and lovely globular cluster of around 100,000 stars. Only 20,000 light-years away in the constellation Sagittarius, M55 appears to earth-bound observers to be nearly 2/3 the size of the full moon. Globular star clusters like M55 roam the halo of our Milky Way Galaxy as gravitationally bound populations of stars known to be much older than stellar groups found in the galactic disk. Astronomers who make detailed studies of globular cluster stars can accurately measure the cluster ages and distances. Their results ultimately constrain the age of the Universe (... it must be older than the stars in it! ), and provide a fundamental rung on the astronomical distance ladder. This stunning three-color image made with astronomical (BVI) filters spans about 100 light-years across the globular cluster M55.",
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap040918.html",
+        "trustTier": "encyclopedic",
+        "date": "2004-09-18"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:46.234Z",
+      "hash": "a6ddb0205b1e43d5"
+    },
+    {
+      "id": "onthisday:08-02:1986:403d49137e41d1d9",
+      "type": "history",
+      "title": "1986: Castle in the Sky",
+      "summary": "The animated film Castle in the Sky, the first from Studio Ghibli, was released.",
+      "body": "The animated film Castle in the Sky, the first from Studio Ghibli, was released.",
+      "image": {
+        "src": "data/images/c5dead604795ef8d.png",
+        "alt": "Castle in the Sky",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Castle_in_the_Sky",
+        "trustTier": "encyclopedic",
+        "date": "08-02"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:45.598Z",
+      "hash": "545a6002cd8b4f49",
+      "expires": "2026-08-05T10:00:45.598Z"
+    },
+    {
+      "id": "onthisday:08-02:2007:f7bed24417215355",
+      "type": "history",
+      "title": "2007: Raúl Iturriaga",
+      "summary": "Raúl Iturriaga, a former deputy director of the Chilean secret police, was captured in Viña del Mar after having been on the run following a kidnapping conviction.",
+      "body": "Raúl Iturriaga, a former deputy director of the Chilean secret police, was captured in Viña del Mar after having been on the run following a kidnapping conviction.",
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Iturriaga",
+        "trustTier": "encyclopedic",
+        "date": "08-02"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:45.598Z",
+      "hash": "7f8c97f6745c25ab",
+      "expires": "2026-08-05T10:00:45.598Z"
+    },
+    {
+      "id": "onthisday:08-02:1971:e64525c667fc4f95",
+      "type": "history",
+      "title": "1971: The Who",
+      "summary": "The English rock band the Who released Who's Next, their only album to top the UK charts.",
+      "body": "The English rock band the Who released Who's Next, their only album to top the UK charts.",
+      "image": {
+        "src": "data/images/cc4e9bab039ea08b.jpg",
+        "alt": "The Who",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/The_Who",
+        "trustTier": "encyclopedic",
+        "date": "08-02"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:45.598Z",
+      "hash": "fc37400de0d965d6",
+      "expires": "2026-08-05T10:00:45.598Z"
+    },
+    {
+      "id": "wikipedia:647683",
+      "type": "wiki",
+      "title": "Lenin (1957 icebreaker)",
+      "summary": "Lenin is a Soviet nuclear-powered icebreaker, the first nuclear-powered icebreaker in the world. Launched in 1957, it is both the world's first nuclear-powered surface ship and the first nuclear-powered civilian vessel. Lenin entered operation in 1959 and worked clearing sea routes for cargo ships along Russia's…",
+      "body": "Lenin is a Soviet nuclear-powered icebreaker, the first nuclear-powered icebreaker in the world. Launched in 1957, it is both the world's first nuclear-powered surface ship and the first nuclear-powered civilian vessel. Lenin entered operation in 1959 and worked clearing sea routes for cargo ships along Russia's northern coast. From 1960 to 1965 the ship covered over 157,000 kilometres during the Arctic navigation season, of which almost 120,000 km (65,000 nmi) was through ice. Nuclear power proved to be an ideal technology for a vessel working in such a remote area as it removed the need for regular replenishment of fuel. On 10 April 1974 the vessel was awarded the Order of Lenin. It was officially decommissioned in 1989. It was subsequently converted to a museum ship and is now permanently based at Murmansk.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lenin_(1957_icebreaker)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:44.922Z",
+      "hash": "1327d238e9274c41"
+    },
+    {
+      "id": "wikipedia:33008830",
+      "type": "wiki",
+      "title": "Sabina Catharina of East Frisia",
+      "summary": "Sabina Catharina of East Frisia was a Countess of Rietberg in what is now Germany.",
+      "body": "Sabina Catharina of East Frisia was a Countess of Rietberg in what is now Germany.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sabina_Catharina_of_East_Frisia",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:44.565Z",
+      "hash": "3cec7a38f5a8458e"
+    },
+    {
+      "id": "wikipedia:9019895",
+      "type": "wiki",
+      "title": "Carver Vocational-Technical High School",
+      "summary": "Carver Vocational-Technical High School – fully George Washington Carver Vocational-Technical High School – also known as Carver Vo-Tech, is a public vocational-technical high school located in the western part of Baltimore, Maryland, United States and part of the Baltimore City Public Schools system.",
+      "body": "Carver Vocational-Technical High School – fully George Washington Carver Vocational-Technical High School – also known as Carver Vo-Tech, is a public vocational-technical high school located in the western part of Baltimore, Maryland, United States and part of the Baltimore City Public Schools system.",
+      "image": {
+        "src": "data/images/e3afbd1a6db08972.jpg",
+        "alt": "Carver Vocational-Technical High School",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Carver_Vocational-Technical_High_School",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:44.136Z",
+      "hash": "bb37310f01e393c9"
+    },
+    {
+      "id": "wikipedia:82081885",
+      "type": "wiki",
+      "title": "Netanasvir",
+      "summary": "Netanasvir is an antiviral drug used to treat hepatitis C virus (HCV). In China, netansavir is approved for use in combination with encofosbuvir for the treatment of adult patients with chronic HCV genotypes 1, 2, 3, or 6, who are either treatment-naive or have been previously treated with interferon.",
+      "body": "Netanasvir is an antiviral drug used to treat hepatitis C virus (HCV). In China, netansavir is approved for use in combination with encofosbuvir for the treatment of adult patients with chronic HCV genotypes 1, 2, 3, or 6, who are either treatment-naive or have been previously treated with interferon.",
+      "image": {
+        "src": "data/images/5d0fe9cb3739c64e.png",
+        "alt": "Netanasvir",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Netanasvir",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-02T10:00:43.075Z",
+      "hash": "66748c0810bd647e"
+    },
     {
       "id": "chess:6mjNJ",
       "type": "chess",
@@ -11611,885 +12461,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-07-23T10:26:40.724Z",
       "hash": "5b9ddf5cf384b867"
-    },
-    {
-      "id": "apod:2018-11-14",
-      "type": "space",
-      "title": "The Cave Nebula in Hydrogen, Oxygen, and Sulfur",
-      "summary": "What's inside this cosmic cave? A stellar nursery 10 light-years deep. The featured skyscape is dominated by dusty Sh2-155, the Cave Nebula. In the telescopic image, data taken through a narrowband filters tracks the nebular glow of hydrogen, oxygen, and sulfur, colors that together form the Hubble Palette. About…",
-      "body": "What's inside this cosmic cave? A stellar nursery 10 light-years deep. The featured skyscape is dominated by dusty Sh2-155, the Cave Nebula. In the telescopic image, data taken through a narrowband filters tracks the nebular glow of hydrogen, oxygen, and sulfur, colors that together form the Hubble Palette. About 2,400 light-years away, the scene lies along the plane of our Milky Way Galaxy toward the royal northern constellation of Cepheus. Astronomical explorations of the region reveal that it has formed at the boundary of the massive Cepheus B molecular cloud and the hot, young stars of the Cepheus OB 3 association. The bright rim of ionized hydrogen gas is energized by radiation from the hot stars, dominated by the bright star just to the left of the cave entrance. Radiation driven ionization fronts are likely triggering collapsing cores and new star formation within.",
-      "image": {
-        "src": "data/images/aae3d456c7e7bbb7.jpg",
-        "alt": "The Cave Nebula in Hydrogen, Oxygen, and Sulfur",
-        "credit": "© Chuck Ayoub"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap181114.html",
-        "trustTier": "encyclopedic",
-        "date": "2018-11-14"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-23T10:26:40.724Z",
-      "hash": "861a2ba41906973d"
-    },
-    {
-      "id": "apod:2004-06-16",
-      "type": "space",
-      "title": "Elliptical Galaxy M87",
-      "summary": "cal galaxy M87 is a type of galaxy that looks much different than our own Milky Way Galaxy. Even for an elliptical galaxy, though, M87 is peculiar. M87 is much bigger than an average galaxy, appears near the center of a whole cluster of galaxies known as the Virgo Cluster, and shows an unusually high number of…",
-      "body": "cal galaxy M87 is a type of galaxy that looks much different than our own Milky Way Galaxy. Even for an elliptical galaxy, though, M87 is peculiar. M87 is much bigger than an average galaxy, appears near the center of a whole cluster of galaxies known as the Virgo Cluster, and shows an unusually high number of globular clusters. These globular clusters are visible as faint spots surrounding the bright center of M87. In general, elliptical galaxies contain similar numbers of stars as spiral galaxies, but are ellipsoidal in shape (spirals are mostly flat), have no spiral structure, and little gas and dust. The above image of M87 was taken recently by the Canada-France-Hawaii Telescope on top of the dormant volcano Mauna Kea in Hawaii, USA. News: APOD turns nine years old today!",
-      "image": {
-        "src": "data/images/e363823c0b7bb496.jpg",
-        "alt": "Elliptical Galaxy M87",
-        "credit": "© Canada-France-Hawaii Telescope"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap040616.html",
-        "trustTier": "encyclopedic",
-        "date": "2004-06-16"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-23T10:26:40.724Z",
-      "hash": "7e7c38aa72c65a4f"
-    },
-    {
-      "id": "onthisday:07-23:1319:db477710ecabc8a0",
-      "type": "history",
-      "title": "1319: Knights Hospitaller",
-      "summary": "A fleet led by the Knights Hospitaller sank 22 of 28 ships of the Turkish Aydinid emirate.",
-      "body": "A fleet led by the Knights Hospitaller sank 22 of 28 ships of the Turkish Aydinid emirate.",
-      "image": {
-        "src": "data/images/1b68fe69868a325a.png",
-        "alt": "Knights Hospitaller",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Knights_Hospitaller",
-        "trustTier": "encyclopedic",
-        "date": "07-23"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-23T10:26:39.625Z",
-      "hash": "0d6e4f9cf62fe120",
-      "expires": "2026-07-26T10:26:39.625Z"
-    },
-    {
-      "id": "onthisday:07-23:1940:14a68d5d0dc9fc09",
-      "type": "history",
-      "title": "1940: Sumner Welles",
-      "summary": "Sumner Welles, U.S. Under Secretary of State, issued a declaration that the U.S. government would not recognize the Soviet Union's annexation of the Baltic states.",
-      "body": "Sumner Welles, U.S. Under Secretary of State, issued a declaration that the U.S. government would not recognize the Soviet Union's annexation of the Baltic states.",
-      "image": {
-        "src": "data/images/23ef9465e47c2487.jpg",
-        "alt": "Sumner Welles",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Sumner_Welles",
-        "trustTier": "encyclopedic",
-        "date": "07-23"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-23T10:26:39.625Z",
-      "hash": "2fd937dffb6d2e9d",
-      "expires": "2026-07-26T10:26:39.625Z"
-    },
-    {
-      "id": "onthisday:07-23:1942:9965698534ac82b7",
-      "type": "history",
-      "title": "1942: The Holocaust",
-      "summary": "The Holocaust: The gas chambers at Treblinka extermination camp began operation, killing 6,500 Jews who had been transported from the Warsaw Ghetto the day before.",
-      "body": "The Holocaust: The gas chambers at Treblinka extermination camp began operation, killing 6,500 Jews who had been transported from the Warsaw Ghetto the day before.",
-      "image": {
-        "src": "data/images/0571210047a37a75.jpg",
-        "alt": "The Holocaust",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/The_Holocaust",
-        "trustTier": "encyclopedic",
-        "date": "07-23"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-23T10:26:39.625Z",
-      "hash": "032a093858763aaf",
-      "expires": "2026-07-26T10:26:39.625Z"
-    },
-    {
-      "id": "wikipedia:11508587",
-      "type": "wiki",
-      "title": "Neubeuern",
-      "summary": "Neubeuern is a municipality in the district of Rosenheim in Bavaria in Germany. It lies on the river Inn.",
-      "body": "Neubeuern is a municipality in the district of Rosenheim in Bavaria in Germany. It lies on the river Inn.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Neubeuern",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-23T10:26:39.613Z",
-      "hash": "7ae20c10d9321cff"
-    },
-    {
-      "id": "wikipedia:26158405",
-      "type": "wiki",
-      "title": "Tomáš Zmoray",
-      "summary": "Tomáš Zmoray is a Slovak ski jumper who has competed since 2005. At the 2010 Winter Olympics in Vancouver, he finished 42nd in the individual normal hill and 43rd in the individual large hill events.",
-      "body": "Tomáš Zmoray is a Slovak ski jumper who has competed since 2005. At the 2010 Winter Olympics in Vancouver, he finished 42nd in the individual normal hill and 43rd in the individual large hill events.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Zmoray",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-23T10:26:39.511Z",
-      "hash": "7837daba8fa9af80"
-    },
-    {
-      "id": "wikipedia:60782069",
-      "type": "wiki",
-      "title": "Pedioplanis burchelli",
-      "summary": "Pedioplanis burchelli, known commonly as Burchell's sand lizard, is a species of lizard in the family Lacertidae. The species is native to Southern Africa.",
-      "body": "Pedioplanis burchelli, known commonly as Burchell's sand lizard, is a species of lizard in the family Lacertidae. The species is native to Southern Africa.",
-      "image": {
-        "src": "data/images/82e95e95a8d8cda5.jpg",
-        "alt": "Pedioplanis burchelli",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Pedioplanis_burchelli",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-23T10:26:39.405Z",
-      "hash": "c259039ecb78c522"
-    },
-    {
-      "id": "wikipedia:1372680",
-      "type": "wiki",
-      "title": "Francesco Faà di Bruno",
-      "summary": "Francesco Faà di Bruno was an Italian priest and advocate of the poor, a leading mathematician of his era and a noted religious musician. In 1988 he was beatified by Pope John Paul II. He is the eponym of Faà di Bruno's formula.",
-      "body": "Francesco Faà di Bruno was an Italian priest and advocate of the poor, a leading mathematician of his era and a noted religious musician. In 1988 he was beatified by Pope John Paul II. He is the eponym of Faà di Bruno's formula.",
-      "image": {
-        "src": "data/images/87020290e7c45732.jpg",
-        "alt": "Francesco Faà di Bruno",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Francesco_Fa%C3%A0_di_Bruno",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-23T10:26:39.320Z",
-      "hash": "56a65744a21859a3"
-    },
-    {
-      "id": "chess:0uaV2",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1622. Find the best line for black.",
-      "body": "Solution, from → to: f8→b4, e1→d1, c4→e2, g4→e2, b4→d4, e2→d2, d4→a1. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "r4qk1/1p3p1p/p3p1p1/3pP3/P1b3Q1/1P6/2P2PPP/R3K2R b KQ - 0 1",
-        "lastMove": "b2b3"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/0uaV2",
-        "trustTier": "community",
-        "date": "Wed, 22 Jul 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "verylong",
-        "clearance",
-        "endgame",
-        "advantage"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:30:06.769Z",
-      "hash": "4056c5c1f2a66971"
-    },
-    {
-      "id": "game:61c455f607cce645",
-      "type": "game",
-      "title": "Alpha Dog Games returns to independence two years after being shuttered by Xbox",
-      "summary": "'We're incredibly excited to have the name we put so much effort and pride into building back in our hands.'",
-      "body": "'We're incredibly excited to have the name we put so much effort and pride into building back in our hands.'",
-      "image": {
-        "src": "data/images/803d46f82dd09c39.png",
-        "alt": "Alpha Dog Games returns to independence two years after being shuttered by Xbox",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/alpha-dog-games-returns-to-independence-two-years-after-being-shuttered-by-xbox",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Wed, 22 Jul 2026 09:11:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:30:06.135Z",
-      "hash": "61c455f607cce645",
-      "expires": "2026-10-20T10:30:06.135Z"
-    },
-    {
-      "id": "game:12e95ebe2c767209",
-      "type": "game",
-      "title": "Pentiment director emphasizes the importance of RPG players not controlling everything",
-      "summary": "Pentiment director Josh Sawyer argues in favor of going against the idea of 'I'm the protagonist, I can literally do anything' in RPGs.",
-      "body": "Pentiment director Josh Sawyer argues in favor of going against the idea of 'I'm the protagonist, I can literally do anything' in RPGs.",
-      "image": {
-        "src": "data/images/057da7cc4924e7e4.jpg",
-        "alt": "Pentiment director emphasizes the importance of RPG players not controlling everything",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/design/pentiment-director-emphasizes-the-importance-of-rpg-players-not-controlling-everything",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Tue, 21 Jul 2026 19:00:4"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:30:06.135Z",
-      "hash": "12e95ebe2c767209",
-      "expires": "2026-10-20T10:30:06.135Z"
-    },
-    {
-      "id": "game:6b78ecca0a209b24",
-      "type": "game",
-      "title": "Former Wreckreation team starts up new studio working on sequel",
-      "summary": "\"The games we make don't really belong to us once they're out in the world. Players spend hundreds of hours with them. They notice things you've forgotten. They challenge your assumptions. And, if you listen, they make your games better.\"",
-      "body": "\"The games we make don't really belong to us once they're out in the world. Players spend hundreds of hours with them. They notice things you've forgotten. They challenge your assumptions. And, if you listen, they make your games better.\"",
-      "image": {
-        "src": "data/images/f0eb367959fd457a.jpg",
-        "alt": "Former Wreckreation team starts up new studio working on sequel",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/former-wreckreation-team-starts-up-new-studio-working-on-sequel",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Tue, 21 Jul 2026 19:37:3"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:30:06.135Z",
-      "hash": "6b78ecca0a209b24",
-      "expires": "2026-10-20T10:30:06.135Z"
-    },
-    {
-      "id": "trivia:c78144de5bec933e",
-      "type": "trivia",
-      "title": "Which one of these tanks was designed and operated by the United Kingdom?",
-      "summary": "Is it: M4 Sherman · Tiger H1 · Tog II · T-34?",
-      "body": "Answer: Tog II.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-22T10:30:03.769Z",
-      "hash": "c78144de5bec933e"
-    },
-    {
-      "id": "trivia:d7d0ce9b013cc9b9",
-      "type": "trivia",
-      "title": "Which of these mythological creatures is said to be half-man and half-horse?",
-      "summary": "Is it: Centaur · Gorgon · Pegasus · Minotaur?",
-      "body": "Answer: Centaur.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "mythology"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-22T10:30:03.769Z",
-      "hash": "d7d0ce9b013cc9b9"
-    },
-    {
-      "id": "trivia:9ff9ef2a30103f9d",
-      "type": "trivia",
-      "title": "Who is Manchester United's leading appearance maker?",
-      "summary": "Is it: Ryan Giggs · David Beckham · Eric Cantona · Wayne Rooney?",
-      "body": "Answer: Ryan Giggs.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "sports"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-22T10:30:03.769Z",
-      "hash": "9ff9ef2a30103f9d"
-    },
-    {
-      "id": "passage:gutenberg:120",
-      "type": "passage",
-      "title": "Treasure Island",
-      "summary": "Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17—, and go back to the time when my…",
-      "body": "Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17—, and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof. I remember him as if it were yesterday, as he came plodding to the inn door, his sea-chest following behind him in a hand-barrow--a tall, strong, heavy, nut-brown man, his tarry pigtail falling over the shoulder of his…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/120",
-        "trustTier": "publication",
-        "author": "Robert Louis Stevenson",
-        "date": "1883"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "adventure",
-        "pirates",
-        "sea"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-22T10:30:03.277Z",
-      "hash": "39059c5dab1d8659"
-    },
-    {
-      "id": "comic:smbc:0e34eb7102520b6f",
-      "type": "comic",
-      "title": "Crawl",
-      "summary": "I once joked about this back when twitter existed and a Twitter Dominatrix told me that she'd done it plenty of times.",
-      "image": {
-        "src": "data/images/b32163eb120a276b.png",
-        "alt": "I once joked about this back when twitter existed and a Twitter Dominatrix told me that she'd done it plenty of times.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/crawl",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Tue, 21 Jul 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-22T10:30:02.182Z",
-      "hash": "0e34eb7102520b6f"
-    },
-    {
-      "id": "comic:xkcd:1978",
-      "type": "comic",
-      "title": "Congressional Testimony",
-      "summary": "James Cameron's Terminator 3 was the REALLY prophetic one. That's why Skynet sent a robot back to the 1990s to prevent him from ever making it, ultimately handing the franchise over to other directors.",
-      "image": {
-        "src": "data/images/f7b510e06fe3dfbd.png",
-        "alt": "James Cameron's Terminator 3 was the REALLY prophetic one. That's why Skynet sent a robot back to the 1990s to prevent him from ever making it, ultimately handing the franchise over to other directors.",
-        "credit": "xkcd #1978 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1978/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2018-04-09"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-22T10:30:02.049Z",
-      "hash": "1c09880b4f8830e9"
-    },
-    {
-      "id": "craft:cc3acd8285dd7dbb",
-      "type": "craft",
-      "title": "Los Angeles Public Library Unveils the World’s Largest Pop-Up Book",
-      "summary": "\"Luceros y Penumbres,\" designed by Daniel González and engineered by Matthew Reinhart, is an ode to learning and discovery.",
-      "body": "\"Luceros y Penumbres,\" designed by Daniel González and engineered by Matthew Reinhart, is an ode to learning and discovery.",
-      "image": {
-        "src": "data/images/d2feaee35f45a218.jpg",
-        "alt": "Los Angeles Public Library Unveils the World’s Largest Pop-Up Book",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/07/daniel-gonzalez-matthew-reinhart-popup-book-los-anglees-library-world-record/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Tue, 21 Jul 2026 14:11:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "books",
-        "history",
-        "illustration",
-        "architecture",
-        "daniel gonzález",
-        "los angeles",
-        "matthew reinhart"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:30:01.649Z",
-      "hash": "cc3acd8285dd7dbb"
-    },
-    {
-      "id": "craft:e01432aaeda4e492",
-      "type": "craft",
-      "title": "Presence, Memory, and Time Merge in the Surreal Works of ‘Architects of Absence’",
-      "summary": "The group exhibition at Gallery Wendi Norris plumbs the dialogue between absence and presence.",
-      "body": "The group exhibition at Gallery Wendi Norris plumbs the dialogue between absence and presence.",
-      "image": {
-        "src": "data/images/71bbd8f6bd4e7984.jpg",
-        "alt": "Presence, Memory, and Time Merge in the Surreal Works of ‘Architects of Absence’",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/07/architects-of-absence-exhibition-painting-drawing/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Mon, 20 Jul 2026 16:30:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "art history",
-        "dabin ahn",
-        "drawing",
-        "emotions",
-        "painting",
-        "remedios varo",
-        "surreal"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:30:01.649Z",
-      "hash": "e01432aaeda4e492"
-    },
-    {
-      "id": "craft:777f9976db07227e",
-      "type": "craft",
-      "title": "Make: Live – Physics in Action",
-      "summary": "Join Dale Dougherty and Joan Horvath and Rich Cameron, authors of the new Make: Physics book, to discover how their hands-on physics experiments can transform passive learning into an interactive exploration of the world around us. The post Make: Live – Physics in Action appeared first on Make:…",
-      "body": "Join Dale Dougherty and Joan Horvath and Rich Cameron, authors of the new Make: Physics book, to discover how their hands-on physics experiments can transform passive learning into an interactive exploration of the world around us. The post Make: Live – Physics in Action appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/e935d6507ce1bca7.jpg",
-        "alt": "Make: Live – Physics in Action",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/education/make-live-physics-in-action/",
-        "trustTier": "publication",
-        "author": "Jamie Agius",
-        "date": "Mon, 20 Jul 2026 19:04:1"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "digital fabrication",
-        "education",
-        "make: live",
-        "physics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:30:01.370Z",
-      "hash": "777f9976db07227e"
-    },
-    {
-      "id": "word:5d40b1bdb1ee1e26",
-      "type": "word",
-      "title": "mellifluous",
-      "summary": "Adjective: Flowing like honey.",
-      "body": "1. Flowing like honey.\n2. Sweet, smooth and musical; pleasant to hear (generally used of a person's voice, tone or writing style).",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/mellifluous",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Adjective"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-22T10:29:39.152Z",
-      "hash": "5d40b1bdb1ee1e26"
-    },
-    {
-      "id": "word:1a5813dc6043406b",
-      "type": "word",
-      "title": "sublime",
-      "summary": "Verb: Synonym of sublimate. To heat (a substance) in a container so as to convert it into a gas which then condenses in solid form on cooler parts of the container; to change (a solid substance) into a gas without breaking down or passing through the liquid state by heating it gently. To obtain or…",
-      "body": "1. Synonym of sublimate. To heat (a substance) in a container so as to convert it into a gas which then condenses in solid form on cooler parts of the container; to change (a solid substance) into a gas without breaking down or passing through the liquid state by heating it gently. To obtain or purify (a substance) in this manner. To raise (someone or an intangible thing) to a state of (especially moral or spiritual) excellence; to exalt.\n2. Synonym of sublimate. To heat (a substance) in a container so as to convert it into a gas which then condenses in solid form on cooler parts of the container; to change (a solid substance) into a gas without breaking down or passing through the liquid state by heating it gently. To obtain or purify (a substance) in this manner.\n3. To heat (a substance) in a container so as to convert it into a gas which then condenses in solid form on cooler parts of the container; to change (a solid substance) into a gas without breaking down or passing through the liquid state by heating it gently.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/sublime",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Verb"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-22T10:29:38.276Z",
-      "hash": "1a5813dc6043406b"
-    },
-    {
-      "id": "quote:811401c15afbcffd",
-      "type": "quote",
-      "title": "“To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.”",
-      "summary": "— Kahlil Gibran",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Kahlil_Gibran",
-        "trustTier": "community",
-        "author": "Kahlil Gibran"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-22T10:29:37.351Z",
-      "hash": "811401c15afbcffd"
-    },
-    {
-      "id": "quote:78a468c51b05439e",
-      "type": "quote",
-      "title": "“When your intuition is strong, follow it.”",
-      "summary": "— Lolly Daskal",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Lolly_Daskal",
-        "trustTier": "community",
-        "author": "Lolly Daskal"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-22T10:29:37.351Z",
-      "hash": "78a468c51b05439e"
-    },
-    {
-      "id": "quote:3c27ee78802d6cb6",
-      "type": "quote",
-      "title": "“People inspire you, or they drain you. Pick them wisely.”",
-      "summary": "— Les Brown",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Les_Brown",
-        "trustTier": "community",
-        "author": "Les Brown"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-22T10:29:37.351Z",
-      "hash": "3c27ee78802d6cb6"
-    },
-    {
-      "id": "book-review:66da867fca69ac2b",
-      "type": "book-review",
-      "title": "“As Good As It Gets”: Talking Liberalism with Kevin Schultz",
-      "summary": "“Up until Franklin Delano Roosevelt, very few Americans actually called themselves liberals or embraced anything that was called ‘liberalism.’” The post “As Good As It Gets”: Talking Liberalism with Kevin Schultz appeared first on Public Books.",
-      "body": "“Up until Franklin Delano Roosevelt, very few Americans actually called themselves liberals or embraced anything that was called ‘liberalism.’” The post “As Good As It Gets”: Talking Liberalism with Kevin Schultz appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/as-good-as-it-gets-talking-liberalism-with-kevin-schultz/",
-        "trustTier": "publication",
-        "author": "Imani Radney",
-        "date": "Tue, 21 Jul 2026 15:03:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "interviews",
-        "democrats",
-        "history",
-        "interview",
-        "liberalism",
-        "politics",
-        "race"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:29:37.008Z",
-      "hash": "66da867fca69ac2b"
-    },
-    {
-      "id": "article:1f813956f54e72dc",
-      "type": "article",
-      "title": "The Mystic River Massacre",
-      "summary": "How John Winthrop’s “city upon a hill” descended into the cataclysm of the Anglo–Pequot war.",
-      "body": "How John Winthrop’s “city upon a hill” descended into the cataclysm of the Anglo–Pequot war.",
-      "source": {
-        "name": "Lapham's Quarterly",
-        "url": "https://www.laphamsquarterly.org/roundtable/mystic-river-massacre",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "literature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:29:30.498Z",
-      "hash": "1f813956f54e72dc"
-    },
-    {
-      "id": "article:392e795a4038a29a",
-      "type": "article",
-      "title": "Epictetus on Love and Loss: The Stoic Strategy for Surviving Heartbreak",
-      "summary": "\"Who is good if he knows not who he is? and who knows what he is, if he forgets that things which have been made are perishable, and that it is not possible for one human being to be with another always?\"",
-      "body": "\"Who is good if he knows not who he is? and who knows what he is, if he forgets that things which have been made are perishable, and that it is not possible for one human being to be with another always?\"",
-      "image": {
-        "src": "data/images/6693bd4af591e2c2.jpg",
-        "alt": "Epictetus on Love and Loss: The Stoic Strategy for Surviving Heartbreak",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/07/20/epictetus-love-loss/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Mon, 20 Jul 2026 22:33:3"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "psychology",
-        "books",
-        "epictetus",
-        "love",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:29:28.770Z",
-      "hash": "392e795a4038a29a"
-    },
-    {
-      "id": "article:443355c0c397fe11",
-      "type": "article",
-      "title": "The Canadian poet Margaret Avison lived with such intense inwardness that Northrop Frye called her “a conscientious objector to life”",
-      "summary": "The Canadian poet Margaret Avison lived with such intense inwardness that Northrop Frye called her “a conscientious objector to life”",
-      "body": "The Canadian poet Margaret Avison lived with such intense inwardness that Northrop Frye called her “a conscientious objector to life”",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://thewalrus.ca/margaret-avison/",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:29:27.539Z",
-      "hash": "443355c0c397fe11"
-    },
-    {
-      "id": "article:71b5e4584fa8cbf8",
-      "type": "article",
-      "title": "At its American debut, half the audience walked out of Waiting for Godot. Now the whole world waits with it",
-      "summary": "At its American debut, half the audience walked out of Waiting for Godot. Now the whole world waits with it",
-      "body": "At its American debut, half the audience walked out of Waiting for Godot. Now the whole world waits with it",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://theamericanscholar.org/beckett-the-prophet/",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:29:27.539Z",
-      "hash": "71b5e4584fa8cbf8"
-    },
-    {
-      "id": "article:47ac540e3bb3d00e",
-      "type": "article",
-      "title": "Betting markets in everything",
-      "summary": "Alan and Karen Miller’s first dance was a win-or-lose moment for many of their wedding guests. As the couple glided across the floor during their reception in New Rochelle, N.Y., last year, attendees kept track of the chosen artist and the length of the dance. Earlier in the night, they had noted…",
-      "body": "Alan and Karen Miller’s first dance was a win-or-lose moment for many of their wedding guests. As the couple glided across the floor during their reception in New Rochelle, N.Y., last year, attendees kept track of the chosen artist and the length of the dance. Earlier in the night, they had noted their guesses on […] The post Betting markets in everything appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/07/betting-markets-in-everything-5.html?utm_source=rss&utm_medium=rss&utm_campaign=betting-markets-in-everything-5",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Wed, 22 Jul 2026 04:35:4"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "current affairs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:29:26.580Z",
-      "hash": "47ac540e3bb3d00e"
-    },
-    {
-      "id": "poetry:d215b93d39c171ce",
-      "type": "poem",
-      "title": "A POISON TREE",
-      "summary": "I was angry with my friend:\nI told my wrath, my wrath did end.\nI was angry with my foe:\nI told it not, my wrath did grow.",
-      "body": "I was angry with my friend:\nI told my wrath, my wrath did end.\nI was angry with my foe:\nI told it not, my wrath did grow.\n\nAnd I watered it in fears\nNight and morning with my tears,\nAnd I sunned it with smiles\nAnd with soft deceitful wiles.\n\nAnd it grew both day and night,\nTill it bore an apple bright,\nAnd my foe beheld it shine,\nand he knew that it was mine,--\n\nAnd into my garden stole\nWhen the night had veiled the pole;\nIn the morning, glad, I see\nMy foe outstretched beneath the tree.",
-      "source": {
-        "name": "William Blake · PoetryDB",
-        "url": "https://poetrydb.org/title/A%20POISON%20TREE",
-        "trustTier": "community",
-        "author": "William Blake"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-22T10:29:24.850Z",
-      "hash": "d215b93d39c171ce"
     },
     {
       "id": "curated:handwriting-beats-typing",

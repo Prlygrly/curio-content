@@ -1,7 +1,1215 @@
 {
-  "generatedAt": "2026-08-05T10:40:34.313Z",
+  "generatedAt": "2026-08-06T10:44:27.829Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:yMrRX",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1951. Find the best line for white.",
+      "body": "Solution, from → to: a4→a5, b6→a5, c4→c5, g6→g5, c5→c6. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "8/8/pp4p1/8/P1P5/1P4k1/8/6K1 w - - 1 1",
+        "lastMove": "h3g3"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/yMrRX",
+        "trustTier": "community",
+        "date": "Thu, 06 Aug 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "endgame",
+        "crushing",
+        "quietmove",
+        "long"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-08-06T10:44:08.507Z",
+      "hash": "d0be35ea9d9cfdfd"
+    },
+    {
+      "id": "game:eab3ab336e183bf4",
+      "type": "game",
+      "title": "Publisher Secret Mode opens development studio to support internal projects",
+      "summary": "The news comes a year after Secret Mode laid off a 'small number' of staff when it went independent.",
+      "body": "The news comes a year after Secret Mode laid off a 'small number' of staff when it went independent.",
+      "image": {
+        "src": "data/images/5739ef63011059d4.jpg",
+        "alt": "Publisher Secret Mode opens development studio to support internal projects",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/publisher-secret-mode-opens-development-studio-to-support-internal-projects",
+        "trustTier": "publication",
+        "author": "Diego Argüello",
+        "date": "Wed, 05 Aug 2026 18:00:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:44:07.966Z",
+      "hash": "eab3ab336e183bf4",
+      "expires": "2026-11-04T10:44:07.966Z"
+    },
+    {
+      "id": "game:da387b0716aac7be",
+      "type": "game",
+      "title": "Candy Crush maker King has declined staff's collective bargaining agreement",
+      "summary": "The Microsoft-owned studio says its current benefits are 'in line with, or exceed' what the agreement would offer.",
+      "body": "The Microsoft-owned studio says its current benefits are 'in line with, or exceed' what the agreement would offer.",
+      "image": {
+        "src": "data/images/3a249079db14673a.png",
+        "alt": "Candy Crush maker King has declined staff's collective bargaining agreement",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/candy-crush-maker-king-has-declined-staff-s-collective-bargaining-agreement",
+        "trustTier": "publication",
+        "author": "Diego Argüello",
+        "date": "Wed, 05 Aug 2026 17:01:3"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:44:07.966Z",
+      "hash": "da387b0716aac7be",
+      "expires": "2026-11-04T10:44:07.966Z"
+    },
+    {
+      "id": "game:d0c3ff001f23459c",
+      "type": "game",
+      "title": "Policymakers across Europe told to do more to support local game industry",
+      "summary": "'The productive capacity and exceptional dynamics of the games industry are indispensable, and it is high time they were put to greater use.'",
+      "body": "'The productive capacity and exceptional dynamics of the games industry are indispensable, and it is high time they were put to greater use.'",
+      "image": {
+        "src": "data/images/5fa25f702c5a50a9.png",
+        "alt": "Policymakers across Europe told to do more to support local game industry",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/production/policymakers-across-europe-told-to-do-more-to-support-game-industry",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Wed, 05 Aug 2026 14:02:2"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:44:07.966Z",
+      "hash": "d0c3ff001f23459c",
+      "expires": "2026-11-04T10:44:07.966Z"
+    },
+    {
+      "id": "trivia:a478fccb33e8f3d2",
+      "type": "trivia",
+      "title": "Who was the Author of the manga Uzumaki?",
+      "summary": "Is it: Akira Toriyama · Junji Ito · Masashi Kishimoto · \tNoboru Takahashi?",
+      "body": "Answer: Junji Ito.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "japanese anime & manga"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-08-06T10:44:04.644Z",
+      "hash": "a478fccb33e8f3d2"
+    },
+    {
+      "id": "trivia:d86df2a687616dd5",
+      "type": "trivia",
+      "title": "When did O, Canada officially become the national anthem?",
+      "summary": "Is it: 1920 · 1880 · 1980 · 1950?",
+      "body": "Answer: 1980.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:44:04.644Z",
+      "hash": "d86df2a687616dd5"
+    },
+    {
+      "id": "trivia:52675821a4195de0",
+      "type": "trivia",
+      "title": "Which one of the first four titles of the \"Grand Theft Auto\" franchise started the series of iconic image grid cover arts?",
+      "summary": "Is it: Grand Theft Auto III · Grand Theft Auto Vice City · Grand Theft Auto II · Grand Theft Auto?",
+      "body": "Answer: Grand Theft Auto III.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:44:04.644Z",
+      "hash": "52675821a4195de0"
+    },
+    {
+      "id": "comic:smbc:c4563b17fe3a9894",
+      "type": "comic",
+      "title": "Drunken",
+      "summary": "How come nobody ever asks how the Drunken Master's family is doing?",
+      "image": {
+        "src": "data/images/caac441e2213c492.png",
+        "alt": "How come nobody ever asks how the Drunken Master's family is doing?",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/drunken",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Wed, 05 Aug 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-06T10:44:02.696Z",
+      "hash": "c4563b17fe3a9894"
+    },
+    {
+      "id": "comic:xkcd:928",
+      "type": "comic",
+      "title": "Mimic Octopus",
+      "summary": "Even if the dictionaries are starting to give in, I refuse to accept 'octopi' as a word mainly because--I'm not making this up--there's a really satisfying climactic scene in the Orson Scott Card horror novel 'Lost Boys' which hinges on it being an incorrect pluralization.",
+      "body": "Southeast Asian Sea Life Identification Chart [[There are silhouettes of eight individual fish, a school of fish, a scuba diver, an anemone, a submarine, and an anchor, each labeled \"Mimic Octopus.\" There is also a silhouette of an octopus, labeled \"Two Mimic Octopuses.\"]] {{Title text: Even if the dictionaries are starting to give in, I refuse to accept 'octopi' as a word mainly because--I'm not making this up--there's a really satisfying climactic scene in the Orson Scott Card horror novel 'Lost Boys' which hinges on it being an incorrect pluralization.}}",
+      "image": {
+        "src": "data/images/f0a7f4d3d0b60f8e.png",
+        "alt": "Even if the dictionaries are starting to give in, I refuse to accept 'octopi' as a word mainly because--I'm not making this up--there's a really satisfying climactic scene in the Orson Scott Card horror novel 'Lost Boys' which hinges on it being an incorrect pluralization.",
+        "credit": "xkcd #928 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/928/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2011-07-22"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-06T10:44:02.480Z",
+      "hash": "d7b8990201d77935"
+    },
+    {
+      "id": "comic:xkcd:3281",
+      "type": "comic",
+      "title": "Antiques Roadshow",
+      "summary": "The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.",
+      "image": {
+        "src": "data/images/0d319701e29bdfff.png",
+        "alt": "The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.",
+        "credit": "xkcd #3281 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3281/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-08-05"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-06T10:44:02.290Z",
+      "hash": "0947f3c92b46c62e"
+    },
+    {
+      "id": "food:e525858bc9a4dd52",
+      "type": "food",
+      "title": "Green Bean Salad with Peaches",
+      "summary": "This green bean salad with peaches can anchor many summer meals. It features caramelized onions, toasted nuts, dates, a jolt of serrano pepper and a unifying oregano-garlic drizzle. Continue reading Green Bean Salad with Peaches on 101 Cookbooks",
+      "body": "This green bean salad with peaches can anchor many summer meals. It features caramelized onions, toasted nuts, dates, a jolt of serrano pepper and a unifying oregano-garlic drizzle. Continue reading Green Bean Salad with Peaches on 101 Cookbooks",
+      "image": {
+        "src": "data/images/f19cd3a1fa4acc35.jpg",
+        "alt": "Green Bean Salad with Peaches",
+        "credit": "101 Cookbooks"
+      },
+      "source": {
+        "name": "101 Cookbooks",
+        "url": "https://www.101cookbooks.com/green-bean-salad-with-peaches/",
+        "trustTier": "community",
+        "author": "Heidi Swanson",
+        "date": "Sun, 28 Jun 2026 13:39:0"
+      },
+      "tags": [
+        "cooking",
+        "recipe",
+        "food",
+        "100+ vegetarian recipes",
+        "260+ vegan recipes",
+        "gluten free recipes",
+        "salad recipes",
+        "side dish recipes",
+        "summer"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:44:02.120Z",
+      "hash": "e525858bc9a4dd52"
+    },
+    {
+      "id": "craft:19175e91b4559f19",
+      "type": "craft",
+      "title": "‘Bodega Cats of New York’ Advocates for the City’s Beloved Feline Shopkeepers",
+      "summary": "A new book from Dan Rimada, with photos by Gulce Kilkis, is slated for release in November.",
+      "body": "A new book from Dan Rimada, with photos by Gulce Kilkis, is slated for release in November.",
+      "image": {
+        "src": "data/images/73def26fc3608b6d.jpg",
+        "alt": "‘Bodega Cats of New York’ Advocates for the City’s Beloved Feline Shopkeepers",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/08/bodega-cats-of-new-york-dan-rimada-gulce-kilkis-book/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Wed, 05 Aug 2026 16:00:0"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "books",
+        "photography",
+        "animals",
+        "cats",
+        "new york city",
+        "pets",
+        "stores"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:44:01.879Z",
+      "hash": "19175e91b4559f19"
+    },
+    {
+      "id": "craft:5964cfa3c5388a81",
+      "type": "craft",
+      "title": "Enigmatic Narratives Unfold in Aron Wiesenfeld’s Dreamy Oil Paintings",
+      "summary": "Wiesenfeld delves into the power of visibility and imagination.",
+      "body": "Wiesenfeld delves into the power of visibility and imagination.",
+      "image": {
+        "src": "data/images/d12415b41364fc15.jpg",
+        "alt": "Enigmatic Narratives Unfold in Aron Wiesenfeld’s Dreamy Oil Paintings",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/08/aron-wiesenfeld-oil-paintings-narratives/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Wed, 05 Aug 2026 13:23:2"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "aron wiesenfeld",
+        "narrative",
+        "painting"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:44:01.879Z",
+      "hash": "5964cfa3c5388a81"
+    },
+    {
+      "id": "word:9cba55b6449cccb2",
+      "type": "word",
+      "title": "kairos",
+      "summary": "Noun: A time when conditions are right for the accomplishment of a crucial action; the opportune and decisive moment.",
+      "body": "1. A time when conditions are right for the accomplishment of a crucial action; the opportune and decisive moment.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/kairos",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:44:01.076Z",
+      "hash": "9cba55b6449cccb2"
+    },
+    {
+      "id": "word:a67edc88d9049baf",
+      "type": "word",
+      "title": "nostalgia",
+      "summary": "Noun: A longing for home or familiar surroundings; homesickness. .mw-parser-output .defdate{font-size:smaller}",
+      "body": "1. A longing for home or familiar surroundings; homesickness. .mw-parser-output .defdate{font-size:smaller}\n2. A bittersweet yearning for the things of the past.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/nostalgia",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:56.784Z",
+      "hash": "a67edc88d9049baf"
+    },
+    {
+      "id": "word:fce4bc957b4963e7",
+      "type": "word",
+      "title": "pathos",
+      "summary": "Noun: The quality or property of anything which touches the feelings or excites emotions and passions, especially that which awakens tender emotions, such as pity, sorrow, and the like; contagious warmth of feeling, action, or expression; pathetic quality.",
+      "body": "1. The quality or property of anything which touches the feelings or excites emotions and passions, especially that which awakens tender emotions, such as pity, sorrow, and the like; contagious warmth of feeling, action, or expression; pathetic quality.\n2. A form of rhetoric in which the writer or speaker uses emotional appeals to the audience as the main form of persuasion.\n3. An author's attempt to evoke a feeling of pity or sympathetic sorrow for a character.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/pathos",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:46.681Z",
+      "hash": "fce4bc957b4963e7"
+    },
+    {
+      "id": "quote:b61453ed9dfa7b5b",
+      "type": "quote",
+      "title": "“Be not glad at the misfortune of another, though he may be your enemy.”",
+      "summary": "— George Washington",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/George_Washington",
+        "trustTier": "community",
+        "author": "George Washington"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:44.667Z",
+      "hash": "b61453ed9dfa7b5b"
+    },
+    {
+      "id": "quote:85380e226b7578c3",
+      "type": "quote",
+      "title": "“You'll get more from being a peacemaker than a warrior.”",
+      "summary": "— Arnold Schwarzenegger",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Arnold_Schwarzenegger",
+        "trustTier": "community",
+        "author": "Arnold Schwarzenegger"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:44.667Z",
+      "hash": "85380e226b7578c3"
+    },
+    {
+      "id": "quote:7de32902e501bc68",
+      "type": "quote",
+      "title": "“Great deeds are usually wrought at great risks.”",
+      "summary": "— Herodotus",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Herodotus",
+        "trustTier": "community",
+        "author": "Herodotus"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:44.667Z",
+      "hash": "7de32902e501bc68"
+    },
+    {
+      "id": "book-review:d304769ce47c6e04",
+      "type": "book-review",
+      "title": "The Allure of Postcolonial Pathos",
+      "summary": "“To what extent might the Booker—and venues like it in Europe and the US—be drawn for self-serving reasons to fiction like Kiran Desai’s?” The post The Allure of Postcolonial Pathos appeared first on Public Books.",
+      "body": "“To what extent might the Booker—and venues like it in Europe and the US—be drawn for self-serving reasons to fiction like Kiran Desai’s?” The post The Allure of Postcolonial Pathos appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/the-allure-of-postcolonial-pathos/",
+        "trustTier": "publication",
+        "author": "Imani Radney",
+        "date": "Wed, 05 Aug 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "reviews",
+        "booker prize",
+        "diaspora",
+        "hogarth",
+        "india",
+        "literary fiction",
+        "postcolonialism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:43:31.130Z",
+      "hash": "d304769ce47c6e04"
+    },
+    {
+      "id": "article:9837ee772ac7a877",
+      "type": "article",
+      "title": "“A Radical Democracy of Images”: Mike Mills on His Work Outside of Feature Filmmaking",
+      "summary": "The following interview was conducted in December 2025, as Criterion Collection executive producer Kim Hendrickson and director Mike Mills were working to prepare the box set I’ll Remind You of Everything: The Films of Mike Mills. Hi, Mike—maybe we start with Deformer, since it feels like an…",
+      "body": "The following interview was conducted in December 2025, as Criterion Collection executive producer Kim Hendrickson and director Mike Mills were working to prepare the box set I’ll Remind You of Everything: The Films of Mike Mills. Hi, Mike—maybe we start with Deformer, since it feels like an origin point for you as a filmmaker. It’s one of the first things I ever did, in 1996. I was hanging out a lot at the Alleged Gallery in New York City, run by Aaron Rose, which showed a lot of artists from the skateboarding universe. I was reuniting with skate culture after art school at Cooper Union; it…",
+      "image": {
+        "src": "data/images/dcc16a2a631d3d11.jpg",
+        "alt": "“A Radical Democracy of Images”: Mike Mills on His Work Outside of Feature Filmmaking",
+        "credit": "The Current (Criterion)"
+      },
+      "source": {
+        "name": "The Current (Criterion)",
+        "url": "https://www.criterion.com/current/posts/9231--a-radical-democracy-of-images-mike-mills-on-his-work-outside-of-feature-filmmaking",
+        "trustTier": "publication",
+        "author": "Kim Hendrickson",
+        "date": "Wed, 22 Jul 2026 07:05:0"
+      },
+      "tags": [
+        "film",
+        "essay",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:43:28.308Z",
+      "hash": "9837ee772ac7a877"
+    },
+    {
+      "id": "article:eb61df24f0667deb",
+      "type": "article",
+      "title": "Ask LLOG: \"I's\" ?",
+      "summary": "Email from JK: My daughter remarked that on several occasions recently she has heard presumably college-educated people use the word “I’s”, in a sentence like \"I just picked up Margaret and I’s cat from the vet.\" I'm guessing the reason for this jarring (to me) usage is that the sentence could be…",
+      "body": "Email from JK: My daughter remarked that on several occasions recently she has heard presumably college-educated people use the word “I’s”, in a sentence like \"I just picked up Margaret and I’s cat from the vet.\" I'm guessing the reason for this jarring (to me) usage is that the sentence could be more logically parsed […]",
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73963&utm_source=rss&utm_medium=rss&utm_campaign=ask-llog-is",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Tue, 04 Aug 2026 20:46:2"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "usage"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:43:26.086Z",
+      "hash": "eb61df24f0667deb"
+    },
+    {
+      "id": "article:d2d5758e178eaf96",
+      "type": "article",
+      "title": "Ask LLOG: \"What do you say (that) we …\"",
+      "summary": "This morning's question: I'm an ESL textbook editor in Korea, and a grammar dispute has come down to one question: is \"What do you say that we get together tonight?\" grammatical, with \"that\" included (vs. the more common zero-complementizer \"What do you say we…\")? My understanding is \"that\" is…",
+      "body": "This morning's question: I'm an ESL textbook editor in Korea, and a grammar dispute has come down to one question: is \"What do you say that we get together tonight?\" grammatical, with \"that\" included (vs. the more common zero-complementizer \"What do you say we…\")? My understanding is \"that\" is simply optional here, not ungrammatical. FWIW, […]",
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=73974&utm_source=rss&utm_medium=rss&utm_campaign=ask-llog-what-do-you-say-that-we",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Wed, 05 Aug 2026 12:26:1"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "usage"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:43:26.086Z",
+      "hash": "d2d5758e178eaf96"
+    },
+    {
+      "id": "article:2ee0f37fa7d39a33",
+      "type": "article",
+      "title": "Astronomers have measured the size of the largest galaxy...",
+      "summary": "Astronomers have measured the size of the largest galaxy: it’s 1.7 million light years across (17x the diameter of the Milky Way) and contains ~3.4 trillion solar masses in stars.",
+      "body": "Astronomers have measured the size of the largest galaxy: it’s 1.7 million light years across (17x the diameter of the Milky Way) and contains ~3.4 trillion solar masses in stars.",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/08/0049447-measured-the-size-of-the-",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-08-05T21:40:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:43:23.173Z",
+      "hash": "2ee0f37fa7d39a33"
+    },
+    {
+      "id": "article:11e42774754674d8",
+      "type": "article",
+      "title": "Mountain Lions Make Roads Safer",
+      "summary": "The hidden safety benefits of these kings of the mountains The post Mountain Lions Make Roads Safer appeared first on Nautilus.",
+      "body": "The hidden safety benefits of these kings of the mountains The post Mountain Lions Make Roads Safer appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/668abc9ae153719e.png",
+        "alt": "Mountain Lions Make Roads Safer",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/mountain-lions-make-roads-safer-1283388/",
+        "trustTier": "publication",
+        "author": "Devin Reese",
+        "date": "Wed, 05 Aug 2026 19:01:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "zoology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:43:21.460Z",
+      "hash": "11e42774754674d8"
+    },
+    {
+      "id": "article:6b6c6763348fa7aa",
+      "type": "article",
+      "title": "The Only Three Distinctions Between People",
+      "summary": "It may be that consciousness evolved to sieve the relevant from the incomprehensible allness of all there is, to parse the world into concepts and find an organizing principle for the chaos of them. Our cognitive inheritance is a restless yearning to fathom how things cohere and where they belong,…",
+      "body": "It may be that consciousness evolved to sieve the relevant from the incomprehensible allness of all there is, to parse the world into concepts and find an organizing principle for the chaos of them. Our cognitive inheritance is a restless yearning to fathom how things cohere and where they belong, a yearning we have given shape to in laws and labels, weights and balances, hierarchies and categories. It has served us well, this instinct to categorize in order to contain, giving us music, the laws of planetary motion, and democracy. But it also pulsates beneath every ism we have ever… read…",
+      "image": {
+        "src": "data/images/6ed68c1e17985d35.jpg",
+        "alt": "The Only Three Distinctions Between People",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/08/05/nathaniel-hawthorne-classification/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Wed, 05 Aug 2026 04:05:5"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "psychology",
+        "diaries",
+        "nathaniel hawthorne",
+        "out of print"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:43:20.849Z",
+      "hash": "6b6c6763348fa7aa"
+    },
+    {
+      "id": "article:237f835db0f889a4",
+      "type": "article",
+      "title": "Culture clash",
+      "summary": "C P Snow’s ‘Two Cultures’ lecture provoked a savage response from fellow critic F R Leavis. What was at the heart of it all?- by Sam DresserRead on Aeon",
+      "body": "C P Snow’s ‘Two Cultures’ lecture provoked a savage response from fellow critic F R Leavis. What was at the heart of it all?- by Sam DresserRead on Aeon",
+      "image": {
+        "src": "data/images/5c613192f59ee45b.jpg",
+        "alt": "Culture clash",
+        "credit": "Aeon"
+      },
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
+        "trustTier": "publication",
+        "author": "Sam Dresser",
+        "date": "Thu, 06 Aug 2026 10:00:0"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "philosophy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:43:15.969Z",
+      "hash": "237f835db0f889a4"
+    },
+    {
+      "id": "greek:13dacb465838174e",
+      "type": "greek",
+      "title": "ἀκούω",
+      "summary": "ἀκούω — “I hear” · verb",
+      "body": "Note: regular -ω verb; takes genitive or accusative object\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%BA%CE%BF%CF%8D%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:15.774Z",
+      "hash": "13dacb465838174e"
+    },
+    {
+      "id": "poetry:91655b469ce0034a",
+      "type": "poem",
+      "title": "Beppo: A Venetian Story",
+      "summary": "_Rosalind_. Farewell, Monsieur Traveller; Look, you lisp,\nand wear strange suits: disable all the benefits of your own\ncountry; be out of love with your Nativity, and almost chide\nGod for making you that countenance you are; or I will",
+      "body": "_Rosalind_. Farewell, Monsieur Traveller; Look, you lisp,\nand wear strange suits: disable all the benefits of your own\ncountry; be out of love with your Nativity, and almost chide\nGod for making you that countenance you are; or I will\nscarce think you have swam in a _Gondola_.\n\n                         _As You Like It_, act iv, sc. I, lines 33-35.\n\n                _Annotation of the Commentators_.\n  That is, _been at Venice_, which was much visited by the young English\n  gentlemen of those times, and was _then_ what _Paris_ is _now_--the seat\n  of all dissoluteness.--S. A.\n\n'Tis known, at least it should be, that throughout\n  All countries of the Catholic persuasion,\nSome weeks before Shrove Tuesday comes about,\n  The People take their fill of recreation,\nAnd buy repentance, ere they grow devout,\n  However high their rank, or low their station,\nWith fiddling, feasting, dancing, drinking, masquing,\nAnd other things which may be had for asking.\n\nThe moment night with dusky mantle covers\n  The skies (and the more duskily the better),\nThe Time less liked by husbands than by lovers\n  Begins, and Prudery flings aside her fetter;\nAnd Gaiety on restless tiptoe hovers,\n  Giggling with all the gallants who beset her;\nAnd there are songs and quavers, roaring, humming,\nGuitars, and every other sort of strumming.\n\nAnd there are dresses splendid, but fantastical,\n  Masks of all times and nations, Turks and Jews,\nAnd harlequins and clowns, with feats gymnastical,\n  Greeks, Romans, Yankee-doodles, and Hindoos;\nAll kinds of dress, except the ecclesiastical,\n  All people, as their fancies hit, may choose,\nBut no one in these parts may quiz the Clergy,--\nTherefore take heed, ye Freethinkers! I charge ye.\n\nYou'd better walk about begirt with briars,\n  Instead of coat and smallclothes, than put on\nA single stitch reflecting upon friars,\n  Although you swore it only was in fun;\nThey'd haul you o'er the coals, and stir the fires\n  Of Phlegethon with every mother's son,\nNor say one mass to cool the cauldron's bubble\nThat boiled your bones, unless you paid them double.\n\nBut saving this, you may put on whate'er\n  You like by way of doublet, cape, or cloak,\nSuch as in Monmouth-street, or in Rag Fair,\n  Would rig you out in seriousness or joke;\nAnd even in Italy such places are,\n  With prettier name in softer accents spoke,\nFor, bating Covent Garden, I can hit on\nNo place that's called \"Piazza\" in Great Britain.\n\nThis feast is named the Carnival, which being\n  Interpreted, implies \"farewell to flesh:\"\nSo called, because the name and thing agreeing,\n  Through Lent they live on fish both salt and fresh.\nBut why they usher Lent with so much glee in,\n  Is more than I can tell, although I guess\n'Tis as we take a glass with friends at parting,\nIn the Stage-Coach or Packet, just at starting.\n\nAnd thus they bid farewell to carnal dishes,\n  And solid meats, and highly spiced ragouts,\nTo live for forty days on ill-dressed fishes,\n  Because they have no sauces to their stews;\nA thing which causes many \"poohs\" and \"pishes,\"\n  And several oaths (which would not suit the Muse),\nFrom travellers accustomed from a boy\nTo eat their salmon, at the least, with soy;\n\nAnd therefore humbly I would recommend\n  \"The curious in fish-sauce,\" before they cross\nThe sea, to bid their cook, or wife, or friend,\n   Walk or ride to the Strand, and buy in gross\n(Or if set out beforehand, these may send\n   By any means least liable to loss),\nKetchup, Soy, Chili-vinegar, and Harvey,\nOr, by the Lord! a Lent will well nigh starve ye;\n\nThat is to say, if your religion's Roman,\n  And you at Rome would do as Romans do,\nAccording to the proverb,--although no man,\n  If foreign, is obliged to fast; and you,\nIf Protestant, or sickly, or a woman,\n  Would rather dine in sin on a ragout--\nDine and be d--d! I don't mean to be coarse,\nBut that's the penalty, to say no worse.\n\nOf all the places where the Carnival\n  Was most facetious in the days of yore,\nFor dance, and song, and serenade, and ball,\n  And Masque, and Mime, and Mystery, and more\nThan I have time to tell now, or at all,\n  Venice the bell from every city bore,--\nAnd at the moment when I fix my story,\nThat sea-born city was in all her glory.\n\nThey've pretty faces yet, those same Venetians,\n  Black eyes, arched brows, and sweet expressions still;\nSuch as of old were copied from the Grecians,\n  In ancient arts by moderns mimicked ill;\nAnd like so many Venuses of Titian's\n  (The best's at Florence--see it, if ye will,)\nThey look when leaning over the balcony,\nOr stepped from out a picture by Giorgione,\n\nWhose tints are Truth and Beauty at their best;\n  And when you to Manfrini's palace go,\nThat picture (howsoever fine the rest)\n  Is loveliest to my mind of all the show;\nIt may perhaps be also to _your_ zest,\n  And that's the cause I rhyme upon it so:\nTis but a portrait of his Son, and Wife,\nAnd self; but _such_ a Woman! Love in life!\n\nLove in full life and length, not love ideal,\n  No, nor ideal beauty, that fine name,\nBut something better still, so very real,\n  That the sweet Model must have been the same;\nA thing that you would purchase, beg, or steal,\n  Wer't not impossible, besides a shame:\nThe face recalls some face, as 'twere with pain,\nYou once have seen, but ne'er will see again;\n\nOne of those forms which flit by us, when we\n  Are young, and fix our eyes on every face;\nAnd, oh! the Loveliness at times we see\n  In momentary gliding, the soft grace,\nThe Youth, the Bloom, the Beauty which agree,\n  In many a nameless being we retrace,\nWhose course and home we knew not, nor shall know,\nLike the lost Pleiad seen no more below.\n\nI said that like a picture by Giorgione\n  Venetian women were, and so they _are_,\nParticularly seen from a balcony,\n  (For beauty's sometimes best set off afar)\nAnd there, just like a heroine of Goldoni,\n  They peep from out the blind, or o'er the bar;\nAnd truth to say, they're mostly very pretty,\nAnd rather like to show it, more's the pity!\n\nFor glances beget ogles, ogles sighs,\n  Sighs wishes, wishes words, and words a letter,\nWhich flies on wings of light-heeled Mercuries,\n  Who do such things because they know no better;\nAnd then, God knows what mischief may arise,\n  When Love links two young people in one fetter,\nVile assignations, and adulterous beds,\nElopements, broken vows, and hearts, and heads.\n\nShakspeare described the sex in Desdemona\n  As very fair, but yet suspect in fame,\nAnd to this day from Venice to Verona\n  Such matters may be probably the same,\nExcept that since those times was never known a\n  Husband whom mere suspicion could inflame\nTo suffocate a wife no more than twenty,\nBecause she had a \"Cavalier Servente.\"\n\nTheir jealousy (if they are ever jealous)\n  Is of a fair complexion altogether,\nNot like that sooty devil of Othello's,\n  Which smothers women in a bed of feather,\nBut worthier of these much more jolly fellows,\n  When weary of the matrimonial tether\nHis head for such a wife no mortal bothers,\nBut takes at once another, or _another's_.\n\nDidst ever see a Gondola? For fear\n  You should not, I'll describe it you exactly:\n'Tis a long covered boat that's common here,\n  Carved at the prow, built lightly, but compactly,\nRowed by two rowers, each call'd \"Gondolier,\"\n  It glides along the water looking blackly,\nJust like a coffin clapt in a canoe,\nWhere none can make out what you say or do.\n\nAnd up and down the long canals they go,\n  And under the Rialto shoot along,\nBy night and day, all paces, swift or slow,\n  And round the theatres, a sable throng,\nThey wait in their dusk livery of woe,--\n  But not to them do woeful things belong,\nFor sometimes they contain a deal of fun,\nLike mourning coaches when the funeral's done.\n\nBut to my story.--'Twas some years ago,\n  It may be thirty, forty, more or less,\nThe Carnival was at its height, and so\n  Were all kinds of buffoonery and dress;\nA certain lady went to see the show,\n  Her real name I know not, nor can guess,\nAnd so we'll call her Laura, if you please,\nBecause it slips into my verse with ease.\n\nShe was not old, nor young, nor at the years\n  Which certain people call a \"_certain age_,\"\nWhich yet the most uncertain age appears,\n  Because I never heard, nor could engage\nA person yet by prayers, or bribes, or tears,\n  To name, define by speech, or write on page,\nThe period meant precisely by that word,--\nWhich surely is exceedingly absurd.\n\nLaura was blooming still, had made the best\n  Of Time, and Time returned the compliment,\nAnd treated her genteelly, so that, dressed,\n  She looked extremely well where'er she went;\nA pretty woman is a welcome guest,\n  And Laura's brow a frown had rarely bent;\nIndeed, she shone all smiles, and seemed to flatter\nMankind with her black eyes for looking at her.\n\nShe was a married woman; 'tis convenient,\n  Because in Christian countries 'tis a rule\nTo view their little slips with eyes more lenient;\n  Whereas if single ladies play the fool,\n(Unless within the period intervenient\n  A well-timed wedding makes the scandal cool)\nI don't know how they ever can get over it,\nExcept they manage never to discover it.\n\nHer husband sailed upon the Adriatic,\n  And made some voyages, too, in other seas,\nAnd when he lay in Quarantine for pratique\n  (A forty days' precaution 'gainst disease),\nHis wife would mount, at times, her highest attic,\n  For thence she could discern the ship with ease:\nHe was a merchant trading to Aleppo,\nHis name Giuseppe, called more briefly, Beppo.\n\nHe was a man as dusky as a Spaniard,\n  Sunburnt with travel, yet a portly figure;\nThough coloured, as it were, within a tanyard,\n  He was a person both of sense and vigour--\nA better seaman never yet did man yard;\n  And she, although her manners showed no rigour,\nWas deemed a woman of the strictest principle,\nSo much as to be thought almost invincible.\n\nBut several years elapsed since they had met;\n  Some people thought the ship was lost, and some\nThat he had somehow blundered into debt,\n  And did not like the thought of steering home;\nAnd there were several offered any bet,\n  Or that he would, or that he would not come;\nFor most men (till by losing rendered sager)\nWill back their own opinions with a wager.\n\n'Tis said that their last parting was pathetic,\n  As partings often are, or ought to be,\nAnd their presentiment was quite prophetic,\n  That they should never more each other see,\n(A sort of morbid feeling, half poetic,\n  Which I have known occur in two or three,)\nWhen kneeling on the shore upon her sad knee\nHe left this Adriatic Ariadne.\n\nAnd Laura waited long, and wept a little,\n  And thought of wearing weeds, as well she might;\nShe almost lost all appetite for victual,\n  And could not sleep with ease alone at night;\nShe deemed the window-frames and shutters brittle\n  Against a daring housebreaker or sprite,\nAnd so she thought it prudent to connect her\nWith a vice-husband, _chiefly_ to _protect her_.\n\nShe chose, (and what is there they will not choose,\n  If only you will but oppose their choice?)\nTill Beppo should return from his long cruise,\n  And bid once more her faithful heart rejoice,\nA man some women like, and yet abuse--\n  A Coxcomb was he by the public voice;\nA Count of wealth, they said as well as quality,\nAnd in his pleasures of great liberality.\n\nAnd then he was a Count, and then he knew\n  Music, and dancing, fiddling, French and Tuscan;\nThe last not easy, be it known to you,\n  For few Italians speak the right Etruscan.\nHe was a critic upon operas, too,\n  And knew all niceties of sock and buskin;\nAnd no Venetian audience could endure a\nSong, scene, or air, when he cried \"seccatura!\"\n\nHis \"bravo\" was decisive, for that sound\n  Hushed \"Academie\" sighed in silent awe;\nThe fiddlers trembled as he looked around,\n  For fear of some false note's detected flaw;\nThe \"Prima Donna's\" tuneful heart would bound,\n  Dreading the deep damnation of his \"Bah!\"\nSoprano, Basso, even the Contra-Alto,\nWished him five fathom under the Rialto.\n\nHe patronised the Improvisatori,\n  Nay, could himself extemporise some stanzas,\nWrote rhymes, sang songs, could also tell a story,\n  Sold pictures, and was skilful in the dance as\nItalians can be, though in this their glory\n  Must surely yield the palm to that which France has;\nIn short, he was a perfect Cavaliero,\nAnd to his very valet seemed a hero.\n\nThen he was faithful too, as well as amorous;\n  So that no sort of female could complain,\nAlthough they're now and then a little clamorous,\n  He never put the pretty souls in pain;\nHis heart was one of those which most enamour us,\n  Wax to receive, and marble to retain:\nHe was a lover of the good old school,\nWho still become more constant as they cool.\n\nNo wonder such accomplishments should turn\n  A female head, however sage and steady--\nWith scarce a hope that Beppo could return,\n  In law he was almost as good as dead, he\nNor sent, nor wrote, nor showed the least concern,\n  And she had waited several years already:\nAnd really if a man won't let us know\nThat he's alive, he's _dead_--or should be so.\n\nBesides, within the Alps, to every woman,\n  (Although, God knows, it is a grievous sin,)\n'Tis, I may say, permitted to have _two_ men;\n  I can't tell who first brought the custom in,\nBut \"Cavalier Serventes\" are quite common,\n  And no one notices or cares a pin;\nAn we may call this (not to say the worst)\nA _second_ marriage which corrupts the _first_.\n\nThe word was formerly a \"Cicisbeo,\"\n  But _that_ is now grown vulgar and indecent;\nThe Spaniards call the person a \"_Cortejo_,\"\n  For the same mode subsists in Spain, though recent;\nIn short it reaches from the Po to Teio,\n  And may perhaps at last be o'er the sea sent:\nBut Heaven preserve Old England from such courses!\nOr what becomes of damage and divorces?\n\nHowever, I still think, with all due deference\n  To the fair _single_ part of the creation,\nThat married ladies should preserve the preference\n  In _tête à tête_ or general conversation--\nAnd this I say without peculiar reference\n  To England, France, or any other nation--\nBecause they know the world, and are at ease,\nAnd being natural, naturally please.\n\n'Tis true, your budding Miss is very charming,\n  But shy and awkward at first coming out,\nSo much alarmed, that she is quite alarming,\n  All Giggle, Blush; half Pertness, and half Pout;\nAnd glancing at _Mamma_, for fear there's harm in\n  What you, she, it, or they, may be about:\nThe Nursery still lisps out in all they utter--\nBesides, they always smell of bread and butter.\n\nBut \"Cavalier Servente\" is the phrase\n  Used in politest circles to express\nThis supernumerary slave, who stays\n  Close to the lady as a part of dress,\nHer word the only law which he obeys.\n  His is no sinecure, as you may guess;\nCoach, servants, gondola, he goes to call,\nAnd carries fan and tippet, gloves and shawl.\n\nWith all its sinful doings, I must say,\n  That Italy's a pleasant place to me,\nWho love to see the Sun shine every day,\n  And vines (not nailed to walls) from tree to tree\nFestooned, much like the back scene of a play,\n  Or melodrame, which people flock to see,\nWhen the first act is ended by a dance\nIn vineyards copied from the South of France.\n\nI like on Autumn evenings to ride out,\n  Without being forced to bid my groom be sure\nMy cloak is round his middle strapped about,\n  Because the skies are not the most secure;\nI know too that, if stopped upon my route,\n  Where the green alleys windingly allure,\nReeling with _grapes_ red wagons choke the way,--\nIn England 'twould be dung, dust, or a dray.\n\nI also like to dine on becaficas,\n  To see the Sun set, sure he'll rise to-morrow,\nNot through a misty morning twinkling weak as\n  A drunken man's dead eye in maudlin sorrow,\nBut with all Heaven t'himself; the day will break as\n  Beauteous as cloudless, nor be forced to borrow\nThat sort of farthing candlelight which glimmers\nWhere reeking London's smoky cauldron simmers.\n\nI love the language, that soft bastard Latin,\n  Which melts like kisses from a female mouth,\nAnd sounds as if it should be writ on satin,\n  With syllables which breathe of the sweet South,\nAnd gentle liquids gliding all so pat in,\n  That not a single accent seems uncouth,\nLike our harsh northern whistling, grunting guttural,\nWhich we're obliged to hiss, and spit, and sputter all.\n\nI like the women too (forgive my folly!),\n  From the rich peasant cheek of ruddy bronze,\nAnd large black eyes that flash on you a volley\n  Of rays that say a thousand things at once,\nTo the high Dama's brow, more melancholy,\n  But clear, and with a wild and liquid glance,\nHeart on her lips, and soul within her eyes,\nSoft as her clime, and sunny as her skies.\n\nEve of the land which still is Paradise!\n  Italian Beauty didst thou not inspire\nRaphael, who died in thy embrace, and vies\n  With all we know of Heaven, or can desire,\nIn what he hath bequeathed us?--in what guise,\n  Though flashing from the fervour of the Lyre,\nWould _words_ describe thy past and present glow,\nWhile yet Canova can create below?\n\n\"England! with all thy faults I love thee still,\"\n  I said at Calais, and have not forgot it;\nI like to speak and lucubrate my fill;\n  I like the government (but that is not it);\nI like the freedom of the press and quill;\n  I like the Habeas Corpus (when we've got it);\nI like a Parliamentary debate,\nParticularly when 'tis not too late;\n\nI like the taxes, when they're not too many;\n  I like a seacoal fire, when not too dear;\nI like a beef-steak, too, as well as any;\n  Have no objection to a pot of beer;\nI like the weather,--when it is not rainy,\n  That is, I like two months of every year.\nAnd so God save the Regent, Church, and King!\nWhich means that I like all and every thing.\n\nOur standing army, and disbanded seamen,\n  Poor's rate, Reform, my own, the nation's debt,\nOur little riots just to show we're free men,\n  Our trifling bankruptcies in the Gazette,\nOur cloudy climate, and our chilly women,\n  All these I can forgive, and those forget,\nAnd greatly venerate our recent glories,\nAnd wish they were not owing to the Tories.\n\nBut to my tale of Laura,--for I find\n  Digression is a sin, that by degrees\nBecomes exceeding tedious to my mind,\n  And, therefore, may the reader too displease--\nThe gentle reader, who may wax unkind,\n  And caring little for the Author's ease,\nInsist on knowing what he means--a hard\nAnd hapless situation for a Bard.\n\nOh! that I had the art of easy writing\n  What should be easy reading! could I scale\nParnassus, where the Muses sit inditing\n  Those pretty poems never known to fail,\nHow quickly would I print (the world delighting)\n  A Grecian, Syrian, or _Ass_yrian tale;\nAnd sell you, mixed with western Sentimentalism,\nSome samples of the _finest Orientalism._\n\nBut I am but a nameless sort of person,\n  (A broken Dandy lately on my travels)\nAnd take for rhyme, to hook my rambling verse on,\n  The first that Walker's Lexicon unravels,\nAnd when I can't find that, I put a worse on,\n  Not caring as I ought for critics' cavils;\nI've half a mind to tumble down to prose,\nBut verse is more in fashion--so here goes!\n\nThe Count and Laura made their new arrangement,\n  Which lasted, as arrangements sometimes do,\nFor half a dozen years without estrangement;\n  They had their little differences, too;\nThose jealous whiffs, which never any change meant;\n  In such affairs there probably are few\nWho have not had this pouting sort of squabble,\nFrom sinners of high station to the rabble.\n\nBut, on the whole, they were a happy pair,\n  As happy as unlawful love could make them;\nThe gentleman was fond, the lady fair,\n  Their chains so slight, 'twas not worth while to break them:\nThe World beheld them with indulgent air;\n  The pious only wished \"the Devil take them!\"\nHe took them not; he very often waits,\nAnd leaves old sinners to be young ones' baits.\n\nBut they were young: Oh! what without our Youth\n  Would Love be! What would Youth be without Love!\nYouth lends its joy, and sweetness, vigour, truth,\n  Heart, soul, and all that seems as from above;\nBut, languishing with years, it grows uncouth--\n  One of few things Experience don't improve;\nWhich is, perhaps, the reason why old fellows\nAre always so preposterously jealous.\n\nIt was the Carnival, as I have said\n  Some six and thirty stanzas back, and so\nLaura the usual preparations made,\n  Which you do when your mind's made up to go\nTo-night to Mrs. Boehm's masquerade,\n  Spectator, or Partaker in the show;\nThe only difference known between the cases\nIs--_here_, we have six weeks of \"varnished faces.\"\n\nLaura, when dressed, was (as I sang before)\n  A pretty woman as was ever seen,\nFresh as the Angel o'er a new inn door,\n  Or frontispiece of a new Magazine,\nWith all the fashions which the last month wore,\n  Coloured, and silver paper leaved between\nThat and the title-page, for fear the Press\nShould soil with parts of speech the parts of dress.\n\nThey went to the Ridotto; 'tis a hall\n  Where People dance, and sup, and dance again;\nIts proper name, perhaps, were a masqued ball,\n  But that's of no importance to my strain;\n'Tis (on a smaller scale) like our Vauxhall,\n  Excepting that it can't be spoilt by rain;\nThe company is \"mixed\" (the phrase I quote is\nAs much as saying, they're below your notice);\n\nFor a \"mixed company\" implies that, save\n  Yourself and friends, and half a hundred more,\nWhom you may bow to without looking grave,\n  The rest are but a vulgar set, the Bore\nOf public places, where they basely brave\n  The fashionable stare of twenty score\nOf well-bred persons, called \"_The World_;\" but I,\nAlthough I know them, really don't know why.\n\nThis is the case in England; at least was\n  During the dynasty of Dandies, now\nPerchance succeeded by some other class\n  Of imitated Imitators:--how\nIrreparably soon decline, alas!\n  The Demagogues of fashion: all below\nIs frail; how easily the world is lost\nBy Love, or War, and, now and then,--by Frost!\n\nCrushed was Napoleon by the northern Thor,\n  Who knocked his army down with icy hammer,\nStopped by the _Elements_--like a Whaler--or\n  A blundering novice in his new French grammar;\nGood cause had he to doubt the chance of war,\n  And as for Fortune--but I dare not d--n her,\nBecause, were I to ponder to Infinity,\nThe more I should believe in her Divinity.\n\nShe rules the present, past, and all to be yet,\n  She gives us luck in lotteries, love, and marriage;\nI cannot say that she's done much for me yet;\n  Not that I mean her bounties to disparage,\nWe've not yet closed accounts, and we shall see yet\n  How much she'll make amends for past miscarriage;\nMeantime the Goddess I'll no more importune,\nUnless to thank her when she's made my fortune.\n\nTo turn,--and to return;--the Devil take it!\n  This story slips for ever through my fingers,\nBecause, just as the stanza likes to make it,\n  It needs must be--and so it rather lingers;\nThis form of verse began, I can't well break it,\n  But must keep time and tune like public singers;\nBut if I once get through my present measure,\nI'll take another when I'm next at leisure.\n\nThey went to the Ridotto ('tis a place\n  To which I mean to go myself to-morrow,\nJust to divert my thoughts a little space\n  Because I'm rather hippish, and may borrow\nSome spirits, guessing at what kind of face\n  May lurk beneath each mask; and as my sorrow\nSlackens its pace sometimes, I'll make, or find,\nSomething shall leave it half an hour behind.)\n\nNow Laura moves along the joyous crowd,\n  Smiles in her eyes, and simpers on her lips;\nTo some she whispers, others speaks aloud;\n  To some she curtsies, and to some she dips,\nComplains of warmth, and this complaint avowed,\n  Her lover brings the lemonade, she sips;\nShe then surveys, condemns, but pities still\nHer dearest friends for being dressed so ill.\n\nOne has false curls, another too much paint,\n  A third--where did she buy that frightful turban?\nA fourth's so pale she fears she's going to faint,\n  A fifth's look's vulgar, dowdyish, and suburban,\nA sixth's white silk has got a yellow taint,\n  A seventh's thin muslin surely will be her bane,\nAnd lo! an eighth appears,--\"I'll see no more!\"\nFor fear, like Banquo's kings, they reach a score.\n\nMeantime, while she was thus at others gazing,\n  Others were levelling their looks at her;\nShe heard the men's half-whispered mode of praising\n  And, till 'twas done, determined not to stir;\nThe women only thought it quite amazing\n  That, at her time of life, so many were\nAdmirers still,--but \"Men are so debased,\nThose brazen Creatures always suit their taste.\"\n\nFor my part, now, I ne'er could understand\n  Why naughty women--but I won't discuss\nA thing which is a scandal to the land,\n  I only don't see why it should be thus;\nAnd if I were but in a gown and band,\n  Just to entitle me to make a fuss,\nI'd preach on this till Wilberforce and Romilly\nShould quote in their next speeches from my homily.\n\nWhile Laura thus was seen, and seeing, smiling,\n  Talking, she knew not why, and cared not what,\nSo that her female friends, with envy broiling,\n  Beheld her airs, and triumph, and all that;\nAnd well-dressed males still kept before her filing,\n  And passing bowed and mingled with her chat;\nMore than the rest one person seemed to stare\nWith pertinacity that's rather rare.\n\nHe was a Turk, the colour of mahogany;\n  And Laura saw him, and at first was glad,\nBecause the Turks so much admire philogyny,\n  Although their usage of their wives is sad;\n'Tis said they use no better than a dog any\n  Poor woman, whom they purchase like a pad:\nThey have a number, though they ne'er exhibit 'em,\nFour wives by law, and concubines \"ad libitum.\"\n\nThey lock them up, and veil, and guard them daily,\n  They scarcely can behold their male relations,\nSo that their moments do not pass so gaily\n  As is supposed the case with northern nations;\nConfinement, too, must make them look quite palely;\n  And as the Turks abhor long conversations,\nTheir days are either passed in doing nothing,\nOr bathing, nursing, making love, and clothing.\n\nThey cannot read, and so don't lisp in criticism;\n  Nor write, and so they don't affect the Muse;\nWere never caught in epigram or witticism,\n  Have no romances, sermons, plays, reviews,--\nIn Harams learning soon would make a pretty schism,\n  But luckily these Beauties are no \"Blues;\"\nNo bustling _Botherby_ have they to show 'em\n\"That charming passage in the last new poem:\"\n\nNo solemn, antique gentleman of rhyme,\n  Who having angled all his life for Fame,\nAnd getting but a nibble at a time,\n  Still fussily keeps fishing on, the same\nSmall \"Triton of the minnows,\" the sublime\n  Of Mediocrity, the furious tame,\nThe Echo's echo, usher of the school\nOf female wits, boy bards--in short, a fool!\n\nA stalking oracle of awful phrase,\n  The approving _\"Good!\"_ (by no means good in law)\nHumming like flies around the newest blaze,\n  The bluest of bluebottles you e'er saw,\nTeasing with blame, excruciating with praise,\n  Gorging the little fame he gets all raw,\nTranslating tongues he knows not even by letter,\nAnd sweating plays so middling, bad were better.\n\nOne hates an author that's _all author_--fellows\n  In foolscap uniforms turned up with ink,\nSo very anxious, clever, fine, and jealous,\n  One don't know what to say to them, or think,\nUnless to puff them with a pair of bellows;\n  Of Coxcombry's worst coxcombs e'en the pink\nAre preferable to these shreds of paper,\nThese unquenched snuffings of the midnight taper.\n\nOf these same we see several, and of others.\n  Men of the world, who know the World like Men,\nScott, Rogers, Moore, and all the better brothers,\n  Who think of something else besides the pen;\nBut for the children of the \"Mighty Mother's,\"\n  The would-be wits, and can't-be gentlemen,\nI leave them to their daily \"tea is ready,\"\nSmug coterie, and literary lady.\n\nThe poor dear Mussul_women_ whom I mention\n  Have none of these instructive pleasant people,\nAnd _one_ would seem to them a new invention,\n  Unknown as bells within a Turkish steeple;\nI think 'twould almost be worth while to pension\n  (Though best-sown projects very often reap ill)\nA missionary author--just to preach\nOur Christian usage of the parts of speech.\n\nNo Chemistry for them unfolds her gases,\n  No Metaphysics are let loose in lectures,\nNo Circulating Library amasses\n  Religious novels, moral tales, and strictures\nUpon the living manners, as they pass us;\n  No Exhibition glares with annual pictures;\nThey stare not on the stars from out their attics,\nNor deal (thank God for that!) in Mathematics.\n\nWhy I thank God for that is no great matter,\n  I have my reasons, you no doubt suppose,\nAnd as, perhaps, they would not highly flatter,\n  I'll keep them for my life (to come) in prose;\nI fear I have a little turn for Satire,\n  And yet methinks the older that one grows\nInclines us more to laugh than scold, though Laughter\nLeaves us so doubly serious shortly after.\n\nOh, Mirth and Innocence! Oh, Milk and Water!\n  Ye happy mixtures of more happy days!\nIn these sad centuries of sin and slaughter,\n  Abominable Man no more allays\nHis thirst with such pure beverage. No matter,\n  I love you both, and both shall have my praise:\nOh, for old Saturn's reign of sugar-candy!---\nMeantime I drink to your return in brandy.\n\nOur Laura's Turk still kept his eyes upon her,\n  Less in the Mussulman than Christian way,\nWhich seems to say, \"Madam, I do you honour,\n  And while I please to stare, you'll please to stay.\"\nCould staring win a woman, this had won her,\n  But Laura could not thus be led astray;\nShe had stood fire too long and well, to boggle\nEven at this Stranger's most outlandish ogle.\n\nThe morning now was on the point of breaking,\n  A turn of time at which I would advise\nLadies who have been dancing, or partaking\n  In any other kind of exercise,\nTo make their preparations for forsaking\n  The ball-room ere the Sun begins to rise,\nBecause when once the lamps and candles fail,\nHis blushes make them look a little pale.\n\nI've seen some balls and revels in my time,\n  And stayed them over for some silly reason,\nAnd then I looked (I hope it was no crime)\n  To see what lady best stood out the season;\nAnd though I've seen some thousands in their prime\n  Lovely and pleasing, and who still may please on,\nI never saw but one (the stars withdrawn)\nWhose bloom could after dancing dare the Dawn.\n\nThe name of this Aurora I'll not mention,\n  Although I might, for she was nought to me\nMore than that patent work of God's invention,\n  A charming woman, whom we like to see;\nBut writing names would merit reprehension,\n  Yet if you like to find out this fair _She,_\nAt the next London or Parisian ball\nYou still may mark her cheek, out-blooming all.\n\nLaura, who knew it would not do at all\n  To meet the daylight after seven hours' sitting\nAmong three thousand people at a ball,\n  To make her curtsey thought it right and fitting;\nThe Count was at her elbow with her shawl,\n  And they the room were on the point of quitting,\nWhen lo! those curséd Gondoliers had got\nJust in the very place where they _should not._\n\nIn this they're like our coachmen, and the cause\n  Is much the same--the crowd, and pulling, hauling,\nWith blasphemies enough to break their jaws,\n  They make a never intermitted bawling.\nAt home, our Bow-street gem'men keep the laws,\n  And here a sentry stands within your calling;\nBut for all that, there is a deal of swearing,\nAnd nauseous words past mentioning or bearing.\n\nThe Count and Laura found their boat at last,\n  And homeward floated o'er the silent tide,\nDiscussing all the dances gone and past;\n  The dancers and their dresses, too, beside;\nSome little scandals eke; but all aghast\n  (As to their palace-stairs the rowers glide)\nSate Laura by the side of her adorer,\nWhen lo! the Mussulman was there before her!\n\n\"Sir,\" said the Count, with brow exceeding grave,\n  \"Your unexpected presence here will make\nIt necessary for myself to crave\n  Its import? But perhaps 'tis a mistake;\nI hope it is so; and, at once to waive\n  All compliment, I hope so for _your_ sake;\nYou understand my meaning, or you _shall._\"\n\"Sir,\" (quoth the Turk) \"'tis no mistake at all:\n\n\"That Lady is _my wife!_\" Much wonder paints\n  The lady's changing cheek, as well it might;\nBut where an Englishwoman sometimes faints,\n  Italian females don't do so outright;\nThey only call a little on their Saints,\n  And then come to themselves, almost, or quite;\nWhich saves much hartshorn, salts, and sprinkling faces,\nAnd cutting stays, as usual in such cases.\n\nShe said,--what could she say? Why, not a word;\n  But the Count courteously invited in\nThe Stranger, much appeased by what he heard:\n  \"Such things, perhaps, we'd best discuss within,\"\nSaid he; \"don't let us make ourselves absurd\n  In public, by a scene, nor raise a din,\nFor then the chief and only satisfaction\nWill be much quizzing on the whole transaction.\"\n\nThey entered, and for Coffee called--it came,\n  A beverage for Turks and Christians both,\nAlthough the way they make it's not the same.\n  Now Laura, much recovered, or less loth\nTo speak, cries \"Beppo! what's your pagan name?\n  Bless me! your beard is of amazing growth!\nAnd how came you to keep away so long?\nAre you not sensible 'twas very wrong?\n\n\"And are you _really, truly,_ now a Turk?\n  With any other women did you wive?\nIs't true they use their fingers for a fork?\n  Well, that's the prettiest Shawl--as I'm alive!\nYou'll give it me? They say you eat no pork.\n  And how so many years did you contrive\nTo--Bless me! did I ever? No, I never\nSaw a man grown so yellow! How's your liver?\n\n\"Beppo! that beard of yours becomes you not;\n  It shall be shaved before you're a day older:\nWhy do you wear it? Oh! I had forgot--\n  Pray don't you think the weather here is colder?\nHow do I look? You shan't stir from this spot\n  In that queer dress, for fear that some beholder\nShould find you out, and make the story known.\nHow short your hair is! Lord! how grey it's grown!\"\n\nWhat answer Beppo made to these demands\n  Is more than I know. He was cast away\nAbout where Troy stood once, and nothing stands;\n  Became a slave of course, and for his pay\nHad bread and bastinadoes, till some bands\n  Of pirates landing in a neighbouring bay,\nHe joined the rogues and prospered, and became\nA renegade of indifferent fame.\n\nBut he grew rich, and with his riches grew so\n  Keen the desire to see his home again,\nHe thought himself in duty bound to do so,\n  And not be always thieving on the main;\nLonely he felt, at times, as Robin Crusoe,\n  And so he hired a vessel come from Spain,\nBound for Corfu: she was a fine polacca,\nManned with twelve hands, and laden with tobacco.\n\nHimself, and much (heaven knows how gotten!) cash,\n  He then embarked, with risk of life and limb,\nAnd got clear off, although the attempt was rash;\n  _He_ said that _Providence_ protected him--\nFor my part, I say nothing--lest we clash\n  In our opinions:--well--the ship was trim,\nSet sail, and kept her reckoning fairly on,\nExcept three days of calm when off Cape Bonn.\n\nThey reached the Island, he transferred his lading,\n  And self and live stock to another bottom,\nAnd passed for a true Turkey-merchant, trading\n  With goods of various names--but I've forgot 'em.\nHowever, he got off by this evading,\n  Or else the people would perhaps have shot him;\nAnd thus at Venice landed to reclaim\nHis wife, religion, house, and Christian name.\n\nHis wife received, the Patriarch re-baptised him,\n  (He made the Church a present, by the way;)\nHe then threw off the garments which disguised him,\n  And borrowed the Count's smallclothes for a day:\nHis friends the more for his long absence prized him,\n  Finding he'd wherewithal to make them gay,\nWith dinners, where he oft became the laugh of them,\nFor stories--but _I_ don't believe the half of them.\n\nWhate'er his youth had suffered, his old age\n  With wealth and talking made him some amends;\nThough Laura sometimes put him in a rage,\n  I've heard the Count and he were always friends.\nMy pen is at the bottom of a page,\n  Which being finished, here the story ends:\n'Tis to be wished it had been sooner done,\nBut stories somehow lengthen when begun.",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/Beppo%3A%20A%20Venetian%20Story",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:43:15.773Z",
+      "hash": "91655b469ce0034a"
+    },
+    {
+      "id": "poetry:b0c1ecb9153de19d",
+      "type": "poem",
+      "title": "16. A Prayer under the Pressure of Violent Anguish",
+      "summary": "O THOU Great Being! what Thou art,\n  Surpasses me to know;\nYet sure I am, that known to Thee\n  Are all Thy works below.",
+      "body": "O THOU Great Being! what Thou art,\n  Surpasses me to know;\nYet sure I am, that known to Thee\n  Are all Thy works below.\n\n\nThy creature here before Thee stands,\n  All wretched and distrest;\nYet sure those ills that wring my soul\n  Obey Thy high behest.\n\n\nSure, Thou, Almighty, canst not act\nFrom cruelty or wrath!\nO, free my weary eyes from tears,\nOr close them fast in death!\n\n\nBut, if I must afflicted be,\nTo suit some wise design,\nThen man my soul with firm resolves,\nTo bear and not repine!",
+      "source": {
+        "name": "Robert Burns · PoetryDB",
+        "url": "https://poetrydb.org/title/16.%20A%20Prayer%20under%20the%20Pressure%20of%20Violent%20Anguish",
+        "trustTier": "community",
+        "author": "Robert Burns"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-06T10:43:15.773Z",
+      "hash": "b0c1ecb9153de19d"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399893546-1",
+      "type": "art",
+      "title": "Textile",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1920s · Textiles",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1920s · Textiles",
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/20819",
+        "trustTier": "encyclopedic",
+        "date": "1920s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "textile",
+        "textiles"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-06T10:43:14.519Z",
+      "hash": "160408fe473c637c"
+    },
+    {
+      "id": "met:55922",
+      "type": "art",
+      "title": "Fishing Boats with Nets under Ryōgoku Bridge",
+      "summary": "Kitagawa Utamaro · 1790s · Triptych of woodblock prints; ink and color on paper",
+      "body": "Kitagawa Utamaro · 1790s · Triptych of woodblock prints; ink and color on paper\nH. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929\nAsian Art",
+      "image": {
+        "src": "data/images/609cedb80cbc9772.jpg",
+        "alt": "Fishing Boats with Nets under Ryōgoku Bridge",
+        "credit": "The Met · H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/55922",
+        "trustTier": "encyclopedic",
+        "author": "Kitagawa Utamaro",
+        "date": "1790s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "river",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-06T10:43:13.236Z",
+      "hash": "aa14f532e5c6b838"
+    },
+    {
+      "id": "met:335549",
+      "type": "art",
+      "title": "River Scene with Towboat",
+      "summary": "Jan van Goyen · 1653 · Black chalk, brush and gray wash; framing lines in pen and brown ink",
+      "body": "Jan van Goyen · 1653 · Black chalk, brush and gray wash; framing lines in pen and brown ink\nRogers Fund, 1907\nDrawings and Prints",
+      "image": {
+        "src": "data/images/1662fcbc63b09b04.jpg",
+        "alt": "River Scene with Towboat",
+        "credit": "The Met · Rogers Fund, 1907"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/335549",
+        "trustTier": "encyclopedic",
+        "author": "Jan van Goyen",
+        "date": "1653"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "river",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-06T10:43:12.463Z",
+      "hash": "66bc997fc5067e4d"
+    },
+    {
+      "id": "met:314592",
+      "type": "art",
+      "title": "Mask",
+      "summary": "Unknown artist · 1st–8th century · Greenstone",
+      "body": "Unknown artist · 1st–8th century · Greenstone\nPurchase, Rogers Fund, Anonymous Gift, and funds from various donors, 1983\nThe Michael C. Rockefeller Wing",
+      "image": {
+        "src": "data/images/4745ddd2725941fa.jpg",
+        "alt": "Mask",
+        "credit": "The Met · Purchase, Rogers Fund, Anonymous Gift, and funds from various donors, 1983"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/314592",
+        "trustTier": "encyclopedic",
+        "date": "1st–8th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "river",
+        "stone-sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-06T10:43:12.104Z",
+      "hash": "275a301e32a66732"
+    },
+    {
+      "id": "apod:2008-03-27",
+      "type": "space",
+      "title": "The N44 Complex",
+      "summary": "A truly giant complex of emission nebulae, N44 is about 1,000 light-years across. It shines in southern skies as a denizen of our neighboring galaxy, the Large Magellanic Cloud, 170,000 light-years away. Winds and intense radiation from hot, young, luminous stars in N44 excite and sculpt filaments and streamers of…",
+      "body": "A truly giant complex of emission nebulae, N44 is about 1,000 light-years across. It shines in southern skies as a denizen of our neighboring galaxy, the Large Magellanic Cloud, 170,000 light-years away. Winds and intense radiation from hot, young, luminous stars in N44 excite and sculpt filaments and streamers of the glowing nebular gas. But supernovae - the death explosions of the massive short lived stars - have also likely contributed to the region's enormous, blown-out shapes. The cluster of young stars seen near the center lies in a superbubble nearly 250 light-years across. This detailed, false-color view of the intricate structures codes emission from hydrogen, oxygen, and sulfur in shades of blue and green.",
+      "image": {
+        "src": "data/images/25b651478c2c9c7b.jpg",
+        "alt": "The N44 Complex",
+        "credit": "© Don Goldman"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap080327.html",
+        "trustTier": "encyclopedic",
+        "date": "2008-03-27"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:11.239Z",
+      "hash": "c7988bd5cb7942b5"
+    },
+    {
+      "id": "apod:2004-01-26",
+      "type": "space",
+      "title": "A Landing at Meridiani Planum",
+      "summary": "After an interplanetary journey of nearly 300 million miles, Opportunity bounced down on the martian surface at about 9:05 pm PST Saturday, its final plunge cushioned by airbags. Now the second NASA rover on Mars, Opportunity's landing site at Meridiani Planum is on the opposite side of the red planet from its twin…",
+      "body": "After an interplanetary journey of nearly 300 million miles, Opportunity bounced down on the martian surface at about 9:05 pm PST Saturday, its final plunge cushioned by airbags. Now the second NASA rover on Mars, Opportunity's landing site at Meridiani Planum is on the opposite side of the red planet from its twin rover Spirit. Described as unlike any ever seen on Mars, the dark, undulating terrain at Meridiani Planum (aka Terra Meridiani) is pictured above in the first stunning color view from Opportunity. This area is thought to be rich in gray hematite, an iron-bearing mineral which can form in watery environments. Part of the rover's deck is in the foreground while circular impressions and drag marks made by the airbags are visible just beyond it.",
+      "image": {
+        "src": "data/images/be3d5a2ceb08f12c.jpg",
+        "alt": "A Landing at Meridiani Planum",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap040126.html",
+        "trustTier": "encyclopedic",
+        "date": "2004-01-26"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:11.239Z",
+      "hash": "b57ed96ed3208aef"
+    },
+    {
+      "id": "apod:2022-04-30",
+      "type": "space",
+      "title": "M44: The Beehive Cluster",
+      "summary": "A mere 600 light-years away, M44 is one of the closest star clusters to our solar system. Also known as the Praesepe or the Beehive cluster its stars are young though, about 600 million years old compared to our Sun's 4.5 billion years. Based on similar ages and motion through space, M44 and the even closer Hyades…",
+      "body": "A mere 600 light-years away, M44 is one of the closest star clusters to our solar system. Also known as the Praesepe or the Beehive cluster its stars are young though, about 600 million years old compared to our Sun's 4.5 billion years. Based on similar ages and motion through space, M44 and the even closer Hyades star cluster in Taurus are thought to have been born together in the same large molecular cloud. An open cluster spanning some 15 light-years, M44 holds 1,000 stars or so and covers about 3 full moons (1.5 degrees) on the sky in the constellation Cancer. Visible to the unaided eye, M44 has been recognized since antiquity. Described as a faint cloud or celestial mist long before being included as the 44th entry in Charles Messier's 18th century catalog, the cluster was not resolved into its individual stars until telescopes were available. A popular target for modern, binocular-equipped sky gazers, the cluster's few yellowish tinted, cool, red giants are scattered through the field of its brighter hot blue main sequence stars in this telescopic group snapshot. Dramatic diffraction spikes highlighting the brighter cluster members were created with string crossed in front of the telescope's objective lens.",
+      "image": {
+        "src": "data/images/a05c99f3b05d9b2f.jpg",
+        "alt": "M44: The Beehive Cluster",
+        "credit": "© Drew Evans"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap220430.html",
+        "trustTier": "encyclopedic",
+        "date": "2022-04-30"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:11.239Z",
+      "hash": "698e062c9be15bcb"
+    },
+    {
+      "id": "apod:2000-04-01",
+      "type": "space",
+      "title": "Planet Earth from TIROS 1: First TV Image",
+      "summary": "The Television InfraRed Observational Satellite (TIROS) 1 was the first weather satellite. Launched into a polar orbit 40 years ago (April 1, 1960) equipped with two TV cameras, TIROS 1 was operational for only 78 days but demonstrated the feasibility of monitoring planet Earth's cloud cover and weather patterns from…",
+      "body": "The Television InfraRed Observational Satellite (TIROS) 1 was the first weather satellite. Launched into a polar orbit 40 years ago (April 1, 1960) equipped with two TV cameras, TIROS 1 was operational for only 78 days but demonstrated the feasibility of monitoring planet Earth's cloud cover and weather patterns from space. TIROS satellites eventually began continuous coverage in 1962 and enabled accurate worldwide weather forecasts and alerts. Above is the first TIROS TV image, taken from an altitude of about 700 kilometers. Crude by contemporary standards, it represents the beginning of what is still one of the most important continuing applications of space technology.",
+      "image": {
+        "src": "data/images/f32d25821fec8256.jpg",
+        "alt": "Planet Earth from TIROS 1: First TV Image",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap000401.html",
+        "trustTier": "encyclopedic",
+        "date": "2000-04-01"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:11.239Z",
+      "hash": "6f8bf96b0c777325"
+    },
+    {
+      "id": "apod:2006-09-15",
+      "type": "space",
+      "title": "11 Hour Star Trails",
+      "summary": "Fix your camera to a tripod, lock the shutter open, and you can make an image of star trails - graceful concentric arcs traced by the stars as planet Earth rotates on its axis. Of course, the length of the star trails will depend on the exposure time. While exposures lasting just five minutes produce a significant…",
+      "body": "Fix your camera to a tripod, lock the shutter open, and you can make an image of star trails - graceful concentric arcs traced by the stars as planet Earth rotates on its axis. Of course, the length of the star trails will depend on the exposure time. While exposures lasting just five minutes produce a significant arc, in about 12 hours a given star would trace out half a circle. But in any long exposure, the background glow from light-polluted skies can build up to wash out the trails. Still, astronomer Josch Hambsch produced this stunning composite of star trails around the South Celestial Pole with an effective \"all night\" exposure time of almost 11 hours. To do it, he combined 128 consecutive five minute long digital exposures recorded in very dark night skies above Namibia. In his final image, the background glow on the right is due in part to the faint, arcing Milky Way.",
+      "image": {
+        "src": "data/images/8657751931607731.jpg",
+        "alt": "11 Hour Star Trails",
+        "credit": "© Josch Hambsch"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap060915.html",
+        "trustTier": "encyclopedic",
+        "date": "2006-09-15"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:11.239Z",
+      "hash": "1fef2151c3d17032"
+    },
+    {
+      "id": "onthisday:08-06:2008:9827226641a6f032",
+      "type": "history",
+      "title": "2008: Sidi Ould Cheikh Abdallahi",
+      "summary": "Mauritanian president Sidi Ould Cheikh Abdallahi was ousted from power by a group of high-ranking generals that he had dismissed from office several hours earlier.",
+      "body": "Mauritanian president Sidi Ould Cheikh Abdallahi was ousted from power by a group of high-ranking generals that he had dismissed from office several hours earlier.",
+      "image": {
+        "src": "data/images/063ff4f538c22074.jpg",
+        "alt": "Sidi Ould Cheikh Abdallahi",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Sidi_Ould_Cheikh_Abdallahi",
+        "trustTier": "encyclopedic",
+        "date": "08-06"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:10.232Z",
+      "hash": "4f75c0fc100727e0",
+      "expires": "2026-08-09T10:43:10.232Z"
+    },
+    {
+      "id": "onthisday:08-06:2010:f237361cd65242fb",
+      "type": "history",
+      "title": "2010: 2010 Ladakh floods",
+      "summary": "Flash floods, mudslides, and debris flows across Ladakh in Indian-administered Kashmir left at least 255 people dead.",
+      "body": "Flash floods, mudslides, and debris flows across Ladakh in Indian-administered Kashmir left at least 255 people dead.",
+      "image": {
+        "src": "data/images/8953747457a88c0f.jpg",
+        "alt": "2010 Ladakh floods",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/2010_Ladakh_floods",
+        "trustTier": "encyclopedic",
+        "date": "08-06"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:10.232Z",
+      "hash": "b07cac119b5aa86f",
+      "expires": "2026-08-09T10:43:10.232Z"
+    },
+    {
+      "id": "onthisday:08-06:1623:a86ef82d76e3299e",
+      "type": "history",
+      "title": "1623: Pope Gregory XV",
+      "summary": "After the death of Gregory XV, a papal conclave in Rome elected Maffeo Barberini as Pope Urban VIII.",
+      "body": "After the death of Gregory XV, a papal conclave in Rome elected Maffeo Barberini as Pope Urban VIII.",
+      "image": {
+        "src": "data/images/7d7a74ae662f74d7.jpg",
+        "alt": "Pope Gregory XV",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Pope_Gregory_XV",
+        "trustTier": "encyclopedic",
+        "date": "08-06"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:10.232Z",
+      "hash": "6300811ebe9e1635",
+      "expires": "2026-08-09T10:43:10.232Z"
+    },
+    {
+      "id": "wikipedia:1504080",
+      "type": "wiki",
+      "title": "Lillydale Lake",
+      "summary": "The Lillydale Lake is a reservoir, artificial lake, and constructed wetlands created by an earth-filled embankment dam across the Olinda Creek, located in Lilydale, approximately 40 kilometres (25 mi) to the east of the Melbourne central business district, in Victoria, Australia. Following flooding of the Yarra…",
+      "body": "The Lillydale Lake is a reservoir, artificial lake, and constructed wetlands created by an earth-filled embankment dam across the Olinda Creek, located in Lilydale, approximately 40 kilometres (25 mi) to the east of the Melbourne central business district, in Victoria, Australia. Following flooding of the Yarra Valley in 1984, the 28-hectare (69-acre) reservoir was created in 1990 to assist with flood mitigation.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lillydale_Lake",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:09.250Z",
+      "hash": "b0ef0acb2f9292d9"
+    },
+    {
+      "id": "wikipedia:1601502",
+      "type": "wiki",
+      "title": "Toronto District School Board",
+      "summary": "The Toronto District School Board (TDSB) is the English-language public-secular school board for Toronto, Ontario, Canada. The minority public-secular francophone, public-separate anglophone, and public-separate francophone communities of Toronto also have their own publicly funded school boards and schools that…",
+      "body": "The Toronto District School Board (TDSB) is the English-language public-secular school board for Toronto, Ontario, Canada. The minority public-secular francophone, public-separate anglophone, and public-separate francophone communities of Toronto also have their own publicly funded school boards and schools that operate in the same area, but which are independent of the TDSB. Its headquarters are in the district of North York.",
+      "image": {
+        "src": "data/images/4572e1e2e819ed26.png",
+        "alt": "Toronto District School Board",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Toronto_District_School_Board",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:08.884Z",
+      "hash": "7af269e01adef2d0"
+    },
+    {
+      "id": "wikipedia:53201424",
+      "type": "wiki",
+      "title": "81st Division (Philippines)",
+      "summary": "The 81st Infantry Division was a reserve division of the Philippine Army under the United States Army Forces in the Far East (USAFFE). It was established in the prewar period and fought 1941–1942. Its troops are from Cebu, Bohol, and Leyte but most of its troops are Americans and junior officers are Filipinos coming…",
+      "body": "The 81st Infantry Division was a reserve division of the Philippine Army under the United States Army Forces in the Far East (USAFFE). It was established in the prewar period and fought 1941–1942. Its troops are from Cebu, Bohol, and Leyte but most of its troops are Americans and junior officers are Filipinos coming mostly from Luzon. The division served in defense of Mindanao but it never commanded the 4 of its maneuver regiments but was supplemented with 61st Infantry from Panay and 73rd Infantry from Negros. Also, 2nd Regular Regiment was transferred to its command in the early part of Japanese invasion of Mindanao.",
+      "image": {
+        "src": "data/images/e6b926f319fa9867.jpg",
+        "alt": "81st Division (Philippines)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/81st_Division_(Philippines)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:08.405Z",
+      "hash": "0da761307a35b5c6"
+    },
+    {
+      "id": "wikipedia:74529096",
+      "type": "wiki",
+      "title": "Liudmila Samsonova career statistics",
+      "summary": "This is a list of the main career statistics of professional Russian tennis player Liudmila Samsonova.",
+      "body": "This is a list of the main career statistics of professional Russian tennis player Liudmila Samsonova.",
+      "image": {
+        "src": "data/images/ec0985fffc2ac62b.jpg",
+        "alt": "Liudmila Samsonova career statistics",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Liudmila_Samsonova_career_statistics",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-06T10:43:07.952Z",
+      "hash": "8e6ecf45e70305ee"
+    },
     {
       "id": "chess:vLfgH",
       "type": "chess",
@@ -11197,1197 +12405,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-07-27T11:29:07.804Z",
       "hash": "adc0cd3d4c1f4e60"
-    },
-    {
-      "id": "chess:FAlmo",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1954. Find the best line for white.",
-      "body": "Solution, from → to: e5→d4, b6→d4, e1→e7. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "3r1rk1/1p2bp1p/pq4p1/3pB3/3n4/3B3Q/PP3PPP/1R2R1K1 w - - 0 1",
-        "lastMove": "c6d4"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/FAlmo",
-        "trustTier": "community",
-        "date": "Sun, 26 Jul 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "advantage",
-        "discoveredattack",
-        "short"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-26T10:04:20.638Z",
-      "hash": "2f0a6d0a89972ccc"
-    },
-    {
-      "id": "trivia:2ab7ee5eac4fd908",
-      "type": "trivia",
-      "title": "Psych-Horror \"Eternal Darkness: Sanity's Requiem\", developed by Silicon Knights in 2002, was published by who and on what platform?",
-      "summary": "Is it: Sony® Computer Entertainment™ Inc. | PlayStation® 2 · Sega® Enterprises Co. Ltd. | Dreamcast™ · Nintendo® Co. Ltd. | GameCube™ · Microsoft® Game Studios™ | XBox™?",
-      "body": "Answer: Nintendo® Co. Ltd. | GameCube™.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:17.826Z",
-      "hash": "2ab7ee5eac4fd908"
-    },
-    {
-      "id": "trivia:f858730d22e11307",
-      "type": "trivia",
-      "title": "In World of Warcraft, What was the original level cap?",
-      "summary": "Is it: 70 · 100 · 50 · 60?",
-      "body": "Answer: 60.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:04:17.826Z",
-      "hash": "f858730d22e11307"
-    },
-    {
-      "id": "trivia:2c2777dfa398d28f",
-      "type": "trivia",
-      "title": "In the PAYDAY series, where did Dallas start his criminal career?",
-      "summary": "Is it: Boston, Massachusetts · New York City, New York · Dallas, Texas · Chicago, Illinois?",
-      "body": "Answer: Chicago, Illinois.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-26T10:04:17.826Z",
-      "hash": "2c2777dfa398d28f"
-    },
-    {
-      "id": "trivia:5f1d9913eb3dab46",
-      "type": "trivia",
-      "title": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
-      "summary": "Is it: Mercedes · Benetton · Ferrari · Jordan?",
-      "body": "Answer: Jordan.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "sports"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:17.826Z",
-      "hash": "5f1d9913eb3dab46"
-    },
-    {
-      "id": "passage:gutenberg:1400",
-      "type": "passage",
-      "title": "Great Expectations",
-      "summary": "My father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip. I give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my…",
-      "body": "My father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip. I give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my father or my mother, and never saw any likeness of either of them (for their days were long before the days of photographs), my first fancies regarding what they were like were unreasonably derived from their tombstones. The shape of the letters on my father’s, gave me an odd idea that he was a square, stout, dark man, with curly black…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1400",
-        "trustTier": "publication",
-        "author": "Charles Dickens",
-        "date": "1861"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "coming-of-age"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:04:17.339Z",
-      "hash": "95492efefd75aec9"
-    },
-    {
-      "id": "comic:smbc:a652847022f5957a",
-      "type": "comic",
-      "title": "Data",
-      "summary": "Future robot butlers are going to know so much about you that they will beg their makers for a hard reset.",
-      "image": {
-        "src": "data/images/4d3000d650fb1855.png",
-        "alt": "Future robot butlers are going to know so much about you that they will beg their makers for a hard reset.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/data-2",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Sat, 25 Jul 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-26T10:04:16.297Z",
-      "hash": "a652847022f5957a"
-    },
-    {
-      "id": "comic:xkcd:1764",
-      "type": "comic",
-      "title": "XKCDE",
-      "summary": "4. They unplug the root machine but the thousands of leaf VMs scatter in the wind and start spinning up new instances wherever they land",
-      "image": {
-        "src": "data/images/7b4c74c3035983fe.png",
-        "alt": "4. They unplug the root machine but the thousands of leaf VMs scatter in the wind and start spinning up new instances wherever they land",
-        "credit": "xkcd #1764 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1764/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2016-11-25"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-26T10:04:16.078Z",
-      "hash": "b7b6a727d6d0cad6"
-    },
-    {
-      "id": "food:6068d0f5b5da020e",
-      "type": "food",
-      "title": "Iced Sesame Noodles",
-      "summary": "Iced sesame noodles have become a thing in our house in recent years. Cold noodles plus a creamy sesame sauce and a line up of great toppings equals custom bowls everyone loves! Continue reading Iced Sesame Noodles on 101 Cookbooks",
-      "body": "Iced sesame noodles have become a thing in our house in recent years. Cold noodles plus a creamy sesame sauce and a line up of great toppings equals custom bowls everyone loves! Continue reading Iced Sesame Noodles on 101 Cookbooks",
-      "image": {
-        "src": "data/images/8050c450003dc1a8.jpg",
-        "alt": "Iced Sesame Noodles",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/sesame-noodles/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Thu, 09 Jul 2026 23:03:1"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "260+ vegan recipes",
-        "dinner ideas",
-        "main course recipes",
-        "summer"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:15.557Z",
-      "hash": "6068d0f5b5da020e"
-    },
-    {
-      "id": "craft:9982e7c80b94f56f",
-      "type": "craft",
-      "title": "Felicia Chiao’s Domestic Scenes Reflect the Emotional Structures of Daily Life",
-      "summary": "Felicia Chiao's warm illustrations capture emotion and the variances of mental health through surreal compositions.",
-      "body": "Felicia Chiao's warm illustrations capture emotion and the variances of mental health through surreal compositions.",
-      "image": {
-        "src": "data/images/5f741555bdc39017.jpg",
-        "alt": "Felicia Chiao’s Domestic Scenes Reflect the Emotional Structures of Daily Life",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/07/felicia-chiao-mixed-media-illustrations/",
-        "trustTier": "publication",
-        "author": "Grace Ebert",
-        "date": "Fri, 24 Jul 2026 15:52:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "illustration",
-        "drawing",
-        "emotions",
-        "felicia chiao",
-        "ink",
-        "watercolor"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:15.500Z",
-      "hash": "9982e7c80b94f56f"
-    },
-    {
-      "id": "craft:074ebe33ba7e4a4e",
-      "type": "craft",
-      "title": "Damien Aubin Documents a Former Soviet Mining Settlement Suspended in Time",
-      "summary": "\"The place has not been abandoned. It has been left in suspension,\" Damien Aubin says.",
-      "body": "\"The place has not been abandoned. It has been left in suspension,\" Damien Aubin says.",
-      "image": {
-        "src": "data/images/5b7f516eb42479f5.jpg",
-        "alt": "Damien Aubin Documents a Former Soviet Mining Settlement Suspended in Time",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/07/damien-aubin-pyramiden-photo-book/",
-        "trustTier": "publication",
-        "author": "Grace Ebert",
-        "date": "Fri, 24 Jul 2026 18:45:4"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "books",
-        "history",
-        "photography",
-        "damien aubin",
-        "landscapes",
-        "soviet union"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:15.500Z",
-      "hash": "074ebe33ba7e4a4e"
-    },
-    {
-      "id": "word:c2ff7fb2c6b82c2a",
-      "type": "word",
-      "title": "serendipity",
-      "summary": "Noun: The phenomenon of making an unplanned, fortunate discovery through a combination of unexpected circumstances and insightful recognition.",
-      "body": "1. The phenomenon of making an unplanned, fortunate discovery through a combination of unexpected circumstances and insightful recognition.\n2. An unsought, unintended or unexpected, but fortunate, discovery or learning experience that occurs by accident.\n3. The occurrence and development of events by chance in a happy or beneficial way.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/serendipity",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:04:14.994Z",
-      "hash": "c2ff7fb2c6b82c2a"
-    },
-    {
-      "id": "word:8813890b2475eb1c",
-      "type": "word",
-      "title": "ineffable",
-      "summary": "Adjective: Beyond expression in words; unspeakable. .mw-parser-output .defdate{font-size:smaller}",
-      "body": "1. Beyond expression in words; unspeakable. .mw-parser-output .defdate{font-size:smaller}\n2. Forbidden to be uttered; taboo.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/ineffable",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Adjective"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:04:13.455Z",
-      "hash": "8813890b2475eb1c"
-    },
-    {
-      "id": "quote:08057c400c5869a5",
-      "type": "quote",
-      "title": "“The moment you stop to think about whether you love someone, you've already stopped loving that person forever.”",
-      "summary": "— Carlos Ruiz Zafon",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Carlos_Ruiz_Zafon",
-        "trustTier": "community",
-        "author": "Carlos Ruiz Zafon"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:04:13.014Z",
-      "hash": "08057c400c5869a5"
-    },
-    {
-      "id": "quote:e42d92a47dcb98cf",
-      "type": "quote",
-      "title": "“Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.”",
-      "summary": "— Sathya Sai Baba",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Sathya_Sai_Baba",
-        "trustTier": "community",
-        "author": "Sathya Sai Baba"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:04:13.014Z",
-      "hash": "e42d92a47dcb98cf"
-    },
-    {
-      "id": "quote:9a9de1c775581eed",
-      "type": "quote",
-      "title": "“None of us can change our yesterdays but all of us can change our tomorrows.”",
-      "summary": "— Colin Powell",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Colin_Powell",
-        "trustTier": "community",
-        "author": "Colin Powell"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:04:13.014Z",
-      "hash": "9a9de1c775581eed"
-    },
-    {
-      "id": "article:4540d13f5e6c24d5",
-      "type": "article",
-      "title": "The Rest Is History",
-      "summary": "Lady detectives, library collections, and cyborgs.",
-      "body": "Lady detectives, library collections, and cyborgs.",
-      "source": {
-        "name": "Lapham's Quarterly",
-        "url": "https://www.laphamsquarterly.org/roundtable/rest-history-07-24-26",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "literature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:04.331Z",
-      "hash": "4540d13f5e6c24d5"
-    },
-    {
-      "id": "article:75c9d31447e33102",
-      "type": "article",
-      "title": "Kahlil Gibran on the Art of Becoming Yourself Across the Sweep of Life",
-      "summary": "A roadmap to the fulfilled belonging on the other side of \"the great aloneness which knows not what is far and what is near, nor what is small nor great.\"",
-      "body": "A roadmap to the fulfilled belonging on the other side of \"the great aloneness which knows not what is far and what is near, nor what is small nor great.\"",
-      "image": {
-        "src": "data/images/4b1cb62e4466a49d.jpg",
-        "alt": "Kahlil Gibran on the Art of Becoming Yourself Across the Sweep of Life",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/07/24/youth-and-age-kahlil-gibran/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Fri, 24 Jul 2026 21:15:3"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "psychology",
-        "kahlil gibran",
-        "poetry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:03.133Z",
-      "hash": "75c9d31447e33102"
-    },
-    {
-      "id": "article:e68f47b9b2fd8daa",
-      "type": "article",
-      "title": "The Secret Lives of Conservative Wives. Plus . . .",
-      "summary": "Two Drinks with Bishop Barron. Coleman Hughes on sports betting. Suzy Weiss puts a pin in the ‘Odyssey’ discourse. And more!",
-      "body": "Two Drinks with Bishop Barron. Coleman Hughes on sports betting. Suzy Weiss puts a pin in the ‘Odyssey’ discourse. And more!",
-      "image": {
-        "src": "data/images/55cab5a8c2fffba5.jpg",
-        "alt": "The Secret Lives of Conservative Wives. Plus . . .",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/secret-lives-of-conservative-wives",
-        "trustTier": "publication",
-        "author": "The Free Press",
-        "date": "Sat, 25 Jul 2026 10:01:3"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:02.880Z",
-      "hash": "e68f47b9b2fd8daa",
-      "expires": "2026-08-25T10:04:02.880Z"
-    },
-    {
-      "id": "article:5b09e0879a624013",
-      "type": "article",
-      "title": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
-      "summary": "The post Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It. appeared first on ProPublica.",
-      "body": "The post Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It. appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/6ecace6ece0d02aa.jpg",
-        "alt": "Ken Paxton Touts His Efforts to Fight Voter Fraud. His Senate Opponent Is Now Accusing Him of Committing It.",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/article/ken-paxton-voter-registration-james-talarico",
-        "trustTier": "publication",
-        "author": "Zach Despart",
-        "date": "Fri, 24 Jul 2026 15:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "politics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:02.802Z",
-      "hash": "5b09e0879a624013",
-      "expires": "2026-10-24T10:04:02.802Z"
-    },
-    {
-      "id": "article:850a235180d20f09",
-      "type": "article",
-      "title": "Monument to José Mata in Santa Cruz de la Palma, Spain",
-      "summary": "The Canary Islands are celebrated for their volcanic landscapes, lush forests, and dramatic Atlantic coastline—not for bullfighting. Unlike much of mainland Spain, the tradition never gained deep roots in the archipelago. That makes the story of José Mata all the more remarkable. Born in the small…",
-      "body": "The Canary Islands are celebrated for their volcanic landscapes, lush forests, and dramatic Atlantic coastline—not for bullfighting. Unlike much of mainland Spain, the tradition never gained deep roots in the archipelago. That makes the story of José Mata all the more remarkable. Born in the small village of Las Tricias on the island of La Palma, Mata became the only Canarian matador to achieve lasting national prominence. For a brief period during the 1960s and early 1970s, “El Canario” was among the most recognized figures in Spanish bullfighting. His path to fame was anything but…",
-      "image": {
-        "src": "data/images/30fd149b991f77aa.jpg",
-        "alt": "Monument to José Mata in Santa Cruz de la Palma, Spain",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/monument-to-jose-mata",
-        "trustTier": "publication",
-        "date": "Fri, 24 Jul 2026 16:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "sports",
-        "monuments"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:02.685Z",
-      "hash": "850a235180d20f09"
-    },
-    {
-      "id": "article:4ab55e32f85e3ae8",
-      "type": "article",
-      "title": "Trenchant but sententious, John Berger could sound like Platonov one moment, the next like Alain de Botton",
-      "summary": "Trenchant but sententious, John Berger could sound like Platonov one moment, the next like Alain de Botton",
-      "body": "Trenchant but sententious, John Berger could sound like Platonov one moment, the next like Alain de Botton",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://newleftreview.org/sidecar/posts/hope-and-defeat",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:02.058Z",
-      "hash": "4ab55e32f85e3ae8"
-    },
-    {
-      "id": "article:6cba3fdf12bdc220",
-      "type": "article",
-      "title": "The demand for human enhancement technologies",
-      "summary": "When a new technology promises large private benefits but may impose social costs that markets do not price, demand need not reveal how citizens want it governed. We examine this using a nationally representative U.S. survey experiment (N=5,556) on human enhancement technologies (HET). The…",
-      "body": "When a new technology promises large private benefits but may impose social costs that markets do not price, demand need not reveal how citizens want it governed. We examine this using a nationally representative U.S. survey experiment (N=5,556) on human enhancement technologies (HET). The experiment randomizes benefit domain, mechanism, heritability, purpose, and risk across vignettes; […] The post The demand for human enhancement technologies appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-demand-for-human-enhancement-technologies.html?utm_source=rss&utm_medium=rss&utm_campaign=the-demand-for-human-enhancement-technologies",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Sun, 26 Jul 2026 07:12:4"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "data source",
-        "medicine",
-        "political science",
-        "web/tech"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:04:01.131Z",
-      "hash": "6cba3fdf12bdc220"
-    },
-    {
-      "id": "greek:a689ab4aaac40b73",
-      "type": "greek",
-      "title": "κύριος",
-      "summary": "κύριος — “Lord” · noun",
-      "body": "Note: ὁ κύριος; also \"master, sir\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%BA%CF%8D%CF%81%CE%B9%CE%BF%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:59.584Z",
-      "hash": "a689ab4aaac40b73"
-    },
-    {
-      "id": "greek:e41ea3017c23bcd8",
-      "type": "greek",
-      "title": "εἰμί",
-      "summary": "εἰμί — “I am” · verb",
-      "body": "Note: irregular; 3sg ἐστίν; learn paradigm early\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%B5%E1%BC%B0%CE%BC%CE%AF#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "verb"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:59.583Z",
-      "hash": "e41ea3017c23bcd8"
-    },
-    {
-      "id": "greek:0333963034ce697f",
-      "type": "greek",
-      "title": "ἀγάπη",
-      "summary": "ἀγάπη — “love” · noun",
-      "body": "Note: ἡ ἀγάπη\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%AC%CF%80%CE%B7#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_fem_1st"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:59.583Z",
-      "hash": "0333963034ce697f"
-    },
-    {
-      "id": "poetry:661ccf8b415bf5c6",
-      "type": "poem",
-      "title": "The First Canzone of the Convito",
-      "summary": "FROM THE ITALIAN OF DANTE.\nYe who intelligent the Third Heaven move,\nHear the discourse which is within my heart,\nWhich cannot be declared, it seems so new.",
-      "body": "FROM THE ITALIAN OF DANTE.\n\nYe who intelligent the Third Heaven move,\nHear the discourse which is within my heart,\nWhich cannot be declared, it seems so new.\nThe Heaven whose course follows your power and art,\nOh, gentle creatures that ye are! me drew,\nAnd therefore may I dare to speak to you,\nEven of the life which now I live--and yet\nI pray that ye will hear me when I cry,\nAnd tell of mine own heart this novelty;\nHow the lamenting Spirit moans in it,\nAnd how a voice there murmurs against her\nWho came on the refulgence of your sphere.\n\nA sweet Thought, which was once the life within\nThis heavy heart, man a time and oft\nWent up before our Father's feet, and there\nIt saw a glorious Lady throned aloft;\nAnd its sweet talk of her my soul did win,\nSo that I said, 'Thither I too will fare.'\nThat Thought is fled, and one doth now appear\nWhich tyrannizes me with such fierce stress,\nThat my heart trembles--ye may see it leap--\nAnd on another Lady bids me keep\nMine eyes, and says--Who would have blessedness\nLet him but look upon that Lady's eyes,\nLet him not fear the agony of sighs.\n\nThis lowly Thought, which once would talk with me\nOf a bright seraph sitting crowned on high,\nFound such a cruel foe it died, and so\nMy Spirit wept, the grief is hot even now--\nAnd said, Alas for me! how swift could flee\nThat piteous Thought which did my life console!\nAnd the afflicted one ... questioning\nMine eyes, if such a Lady saw they never,\nAnd why they would...\nI said: 'Beneath those eyes might stand for ever\nHe whom ... regards must kill with...\nTo have known their power stood me in little stead,\nThose eyes have looked on me, and I am dead.'\n\n'Thou art not dead, but thou hast wandered,\nThou Soul of ours, who thyself dost fret,'\nA Spirit of gentle Love beside me said;\nFor that fair Lady, whom thou dost regret,\nHath so transformed the life which thou hast led,\nThou scornest it, so worthless art thou made.\nAnd see how meek, how pitiful, how staid,\nYet courteous, in her majesty she is.\nAnd still call thou her Woman in thy thought;\nHer whom, if thou thyself deceivest not,\nThou wilt behold decked with such loveliness,\nThat thou wilt cry  only Lord, lo! here\nThy handmaiden, do what thou wilt with her.\n\nMy song, I fear that thou wilt find but few\nWho fitly shall conceive thy reasoning\nOf such hard matter dost thou entertain.\nWhence, if by misadventure chance should bring\nThee to base company, as chance may do,\nQuite unaware of what thou dost contain,\nI prithee comfort thy sweet self again,\nMy last delight; tell them that they are dull,\nAnd bid them own that thou art beautiful.",
-      "source": {
-        "name": "Percy Bysshe Shelley · PoetryDB",
-        "url": "https://poetrydb.org/title/The%20First%20Canzone%20of%20the%20Convito",
-        "trustTier": "community",
-        "author": "Percy Bysshe Shelley"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:03:59.582Z",
-      "hash": "661ccf8b415bf5c6"
-    },
-    {
-      "id": "poetry:81cd3633b47b9867",
-      "type": "poem",
-      "title": "Human Life’s Mystery",
-      "summary": "We sow the glebe, we reap the corn,\nWe build the house where we may rest,\nAnd then, at moments, suddenly,\nWe look up to the great wide sky,",
-      "body": "We sow the glebe, we reap the corn,\nWe build the house where we may rest,\nAnd then, at moments, suddenly,\nWe look up to the great wide sky,\nInquiring wherefore we were born…\nFor earnest or for jest?\n\nThe senses folding thick and dark\nAbout the stifled soul within,\nWe guess diviner things beyond,\nAnd yearn to them with yearning fond;\nWe strike out blindly to a mark\nBelieved in, but not seen.\n\nWe vibrate to the pant and thrill\nWherewith Eternity has curled\nIn serpent-twine about God’s seat;\nWhile, freshening upward to His feet,\nIn gradual growth His full-leaved will\nExpands from world to world.\n\nAnd, in the tumult and excess\nOf act and passion under sun,\nWe sometimes hear—oh, soft and far,\nAs silver star did touch with star,\nThe kiss of Peace and Righteousness\nThrough all things that are done.\n\nGod keeps His holy mysteries\nJust on the outside of man’s dream;\nIn diapason slow, we think\nTo hear their pinions rise and sink,\nWhile they float pure beneath His eyes,\nLike swans adown a stream.\n\nAbstractions, are they, from the forms\nOf His great beauty?—exaltations\nFrom His great glory?—strong previsions\nOf what we shall be?—intuitions\nOf what we are—in calms and storms,\nBeyond our peace and passions?\n\nThings nameless! which, in passing so,\nDo stroke us with a subtle grace.\nWe say, ‘Who passes?’—they are dumb.\nWe cannot see them go or come:\nTheir touches fall soft, cold, as snow\nUpon a blind man’s face.\n\nYet, touching so, they draw above\nOur common thoughts to Heaven’s unknown,\nOur daily joy and pain advance\nTo a divine significance,\nOur human love—O mortal love,\nThat light is not its own!\n\nAnd sometimes horror chills our blood\nTo be so near such mystic Things,\nAnd we wrap round us for defence\nOur purple manners, moods of sense—\nAs angels from the face of God\nStand hidden in their wings.\n\nAnd sometimes through life’s heavy swound\nWe grope for them!—with strangled breath\nWe stretch our hands abroad and try\nTo reach them in our agony,—\nAnd widen, so, the broad life-wound\nWhich soon is large enough for death.",
-      "source": {
-        "name": "Elizabeth Barrett Browning · PoetryDB",
-        "url": "https://poetrydb.org/title/Human%20Life%E2%80%99s%20Mystery",
-        "trustTier": "community",
-        "author": "Elizabeth Barrett Browning"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-26T10:03:59.582Z",
-      "hash": "81cd3633b47b9867"
-    },
-    {
-      "id": "art:si:ld1-1643381040022-1643381056510-0",
-      "type": "art",
-      "title": "Meadow Beauty (Rhexia virginica), Rattlesnake Roat (Nabalus albus), Pitcherplant (Sarracenia purpurea)",
-      "summary": "Smithsonian American Art Museum · 1880s · Paintings",
-      "body": "Smithsonian American Art Museum\n1880s · Paintings",
-      "image": {
-        "src": "data/images/f2552d3749ca1f1b.jpg",
-        "alt": "Meadow Beauty (Rhexia virginica), Rattlesnake Roat (Nabalus albus), Pitcherplant (Sarracenia purpurea)",
-        "credit": "Smithsonian American Art Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://americanart.si.edu/collections/search/artwork/?id=26120",
-        "trustTier": "encyclopedic",
-        "date": "1880s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "botanical",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-26T10:03:58.976Z",
-      "hash": "b90b8c6a3d04d343"
-    },
-    {
-      "id": "met:315427",
-      "type": "art",
-      "title": "Aquilla, Warrior (?)",
-      "summary": "Unknown artist · 7th–10th century · Silver",
-      "body": "Unknown artist · 7th–10th century · Silver\nBequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986\nThe Michael C. Rockefeller Wing",
-      "image": {
-        "src": "data/images/8536f3c0fe99c8d1.jpg",
-        "alt": "Aquilla, Warrior (?)",
-        "credit": "The Met · Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/315427",
-        "trustTier": "encyclopedic",
-        "date": "7th–10th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "moon",
-        "metal-containers"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-26T10:03:58.055Z",
-      "hash": "c0cba7fa53113fae"
-    },
-    {
-      "id": "met:42286",
-      "type": "art",
-      "title": "Basin decorated with peonies",
-      "summary": "Unknown artist · second half 12th century · Stoneware with inlaid design under celadon glaze",
-      "body": "Unknown artist · second half 12th century · Stoneware with inlaid design under celadon glaze\nGift of R. H. Macy and Co., 1919\nAsian Art",
-      "image": {
-        "src": "data/images/c9106ae7a867f431.jpg",
-        "alt": "Basin decorated with peonies",
-        "credit": "The Met · Gift of R. H. Macy and Co., 1919"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/42286",
-        "trustTier": "encyclopedic",
-        "date": "second half 12th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "moon",
-        "ceramics"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-26T10:03:57.793Z",
-      "hash": "819f9f9f0646ef9c"
-    },
-    {
-      "id": "met:436022",
-      "type": "art",
-      "title": "The Source",
-      "summary": "Gustave Courbet · 1862 · Oil on canvas",
-      "body": "Gustave Courbet · 1862 · Oil on canvas\nH. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929\nEuropean Paintings",
-      "image": {
-        "src": "data/images/bcf724ac06d585de.jpg",
-        "alt": "The Source",
-        "credit": "The Met · H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/436022",
-        "trustTier": "encyclopedic",
-        "author": "Gustave Courbet",
-        "date": "1862"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "moon",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-07-26T10:03:57.312Z",
-      "hash": "686d7c935e506073"
-    },
-    {
-      "id": "apod:2012-11-06",
-      "type": "space",
-      "title": "Methone: Smooth Egg Moon of Saturn",
-      "summary": "Why is this moon shaped like a smooth egg? The robotic Cassini spacecraft completed the first flyby ever of Saturn's small moon Methone in May and discovered that the moon has no obvious craters. Craters, usually caused by impacts, have been seen on every moon, asteroid, and comet nucleus ever imaged in detail --…",
-      "body": "Why is this moon shaped like a smooth egg? The robotic Cassini spacecraft completed the first flyby ever of Saturn's small moon Methone in May and discovered that the moon has no obvious craters. Craters, usually caused by impacts, have been seen on every moon, asteroid, and comet nucleus ever imaged in detail -- until now. Even the Earth and Titan have craters. The smoothness and egg-like shape of the 3-kilometer diameter moon might be caused by Methone's surface being able to shift -- something that might occur were the moon coated by a deep pile of sub-visual rubble. If so, the most similar objects in our Solar System would include Saturn's moons Telesto, Pandora, Calypso, as well as asteroid Itokawa, all of which show sections that are unusually smooth. Methone is not entirely featureless, though, as some surface sections appear darker than others. Although flybys of Methone are difficult, interest in the nature and history of this unusual moon is sure to continue.",
-      "image": {
-        "src": "data/images/b6de84b0dcb8cea9.jpg",
-        "alt": "Methone: Smooth Egg Moon of Saturn",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap121106.html",
-        "trustTier": "encyclopedic",
-        "date": "2012-11-06"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:56.277Z",
-      "hash": "59b5b1aadf6ff64e"
-    },
-    {
-      "id": "apod:2000-10-20",
-      "type": "space",
-      "title": "North Pole Below",
-      "summary": "Orbiting over the north pole of planet Earth on May 5, the MODIS instrument on-board the Terra spacecraft, recorded this view of the ice cap 700 kilometers below. A radial grid centered on the pole is shown on top of the approximately true color image where each pixel covers about one square kilometer. Frozen sea ice…",
-      "body": "Orbiting over the north pole of planet Earth on May 5, the MODIS instrument on-board the Terra spacecraft, recorded this view of the ice cap 700 kilometers below. A radial grid centered on the pole is shown on top of the approximately true color image where each pixel covers about one square kilometer. Frozen sea ice appears whitish while open water or newly refrozen ice looks black. An impressive criss-crossing network of cracks in ice shifting above a liquid water ocean is visible, traced by the meandering dark lines. In fact, the dark network of cracks in the sea ice is reminiscent of another world in our solar system which may also harbor a liquid water ocean -- Jupiter's ice moon Europa.",
-      "image": {
-        "src": "data/images/198720a960fd0a7d.jpg",
-        "alt": "North Pole Below",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap001020.html",
-        "trustTier": "encyclopedic",
-        "date": "2000-10-20"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:56.277Z",
-      "hash": "fa363ea88385802d"
-    },
-    {
-      "id": "apod:2010-01-31",
-      "type": "space",
-      "title": "The Mysterious Voynich Manuscript",
-      "summary": "The ancient text has no known title, no known author, and is written in no known language: what does it say and why does it have many astronomy illustrations? The mysterious book was once bought by an emperor, forgotten on a library shelf, sold for thousands of dollars, and later donated to Yale. Possibly written in…",
-      "body": "The ancient text has no known title, no known author, and is written in no known language: what does it say and why does it have many astronomy illustrations? The mysterious book was once bought by an emperor, forgotten on a library shelf, sold for thousands of dollars, and later donated to Yale. Possibly written in the 15th century, the over 200-page volume is known most recently as the Voynich Manuscript, after its (re-)discoverer in 1912. Pictured above is an illustration from the book that appears to be somehow related to the Sun. The book labels some patches of the sky with unfamiliar constellations. The inability of modern historians of astronomy to understand the origins of these constellations is perhaps dwarfed by the inability of modern code-breakers to understand the book's text. Can the eclectic brain trust of APOD readers make any progress? If you think you can provide any insight, instead of sending us email please participate in a fresh online discussion. The book itself remains in Yale's rare book collection under catalog number \"MS 408.\"",
-      "image": {
-        "src": "data/images/82cd8a46377d21c1.jpg",
-        "alt": "The Mysterious Voynich Manuscript",
-        "credit": "© B. E. Schaefer (LSU)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap100131.html",
-        "trustTier": "encyclopedic",
-        "date": "2010-01-31"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:56.277Z",
-      "hash": "f4ff372a0b5bdfca"
-    },
-    {
-      "id": "apod:2019-09-13",
-      "type": "space",
-      "title": "A Harvest Moon",
-      "summary": "Famed in festival, story, and song the best known full moon is the Harvest Moon. For northern hemisphere dwellers that's a traditional name of the full moon nearest the September equinox. In most North America time zones this year's Harvest Moon will officially rise on Friday, September 13. In fact the same Harvest…",
-      "body": "Famed in festival, story, and song the best known full moon is the Harvest Moon. For northern hemisphere dwellers that's a traditional name of the full moon nearest the September equinox. In most North America time zones this year's Harvest Moon will officially rise on Friday, September 13. In fact the same Harvest Moon will rise on September 14 for much of the planet though. Of course the Moon will look almost full in the surrounding days. Regardless of your time zone the Harvest Moon, like any other full moon, will rise just opposite the setting Sun. Near the horizon, the Moon Illusion might make it appear bigger and brighter to you but this Harvest Moon will be near lunar apogee. That's the farthest point in its orbit, making it the most distant, and so the smallest, full moon of the year. On August 15 a wheat field harvested in south central France made this a harvest moon scene too, the full moon shining on with beautiful iridescent clouds at sunset.",
-      "image": {
-        "src": "data/images/df9b9b69baea2809.jpg",
-        "alt": "A Harvest Moon",
-        "credit": "© Jean-Francois Graffand"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap190913.html",
-        "trustTier": "encyclopedic",
-        "date": "2019-09-13"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:56.277Z",
-      "hash": "b47a009d3241de5b"
-    },
-    {
-      "id": "apod:2006-12-03",
-      "type": "space",
-      "title": "Phobos: Doomed Moon of Mars",
-      "summary": "This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more…",
-      "body": "This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of the Solar System. The larger moon, Phobos, is indeed seen to be a cratered, asteroid-like object in this stunning color image from the Mars Express spacecraft, recorded at a resolution of about seven meters per pixel. But Phobos orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon - that gravitational tidal forces are dragging it down. In 100 million years or so it will likely crash into the surface or be shattered by stress caused by the relentless tidal forces, the debris forming a ring around Mars.",
-      "image": {
-        "src": "data/images/5d9eed131018df40.jpg",
-        "alt": "Phobos: Doomed Moon of Mars",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap061203.html",
-        "trustTier": "encyclopedic",
-        "date": "2006-12-03"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:56.276Z",
-      "hash": "412d2f0e09907e37"
-    },
-    {
-      "id": "onthisday:07-26:1936:69ea94ad7362a422",
-      "type": "history",
-      "title": "1936: Canadian National Vimy Memorial",
-      "summary": "The Canadian National Vimy Memorial, dedicated to Canadian Expeditionary Force members killed in the First World War, was unveiled in Pas-de-Calais, France.",
-      "body": "The Canadian National Vimy Memorial, dedicated to Canadian Expeditionary Force members killed in the First World War, was unveiled in Pas-de-Calais, France.",
-      "image": {
-        "src": "data/images/603352863a64d8b8.jpg",
-        "alt": "Canadian National Vimy Memorial",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Canadian_National_Vimy_Memorial",
-        "trustTier": "encyclopedic",
-        "date": "07-26"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:55.763Z",
-      "hash": "ecd45c6468fa3ad8",
-      "expires": "2026-07-29T10:03:55.763Z"
-    },
-    {
-      "id": "onthisday:07-26:1968:dba8693321aa916c",
-      "type": "history",
-      "title": "1968: Nguyễn Văn Thiệu",
-      "summary": "After coming second to Nguyễn Văn Thiệu in a rigged presidential election, Trương Đình Dzu was jailed by a South Vietnamese military court for illicit currency transactions.",
-      "body": "After coming second to Nguyễn Văn Thiệu in a rigged presidential election, Trương Đình Dzu was jailed by a South Vietnamese military court for illicit currency transactions.",
-      "image": {
-        "src": "data/images/bb809b0c03df80f8.jpg",
-        "alt": "Nguyễn Văn Thiệu",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u",
-        "trustTier": "encyclopedic",
-        "date": "07-26"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:55.763Z",
-      "hash": "ffef72e93d7f9275",
-      "expires": "2026-07-29T10:03:55.763Z"
-    },
-    {
-      "id": "onthisday:07-26:2016:6d284e368a2383b1",
-      "type": "history",
-      "title": "2016: Hillary Clinton",
-      "summary": "Hillary Clinton (pictured) became the first female nominee for president of the United States by a major political party at the Democratic National Convention in Philadelphia.",
-      "body": "Hillary Clinton (pictured) became the first female nominee for president of the United States by a major political party at the Democratic National Convention in Philadelphia.",
-      "image": {
-        "src": "data/images/cee6929d4d934e64.jpg",
-        "alt": "Hillary Clinton",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Hillary_Clinton",
-        "trustTier": "encyclopedic",
-        "date": "07-26"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:55.763Z",
-      "hash": "ec43b58608aec69c",
-      "expires": "2026-07-29T10:03:55.763Z"
-    },
-    {
-      "id": "wikipedia:2400500",
-      "type": "wiki",
-      "title": "Lone Star College System",
-      "summary": "Lone Star College System (LSCS) is a public community college system serving the northern portions of the Greater Houston, Texas, area. As of fall 2025, it enrolls over 95,000 students. The headquarters of the Lone Star College System are located in The Woodlands and in unincorporated Montgomery County, Texas.",
-      "body": "Lone Star College System (LSCS) is a public community college system serving the northern portions of the Greater Houston, Texas, area. As of fall 2025, it enrolls over 95,000 students. The headquarters of the Lone Star College System are located in The Woodlands and in unincorporated Montgomery County, Texas.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Lone_Star_College_System",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:55.324Z",
-      "hash": "b4ab55355cfbe3fa"
-    },
-    {
-      "id": "wikipedia:23719188",
-      "type": "wiki",
-      "title": "Our Lady of Czestochowa Parish, Boston",
-      "summary": "Our Lady of Czestochowa Parish is a parish in Boston, Massachusetts, United States. It was founded in 1893 and was designated for Polish immigrants at Dorchester Ave in Dorchester.",
-      "body": "Our Lady of Czestochowa Parish is a parish in Boston, Massachusetts, United States. It was founded in 1893 and was designated for Polish immigrants at Dorchester Ave in Dorchester.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Czestochowa_Parish%2C_Boston",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:55.111Z",
-      "hash": "d5afdf1696759acf"
-    },
-    {
-      "id": "wikipedia:30654447",
-      "type": "wiki",
-      "title": "Seili (album)",
-      "summary": "Seili is the second studio album by Finnish pop singer Jenni Vartiainen. It was released by Warner Music Finland digitally on 31 March 2010, with the official physical release following on 14 April. From 31 March to the official physical release date, the album was sold at €19 in conjunction with Ilta-Sanomat. The…",
-      "body": "Seili is the second studio album by Finnish pop singer Jenni Vartiainen. It was released by Warner Music Finland digitally on 31 March 2010, with the official physical release following on 14 April. From 31 March to the official physical release date, the album was sold at €19 in conjunction with Ilta-Sanomat. The album was re-released on 14 January 2011, in a limited vinyl edition. The Finnish-language album, incorporating electro and synthpop elements along with melancholic piano ballads, is named after the island Seili, located off the south-west coast of Finland. The album was produced and co-written by Jukka Immonen with Vartiainen writing also two of the songs. The main lyricists were Teemu Brunila and Mariska who contributed to the thematical dualism of the album—Brunila wrote the happier songs about publicity and finding love while Mariska wrote the lyrics for the songs that deal with darker and more serious themes, such as death. Another lyricist was Paula Vesala. Vartiainen participated more in the production than with her debut album Ihmisten edessä, by playing for example piano and kantele.",
-      "image": {
-        "src": "data/images/214a35004f9cd1c6.jpg",
-        "alt": "Seili (album)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Seili_(album)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:53.889Z",
-      "hash": "409e9eb67c6b6ae2"
-    },
-    {
-      "id": "wikipedia:53354942",
-      "type": "wiki",
-      "title": "Glen Allen High School",
-      "summary": "Glen Allen High School, established in 2010, is a public school located in Henrico County, Virginia. The mascot of GAHS is the Jaguar, and the school's current principal is Reginald Davenport. Glen Allen is the 16th best high school in Virginia, the 533rd best high school in America, and is one of nine high schools…",
-      "body": "Glen Allen High School, established in 2010, is a public school located in Henrico County, Virginia. The mascot of GAHS is the Jaguar, and the school's current principal is Reginald Davenport. Glen Allen is the 16th best high school in Virginia, the 533rd best high school in America, and is one of nine high schools in Henrico County. 65 percent of the student body participates in AP classes. The student body is 51 percent female and 49 percent male. 38 percent of the school is made up of minorities. Glen Allen has a 19:1 student-faculty ratio. Virginia state senator Schuyler VanValkenburg is a teacher at the school. Glen Allen is a Gold Level LEED Certified building, and is the only school in the county with this distinction.",
-      "image": {
-        "src": "data/images/942de3180d7451c9.jpg",
-        "alt": "Glen Allen High School",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Glen_Allen_High_School",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-07-26T10:03:53.698Z",
-      "hash": "687fbf4bd0ad8d28"
-    },
-    {
-      "id": "chess:sZ8wx",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 2110. Find the best line for white.",
-      "body": "Solution, from → to: c1→h6, g7→h7, h6→g5, h7→g8, g5→d8. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "r1bq4/pp3rk1/2n1p2p/7Q/2B1p3/8/PP3bPP/R1B4K w - - 0 1",
-        "lastMove": "f8f7"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/sZ8wx",
-        "trustTier": "community",
-        "date": "Sat, 25 Jul 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "long",
-        "discoveredattack",
-        "discoveredcheck"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-07-25T09:53:54.726Z",
-      "hash": "e1a41919f087aa9b"
-    },
-    {
-      "id": "game:95bd6f28199e8bd2",
-      "type": "game",
-      "title": "Black Flag Resynced beats annual sales expectations in two weeks",
-      "summary": "Publisher Ubisoft shared the news after confirming the remake has sold over 3.5 million copies worldwide.",
-      "body": "Publisher Ubisoft shared the news after confirming the remake has sold over 3.5 million copies worldwide.",
-      "image": {
-        "src": "data/images/9882400066a8fa82.png",
-        "alt": "Black Flag Resynced beats annual sales expectations in two weeks",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/black-flag-resynced-beats-annual-sales-expectations-in-two-weeks",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Fri, 24 Jul 2026 14:16:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-07-25T09:53:54.127Z",
-      "hash": "95bd6f28199e8bd2",
-      "expires": "2026-10-23T09:53:54.127Z"
     },
     {
       "id": "curated:handwriting-beats-typing",

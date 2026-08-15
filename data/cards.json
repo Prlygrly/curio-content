@@ -1,7 +1,1003 @@
 {
-  "generatedAt": "2026-08-14T09:12:30.205Z",
+  "generatedAt": "2026-08-15T08:34:55.762Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:FeEXP",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1911. Find the best line for black.",
+      "body": "Solution, from → to: c5→f2, g1→f2, d8→h4, f2→g1, h4→c4. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "rnbq1rk1/pppp1ppp/8/2b5/2B5/1N6/PPP2RPP/RNBQ2K1 b - - 0 1",
+        "lastMove": "f1f2"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/FeEXP",
+        "trustTier": "community",
+        "date": "Sat, 15 Aug 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "advantage",
+        "attraction",
+        "fork",
+        "long"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-08-15T08:34:48.373Z",
+      "hash": "d9bcd7d5f72392d0"
+    },
+    {
+      "id": "game:9f26da542100b3c6",
+      "type": "game",
+      "title": "Scabby versus Sharma, Twitch's GenAI admission, and Netflix shutters more studios - Patch Notes #65",
+      "summary": "Plus: Big sales for Big Walk and some welcome preservation news.",
+      "body": "Plus: Big sales for Big Walk and some welcome preservation news.",
+      "image": {
+        "src": "data/images/aba328308aa17719.png",
+        "alt": "Scabby versus Sharma, Twitch's GenAI admission, and Netflix shutters more studios - Patch Notes #65",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/scabby-versus-sharma-twitch-s-genai-admission-and-netflix-shutters-more-studios-patch-notes-65",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Fri, 14 Aug 2026 10:51:4"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:34:47.787Z",
+      "hash": "9f26da542100b3c6",
+      "expires": "2026-11-13T08:34:47.787Z"
+    },
+    {
+      "id": "trivia:bdccbdfb6be15843",
+      "type": "trivia",
+      "title": "What are the base station trackers used for the HTC Vive called?",
+      "summary": "Is it: Trackers · Constellation  · Lighthouse · Motion?",
+      "body": "Answer: Lighthouse.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "gadgets"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:34:45.202Z",
+      "hash": "bdccbdfb6be15843"
+    },
+    {
+      "id": "trivia:9023f7f06e6ffd95",
+      "type": "trivia",
+      "title": "On which day did the attempted coup d'etat of 1991 in the Soviet Union begin?",
+      "summary": "Is it: August 19 · December 24 · August 21 · December 26?",
+      "body": "Answer: August 19.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:34:45.202Z",
+      "hash": "9023f7f06e6ffd95"
+    },
+    {
+      "id": "trivia:61b59473762fcdd8",
+      "type": "trivia",
+      "title": "Which two men are credited with independently discovering differential calculus?",
+      "summary": "Is it: Dvorak and Smith · Asiimov and Rutherford · Newton and Leibnitz · Plato and Aristotle?",
+      "body": "Answer: Newton and Leibnitz.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "mathematics"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:34:45.202Z",
+      "hash": "61b59473762fcdd8"
+    },
+    {
+      "id": "trivia:4178dfeb58c18bac",
+      "type": "trivia",
+      "title": "Which of the following is not a megadiverse country - one that harbors a high number of the earth's endemic species?",
+      "summary": "Is it: Mexico · South Africa · Peru · Thailand?",
+      "body": "Answer: Thailand.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "geography"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:34:45.201Z",
+      "hash": "4178dfeb58c18bac"
+    },
+    {
+      "id": "passage:gutenberg:1400",
+      "type": "passage",
+      "title": "Great Expectations",
+      "summary": "My father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip. I give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my…",
+      "body": "My father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip. I give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my father or my mother, and never saw any likeness of either of them (for their days were long before the days of photographs), my first fancies regarding what they were like were unreasonably derived from their tombstones. The shape of the letters on my father’s, gave me an odd idea that he was a square, stout, dark man, with curly black…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/1400",
+        "trustTier": "publication",
+        "author": "Charles Dickens",
+        "date": "1861"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "coming-of-age"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:34:44.826Z",
+      "hash": "95492efefd75aec9"
+    },
+    {
+      "id": "comic:smbc:8d076618ec93517e",
+      "type": "comic",
+      "title": "Case",
+      "summary": "The machines see constructive proofs as lazy solutions hacked together.",
+      "image": {
+        "src": "data/images/993a0a69a8a7a09d.png",
+        "alt": "The machines see constructive proofs as lazy solutions hacked together.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/case",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Fri, 14 Aug 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-15T08:34:43.202Z",
+      "hash": "8d076618ec93517e"
+    },
+    {
+      "id": "comic:xkcd:1430",
+      "type": "comic",
+      "title": "Proteins",
+      "summary": "Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!",
+      "body": "{{Title text: Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!}} [[Man and woman talking]] Man: What do you do? Woman: I make software that predicts how proteins will fold. [[Same scene layout, second panel]] Man: Is that a hard problem? Woman: Someone may someday find a harder one. [[Same scene layout, third panel]] Man: Why is it so hard? Woman: Have you ever made a folded paper crane? Man: Yeah. [[Same scene layout, fourth panel]] Woman: Imagine figuring out the folds to make an actual living crane. Man: ... just folds? Can I make cuts? Woman: If you can fold a protease enzyme.",
+      "image": {
+        "src": "data/images/3b7310397e769af7.png",
+        "alt": "Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!",
+        "credit": "xkcd #1430 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/1430/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2014-10-06"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-15T08:34:43.067Z",
+      "hash": "c7c5338713e41db8"
+    },
+    {
+      "id": "comic:xkcd:3285",
+      "type": "comic",
+      "title": "Accretionary Arc",
+      "summary": "The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.",
+      "image": {
+        "src": "data/images/d38115beb28c244c.png",
+        "alt": "The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.",
+        "credit": "xkcd #3285 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3285/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-08-14"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-15T08:34:42.814Z",
+      "hash": "9ce24a2968632bd6"
+    },
+    {
+      "id": "craft:1feb1a2b0832722e",
+      "type": "craft",
+      "title": "The Ocean Photographer of the Year Finalists Highlight the Sorrowful and Sublime",
+      "summary": "\"These photographs don’t just capture what’s beneath the surface; they surface the stories our planet most needs us to hear,\" says founder and director Will Harrison.",
+      "body": "\"These photographs don’t just capture what’s beneath the surface; they surface the stories our planet most needs us to hear,\" says founder and director Will Harrison.",
+      "image": {
+        "src": "data/images/7646f02aed0a0cf9.jpg",
+        "alt": "The Ocean Photographer of the Year Finalists Highlight the Sorrowful and Sublime",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/08/ocean-photographer-of-the-year-2026-photograph-finalists/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Thu, 13 Aug 2026 13:34:1"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "nature",
+        "photography",
+        "animals",
+        "contests",
+        "fish",
+        "ocean",
+        "water"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:34:42.660Z",
+      "hash": "1feb1a2b0832722e"
+    },
+    {
+      "id": "word:9cb9ec4e6a25c900",
+      "type": "word",
+      "title": "petrichor",
+      "summary": "Noun: The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.",
+      "body": "1. The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.\n2. The yellow organic oil that yields this scent.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/petrichor",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:34:42.049Z",
+      "hash": "9cb9ec4e6a25c900"
+    },
+    {
+      "id": "quote:1407e523909ddf4f",
+      "type": "quote",
+      "title": "“What gets measured gets improved.”",
+      "summary": "— Robin Sharma",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Robin_Sharma",
+        "trustTier": "community",
+        "author": "Robin Sharma"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:34:39.952Z",
+      "hash": "1407e523909ddf4f"
+    },
+    {
+      "id": "quote:58138b8f0774338d",
+      "type": "quote",
+      "title": "“The first principle of success is desire.”",
+      "summary": "— Robert Collier",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Robert_Collier",
+        "trustTier": "community",
+        "author": "Robert Collier"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:34:39.952Z",
+      "hash": "58138b8f0774338d"
+    },
+    {
+      "id": "quote:59de6bc85995a5b9",
+      "type": "quote",
+      "title": "“I am not absentminded. It is the presence of mind that makes me unaware of everything else.”",
+      "summary": "— Gilbert Chesterton",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Gilbert_Chesterton",
+        "trustTier": "community",
+        "author": "Gilbert Chesterton"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:34:39.952Z",
+      "hash": "59de6bc85995a5b9"
+    },
+    {
+      "id": "article:d9284a11c0fd0e9c",
+      "type": "article",
+      "title": "My First Resend",
+      "summary": "Hi! I did something on Tuesday I’ve never done before — I sent the same email twice. Well, that’s not 100% true — it wasn’t exactly the same email. The first one sent was missing a sentence and a half, which kind of messed up the entire story, so I fixed it and resent an hour or so later. It’s not…",
+      "body": "Hi! I did something on Tuesday I’ve never done before — I sent the same email twice. Well, that’s not 100% true — it wasn’t exactly the same email. The first one sent was missing a sentence and a half, which kind of messed up the entire story, so I fixed it and resent an hour or so later. It’s not the first time I’ve made a mistake like this, but it’s the first time I did the double send, and I’d love to hear your feedback as to whether that was the right move. The error was a simple copy-paste problem — for some reason, when I take articles from my archives and republish them, occasionally,…",
+      "source": {
+        "name": "Now I Know",
+        "url": "https://nowiknow.com/my-first-resend/",
+        "trustTier": "community",
+        "author": "Dan Lewis",
+        "date": "Fri, 14 Aug 2026 13:23:3"
+      },
+      "tags": [
+        "trivia",
+        "curiosities"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:34:01.370Z",
+      "hash": "d9284a11c0fd0e9c"
+    },
+    {
+      "id": "article:2987b89d6ca745a8",
+      "type": "article",
+      "title": "This Is How To Get What You Really Want: 6 Secrets From Research",
+      "summary": "There’s something you want. And you think to yourself, “Once I get it, everything’s gonna change!” And you get it. Boom. You feel fantastic. Your brain does a little victory lap around the inside of your skull. But the feeling doesn’t last. The magic gradually fades away. So what do you do then?…",
+      "body": "There’s something you want. And you think to yourself, “Once I get it, everything’s gonna change!” And you get it. Boom. You feel fantastic. Your brain does a little victory lap around the inside of your skull. But the feeling doesn’t last. The magic gradually fades away. So what do you do then? “Well, uh, […] The post This Is How To Get What You Really Want: 6 Secrets From Research appeared first on Barking Up The Wrong Tree.",
+      "image": {
+        "src": "data/images/7727f7770b408308.jpg",
+        "alt": "This Is How To Get What You Really Want: 6 Secrets From Research",
+        "credit": "Barking Up the Wrong Tree"
+      },
+      "source": {
+        "name": "Barking Up the Wrong Tree",
+        "url": "https://bakadesuyo.com/2026/08/get-what-you-really-want/?utm_source=rss&utm_medium=rss&utm_campaign=get-what-you-really-want",
+        "trustTier": "community",
+        "author": "Eric Barker",
+        "date": "Sun, 02 Aug 2026 21:56:0"
+      },
+      "tags": [
+        "psychology",
+        "self-improvement",
+        "science",
+        "be happier",
+        "live the good life"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:34:00.769Z",
+      "hash": "2987b89d6ca745a8"
+    },
+    {
+      "id": "article:7980bff4f6773a14",
+      "type": "article",
+      "title": "The Real “Mummy’s Curse” Lurks Online",
+      "summary": "A booming market for mummified remains poses health risks The post The Real “Mummy’s Curse” Lurks Online appeared first on Nautilus.",
+      "body": "A booming market for mummified remains poses health risks The post The Real “Mummy’s Curse” Lurks Online appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/8cf388b43ea1ea63.png",
+        "alt": "The Real “Mummy’s Curse” Lurks Online",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/the-real-mummys-curse-lurks-online-1283802/",
+        "trustTier": "publication",
+        "author": "Jake Currie",
+        "date": "Fri, 14 Aug 2026 20:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "anthropology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:33:59.888Z",
+      "hash": "7980bff4f6773a14"
+    },
+    {
+      "id": "article:18b1cd409bd8d290",
+      "type": "article",
+      "title": "Constellating Wonder: Celebrating 20 Years of The Marginalian (October 23, 2026)",
+      "summary": "At the dawn of my twenties, lonely, destitute, and disoriented by the demands of making a new life in an alien world, I started keeping notes on my search for meaning while working four jobs to pay my way through college. On October 23, 2006, I began sharing my discoveries — passages from books,…",
+      "body": "At the dawn of my twenties, lonely, destitute, and disoriented by the demands of making a new life in an alien world, I started keeping notes on my search for meaning while working four jobs to pay my way through college. On October 23, 2006, I began sharing my discoveries — passages from books, links to neuroscience studies, reproductions of 16th-century Japanese woodcuts — in an office email to seven colleagues. They in turn began sharing it with friends, who began sharing it with friends. The fractal spread and, within a few years, the Library of Congress had included it… read article",
+      "image": {
+        "src": "data/images/3605f46a882fd22a.png",
+        "alt": "Constellating Wonder: Celebrating 20 Years of The Marginalian (October 23, 2026)",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/08/14/marginalian-20/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Fri, 14 Aug 2026 16:13:1"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:33:59.719Z",
+      "hash": "18b1cd409bd8d290"
+    },
+    {
+      "id": "article:6f0ce45f93ebf22b",
+      "type": "article",
+      "title": "Homer’s ‘Set List’: Imagining a Performance of the Iliad",
+      "summary": "Part 3: Analysis, Neoanalysis, and the Set List This post is part three of three looking more closely at the proposition that our Iliad is made up of a series of songs or ‘episodes’ put together in a monumental performance. The first part looks at some of the internal evidence for performance and…",
+      "body": "Part 3: Analysis, Neoanalysis, and the Set List This post is part three of three looking more closely at the proposition that our Iliad is made up of a series of songs or ‘episodes’ put together in a monumental performance. The first part looks at some of the internal evidence for performance and provides some … Continue reading Homer’s ‘Set List’: Imagining a Performance of the Iliad",
+      "image": {
+        "src": "data/images/1ae5ea2db9aeb563.jpg",
+        "alt": "Homer’s ‘Set List’: Imagining a Performance of the Iliad",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/08/13/homers-set-list-imagining-a-performance-of-the-iliad-3/",
+        "trustTier": "community",
+        "author": "Joel",
+        "date": "Thu, 13 Aug 2026 12:56:1"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:33:59.233Z",
+      "hash": "6f0ce45f93ebf22b"
+    },
+    {
+      "id": "article:88ae536a669d7bf4",
+      "type": "article",
+      "title": "Murales del Borgo San Giuliano in Rimini, Italy",
+      "summary": "Founded around the year 1000, Borgo San Giuliano, was originally the city's fishermen’s quarter. The tradition of painting murals that has made Borgo San Giuliano famous has deep roots. In 1979, the city council suggested demolishing the neighborhood to make way for a new residential development.…",
+      "body": "Founded around the year 1000, Borgo San Giuliano, was originally the city's fishermen’s quarter. The tradition of painting murals that has made Borgo San Giuliano famous has deep roots. In 1979, the city council suggested demolishing the neighborhood to make way for a new residential development. In response, locals organised the first “Festa de’ Borg” to celebrate, promote, and defend their identity. Several Rimini-based artists were invited to paint the most iconic local figures on the walls of the houses. Then during the second festival, the murals were showed scenes of daily life,…",
+      "image": {
+        "src": "data/images/bf3c86df2fdac888.jpg",
+        "alt": "Murales del Borgo San Giuliano in Rimini, Italy",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/murales-del-borgo-san-giuliano",
+        "trustTier": "publication",
+        "date": "Fri, 14 Aug 2026 16:00:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history",
+        "art",
+        "murals"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:33:59.161Z",
+      "hash": "88ae536a669d7bf4"
+    },
+    {
+      "id": "article:d437862484fb4809",
+      "type": "article",
+      "title": "The “.” emerged 2,000 years ago. “?” in the 8th century, “!” in the 14th. Then not much changed since about 1600",
+      "summary": "The “.” emerged 2,000 years ago. “?” in the 8th century, “!” in the 14th. Then not much changed since about 1600",
+      "body": "The “.” emerged 2,000 years ago. “?” in the 8th century, “!” in the 14th. Then not much changed since about 1600",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://www.wsj.com/arts-culture/books/on-the-mark-review-whats-the-point-7d336fe4?st=gVaexZ&reflink=desktopwebshare_permalink",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:33:58.650Z",
+      "hash": "d437862484fb4809"
+    },
+    {
+      "id": "article:25425c61678786aa",
+      "type": "article",
+      "title": "How to Think About the American Revolution",
+      "summary": "* SPECIAL SEMIQUINCENTENNIAL ISSUE *The revolutionary and founding generations did their heroic part in bequeathing to us this legacy of freedom. So abundant is this gift that to live up to it is the most fulfilling thing we can do. The post How to Think About the American Revolution appeared…",
+      "body": "* SPECIAL SEMIQUINCENTENNIAL ISSUE *The revolutionary and founding generations did their heroic part in bequeathing to us this legacy of freedom. So abundant is this gift that to live up to it is the most fulfilling thing we can do. The post How to Think About the American Revolution appeared first on Imprimis.",
+      "image": {
+        "src": "data/images/a914f271357a0fae.png",
+        "alt": "How to Think About the American Revolution",
+        "credit": "Imprimis"
+      },
+      "source": {
+        "name": "Imprimis",
+        "url": "https://imprimis.hillsdale.edu/how-to-think-about-the-american-revolution/",
+        "trustTier": "publication",
+        "author": "Christopher Flannery",
+        "date": "Thu, 18 Jun 2026 16:17:0"
+      },
+      "tags": [
+        "ideas",
+        "liberty",
+        "lecture",
+        "culture",
+        "education",
+        "government",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-15T08:33:58.203Z",
+      "hash": "25425c61678786aa"
+    },
+    {
+      "id": "met:91978",
+      "type": "art",
+      "title": "Cutaway coat",
+      "summary": "Unknown artist · late 19th century · wool, metal",
+      "body": "Unknown artist · late 19th century · wool, metal\nGift of Jessie Leonard Hill, 1979\nCostume Institute",
+      "image": {
+        "src": "data/images/a7dcb38cb27125d1.jpg",
+        "alt": "Cutaway coat",
+        "credit": "The Met · Gift of Jessie Leonard Hill, 1979"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/91978",
+        "trustTier": "encyclopedic",
+        "date": "late 19th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "horse"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-15T08:33:08.387Z",
+      "hash": "f84ab7d5ae5a8661"
+    },
+    {
+      "id": "met:451725",
+      "type": "art",
+      "title": "\"The Concourse of the Birds\", Folio 11r from a Mantiq al-Tayr (Language of the Birds)",
+      "summary": "Habiballah of Sava · ca. 1600 · Ink, opaque watercolor, gold, and silver on paper",
+      "body": "Habiballah of Sava · ca. 1600 · Ink, opaque watercolor, gold, and silver on paper\nFletcher Fund, 1963\nIslamic Art",
+      "image": {
+        "src": "data/images/717050af358d2f4a.jpg",
+        "alt": "\"The Concourse of the Birds\", Folio 11r from a Mantiq al-Tayr (Language of the Birds)",
+        "credit": "The Met · Fletcher Fund, 1963"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/451725",
+        "trustTier": "encyclopedic",
+        "author": "Habiballah of Sava",
+        "date": "ca. 1600"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "horse",
+        "codices"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-15T08:33:08.205Z",
+      "hash": "922e7594d02cf829"
+    },
+    {
+      "id": "met:23780",
+      "type": "art",
+      "title": "Arrowhead (<i>Yanone</i>)",
+      "summary": "Unknown artist · likely 16th century · Steel",
+      "body": "Unknown artist · likely 16th century · Steel\nBequest of George C. Stone, 1935\nArms and Armor",
+      "image": {
+        "src": "data/images/c78132cd16771a9d.jpg",
+        "alt": "Arrowhead (<i>Yanone</i>)",
+        "credit": "The Met · Bequest of George C. Stone, 1935"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/23780",
+        "trustTier": "encyclopedic",
+        "date": "likely 16th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "horse",
+        "archery equipment-arrowheads"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-15T08:33:08.077Z",
+      "hash": "f3d566e1d0e43794"
+    },
+    {
+      "id": "apod:2003-01-01",
+      "type": "space",
+      "title": "NGC 6960: The Witch's Broom Nebula",
+      "summary": "Ten thousand years ago, before the dawn of recorded human history, a new light must suddenly have appeared in the night sky and faded after a few weeks. Today we know this light was an exploding star and record the colorful expanding cloud as the Veil Nebula. Pictured above is the west end of the Veil Nebula known…",
+      "body": "Ten thousand years ago, before the dawn of recorded human history, a new light must suddenly have appeared in the night sky and faded after a few weeks. Today we know this light was an exploding star and record the colorful expanding cloud as the Veil Nebula. Pictured above is the west end of the Veil Nebula known technically as NGC 6960 but less formally as the Witch's Broom Nebula. The rampaging gas gains its colors by impacting and exciting existing nearby gas. The supernova remnant lies about 1400 light-years away towards the constellation of Cygnus. This Witch's Broom actually spans over three times the angular size of the full Moon. The bright blue star 52 Cygnus is visible with the unaided eye from a dark location but unrelated to the ancient supernova.",
+      "image": {
+        "src": "data/images/7095e3c97557b9ca.jpg",
+        "alt": "NGC 6960: The Witch's Broom Nebula",
+        "credit": "© StarryScapes"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap030101.html",
+        "trustTier": "encyclopedic",
+        "date": "2003-01-01"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:06.837Z",
+      "hash": "aacd77dd694759d1"
+    },
+    {
+      "id": "apod:2018-05-23",
+      "type": "space",
+      "title": "Spiral Galaxy NGC 4038 in Collision",
+      "summary": "This galaxy is having a bad millennium. In fact, the past 100 million years haven't been so good, and probably the next billion or so will be quite tumultuous. Visible toward the lower right, NGC 4038 used to be a normal spiral galaxy, minding its own business, until NGC 4039, to its upper left, crashed into it. The…",
+      "body": "This galaxy is having a bad millennium. In fact, the past 100 million years haven't been so good, and probably the next billion or so will be quite tumultuous. Visible toward the lower right, NGC 4038 used to be a normal spiral galaxy, minding its own business, until NGC 4039, to its upper left, crashed into it. The evolving wreckage, known famously as the Antennae, is featured here. As gravity restructures each galaxy, clouds of gas slam into each other, bright blue knots of stars form, massive stars form and explode, and brown filaments of dust are strewn about. Eventually the two galaxies will converge into one larger spiral galaxy. Such collisions are not unusual, and even our own Milky Way Galaxy has undergone several in the past and is predicted to collide with our neighboring Andromeda Galaxy in a few billion years. The frames that compose this image were taken by the orbiting Hubble Space Telescope by professional astronomers to better understand galaxy collisions. These frames -- and many other deep space images from Hubble -- have since been made public, allowing interested amateurs to download and process them into, for example, this visually stunning composite.",
+      "image": {
+        "src": "data/images/bbcc35f32573984b.jpg",
+        "alt": "Spiral Galaxy NGC 4038 in Collision",
+        "credit": "© Domingo Pestana"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap180523.html",
+        "trustTier": "encyclopedic",
+        "date": "2018-05-23"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:06.837Z",
+      "hash": "118776100789a578"
+    },
+    {
+      "id": "apod:2009-12-28",
+      "type": "space",
+      "title": "Barred Spiral Galaxy NGC 6217",
+      "summary": "Many spiral galaxies have bars across their centers. Even our own Milky Way Galaxy is thought to have a modest central bar. Prominently barred spiral galaxy NGC 6217, pictured above, was captured in spectacular detail in this recently released image taken by the newly repaired Advanced Camera for Surveys on the…",
+      "body": "Many spiral galaxies have bars across their centers. Even our own Milky Way Galaxy is thought to have a modest central bar. Prominently barred spiral galaxy NGC 6217, pictured above, was captured in spectacular detail in this recently released image taken by the newly repaired Advanced Camera for Surveys on the orbiting Hubble Space Telescope. Visible are dark filamentary dust lanes, young clusters of bright blue stars, red emission nebulas of glowing hydrogen gas, a long bright bar of stars across the center, and a bright active nucleus that likely houses a supermassive black hole. Light takes about 60 million years to reach us from NGC 6217, which spans about 30,000 light years across and can be found toward the constellation of the Little Bear (Ursa Minor). Note: An APOD editor will review great space images on 2010 Jan. 14 in Houghton, Michigan.",
+      "image": {
+        "src": "data/images/dfbb9cc048595f44.jpg",
+        "alt": "Barred Spiral Galaxy NGC 6217",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap091228.html",
+        "trustTier": "encyclopedic",
+        "date": "2009-12-28"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:06.837Z",
+      "hash": "b95c53d5690e7e72"
+    },
+    {
+      "id": "apod:2012-10-02",
+      "type": "space",
+      "title": "An Ancient Stream Bank on Mars",
+      "summary": "Fresh evidence of an ancient stream has been found on Mars. The robotic rover Curiosity has run across unusual surface features that carry a strong resemblance to stream banks on Earth. Visible in the above image, for example, is a small overhanging rock ledge that was quite possibly created by water erosion beneath.…",
+      "body": "Fresh evidence of an ancient stream has been found on Mars. The robotic rover Curiosity has run across unusual surface features that carry a strong resemblance to stream banks on Earth. Visible in the above image, for example, is a small overhanging rock ledge that was quite possibly created by water erosion beneath. The texture of the ledge appears to be a sedimentary conglomerate, the dried remains of many smaller rocks stuck together. Beneath the ledge are numerous small pebbles, possibly made smooth by tumbling in and around the once-flowing stream. Pebbles in the streambed likely fell there as the bank eroded. Circled at the upper right is a larger rock possibly also made smooth by stream erosion. Curiosity has now discovered several indications of dried streambeds on Mars on its way to its present location where it will be exploring the unusual conjunction of three different types of landscape.",
+      "image": {
+        "src": "data/images/9a24815687cfc239.jpg",
+        "alt": "An Ancient Stream Bank on Mars",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap121002.html",
+        "trustTier": "encyclopedic",
+        "date": "2012-10-02"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:06.837Z",
+      "hash": "fd0240f84ed70c24"
+    },
+    {
+      "id": "apod:2004-02-23",
+      "type": "space",
+      "title": "Heaven on Earth",
+      "summary": "If sometimes it appears that the entire Milky Way Galaxy is raining down on your head, do not despair. It happens twice a day. As the Sun rises in the East, wonders of the night sky become less bright than the sunlight scattered by our own Earth's atmosphere, and so fade from view. They will only rotate back into…",
+      "body": "If sometimes it appears that the entire Milky Way Galaxy is raining down on your head, do not despair. It happens twice a day. As the Sun rises in the East, wonders of the night sky become less bright than the sunlight scattered by our own Earth's atmosphere, and so fade from view. They will only rotate back into view when the Earth again eclipses our bright Sun at dusk. This battle between heaven and Earth was captured dramatically in a digitally enhanced double-exposure over the Kofa Mountains in Arizona, USA in 2003 May. Dark dust, millions of stars, and bright glowing red gas highlight the plane of our Milky Way Galaxy, which lies on average thousands of light years behind Earth's mountains.",
+      "image": {
+        "src": "data/images/471289488f3438c3.jpg",
+        "alt": "Heaven on Earth",
+        "credit": "© Richard Payne (Arizona Astrophotography)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap040223.html",
+        "trustTier": "encyclopedic",
+        "date": "2004-02-23"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:06.837Z",
+      "hash": "e361d060c4514584"
+    },
+    {
+      "id": "onthisday:08-15:1812:502f8bf26b8b6beb",
+      "type": "history",
+      "title": "1812: War of 1812",
+      "summary": "War of 1812: Potawatomi warriors ambushed a United States Army convoy after it had evacuated Fort Dearborn, in present-day Chicago, and razed the fort.",
+      "body": "War of 1812: Potawatomi warriors ambushed a United States Army convoy after it had evacuated Fort Dearborn, in present-day Chicago, and razed the fort.",
+      "image": {
+        "src": "data/images/e7d08e4d189a19f5.jpg",
+        "alt": "War of 1812",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/War_of_1812",
+        "trustTier": "encyclopedic",
+        "date": "08-15"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:06.233Z",
+      "hash": "5718b76d873f26b8",
+      "expires": "2026-08-18T08:33:06.233Z"
+    },
+    {
+      "id": "onthisday:08-15:1947:d6459df3f215f15e",
+      "type": "history",
+      "title": "1947: Jawaharlal Nehru",
+      "summary": "Jawaharlal Nehru (pictured) took office as the first prime minister of India, a post he held for 16 years.",
+      "body": "Jawaharlal Nehru (pictured) took office as the first prime minister of India, a post he held for 16 years.",
+      "image": {
+        "src": "data/images/2b4b78d78fcfdcbb.jpg",
+        "alt": "Jawaharlal Nehru",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+        "trustTier": "encyclopedic",
+        "date": "08-15"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:06.233Z",
+      "hash": "a9b3e6d13fa00be7",
+      "expires": "2026-08-18T08:33:06.233Z"
+    },
+    {
+      "id": "onthisday:08-15:1038:fca20d15403aba0c",
+      "type": "history",
+      "title": "1038: Stephen I of Hungary",
+      "summary": "Upon the death of his uncle Stephen I, Peter (depicted) became the second king of Hungary.",
+      "body": "Upon the death of his uncle Stephen I, Peter (depicted) became the second king of Hungary.",
+      "image": {
+        "src": "data/images/1733d094c1a39c6e.jpg",
+        "alt": "Stephen I of Hungary",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary",
+        "trustTier": "encyclopedic",
+        "date": "08-15"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:06.233Z",
+      "hash": "a231c19badb8f615",
+      "expires": "2026-08-18T08:33:06.233Z"
+    },
+    {
+      "id": "wikipedia:60397786",
+      "type": "wiki",
+      "title": "Somm: Into the Bottle",
+      "summary": "Somm: Into the Bottle is a 2015 wine documentary and a sequel to SOMM (2013). The film tells the story and history of wine through ten different bottles opened throughout the film in different chapters. Directed by Jason Wise, it premiered at the Napa Valley Film Festival and featured the main cast from the original…",
+      "body": "Somm: Into the Bottle is a 2015 wine documentary and a sequel to SOMM (2013). The film tells the story and history of wine through ten different bottles opened throughout the film in different chapters. Directed by Jason Wise, it premiered at the Napa Valley Film Festival and featured the main cast from the original SOMM film as well as additional notable people from the wine world.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Somm%3A_Into_the_Bottle",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:05.596Z",
+      "hash": "1bac9d53389e42ca"
+    },
+    {
+      "id": "wikipedia:15881888",
+      "type": "wiki",
+      "title": "Somme-Bionne",
+      "summary": "Somme-Bionne is a commune in the Marne department in north-eastern France. An important Iron Age chariot burial of 450-300 BC was found in the vicinity of the village in the nineteenth century. The finds from the La Tène period grave came into the possession of the French collector Léon Morel, who sold it, along with…",
+      "body": "Somme-Bionne is a commune in the Marne department in north-eastern France. An important Iron Age chariot burial of 450-300 BC was found in the vicinity of the village in the nineteenth century. The finds from the La Tène period grave came into the possession of the French collector Léon Morel, who sold it, along with his entire antiquities collection from the Champagne region of France, to the British Museum in 1901.",
+      "image": {
+        "src": "data/images/9df0656112efd9c0.jpg",
+        "alt": "Somme-Bionne",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Somme-Bionne",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:05.270Z",
+      "hash": "b8a1c46e716f64ba"
+    },
+    {
+      "id": "wikipedia:47244150",
+      "type": "wiki",
+      "title": "Pike Signals",
+      "summary": "Pike Signals Limited are manufacturers of portable traffic control equipment.",
+      "body": "Pike Signals Limited are manufacturers of portable traffic control equipment.",
+      "image": {
+        "src": "data/images/6fddfbb978281154.jpg",
+        "alt": "Pike Signals",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pike_Signals",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:03.661Z",
+      "hash": "9836b09dc92da410"
+    },
+    {
+      "id": "wikipedia:31971974",
+      "type": "wiki",
+      "title": "All That You Are (Goo Goo Dolls song)",
+      "summary": "\"All That You Are\" is a song recorded by American alternative rock band the Goo Goo Dolls included in the Transformers: Dark of the Moon soundtrack, which was released on June 14, 2011. \"All That You Are\" was released to the Apple iTunes Store on June 14, 2011, the same day the soundtrack was released. Also Linkin…",
+      "body": "\"All That You Are\" is a song recorded by American alternative rock band the Goo Goo Dolls included in the Transformers: Dark of the Moon soundtrack, which was released on June 14, 2011. \"All That You Are\" was released to the Apple iTunes Store on June 14, 2011, the same day the soundtrack was released. Also Linkin Park and Paramore released their singles for the film, \"Iridescent\" and \"Monster\" respectively. This is the second song the Goo Goo Dolls have made for a Transformers film with the first being \"Before It's Too Late \", which was made for Transformers.",
+      "image": {
+        "src": "data/images/5d0d443eaf69b826.jpg",
+        "alt": "All That You Are (Goo Goo Dolls song)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/All_That_You_Are_(Goo_Goo_Dolls_song)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-15T08:33:03.370Z",
+      "hash": "9806b714b989a30c"
+    },
     {
       "id": "chess:xALp2",
       "type": "chess",
@@ -11360,1000 +12356,6 @@
       "difficulty": 1,
       "fetchedAt": "2026-08-04T10:44:02.562Z",
       "hash": "78a247320f5c383a"
-    },
-    {
-      "id": "comic:xkcd:1855",
-      "type": "comic",
-      "title": "Telephoto",
-      "summary": "I was banned from the airliners.net photography forum by concerned moderators after the end of my lens started brushing against planes as they flew by.",
-      "image": {
-        "src": "data/images/57cca9a8418da36e.png",
-        "alt": "I was banned from the airliners.net photography forum by concerned moderators after the end of my lens started brushing against planes as they flew by.",
-        "credit": "xkcd #1855 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1855/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2017-06-26"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-04T10:44:02.375Z",
-      "hash": "f160da2a92721ac2"
-    },
-    {
-      "id": "comic:xkcd:3280",
-      "type": "comic",
-      "title": "Maze",
-      "summary": "As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.",
-      "image": {
-        "src": "data/images/a49c2e83bf19cafd.png",
-        "alt": "As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.",
-        "credit": "xkcd #3280 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3280/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2026-08-03"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-04T10:44:02.145Z",
-      "hash": "bedf08fe77c32085"
-    },
-    {
-      "id": "food:f693836767f2c4c4",
-      "type": "food",
-      "title": "Oat Recipes: 25+ Favorite Ways to Cook with Oats",
-      "summary": "If you have a bag of oats you want to put to good use, start here. This page shares my favorite oat recipes from 101 Cookbooks over the years. Baked oatmeal, granola, muffins, cookies, pancakes, crackers, breads, crumbles, and bite-sized snacks all represent and show just how diverse and delicious…",
-      "body": "If you have a bag of oats you want to put to good use, start here. This page shares my favorite oat recipes from 101 Cookbooks over the years. Baked oatmeal, granola, muffins, cookies, pancakes, crackers, breads, crumbles, and bite-sized snacks all represent and show just how diverse and delicious oats can be. Continue reading Oat Recipes: 25+ Favorite Ways to Cook with Oats on 101 Cookbooks",
-      "image": {
-        "src": "data/images/782fc40372f96867.jpg",
-        "alt": "Oat Recipes: 25+ Favorite Ways to Cook with Oats",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/oat-recipes/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Fri, 26 Jun 2026 22:26:3"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "baking recipes",
-        "breakfast recipes",
-        "cookie recipes",
-        "whole grain recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:44:02.036Z",
-      "hash": "f693836767f2c4c4"
-    },
-    {
-      "id": "craft:77f17d5e381b865f",
-      "type": "craft",
-      "title": "The Lightest FPV Whoop Drone",
-      "summary": "Build an ultralight FPV Whoop video drone that weighs less than three nickels! The post The Lightest FPV Whoop Drone appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "Build an ultralight FPV Whoop video drone that weighs less than three nickels! The post The Lightest FPV Whoop Drone appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/3bfbf4e1515c3dd3.jpg",
-        "alt": "The Lightest FPV Whoop Drone",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/projects/the-lightest-fpv-whoop-drone/",
-        "trustTier": "publication",
-        "author": "Scott Stevenson",
-        "date": "Mon, 03 Aug 2026 23:00:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "drones",
-        "drones & vehicles",
-        "aerial videography",
-        "diy projects",
-        "drone",
-        "electronics",
-        "fpv"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:44:01.448Z",
-      "hash": "77f17d5e381b865f"
-    },
-    {
-      "id": "word:7aa056443e869a8c",
-      "type": "word",
-      "title": "luminous",
-      "summary": "Adjective: Emitting light; glowing brightly; shining.",
-      "body": "1. Emitting light; glowing brightly; shining.\n2. Brightly illuminated.\n3. Clear; enlightening; easy to understand.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/luminous",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Adjective"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:44:01.168Z",
-      "hash": "7aa056443e869a8c"
-    },
-    {
-      "id": "word:a69d3debc98e5360",
-      "type": "word",
-      "title": "zeitgeist",
-      "summary": "Noun: The spirit of the age; the taste, outlook, and spirit characteristic of a period.",
-      "body": "1. The spirit of the age; the taste, outlook, and spirit characteristic of a period.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/zeitgeist",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:39.381Z",
-      "hash": "a69d3debc98e5360"
-    },
-    {
-      "id": "quote:351b5bf7f3a2219e",
-      "type": "quote",
-      "title": "“It's okay to be discouraged. It's not okay to quit.”",
-      "summary": "— Ryan Holiday",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Ryan_Holiday",
-        "trustTier": "community",
-        "author": "Ryan Holiday"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:37.268Z",
-      "hash": "351b5bf7f3a2219e"
-    },
-    {
-      "id": "quote:aa0865a0c587bc75",
-      "type": "quote",
-      "title": "“The more people you help become successful the more successful you become.”",
-      "summary": "— Steve Harvey",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Steve_Harvey",
-        "trustTier": "community",
-        "author": "Steve Harvey"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:37.268Z",
-      "hash": "aa0865a0c587bc75"
-    },
-    {
-      "id": "quote:9133a11bba3bdf3e",
-      "type": "quote",
-      "title": "“High thoughts must have high language.”",
-      "summary": "— Aristophanes",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Aristophanes",
-        "trustTier": "community",
-        "author": "Aristophanes"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:37.268Z",
-      "hash": "9133a11bba3bdf3e"
-    },
-    {
-      "id": "book-review:e26d0a8dded94616",
-      "type": "book-review",
-      "title": "B-Sides: “Somebody Is Walking on Your Grave: My Cemetery Journeys” by Mariana Enriquez",
-      "summary": "“I spent my adolescence in Buenos Aires and made my own fumbling pilgrimages to that city’s cemeteries.” The post B-Sides: “Somebody Is Walking on Your Grave: My Cemetery Journeys” by Mariana Enriquez appeared first on Public Books.",
-      "body": "“I spent my adolescence in Buenos Aires and made my own fumbling pilgrimages to that city’s cemeteries.” The post B-Sides: “Somebody Is Walking on Your Grave: My Cemetery Journeys” by Mariana Enriquez appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/mariana-enriquezs-somebody-is-walking-on-your-grave-my-cemetery-journeys/",
-        "trustTier": "publication",
-        "author": "Imani Radney",
-        "date": "Mon, 03 Aug 2026 15:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "reviews",
-        "argentina",
-        "b-sides",
-        "death",
-        "essays",
-        "grief",
-        "hogarth"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:43:36.985Z",
-      "hash": "e26d0a8dded94616"
-    },
-    {
-      "id": "article:fa4b32e815180c31",
-      "type": "article",
-      "title": "A Sea of Islands",
-      "summary": "George Forster’s breadfruit botany and the history of Polynesian migration.",
-      "body": "George Forster’s breadfruit botany and the history of Polynesian migration.",
-      "source": {
-        "name": "Lapham's Quarterly",
-        "url": "https://www.laphamsquarterly.org/roundtable/sea-islands",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "literature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:43:30.269Z",
-      "hash": "fa4b32e815180c31"
-    },
-    {
-      "id": "article:fe5ec217e0864ebc",
-      "type": "article",
-      "title": "Every Sample from Paul’s Boutique by the Beastie Boys",
-      "summary": "This video catalogs every borrowed sample from Paul’s Boutique by the Beastie Boys, from the soundtrack to Car Wash to the Sugarhill Gang to the Eagles to the Ramones to the Beatles. They play the original first and then what they did with it on the album. Somehow this video only has 31,000…",
-      "body": "This video catalogs every borrowed sample from Paul’s Boutique by the Beastie Boys, from the soundtrack to Car Wash to the Sugarhill Gang to the Eagles to the Ramones to the Beatles. They play the original first and then what they did with it on the album. Somehow this video only has 31,000 views?! You can also listen to this remix of Paul’s Boutique on Soundcloud, which combines the source tracks with Beastie Boys vocals and some audio commentary. Tim Carmody made a Spotify playlist of all the sampled songs or you can download zip files of the original songs sampled in Paul’s Boutique and…",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/19/12/every-sample-from-pauls-boutique-by-the-beastie-boys",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2019-12-23T21:22:27Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:43:29.849Z",
-      "hash": "fe5ec217e0864ebc"
-    },
-    {
-      "id": "article:e4d4d1011f5493bb",
-      "type": "article",
-      "title": "55 Years Ago, an Apollo 15 Astronaut Dropped a Hammer on the Moon",
-      "summary": "“How about that?” The post 55 Years Ago, an Apollo 15 Astronaut Dropped a Hammer on the Moon appeared first on Nautilus.",
-      "body": "“How about that?” The post 55 Years Ago, an Apollo 15 Astronaut Dropped a Hammer on the Moon appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/568e2bbfaf68ae33.png",
-        "alt": "55 Years Ago, an Apollo 15 Astronaut Dropped a Hammer on the Moon",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/55-years-ago-an-apollo-15-astronaut-dropped-a-hammer-on-the-moon-1283339/",
-        "trustTier": "publication",
-        "author": "David Nield",
-        "date": "Mon, 03 Aug 2026 22:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "physics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:43:28.951Z",
-      "hash": "e4d4d1011f5493bb"
-    },
-    {
-      "id": "article:be659b806e6b68d7",
-      "type": "article",
-      "title": "Odyscenes: The Twelve Best Bits of the Odyssey",
-      "summary": "EDMUND STEWART On the epic's greatest scenes Continue reading Odyscenes: The Twelve Best Bits of the Odyssey",
-      "body": "EDMUND STEWART On the epic's greatest scenes Continue reading Odyscenes: The Twelve Best Bits of the Odyssey",
-      "image": {
-        "src": "data/images/cd25dc75554b0737.jpg",
-        "alt": "Odyscenes: The Twelve Best Bits of the Odyssey",
-        "credit": "Antigone Journal"
-      },
-      "source": {
-        "name": "Antigone Journal",
-        "url": "https://antigonejournal.com/2026/08/12-best-bits-odyssey/",
-        "trustTier": "publication",
-        "author": "Antigone",
-        "date": "Mon, 03 Aug 2026 12:23:2"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity",
-        "history",
-        "greek literature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:43:28.855Z",
-      "hash": "be659b806e6b68d7"
-    },
-    {
-      "id": "article:ba932e416361b2c3",
-      "type": "article",
-      "title": "Psycho Killers: What Stop Making Sense Can teach Us About the Iliad",
-      "summary": "When I was in high school–like many a high school geek in the early 90s–I was in a band. The other members of the band all had “cool parents” who played instruments and listened to early punk and the edgier “oldies”. (My father was congenitally deaf; my mother trended towards Neil Diamond and…",
-      "body": "When I was in high school–like many a high school geek in the early 90s–I was in a band. The other members of the band all had “cool parents” who played instruments and listened to early punk and the edgier “oldies”. (My father was congenitally deaf; my mother trended towards Neil Diamond and James Taylor). … Continue reading Psycho Killers: What Stop Making Sense Can teach Us About the Iliad",
-      "image": {
-        "src": "data/images/53eb67458b22c160.jpg",
-        "alt": "Psycho Killers: What Stop Making Sense Can teach Us About the Iliad",
-        "credit": "Sententiae Antiquae"
-      },
-      "source": {
-        "name": "Sententiae Antiquae",
-        "url": "https://sententiaeantiquae.com/2026/08/03/psycho-killers-what-stop-making-sense-can-teach-us-about-the-iliad/",
-        "trustTier": "community",
-        "author": "Joel",
-        "date": "Mon, 03 Aug 2026 12:57:4"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity",
-        "iliad",
-        "painful signs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:43:27.539Z",
-      "hash": "ba932e416361b2c3"
-    },
-    {
-      "id": "article:21691c82c1bfbcf2",
-      "type": "article",
-      "title": "The economics of H-1B immigration",
-      "summary": "We study the effects of H-1B immigration on U.S. industries that employ H-1B workers and their trading partners. Using a novel cross-industry design and the 1999–2003 expansion of the H-1B visa cap for identification, we find that H-1B exposure raised incomes for natives and pre-existing…",
-      "body": "We study the effects of H-1B immigration on U.S. industries that employ H-1B workers and their trading partners. Using a novel cross-industry design and the 1999–2003 expansion of the H-1B visa cap for identification, we find that H-1B exposure raised incomes for natives and pre-existing immigrants, with gains concentrated in non-STEM occupations. Income gains propagate […] The post The economics of H-1B immigration appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/08/the-economics-off-h-1b-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-off-h-1b-immigration",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Tue, 04 Aug 2026 06:23:4"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "data source",
-        "law"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:43:25.632Z",
-      "hash": "21691c82c1bfbcf2"
-    },
-    {
-      "id": "poetry:f84c5a87328d1dc9",
-      "type": "poem",
-      "title": "To a Lady",
-      "summary": "Oh! had my Fate been join'd with thine,\n  As once this pledge appear'd a token,\nThese follies had not, then, been mine,\n  For, then, my peace had not been broken.",
-      "body": "Oh! had my Fate been join'd with thine,\n  As once this pledge appear'd a token,\nThese follies had not, then, been mine,\n  For, then, my peace had not been broken.\n\nTo thee, these early faults I owe,\n  To thee, the wise and old reproving:\nThey know my sins, but do not know\n  'Twas thine to break the bonds of loving.\n\nFor once my soul, like thine, was pure,\n  And all its rising fires could smother;\nBut, now, thy vows no more endure,\n  Bestow'd by thee upon another.\n\nPerhaps, his peace I could destroy,\n  And spoil the blisses that await him;\nYet let my Rival smile in joy,\n  For thy dear sake, I cannot hate him.\n\nAh! since thy angel form is gone,\n  My heart no more can rest with any;\nBut what it sought in thee alone,\n  Attempts, alas! to find in many.\n\nThen, fare thee well, deceitful Maid!\n  'Twere vain and fruitless to regret thee;\nNor Hope, nor Memory yield their aid,\n  But Pride may teach me to forget thee.\n\nYet all this giddy waste of years,\n  This tiresome round of palling pleasures;\nThese varied loves, these matrons' fears,\n  These thoughtless strains to Passion's measures--\n\nIf thou wert mine, had all been hush'd:--\n  This cheek, now pale from early riot,\nWith Passion's hectic ne'er had flush'd,\n  But bloom'd in calm domestic quiet.\n\nYes, once the rural Scene was sweet,\n  For Nature seem'd to smile before thee;\nAnd once my Breast abhorr'd deceit,--\n  For then it beat but to adore thee.\n\nBut, now, I seek for other joys--\n  To think, would drive my soul to madness;\nIn thoughtless throngs, and empty noise,\n  I conquer half my Bosom's sadness.\n\nYet, even in these, a thought will steal,\n  In spite of every vain endeavour;\nAnd fiends might pity what I feel--\n  To know that thou art lost for ever.",
-      "source": {
-        "name": "George Gordon, Lord Byron · PoetryDB",
-        "url": "https://poetrydb.org/title/To%20a%20Lady",
-        "trustTier": "community",
-        "author": "George Gordon, Lord Byron"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:43:23.476Z",
-      "hash": "f84c5a87328d1dc9"
-    },
-    {
-      "id": "poetry:e8467c6e6764b41e",
-      "type": "poem",
-      "title": "Sonnet 32 - The first time that the sun rose on thine oath",
-      "summary": "The first time that the sun rose on thine oath\nTo love me, I looked forward to the moon\nTo slacken all those bonds which seemed too soon\nAnd quickly tied to make a lasting troth.",
-      "body": "The first time that the sun rose on thine oath\nTo love me, I looked forward to the moon\nTo slacken all those bonds which seemed too soon\nAnd quickly tied to make a lasting troth.\nQuick-loving hearts, I thought, may quickly loathe;\nAnd, looking on myself, I seemed not one\nFor such man's love!—more like an out-of-tune\nWorn viol, a good singer would be wroth\nTo spoil his song with, and which, snatched in haste,\nIs laid down at the first ill-sounding note.\nI did not wrong myself so, but I placed\nA wrong on thee. For perfect strains may float\n'Neath master-hands, from instruments defaced,—\nAnd great souls, at one stroke, may do and doat.",
-      "source": {
-        "name": "Elizabeth Barrett Browning · PoetryDB",
-        "url": "https://poetrydb.org/title/Sonnet%2032%20-%20The%20first%20time%20that%20the%20sun%20rose%20on%20thine%20oath",
-        "trustTier": "community",
-        "author": "Elizabeth Barrett Browning"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-04T10:43:23.476Z",
-      "hash": "e8467c6e6764b41e"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399986996-1",
-      "type": "art",
-      "title": "Textile",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1920s · Textiles",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1920s · Textiles",
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/288399",
-        "trustTier": "encyclopedic",
-        "date": "1920s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "textile",
-        "textiles"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-04T10:43:22.760Z",
-      "hash": "6d409fcc2920ff85"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399902540-1",
-      "type": "art",
-      "title": "Textile",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1860s · Textiles",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1860s · Textiles",
-      "image": {
-        "src": "data/images/57b8565cc1f7540f.jpg",
-        "alt": "Textile",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/44445",
-        "trustTier": "encyclopedic",
-        "date": "1860s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "textile",
-        "textiles"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-04T10:43:22.760Z",
-      "hash": "8186041cf4b7f09c"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399986984-1",
-      "type": "art",
-      "title": "Textile",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1890s · Textiles",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1890s · Textiles",
-      "image": {
-        "src": "data/images/fd877c3797a86f91.jpg",
-        "alt": "Textile",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/288376",
-        "trustTier": "encyclopedic",
-        "date": "1890s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "textile",
-        "textiles"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-04T10:43:22.760Z",
-      "hash": "aab5c7026dea8b73"
-    },
-    {
-      "id": "met:546440",
-      "type": "art",
-      "title": "Figurine of a Pygmy Dance Leader",
-      "summary": "Unknown artist · ca. 1950–1885 B.C. · Ivory",
-      "body": "Unknown artist · ca. 1950–1885 B.C. · Ivory\nRogers Fund, 1934\nEgyptian Art",
-      "image": {
-        "src": "data/images/86f2abbab2ddfc87.jpg",
-        "alt": "Figurine of a Pygmy Dance Leader",
-        "credit": "The Met · Rogers Fund, 1934"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/546440",
-        "trustTier": "encyclopedic",
-        "date": "ca. 1950–1885 B.C."
-      },
-      "tags": [
-        "art",
-        "museum",
-        "dancer"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-04T10:43:21.556Z",
-      "hash": "c24a1a2ed5f7f975"
-    },
-    {
-      "id": "met:715222",
-      "type": "art",
-      "title": "Bettina, from the Ballet Queens series (N182) issued by Wm. S. Kimball & Co.",
-      "summary": "William S. Kimball & Company · 1889 · Commercial color lithograph",
-      "body": "William S. Kimball & Company · 1889 · Commercial color lithograph\nThe Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick\nDrawings and Prints",
-      "image": {
-        "src": "data/images/920764bdfead2852.jpg",
-        "alt": "Bettina, from the Ballet Queens series (N182) issued by Wm. S. Kimball & Co.",
-        "credit": "The Met · The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/715222",
-        "trustTier": "encyclopedic",
-        "author": "William S. Kimball & Company",
-        "date": "1889"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "dancer",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-04T10:43:21.358Z",
-      "hash": "f70836ee6add3f14"
-    },
-    {
-      "id": "met:717738",
-      "type": "art",
-      "title": "Greek Waltz, from National Dances (N225, Type 1) issued by Kinney Bros.",
-      "summary": "Kinney Brothers Tobacco Company · 1889 · Commercial color lithograph",
-      "body": "Kinney Brothers Tobacco Company · 1889 · Commercial color lithograph\nThe Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick\nDrawings and Prints",
-      "image": {
-        "src": "data/images/8ac2f4d229e65ba3.jpg",
-        "alt": "Greek Waltz, from National Dances (N225, Type 1) issued by Kinney Bros.",
-        "credit": "The Met · The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/717738",
-        "trustTier": "encyclopedic",
-        "author": "Kinney Brothers Tobacco Company",
-        "date": "1889"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "dancer",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-04T10:43:21.242Z",
-      "hash": "eaefefb6fe5f27ce"
-    },
-    {
-      "id": "apod:2003-11-29",
-      "type": "space",
-      "title": "Phobos Over Mars",
-      "summary": "Hurtling through space a mere 3,000 miles above the Martian surface, the diminutive moon Phobos (below and left of center) was imaged against the backdrop of a large shield volcano by the Viking 2 Orbiter in 1977. This dramatic picture looks down from the Orbiter's viewpoint about 8,000 miles above the volcano,…",
-      "body": "Hurtling through space a mere 3,000 miles above the Martian surface, the diminutive moon Phobos (below and left of center) was imaged against the backdrop of a large shield volcano by the Viking 2 Orbiter in 1977. This dramatic picture looks down from the Orbiter's viewpoint about 8,000 miles above the volcano, Ascraeus Mons. Phobos itself is 5,000 miles below the Orbiter. North is toward the top with the Sun illuminating the scene from the South (black dots are reference marks). For scale, Ascraeus Mons is about 200 miles across at its base while asteroid sized Phobos is about 15 miles in diameter. In this spectacular moon-planet image, volcanic calderas (craters) are visible at the summit of Ascraeus Mons -- while impact craters on the sunlit side of Phobos' surface can also be seen!",
-      "image": {
-        "src": "data/images/ff191a7e0ff898e7.jpg",
-        "alt": "Phobos Over Mars",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap031129.html",
-        "trustTier": "encyclopedic",
-        "date": "2003-11-29"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:20.671Z",
-      "hash": "21df47ba983e02da"
-    },
-    {
-      "id": "apod:2011-04-14",
-      "type": "space",
-      "title": "Young Stars in the Rho Ophiuchi Cloud",
-      "summary": "Dust clouds and embedded newborn stars glow at infrared wavelengths in this tantalizing false-color composition from WISE, the Wide-field Infrared Survey Explorer. The cosmic canvas features one of the closest star forming regions, part of the Rho Ophiuchi cloud complex some 400 light-years distant near the southern…",
-      "body": "Dust clouds and embedded newborn stars glow at infrared wavelengths in this tantalizing false-color composition from WISE, the Wide-field Infrared Survey Explorer. The cosmic canvas features one of the closest star forming regions, part of the Rho Ophiuchi cloud complex some 400 light-years distant near the southern edge of the pronounceable constellation Ophiuchus. After forming along a large cloud of cold molecular hydrogen gas, young stars heat the surrounding dust to produce the infrared glow. Stars in the process of formation, called young stellar objects or YSOs, are embedded in the compact pinkish nebulae seen here, but are otherwise hidden from the prying eyes of optical telescopes. An exploration of the region in penetrating infrared light has detected emerging and newly formed stars whose average age is estimated to be a mere 300,000 years. That's extremely young compared to the Sun's age of 5 billion years. The prominent reddish nebula at the lower right surrounding the star Sigma Scorpii is a reflection nebula produced by dust scattering starlight. This view from WISE spans almost 2 degrees and covers about 14 light-years at the estimated distance of the Rho Ophiuchi cloud.",
-      "image": {
-        "src": "data/images/c1e85d4948f8e4a3.jpg",
-        "alt": "Young Stars in the Rho Ophiuchi Cloud",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap110414.html",
-        "trustTier": "encyclopedic",
-        "date": "2011-04-14"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:20.671Z",
-      "hash": "6e43068c8b52e27c"
-    },
-    {
-      "id": "apod:2018-08-09",
-      "type": "space",
-      "title": "Red Planet, Red Moon, and Mars",
-      "summary": "Mars is also known as The Red Planet, often seen with a reddish tinge in dark night skies. Mars shines brightly at the upper left of this gorgeous morning twilight view from Mornington Peninsula, Victoria, Australia, but the Moon and planet Earth look redder still. Taken on July 27, the totally eclipsed Moon is…",
-      "body": "Mars is also known as The Red Planet, often seen with a reddish tinge in dark night skies. Mars shines brightly at the upper left of this gorgeous morning twilight view from Mornington Peninsula, Victoria, Australia, but the Moon and planet Earth look redder still. Taken on July 27, the totally eclipsed Moon is setting. It looks reddened because the Earth's umbral shadow isn't completely dark. Instead Earth's shadow is suffused with a faint red light from all the planet's sunsets and sunrises seen from the perspective of an eclipsed Moon. The sunsets and sunrises are reddened because Earth's atmosphere scatters blue light more strongly than red, creating the faint bluish twilight sky. Of course, craggy seaside rocks also take on the reddened colors of this Australian sunrise.",
-      "image": {
-        "src": "data/images/7d17ee1dcd74ea88.jpg",
-        "alt": "Red Planet, Red Moon, and Mars",
-        "credit": "© Terrastro"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap180809.html",
-        "trustTier": "encyclopedic",
-        "date": "2018-08-09"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:20.671Z",
-      "hash": "5e19a70b96e5db6e"
-    },
-    {
-      "id": "apod:2009-08-23",
-      "type": "space",
-      "title": "Giant Cluster Bends, Breaks Images",
-      "summary": "What are those strange blue objects? Many of the brightest blue images are of a single, unusual, beaded, blue, ring-like galaxy which just happens to line-up behind a giant cluster of galaxies. Cluster galaxies here typically appear yellow and -- together with the cluster's dark matter -- act as a gravitational lens.…",
-      "body": "What are those strange blue objects? Many of the brightest blue images are of a single, unusual, beaded, blue, ring-like galaxy which just happens to line-up behind a giant cluster of galaxies. Cluster galaxies here typically appear yellow and -- together with the cluster's dark matter -- act as a gravitational lens. A gravitational lens can create several images of background galaxies, analogous to the many points of light one would see while looking through a wine glass at a distant street light. The distinctive shape of this background galaxy -- which is probably just forming -- has allowed astronomers to deduce that it has separate images at 4, 10, 11, and 12 o'clock, from the center of the cluster. A blue smudge near the cluster center is likely another image of the same background galaxy. In all, a recent analysis postulated that at least 33 images of 11 separate background galaxies are discernable. This spectacular photo of galaxy cluster CL0024+1654 from the Hubble Space Telescope was taken in November 2004.",
-      "image": {
-        "src": "data/images/f8997cd7b2135301.jpg",
-        "alt": "Giant Cluster Bends, Breaks Images",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap090823.html",
-        "trustTier": "encyclopedic",
-        "date": "2009-08-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:20.671Z",
-      "hash": "3b3e6deb109e3d3d"
-    },
-    {
-      "id": "apod:2013-06-23",
-      "type": "space",
-      "title": "Venus' Once Molten Surface",
-      "summary": "If you could look across Venus with radar eyes, what might you see? This computer reconstruction of the surface of Venus was created from data from the Magellan spacecraft. � Magellan orbited Venus and used radar to map our neighboring planet's surface between 1990 and 1994. Magellan found many interesting surface…",
-      "body": "If you could look across Venus with radar eyes, what might you see? This computer reconstruction of the surface of Venus was created from data from the Magellan spacecraft. � Magellan orbited Venus and used radar to map our neighboring planet's surface between 1990 and 1994. Magellan found many interesting surface features, including the large circular domes, typically 25-kilometers across, that are depicted above. � Volcanism is thought to have created the domes, although the precise mechanism remains unknown. Venus' surface is so hot and hostile that no surface probe has lasted more than a few minutes.",
-      "image": {
-        "src": "data/images/ae3be52660c833a5.jpg",
-        "alt": "Venus' Once Molten Surface",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap130623.html",
-        "trustTier": "encyclopedic",
-        "date": "2013-06-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:20.670Z",
-      "hash": "05ee698383514866"
-    },
-    {
-      "id": "onthisday:08-04:1997:40a24b5e96f2a97b",
-      "type": "history",
-      "title": "1997: Supercentenarian",
-      "summary": "French supercentenarian Jeanne Calment died at the age of 122 years, 164 days, with the longest confirmed human lifespan in history.",
-      "body": "French supercentenarian Jeanne Calment died at the age of 122 years, 164 days, with the longest confirmed human lifespan in history.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Supercentenarian",
-        "trustTier": "encyclopedic",
-        "date": "08-04"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:19.355Z",
-      "hash": "63a57e5eb2354d8a",
-      "expires": "2026-08-07T10:43:19.355Z"
-    },
-    {
-      "id": "onthisday:08-04:1830:a1212af8afd05204",
-      "type": "history",
-      "title": "1830: James Thompson (surveyor)",
-      "summary": "American surveyor James Thompson produced the first plat of Chicago for the Illinois and Michigan Canal Commissioners.",
-      "body": "American surveyor James Thompson produced the first plat of Chicago for the Illinois and Michigan Canal Commissioners.",
-      "image": {
-        "src": "data/images/94fe0727722ff82b.jpg",
-        "alt": "James Thompson (surveyor)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/James_Thompson_(surveyor)",
-        "trustTier": "encyclopedic",
-        "date": "08-04"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:19.355Z",
-      "hash": "96da35f408bf7642",
-      "expires": "2026-08-07T10:43:19.355Z"
-    },
-    {
-      "id": "onthisday:08-04:1892:bc5e212d58fbf140",
-      "type": "history",
-      "title": "1892: Lizzie Borden",
-      "summary": "Lizzie Borden's father and stepmother were found murdered in their home in Fall River, Massachusetts; Borden was later tried and acquitted for the murders.",
-      "body": "Lizzie Borden's father and stepmother were found murdered in their home in Fall River, Massachusetts; Borden was later tried and acquitted for the murders.",
-      "image": {
-        "src": "data/images/bf5d15d746c1a7c6.jpg",
-        "alt": "Lizzie Borden",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Lizzie_Borden",
-        "trustTier": "encyclopedic",
-        "date": "08-04"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:19.355Z",
-      "hash": "c6ad10638ce9fbfa",
-      "expires": "2026-08-07T10:43:19.355Z"
-    },
-    {
-      "id": "wikipedia:69499485",
-      "type": "wiki",
-      "title": "Walterianella",
-      "summary": "Walterianella is a genus of flea beetles in the family Chrysomelidae. There are more than 40 described species in Walterianella. They are found in Central and South America.",
-      "body": "Walterianella is a genus of flea beetles in the family Chrysomelidae. There are more than 40 described species in Walterianella. They are found in Central and South America.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Walterianella",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:19.316Z",
-      "hash": "a1efae203b4ddb8e"
-    },
-    {
-      "id": "wikipedia:7288218",
-      "type": "wiki",
-      "title": "Five Star Production",
-      "summary": "Five Star Production Co. Ltd. is a Thai film production company. It was founded in 1973 by Kiat Iamphungphorn and is today headed by his children, Aphiradee and her younger brothers Kiatkamon and Kiattikul. The company's films include the works of Wisit Sasanatieng and Pen-Ek Ratanaruang. Other directors associated…",
-      "body": "Five Star Production Co. Ltd. is a Thai film production company. It was founded in 1973 by Kiat Iamphungphorn and is today headed by his children, Aphiradee and her younger brothers Kiatkamon and Kiattikul. The company's films include the works of Wisit Sasanatieng and Pen-Ek Ratanaruang. Other directors associated with Five Star include Thanit Jitnukul, Bhandit Rittakol, and Poj Arnon.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Five_Star_Production",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:19.075Z",
-      "hash": "5e6b72d4553af200"
-    },
-    {
-      "id": "wikipedia:26122180",
-      "type": "wiki",
-      "title": "Wallander (Swedish TV series)",
-      "summary": "Wallander is a Swedish television series adapted from Henning Mankell's Kurt Wallander novels, starring Krister Henriksson in the title role. The first season of thirteen films was produced in 2005 and 2006, with one taken directly from a novel and the remainder with new storylines suggested by Mankell. The second…",
-      "body": "Wallander is a Swedish television series adapted from Henning Mankell's Kurt Wallander novels, starring Krister Henriksson in the title role. The first season of thirteen films was produced in 2005 and 2006, with one taken directly from a novel and the remainder with new storylines suggested by Mankell. The second season of thirteen films was shown between 2009 and 2010. The stories are set in Ystad, Skåne near the southern tip of Sweden.",
-      "image": {
-        "src": "data/images/6a7e8569d2dff9f2.jpg",
-        "alt": "Wallander (Swedish TV series)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Wallander_(Swedish_TV_series)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:18.618Z",
-      "hash": "f85ee1cfc8400e2c"
-    },
-    {
-      "id": "wikipedia:27560717",
-      "type": "wiki",
-      "title": "Sebastian, Ohio",
-      "summary": "Sebastian is an unincorporated community in northern Marion Township, Mercer County, Ohio, United States. Its elevation is 932 feet (284 m), and it is located at 40°26′39″N 84°31′0″W. Located at the intersection of Sebastian Road and County Road 716-A, the community lies south of the city of Celina, the county seat…",
-      "body": "Sebastian is an unincorporated community in northern Marion Township, Mercer County, Ohio, United States. Its elevation is 932 feet (284 m), and it is located at 40°26′39″N 84°31′0″W. Located at the intersection of Sebastian Road and County Road 716-A, the community lies south of the city of Celina, the county seat of Mercer County, and nearly 2 miles (3.2 km) northwest of the village of Chickasaw.",
-      "image": {
-        "src": "data/images/1b4572621bd33251.png",
-        "alt": "Sebastian, Ohio",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Sebastian%2C_Ohio",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-04T10:43:18.264Z",
-      "hash": "df7217497a0157b8"
-    },
-    {
-      "id": "chess:Tsqqj",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1827. Find the best line for white.",
-      "body": "Solution, from → to: e5→f6, d5→c4, g5→f7, h8→g8, f7→d8. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "r2q3k/p1p1n1pp/1p2pr2/3bPpN1/2Q5/8/PPP2PPP/R3R1K1 w - - 1 1",
-        "lastMove": "b7d5"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/Tsqqj",
-        "trustTier": "community",
-        "date": "Mon, 03 Aug 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "advantage",
-        "fork",
-        "long"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-08-03T11:30:19.377Z",
-      "hash": "9eccd3ef47cec530"
-    },
-    {
-      "id": "trivia:675bcaf4c6b5b462",
-      "type": "trivia",
-      "title": "Which of these 1900s tanks were designed and built BEFORE the others?",
-      "summary": "Is it: Cromwell  ·  Panzer IV · Renault FT · M4 Sherman?",
-      "body": "Answer: Renault FT.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-03T11:30:16.773Z",
-      "hash": "675bcaf4c6b5b462"
     },
     {
       "id": "curated:handwriting-beats-typing",

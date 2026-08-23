@@ -1,7 +1,1139 @@
 {
-  "generatedAt": "2026-08-22T08:37:17.003Z",
+  "generatedAt": "2026-08-23T08:35:11.718Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:9x6Uy",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1826. Find the best line for black.",
+      "body": "Solution, from → to: h5→h2, g1→h2, g5→h5, h2→g1, h5→h1. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "2r3k1/6pp/Q1bBp3/4P1rq/8/2P3P1/5P1P/R4RK1 b - - 1 1",
+        "lastMove": "a7a6"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/9x6Uy",
+        "trustTier": "community",
+        "date": "Sun, 23 Aug 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "middlegame",
+        "operamate",
+        "attraction",
+        "long"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-08-23T08:35:07.679Z",
+      "hash": "450debfb1dbd02ea"
+    },
+    {
+      "id": "trivia:3076d54083aeac06",
+      "type": "trivia",
+      "title": "In the movie \"Back to the Future,\" what speed does Doc Brown's DeLorean need to reach in order to travel through time?",
+      "summary": "Is it: 70 mph · 100 mph · 88 mph · 77 mph?",
+      "body": "Answer: 88 mph.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "film"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:35:04.874Z",
+      "hash": "3076d54083aeac06"
+    },
+    {
+      "id": "trivia:ee9d26cdab08fa08",
+      "type": "trivia",
+      "title": "The stop motion comedy show \"Robot Chicken\" was created by which of the following?",
+      "summary": "Is it: Seth Rollins · Seth MacFarlane · Seth Rogen · Seth Green?",
+      "body": "Answer: Seth Green.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "cartoon & animations"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:35:04.874Z",
+      "hash": "ee9d26cdab08fa08"
+    },
+    {
+      "id": "trivia:59ab3594adb7ecbb",
+      "type": "trivia",
+      "title": "The LS3 engine is how many cubic inches?",
+      "summary": "Is it: 346 · 376 · 427 · 364?",
+      "body": "Answer: 376.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "vehicles"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:35:04.874Z",
+      "hash": "59ab3594adb7ecbb"
+    },
+    {
+      "id": "trivia:26d376449f2a04bb",
+      "type": "trivia",
+      "title": "When did Norway get its constitution?",
+      "summary": "Is it: 1814 · 1854 · 1932 · 1905?",
+      "body": "Answer: 1814.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:35:04.873Z",
+      "hash": "26d376449f2a04bb"
+    },
+    {
+      "id": "passage:gutenberg:1342",
+      "type": "passage",
+      "title": "Pride and Prejudice",
+      "summary": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other…",
+      "body": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters. “My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?” Mr. Bennet replied that he had not. “But it is,” returned she; “for Mrs. Long has just been here, and she told me all about it.” Mr. Bennet made no answer. “Do not you want to know who has taken it?” cried his…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/1342",
+        "trustTier": "publication",
+        "author": "Jane Austen",
+        "date": "1813"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "romance",
+        "regency"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:35:04.679Z",
+      "hash": "2c77190f0de913e9"
+    },
+    {
+      "id": "comic:smbc:ac2082f57ed863c5",
+      "type": "comic",
+      "title": "Chromo",
+      "summary": "Physicists are always complaining about latinate terms in biology, and then they pull this shit.",
+      "image": {
+        "src": "data/images/82c485e4a8c137cc.png",
+        "alt": "Physicists are always complaining about latinate terms in biology, and then they pull this shit.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/chromo",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 22 Aug 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-23T08:35:03.606Z",
+      "hash": "ac2082f57ed863c5"
+    },
+    {
+      "id": "comic:xkcd:1642",
+      "type": "comic",
+      "title": "Gravitational Waves",
+      "summary": "\"That last LinkedIn request set a new record for the most energetic physical event ever observed. Maybe we should respond.\" \"Nah.\"",
+      "body": "[[Two friends stroll along chatting]] Hatfriend: Did you watch the super bowl? Otherfriend: Yes, like a third of the counry. Otherfriend:A fraction which is INCREASING despite media fragmentation Hatfriend: Can't we just talk without your weird need to give context for everything? Otherfriend: Sorry. I'll try. Hatfriend: Sounds like Peyton Manning's probably going to retire. Otherfriend: Yes, I.. it.. Hatfriend: C'mon, you can do it! Otherfriend: He.. Otherfriend: MAMMALS LIKE PEYTON AGE VIA A PROCESS TAHT INVOLVES BOTH THE ACCUMULATION OF DAMAGE AND POORLY-UNDERSTOOD TIMED FACTORS. YET THE CONCEPT OF RETIREMENT ITSELF IS SURPRISINGLY RECENT- Hatfriend: Okay, good try. Maybe next year.…",
+      "image": {
+        "src": "data/images/e818fe2cffd7a567.png",
+        "alt": "\"That last LinkedIn request set a new record for the most energetic physical event ever observed. Maybe we should respond.\" \"Nah.\"",
+        "credit": "xkcd #1642 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/1642/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2016-02-11"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-23T08:35:03.293Z",
+      "hash": "fca3c30c22889ec4"
+    },
+    {
+      "id": "craft:8692b63e76b2e618",
+      "type": "craft",
+      "title": "On Vintage Boards, Lou Benesch Conjures the Fantastic World of The Magician",
+      "summary": "Lou Benesch translates the Magician's inclination for action and mysticism into a collection of works on found and antique materials.",
+      "body": "Lou Benesch translates the Magician's inclination for action and mysticism into a collection of works on found and antique materials.",
+      "image": {
+        "src": "data/images/44d1f07fde56d69b.jpg",
+        "alt": "On Vintage Boards, Lou Benesch Conjures the Fantastic World of The Magician",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/08/lou-benesch-the-magicians-room-antique-wood-works/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Fri, 21 Aug 2026 13:06:2"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "found objects",
+        "lou benesch",
+        "painting",
+        "surreal",
+        "tarot"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:35:02.775Z",
+      "hash": "8692b63e76b2e618"
+    },
+    {
+      "id": "word:fce4bc957b4963e7",
+      "type": "word",
+      "title": "pathos",
+      "summary": "Noun: The quality or property of anything which touches the feelings or excites emotions and passions, especially that which awakens tender emotions, such as pity, sorrow, and the like; contagious warmth of feeling, action, or expression; pathetic quality.",
+      "body": "1. The quality or property of anything which touches the feelings or excites emotions and passions, especially that which awakens tender emotions, such as pity, sorrow, and the like; contagious warmth of feeling, action, or expression; pathetic quality.\n2. A form of rhetoric in which the writer or speaker uses emotional appeals to the audience as the main form of persuasion.\n3. An author's attempt to evoke a feeling of pity or sympathetic sorrow for a character.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/pathos",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:35:01.751Z",
+      "hash": "fce4bc957b4963e7"
+    },
+    {
+      "id": "word:7aa056443e869a8c",
+      "type": "word",
+      "title": "luminous",
+      "summary": "Adjective: Emitting light; glowing brightly; shining.",
+      "body": "1. Emitting light; glowing brightly; shining.\n2. Brightly illuminated.\n3. Clear; enlightening; easy to understand.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/luminous",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Adjective"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:35:01.260Z",
+      "hash": "7aa056443e869a8c"
+    },
+    {
+      "id": "quote:2d9b4890a4d88a84",
+      "type": "quote",
+      "title": "“We are most nearly ourselves when we achieve the seriousness of the child at play.”",
+      "summary": "— Heraclitus",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Heraclitus",
+        "trustTier": "community",
+        "author": "Heraclitus"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:35:01.050Z",
+      "hash": "2d9b4890a4d88a84"
+    },
+    {
+      "id": "quote:493564e4d73233ba",
+      "type": "quote",
+      "title": "“He who possesses most must be most afraid of loss.”",
+      "summary": "— Leonardo da Vinci",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+        "trustTier": "community",
+        "author": "Leonardo da Vinci"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:35:01.050Z",
+      "hash": "493564e4d73233ba"
+    },
+    {
+      "id": "quote:f56316916e252a32",
+      "type": "quote",
+      "title": "“I want the fishing rod, not the fish.”",
+      "summary": "— Yanni",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Yanni",
+        "trustTier": "community",
+        "author": "Yanni"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:35:01.050Z",
+      "hash": "f56316916e252a32"
+    },
+    {
+      "id": "article:788e36524b277e27",
+      "type": "article",
+      "title": "Boys Go to College to Get More Knowledge",
+      "summary": "Hi! I ran two re-runs this week and will have two more next week — and I figured I’d share why I’m taking this time off. When I started Now I Know sixteen years ago, I was the father of two young boys. Now, I’m the father of two college-aged boys and a high school-aged daughter. And this week and…",
+      "body": "Hi! I ran two re-runs this week and will have two more next week — and I figured I’d share why I’m taking this time off. When I started Now I Know sixteen years ago, I was the father of two young boys. Now, I’m the father of two college-aged boys and a high school-aged daughter. And this week and next, “college” has been the word of the week. My oldest went back to school yesterday and my middle one starts this weekend. My daughter is starting the tour process, too. In short, I’m unusually busy, although for only good reasons. (A quick non-sequitur which obviously isn’t one: if you’re…",
+      "source": {
+        "name": "Now I Know",
+        "url": "https://nowiknow.com/boys-go-to-college-to-get-more-knowledge/",
+        "trustTier": "community",
+        "author": "Dan Lewis",
+        "date": "Fri, 21 Aug 2026 13:25:3"
+      },
+      "tags": [
+        "trivia",
+        "curiosities"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:23.359Z",
+      "hash": "788e36524b277e27"
+    },
+    {
+      "id": "article:4540d13f5e6c24d5",
+      "type": "article",
+      "title": "The Rest Is History",
+      "summary": "Lady detectives, library collections, and cyborgs.",
+      "body": "Lady detectives, library collections, and cyborgs.",
+      "source": {
+        "name": "Lapham's Quarterly",
+        "url": "https://www.laphamsquarterly.org/roundtable/rest-history-07-24-26",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "history",
+        "culture",
+        "literature"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:22.260Z",
+      "hash": "4540d13f5e6c24d5"
+    },
+    {
+      "id": "article:7c508faf7222ae3b",
+      "type": "article",
+      "title": "Learning a few things about running SQLite",
+      "summary": "Hello! I&rsquo;ve been working on a Django site recently, and I decided to use SQLite as the database. When I was getting started with using SQLite as database for a website I read a bunch of blog posts about how it is totally fine to use SQLite in production for a small site and I think it is…",
+      "body": "Hello! I&rsquo;ve been working on a Django site recently, and I decided to use SQLite as the database. When I was getting started with using SQLite as database for a website I read a bunch of blog posts about how it is totally fine to use SQLite in production for a small site and I think it is totally fine, but what I did not fully appreciate is that SQLite is still a database, databases are complicated, and I do not know a lot about operating databases. So here are a couple of small things I&rsquo;ve been learning about running SQLite. This is the 4th website I&rsquo;ve used SQLite for, and…",
+      "source": {
+        "name": "Julia Evans",
+        "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+        "trustTier": "community",
+        "date": "2026-07-17T00:00:00+00:0"
+      },
+      "tags": [
+        "programming",
+        "computers",
+        "technology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:22.101Z",
+      "hash": "7c508faf7222ae3b"
+    },
+    {
+      "id": "article:4544feb72b399987",
+      "type": "article",
+      "title": "Walking the Length of Manhattan . I did this, solo,...",
+      "summary": "Walking the Length of Manhattan. I did this, solo, right before I moved out of NYC. Loved it. Will do it again someday.",
+      "body": "Walking the Length of Manhattan. I did this, solo, right before I moved out of NYC. Loved it. Will do it again someday.",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/08/0049521-walking-the-length-of-man",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-08-21T17:48:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:21.833Z",
+      "hash": "4544feb72b399987"
+    },
+    {
+      "id": "article:54ae52c40f0567f5",
+      "type": "article",
+      "title": "Recent Reading",
+      "summary": "Envy, ancient genes, nihilism, and modern manufacturing. Some books I read recently that I found interesting. The post Recent Reading appeared first on Scott H Young.",
+      "body": "Envy, ancient genes, nihilism, and modern manufacturing. Some books I read recently that I found interesting. The post Recent Reading appeared first on Scott H Young.",
+      "image": {
+        "src": "data/images/d210924ca337ed00.jpg",
+        "alt": "Recent Reading",
+        "credit": "Scott H. Young"
+      },
+      "source": {
+        "name": "Scott H. Young",
+        "url": "https://www.scotthyoung.com/blog/2026/08/06/recent-reading-3/",
+        "trustTier": "community",
+        "author": "Scott Young",
+        "date": "Thu, 06 Aug 2026 22:58:1"
+      },
+      "tags": [
+        "learning",
+        "productivity",
+        "ideas",
+        "general"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:21.536Z",
+      "hash": "54ae52c40f0567f5"
+    },
+    {
+      "id": "article:7e7ffdab432d8187",
+      "type": "article",
+      "title": "Are You in Danger of Becoming a Robot?",
+      "summary": "How interacting with social chatbots could reduce your “personhood” The post Are You in Danger of Becoming a Robot? appeared first on Nautilus.",
+      "body": "How interacting with social chatbots could reduce your “personhood” The post Are You in Danger of Becoming a Robot? appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/fbfa0715d92238b3.png",
+        "alt": "Are You in Danger of Becoming a Robot?",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/are-you-in-danger-of-becoming-a-robot-1284114/",
+        "trustTier": "publication",
+        "author": "Kristen French",
+        "date": "Fri, 21 Aug 2026 20:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "psychology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:21.009Z",
+      "hash": "7e7ffdab432d8187"
+    },
+    {
+      "id": "article:792bf2fd946360d4",
+      "type": "article",
+      "title": "The More Loving One: The Science of Entropy and the Art of Alternative Endings",
+      "summary": "\"If equal affection cannot be, let the more loving one be me.\"",
+      "body": "\"If equal affection cannot be, let the more loving one be me.\"",
+      "image": {
+        "src": "data/images/2d19d22e25cc9c98.jpg",
+        "alt": "The More Loving One: The Science of Entropy and the Art of Alternative Endings",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/08/22/the-more-loving-one-auden-universe-in-verse/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sat, 22 Aug 2026 20:40:1"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "science",
+        "animation",
+        "books",
+        "love",
+        "poetry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:20.734Z",
+      "hash": "792bf2fd946360d4"
+    },
+    {
+      "id": "article:ed3349b65142305b",
+      "type": "article",
+      "title": "The Black Robin and the Power of Tenacious Tenderness: How a Single Mother Brought an Entire Species Back from the Brink of Extinction",
+      "summary": "This essay is adapted from Traversal. “In the great chain of cause and effect,” Alexander von Humboldt wrote as he was teaching science to read the poetry of nature, “no single fact can be considered in isolation.” When the first European colonists made landfall on New Zealand’s shores in…",
+      "body": "This essay is adapted from Traversal. “In the great chain of cause and effect,” Alexander von Humboldt wrote as he was teaching science to read the poetry of nature, “no single fact can be considered in isolation.” When the first European colonists made landfall on New Zealand’s shores in Humboldt’s lifetime, the cats and rats that descended from their ships began decimating the native population of black robins — sparrow-sized birds with yellow-soled feet that had evolved without mammalian predators, mate for life in monogamous pairs, and raise only two chicks per year in cuplike nests…",
+      "image": {
+        "src": "data/images/11b3cb640e7f7c78.jpg",
+        "alt": "The Black Robin and the Power of Tenacious Tenderness: How a Single Mother Brought an Entire Species Back from the Brink of Extinction",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/08/23/old-blue-black-robin/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sun, 23 Aug 2026 04:16:0"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "birds",
+        "books",
+        "science",
+        "traversal"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:20.734Z",
+      "hash": "ed3349b65142305b"
+    },
+    {
+      "id": "article:ec5bb9926b70d836",
+      "type": "article",
+      "title": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
+      "summary": "The post Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret. appeared first on ProPublica.",
+      "body": "The post Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret. appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/1f3d0fe74a805222.jpg",
+        "alt": "Oregon Is Spending More Than Ever on Low-Income Housing. A State Law Keeps the Details Secret.",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/oregon-affordable-housing-cost-secrecy",
+        "trustTier": "publication",
+        "author": "Rob Davis",
+        "date": "Fri, 21 Aug 2026 09:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "real estate",
+        "regulation"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:20.211Z",
+      "hash": "ec5bb9926b70d836",
+      "expires": "2026-11-21T08:34:20.211Z"
+    },
+    {
+      "id": "greek:5bf3b645e83602c0",
+      "type": "greek",
+      "title": "δέ",
+      "summary": "δέ — “but, and” · conjunction",
+      "body": "Note: postpositive — never appears first in clause\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B4%CE%AD#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "conjunction",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-23T08:34:18.005Z",
+      "hash": "5bf3b645e83602c0"
+    },
+    {
+      "id": "greek:ec392a324cacf7b1",
+      "type": "greek",
+      "title": "καί",
+      "summary": "καί — “and, also” · conjunction",
+      "body": "Note: can also mean \"even\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BA%CE%B1%CE%AF#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "conjunction",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-23T08:34:18.005Z",
+      "hash": "ec392a324cacf7b1"
+    },
+    {
+      "id": "poetry:052c0a734e1f76fe",
+      "type": "poem",
+      "title": "Quail's Nest",
+      "summary": "I wandered out one rainy day\n  And heard a bird with merry joys\nCry \"wet my foot\" for half the way;\n  I stood and wondered at the noise,",
+      "body": "I wandered out one rainy day\n  And heard a bird with merry joys\nCry \"wet my foot\" for half the way;\n  I stood and wondered at the noise,\n\nWhen from my foot a bird did flee--\n  The rain flew bouncing from her breast\nI wondered what the bird could be,\n  And almost trampled on her nest.\n\nThe nest was full of eggs and round--\n  I met a shepherd in the vales,\nAnd stood to tell him what I found.\n  He knew and said it was a quail's,\n\nFor he himself the nest had found,\n  Among the wheat and on the green,\nWhen going on his daily round,\n  With eggs as many as fifteen.\n\nAmong the stranger birds they feed,\n  Their summer flight is short and low;\nThere's very few know where they breed,\n  And scarcely any where they go.",
+      "source": {
+        "name": "John Clare · PoetryDB",
+        "url": "https://poetrydb.org/title/Quail's%20Nest",
+        "trustTier": "community",
+        "author": "John Clare"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:18.004Z",
+      "hash": "052c0a734e1f76fe"
+    },
+    {
+      "id": "poetry:9331a91cc0c349ef",
+      "type": "poem",
+      "title": "Invitation to Eternity",
+      "summary": "Say, wilt thou go with me, sweet maid,\nSay, maiden, wilt thou go with me\nThrough the valley-depths of shade,\nOf bright and dark obscurity;",
+      "body": "Say, wilt thou go with me, sweet maid,\nSay, maiden, wilt thou go with me\nThrough the valley-depths of shade,\nOf bright and dark obscurity;\nWhere the path has lost its way,\nWhere the sun forgets the day,\nWhere there's nor light nor life to see,\nSweet maiden, wilt thou go with me?\n\nWhere stones will turn to flooding streams,\nWhere plains will rise like ocean's waves,\nWhere life will fade like visioned dreams\nAnd darkness darken into caves,\nSay, maiden, wilt thou go with me\nThrough this sad non-identity\nWhere parents live and are forgot,\nAnd sisters live and know us not?\n\nSay, maiden, wilt thou go with me\nIn this strange death of life to be,\nTo live in death and be the same,\nWithout this life or home or name,\nAt once to be and not to be--\nThat was and is not--yet to see\nThings pass like shadows, and the sky\nAbove, below, around us lie?\n\nThe land of shadows wilt thou trace,\nNor look nor know each other's face;\nThe present marred with reason gone,\nAnd past and present both as one?\nSay, maiden, can thy life be led\nTo join the living and the dead?\nThen trace thy footsteps on with me:\nWe are wed to one eternity.",
+      "source": {
+        "name": "John Clare · PoetryDB",
+        "url": "https://poetrydb.org/title/Invitation%20to%20Eternity",
+        "trustTier": "community",
+        "author": "John Clare"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-08-23T08:34:18.004Z",
+      "hash": "9331a91cc0c349ef"
+    },
+    {
+      "id": "art:si:ld1-1643406126934-1643406151548-2",
+      "type": "art",
+      "title": "Analcime",
+      "summary": "NMNH - Mineral Sciences Dept.",
+      "body": "NMNH - Mineral Sciences Dept.",
+      "image": {
+        "src": "data/images/91d5e1ea92d3be3f.jpg",
+        "alt": "Analcime",
+        "credit": "NMNH - Mineral Sciences Dept. · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "http://n2t.net/ark:/65665/3d2283203-1601-4558-a062-668f7fc57b11",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "mineral"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-23T08:34:17.573Z",
+      "hash": "a50431440963c75d"
+    },
+    {
+      "id": "art:si:ld1-1643406210907-1643406237183-0",
+      "type": "art",
+      "title": "Analcime",
+      "summary": "NMNH - Mineral Sciences Dept.",
+      "body": "NMNH - Mineral Sciences Dept.",
+      "image": {
+        "src": "data/images/0504f536d49a8da1.jpg",
+        "alt": "Analcime",
+        "credit": "NMNH - Mineral Sciences Dept. · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "http://n2t.net/ark:/65665/357789302-e4ab-4480-92da-519e37acc024",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "mineral"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-23T08:34:17.573Z",
+      "hash": "a769c623ec636142"
+    },
+    {
+      "id": "met:62929",
+      "type": "art",
+      "title": "Female dancer",
+      "summary": "Unknown artist · 7th–8th century · Earthenware with traces of pigment",
+      "body": "Unknown artist · 7th–8th century · Earthenware with traces of pigment\nFletcher Fund, 1928\nAsian Art",
+      "image": {
+        "src": "data/images/761a1b2a41912db0.jpg",
+        "alt": "Female dancer",
+        "credit": "The Met · Fletcher Fund, 1928"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/62929",
+        "trustTier": "encyclopedic",
+        "date": "7th–8th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "dancer",
+        "tomb pottery"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-23T08:34:16.231Z",
+      "hash": "9d41d9f58c1208f2"
+    },
+    {
+      "id": "met:739359",
+      "type": "art",
+      "title": "Between Heats [The Course]",
+      "summary": "Thomas Rowlandson · January 1, 1798 · Hand-colored etching and aquatint",
+      "body": "Thomas Rowlandson · January 1, 1798 · Hand-colored etching and aquatint\nThe Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959\nDrawings and Prints",
+      "image": {
+        "src": "data/images/5a1fe9cb598bb3a3.jpg",
+        "alt": "Between Heats [The Course]",
+        "credit": "The Met · The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/739359",
+        "trustTier": "encyclopedic",
+        "author": "Thomas Rowlandson",
+        "date": "January 1, 1798"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "dancer",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-23T08:34:15.843Z",
+      "hash": "6d3c25f2159515c4"
+    },
+    {
+      "id": "met:714956",
+      "type": "art",
+      "title": "Carinthia, from the Dancing Girls of the World series (N185) issued by Wm. S. Kimball & Co.",
+      "summary": "William S. Kimball & Company · 1889 · Commercial color lithograph",
+      "body": "William S. Kimball & Company · 1889 · Commercial color lithograph\nThe Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick\nDrawings and Prints",
+      "image": {
+        "src": "data/images/84b1dad3f939a4ac.jpg",
+        "alt": "Carinthia, from the Dancing Girls of the World series (N185) issued by Wm. S. Kimball & Co.",
+        "credit": "The Met · The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/714956",
+        "trustTier": "encyclopedic",
+        "author": "William S. Kimball & Company",
+        "date": "1889"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "dancer",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-08-23T08:34:15.639Z",
+      "hash": "103b317ab76bfdf6"
+    },
+    {
+      "id": "apod:2013-03-06",
+      "type": "space",
+      "title": "Tardigrade in Moss",
+      "summary": "Is this an alien? Probably not, but of all the animals on Earth, the tardigrade might be the best candidate. That's because tardigrades are known to be able to go for decades without food or water, to survive temperatures from near absolute zero to well above the boiling point of water, to survive pressures from near…",
+      "body": "Is this an alien? Probably not, but of all the animals on Earth, the tardigrade might be the best candidate. That's because tardigrades are known to be able to go for decades without food or water, to survive temperatures from near absolute zero to well above the boiling point of water, to survive pressures from near zero to well above that on ocean floors, and to survive direct exposure to dangerous radiations. The far-ranging survivability of these extremophiles was tested in 2011 outside an orbiting space shuttle. Tardigrades are so durable partly because they can repair their own DNA and reduce their body water content to a few percent. Some of these miniature water-bears almost became extraterrestrials recently when they were launched toward to the Martian moon Phobos on board the Russian mission Fobos-Grunt, but stayed terrestrial when a rocket failed and the capsule remained in Earth orbit. Tardigrades are more common than humans across most of the Earth. Pictured above in a color-enhanced electron micrograph, a millimeter-long tardigrade crawls on moss. Follow APOD on: Facebook (Daily) (Sky) (Spanish) or Google Plus (Daily) (River)",
+      "image": {
+        "src": "data/images/48a3fc34f3c6bf2b.jpg",
+        "alt": "Tardigrade in Moss",
+        "credit": "© Nicole Ottawa & Oliver Meckes / Eye of Science / Science Source Images"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap130306.html",
+        "trustTier": "encyclopedic",
+        "date": "2013-03-06"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:15.443Z",
+      "hash": "5fee0a9d6d8e5710"
+    },
+    {
+      "id": "apod:2026-02-28",
+      "type": "space",
+      "title": "Lunar Occultation of Mercury",
+      "summary": "Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after…",
+      "body": "Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. The top panel finds bright Mercury just visible at the northern (right) edge of the earthshine-illuminated lunar disk. In the bottom panel the bright planet has emerged in darker skies beyond the Moon's sunlit crescent. As seen south of Sallisaw, Oklahoma, planet Earth, this lunar occultation of Mercury lasted only about 3 minutes (video). But you can still check out a parade of planets tonight. March 3: Total Lunar Eclipse",
+      "image": {
+        "src": "data/images/a03d9f42cf17b338.jpg",
+        "alt": "Lunar Occultation of Mercury",
+        "credit": "© Fabrizio Melandri"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap260228.html",
+        "trustTier": "encyclopedic",
+        "date": "2026-02-28"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:15.443Z",
+      "hash": "d70aeec308d3f8b5"
+    },
+    {
+      "id": "apod:1996-04-04",
+      "type": "space",
+      "title": "The Keyhole Nebula Near Eta Carinae",
+      "summary": "The dark dusty Keyhole Nebula gets its name from its unusual shape. Designated NGC 3324, the Keyhole Nebula is a smaller region superposed on the bright Eta Carina Nebula. The Eta Carina Nebula is the largest nebula in angular extent on the sky, larger than the famous Orion Nebula, but its southerly location makes it…",
+      "body": "The dark dusty Keyhole Nebula gets its name from its unusual shape. Designated NGC 3324, the Keyhole Nebula is a smaller region superposed on the bright Eta Carina Nebula. The Eta Carina Nebula is the largest nebula in angular extent on the sky, larger than the famous Orion Nebula, but its southerly location makes it less familiar to Northern Hemisphere skywatchers. The star Eta Carinae itself is extremely variable and has faded in a mere 150 years - formerly one of the brightest in the sky it is now invisible without a telescope. The nebula created by the star's 19th century outburst has been photographed by the Hubble Space Telescope. Latest Comet Hyakutake images: APOD Hyakutake Archive, JPL, Fayetteville Observer-Times, NASA's Night of the Comet, ICSTARS, Jerry Lodriguss, ScienceWeb, Crni Vrh Obs., Cent. Mich. U.",
+      "image": {
+        "src": "data/images/5a3e95c3c4612cb3.gif",
+        "alt": "The Keyhole Nebula Near Eta Carinae",
+        "credit": "© Anglo-Australian Telescope Board"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap960404.html",
+        "trustTier": "encyclopedic",
+        "date": "1996-04-04"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:15.443Z",
+      "hash": "df7a134389ce951b"
+    },
+    {
+      "id": "apod:2014-02-08",
+      "type": "space",
+      "title": "NGC 5101 and Friends",
+      "summary": "This sharp telescopic field of view holds two bright galaxies. Barred spiral NGC 5101 (top right) and nearly edge-on system NGC 5078 are separated on the sky by about 0.5 degrees or about the apparent width of a full moon. Found within the boundaries of the serpentine constellation Hydra, both are estimated to be…",
+      "body": "This sharp telescopic field of view holds two bright galaxies. Barred spiral NGC 5101 (top right) and nearly edge-on system NGC 5078 are separated on the sky by about 0.5 degrees or about the apparent width of a full moon. Found within the boundaries of the serpentine constellation Hydra, both are estimated to be around 90 million light-years away and similar in size to our own large Milky Way galaxy. In fact, if they both lie at the same distance their projected separation would be only 800,000 light-years or so. That's easily less than half the distance between the Milky Way and the Andromeda Galaxy. NGC 5078 is interacting with a smaller companion galaxy, cataloged as IC 879, seen just below and left of the larger galaxy's bright core. Even more distant background galaxies are scattered around the colorful field. Some are even visible right through the face-on disk of NGC 5101. But the prominent spiky stars are in the foreground, well within our own Milky Way.",
+      "image": {
+        "src": "data/images/5a2c5a40497395fa.jpg",
+        "alt": "NGC 5101 and Friends",
+        "credit": "© Martin Pugh"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap140208.html",
+        "trustTier": "encyclopedic",
+        "date": "2014-02-08"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:15.443Z",
+      "hash": "1660b3bb66d92a4f"
+    },
+    {
+      "id": "apod:2016-06-17",
+      "type": "space",
+      "title": "Comet PanSTARRS in the Southern Fish",
+      "summary": "Now approaching our fair planet this Comet PanSTARRS (C/2013 X1) will come closest on June 21-22, a mere 5.3 light-minutes away. By then its appearance low in northern hemisphere predawn skies (high in the south), will be affected by the light of a nearly Full Moon, though. Still the comet's pretty green coma is…",
+      "body": "Now approaching our fair planet this Comet PanSTARRS (C/2013 X1) will come closest on June 21-22, a mere 5.3 light-minutes away. By then its appearance low in northern hemisphere predawn skies (high in the south), will be affected by the light of a nearly Full Moon, though. Still the comet's pretty green coma is about the apparent size of the Full Moon in this telescopic portrait, captured on June 12 from the southern hemisphere's Siding Spring Observatory. The deep image also follows a broad, whitish dust tail up and toward the left in the frame, sweeping away from the Sun and trailing behind the comet's orbit. Buffeted by the solar wind, a fainter, narrow ion tail extends horizontally toward the right. On the left edge, the brightest star is bluish Iota Piscis Austrini. Shining at about fourth magnitude, that star is visible to the unaided eye in the constellation of the Southern Fish.",
+      "image": {
+        "src": "data/images/0ff69f6eaf9b8691.jpg",
+        "alt": "Comet PanSTARRS in the Southern Fish",
+        "credit": "© José J. Chambó"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap160617.html",
+        "trustTier": "encyclopedic",
+        "date": "2016-06-17"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:15.443Z",
+      "hash": "29cbb476222cc542"
+    },
+    {
+      "id": "onthisday:08-23:1939:860833e369a8df7c",
+      "type": "history",
+      "title": "1939: Molotov–Ribbentrop Pact",
+      "summary": "Nazi Germany and the Soviet Union signed the Molotov–Ribbentrop Pact (pictured), a ten-year mutual non-aggression treaty, which also secretly divided northern and eastern Europe into German and Soviet spheres of influence.",
+      "body": "Nazi Germany and the Soviet Union signed the Molotov–Ribbentrop Pact (pictured), a ten-year mutual non-aggression treaty, which also secretly divided northern and eastern Europe into German and Soviet spheres of influence.",
+      "image": {
+        "src": "data/images/52146168dffd8d76.jpg",
+        "alt": "Molotov–Ribbentrop Pact",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact",
+        "trustTier": "encyclopedic",
+        "date": "08-23"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:14.608Z",
+      "hash": "47435a0a4126b2fa",
+      "expires": "2026-08-26T08:34:14.608Z"
+    },
+    {
+      "id": "onthisday:08-23:2006:6033598958a32132",
+      "type": "history",
+      "title": "2006: Natascha Kampusch",
+      "summary": "Natascha Kampusch (pictured), who had been abducted at the age of ten in Vienna, escaped from her captor's house in Strasshof an der Nordbahn after more than eight years in captivity.",
+      "body": "Natascha Kampusch (pictured), who had been abducted at the age of ten in Vienna, escaped from her captor's house in Strasshof an der Nordbahn after more than eight years in captivity.",
+      "image": {
+        "src": "data/images/7f9da39a9b14a141.jpg",
+        "alt": "Natascha Kampusch",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Natascha_Kampusch",
+        "trustTier": "encyclopedic",
+        "date": "08-23"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:14.608Z",
+      "hash": "d3b678259db6772b",
+      "expires": "2026-08-26T08:34:14.608Z"
+    },
+    {
+      "id": "onthisday:08-23:1898:8de70d1e570fd94d",
+      "type": "history",
+      "title": "1898: Southern Cross Expedition",
+      "summary": "The Southern Cross Expedition, the first British venture of the Heroic Age of Antarctic Exploration, departed London.",
+      "body": "The Southern Cross Expedition, the first British venture of the Heroic Age of Antarctic Exploration, departed London.",
+      "image": {
+        "src": "data/images/ed8e7915744d5442.jpg",
+        "alt": "Southern Cross Expedition",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Southern_Cross_Expedition",
+        "trustTier": "encyclopedic",
+        "date": "08-23"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:14.608Z",
+      "hash": "5e85746422d3343a",
+      "expires": "2026-08-26T08:34:14.608Z"
+    },
+    {
+      "id": "wikipedia:77269705",
+      "type": "wiki",
+      "title": "Lenggong (town)",
+      "summary": "Lenggong is a town, a mukim and a parliamentary constituency in Hulu Perak District, Perak, Malaysia.The town of Lenggong is situated some 100 kilometres north of Ipoh on the Kuala Kangsar to Grik road. The road to Lenggong is surrounded mostly by oil palm estates and jungles.",
+      "body": "Lenggong is a town, a mukim and a parliamentary constituency in Hulu Perak District, Perak, Malaysia.The town of Lenggong is situated some 100 kilometres north of Ipoh on the Kuala Kangsar to Grik road. The road to Lenggong is surrounded mostly by oil palm estates and jungles.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lenggong_(town)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:14.578Z",
+      "hash": "8e7fb74b5ba14a74"
+    },
+    {
+      "id": "wikipedia:46510740",
+      "type": "wiki",
+      "title": "2015 Staffordshire Moorlands District Council election",
+      "summary": "The 2015 Staffordshire Moorlands District Council election took place on 7 May 2015 to elect members of Staffordshire Moorlands District Council in England. This was on the same day as other local elections.",
+      "body": "The 2015 Staffordshire Moorlands District Council election took place on 7 May 2015 to elect members of Staffordshire Moorlands District Council in England. This was on the same day as other local elections.",
+      "image": {
+        "src": "data/images/4e98bdd4107504b6.png",
+        "alt": "2015 Staffordshire Moorlands District Council election",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2015_Staffordshire_Moorlands_District_Council_election",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:14.458Z",
+      "hash": "4d24e361059f291c"
+    },
+    {
+      "id": "wikipedia:944350",
+      "type": "wiki",
+      "title": "Buried treasure",
+      "summary": "Buried treasure is a literary trope commonly associated with depictions of pirates, alongside Vikings, criminals, and outlaws in the Old West. According to popular conception, these people often buried their stolen fortunes in remote places, intending to return to them later.",
+      "body": "Buried treasure is a literary trope commonly associated with depictions of pirates, alongside Vikings, criminals, and outlaws in the Old West. According to popular conception, these people often buried their stolen fortunes in remote places, intending to return to them later.",
+      "image": {
+        "src": "data/images/e2ed45873072c045.jpg",
+        "alt": "Buried treasure",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Buried_treasure",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:14.351Z",
+      "hash": "d518d21baa0c9477"
+    },
+    {
+      "id": "wikipedia:1918275",
+      "type": "wiki",
+      "title": "Mount Gravatt, Queensland",
+      "summary": "Mount Gravatt is a southern suburb of the City of Brisbane, Queensland, Australia and a prominent hill and lookout within this suburb. In the 2021 census, Mount Gravatt had a population of 3,733 people.",
+      "body": "Mount Gravatt is a southern suburb of the City of Brisbane, Queensland, Australia and a prominent hill and lookout within this suburb. In the 2021 census, Mount Gravatt had a population of 3,733 people.",
+      "image": {
+        "src": "data/images/ea416ff0d99ad02b.jpg",
+        "alt": "Mount Gravatt, Queensland",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mount_Gravatt%2C_Queensland",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-08-23T08:34:14.208Z",
+      "hash": "be52ad50bfe0331b"
+    },
     {
       "id": "chess:b82yB",
       "type": "chess",
@@ -11384,1153 +12516,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-08-13T09:16:15.778Z",
       "hash": "f5040cf21acdb322"
-    },
-    {
-      "id": "apod:2025-07-27",
-      "type": "space",
-      "title": "Lightning over the Volcano of Water",
-      "summary": "Have you ever watched a lightning storm in awe? You're not alone. Details of what causes lightning are still being researched, but it is known that inside some clouds, internal updrafts cause collisions between ice and snow that slowly separate charges between cloud tops and bottoms. The rapid electrical discharges…",
-      "body": "Have you ever watched a lightning storm in awe? You're not alone. Details of what causes lightning are still being researched, but it is known that inside some clouds, internal updrafts cause collisions between ice and snow that slowly separate charges between cloud tops and bottoms. The rapid electrical discharges that are lightning soon result. Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun. The resulting shock wave starts supersonically and decays into the loud sound known as thunder. On average, around the world, about 6,000 lightning bolts occur between clouds and the Earth every minute. Pictured in July 2019 in a two-image composite, lightning stems from communication antennas near the top of Volcán de Agua (Volcano of Water) in Guatemala. Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
-      "image": {
-        "src": "data/images/ca5acc080ae7a331.jpg",
-        "alt": "Lightning over the Volcano of Water",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap250727.html",
-        "trustTier": "encyclopedic",
-        "date": "2025-07-27"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-13T09:16:15.778Z",
-      "hash": "9dbc02488ddfca3b"
-    },
-    {
-      "id": "apod:2007-02-18",
-      "type": "space",
-      "title": "M16: Pillars of Creation",
-      "summary": "It has become one of the most famous images of modern times. This image, taken with the Hubble Space Telescope in 1995, shows evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust. The giant pillars are light years in length and are so dense that interior gas contracts…",
-      "body": "It has become one of the most famous images of modern times. This image, taken with the Hubble Space Telescope in 1995, shows evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust. The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars. At each pillars' end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed. The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away. The pillars of creation were imaged recently by the orbiting Chandra X-ray Observatory, and it was found that most EGGS are not strong emitters of X-rays.",
-      "image": {
-        "src": "data/images/148cc76a2ca92d5c.jpg",
-        "alt": "M16: Pillars of Creation",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap070218.html",
-        "trustTier": "encyclopedic",
-        "date": "2007-02-18"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-13T09:16:15.778Z",
-      "hash": "c92e2bd1f1f3f21a"
-    },
-    {
-      "id": "apod:2004-11-09",
-      "type": "space",
-      "title": "A Full Sky Multicolored Auroral Corona",
-      "summary": "On some nights the sky is the most interesting show in town. This fisheye picture captures a particularly active and colorful auroral corona that occurred two days ago over l'Observatoire de la Decouverte in Val Belair near Quebec, Canada. The above spectacular aurora has an unusually high degree of detail, range of…",
-      "body": "On some nights the sky is the most interesting show in town. This fisheye picture captures a particularly active and colorful auroral corona that occurred two days ago over l'Observatoire de la Decouverte in Val Belair near Quebec, Canada. The above spectacular aurora has an unusually high degree of detail, range of colors, and breadth across the sky. The vivid green, red, and blue auroral colors are likely caused by high atmospheric oxygen and hydrogen reacting to incoming electrons. The trigger events were magnetically induced explosions on the Sun from sunspot region 696 over the past few days. Continued activity from this active solar region could mean more auroras visible to northern observers over the next few days. Early in the morning but far in the background, planets, stars and the Moon will be simultaneously putting on their own show.",
-      "image": {
-        "src": "data/images/377bb25b5a543a2f.jpg",
-        "alt": "A Full Sky Multicolored Auroral Corona",
-        "credit": "© Philippe Moussette (Obs. Mont Cosmos)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap041109.html",
-        "trustTier": "encyclopedic",
-        "date": "2004-11-09"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-13T09:16:15.778Z",
-      "hash": "4a3aa9955e81ba65"
-    },
-    {
-      "id": "onthisday:08-13:2004:0fe550393fd7c864",
-      "type": "history",
-      "title": "2004: Tropical Storm Bonnie (2004)",
-      "summary": "Merely 22 hours after Tropical Storm Bonnie struck the U.S. state of Florida, Hurricane Charley inflicted further damage to the region (example pictured).",
-      "body": "Merely 22 hours after Tropical Storm Bonnie struck the U.S. state of Florida, Hurricane Charley inflicted further damage to the region (example pictured).",
-      "image": {
-        "src": "data/images/e53e5a98ab257f8c.jpg",
-        "alt": "Tropical Storm Bonnie (2004)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Tropical_Storm_Bonnie_(2004)",
-        "trustTier": "encyclopedic",
-        "date": "08-13"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-13T09:16:14.898Z",
-      "hash": "dab8cf30ed147a6b",
-      "expires": "2026-08-16T09:16:14.898Z"
-    },
-    {
-      "id": "onthisday:08-13:2010:c6be61f3c00a8f69",
-      "type": "history",
-      "title": "2010: MV Sun Sea incident",
-      "summary": "After being boarded by Canadian authorities, MV Sun Sea docked in British Columbia and the 492 Sri Lankan Tamil refugee claimants on board were placed in detention.",
-      "body": "After being boarded by Canadian authorities, MV Sun Sea docked in British Columbia and the 492 Sri Lankan Tamil refugee claimants on board were placed in detention.",
-      "image": {
-        "src": "data/images/fb0ea202dff63dfd.jpg",
-        "alt": "MV Sun Sea incident",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/MV_Sun_Sea_incident",
-        "trustTier": "encyclopedic",
-        "date": "08-13"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-13T09:16:14.898Z",
-      "hash": "d80e5aefbd1762c0",
-      "expires": "2026-08-16T09:16:14.898Z"
-    },
-    {
-      "id": "onthisday:08-13:1868:05bbc6022a8560a4",
-      "type": "history",
-      "title": "1868: 1868 Arica earthquake",
-      "summary": "A major earthquake near Arica, Peru (now in Chile), caused an estimated 25,000 casualties; the subsequent tsunami caused considerable damage as far away as Hawaii and New Zealand.",
-      "body": "A major earthquake near Arica, Peru (now in Chile), caused an estimated 25,000 casualties; the subsequent tsunami caused considerable damage as far away as Hawaii and New Zealand.",
-      "image": {
-        "src": "data/images/91887070e42fa9a3.jpg",
-        "alt": "1868 Arica earthquake",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/1868_Arica_earthquake",
-        "trustTier": "encyclopedic",
-        "date": "08-13"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-13T09:16:14.898Z",
-      "hash": "ae955586783bee9c",
-      "expires": "2026-08-16T09:16:14.898Z"
-    },
-    {
-      "id": "wikipedia:9608716",
-      "type": "wiki",
-      "title": "Western High-Speed Diameter",
-      "summary": "The Western High-Speed Diameter is a toll motorway in Saint Petersburg, Russia. The first section of the road open to traffic was an eight-lane motorway connecting the southern section of the A118 beltway with two junctions at the Kirovsky and Moskovsky Districts, respectively. Other sections of the highway were…",
-      "body": "The Western High-Speed Diameter is a toll motorway in Saint Petersburg, Russia. The first section of the road open to traffic was an eight-lane motorway connecting the southern section of the A118 beltway with two junctions at the Kirovsky and Moskovsky Districts, respectively. Other sections of the highway were under construction and eventually formed a corridor through the western districts of St. Petersburg to cross the northern portion of the A118 beltway in Yuntolovo and to meet the E-18/M-10 route at the Beloostrov junction. A new 4-km-long section of the highway was slated to open in late 2011. It connects the northern terminus of the first open segment with the industrial western part of the Kirovsky district which hosts the port of St. Petersburg. A 25-km-long section running from Beloostrov to the Primorsky District was scheduled to open in late 2012. The overall length of the Western High-Speed Diameter highway was projected at 47 km (29 mi) upon the scheduled completion in 2013 - 2014. A discount is given during the overnight hours and for the vehicles equipped with a transponder. WHSD cost 210 billion rubles. In December, 2016 the whole motorway was open for traffic.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Western_High-Speed_Diameter",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-13T09:16:14.855Z",
-      "hash": "47d8b25949358f62"
-    },
-    {
-      "id": "wikipedia:42172367",
-      "type": "wiki",
-      "title": "Sailing at the 1900 Summer Olympics – 20+ ton",
-      "summary": "The 20+ ton was a sailing event on the Sailing at the 1900 Summer Olympics program in Le Havre. The race was planned for 2 August 1900. However, as result of the storm that was unleashed on the port and the poor condition of the sea the race was postponed to Sunday 3 August 1900. 14 boats, from 4 nations registered…",
-      "body": "The 20+ ton was a sailing event on the Sailing at the 1900 Summer Olympics program in Le Havre. The race was planned for 2 August 1900. However, as result of the storm that was unleashed on the port and the poor condition of the sea the race was postponed to Sunday 3 August 1900. 14 boats, from 4 nations registered for the competition. Due to the weather conditions only four of them started and finished the race. Originally this race was not a part of the Olympic competition but was part of the l’Exposition universelle. Later it was incorporated in the Olympic history.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Sailing_at_the_1900_Summer_Olympics_%E2%80%93_20%2B_ton",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-13T09:16:14.700Z",
-      "hash": "14c2d1b1b4f65ec7"
-    },
-    {
-      "id": "wikipedia:9394175",
-      "type": "wiki",
-      "title": "New York University Law Review",
-      "summary": "The New York University Law Review is a bimonthly general law review covering legal scholarship in all areas, including legal theory and policy, environmental law, legal history, and international law. The journal was established in 1924 as a collaborative effort between law students and members of the local bar. Its…",
-      "body": "The New York University Law Review is a bimonthly general law review covering legal scholarship in all areas, including legal theory and policy, environmental law, legal history, and international law. The journal was established in 1924 as a collaborative effort between law students and members of the local bar. Its first editor-in-chief was Paul D. Kaufman. Between 1924 and 1950, it was at times known as the Annual Review of the Law School of New York University and the New York University Law Quarterly Review before obtaining its ongoing name in 1950.",
-      "image": {
-        "src": "data/images/4d7881ee57857e30.png",
-        "alt": "New York University Law Review",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/New_York_University_Law_Review",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-13T09:16:14.510Z",
-      "hash": "a00f85385a883c93"
-    },
-    {
-      "id": "wikipedia:54414378",
-      "type": "wiki",
-      "title": "Loretta Minghella",
-      "summary": "Loretta Caroline Rose Minghella is a British academic administrator and former charity executive. Since 2021, she has served as Master of Clare College, Cambridge, her alma mater. Previously, she was the Chief Executive Officer of Christian Aid, and served as the First Church Estates Commissioner, one of the most…",
-      "body": "Loretta Caroline Rose Minghella is a British academic administrator and former charity executive. Since 2021, she has served as Master of Clare College, Cambridge, her alma mater. Previously, she was the Chief Executive Officer of Christian Aid, and served as the First Church Estates Commissioner, one of the most senior lay people in the Church of England.",
-      "image": {
-        "src": "data/images/24a28a33b789a496.jpg",
-        "alt": "Loretta Minghella",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Loretta_Minghella",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-13T09:16:14.351Z",
-      "hash": "ae3e85b5a55600e1"
-    },
-    {
-      "id": "chess:5qvjq",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1907. Find the best line for black.",
-      "body": "Solution, from → to: d4→e5, h2→f3, f4→f3. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "4rk2/3Qnp1p/6p1/3p4/3b1qP1/PB1p3P/5P1N/1R3RK1 b - - 1 1",
-        "lastMove": "e1f1"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/5qvjq",
-        "trustTier": "community",
-        "date": "Wed, 12 Aug 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "advantage",
-        "quietmove",
-        "short"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-08-12T09:17:03.989Z",
-      "hash": "8b774119a52e7388"
-    },
-    {
-      "id": "game:b47b26922e53bc7a",
-      "type": "game",
-      "title": "'One flag for each laid off dev:' Union workers stage unmissable protest for Xbox boss Asha Sharma",
-      "summary": "It would be difficult to ignore the giant inflatable rat on the lawn.",
-      "body": "It would be difficult to ignore the giant inflatable rat on the lawn.",
-      "image": {
-        "src": "data/images/d20cd94e3aa439c5.png",
-        "alt": "'One flag for each laid off dev:' Union workers stage unmissable protest for Xbox boss Asha Sharma",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/-one-flag-for-each-laid-off-dev-union-members-stage-unmissable-protest-for-xbox-boss-asha-sharma",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Wed, 12 Aug 2026 08:45:1"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:17:03.588Z",
-      "hash": "b47b26922e53bc7a",
-      "expires": "2026-11-10T09:17:03.588Z"
-    },
-    {
-      "id": "game:ba4e15e34db1a9c6",
-      "type": "game",
-      "title": "Three indie horror publishers faced sexual harassment claims – what comes next?",
-      "summary": "'If no one protects indie developers or calls out bad behavior... who is going to save the indies?'",
-      "body": "'If no one protects indie developers or calls out bad behavior... who is going to save the indies?'",
-      "image": {
-        "src": "data/images/0b03373867f91f13.png",
-        "alt": "Three indie horror publishers faced sexual harassment claims – what comes next?",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/production/three-indie-horror-publishers-faced-sexual-harassment-claims-what-comes-next-",
-        "trustTier": "publication",
-        "author": "Bryant Francis",
-        "date": "Tue, 11 Aug 2026 17:35:2"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:17:03.588Z",
-      "hash": "ba4e15e34db1a9c6",
-      "expires": "2026-11-10T09:17:03.588Z"
-    },
-    {
-      "id": "game:f8ca7c5f2d7bd171",
-      "type": "game",
-      "title": "Report: Crossfire dev That's No Moon lays off 14 staff",
-      "summary": "Crossfire was revealed in June of this year with Smilegate and Tencent subsidiary Team K1 acting as publishers.",
-      "body": "Crossfire was revealed in June of this year with Smilegate and Tencent subsidiary Team K1 acting as publishers.",
-      "image": {
-        "src": "data/images/e56c50646ea6ea44.png",
-        "alt": "Report: Crossfire dev That's No Moon lays off 14 staff",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/report-crossfire-dev-that-s-no-moon-lays-off-14-staff",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Tue, 11 Aug 2026 20:30:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:17:03.588Z",
-      "hash": "f8ca7c5f2d7bd171",
-      "expires": "2026-11-10T09:17:03.588Z"
-    },
-    {
-      "id": "trivia:275b24bcd2f227c1",
-      "type": "trivia",
-      "title": "Which ones of these Mario Kart games was made for the Gameboy Advance?",
-      "summary": "Is it: Mario Kart: Double Dash · Super Mario Kart · Mario Kart: Super Circuit · Mario Kart 64?",
-      "body": "Answer: Mario Kart: Super Circuit.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:17:01.420Z",
-      "hash": "275b24bcd2f227c1"
-    },
-    {
-      "id": "trivia:3663cbbc7bc1c9cc",
-      "type": "trivia",
-      "title": "Super Mario Bros. was released in 1990.",
-      "summary": "True — or false?",
-      "body": "Answer: False.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:17:01.420Z",
-      "hash": "3663cbbc7bc1c9cc"
-    },
-    {
-      "id": "trivia:77bdeb24b233fb83",
-      "type": "trivia",
-      "title": "American illustrator and writer Maurice Sendak is most well-known for writing which children's book?",
-      "summary": "Is it: Charlie and the Chocolate Factory · The Cat in the Hat · The Neverending Story · Where The Wild Things Are?",
-      "body": "Answer: Where The Wild Things Are.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "books"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:17:01.420Z",
-      "hash": "77bdeb24b233fb83"
-    },
-    {
-      "id": "trivia:70f1df14ead90eb9",
-      "type": "trivia",
-      "title": "Where did the Great Storm of 1987 make landfall at, first?",
-      "summary": "Is it: Cornwall · The Midlands · Wales · Surrey?",
-      "body": "Answer: Cornwall.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "science & nature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:17:01.420Z",
-      "hash": "70f1df14ead90eb9"
-    },
-    {
-      "id": "passage:gutenberg:98",
-      "type": "passage",
-      "title": "A Tale of Two Cities",
-      "summary": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all…",
-      "body": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only. There were a king with a large jaw and a queen with a plain face, on the throne of…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/98",
-        "trustTier": "publication",
-        "author": "Charles Dickens",
-        "date": "1859"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "history",
-        "revolution"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:17:01.296Z",
-      "hash": "3b688172195fedd3"
-    },
-    {
-      "id": "comic:smbc:22c3b1a634ee0236",
-      "type": "comic",
-      "title": "Brave",
-      "summary": "The only thing more overrated than truth is beauty.",
-      "image": {
-        "src": "data/images/80388a5286c11916.png",
-        "alt": "The only thing more overrated than truth is beauty.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/brave",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Tue, 11 Aug 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-12T09:17:00.310Z",
-      "hash": "22c3b1a634ee0236"
-    },
-    {
-      "id": "comic:xkcd:1605",
-      "type": "comic",
-      "title": "DNA",
-      "summary": "Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.",
-      "body": "White Hat Guy: Biology is largely solved. DNA is the source code for our bodies. Now that gene sequencing is easy, we just have to read it. Person 2: It's not just \"source code\". There's a ton of feedback and external processing. Person 2: But even if it were, DNA is the result of the most aggressive optimization process in the universe, running in parallel at every energy level, in every living thing, for four billion years. White Hat Guy: It's still just code. [[White Hat Guy sits down at a desk with a laptop]] Person 2: Ok, try opening google.com and clicking \"view source\". White Hat Guy: Ok, I- ...oh my god. Person 2: That's just a few years of optimization by Google devs. DNA is…",
-      "image": {
-        "src": "data/images/20b05296273115c0.png",
-        "alt": "Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.",
-        "credit": "xkcd #1605 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1605/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2015-11-18"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-12T09:17:00.227Z",
-      "hash": "3a1e0908448caba3"
-    },
-    {
-      "id": "craft:f5bd8152785cb1cc",
-      "type": "craft",
-      "title": "Discover Millions of Artworks from Thousands of Museums with This Huge Art Search Engine",
-      "summary": "\"We currently have around five million artworks indexed, and strive to eventually index all museum art in the world,\" the creators say.",
-      "body": "\"We currently have around five million artworks indexed, and strive to eventually index all museum art in the world,\" the creators say.",
-      "image": {
-        "src": "data/images/d941683cc6567d12.jpg",
-        "alt": "Discover Millions of Artworks from Thousands of Museums with This Huge Art Search Engine",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/08/the-last-museum-art-search-engine/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Tue, 11 Aug 2026 17:00:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "history",
-        "art history",
-        "digital",
-        "education",
-        "interactive",
-        "museums"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:16:59.772Z",
-      "hash": "f5bd8152785cb1cc"
-    },
-    {
-      "id": "word:1d256e9ad20cece2",
-      "type": "word",
-      "title": "catharsis",
-      "summary": "Noun: A release of emotional tension after an overwhelming vicarious experience, resulting in the purging or purification of the emotions, as through watching a dramatic production (especially a tragedy).",
-      "body": "1. A release of emotional tension after an overwhelming vicarious experience, resulting in the purging or purification of the emotions, as through watching a dramatic production (especially a tragedy).\n2. Any release of emotional tension to the same effect, more widely.\n3. A purification or cleansing, especially emotional.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/catharsis",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:16:59.415Z",
-      "hash": "1d256e9ad20cece2"
-    },
-    {
-      "id": "word:8813890b2475eb1c",
-      "type": "word",
-      "title": "ineffable",
-      "summary": "Adjective: Beyond expression in words; unspeakable. .mw-parser-output .defdate{font-size:smaller}",
-      "body": "1. Beyond expression in words; unspeakable. .mw-parser-output .defdate{font-size:smaller}\n2. Forbidden to be uttered; taboo.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/ineffable",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Adjective"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:16:57.827Z",
-      "hash": "8813890b2475eb1c"
-    },
-    {
-      "id": "quote:3fe12f47f578e235",
-      "type": "quote",
-      "title": "“All you need is the plan, the road map, and the courage to press on to your destination.”",
-      "summary": "— Earl Nightingale",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Earl_Nightingale",
-        "trustTier": "community",
-        "author": "Earl Nightingale"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:16:57.579Z",
-      "hash": "3fe12f47f578e235"
-    },
-    {
-      "id": "quote:233600bf4110232c",
-      "type": "quote",
-      "title": "“A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.”",
-      "summary": "— Alexander Graham Bell",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Alexander_Graham_Bell",
-        "trustTier": "community",
-        "author": "Alexander Graham Bell"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:16:57.579Z",
-      "hash": "233600bf4110232c"
-    },
-    {
-      "id": "quote:bdb6987b412966df",
-      "type": "quote",
-      "title": "“I've always tried to go a step past wherever people expected me to end up.”",
-      "summary": "— Beverly Sills",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Beverly_Sills",
-        "trustTier": "community",
-        "author": "Beverly Sills"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:16:57.579Z",
-      "hash": "bdb6987b412966df"
-    },
-    {
-      "id": "article:b1c2dd23c161e7de",
-      "type": "article",
-      "title": "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”",
-      "summary": "\"Creative fantasy, because it is mainly trying to do something else (make something new), may open your hoard and let all the locked things fly away like cage-birds.\"",
-      "body": "\"Creative fantasy, because it is mainly trying to do something else (make something new), may open your hoard and let all the locked things fly away like cage-birds.\"",
-      "image": {
-        "src": "data/images/acfd677d3e050afe.jpg",
-        "alt": "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/08/11/j-r-r-tolkien-on-fairy-stories/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Tue, 11 Aug 2026 21:18:0"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "psychology",
-        "books",
-        "children's books",
-        "fairy tales",
-        "j. r. r. tolkien"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:16:13.799Z",
-      "hash": "b1c2dd23c161e7de"
-    },
-    {
-      "id": "article:2398c1ae4b0d2d57",
-      "type": "article",
-      "title": "New York Is Not ‘Habibi City’",
-      "summary": "New York City is where people from all over the world come to become Americans. A recent viral ‘New York’ magazine essay about Middle Eastern immigrants gets that exactly backward, writes Liel Leibovitz.",
-      "body": "New York City is where people from all over the world come to become Americans. A recent viral ‘New York’ magazine essay about Middle Eastern immigrants gets that exactly backward, writes Liel Leibovitz.",
-      "image": {
-        "src": "data/images/870bd4bacaaad7a0.jpg",
-        "alt": "New York Is Not ‘Habibi City’",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/new-york-habibi-city",
-        "trustTier": "publication",
-        "author": "Liel Leibovitz",
-        "date": "Tue, 11 Aug 2026 22:43:1"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:16:13.254Z",
-      "hash": "2398c1ae4b0d2d57",
-      "expires": "2026-09-11T09:16:13.254Z"
-    },
-    {
-      "id": "article:159eec8d8ac8b776",
-      "type": "article",
-      "title": "Homer’s ‘Set List’: Imagining a Performance of the Iliad",
-      "summary": "Part 1: Singers in Homer and the Panathenaic Rule This post is a continuation of Painful Signs, a series of posts on the Iliad. The full list of posts is here. New posts will be added on various books, with an emphasis on new projects and highlighting scholarship in general. This post is part one…",
-      "body": "Part 1: Singers in Homer and the Panathenaic Rule This post is a continuation of Painful Signs, a series of posts on the Iliad. The full list of posts is here. New posts will be added on various books, with an emphasis on new projects and highlighting scholarship in general. This post is part one of three looking … Continue reading Homer’s ‘Set List’: Imagining a Performance of the Iliad",
-      "image": {
-        "src": "data/images/1841f0f073d2fd42.jpg",
-        "alt": "Homer’s ‘Set List’: Imagining a Performance of the Iliad",
-        "credit": "Sententiae Antiquae"
-      },
-      "source": {
-        "name": "Sententiae Antiquae",
-        "url": "https://sententiaeantiquae.com/2026/08/07/homers-set-list-imagining-a-performance-of-the-iliad/",
-        "trustTier": "community",
-        "author": "Joel",
-        "date": "Fri, 07 Aug 2026 12:48:5"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity",
-        "homeric performance",
-        "painful signs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:16:12.930Z",
-      "hash": "159eec8d8ac8b776"
-    },
-    {
-      "id": "article:2b5cca4222dcbf4a",
-      "type": "article",
-      "title": "Cattedrale di San Nicolò in Noto, Italy",
-      "summary": "The Late Baroque towns of the Val di Noto are a UNESCO World heritage site made up of eight towns in southeastern Sicily. Rebuilt in a style unique to the island after the devastating earthquake of 1693, an estimated 7.4 on the magnitude scale, causing around 60,000 casualties. Many towns in…",
-      "body": "The Late Baroque towns of the Val di Noto are a UNESCO World heritage site made up of eight towns in southeastern Sicily. Rebuilt in a style unique to the island after the devastating earthquake of 1693, an estimated 7.4 on the magnitude scale, causing around 60,000 casualties. Many towns in southeastern Sicily were completely razed, including the medieval town of Noto, with half of its residents killed by the earthquake. Upon rebuilding Noto, the decision was made to relocate it closer to the Ionian coast, about 10km south of the destroyed former settlement. New Noto was built on flatter…",
-      "image": {
-        "src": "data/images/dc399352d7fcfa45.jpg",
-        "alt": "Cattedrale di San Nicolò in Noto, Italy",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/cattedrale-di-san-nicolo",
-        "trustTier": "publication",
-        "date": "Tue, 11 Aug 2026 16:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "churches",
-        "cathedral"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:16:12.824Z",
-      "hash": "2b5cca4222dcbf4a"
-    },
-    {
-      "id": "article:93f3a53082f0216c",
-      "type": "article",
-      "title": "Psychiatry and anti-psychiatry have quietly borrowed each other's language for decades, each remaking itself in the image of the other",
-      "summary": "Psychiatry and anti-psychiatry have quietly borrowed each other's language for decades, each remaking itself in the image of the other",
-      "body": "Psychiatry and anti-psychiatry have quietly borrowed each other's language for decades, each remaking itself in the image of the other",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://thelampmagazine.com/issues/issue-36/over-the-borderline",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:16:12.683Z",
-      "hash": "93f3a53082f0216c"
-    },
-    {
-      "id": "article:9839791c65c29a30",
-      "type": "article",
-      "title": "What makes people happy?",
-      "summary": "Measuring politically sensitive attitudes in authoritarian settings is difficult because expressions of political support may reflect repression and social pressure as much as genuine belief. We propose a complementary approach: using responses to questions that are not themselves politically…",
-      "body": "Measuring politically sensitive attitudes in authoritarian settings is difficult because expressions of political support may reflect repression and social pressure as much as genuine belief. We propose a complementary approach: using responses to questions that are not themselves politically sensitive to provide indirect evidence about politically sensitive attitudes. Using subjective well-being (SWB), we ask whether […] The post What makes people happy? appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/08/what-makes-people-happy.html?utm_source=rss&utm_medium=rss&utm_campaign=what-makes-people-happy",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Wed, 12 Aug 2026 06:51:3"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "data source",
-        "history",
-        "political science"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:16:11.529Z",
-      "hash": "9839791c65c29a30"
-    },
-    {
-      "id": "article:266de726c5aa4f28",
-      "type": "article",
-      "title": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
-      "summary": "Photographs from when Atlantic City beaches featured artists ornately sculpting sand.",
-      "body": "Photographs from when Atlantic City beaches featured artists ornately sculpting sand.",
-      "image": {
-        "src": "data/images/67dbd93da23a3d93.jpg",
-        "alt": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture",
-        "trustTier": "publication",
-        "date": "Wed, 29 Jul 2026 13:07:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:16:11.418Z",
-      "hash": "266de726c5aa4f28"
-    },
-    {
-      "id": "greek:0ae85978994e704d",
-      "type": "greek",
-      "title": "οὐρανός",
-      "summary": "οὐρανός — “heaven” · noun",
-      "body": "Note: ὁ οὐρανός; often plural οἱ οὐρανοί\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%BF%E1%BD%90%CF%81%CE%B1%CE%BD%CF%8C%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:16:10.562Z",
-      "hash": "0ae85978994e704d"
-    },
-    {
-      "id": "poetry:b9012a3c42eff458",
-      "type": "poem",
-      "title": "Hyperion",
-      "summary": "BOOK I\n     Deep in the shady sadness of a vale\nFar sunken from the healthy breath of morn,\nFar from the fiery noon, and eve's one star,",
-      "body": "BOOK I\n\n     Deep in the shady sadness of a vale\nFar sunken from the healthy breath of morn,\nFar from the fiery noon, and eve's one star,\nSat gray-hair'd Saturn, quiet as a stone,\nStill as the silence round about his lair;\nForest on forest hung above his head\nLike cloud on cloud. No stir of air was there,\nNot so much life as on a summer's day\nRobs not one light seed from the feather'd grass,\nBut where the dead leaf fell, there did it rest.\nA stream went voiceless by, still deadened more\nBy reason of his fallen divinity\nSpreading a shade: the Naiad 'mid her reeds\nPress'd her cold finger closer to her lips.\n\n     Along the margin-sand large foot-marks went,\nNo further than to where his feet had stray'd,\nAnd slept there since.  Upon the sodden ground\nHis old right hand lay nerveless, listless, dead,\nUnsceptred; and his realmless eyes were closed;\nWhile his bow'd head seem'd list'ning to the Earth,\nHis ancient mother, for some comfort yet.\n\n     It seem'd no force could wake him from his place;\nBut there came one, who with a kindred hand\nTouch'd his wide shoulders, after bending low\nWith reverence, though to one who knew it not.\nShe was a Goddess of the infant world;\nBy her in stature the tall Amazon\nHad stood a pigmy's height: she would have ta'en\nAchilles by the hair and bent his neck;\nOr with a finger stay'd Ixion's wheel.\nHer face was large as that of Memphian sphinx,\nPedestal'd haply in a palace court,\nWhen sages look'd to Egypt for their lore.\nBut oh! how unlike marble was that face:\nHow beautiful, if sorrow had not made\nSorrow more beautiful than Beauty's self.\nThere was a listening fear in her regard,\nAs if calamity had but begun;\nAs if the vanward clouds of evil days\nHad spent their malice, and the sullen rear\nWas with its stored thunder labouring up.\nOne hand she press'd upon that aching spot\nWhere beats the human heart, as if just there,\nThough an immortal, she felt cruel pain:\nThe other upon Saturn's bended neck\nShe laid, and to the level of his ear\nLeaning with parted lips, some words she spake\nIn solemn tenor and deep organ tone:\nSome mourning words, which in our feeble tongue\nWould come in these like accents; O how frail\nTo that large utterance of the early Gods!\n\"Saturn, look up!---though wherefore, poor old King?\nI have no comfort for thee, no not one:\nI cannot say, 'O wherefore sleepest thou?'\nFor heaven is parted from thee, and the earth\nKnows thee not, thus afflicted, for a God;\nAnd ocean too, with all its solemn noise,\nHas from thy sceptre pass'd; and all the air\nIs emptied of thine hoary majesty.\nThy thunder, conscious of the new command,\nRumbles reluctant o'er our fallen house;\nAnd thy sharp lightning in unpractised hands\nScorches and burns our once serene domain.\nO aching time! O moments big as years!\nAll as ye pass swell out the monstrous truth,\nAnd press it so upon our weary griefs\nThat unbelief has not a space to breathe.\nSaturn, sleep on:---O thoughtless, why did I\nThus violate thy slumbrous solitude?\nWhy should I ope thy melancholy eyes?\nSaturn, sleep on! while at thy feet I weep.\"\n\n     As when, upon a tranced summer-night,\nThose green-rob'd senators of mighty woods,\nTall oaks, branch-charmed by the earnest stars,\nDream, and so dream all night without a stir,\nSave from one gradual solitary gust\nWhich comes upon the silence, and dies off,\nAs if the ebbing air had but one wave;\nSo came these words and went; the while in tears\nShe touch'd her fair large forehead to the ground,\nJust where her fallen hair might be outspread\nA soft and silken mat for Saturn's feet.\nOne moon, with alteration slow, had shed\nHer silver seasons four upon the night,\nAnd still these two were postured motionless,\nLike natural sculpture in cathedral cavern;\nThe frozen God still couchant on the earth,\nAnd the sad Goddess weeping at his feet:\nUntil at length old Saturn lifted up\nHis faded eyes, and saw his kingdom gone,\nAnd all the gloom and sorrow ofthe place,\nAnd that fair kneeling Goddess; and then spake,\nAs with a palsied tongue, and while his beard\nShook horrid with such aspen-malady:\n\"O tender spouse of gold Hyperion,\nThea, I feel thee ere I see thy face;\nLook up, and let me see our doom in it;\nLook up, and tell me if this feeble shape\nIs Saturn's; tell me, if thou hear'st the voice\nOf Saturn; tell me, if this wrinkling brow,\nNaked and bare of its great diadem,\nPeers like the front of Saturn? Who had power\nTo make me desolate? Whence came the strength?\nHow was it nurtur'd to such bursting forth,\nWhile Fate seem'd strangled in my nervous grasp?\nBut it is so; and I am smother'd up,\nAnd buried from all godlike exercise\nOf influence benign on planets pale,\nOf admonitions to the winds and seas,\nOf peaceful sway above man's harvesting,\nAnd all those acts which Deity supreme\nDoth ease its heart of love in.---I am gone\nAway from my own bosom: I have left\nMy strong identity, my real self,\nSomewhere between the throne, and where I sit\nHere on this spot of earth. Search, Thea, search!\nOpen thine eyes eterne, and sphere them round\nUpon all space: space starr'd, and lorn of light;\nSpace region'd with life-air; and barren void;\nSpaces of fire, and all the yawn of hell.---\nSearch, Thea, search! and tell me, if thou seest\nA certain shape or shadow, making way\nWith wings or chariot fierce to repossess\nA heaven he lost erewhile: it must---it must\nBe of ripe progress---Saturn must be King.\nYes, there must be a golden victory;\nThere must be Gods thrown down, and trumpets blown\nOf triumph calm, and hymns of festival\nUpon the gold clouds metropolitan,\nVoices of soft proclaim, and silver stir\nOf strings in hollow shells; and there shall be\nBeautiful things made new, for the surprise\nOf the sky-children; I will give command:\nThea! Thea! Thea! where is Saturn?\"\nThis passion lifted him upon his feet,\nAnd made his hands to struggle in the air,\nHis Druid locks to shake and ooze with sweat,\nHis eyes to fever out, his voice to cease.\nHe stood, and heard not Thea's sobbing deep;\nA little time, and then again he snatch'd\nUtterance thus.---\"But cannot I create?\nCannot I form? Cannot I fashion forth\nAnother world, another universe,\nTo overbear and crumble this to nought?\nWhere is another Chaos? Where?\"---That word\nFound way unto Olympus, and made quake\nThe rebel three.---Thea was startled up,\nAnd in her bearing was a sort of hope,\nAs thus she quick-voic'd spake, yet full of awe.\n\n     \"This cheers our fallen house: come to our friends,\nO Saturn! come away, and give them heart;\nI know the covert, for thence came I hither.\"\nThus brief; then with beseeching eyes she went\nWith backward footing through the shade a space:\nHe follow'd, and she turn'd to lead the way\nThrough aged boughs, that yielded like the mist\nWhich eagles cleave upmounting from their nest.\n\n     Meanwhile in other realms big tears were shed,\nMore sorrow like to this, and such like woe,\nToo huge for mortal tongue or pen of scribe:\nThe Titans fierce, self-hid, or prison-bound,\nGroan'd for the old allegiance once more,\nAnd listen'd in sharp pain for Saturn's voice.\nBut one of the whole mammoth-brood still kept\nHis sov'reigny, and rule, and majesy;---\nBlazing Hyperion on his orbed fire\nStill sat, still snuff'd the incense, teeming up\nFrom man to the sun's God: yet unsecure:\nFor as among us mortals omens drear\nFright and perplex, so also shuddered he---\nNot at dog's howl, or gloom-bird's hated screech,\nOr the familiar visiting of one\nUpon the first toll of his passing-bell,\nOr prophesyings of the midnight lamp;\nBut horrors, portion'd to a giant nerve,\nOft made Hyperion ache.  His palace bright,\nBastion'd with pyramids of glowing gold,\nAnd touch'd with shade of bronzed obelisks,\nGlar'd a blood-red through all its thousand courts,\nArches, and domes, and fiery galleries;\nAnd all its curtains of Aurorian clouds\nFlush'd angerly: while sometimes eagles' wings,\nUnseen before by Gods or wondering men,\nDarken'd the place; and neighing steeds were heard\nNot heard before by Gods or wondering men.\nAlso, when he would taste the spicy wreaths\nOf incense, breath'd aloft from sacred hills,\nInstead of sweets, his ample palate took\nSavor of poisonous brass and metal sick:\nAnd so, when harbor'd in the sleepy west,\nAfter the full completion of fair day,---\nFor rest divine upon exalted couch,\nAnd slumber in the arms of melody,\nHe pac'd away the pleasant hours of ease\nWith stride colossal, on from hall to hall;\nWhile far within each aisle and deep recess,\nHis winged minions in close clusters stood,\nAmaz'd and full offear; like anxious men\nWho on wide plains gather in panting troops,\nWhen earthquakes jar their battlements and towers.\nEven now, while Saturn, rous'd from icy trance,\nWent step for step with Thea through the woods,\nHyperion, leaving twilight in the rear,\nCame slope upon the threshold of the west;\nThen, as was wont, his palace-door flew ope\nIn smoothest silence, save what solemn tubes,\nBlown by the serious Zephyrs, gave of sweet\nAnd wandering sounds, slow-breathed melodies;\nAnd like a rose in vermeil tint and shape,\nIn fragrance soft, and coolness to the eye,\nThat inlet to severe magnificence\nStood full blown, for the God to enter in.\n\n     He enter'd, but he enter'd full of wrath;\nHis flaming robes stream'd out beyond his heels,\nAnd gave a roar, as if of earthly fire,\nThat scar'd away the meek ethereal Hours\nAnd made their dove-wings tremble. On he flared\nFrom stately nave to nave, from vault to vault,\nThrough bowers of fragrant and enwreathed light,\nAnd diamond-paved lustrous long arcades,\nUntil he reach'd the great main cupola;\nThere standing fierce beneath, he stampt his foot,\nAnd from the basements deep to the high towers\nJarr'd his own golden region; and before\nThe quavering thunder thereupon had ceas'd,\nHis voice leapt out, despite of godlike curb,\nTo this result: \"O dreams of day and night!\nO monstrous forms! O effigies of pain!\nO spectres busy in a cold, cold gloom!\nO lank-eared phantoms of black-weeded pools!\nWhy do I know ye? why have I seen ye? why\nIs my eternal essence thus distraught\nTo see and to behold these horrors new?\nSaturn is fallen, am I too to fall?\nAm I to leave this haven of my rest,\nThis cradle of my glory, this soft clime,\nThis calm luxuriance of blissful light,\nThese crystalline pavilions, and pure fanes,\nOf all my lucent empire?  It is left\nDeserted, void, nor any haunt of mine.\nThe blaze, the splendor, and the symmetry,\nI cannot see but darkness, death, and darkness.\nEven here, into my centre of repose,\nThe shady visions come to domineer,\nInsult, and blind, and stifle up my pomp.---\nFall!---No, by Tellus and her briny robes!\nOver the fiery frontier of my realms\nI will advance a terrible right arm\nShall scare that infant thunderer, rebel Jove,\nAnd bid old Saturn take his throne again.\"---\nHe spake, and ceas'd, the while a heavier threat\nHeld struggle with his throat but came not forth;\nFor as in theatres of crowded men\nHubbub increases more they call out \"Hush!\"\nSo at Hyperion's words the phantoms pale\nBestirr'd themselves, thrice horrible and cold;\nAnd from the mirror'd level where he stood\nA mist arose, as from a scummy marsh.\nAt this, through all his bulk an agony\nCrept gradual, from the feet unto the crown,\nLike a lithe serpent vast and muscular\nMaking slow way, with head and neck convuls'd\nFrom over-strained might.  Releas'd, he fled\nTo the eastern gates, and full six dewy hours\nBefore the dawn in season due should blush,\nHe breath'd fierce breath against the sleepy portals,\nClear'd them of heavy vapours, burst them wide\nSuddenly on the ocean's chilly streams.\nThe planet orb of fire, whereon he rode\nEach day from east to west the heavens through,\nSpun round in sable curtaining of clouds;\nNot therefore veiled quite, blindfold, and hid,\nBut ever and anon the glancing spheres,\nCircles, and arcs, and broad-belting colure,\nGlow'd through, and wrought upon the muffling dark\nSweet-shaped lightnings from the nadir deep\nUp to the zenith,---hieroglyphics old,\nWhich sages and keen-eyed astrologers\nThen living on the earth, with laboring thought\nWon from the gaze of many centuries:\nNow lost, save what we find on remnants huge\nOf stone, or rnarble swart; their import gone,\nTheir wisdom long since fled.---Two wings this orb\nPossess'd for glory, two fair argent wings,\nEver exalted at the God's approach:\nAnd now, from forth the gloom their plumes immense\nRose, one by one, till all outspreaded were;\nWhile still the dazzling globe maintain'd eclipse,\nAwaiting for Hyperion's command.\nFain would he have commanded, fain took throne\nAnd bid the day begin, if but for change.\nHe might not:---No, though a primeval God:\nThe sacred seasons might not be disturb'd.\nTherefore the operations of the dawn\nStay'd in their birth, even as here 'tis told.\nThose silver wings expanded sisterly,\nEager to sail their orb; the porches wide\nOpen'd upon the dusk demesnes of night\nAnd the bright Titan, phrenzied with new woes,\nUnus'd to bend, by hard compulsion bent\nHis spirit to the sorrow of the time;\nAnd all along a dismal rack of clouds,\nUpon the boundaries of day and night,\nHe stretch'd himself in grief and radiance faint.\nThere as he lay, the Heaven with its stars\nLook'd down on him with pity, and the voice\nOf Coelus, from the universal space,\nThus whisper'd low and solemn in his ear:\n\"O brightest of my children dear, earth-born\nAnd sky-engendered, son of mysteries\nAll unrevealed even to the powers\nWhich met at thy creating; at whose joys\nAnd palpitations sweet, and pleasures soft,\nI, Coelus, wonder, how they came and whence;\nAnd at the fruits thereof what shapes they be,\nDistinct, and visible; symbols divine,\nManifestations of that beauteous life\nDiffus'd unseen throughout eternal space:\nOf these new-form'd art thou, O brightest child!\nOf these, thy brethren and the Goddesses!\nThere is sad feud among ye, and rebellion\nOf son against his sire.  I saw him fall,\nI saw my first-born tumbled from his throne!\nTo me his arms were spread, to me his voice\nFound way from forth the thunders round his head!\nPale wox I, and in vapours hid my face.\nArt thou, too, near such doom? vague fear there is:\nFor I have seen my sons most unlike Gods.\nDivine ye were created, and divine\nIn sad demeanour, solemn, undisturb'd,\nUnruffled, like high Gods, ye liv'd and ruled:\nNow I behold in you fear, hope, and wrath;\nActions of rage and passion; even as\nI see them, on the mortal world beneath,\nIn men who die.---This is the grief, O son!\nSad sign of ruin, sudden dismay, and fall!\nYet do thou strive; as thou art capable,\nAs thou canst move about, an evident God;\nAnd canst oppose to each malignant hour\nEthereal presence:---I am but a voice;\nMy life is but the life of winds and tides,\nNo more than winds and tides can I avail:---\nBut thou canst.---Be thou therefore in the van\nOf circumstance; yea, seize the arrow's barb\nBefore the tense string murmur.---To the earth!\nFor there thou wilt find Saturn, and his woes.\nMeantime I will keep watch on thy bright sun,\nAnd of thy seasons be a careful nurse.\"---\nEre half this region-whisper had come down,\nHyperion arose, and on the stars\nLifted his curved lids, and kept them wide\nUntil it ceas'd; and still he kept them wide:\nAnd still they were the same bright, patient stars.\nThen with a slow incline of his broad breast,\nLike to a diver in the pearly seas,\nForward he stoop'd over the airy shore,\nAnd plung'd all noiseless into the deep night.\n\n\nBOOK II\n\nJust at the self-same beat of Time's wide wings\nHyperion slid into the rustled air,\nAnd Saturn gain'd with Thea that sad place\nWhere Cybele and the bruised Titans mourn'd.\nIt was a den where no insulting light\nCould glimmer on their tears; where their own groans\nThey felt, but heard not, for the solid roar\nOf thunderous waterfalls and torrents hoarse,\nPouring a constant bulk, uncertain where.\nCrag jutting forth to crag, and rocks that seem'd\nEver as if just rising from a sleep,\nForehead to forehead held their monstrous horns;\nAnd thus in thousand hugest phantasies\nMade a fit roofing to this nest of woe.\nInstead of thrones, hard flint they sat upon,\nCouches of rugged stone, and slaty ridge\nStubborn'd with iron.  All were not assembled:\nSome chain'd in torture, and some wandering.\nCaus, and Gyges, and Briareus,\nTyphon, and Dolor, and Porphyrion,\nWith many more, the brawniest in assault,\nWere pent in regions of laborious breath;\nDungeon'd in opaque element, to keep\nTheir clenched teeth still clench'd, and all their limbs\nLock'd up like veins of metal, crampt and screw'd;\nWithout a motion, save of their big hearts\nHeaving in pain, and horribly convuls'd\nWith sanguine feverous boiling gurge of pulse.\nMnemosyne was straying in the world;\nFar from her moon had Phoebe wandered;\nAnd many else were free to roam abroad,\nBut for the main, here found they covert drear.\nScarce images of life, one here, one there,\nLay vast and edgeways; like a dismal cirque\nOf Druid stones, upon a forlorn moor,\nWhen the chill rain begins at shut of eve,\nIn dull November, and their chancel vault,\nThe Heaven itself, is blinded throughout night.\nEach one kept shroud, nor to his neighbour gave\nOr word, or look, or action of despair.\nCreus was one; his ponderous iron mace\nLay by him, and a shatter'd rib of rock\nTold of his rage, ere he thus sank and pined.\nIapetus another; in his grasp,\nA serpent's plashy neck; its barbed tongue\nSqueez'd from the gorge, and all its uncurl'd length\nDead: and because the creature could not spit\nIts poison in the eyes of conquering Jove.\nNext Cottus: prone he lay, chin uppermost,\nAs though in pain; for still upon the flint\nHe ground severe his skull, with open mouth\nAnd eyes at horrid working.  Nearest him\nAsia, born of most enormous Caf,\nWho cost her mother Tellus keener pangs,\nThough feminine, than any of her sons:\nMore thought than woe was in her dusky face,\nFor she was prophesying of her glory;\nAnd in her wide imagination stood\nPalm-shaded temples, and high rival fanes\nBy Oxus or in Ganges' sacred isles.\nEven as Hope upon her anchor leans,\nSo leant she, not so fair, upon a tusk\nShed from the broadest of her elephants.\nAbove her, on a crag's uneasy shelve,\nUpon his elbow rais'd, all prostrate else,\nShadow'd Enceladus; once tame and mild\nAs grazing ox unworried in the meads;\nNow tiger-passion'd, lion-thoughted, wroth,\nHe meditated, plotted, and even now\nWas hurling mountains in that second war,\nNot long delay'd, that scar'd the younger Gods\nTo hide themselves in forms of beast and bird.\nNot far hence Atlas; and beside him prone\nPhorcus, the sire of Gorgons.  Neighbour'd close\nOceanus, and Tethys, in whose lap\nSobb'd Clymene among her tangled hair.\nIn midst of all lay Themis, at the feet\nOf Ops the queen; all clouded round from sight,\nNo shape distinguishable, more than when\nThick night confounds the pine-tops with the clouds:\nAnd many else whose names may not be told.\nFor when the Muse's wings are air-ward spread,\nWho shall delay her flight? And she must chaunt\nOf Saturn, and his guide, who now had climb'd\nWith damp and slippery footing from a depth\nMore horrid still. Above a sombre cliff\nTheir heads appear'd, and up their stature grew\nTill on the level height their steps found ease:\nThen Thea spread abroad her trembling arms\nUpon the precincts of this nest of pain,\nAnd sidelong fix'd her eye on Saturn's face:\nThere saw she direst strife; the supreme God\nAt war with all the frailty of grief,\nOf rage, of fear, anxiety, revenge,\nRemorse, spleen, hope, but most of all despair.\nAgainst these plagues he strove in vain; for Fate\nHad pour'd a mortal oil upon his head,\nA disanointing poison: so that Thea,\nAffrighted, kept her still, and let him pass\nFirst onwards in, among the fallen tribe.\n\n     As with us mortal men, the laden heart\nIs persecuted more, and fever'd more,\nWhen it is nighing to the mournful house\nWhere other hearts are sick of the same bruise;\nSo Saturn, as he walk'd into the midst,\nFelt faint, and would have sunk among the rest,\nBut that he met Enceladus's eye,\nWhose mightiness, and awe of him, at once\nCame like an inspiration; and he shouted,\n\"Titans, behold your God!\" at which some groan'd;\nSome started on their feet; some also shouted;\nSome wept, some wail'd, all bow'd with reverence;\nAnd Ops, uplifting her black folded veil,\nShow'd her pale cheeks, and all her forehead wan,\nHer eye-brows thin and jet, and hollow eyes.\nThere is a roaring in the bleak-grown pines\nWhen Winter lifts his voice; there is a noise\nAmong immortals when a God gives sign,\nWith hushing finger, how he means to load\nHis tongue with the filll weight of utterless thought,\nWith thunder, and with music, and with pomp:\nSuch noise is like the roar of bleak-grown pines;\nWhich, when it ceases in this mountain'd world,\nNo other sound succeeds; but ceasing here,\nAmong these fallen, Saturn's voice therefrom\nGrew up like organ, that begins anew\nIts strain, when other harmonies, stopt short,\nLeave the dinn'd air vibrating silverly.\nThus grew it up---\"Not in my own sad breast,\nWhich is its own great judge and searcher out,\nCan I find reason why ye should be thus:\nNot in the legends of the first of days,\nStudied from that old spirit-leaved book\nWhich starry Uranus with finger bright\nSav'd from the shores of darkness, when the waves\nLow-ebb'd still hid it up in shallow gloom;---\nAnd the which book ye know I ever kept\nFor my firm-based footstool:---Ah, infirm!\nNot there, nor in sign, symbol, or portent\nOf element, earth, water, air, and fire,---\nAt war, at peace, or inter-quarreling\nOne against one, or two, or three, or all\nEach several one against the other three,\nAs fire with air loud warring when rain-floods\nDrown both, and press them both against earth's face,\nWhere, finding sulphur, a quadruple wrath\nUnhinges the poor world;---not in that strife,\nWherefrom I take strange lore, and read it deep,\nCan I find reason why ye should be thus:\nNo, nowhere can unriddle, though I search,\nAnd pore on Nature's universal scroll\nEven to swooning, why ye, Divinities,\nThe first-born of all shap'd and palpable Gods,\nShould cower beneath what, in comparison,\nIs untremendous might. Yet ye are here,\nO'erwhelm'd, and spurn'd, and batter'd, ye are here!\nO Titans, shall I say 'Arise!'---Ye groan:\nShall I say 'Crouch!'---Ye groan. What can I then?\nO Heaven wide! O unseen parent dear!\nWhat can I? Tell me, all ye brethren Gods,\nHow we can war, how engine our great wrath!\nO speak your counsel now, for Saturn's ear\nIs all a-hunger'd. Thou, Oceanus,\nPonderest high and deep; and in thy face\nI see, astonied, that severe content\nWhich comes of thought and musing: give us help!\"\n\n     So ended Saturn; and the God of the sea,\nSophist and sage, from no Athenian grove,\nBut cogitation in his watery shades,\nArose, with locks not oozy, and began,\nIn murmurs, which his first-endeavouring tongue\nCaught infant-like from the far-foamed sands.\n\"O ye, whom wrath consumes!  who, passion-stung,\nWrithe at defeat, and nurse your agonies!\nShut up your senses, stifle up your ears,\nMy voice is not a bellows unto ire.\nYet listen, ye who will, whilst I bring proof\nHow ye, perforce, must be content to stoop:\nAnd in the proof much comfort will I give,\nIf ye will take that comfort in its truth.\nWe fall by course of Nature's law, not force\nOf thunder, or of Jove. Great Saturn, thou\nHast sifted well the atom-universe;\nBut for this reason, that thou art the King,\nAnd only blind from sheer supremacy,\nOne avenue was shaded from thine eyes,\nThrough which I wandered to eternal truth.\nAnd first, as thou wast not the first of powers,\nSo art thou not the last; it cannot be:\nThou art not the beginning nor the end.\nFrom Chaos and parental Darkness came\nLight, the first fruits of that intestine broil,\nThat sullen ferment, which for wondrous ends\nWas ripening in itself.  The ripe hour came,\nAnd with it Light, and Light, engendering\nUpon its own producer, forthwith touch'd\nThe whole enormous matter into life.\nUpon that very hour, our parentage,\nThe Heavens and the Earth, were manifest:\nThen thou first born, and we the giant race,\nFound ourselves ruling new and beauteous realms.\nNow comes the pain of truth, to whom 'tis pain;\nO folly! for to bear all naked truths,\nAnd to envisage circumstance, all calm,\nThat is the top of sovereignty.  Mark well!\nAs Heaven and Earth are fairer, fairer far\nThan Chaos and blank Darkness, though once chiefs;\nAnd as we show beyond that Heaven and Earth\nIn form and shape compact and beautiful,\nIn will, in action free, companionship,\nAnd thousand other signs of purer life;\nSo on our heels a fresh perfection treads,\nA power more strong in beauty, born of us\nAnd fated to excel us, as we pass\nIn glory that old Darkness: nor are we\nThereby more conquer'd, than by us the rule\nOf shapeless Chaos. Say, doth the dull soil\nQuarrel with the proud forests it hath fed,\nAnd feedeth still, more comely than itself?\nCan it deny the chiefdom of green groves?\nOr shall the tree be envious of the dove\nBecause it cooeth, and hath snowy wings\nTo wander wherewithal and find its joys?\nWe are such forest-trees, and our fair boughs\nHave bred forth, not pale solitary doves,\nBut eagles golden-feather'd, who do tower\nAbove us in their beauty, and must reign\nIn right thereof; for 'tis the eternal law\nThat first in beauty should be first in might:\nYea, by that law, another race may drive\nOur conquerors to mourn as we do now.\nHave ye beheld the young God of the seas,\nMy dispossessor? Have ye seen his face?\nHave ye beheld his chariot, foam'd along\nBy noble winged creatures he hath made?\nI saw him on the calmed waters scud,\nWith such a glow of beauty in his eyes,\nThat it enforc'd me to bid sad farewell\nTo all my empire: farewell sad I took,\nAnd hither came, to see how dolorous fate\nHad wrought upon ye; and how I might best\nGive consolation in this woe extreme.\nReceive the truth, and let it be your balm.\"\n\n     Whether through pos'd conviction, or disdain,\nThey guarded silence, when Oceanus\nLeft murmuring, what deepest thought can tell?\nBut so it was, none answer'd for a space,\nSave one whom none regarded, Clymene;\nAnd yet she answer'd not, only complain'd,\nWith hectic lips, and eyes up-looking mild,\nThus wording timidly among the fierce:\n\"O Father! I am here the simplest voice,\nAnd all my knowledge is that joy is gone,\nAnd this thing woe crept in among our hearts,\nThere to remain for ever, as I fear:\nI would not bode of evil, if I thought\nSo weak a creature could turn off the help\nWhich by just right should come of mighty Gods;\nYet let me tell my sorrow, let me tell\nOf what I heard, and how it made me weep,\nAnd know that we had parted from all hope.\nI stood upon a shore, a pleasant shore,\nWhere a sweet clime was breathed from a land\nOf fragrance, quietness, and trees, and flowers.\nFull of calm joy it was, as I of grief;\nToo full of joy and soft delicious warmth;\nSo that I felt a movement in my heart\nTo chide, and to reproach that solitude\nWith songs of misery, music of our woes;\nAnd sat me down, and took a mouthed shell\nAnd murmur'd into it, and made melody---\nO melody no more! for while I sang,\nAnd with poor skill let pass into the breeze\nThe dull shell's echo, from a bowery strand\nJust opposite, an island of the sea,\nThere came enchantment with the shifting wind,\nThat did both drown and keep alive my ears.\nI threw my shell away upon the sand,\nAnd a wave fill'd it, as my sense was fill'd\nWith that new blissful golden melody.\nA living death was in each gush of sounds,\nEach family of rapturous hurried notes,\nThat fell, one after one, yet all at once,\nLike pearl beads dropping sudden from their string:\nAnd then another, then another strain,\nEach like a dove leaving its olive perch,\nWith music wing'd instead of silent plumes,\nTo hover round my head, and make me sick\nOf joy and grief at once.  Grief overcame,\nAnd I was stopping up my frantic ears,\nWhen, past all hindrance of my trembling hands,\nA voice came sweeter, sweeter than all tune,\nAnd still it cried, 'Apollo! young Apollo!\nThe morning-bright Apollo! young Apollo!'\nI fled, it follow'd me, and cried 'Apollo!'\nO Father, and O Brethren, had ye felt\nThose pains of mine; O Saturn, hadst thou felt,\nYe would not call this too indulged tongue\nPresumptuous, in thus venturing to be heard.\"\n\n     So far her voice flow'd on, like timorous brook\nThat, lingering along a pebbled coast,\nDoth fear to meet the sea: but sea it met,\nAnd shudder'd; for the overwhelming voice\nOf huge Enceladus swallow'd it in wrath:\nThe ponderous syllables, like sullen waves\nIn the half-glutted hollows of reef-rocks,\nCame booming thus, while still upon his arm\nHe lean'd; not rising, from supreme contempt.\n\"Or shall we listen to the over-wise,\nOr to the over-foolish, Giant-Gods?\nNot thunderbolt on thunderbolt, till all\nThat rebel Jove's whole armoury were spent,\nNot world on world upon these shoulders piled,\nCould agonize me more than baby-words\nIn midst of this dethronement horrible.\nSpeak! roar! shout! yell! ye sleepy Titans all.\nDo ye forget the blows, the buffets vile?\nAre ye not smitten by a youngling arm?\nDost thou forget, sham Monarch of the waves,\nThy scalding in the seas?  What! have I rous'd\nYour spleens with so few simple words as these?\nO joy! for now I see ye are not lost:\nO joy! for now I see a thousand eyes\nWide-glaring for revenge!\"---As this he said,\nHe lifted up his stature vast, and stood,\nStill without intermission speaking thus:\n\"Now ye are flames, I'll tell you how to burn,\nAnd purge the ether of our enemies;\nHow to feed fierce the crooked stings of fire,\nAnd singe away the swollen clouds of Jove,\nStifling that puny essence in its tent.\nO let him feel the evil he hath done;\nFor though I scorn Oceanus's lore,\nMuch pain have I for more than loss of realms:\nThe days of peace and slumbrous calm are fled;\nThose days, all innocent of scathing war,\nWhen all the fair Existences of heaven\nCarne open-eyed to guess what we would speak:---\nThat was before our brows were taught to frown,\nBefore our lips knew else but solemn sounds;\nThat was before we knew the winged thing,\nVictory, might be lost, or might be won.\nAnd be ye mindful that Hyperion,\nOur brightest brother, still is undisgraced---\nHyperion, lo! his radiance is here!\"\n\n     All eyes were on Enceladus's face,\nAnd they beheld, while still Hyperion's name\nFlew from his lips up to the vaulted rocks,\nA pallid gleam across his features stern:\nNot savage, for he saw full many a God\nWroth as himself.  He look'd upon them all,\nAnd in each face he saw a gleam of light,\nBut splendider in Saturn's, whose hoar locks\nShone like the bubbling foam about a keel\nWhen the prow sweeps into a midnight cove.\nIn pale and silver silence they remain'd,\nTill suddenly a splendor, like the morn,\nPervaded all the beetling gloomy steeps,\nAll the sad spaces of oblivion,\nAnd every gulf, and every chasm old,\nAnd every height, and every sullen depth,\nVoiceless, or hoarse with loud tormented streams:\nAnd all the everlasting cataracts,\nAnd all the headlong torrents far and near,\nMantled before in darkness and huge shade,\nNow saw the light and made it terrible.\nIt was Hyperion:---a granite peak\nHis bright feet touch'd, and there he stay'd to view\nThe misery his brilliance had betray'd\nTo the most hateful seeing of itself.\nGolden his hair of short Numidian curl,\nRegal his shape majestic, a vast shade\nIn midst of his own brightness, like the bulk\nOf Memnon's image at the set of sun\nTo one who travels from the dusking East:\nSighs, too, as mournful as that Memnon's harp\nHe utter'd, while his hands contemplative\nHe press'd together, and in silence stood.\nDespondence seiz'd again the fallen Gods\nAt sight of the dejected King of day,\nAnd many hid their faces from the light:\nBut fierce Enceladus sent forth his eyes\nAmong the brotherhood; and, at their glare,\nUprose Iapetus, and Creus too,\nAnd Phorcus, sea-born, and together strode\nTo where he towered on his eminence.\nThere those four shouted forth old Saturn's name;\nHyperion from the peak loud answered, \"Saturn!\"\nSaturn sat near the Mother of the Gods,\nIn whose face was no joy, though all the Gods\nGave from their hollow throats the name of \"Saturn!\"\n\n\nBOOK III\n\nThus in altemate uproar and sad peace,\nAmazed were those Titans utterly.\nO leave them, Muse!  O leave them to their woes;\nFor thou art weak to sing such tumults dire:\nA solitary sorrow best befits\nThy lips, and antheming a lonely grief.\nLeave them, O Muse! for thou anon wilt find\nMany a fallen old Divinity\nWandering in vain about bewildered shores.\nMeantime touch piously the Delphic harp,\nAnd not a wind of heaven but will breathe\nIn aid soft warble from the Dorian flute;\nFor lo! 'tis for the Father of all verse.\nFlush everything that hath a vermeil hue,\nLet the rose glow intense and warm the air,\nAnd let the clouds of even and of morn\nFloat in voluptuous fleeces o'er the hills;\nLet the red wine within the goblet boil,\nCold as a bubbling well; let faint-lipp'd shells,\nOn sands, or in great deeps, vermilion turn\nThrough all their labyrinths; and let the maid\nBlush keenly, as with some warm kiss surpris'd.\nChief isle of the embowered Cyclades,\nRejoice, O Delos, with thine olives green,\nAnd poplars, and lawn-shading palms, and beech,\nIn which the Zephyr breathes the loudest song,\nAnd hazels thick, dark-stemm'd beneath the shade:\nApollo is once more the golden theme!\nWhere was he, when the Giant of the sun\nStood bright, amid the sorrow of his peers?\nTogether had he left his mother fair\nAnd his twin-sister sleeping in their bower,\nAnd in the morning twilight wandered forth\nBeside the osiers of a rivulet,\nFull ankle-deep in lilies of the vale.\nThe nightingale had ceas'd, and a few stars\nWere lingering in the heavens, while the thrush\nBegan calm-throated.  Throughout all the isle\nThere was no covert, no retired cave,\nUnhaunted by the murmurous noise of waves,\nThough scarcely heard in many a green recess.\nHe listen'd, and he wept, and his bright tears\nWent trickling down the golden bow he held.\nThus with half-shut suffused eyes he stood,\nWhile from beneath some cumbrous boughs hard by\nWith solemn step an awful Goddess came,\nAnd there was purport in her looks for him,\nWhich he with eager guess began to read\nPerplex'd, the while melodiously he said:\n\"How cam'st thou over the unfooted sea?\nOr hath that antique mien and robed form\nMov'd in these vales invisible till now?\nSure I have heard those vestments sweeping o'er\nThe fallen leaves, when I have sat alone\nIn cool mid-forest.  Surely I have traced\nThe rustle of those ample skirts about\nThese grassy solitudes, and seen the flowers\nLift up their heads, as still the whisper pass'd.\nGoddess! I have beheld those eyes before,\nAnd their eternal calm, and all that face,\nOr I have dream'd.\"---\"Yes,\" said the supreme shape,\n\"Thou hast dream'd of me; and awaking up\nDidst find a lyre all golden by thy side,\nWhose strings touch'd by thy fingers, all the vast\nUnwearied ear of the whole universe\nListen'd in pain and pleasure at the birth\nOf such new tuneful wonder. Is't not strange\nThat thou shouldst weep, so gifted? Tell me, youth,\nWhat sorrow thou canst feel; for I am sad\nWhen thou dost shed a tear: explain thy griefs\nTo one who in this lonely isle hath been\nThe watcher of thy sleep and hours of life,\nFrom the young day when first thy infant hand\nPluck'd witless the weak flowers, till thine arm\nCould bend that bow heroic to all times.\nShow thy heart's secret to an ancient Power\nWho hath forsaken old and sacred thrones\nFor prophecies of thee, and for the sake\nOf loveliness new born.\"---Apollo then,\nWith sudden scrutiny and gloomless eyes,\nThus answer'd, while his white melodious throat\nThrobb'd with the syllables.---\"Mnemosyne!\nThy name is on my tongue, I know not how;\nWhy should I tell thee what thou so well seest?\nWhy should I strive to show what from thy lips\nWould come no mystery? For me, dark, dark,\nAnd painful vile oblivion seals my eyes:\nI strive to search wherefore I am so sad,\nUntil a melancholy numbs my limbs;\nAnd then upon the grass I sit, and moan,\nLike one who once had wings.---O why should I\nFeel curs'd and thwarted, when the liegeless air\nYields to my step aspirant? why should I\nSpurn the green turf as hateful to my feet?\nGoddess benign, point forth some unknown thing:\nAre there not other regions than this isle?\nWhat are the stars? There is the sun, the sun!\nAnd the most patient brilliance of the moon!\nAnd stars by thousands!  Point me out the way\nTo any one particular beauteous star,\nAnd I will flit into it with my lyre,\nAnd make its silvery splendor pant with bliss.\nI have heard the cloudy thunder: Where is power?\nWhose hand, whose essence, what divinity\nMakes this alarum in the elements,\nWhile I here idle listen on the shores\nIn fearless yet in aching ignorance?\nO tell me, lonely Goddess, by thy harp,\nThat waileth every morn and eventide,\nTell me why thus I rave about these groves!\nMute thou remainest---Mute! yet I can read\nA wondrous lesson in thy silent face:\nKnowledge enormous makes a God of me.\nNames, deeds, gray legends, dire events, rebellions,\nMajesties, sovran voices, agonies,\nCreations and destroyings, all at once\nPour into the wide hollows of my brain,\nAnd deify me, as if some blithe wine\nOr bright elixir peerless I had drunk,\nAnd so become immortal.\"---Thus the God,\nWhile his enkindled eyes, with level glance\nBeneath his white soft temples, steadfast kept\nTrembling with light upon Mnemosyne.\nSoon wild commotions shook him, and made flush\nAll the immortal fairness of his limbs;\nMost like the struggle at the gate of death;\nOr liker still to one who should take leave\nOf pale immortal death, and with a pang\nAs hot as death's is chill, with fierce convulse\nDie into life: so young Apollo anguish'd:\nHis very hair, his golden tresses famed,\nKept undulation round his eager neck.\nDuring the pain Mnemosyne upheld\nHer arms as one who prophesied. At length\nApollo shriek'd;---and lo! from all his limbs\nCelestial.",
-      "source": {
-        "name": "John Keats · PoetryDB",
-        "url": "https://poetrydb.org/title/Hyperion",
-        "trustTier": "community",
-        "author": "John Keats"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:16:10.560Z",
-      "hash": "b9012a3c42eff458"
-    },
-    {
-      "id": "poetry:a0b414811bcf2556",
-      "type": "poem",
-      "title": "538. Song—Now Spring has clad the grove in green",
-      "summary": "NOW spring has clad the grove in green,\n  And strew’d the lea wi’ flowers;\nThe furrow’d, waving corn is seen\n  Rejoice in fostering showers.",
-      "body": "NOW spring has clad the grove in green,\n  And strew’d the lea wi’ flowers;\nThe furrow’d, waving corn is seen\n  Rejoice in fostering showers.\nWhile ilka thing in nature join\n  Their sorrows to forego,\nO why thus all alone are mine\n  The weary steps o’ woe!\n\n\nThe trout in yonder wimpling burn\n  That glides, a silver dart,\nAnd, safe beneath the shady thorn,\n  Defies the angler’s art—\nMy life was ance that careless stream,\n  That wanton trout was I;\nBut Love, wi’ unrelenting beam,\n  Has scorch’d my fountains dry.\n\n\nThat little floweret’s peaceful lot,\n  In yonder cliff that grows,\nWhich, save the linnet’s flight, I wot,\n  Nae ruder visit knows,\nWas mine, till Love has o’er me past,\n  And blighted a’ my bloom;\nAnd now, beneath the withering blast,\n  My youth and joy consume.\n\n\nThe waken’d lav’rock warbling springs,\n  And climbs the early sky,\nWinnowing blythe his dewy wings\n  In morning’s rosy eye;\nAs little reck’d I sorrow’s power,\n  Until the flowery snare\nO’witching Love, in luckless hour,\n  Made me the thrall o’ care.\n\n\nO had my fate been Greenland snows,\n  Or Afric’s burning zone,\nWi’man and nature leagued my foes,\n  So Peggy ne’er I’d known!\nThe wretch whose doom is “Hope nae mair”\n  What tongue his woes can tell;\nWithin whase bosom, save Despair,\n  Nae kinder spirits dwell.",
-      "source": {
-        "name": "Robert Burns · PoetryDB",
-        "url": "https://poetrydb.org/title/538.%20Song%E2%80%94Now%20Spring%20has%20clad%20the%20grove%20in%20green",
-        "trustTier": "community",
-        "author": "Robert Burns"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-12T09:16:10.560Z",
-      "hash": "a0b414811bcf2556"
-    },
-    {
-      "id": "art:si:ld1-1643406126934-1643406154722-1",
-      "type": "art",
-      "title": "Analcime",
-      "summary": "NMNH - Mineral Sciences Dept.",
-      "body": "NMNH - Mineral Sciences Dept.",
-      "image": {
-        "src": "data/images/489a6557f981fe46.jpg",
-        "alt": "Analcime",
-        "credit": "NMNH - Mineral Sciences Dept. · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/3f6c03e9a-2d9f-4193-9d29-92d5ac06125d",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "mineral"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-12T09:16:10.248Z",
-      "hash": "432937fc10b13b9d"
-    },
-    {
-      "id": "met:45676",
-      "type": "art",
-      "title": "Two hawks in a thicket",
-      "summary": "Lin Liang · mid- 15th century · Hanging scroll; ink and color on silk",
-      "body": "Lin Liang · mid- 15th century · Hanging scroll; ink and color on silk\nGift of Bei Shan Tang Foundation, 1993\nAsian Art",
-      "image": {
-        "src": "data/images/4dff13312f7088c3.jpg",
-        "alt": "Two hawks in a thicket",
-        "credit": "The Met · Gift of Bei Shan Tang Foundation, 1993"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/45676",
-        "trustTier": "encyclopedic",
-        "author": "Lin Liang",
-        "date": "mid- 15th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "bird",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-12T09:16:09.053Z",
-      "hash": "6532ea6d62eda99a"
-    },
-    {
-      "id": "met:398629",
-      "type": "art",
-      "title": "Designs for Plates Taken from Oudry's Illustrations to La Fontaine's Fables",
-      "summary": "Jean-Baptiste Oudry · after 1755 · Etching",
-      "body": "Jean-Baptiste Oudry · after 1755 · Etching\nThe Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1955\nDrawings and Prints",
-      "image": {
-        "src": "data/images/00f5b2893360f686.jpg",
-        "alt": "Designs for Plates Taken from Oudry's Illustrations to La Fontaine's Fables",
-        "credit": "The Met · The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1955"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/398629",
-        "trustTier": "encyclopedic",
-        "author": "Jean-Baptiste Oudry",
-        "date": "after 1755"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "bird",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-12T09:16:08.852Z",
-      "hash": "2929b5050f4f8050"
-    },
-    {
-      "id": "met:206455",
-      "type": "art",
-      "title": "Plate (assiette à palmes) (one of four) (part of a service)",
-      "summary": "Sèvres Manufactory · 1771 · Soft-paste porcelain",
-      "body": "Sèvres Manufactory · 1771 · Soft-paste porcelain\nGift of Mr. and Mrs. Charles Wrightsman, 1976\nEuropean Sculpture and Decorative Arts",
-      "image": {
-        "src": "data/images/8f3c2fd3e8173564.jpg",
-        "alt": "Plate (assiette à palmes) (one of four) (part of a service)",
-        "credit": "The Met · Gift of Mr. and Mrs. Charles Wrightsman, 1976"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/206455",
-        "trustTier": "encyclopedic",
-        "author": "Sèvres Manufactory",
-        "date": "1771"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "bird",
-        "ceramics-porcelain"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-12T09:16:08.771Z",
-      "hash": "b121e47b905d71d6"
-    },
-    {
-      "id": "onthisday:08-12:1323:25ffd7f84b3dc0a2",
-      "type": "history",
-      "title": "1323: Novgorod Republic",
-      "summary": "Sweden and the Novgorod Republic signed the Treaty of Nöteborg resulting in a temporary hiatus in the Swedish–Novgorodian Wars.",
-      "body": "Sweden and the Novgorod Republic signed the Treaty of Nöteborg resulting in a temporary hiatus in the Swedish–Novgorodian Wars.",
-      "image": {
-        "src": "data/images/6a1e8b4e1ec36a09.png",
-        "alt": "Novgorod Republic",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Novgorod_Republic",
-        "trustTier": "encyclopedic",
-        "date": "08-12"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:14:55.028Z",
-      "hash": "8e96a73291f05343",
-      "expires": "2026-08-15T09:14:55.028Z"
-    },
-    {
-      "id": "onthisday:08-12:1969:07a523e3eb398875",
-      "type": "history",
-      "title": "1969: The Troubles",
-      "summary": "The Troubles: Riots erupted in the neighbourhood of Bogside in Derry, and spread across much of Northern Ireland.",
-      "body": "The Troubles: Riots erupted in the neighbourhood of Bogside in Derry, and spread across much of Northern Ireland.",
-      "image": {
-        "src": "data/images/38a605eca5d23d94.png",
-        "alt": "The Troubles",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/The_Troubles",
-        "trustTier": "encyclopedic",
-        "date": "08-12"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:14:55.028Z",
-      "hash": "7b074393d161dd6c",
-      "expires": "2026-08-15T09:14:55.028Z"
-    },
-    {
-      "id": "onthisday:08-12:1914:030a0316d2692b37",
-      "type": "history",
-      "title": "1914: World War I",
-      "summary": "World War I: Belgian troops won a victory at the Battle of Halen, but were ultimately unable to stop the German invasion of Belgium.",
-      "body": "World War I: Belgian troops won a victory at the Battle of Halen, but were ultimately unable to stop the German invasion of Belgium.",
-      "image": {
-        "src": "data/images/61c8bc6b2b029a1c.jpg",
-        "alt": "World War I",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/World_War_I",
-        "trustTier": "encyclopedic",
-        "date": "08-12"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-12T09:14:55.027Z",
-      "hash": "5dfb5347f3e6ad3a",
-      "expires": "2026-08-15T09:14:55.027Z"
     },
     {
       "id": "curated:handwriting-beats-typing",

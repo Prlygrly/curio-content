@@ -1,7 +1,997 @@
 {
-  "generatedAt": "2026-09-05T11:45:11.864Z",
+  "generatedAt": "2026-09-06T12:03:14.202Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:MmRqv",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1869. Find the best line for black.",
+      "body": "Solution, from → to: g5→e7, f8→e8, e7→e8, e2→e6, d7→e6. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "2k1rR2/p2pP3/1p2r3/2p3q1/2P5/6P1/PP2Q2P/4R1K1 b - - 1 1",
+        "lastMove": "f7f8"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/MmRqv",
+        "trustTier": "community",
+        "date": "Sun, 06 Sep 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "endgame",
+        "master",
+        "mastervsmaster",
+        "advantage"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-09-06T12:03:06.833Z",
+      "hash": "f4a4f3fe879b6970"
+    },
+    {
+      "id": "trivia:1d60c0dd76663809",
+      "type": "trivia",
+      "title": "How many members are in the Japanese rock band SCANDAL?",
+      "summary": "Is it: 2 · 4 · 18 · 5?",
+      "body": "Answer: 4.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-06T12:03:03.907Z",
+      "hash": "1d60c0dd76663809"
+    },
+    {
+      "id": "trivia:935c250cd58ea0f9",
+      "type": "trivia",
+      "title": "Automobiles produced by Tesla Motors operate on which form of energy?",
+      "summary": "Is it: Diesel · Gasoline · Nuclear · Electricity?",
+      "body": "Answer: Electricity.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "vehicles"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:03:03.907Z",
+      "hash": "935c250cd58ea0f9"
+    },
+    {
+      "id": "trivia:b88e056cf57c5232",
+      "type": "trivia",
+      "title": "What is the name of a popular franchise that includes placing blocks down and surviving in an open world?",
+      "summary": "Is it: Roblox · Grand Theft Auto V · Unturned · Minecraft?",
+      "body": "Answer: Minecraft.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:03:03.907Z",
+      "hash": "b88e056cf57c5232"
+    },
+    {
+      "id": "trivia:5babe2b55a9c4f08",
+      "type": "trivia",
+      "title": "What is the primary addictive substance found in tobacco?",
+      "summary": "Is it: Nicotine · Ephedrine · Glaucine · Cathinone?",
+      "body": "Answer: Nicotine.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "science & nature"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:03:03.907Z",
+      "hash": "5babe2b55a9c4f08"
+    },
+    {
+      "id": "passage:gutenberg:1661",
+      "type": "passage",
+      "title": "The Adventures of Sherlock Holmes",
+      "summary": "To Sherlock Holmes she is always _the_ woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it,…",
+      "body": "To Sherlock Holmes she is always _the_ woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer—excellent for drawing the veil from men’s motives and actions. But for the trained…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/1661",
+        "trustTier": "publication",
+        "author": "Arthur Conan Doyle",
+        "date": "1892"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "mystery",
+        "detective",
+        "short-stories"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:03:03.618Z",
+      "hash": "a0f5107d6d420b1e"
+    },
+    {
+      "id": "comic:smbc:a93842cfcd75685e",
+      "type": "comic",
+      "title": "Imagine",
+      "summary": "They actually say modulus, but journalists dumb it down.",
+      "image": {
+        "src": "data/images/71c4340fb1455695.png",
+        "alt": "They actually say modulus, but journalists dumb it down.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/imagine-2",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 05 Sep 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-06T12:03:02.238Z",
+      "hash": "a93842cfcd75685e"
+    },
+    {
+      "id": "comic:xkcd:505",
+      "type": "comic",
+      "title": "A Bunch of Rocks",
+      "summary": "I call Rule 34 on Wolfram's Rule 34.",
+      "body": "[[Man is walking, alone in desert. Man is narrating his own situation]] Narrator: So I'm stuck in this desert for eternity. Narrator: I don't know why. I just woke up here one day. Narrator: I never feel hungry or thirsty. Narrator: I just walk. Narrator: Sand and rocks... Narrator: ...stretch to infinity. Narrator: As best as I can tell. [[Man is sitting in the desert, in a contemplative position]] Narrator: There's plenty of time for thinking out here. Narrator: An eternity really. [[Man is sketching stuff in the sand]] Narrator: I've rederived modern math in the sand Narrator: and then some. [[Different graph types are depicted]] Narrator: Physics too. I worked out the kinks in quantum…",
+      "image": {
+        "src": "data/images/a2072b87eece1c17.png",
+        "alt": "I call Rule 34 on Wolfram's Rule 34.",
+        "credit": "xkcd #505 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/505/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2008-11-17"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-06T12:03:02.059Z",
+      "hash": "22b325810a5c720c"
+    },
+    {
+      "id": "craft:f6a0b4517f5e8b9d",
+      "type": "craft",
+      "title": "Go Behind the Scenes of Blackwing Pencils’ Ode to Analog Creativity",
+      "summary": "The company shares how pencils are created in a multi-step process in factories in Japan and California.",
+      "body": "The company shares how pencils are created in a multi-step process in factories in Japan and California.",
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/09/how-blackwing-pencils-are-made-video/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Fri, 04 Sep 2026 16:30:0"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "factories",
+        "japan",
+        "pencils",
+        "video"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-06T12:03:01.581Z",
+      "hash": "f6a0b4517f5e8b9d"
+    },
+    {
+      "id": "craft:c788595f3b4df5ff",
+      "type": "craft",
+      "title": "Push A Button And More At Maker Faire Tokyo 2026",
+      "summary": "INSTAGRAM I WEBSITE I FACEBOOK No Push, No Life “If there’s a button, you want to push it.” This is the premise of the OSEBA exhibit at the 2026 edition of Maker Faire Tokyo, a pop-up activation of the full scale button exhibition in created by the Shimada Corporation participants will be able to…",
+      "body": "INSTAGRAM I WEBSITE I FACEBOOK No Push, No Life “If there’s a button, you want to push it.” This is the premise of the OSEBA exhibit at the 2026 edition of Maker Faire Tokyo, a pop-up activation of the full scale button exhibition in created by the Shimada Corporation participants will be able to push […] The post Push A Button And More At Maker Faire Tokyo 2026 appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/e6e5fc5d1c95debd.jpg",
+        "alt": "Push A Button And More At Maker Faire Tokyo 2026",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/maker-news/push-a-button-and-more-at-maker-faire-tokyo-2026/",
+        "trustTier": "publication",
+        "author": "Jennifer Blakeslee",
+        "date": "Thu, 03 Sep 2026 19:49:5"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "maker news"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-06T12:03:01.116Z",
+      "hash": "c788595f3b4df5ff"
+    },
+    {
+      "id": "craft:5fac6f24fcbee21f",
+      "type": "craft",
+      "title": "Ready, Set, Make: 5 Inaugural September Maker Faires",
+      "summary": "September is always a busy month for Maker Faire and this year five first time events, scattered around the world, are joining the scene. Its always exciting to see a maker community coalesce and expand when a Maker Faire comes to town. Across the 20 years that we’ve been holding Maker Faire Bay…",
+      "body": "September is always a busy month for Maker Faire and this year five first time events, scattered around the world, are joining the scene. Its always exciting to see a maker community coalesce and expand when a Maker Faire comes to town. Across the 20 years that we’ve been holding Maker Faire Bay Area, we […] The post Ready, Set, Make: 5 Inaugural September Maker Faires appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/d5801e37f3425355.png",
+        "alt": "Ready, Set, Make: 5 Inaugural September Maker Faires",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/maker-news/ready-set-make-5-inaugural-september-maker-faires/",
+        "trustTier": "publication",
+        "author": "Jennifer Blakeslee",
+        "date": "Sun, 06 Sep 2026 07:20:4"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "maker faire",
+        "maker news",
+        "brazil",
+        "canada",
+        "makers",
+        "portugal",
+        "texas"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-06T12:03:01.116Z",
+      "hash": "5fac6f24fcbee21f"
+    },
+    {
+      "id": "quote:72ee5317c1e6145c",
+      "type": "quote",
+      "title": "“Do what is right, not what is easy, nor what is popular.”",
+      "summary": "— Roy T. Bennett",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Roy_T._Bennett",
+        "trustTier": "community",
+        "author": "Roy T. Bennett"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:23.239Z",
+      "hash": "72ee5317c1e6145c"
+    },
+    {
+      "id": "quote:ba7ad44f86e50e4b",
+      "type": "quote",
+      "title": "“If you don't know, the thing to do is not to get scared, but to learn.”",
+      "summary": "— Ayn Rand",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Ayn_Rand",
+        "trustTier": "community",
+        "author": "Ayn Rand"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:23.239Z",
+      "hash": "ba7ad44f86e50e4b"
+    },
+    {
+      "id": "quote:a83b6d9f62284e6d",
+      "type": "quote",
+      "title": "“When you're the only sane person, you look like the only insane person.”",
+      "summary": "— Criss Jami",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Criss_Jami",
+        "trustTier": "community",
+        "author": "Criss Jami"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:23.239Z",
+      "hash": "a83b6d9f62284e6d"
+    },
+    {
+      "id": "article:2b682eea2ee35486",
+      "type": "article",
+      "title": "Many Space Missions Are Searching for Life Beyond Earth—But Are We Prepared for the Fallout If They Succeed?",
+      "summary": "Several space missions are searching for extraterrestrial life, which could come in the form of microbes The post Many Space Missions Are Searching for Life Beyond Earth—But Are We Prepared for the Fallout If They Succeed? appeared first on Nautilus.",
+      "body": "Several space missions are searching for extraterrestrial life, which could come in the form of microbes The post Many Space Missions Are Searching for Life Beyond Earth—But Are We Prepared for the Fallout If They Succeed? appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/42804050487abe5c.jpg",
+        "alt": "Many Space Missions Are Searching for Life Beyond Earth—But Are We Prepared for the Fallout If They Succeed?",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/many-space-missions-are-searching-for-life-beyond-earth-but-are-we-prepared-for-the-fallout-if-they-succeed-1284812/",
+        "trustTier": "publication",
+        "author": "Karryl Kim Sagun Trajano",
+        "date": "Sun, 06 Sep 2026 12:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "astronomy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-06T12:02:13.132Z",
+      "hash": "2b682eea2ee35486"
+    },
+    {
+      "id": "article:8f803e288a18490b",
+      "type": "article",
+      "title": "How to Relate to Your Worst Mistakes: The Life-Shaping Difference Between Regret and Remorse",
+      "summary": "You know it, that awful moment your coherent self-image shatters and a part of you, shadowy and untended, splits off to cause harm and havoc as the rest of you watches helplessly, wincing. You know the next moment, too — the desperate wish for an undo button you know cannot be had, no matter your…",
+      "body": "You know it, that awful moment your coherent self-image shatters and a part of you, shadowy and untended, splits off to cause harm and havoc as the rest of you watches helplessly, wincing. You know the next moment, too — the desperate wish for an undo button you know cannot be had, no matter your protestations and prostrations. It is a seductive dream, to have an unregetting life, but it is also a dangerous dream, for it dooms us to the living nightmare of perfection, that punitive negation of our humanity. If we didn’t shudder at our own missteps, we… read article",
+      "image": {
+        "src": "data/images/0563e862bd06c3fe.jpg",
+        "alt": "How to Relate to Your Worst Mistakes: The Life-Shaping Difference Between Regret and Remorse",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/09/05/regret-remorse/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sat, 05 Sep 2026 21:28:3"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "psychology",
+        "books",
+        "language"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-06T12:02:12.741Z",
+      "hash": "8f803e288a18490b"
+    },
+    {
+      "id": "article:74d96b63688b47d5",
+      "type": "article",
+      "title": "Two Drinks with . . . the Man Who Compensated 9/11 Victims",
+      "summary": "Kenneth Feinberg doled out $7 billion to 5,300 victims’ families. The trick, he told Joe Nocera, was listening to the heartache.",
+      "body": "Kenneth Feinberg doled out $7 billion to 5,300 victims’ families. The trick, he told Joe Nocera, was listening to the heartache.",
+      "image": {
+        "src": "data/images/7d43b590b1ea454e.jpg",
+        "alt": "Two Drinks with . . . the Man Who Compensated 9/11 Victims",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/two-drinks-with-the-man-who-compensated",
+        "trustTier": "publication",
+        "author": "Joe Nocera",
+        "date": "Fri, 04 Sep 2026 22:11:3"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-06T12:02:12.349Z",
+      "hash": "74d96b63688b47d5",
+      "expires": "2026-10-06T12:02:12.349Z"
+    },
+    {
+      "id": "article:673cb636aef8696f",
+      "type": "article",
+      "title": "Short Videos, Big Self-Control Problems",
+      "summary": "I study how short-form design amplifies self-control problems in digital media. Short units repeatedly renew temptation that lasts longer than each unit, turning local temptation into sustained overconsumption. Using microdata from a U.S. short-drama platform, I exploit a nonlinear top-up menu to…",
+      "body": "I study how short-form design amplifies self-control problems in digital media. Short units repeatedly renew temptation that lasts longer than each unit, turning local temptation into sustained overconsumption. Using microdata from a U.S. short-drama platform, I exploit a nonlinear top-up menu to infer viewing plans and show that paying users watch 82.1% more than intended. […] The post Short Videos, Big Self-Control Problems appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/09/short-videos-big-self-control-problems.html?utm_source=rss&utm_medium=rss&utm_campaign=short-videos-big-self-control-problems",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Sat, 05 Sep 2026 18:11:3"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "data source",
+        "web/tech"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-06T12:02:10.622Z",
+      "hash": "673cb636aef8696f"
+    },
+    {
+      "id": "greek:0333963034ce697f",
+      "type": "greek",
+      "title": "ἀγάπη",
+      "summary": "ἀγάπη — “love” · noun",
+      "body": "Note: ἡ ἀγάπη\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%AC%CF%80%CE%B7#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_fem_1st"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:09.101Z",
+      "hash": "0333963034ce697f"
+    },
+    {
+      "id": "greek:5bf3b645e83602c0",
+      "type": "greek",
+      "title": "δέ",
+      "summary": "δέ — “but, and” · conjunction",
+      "body": "Note: postpositive — never appears first in clause\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B4%CE%AD#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "conjunction",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-06T12:02:09.101Z",
+      "hash": "5bf3b645e83602c0"
+    },
+    {
+      "id": "poetry:67895f50f9d85bee",
+      "type": "poem",
+      "title": "Napoleon's Snuff-Box",
+      "summary": "LADY, accept the box a hero wore,\n  In spite of all this elegiac stuff:\nLet not seven stanzas written by a bore,\n  Prevent your Ladyship from taking snuff!",
+      "body": "LADY, accept the box a hero wore,\n  In spite of all this elegiac stuff:\nLet not seven stanzas written by a bore,\n  Prevent your Ladyship from taking snuff!",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/Napoleon's%20Snuff-Box",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-06T12:02:09.099Z",
+      "hash": "67895f50f9d85bee"
+    },
+    {
+      "id": "poetry:af4063888bdb9796",
+      "type": "poem",
+      "title": "The Canterbury Tales. The Second Nun's Tale",
+      "summary": "The minister and norice unto vices,\nWhich that men call in English idleness,\nThe porter at the gate is of delices;\nT'eschew, and by her contrar' her oppress, --",
+      "body": "The minister and norice unto vices,\nWhich that men call in English idleness,\nThe porter at the gate is of delices;\nT'eschew, and by her contrar' her oppress, --\nThat is to say, by lawful business, --\nWell oughte we to do our all intent\nLest that the fiend through idleness us hent.\n\nFor he, that with his thousand cordes sly\nContinually us waiteth to beclap,\nWhen he may man in idleness espy,\nHe can so lightly catch him in his trap,\nTill that a man be hent right by the lappe,\nHe is not ware the fiend hath him in hand;\nWell ought we work, and idleness withstand.\n\nAnd though men dreaded never for to die,\nYet see men well by reason, doubteless,\nThat idleness is root of sluggardy,\nOf which there cometh never good increase;\nAnd see that sloth them holdeth in a leas,\nOnly to sleep, and for to eat and drink,\nAnd to devouren all that others swink.\n\nAnd, for to put us from such idleness,\nThat cause is of so great confusion,\nI have here done my faithful business,\nAfter the Legend, in translation\nRight of thy glorious life and passion, --\nThou with thy garland wrought of rose and lily,\nThee mean I, maid and martyr, Saint Cecilie.\n\nAnd thou, thou art the flow'r of virgins all,\nOf whom that Bernard list so well to write,\nTo thee at my beginning first I call;\nThou comfort of us wretches, do me indite\nThy maiden's death, that won through her merite\nTh' eternal life, and o'er the fiend victory,\nAs man may after readen in her story.\n\nThou maid and mother, daughter of thy Son,\nThou well of mercy, sinful soules' cure,\nIn whom that God of bounte chose to won;\nThou humble and high o'er every creature,\nThou nobilest, so far forth our nature,\nThat no disdain the Maker had of kind,\nHis Son in blood and flesh to clothe and wind.\n\nWithin the cloister of thy blissful sides\nTook manne's shape th' eternal love and peace,\nThat of the trine compass Lord and guide is\nWhom earth, and sea, and heav'n, out of release,\nAye hery; and thou, Virgin wemmeless,\nBare of thy body, and dweltest maiden pure,\nThe Creator of every creature.\n\nAssembled is in thee magnificence\nWith mercy, goodness, and with such pity,\nThat thou, that art the sun of excellence,\nNot only helpest them that pray to thee,\nBut oftentime, of thy benignity,\nFull freely, ere that men thine help beseech,\nThou go'st before, and art their lives' leech.\n\nNow help, thou meek and blissful faire maid,\nMe, flemed wretch, in this desert of gall;\nThink on the woman Cananee that said\nThat whelpes eat some of the crumbes all\nThat from their Lorde's table be y-fall;\nAnd though that I, unworthy son of Eve,\nBe sinful, yet accepte my believe.\n\nAnd, for that faith is dead withoute werkes,\nFor to worke give me wit and space,\nThat I be quit from thennes that most derk is;\nO thou, that art so fair and full of grace,\nBe thou mine advocate in that high place,\nWhere as withouten end is sung Osanne,\nThou Christe's mother, daughter dear of Anne.\n\nAnd of thy light my soul in prison light,\nThat troubled is by the contagion\nOf my body, and also by the weight\nOf earthly lust and false affection;\nO hav'n of refuge, O salvation\nOf them that be in sorrow and distress,\nNow help, for to my work I will me dress.\n\nYet pray I you, that reade what I write,\nForgive me that I do no diligence\nThis ilke story subtilly t' indite.\nFor both have I the wordes and sentence\nOf him that at the sainte's reverence\nThe story wrote, and follow her legend;\nAnd pray you that you will my work amend.\n\nFirst will I you the name of Saint Cecilie\nExpound, as men may in her story see.\nIt is to say in English, Heaven's lily,\nFor pure chasteness of virginity;\nOr, for she whiteness had of honesty,\nAnd green of conscience, and of good fame\nThe sweete savour, Lilie was her name.\n\nOr Cecilie is to say, the way of blind;\nFor she example was by good teaching;\nOr else Cecilie, as I written find,\nIs joined by a manner conjoining\nOf heaven and Lia,  and herein figuring\nThe heaven is set for thought of holiness,\nAnd Lia for her lasting business.\n\nCecilie may eke be said in this mannere,\nWanting of blindness, for her greate light\nOf sapience, and for her thewes clear.\nOr elles, lo, this maiden's name bright\nOf heaven and Leos  comes, for which by right\nMen might her well the heaven of people call,\nExample of good and wise workes all;\n\nFor Leos people in English is to say;\nAnd right as men may in the heaven see\nThe sun and moon, and starres every way,\nRight so men ghostly, in this maiden free,\nSawen of faith the magnanimity,\nAnd eke the clearness whole of sapience,\nAnd sundry workes bright of excellence.\n\nAnd right so as these philosophers write,\nThat heav'n is swift and round, and eke burning,\nRight so was faire Cecilie the white\nFull swift and busy in every good working,\nAnd round and whole in good persevering,\nAnd burning ever in charity full bright;\nNow have I you declared what she hight.\n\nThis maiden bright Cecile, as her life saith,\nWas come of Romans, and of noble kind,\nAnd from her cradle foster'd in the faith\nOf Christ, and bare his Gospel in her mind:\nShe never ceased, as I written find,\nOf her prayere, and God to love and dread,\nBeseeching him to keep her maidenhead.\n\nAnd when this maiden should unto a man\nY-wedded be, that was full young of age,\nWhich that y-called was Valerian,\nAnd come was the day of marriage,\nShe, full devout and humble in her corage,\nUnder her robe of gold, that sat full fair,\nHad next her flesh y-clad her in an hair.\n\nAnd while the organs made melody,\nTo God alone thus in her heart sang she;\n\"O Lord, my soul and eke my body gie\nUnwemmed, lest that I confounded be.\"\nAnd, for his love that died upon the tree,\nEvery second or third day she fast',\nAye bidding in her orisons full fast.\n\nThe night came, and to bedde must she gon\nWith her husband, as it is the mannere;\nAnd privily she said to him anon;\n\"O sweet and well-beloved spouse dear,\nThere is a counsel, an' ye will it hear,\nWhich that right fain I would unto you say,\nSo that ye swear ye will it not bewray.\"\n\nValerian gan fast unto her swear\nThat for no case nor thing that mighte be,\nHe never should to none bewrayen her;\nAnd then at erst thus to him saide she;\n\"I have an angel which that loveth me,\nThat with great love, whether I wake or sleep,\nIs ready aye my body for to keep;\n\n\"And if that he may feelen, out of dread,\nThat ye me touch or love in villainy,\nHe right anon will slay you with the deed,\nAnd in your youthe thus ye shoulde die.\nAnd if that ye in cleane love me gie,\"\nHe will you love as me, for your cleanness,\nAnd shew to you his joy and his brightness.\"\n\nValerian, corrected as God wo'ld,\nAnswer'd again, \"If I shall truste thee,\nLet me that angel see, and him behold;\nAnd if that it a very angel be,\nThen will I do as thou hast prayed me;\nAnd if thou love another man, forsooth\nRight with this sword then will I slay you both.\"\n\nCecile answer'd anon right in this wise;\n\"If that you list, the angel shall ye see,\nSo that ye trow Of Christ, and you baptise;\nGo forth to Via Appia,\" quoth she,\nThat from this towne stands but miles three,\nAnd to the poore folkes that there dwell\nSay them right thus, as that I shall you tell,\n\n\"Tell them, that I, Cecile, you to them sent\nTo shewe you the good Urban the old,\nFor secret needes, and for good intent;\nAnd when that ye Saint Urban have behold,\nTell him the wordes which I to you told\nAnd when that he hath purged you from sin,\nThen shall ye see that angel ere ye twin\n\nValerian is to the place gone;\nAnd, right as he was taught by her learning\nHe found this holy old Urban anon\nAmong the saintes' burials louting;\nAnd he anon, withoute tarrying,\nDid his message, and when that he it told,\nUrban for joy his handes gan uphold.\n\nThe teares from his eyen let he fall;\n\"Almighty Lord, O Jesus Christ,\"\nQuoth he, \"Sower of chaste counsel, herd of us all;\nThe fruit of thilke seed of chastity\nThat thou hast sown in Cecile, take to thee\nLo, like a busy bee, withoute guile,\nThee serveth aye thine owen thrall Cicile,\n\n\"For thilke spouse, that she took but now,\nFull like a fierce lion, she sendeth here,\nAs meek as e'er was any lamb to owe.\"\nAnd with that word anon there gan appear\nAn old man, clad in white clothes clear,\nThat had a book with letters of gold in hand,\nAnd gan before Valerian to stand.\n\nValerian, as dead, fell down for dread,\nWhen he him saw; and he up hent him tho,\nAnd on his book right thus he gan to read;\n\"One Lord, one faith, one God withoute mo',\nOne Christendom, one Father of all also,\nAboven all, and over all everywhere.\"\nThese wordes all with gold y-written were.\n\nWhen this was read, then said this olde man,\n\"Believ'st thou this or no? say yea or nay.\"\n\"I believe all this,\" quoth Valerian,\n\"For soother thing than this, I dare well say,\nUnder the Heaven no wight thinke may.\"\nThen vanish'd the old man, he wist not where\nAnd Pope Urban him christened right there.\n\nValerian went home, and found Cecilie\nWithin his chamber with an angel stand;\nThis angel had of roses and of lily\nCorones two, the which he bare in hand,\nAnd first to Cecile, as I understand,\nHe gave the one, and after gan he take\nThe other to Valerian her make.\n\n\"With body clean, and with unwemmed thought,\nKeep aye well these corones two,\" quoth he;\n\"From Paradise to you I have them brought,\nNor ever more shall they rotten be,\nNor lose their sweet savour, truste me,\nNor ever wight shall see them with his eye,\nBut he be chaste, and hate villainy.\n\n\"And thou, Valerian, for thou so soon\nAssented hast to good counsel, also\nSay what thee list, and thou shalt have thy boon.\"\n\"I have a brother,\" quoth Valerian tho,\n\"That in this world I love no man so;\nI pray you that my brother may have grace\nTo know the truth, as I do in this place.\"\n\nThe angel said, \"God liketh thy request,\nAnd bothe, with the palm of martyrdom,\nYe shalle come unto this blissful rest.\"\nAnd, with that word, Tiburce his brother came.\nAnd when that he the savour undernome\nWhich that the roses and the lilies cast,\nWithin his heart he gan to wonder fast;\n\nAnd said; \"I wonder, this time of the year,\nWhence that sweete savour cometh so\nOf rose and lilies, that I smelle here;\nFor though I had them in mine handes two,\nThe savour might in me no deeper go;\nThe sweete smell, that in my heart I find,\nHath changed me all in another kind.\"\n\nValerian said, \"Two crownes here have we,\nSnow-white and rose-red, that shine clear,\nWhich that thine eyen have no might to see;\nAnd, as thou smellest them through my prayere,\nSo shalt thou see them, leve brother dear,\nIf it so be thou wilt withoute sloth\nBelieve aright, and know the very troth. \"\n\nTiburce answered, \"Say'st thou this to me\nIn soothness, or in dreame hear I this?\"\n\"In dreames,\" quoth Valorian, \"have we be\nUnto this time, brother mine, y-wis\nBut now at erst in truth our dwelling is.\"\nHow know'st thou this,\" quoth Tiburce; \"in what wise?\"\nQuoth Valerian, \"That shall I thee devise\n\n\"The angel of God hath me the truth y-taught,\nWhich thou shalt see, if that thou wilt reny\nThe idols, and be clean, and elles nought.\"\n[And of the miracle of these crownes tway\nSaint Ambrose in his preface list to say;\nSolemnely this noble doctor dear\nCommendeth it, and saith in this mannere\n\n\"The palm of martyrdom for to receive,\nSaint Cecilie, full filled of God's gift,\nThe world and eke her chamber gan to weive;\nWitness Tiburce's and Cecilie's shrift,\nTo which God of his bounty woulde shift\nCorones two, of flowers well smelling,\nAnd made his angel them the crownes bring.\n\n\"The maid hath brought these men to bliss above;\nThe world hath wist what it is worth, certain,\nDevotion of chastity to love.\"]\nThen showed him Cecilie all open and plain,\nThat idols all are but a thing in vain,\nFor they be dumb, and thereto they be deave;\nAnd charged him his idols for to leave.\n\n\"Whoso that troweth not this, a beast he is,\"\nQuoth this Tiburce, \"if that I shall not lie.\"\nAnd she gan kiss his breast when she heard this,\nAnd was full glad he could the truth espy:\n\"This day I take thee for mine ally.\"\nSaide this blissful faire maiden dear;\nAnd after that she said as ye may hear.\n\n\"Lo, right so as the love of Christ,\" quoth she,\n\"Made me thy brother's wife, right in that wise\nAnon for mine ally here take I thee,\nSince that thou wilt thine idoles despise.\nGo with thy brother now and thee baptise,\nAnd make thee clean, so that thou may'st behold\nThe angel's face, of which thy brother told.\"\n\nTiburce answer'd, and saide, \"Brother dear,\nFirst tell me whither I shall, and to what man?\"\n\"To whom?\" quoth he, \"come forth with goode cheer,\nI will thee lead unto the Pope Urban.\"\n\"To Urban? brother mine Valerian,\"\nQuoth then Tiburce; \"wilt thou me thither lead?\nMe thinketh that it were a wondrous deed.\n\n\"Meanest thou not that Urban,\" quoth he tho,\n\"That is so often damned to be dead,\nAnd wons in halkes always to and fro,\nAnd dare not ones putte forth his head?\nMen should him brennen in a fire so red,\nIf he were found, or if men might him spy:\nAnd us also, to bear him company.\n\n\"And while we seeke that Divinity\nThat is y-hid in heaven privily,\nAlgate burnt in this world should we be.\"\nTo whom Cecilie answer'd boldely;\n\"Men mighte dreade well and skilfully\nThis life to lose, mine owen deare brother,\nIf this were living only, and none other.\n\n\"But there is better life in other place,\nThat never shall be loste, dread thee nought;\nWhich Godde's Son us tolde through his grace\nThat Father's Son which alle thinges wrought;\nAnd all that wrought is with a skilful thought,\nThe Ghost, that from the Father gan proceed,\nHath souled them, withouten any drede.\n\nBy word and by miracle, high God's Son,\nWhen he was in this world, declared here.\nThat there is other life where men may won.\"\nTo whom answer'd Tiburce, \"O sister dear,\nSaidest thou not right now in this mannere,\nThere was but one God, Lord in soothfastness,\nAnd now of three how may'st thou bear witness?\"\n\n\"That shall I tell,\" quoth she, \"ere that I go.\nRight as a man hath sapiences three,\nMemory, engine, and intellect also,\nSo in one being of divinity\nThree persones there maye right well be.\"\nThen gan she him full busily to preach\nOf Christe's coming, and his paines teach,\n\nAnd many pointes of his passion;\nHow Godde's Son in this world was withhold\nTo do mankinde plein remission,\nThat was y-bound in sin and cares cold.\nAll this thing she unto Tiburce told,\nAnd after that Tiburce, in good intent,\nWith Valerian to Pope Urban he went.\n\nThat thanked God, and with glad heart and light\nHe christen'd him, and made him in that place\nPerfect in his learning, and Godde's knight.\nAnd after this Tiburce got such grace,\nThat every day he saw in time and space\nTh' angel of God, and every manner boon\nThat be God asked, it was sped full anon.\n\nIt were full hard by order for to sayn\nHow many wonders Jesus for them wrought,\nBut at the last, to telle short and plain,\nThe sergeants of the town of Rome them sought,\nAnd them before Almach the Prefect brought,\nWhich them apposed, and knew all their intent,\nAnd to th'image of Jupiter them sent.\n\nAnd said, \"Whoso will not do sacrifice,\nSwap off his head, this is my sentence here.\"\nAnon these martyrs, that I you devise,\nOne Maximus, that was an officere\nOf the prefect's, and his corniculere\nThem hent, and when he forth the saintes lad,\nHimself he wept for pity that he had.\n\nWhen Maximus had heard the saintes lore,\nHe got him of the tormentores leave,\nAnd led them to his house withoute more;\nAnd with their preaching, ere that it were eve,\nThey gonnen from the tormentors to reave,\nAnd from Maxim', and from his folk each one,\nThe false faith, to trow in God alone.\n\nCecilia came, when it was waxen night,\nWith priestes, that them christen'd all in fere;\nAnd afterward, when day was waxen light,\nCecile them said with a full steadfast cheer,\n\"Now, Christe's owen knightes lefe and dear,\nCast all away the workes of darkness,\nAnd arme you in armour of brightness.\n\nYe have forsooth y-done a great battaile,\nYour course is done, your faith have ye conserved;\nO to the crown of life that may not fail;\nThe rightful Judge, which that ye have served\nShall give it you, as ye have it deserved.\"\nAnd when this thing was said, as I devise,\nMen led them forth to do the sacrifice.\n\nBut when they were unto the place brought\nTo telle shortly the conclusion,\nThey would incense nor sacrifice right nought\nBut on their knees they sette them adown,\nWith humble heart and sad devotion,\nAnd loste both their heades in the place;\nTheir soules wente to the King of grace.\n\nThis Maximus, that saw this thing betide,\nWith piteous teares told it anon right,\nThat he their soules saw to heaven glide\nWith angels, full of clearness and of light\nAndt with his word converted many a wight.\nFor which Almachius did him to-beat\nWith whip of lead, till he his life gan lete.\n\nCecile him took, and buried him anon\nBy Tiburce and Valerian softely,\nWithin their burying-place, under the stone.\nAnd after this Almachius hastily\nBade his ministers fetchen openly\nCecile, so that she might in his presence\nDo sacrifice, and Jupiter incense.\n\nBut they, converted at her wise lore,\nWepte full sore, and gave full credence\nUnto her word, and cried more and more;\n\"Christ, Godde's Son, withoute difference,\nIs very God, this is all our sentence,\nThat hath so good a servant him to serve\nThus with one voice we trowe, though we sterve.\n\nAlmachius, that heard of this doing,\nBade fetch Cecilie, that he might her see;\nAnd alderfirst, lo, this was his asking;\n\"What manner woman arte thou?\" quoth he,\n\"I am a gentle woman born,\" quoth she.\n\"I aske thee,\" quoth he,\"though it thee grieve,\nOf thy religion and of thy believe.\"\n\n\"Ye have begun your question foolishly,\"\nQuoth she, \"that wouldest two answers conclude\nIn one demand? ye aske lewedly.\"\nAlmach answer'd to that similitude,\n\"Of whence comes thine answering so rude?\"\n\"Of whence?\" quoth she, when that she was freined,\n\"Of conscience, and of good faith unfeigned.\"\n\nAlmachius saide; \"Takest thou no heed\nOf my power?\" and she him answer'd this;\n\"Your might,\" quoth she, \"full little is to dread;\nFor every mortal manne's power is\nBut like a bladder full of wind, y-wis;\nFor with a needle's point, when it is blow',\nMay all the boast of it be laid full low.\"\n\n\"Full wrongfully begunnest thou,\" quoth he,\n\"And yet in wrong is thy perseverance.\nKnow'st thou not how our mighty princes free\nHave thus commanded and made ordinance,\nThat every Christian wight shall have penance,\nBut if that he his Christendom withsay,\nAnd go all quit, if he will it renay?\"\n\n\"Your princes erren, as your nobley doth,\"\nQuoth then Cecile, \"and with a wood sentence\nYe make us guilty, and it is not sooth:\nFor ye that knowe well our innocence,\nForasmuch as we do aye reverence\nTo Christ, and for we bear a Christian name,\nYe put on us a crime and eke a blame.\n\n\"But we that knowe thilke name so\nFor virtuous, we may it not withsay.\"\nAlmach answered, \"Choose one of these two,\nDo sacrifice, or Christendom renay,\nThat thou may'st now escape by that way.\"\nAt which the holy blissful faire maid\nGan for to laugh, and to the judge said;\n\n\"O judge, confused in thy nicety,\nWouldest thou that I reny innocence?\nTo make me a wicked wight,\" quoth she,\n\"Lo, he dissimuleth here in audience;\nHe stareth and woodeth in his advertence.\"\nTo whom Almachius said, \"Unsely wretch,\nKnowest thou not how far my might may stretch?\n\n\"Have not our mighty princes to me given\nYea bothe power and eke authority\nTo make folk to dien or to liven?\nWhy speakest thou so proudly then to me?\"\n\"I speake not but steadfastly,\" quoth she,\nNot proudly, for I say, as for my side,\nWe hate deadly thilke vice of pride.\n\n\"And, if thou dreade not a sooth to hear,\nThen will I shew all openly by right,\nThat thou hast made a full great leasing here.\nThou say'st thy princes have thee given might\nBoth for to slay and for to quick a wight, --\nThou that may'st not but only life bereave;\nThou hast none other power nor no leave.\n\n\"But thou may'st say, thy princes have thee maked\nMinister of death; for if thou speak of mo',\nThou liest; for thy power is full naked.\"\n\"Do away thy boldness,\" said Almachius tho,\n\"And sacrifice to our gods, ere thou go.\nI recke not what wrong that thou me proffer,\nFor I can suffer it as a philosopher.\n\n\"But those wronges may I not endure,\nThat thou speak'st of our goddes here,\" quoth he.\nCecile answer'd, \"O nice creature,\nThou saidest no word, since thou spake to me,\nThat I knew not therewith thy nicety,\nAnd that thou wert in every manner wise\nA lewed officer, a vain justice.\n\n\"There lacketh nothing to thine outward eyen\nThat thou art blind; for thing that we see all\nThat it is stone, that men may well espyen,\nThat ilke stone a god thou wilt it call.\nI rede thee let thine hand upon it fall,\nAnd taste it well, and stone thou shalt it find;\nSince that thou see'st not with thine eyen blind.\n\n\"It is a shame that the people shall\nSo scorne thee, and laugh at thy folly;\nFor commonly men wot it well over all,\nThat mighty God is in his heaven high;\nAnd these images, well may'st thou espy,\nTo thee nor to themselves may not profite,\nFor in effect they be not worth a mite.\"\n\nThese wordes and such others saide she,\nAnd he wax'd wroth, and bade men should her lead\nHome to her house; \"And in her house,\" quoth he,\n\"Burn her right in a bath, with flames red.\"\nAnd as he bade, right so was done the deed;\nFor in a bath they gan her faste shetten,\nAnd night and day great fire they under betten.\n\nThe longe night, and eke a day also,\nFor all the fire, and eke the bathe's heat,\nShe sat all cold, and felt of it no woe,\nIt made her not one droppe for to sweat;\nBut in that bath her life she must lete.\nFor he, Almachius, with full wick' intent,\nTo slay her in the bath his sonde sent.\n\nThree strokes in the neck he smote her tho,\nThe tormentor, but for no manner chance\nHe might not smite her faire neck in two:\nAnd, for there was that time an ordinance\nThat no man should do man such penance,\nThe fourthe stroke to smite, soft or sore,\nThis tormentor he durste do no more;\n\nBut half dead, with her necke carven there\nHe let her lie, and on his way is went.\nThe Christian folk, which that about her were,\nWith sheetes have the blood full fair y-hent;\nThree dayes lived she in this torment,\nAnd never ceased them the faith to teach,\nThat she had foster'd them, she gan to preach.\n\nAnd them she gave her mebles and her thing,\nAnd to the Pope Urban betook them tho;\nAnd said, \"I aske this of heaven's king,\nTo have respite three dayes and no mo',\nTo recommend to you, ere that I go,\nThese soules, lo; and that I might do wirch\nHere of mine house perpetually a church.\"\n\nSaint Urban, with his deacons, privily\nThe body fetch'd, and buried it by night\nAmong his other saintes honestly;\nHer house the church of Saint Cecilie hight;\nSaint Urban hallow'd it, as he well might;\nIn which unto this day, in noble wise,\nMen do to Christ and to his saint service.",
+      "source": {
+        "name": "Geoffrey Chaucer · PoetryDB",
+        "url": "https://poetrydb.org/title/The%20Canterbury%20Tales.%20The%20Second%20Nun's%20Tale",
+        "trustTier": "community",
+        "author": "Geoffrey Chaucer"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-06T12:02:09.099Z",
+      "hash": "af4063888bdb9796"
+    },
+    {
+      "id": "art:si:ld1-1643381040022-1643381042413-1",
+      "type": "art",
+      "title": "Untitled (Botanical Study)",
+      "summary": "Smithsonian American Art Museum · 1880s · Drawings",
+      "body": "Smithsonian American Art Museum\n1880s · Drawings",
+      "image": {
+        "src": "data/images/f275adcf9323753c.jpg",
+        "alt": "Untitled (Botanical Study)",
+        "credit": "Smithsonian American Art Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://americanart.si.edu/collections/search/artwork/?id=3368",
+        "trustTier": "encyclopedic",
+        "date": "1880s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "botanical",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-06T12:02:07.973Z",
+      "hash": "24464b8c300502c7"
+    },
+    {
+      "id": "met:23424",
+      "type": "art",
+      "title": "Arrowhead (<i>Yanone</i>)",
+      "summary": "Unknown artist · dated 1645 · Steel",
+      "body": "Unknown artist · dated 1645 · Steel\nThe Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932\nArms and Armor",
+      "image": {
+        "src": "data/images/e1e9a6bad73039df.jpg",
+        "alt": "Arrowhead (<i>Yanone</i>)",
+        "credit": "The Met · The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/23424",
+        "trustTier": "encyclopedic",
+        "date": "dated 1645"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "flower",
+        "archery equipment-arrowheads"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-06T12:02:06.378Z",
+      "hash": "b279632b346b3f51"
+    },
+    {
+      "id": "met:55083",
+      "type": "art",
+      "title": "Plum Blossoms, Cut Paper and a Knife in Sheath",
+      "summary": "Uematsu Tōshū · Woodblock print (surimono); ink and color on paper",
+      "body": "Uematsu Tōshū · Woodblock print (surimono); ink and color on paper\nH. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929\nAsian Art",
+      "image": {
+        "src": "data/images/314de8c5074ce255.jpg",
+        "alt": "Plum Blossoms, Cut Paper and a Knife in Sheath",
+        "credit": "The Met · H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/55083",
+        "trustTier": "encyclopedic",
+        "author": "Uematsu Tōshū"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "flower",
+        "prints"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-06T12:02:06.186Z",
+      "hash": "abbb2c97aa57848a"
+    },
+    {
+      "id": "met:660978",
+      "type": "art",
+      "title": "Fiori di Ricami Nuovamente Posti in Luce, page 11 (recto)",
+      "summary": "Matteo Florimi · 1591 · Woodcut",
+      "body": "Matteo Florimi · 1591 · Woodcut\nThe Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953\nDrawings and Prints",
+      "image": {
+        "src": "data/images/1832371bc88a257e.jpg",
+        "alt": "Fiori di Ricami Nuovamente Posti in Luce, page 11 (recto)",
+        "credit": "The Met · The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/660978",
+        "trustTier": "encyclopedic",
+        "author": "Matteo Florimi",
+        "date": "1591"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "flower",
+        "books"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-06T12:02:05.957Z",
+      "hash": "46a30cf1c165ab8d"
+    },
+    {
+      "id": "apod:2012-01-22",
+      "type": "space",
+      "title": "Saturn's Hexagon Comes to Light",
+      "summary": "Believe it or not, this is the North Pole of Saturn. It is unclear how an unusual hexagonal cloud system that surrounds Saturn's north pole was created, keeps its shape, or how long it will last. Originally discovered during the Voyager flybys of Saturn in the 1980s, nobody has ever seen anything like it elsewhere in…",
+      "body": "Believe it or not, this is the North Pole of Saturn. It is unclear how an unusual hexagonal cloud system that surrounds Saturn's north pole was created, keeps its shape, or how long it will last. Originally discovered during the Voyager flybys of Saturn in the 1980s, nobody has ever seen anything like it elsewhere in the Solar System. Although its infrared glow was visible previously to the Cassini spacecraft now orbiting Saturn, in 2009 the mysterious hexagonal vortex became fully illuminated by sunlight for the first time during the Cassini's visit. Since then, Cassini has imaged the rotating hexagon in visible light enough times to create a time-lapse movie. The pole center was not well imaged and has been excluded. This movie shows many unexpected cloud motions, such as waves emanating from the corners of the hexagon. Planetary scientists are sure to continue to study this most unusual cloud formation for quite some time.",
+      "image": {
+        "src": "data/images/37fe9ebce4d48217.jpg",
+        "alt": "Saturn's Hexagon Comes to Light",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap120122.html",
+        "trustTier": "encyclopedic",
+        "date": "2012-01-22"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:03.251Z",
+      "hash": "e9b15959a9bcb3ed"
+    },
+    {
+      "id": "apod:1997-04-02",
+      "type": "space",
+      "title": "A Complete Aurora \r\nCredit:",
+      "summary": "Aurora frequently make complete rings around a pole of the Earth. This particular \"crown\", visible in orange near the top of this image, was taken by the orbiting Polar spacecraft about one year ago and released by NASA last month. A complete auroral oval is normally hard to photograph because part of it usually…",
+      "body": "Aurora frequently make complete rings around a pole of the Earth. This particular \"crown\", visible in orange near the top of this image, was taken by the orbiting Polar spacecraft about one year ago and released by NASA last month. A complete auroral oval is normally hard to photograph because part of it usually occurs over a brightly sunlit portion of the Earth. Polar's Earth Camera, however, can be programmed to filter out all but a certain type of ultraviolet light. In this \"color\", atmospheric oxygen can glow brighter than reflected sunlight. People with normal eyesight living near the Great Lakes in North America would have been able to see this aurora, were it not daytime!",
+      "image": {
+        "src": "data/images/24c8c10e440e709a.jpg",
+        "alt": "A Complete Aurora \r\nCredit:",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap970402.html",
+        "trustTier": "encyclopedic",
+        "date": "1997-04-02"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:03.251Z",
+      "hash": "aa14eae6a3683b1a"
+    },
+    {
+      "id": "apod:2017-09-05",
+      "type": "space",
+      "title": "Europa and Jupiter from Voyager 1",
+      "summary": "What are those spots on Jupiter? Largest and furthest, just right of center, is the Great Red Spot -- a huge storm system that has been raging on Jupiter possibly since Giovanni Cassini's likely notation of it 352 years ago. It is not yet known why this Great Spot is red. The spot toward the lower left is one of…",
+      "body": "What are those spots on Jupiter? Largest and furthest, just right of center, is the Great Red Spot -- a huge storm system that has been raging on Jupiter possibly since Giovanni Cassini's likely notation of it 352 years ago. It is not yet known why this Great Spot is red. The spot toward the lower left is one of Jupiter's largest moons: Europa. Images from Voyager in 1979 bolster the modern hypothesis that Europa has an underground ocean and is therefore a good place to look for extraterrestrial life. But what about the dark spot on the upper right? That is a shadow of another of Jupiter's large moons: Io. Voyager 1 discovered Io to be so volcanic that no impact craters could be found. Sixteen frames from Voyager 1's flyby of Jupiter in 1979 were recently reprocessed and merged to create the featured image. Forty years ago today, Voyager 1 launched from Earth and started one of the greatest explorations of the Solar System ever. Free 40th Anniversary Downloads: Voyager Posters",
+      "image": {
+        "src": "data/images/77f2aab19b7dbc69.jpg",
+        "alt": "Europa and Jupiter from Voyager 1",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap170905.html",
+        "trustTier": "encyclopedic",
+        "date": "2017-09-05"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:03.251Z",
+      "hash": "d061d3257bd2a01a"
+    },
+    {
+      "id": "apod:2001-06-28",
+      "type": "space",
+      "title": "The Topography of Mars",
+      "summary": "Mars has its ups and downs. Visible on the above interactive topographic map of the surface of Mars are giant volcanoes, deep valleys, impact craters, and terrain considered unusual and even mysterious. Particularly notable are the volcanoes of the Tharsis province, visible on the left in (false-color) red and white,…",
+      "body": "Mars has its ups and downs. Visible on the above interactive topographic map of the surface of Mars are giant volcanoes, deep valleys, impact craters, and terrain considered unusual and even mysterious. Particularly notable are the volcanoes of the Tharsis province, visible on the left in (false-color) red and white, which are taller than any mountains on Earth. Just to the left of center is Valles Marineris, a canyon much longer and deeper than Earth's Grand Canyon. On the right in blue is the Hellas Planitia, a basin over 2000 kilometers wide that was likely created by a collision with an asteroid. Mars has many smooth lowlands in the north, and many rough highlands in the south. This map was created by the Mars Orbital Laser Altimeter (MOLA) on board the robot Mars Global Surveyor currently orbiting Mars. MOLA measures heights on Mars by precisely determining the time it takes for a low power laser beam to bounce off the surface. Zoom in by clicking anywhere on the above map.",
+      "image": {
+        "src": "data/images/90eea17b4c9618cb.jpg",
+        "alt": "The Topography of Mars",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap010628.html",
+        "trustTier": "encyclopedic",
+        "date": "2001-06-28"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:03.251Z",
+      "hash": "944e8ac3c33d5c6d"
+    },
+    {
+      "id": "apod:2000-06-08",
+      "type": "space",
+      "title": "Active Regions, CMEs, and X-Class Flares",
+      "summary": "Space Weather forcasters are predicting major storm conditions over the next few days as the active Sun has produced at least three strong flares and a large coronal mass ejection (CME) since Tuesday, June 6th. This recent false color X-ray image of the Sun shows the active region generating the explosive events,…",
+      "body": "Space Weather forcasters are predicting major storm conditions over the next few days as the active Sun has produced at least three strong flares and a large coronal mass ejection (CME) since Tuesday, June 6th. This recent false color X-ray image of the Sun shows the active region generating the explosive events, here the Sun's most intense source of X-rays, as the dominant bright area just above center. X-ray hot plasma suspended in looping magnetic fields arcs above this region, cataloged as AR9026. AR9026 appears as a large group of sunspots in visible light images. The three intense flares were all X-class events, the most severe class of solar flares based on X-ray flux measurements by the earth-orbiting GOES satellites. Energetic particles from the CME, associated with the second X-class flare, were directed toward planet Earth and could produce geomagnetic storms as early as today. Possible effects range from increased auroral displays to disruptions of satellite and communications systems and electrical power grids. But wait ... there's more! In the coming days AR9026, carried slowly across the Sun (from left to right) by solar rotation, is likely to produce even more solar flares.",
+      "image": {
+        "src": "data/images/18cedcf0fcedc12c.jpg",
+        "alt": "Active Regions, CMEs, and X-Class Flares",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap000608.html",
+        "trustTier": "encyclopedic",
+        "date": "2000-06-08"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:03.251Z",
+      "hash": "054adf60a14b67e3"
+    },
+    {
+      "id": "onthisday:09-06:1930:fa3d2db9c3f29b1e",
+      "type": "history",
+      "title": "1930: Hipólito Yrigoyen",
+      "summary": "Argentine president Hipólito Yrigoyen was deposed in a military coup by José Félix Uriburu.",
+      "body": "Argentine president Hipólito Yrigoyen was deposed in a military coup by José Félix Uriburu.",
+      "image": {
+        "src": "data/images/277b2c0dd9eb3dc4.jpg",
+        "alt": "Hipólito Yrigoyen",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Hip%C3%B3lito_Yrigoyen",
+        "trustTier": "encyclopedic",
+        "date": "09-06"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:02.187Z",
+      "hash": "b872d1e8a26410f2",
+      "expires": "2026-09-09T12:02:02.187Z"
+    },
+    {
+      "id": "onthisday:09-06:1781:dd38fa987d8c0e02",
+      "type": "history",
+      "title": "1781: American Revolutionary War",
+      "summary": "American Revolutionary War: General Benedict Arnold led British forces to victory at the Battle of Groton Heights.",
+      "body": "American Revolutionary War: General Benedict Arnold led British forces to victory at the Battle of Groton Heights.",
+      "image": {
+        "src": "data/images/b9d3e9fe51e67c23.jpg",
+        "alt": "American Revolutionary War",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+        "trustTier": "encyclopedic",
+        "date": "09-06"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:02.187Z",
+      "hash": "293d3e1f6925e245",
+      "expires": "2026-09-09T12:02:02.187Z"
+    },
+    {
+      "id": "onthisday:09-06:2018:8c0df9890b257f0b",
+      "type": "history",
+      "title": "2018: Supreme Court of India",
+      "summary": "The Supreme Court of India invalidated part of Section 377 of the Penal Code, thus legalising homosexuality in India.",
+      "body": "The Supreme Court of India invalidated part of Section 377 of the Penal Code, thus legalising homosexuality in India.",
+      "image": {
+        "src": "data/images/e3d15d4e7291ffdd.png",
+        "alt": "Supreme Court of India",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_India",
+        "trustTier": "encyclopedic",
+        "date": "09-06"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:02.187Z",
+      "hash": "365127c77d8c367f",
+      "expires": "2026-09-09T12:02:02.187Z"
+    },
+    {
+      "id": "wikipedia:29762913",
+      "type": "wiki",
+      "title": "Hired armed vessels",
+      "summary": "During the 18th and 19th centuries, the Royal Navy made use of a large number of hired armed vessels. These were generally smaller vessels, often cutters and luggers, that the Royal Navy used for duties ranging from carrying despatches and passengers to convoy escort, particularly in British coastal waters, and…",
+      "body": "During the 18th and 19th centuries, the Royal Navy made use of a large number of hired armed vessels. These were generally smaller vessels, often cutters and luggers, that the Royal Navy used for duties ranging from carrying despatches and passengers to convoy escort, particularly in British coastal waters, and reconnaissance.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hired_armed_vessels",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:01.563Z",
+      "hash": "725f08e6a7210f6a"
+    },
+    {
+      "id": "wikipedia:10972685",
+      "type": "wiki",
+      "title": "N-Acetylaspartylglutamic acid",
+      "summary": "N-Acetylaspartylglutamic acid is a peptide neurotransmitter and the third-most-prevalent neurotransmitter in the mammalian nervous system. NAAG consists of N-acetylaspartic acid (NAA) and glutamic acid coupled via a peptide bond.",
+      "body": "N-Acetylaspartylglutamic acid is a peptide neurotransmitter and the third-most-prevalent neurotransmitter in the mammalian nervous system. NAAG consists of N-acetylaspartic acid (NAA) and glutamic acid coupled via a peptide bond.",
+      "image": {
+        "src": "data/images/16dfbf67b6bdbbfa.png",
+        "alt": "N-Acetylaspartylglutamic acid",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/N-Acetylaspartylglutamic_acid",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:01.235Z",
+      "hash": "0332b374edafb8fe"
+    },
+    {
+      "id": "wikipedia:20177933",
+      "type": "wiki",
+      "title": "Fondation Maeght",
+      "summary": "The Maeght Foundation or Fondation Maeght is a museum of modern art on the Colline des Gardettes, a hill overlooking Saint-Paul de Vence in the southeast of France about 25 km (16 mi) from Nice. It was established by Marguerite and Aimé Maeght in 1964 and houses paintings, sculptures, collages, ceramics and all forms…",
+      "body": "The Maeght Foundation or Fondation Maeght is a museum of modern art on the Colline des Gardettes, a hill overlooking Saint-Paul de Vence in the southeast of France about 25 km (16 mi) from Nice. It was established by Marguerite and Aimé Maeght in 1964 and houses paintings, sculptures, collages, ceramics and all forms of modern art.",
+      "image": {
+        "src": "data/images/bea6bd88b3c2e63e.jpg",
+        "alt": "Fondation Maeght",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fondation_Maeght",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:00.609Z",
+      "hash": "330612c9b74dc851"
+    },
+    {
+      "id": "wikipedia:17605730",
+      "type": "wiki",
+      "title": "Génocidaires",
+      "summary": "Génocidaires are those who commit acts of genocide.",
+      "body": "Génocidaires are those who commit acts of genocide.",
+      "image": {
+        "src": "data/images/91e7c1db88ccfd54.jpg",
+        "alt": "Génocidaires",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/G%C3%A9nocidaires",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-06T12:02:00.248Z",
+      "hash": "78ec929853b95333"
+    },
     {
       "id": "chess:DIPFS",
       "type": "chess",
@@ -11478,993 +12468,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-08-27T18:58:51.550Z",
       "hash": "9c74ef661d19a97a"
-    },
-    {
-      "id": "wikipedia:82520526",
-      "type": "wiki",
-      "title": "Ano Zenjō",
-      "summary": "Ano Zenjō was a Japanese Buddhist monk and political figure of the late Heian period and early Kamakura period. He was the seventh son of Minamoto no Yoshitomo, a younger half-brother of Minamoto no Yoritomo, and an elder full brother of Minamoto no Yoshitsune. Their mother was Tokiwa Gozen. Though often overshadowed…",
-      "body": "Ano Zenjō was a Japanese Buddhist monk and political figure of the late Heian period and early Kamakura period. He was the seventh son of Minamoto no Yoshitomo, a younger half-brother of Minamoto no Yoritomo, and an elder full brother of Minamoto no Yoshitsune. Their mother was Tokiwa Gozen. Though often overshadowed in historical narratives by his more famous brothers, Zenjō played a significant role in the founding of the Kamakura shogunate. He was the first of Yoritomo's siblings to join his cause in 1180, and recent scholarship has suggested he served as Yoritomo's representative at Izusan (Sōtōzan), one of the most powerful shrine-temple complexes in eastern Japan. He was executed in 1203 on the orders of the second shogun, Minamoto no Yoriie, amid a power struggle between the Hōjō clan and their rivals. The Ano clan takes its name from Ano-shō in Suruga Province, which was Zenjō's domain.",
-      "image": {
-        "src": "data/images/1a236d9f0aa9a67c.jpg",
-        "alt": "Ano Zenjō",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ano_Zenj%C5%8D",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-27T18:58:51.129Z",
-      "hash": "ffb71dc6d63a7dd5"
-    },
-    {
-      "id": "chess:CMtb4",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1986. Find the best line for black.",
-      "body": "Solution, from → to: d4→c4, b4→b5, a6→b5, a4→a5, c4→c5. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "8/6pp/p1p5/2P3p1/PP1k2P1/5P2/4K2P/8 b - - 1 1",
-        "lastMove": "f2e2"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/CMtb4",
-        "trustTier": "community",
-        "date": "Wed, 26 Aug 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "endgame",
-        "crushing",
-        "pawnendgame",
-        "long"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-08-26T08:50:07.042Z",
-      "hash": "db54d1fdab4268e1"
-    },
-    {
-      "id": "game:f3022997538c1768",
-      "type": "game",
-      "title": "Irish browser games start-up Entity raises $5M in funding for 'console-quality games for the 'new web' era'",
-      "summary": "The 'next-generation gaming platform' will launch in 2027.",
-      "body": "The 'next-generation gaming platform' will launch in 2027.",
-      "image": {
-        "src": "data/images/99214a45b9b42618.png",
-        "alt": "Irish browser games start-up Entity raises $5M in funding for 'console-quality games for the 'new web' era'",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/irish-browser-games-start-up-entity-raises-5m-in-funding-for-console-quality-games-for-the-new-web-era-",
-        "trustTier": "publication",
-        "author": "Nicole Carpenter",
-        "date": "Tue, 25 Aug 2026 14:46:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:50:06.775Z",
-      "hash": "f3022997538c1768",
-      "expires": "2026-11-24T08:50:06.775Z"
-    },
-    {
-      "id": "game:de338e4903fe78ae",
-      "type": "game",
-      "title": "Report: Among Us 3D co-dev Schell Games lays off staff",
-      "summary": "Schell Games has provided multiple interviews over the years on avoiding layoffs.",
-      "body": "Schell Games has provided multiple interviews over the years on avoiding layoffs.",
-      "image": {
-        "src": "data/images/c39b3c46bec19afb.png",
-        "alt": "Report: Among Us 3D co-dev Schell Games lays off staff",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/report-among-us-3d-dev-schell-games-lays-off-staff",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Tue, 25 Aug 2026 15:28:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:50:06.775Z",
-      "hash": "de338e4903fe78ae",
-      "expires": "2026-11-24T08:50:06.775Z"
-    },
-    {
-      "id": "game:8e7a87126a12fe0c",
-      "type": "game",
-      "title": "Riot Games is winding down 2XKO active development in December",
-      "summary": "Riot says it hasn't seen 'enough players stick with the game to get to a path toward sustainability.'",
-      "body": "Riot says it hasn't seen 'enough players stick with the game to get to a path toward sustainability.'",
-      "image": {
-        "src": "data/images/3cdb2971c56c9a21.png",
-        "alt": "Riot Games is winding down 2XKO active development in December",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/riot-games-is-winding-down-fighter-2xko-in-december-2026",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Tue, 25 Aug 2026 17:01:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:50:06.774Z",
-      "hash": "8e7a87126a12fe0c",
-      "expires": "2026-11-24T08:50:06.774Z"
-    },
-    {
-      "id": "trivia:3aa8dd0251a0dd99",
-      "type": "trivia",
-      "title": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
-      "summary": "Is it: HSBC · Bank of China · Standard Chartered · OCBC?",
-      "body": "Answer: OCBC.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-08-26T08:50:04.665Z",
-      "hash": "3aa8dd0251a0dd99"
-    },
-    {
-      "id": "trivia:825b48d23487f617",
-      "type": "trivia",
-      "title": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
-      "summary": "Is it: A Hat in Time · The Dresden Files · My Life as a Teenage Wizard · The Cinder Spires?",
-      "body": "Answer: The Dresden Files.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "books"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:50:04.664Z",
-      "hash": "825b48d23487f617"
-    },
-    {
-      "id": "trivia:f0a94961af7ff15d",
-      "type": "trivia",
-      "title": "All Souls and Merton are constituent colleges of what university?",
-      "summary": "Is it: Leeds · Oxford · Manchester · Cambridge?",
-      "body": "Answer: Oxford.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:50:04.664Z",
-      "hash": "f0a94961af7ff15d"
-    },
-    {
-      "id": "trivia:896e5513b791cb3f",
-      "type": "trivia",
-      "title": "What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?",
-      "summary": "Is it: Black · Brunette · Blonde · Burgundy?",
-      "body": "Answer: Blonde.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "music"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-26T08:50:04.664Z",
-      "hash": "896e5513b791cb3f"
-    },
-    {
-      "id": "passage:gutenberg:55",
-      "type": "passage",
-      "title": "The Wonderful Wizard of Oz",
-      "summary": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the…",
-      "body": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the dishes, a table, three or four chairs, and the beds. Uncle Henry and Aunt Em had a big bed in one corner, and Dorothy a little bed in another corner. There was no garret at all, and no cellar—except a small hole dug in the ground, called a cyclone cellar, where the family could go in case one of those great whirlwinds arose, mighty enough…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/55",
-        "trustTier": "publication",
-        "author": "L. Frank Baum",
-        "date": "1900"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "fantasy",
-        "childrens",
-        "adventure"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-26T08:50:04.363Z",
-      "hash": "7baef76d70f6712b"
-    },
-    {
-      "id": "comic:smbc:cdf3097ce9e0b23d",
-      "type": "comic",
-      "title": "Jedi",
-      "summary": "Later he returns as Darth Flation.",
-      "image": {
-        "src": "data/images/629eb187337aaca4.png",
-        "alt": "Later he returns as Darth Flation.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/jedi",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Tue, 25 Aug 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-26T08:50:01.739Z",
-      "hash": "cdf3097ce9e0b23d"
-    },
-    {
-      "id": "comic:xkcd:2321",
-      "type": "comic",
-      "title": "Low-Background Metal",
-      "summary": "The only effect on the history books were a few confusing accounts of something called 'Greek fire.'",
-      "image": {
-        "src": "data/images/5adf4f71688cbb59.png",
-        "alt": "The only effect on the history books were a few confusing accounts of something called 'Greek fire.'",
-        "credit": "xkcd #2321 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/2321/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2020-06-17"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-26T08:50:01.497Z",
-      "hash": "20aa0b602232738f"
-    },
-    {
-      "id": "food:feba2d9444a6329b",
-      "type": "food",
-      "title": "Cherry Tomato Tart with Burnt Scallion Ricotta",
-      "summary": "This cherry tomato tart starts with an all-butter crust spread with a thin swipe of chili crisp, then filled with ricotta folded with deeply roasted scallions and fresh chives. A generous layer blistered cherry tomatoes tops the ricotta, and a final scattering of toasted almonds brings added…",
-      "body": "This cherry tomato tart starts with an all-butter crust spread with a thin swipe of chili crisp, then filled with ricotta folded with deeply roasted scallions and fresh chives. A generous layer blistered cherry tomatoes tops the ricotta, and a final scattering of toasted almonds brings added crunch. Bake this tart, share with friends! Continue reading Cherry Tomato Tart with Burnt Scallion Ricotta on 101 Cookbooks",
-      "image": {
-        "src": "data/images/49811e14f1488548.jpg",
-        "alt": "Cherry Tomato Tart with Burnt Scallion Ricotta",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/cherry-tomato-tart/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Sat, 18 Jul 2026 00:47:1"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "baking recipes",
-        "dinner ideas",
-        "fall",
-        "heidi's favorites",
-        "main course recipes",
-        "pies and tart recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:50:01.239Z",
-      "hash": "feba2d9444a6329b"
-    },
-    {
-      "id": "craft:3a6540a2f82355f2",
-      "type": "craft",
-      "title": "Björn Persson’s New Book Highlights the World’s Incredible and Endangered Wildlife",
-      "summary": "'The Earth We Share,' forthcoming from Rizzoli next month, celebrates the diverse animal realm.",
-      "body": "'The Earth We Share,' forthcoming from Rizzoli next month, celebrates the diverse animal realm.",
-      "image": {
-        "src": "data/images/b80425683fd5c58e.jpg",
-        "alt": "Björn Persson’s New Book Highlights the World’s Incredible and Endangered Wildlife",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/08/bjorn-persson-the-earth-we-share-book-photography/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Tue, 25 Aug 2026 13:46:4"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "books",
-        "nature",
-        "photography",
-        "animals",
-        "björn persson",
-        "conservation",
-        "wildlife"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:50:01.129Z",
-      "hash": "3a6540a2f82355f2"
-    },
-    {
-      "id": "craft:9fd2af2b6079a1d3",
-      "type": "craft",
-      "title": "Leslie Wayne’s ‘The Unintended Blues’ Contemplates Rising Seas and Vulnerable Shorelines",
-      "summary": "The show is part of the Lower Manhattan Cultural Counsel's 2026 River to River Festival.",
-      "body": "The show is part of the Lower Manhattan Cultural Counsel's 2026 River to River Festival.",
-      "image": {
-        "src": "data/images/56a7f15fa73b658e.jpg",
-        "alt": "Leslie Wayne’s ‘The Unintended Blues’ Contemplates Rising Seas and Vulnerable Shorelines",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/08/leslie-wayne-the-unintended-blues-paintings-rivers-aerial-landscapes/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Tue, 25 Aug 2026 19:22:2"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "climate",
-        "nature",
-        "environment",
-        "icebergs",
-        "landscapes",
-        "leslie wayne",
-        "ocean"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:50:01.128Z",
-      "hash": "9fd2af2b6079a1d3"
-    },
-    {
-      "id": "word:2a6fe5aa979245a4",
-      "type": "word",
-      "title": "epiphany",
-      "summary": "Noun: An illuminating realization or discovery, often resulting in a personal feeling of elation, awe, or wonder.",
-      "body": "1. An illuminating realization or discovery, often resulting in a personal feeling of elation, awe, or wonder.\n2. A manifestation or appearance of a divine or superhuman being.\n3. Alternative letter-case form of Epiphany.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/epiphany",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-26T08:50:00.658Z",
-      "hash": "2a6fe5aa979245a4"
-    },
-    {
-      "id": "word:e7feed4c67ffa8fb",
-      "type": "word",
-      "title": "sophrosyne",
-      "summary": "Noun: The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "body": "1. The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/sophrosyne",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-26T08:49:31.910Z",
-      "hash": "e7feed4c67ffa8fb"
-    },
-    {
-      "id": "quote:73098ff930bbe72e",
-      "type": "quote",
-      "title": "“Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.”",
-      "summary": "— Sydney Smith",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Sydney_Smith",
-        "trustTier": "community",
-        "author": "Sydney Smith"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-26T08:49:31.841Z",
-      "hash": "73098ff930bbe72e"
-    },
-    {
-      "id": "quote:62a681ddb3ffa63c",
-      "type": "quote",
-      "title": "“An action committed in anger is an action doomed to failure.”",
-      "summary": "— Genghis Khan",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Genghis_Khan",
-        "trustTier": "community",
-        "author": "Genghis Khan"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-26T08:49:31.841Z",
-      "hash": "62a681ddb3ffa63c"
-    },
-    {
-      "id": "quote:02818837b65edb82",
-      "type": "quote",
-      "title": "“Be the silent watcher of your thoughts and behavior. You are beneath the thinker.”",
-      "summary": "— Eckhart Tolle",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Eckhart_Tolle",
-        "trustTier": "community",
-        "author": "Eckhart Tolle"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-26T08:49:31.841Z",
-      "hash": "02818837b65edb82"
-    },
-    {
-      "id": "article:8993fc46e8cc4c76",
-      "type": "article",
-      "title": "American Dream: The Time Is Right",
-      "summary": "“American Dream was the hardest film I ever made,” Barbara Kopple recently told me. That’s saying a lot for the pioneering documentarian’s multidecade career, in which she’s taken on such subjects as war reporters, mental illness, gun control, and, most indelibly, labor struggles. Bear in mind,…",
-      "body": "“American Dream was the hardest film I ever made,” Barbara Kopple recently told me. That’s saying a lot for the pioneering documentarian’s multidecade career, in which she’s taken on such subjects as war reporters, mental illness, gun control, and, most indelibly, labor struggles. Bear in mind, she had strikebreakers point guns at her while she made her first film, Harlan County USA (1976). For that documentary, Kopple, in her late twenties, chronicled Kentucky coal miners and their families in their 1973 strike against a power company. The miners held together through thirteen months of…",
-      "image": {
-        "src": "data/images/1eacd6c0eb2ad783.jpg",
-        "alt": "American Dream: The Time Is Right",
-        "credit": "The Current (Criterion)"
-      },
-      "source": {
-        "name": "The Current (Criterion)",
-        "url": "https://www.criterion.com/current/posts/9262-american-dream-the-time-is-right",
-        "trustTier": "publication",
-        "author": "Thom Powers",
-        "date": "Tue, 25 Aug 2026 08:23:0"
-      },
-      "tags": [
-        "film",
-        "essay",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:29.638Z",
-      "hash": "8993fc46e8cc4c76"
-    },
-    {
-      "id": "article:6def8fe8f34bd66a",
-      "type": "article",
-      "title": "Some more things about Django I've been enjoying",
-      "summary": "Hello! I&rsquo;m on a funny journey right now where I&rsquo;m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It&rsquo;s kind of an interesting journey because it doesn&rsquo;t necessarily feel &ldquo;easy&rdquo; to me…",
-      "body": "Hello! I&rsquo;m on a funny journey right now where I&rsquo;m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It&rsquo;s kind of an interesting journey because it doesn&rsquo;t necessarily feel &ldquo;easy&rdquo; to me to make websites in this way: I never learned how to do it in the 2000s or 2010s, and there&rsquo;s a lot I need to learn. So here are some Django features that make building this kind of site feel more achievable than when I was trying and failing to use Go&rsquo;s standard library or Flask. And…",
-      "source": {
-        "name": "Julia Evans",
-        "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-        "trustTier": "community",
-        "date": "2026-07-21T00:00:00+00:0"
-      },
-      "tags": [
-        "programming",
-        "computers",
-        "technology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:26.184Z",
-      "hash": "6def8fe8f34bd66a"
-    },
-    {
-      "id": "article:6db89693d5c2bedc",
-      "type": "article",
-      "title": "Dolly Parton and Kermit the Frog Sing Everyday People (1987)",
-      "summary": "On the fifth episode of her late 80s variety show Dolly, Dolly Parton was joined by Kermit the Frog for a lovely rendition of Sly and the Family Stone’s 1968 hit Everyday People. You can also watch the clip on Instagram and Reddit. The full episode, which features special guest stars Delta Burke,…",
-      "body": "On the fifth episode of her late 80s variety show Dolly, Dolly Parton was joined by Kermit the Frog for a lovely rendition of Sly and the Family Stone’s 1968 hit Everyday People. You can also watch the clip on Instagram and Reddit. The full episode, which features special guest stars Delta Burke, Terence Trent D’Arby, and the Oak Ridge Boys (in addition to Jim Henson as Kermit), can be seen on YouTube (not very good quality unfortunately). Tags: Dolly Parton · music · The Muppets · video",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/08/dolly-parton-and-kermit-the-frog-sing-everyday-people-1987",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-08-25T22:31:00Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:26.127Z",
-      "hash": "6db89693d5c2bedc"
-    },
-    {
-      "id": "article:87f7ad064df150bd",
-      "type": "article",
-      "title": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
-      "summary": "This summer, I’m revisiting one of my favorite episodes. If you haven’t heard it, now is the time. If you have, it’s a classic and worth listening to again. Brad Jacobs has built eight billion-dollar companies, completed more than 500 acquisitions, and created extraordinary returns for…",
-      "body": "This summer, I’m revisiting one of my favorite episodes. If you haven’t heard it, now is the time. If you have, it’s a classic and worth listening to again. Brad Jacobs has built eight billion-dollar companies, completed more than 500 acquisitions, and created extraordinary returns for shareholders over four decades. Few people understand how great … The post The Mindset Behind Building a Great Little Business | Brad Jacobs appeared first on Farnam Street.",
-      "image": {
-        "src": "data/images/85c65ff9ac825193.png",
-        "alt": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
-        "credit": "Farnam Street"
-      },
-      "source": {
-        "name": "Farnam Street",
-        "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-        "trustTier": "community",
-        "author": "Vicky",
-        "date": "Thu, 30 Jul 2026 09:45:0"
-      },
-      "tags": [
-        "ideas",
-        "psychology",
-        "decision-making"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:25.432Z",
-      "hash": "87f7ad064df150bd"
-    },
-    {
-      "id": "article:25693232adaf3e60",
-      "type": "article",
-      "title": "20 Minutes of Exercise Is as Good as a 90-Minute Nap If You’re Sleep Deprived",
-      "summary": "Don’t sleep on this new finding The post 20 Minutes of Exercise Is as Good as a 90-Minute Nap If You’re Sleep Deprived appeared first on Nautilus.",
-      "body": "Don’t sleep on this new finding The post 20 Minutes of Exercise Is as Good as a 90-Minute Nap If You’re Sleep Deprived appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/9d4fbfafcd4a6a99.jpg",
-        "alt": "20 Minutes of Exercise Is as Good as a 90-Minute Nap If You’re Sleep Deprived",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/20-minutes-of-exercise-is-as-good-as-a-90-minute-nap-if-youre-sleep-deprived-1284348/",
-        "trustTier": "publication",
-        "author": "Jake Currie",
-        "date": "Tue, 25 Aug 2026 18:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "health"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:25.359Z",
-      "hash": "25693232adaf3e60"
-    },
-    {
-      "id": "article:4b6cc4fd448c8807",
-      "type": "article",
-      "title": "Watermen’s Museum in Yorktown, Virginia",
-      "summary": "Unlike museums that focus on naval battles or famous ships, the Watermen’s Museum celebrates the ordinary people who built a culture around the Chesapeake Bay. Known as “watermen,” this group includes the generations of fishermen, crabbers, oystermen, boatbuilders, and commercial mariners whose…",
-      "body": "Unlike museums that focus on naval battles or famous ships, the Watermen’s Museum celebrates the ordinary people who built a culture around the Chesapeake Bay. Known as “watermen,” this group includes the generations of fishermen, crabbers, oystermen, boatbuilders, and commercial mariners whose livelihoods depended on understanding the tides, winds, and rhythms of the water. The museum’s collections include wooden workboats, handmade decoys, oyster tongs, crab pots, nets, and other maritime artifacts that trace centuries of labor on Virginia’s waterways. They tell the story of a profession…",
-      "image": {
-        "src": "data/images/f049dbf69a826e0b.jpg",
-        "alt": "Watermen’s Museum in Yorktown, Virginia",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/watermen-s-museum",
-        "trustTier": "publication",
-        "date": "Tue, 25 Aug 2026 15:25:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:24.375Z",
-      "hash": "4b6cc4fd448c8807"
-    },
-    {
-      "id": "article:ac954627b41cf2c8",
-      "type": "article",
-      "title": "Overreaching causal language in the social sciences",
-      "summary": "Across the social sciences, many studies use cross-sectional designs that reveal associations but are generally unable to support direct causal claims, yet authors of such articles may make or imply causal claims anyway. Here, to examine the prevalence of such ‘overreaching’ causal language, we…",
-      "body": "Across the social sciences, many studies use cross-sectional designs that reveal associations but are generally unable to support direct causal claims, yet authors of such articles may make or imply causal claims anyway. Here, to examine the prevalence of such ‘overreaching’ causal language, we analysed 194,631 cross-sectional articles using large language models. Over the period […] The post Overreaching causal language in the social sciences appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/08/overreaching-causal-language-in-the-social-sciences.html?utm_source=rss&utm_medium=rss&utm_campaign=overreaching-causal-language-in-the-social-sciences",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Wed, 26 Aug 2026 06:54:5"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "data source",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:23.654Z",
-      "hash": "ac954627b41cf2c8"
-    },
-    {
-      "id": "article:266de726c5aa4f28",
-      "type": "article",
-      "title": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
-      "summary": "Photographs from when Atlantic City beaches featured artists ornately sculpting sand.",
-      "body": "Photographs from when Atlantic City beaches featured artists ornately sculpting sand.",
-      "image": {
-        "src": "data/images/67dbd93da23a3d93.jpg",
-        "alt": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture",
-        "trustTier": "publication",
-        "date": "Wed, 29 Jul 2026 13:07:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:23.524Z",
-      "hash": "266de726c5aa4f28"
-    },
-    {
-      "id": "article:bfc1334674493808",
-      "type": "article",
-      "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-      "summary": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
-      "body": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
-      "image": {
-        "src": "data/images/24d62084f1119c47.webp",
-        "alt": "‘Huge Breakthrough’ in the Math of Imbalance",
-        "credit": "Quanta Magazine"
-      },
-      "source": {
-        "name": "Quanta Magazine",
-        "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-        "trustTier": "publication",
-        "author": "Max G. Levy",
-        "date": "Fri, 21 Aug 2026 14:53:3"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "mathematics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:23.421Z",
-      "hash": "bfc1334674493808"
-    },
-    {
-      "id": "greek:074bd106f5f7a96a",
-      "type": "greek",
-      "title": "ἔχω",
-      "summary": "ἔχω — “I have” · verb",
-      "body": "Note: regular -ω verb; 3sg ἔχει\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%94%CF%87%CF%89#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "verb"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-26T08:49:23.073Z",
-      "hash": "074bd106f5f7a96a"
-    },
-    {
-      "id": "greek:9e7f4017b4b6afed",
-      "type": "greek",
-      "title": "ἐν",
-      "summary": "ἐν — “in” · preposition",
-      "body": "Note: takes dative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%90%CE%BD#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "preposition",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-26T08:49:23.073Z",
-      "hash": "9e7f4017b4b6afed"
-    },
-    {
-      "id": "poetry:1fad860db43115f3",
-      "type": "poem",
-      "title": "Sonnet XXXVIII: Sitting Alone, Love",
-      "summary": "Sitting alone, Love bids me go and write;\nReason plucks back, commanding me to stay,\nBoasting that she doth still direct the way,\nOr else Love were unable to endite.",
-      "body": "Sitting alone, Love bids me go and write;\nReason plucks back, commanding me to stay,\nBoasting that she doth still direct the way,\nOr else Love were unable to endite.\nLove, growing angry, vexed at the spleen\nAnd scorning Reason's maimed argument,\nStraight taxeth Reason, wanting to invent,\nWhere she with Love conversing hath not been.\nReason, reproached with this coy disdain,\nDespiteth Love, and laugheth at her folly;\nAnd Love, condemning Reason's reason wholly,\nThought it in weight too light by many'a grain.\nReason, put back, doth out of sight remove,\nAnd Love alone picks reason out of love.",
-      "source": {
-        "name": "Michael Drayton · PoetryDB",
-        "url": "https://poetrydb.org/title/Sonnet%20XXXVIII%3A%20Sitting%20Alone%2C%20Love",
-        "trustTier": "community",
-        "author": "Michael Drayton"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:23.072Z",
-      "hash": "1fad860db43115f3"
-    },
-    {
-      "id": "poetry:c6e688f522209dfc",
-      "type": "poem",
-      "title": "Epitaph. on Two Lovers Struck Dead by Lightning.",
-      "summary": "When Eastern lovers feed the funeral fire,\nOn the same pile the faithful pair expire.\nHere pitying Heaven that virtue mutual found,\nAnd blasted both, that it might neither wound.",
-      "body": "When Eastern lovers feed the funeral fire,\nOn the same pile the faithful pair expire.\nHere pitying Heaven that virtue mutual found,\nAnd blasted both, that it might neither wound.\nHearts so sincere, the Almighty saw well pleased,\nSent his own lightning, and the victims seized.\n\n    NEAR THIS PLACE LIE THE BODIES OF\n      JOHN HEWET AND SARAH DREW,\n        AN INDUSTRIOUS YOUNG MAN,\n  AND VIRTUOUS MAIDEN OF THIS PARISH;\n        WHO, BEING AT HARVEST-WORK\n         (WITH SEVERAL OTHERS),\nWERE IN ONE INSTANT KILLED BY LIGHTNING,\n        THE LAST DAY OF JULY 1718.\n\nThink not, by rigorous judgment seized,\n  A pair so faithful could expire;\nVictims so pure Heaven saw well pleased,\n  And snatch'd them in celestial fire.\n\nLive well, and fear no sudden fate;\n  When God calls virtue to the grave,\nAlike 'tis justice soon or late,\n  Mercy alike to kill or save.\n\nVirtue unmoved can hear the call,\n  And face the flash that melts the ball.",
-      "source": {
-        "name": "Alexander Pope · PoetryDB",
-        "url": "https://poetrydb.org/title/Epitaph.%20on%20Two%20Lovers%20Struck%20Dead%20by%20Lightning.",
-        "trustTier": "community",
-        "author": "Alexander Pope"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-08-26T08:49:23.072Z",
-      "hash": "c6e688f522209dfc"
-    },
-    {
-      "id": "met:307923",
-      "type": "art",
-      "title": "Woven Fragment",
-      "summary": "Unknown artist · 9th–13th century · Camelid hair, cotton",
-      "body": "Unknown artist · 9th–13th century · Camelid hair, cotton\nRogers Fund, 1928\nThe Michael C. Rockefeller Wing",
-      "image": {
-        "src": "data/images/e9fcb286ee80c4bb.jpg",
-        "alt": "Woven Fragment",
-        "credit": "The Met · Rogers Fund, 1928"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/307923",
-        "trustTier": "encyclopedic",
-        "date": "9th–13th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "river",
-        "textiles-woven"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-26T08:49:21.249Z",
-      "hash": "6c5f6d0a56a12e66"
-    },
-    {
-      "id": "met:337012",
-      "type": "art",
-      "title": "The Departure",
-      "summary": "Charles-François Daubigny · 1861 · Etching; second state of three (Delteil)",
-      "body": "Charles-François Daubigny · 1861 · Etching; second state of three (Delteil)\nGift of Theodore De Witt, 1923\nDrawings and Prints",
-      "image": {
-        "src": "data/images/ac5112728c77001a.jpg",
-        "alt": "The Departure",
-        "credit": "The Met · Gift of Theodore De Witt, 1923"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/337012",
-        "trustTier": "encyclopedic",
-        "author": "Charles-François Daubigny",
-        "date": "1861"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "river",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-26T08:49:21.118Z",
-      "hash": "917ee4816bb8bf49"
-    },
-    {
-      "id": "met:19846",
-      "type": "art",
-      "title": "Vase",
-      "summary": "T. J. Wheatley & Company · ca. 1880–82 · Earthenware",
-      "body": "T. J. Wheatley & Company · ca. 1880–82 · Earthenware\nGift of Robert A. Ellison Jr., 2018\nThe American Wing",
-      "image": {
-        "src": "data/images/09e4976c59917e16.jpg",
-        "alt": "Vase",
-        "credit": "The Met · Gift of Robert A. Ellison Jr., 2018"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/19846",
-        "trustTier": "encyclopedic",
-        "author": "T. J. Wheatley & Company",
-        "date": "ca. 1880–82"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "river"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-08-26T08:49:20.801Z",
-      "hash": "0f134826f9fa8eb1"
-    },
-    {
-      "id": "apod:2003-02-16",
-      "type": "space",
-      "title": "Southwest Mercury",
-      "summary": "The planet Mercury resembles a moon. Mercury's old surface is heavily cratered like many moons. Mercury is larger than most moons but smaller than Jupiter's moon Ganymede and Saturn's moon Titan. Mercury is much denser and more massive than any moon, though, because it is made mostly of iron. In fact, the Earth is…",
-      "body": "The planet Mercury resembles a moon. Mercury's old surface is heavily cratered like many moons. Mercury is larger than most moons but smaller than Jupiter's moon Ganymede and Saturn's moon Titan. Mercury is much denser and more massive than any moon, though, because it is made mostly of iron. In fact, the Earth is the only planet more dense. A visitor to Mercury's surface would see some strange sights. Because Mercury rotates exactly three times every two orbits around the Sun, and because Mercury's orbit is so elliptical, a visitor to Mercury might see the Sun rise, stop in the sky, go back toward the rising horizon, stop again, and then set quickly over the other horizon. From Earth, Mercury's proximity to the Sun causes it to be visible only for a short time just after sunset or just before sunrise.",
-      "image": {
-        "src": "data/images/e48ecd90ddc9bacb.jpg",
-        "alt": "Southwest Mercury",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap030216.html",
-        "trustTier": "encyclopedic",
-        "date": "2003-02-16"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-26T08:49:20.231Z",
-      "hash": "7a0b26c794bb9895"
-    },
-    {
-      "id": "apod:2006-06-26",
-      "type": "space",
-      "title": "Starry Night",
-      "summary": "The painting Starry Night is one of the most famous icons of the night sky ever created. The scene was painted by Vincent van Gogh in southern France in 1889. The swirling style of Starry Night appears, to many, to make the night sky come alive. Although van Gogh frequently portrayed real settings in his paintings,…",
-      "body": "The painting Starry Night is one of the most famous icons of the night sky ever created. The scene was painted by Vincent van Gogh in southern France in 1889. The swirling style of Starry Night appears, to many, to make the night sky come alive. Although van Gogh frequently portrayed real settings in his paintings, art historians do not agree on precisely what stars and planets are being depicted in Starry Night. The style of Starry Night is post-impressionism, a popular painting style at the end of the nineteenth century. The original Starry Night painting hangs in the Museum of Modern Art in New York City, New York, USA.",
-      "image": {
-        "src": "data/images/ef18e3b237b0de31.jpg",
-        "alt": "Starry Night",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap060626.html",
-        "trustTier": "encyclopedic",
-        "date": "2006-06-26"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-08-26T08:49:20.231Z",
-      "hash": "640d1210e6806bf3"
     },
     {
       "id": "curated:handwriting-beats-typing",

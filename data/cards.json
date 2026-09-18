@@ -1,7 +1,1255 @@
 {
-  "generatedAt": "2026-09-17T13:14:14.896Z",
+  "generatedAt": "2026-09-18T12:50:15.350Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:lpmqI",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 2019. Find the best line for white.",
+      "body": "Solution, from → to: g4→h5, g6→h5, d7→g4. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "8/3Q4/5qkp/3p4/1p2n1B1/1Pr4P/P1P2bP1/2R2K2 w - - 1 1",
+        "lastMove": "h7g6"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/lpmqI",
+        "trustTier": "community",
+        "date": "Fri, 18 Sep 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "matein2",
+        "middlegame",
+        "short",
+        "attraction"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-09-18T12:50:08.139Z",
+      "hash": "630adcd25d9056db"
+    },
+    {
+      "id": "game:abd4f3a090b19e5b",
+      "type": "game",
+      "title": "King workers call strike after collective agreement negotiations stall",
+      "summary": "Unionized employees at the Candy Crush studio will down tools on September 25 if the impasse cannot be overcome.",
+      "body": "Unionized employees at the Candy Crush studio will down tools on September 25 if the impasse cannot be overcome.",
+      "image": {
+        "src": "data/images/5c60b20671e6b23f.png",
+        "alt": "King workers call strike after collective agreement negotiations stall",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
+        "trustTier": "publication",
+        "author": "Chris Kerr",
+        "date": "Fri, 18 Sep 2026 12:03:3"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:50:07.460Z",
+      "hash": "abd4f3a090b19e5b",
+      "expires": "2026-12-17T12:50:07.460Z"
+    },
+    {
+      "id": "game:ae2e89eaa3c1863e",
+      "type": "game",
+      "title": "Game Conference MX (GCMX)",
+      "summary": "Game Conference MX (GCMX)",
+      "image": {
+        "src": "data/images/f146a15574b49117.png",
+        "alt": "Game Conference MX (GCMX)",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/events/untitled",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:50:07.460Z",
+      "hash": "ae2e89eaa3c1863e",
+      "expires": "2026-12-17T12:50:07.460Z"
+    },
+    {
+      "id": "game:25ef5b81066a2683",
+      "type": "game",
+      "title": "gamescom",
+      "summary": "gamescom",
+      "image": {
+        "src": "data/images/16fb7ffc9152f3ef.jpg",
+        "alt": "gamescom",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/events/gamescom",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:50:07.460Z",
+      "hash": "25ef5b81066a2683",
+      "expires": "2026-12-17T12:50:07.460Z"
+    },
+    {
+      "id": "trivia:4cc5a82ce3c0de80",
+      "type": "trivia",
+      "title": "What is the name of Sid's dog in \"Toy Story\"?",
+      "summary": "Is it: Buster · Mr. Jones · Whiskers · Scud?",
+      "body": "Answer: Scud.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "cartoon & animations"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:50:04.980Z",
+      "hash": "4cc5a82ce3c0de80"
+    },
+    {
+      "id": "trivia:deccdb8402d7d7b2",
+      "type": "trivia",
+      "title": "Which car tire manufacturer is famous for its \"Eagle\" brand of tires, and is the official tire supplier of NASCAR?",
+      "summary": "Is it: Bridgestone · Pirelli · Michelin · Goodyear?",
+      "body": "Answer: Goodyear.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "vehicles"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:50:04.980Z",
+      "hash": "deccdb8402d7d7b2"
+    },
+    {
+      "id": "trivia:fc767d41aff54d8b",
+      "type": "trivia",
+      "title": "Which major bank's collapse was notable as one of the causes of the Financal Crisis of 2008?",
+      "summary": "Is it: Lloyds · Barclays · Lehman Brothers · HSBC?",
+      "body": "Answer: Lehman Brothers.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "politics"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-09-18T12:50:04.979Z",
+      "hash": "fc767d41aff54d8b"
+    },
+    {
+      "id": "trivia:50cbea8a4f6da2ee",
+      "type": "trivia",
+      "title": "In the Street Fighter franchise, what's Ken's surname?",
+      "summary": "Is it: Mitchell · Morrison · Michaels · Masters?",
+      "body": "Answer: Masters.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:50:04.979Z",
+      "hash": "50cbea8a4f6da2ee"
+    },
+    {
+      "id": "passage:gutenberg:174",
+      "type": "passage",
+      "title": "The Picture of Dorian Gray",
+      "summary": "The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn. From the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable…",
+      "body": "The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn. From the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable cigarettes, Lord Henry Wotton could just catch the gleam of the honey-sweet and honey-coloured blossoms of a laburnum, whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/174",
+        "trustTier": "publication",
+        "author": "Oscar Wilde",
+        "date": "1890"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "gothic",
+        "aesthetics"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:50:04.523Z",
+      "hash": "617160afbde68505"
+    },
+    {
+      "id": "comic:smbc:ef0a96a021383f92",
+      "type": "comic",
+      "title": "Waste",
+      "summary": "Seriously though, next time there's a problem like this just call me.",
+      "image": {
+        "src": "data/images/7eda7056a1021e1f.png",
+        "alt": "Seriously though, next time there's a problem like this just call me.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/waste-2",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Thu, 17 Sep 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-18T12:50:03.294Z",
+      "hash": "ef0a96a021383f92"
+    },
+    {
+      "id": "comic:xkcd:877",
+      "type": "comic",
+      "title": "Beauty",
+      "summary": "The best hugs are probably from hagfish, which can extrude microscopic filaments that convert a huge volume of water around them to slime in seconds. Instant cozy blanket!",
+      "body": "[[Two humans are discussing science. They are interrupted by an off-panel shout.]] Human: The problem with scientists is that you take the wonder and beauty out of everything by trying to analyze it. Shout: Dude! [[A Scientist runs across the panel, carrying a microscope and a slime mold.]] Scientist: My plasmoidal slime molds have heightened pigment production! Check out that yellow color! That actually makes them zinc-resistatn. Amazing, huh? [[The slime mold is proferred to the same human who was speaking earlier. The close up hides the Scientist's face.]] Human: It looks like dog barf. Scientist: Hah, yeah! F. Septica is nicknamed \"dog vomit slime mold.\" Cool, huh? Check out my slides!…",
+      "image": {
+        "src": "data/images/29fa45ebb2a170e7.png",
+        "alt": "The best hugs are probably from hagfish, which can extrude microscopic filaments that convert a huge volume of water around them to slime in seconds. Instant cozy blanket!",
+        "credit": "xkcd #877 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/877/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2011-03-25"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-18T12:50:03.102Z",
+      "hash": "bd4b33ac10e564f2"
+    },
+    {
+      "id": "craft:983e9784c7cf455a",
+      "type": "craft",
+      "title": "South Tyrol’s Bunkers Shoulder WWII History in Vincenzo Pagliuca’s Portraits",
+      "summary": "The photographer explores unexpected architecture in the Italian Alps.",
+      "body": "The photographer explores unexpected architecture in the Italian Alps.",
+      "image": {
+        "src": "data/images/de2d8cfe6d39d7c2.jpg",
+        "alt": "South Tyrol’s Bunkers Shoulder WWII History in Vincenzo Pagliuca’s Portraits",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/09/vincenzio-pagliuca-photography-bunker-book/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Thu, 17 Sep 2026 14:54:2"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "books",
+        "history",
+        "photography",
+        "architecture",
+        "concrete",
+        "mountains",
+        "stone"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:50:02.017Z",
+      "hash": "983e9784c7cf455a"
+    },
+    {
+      "id": "craft:9a912ad74e447ae9",
+      "type": "craft",
+      "title": "Robot Football Is Getting Serious At Maker Faire Rome",
+      "summary": "RoboCup’s humanoids have played their first 11-a-side match. This October, some of thesame problems — balance, vision, autonomy and plenty of debugging — come to MakerFaire Rome. This summer, twenty-two humanoid robots walked onto a football pitch in Incheon, South Korea. Eleven against eleven. No…",
+      "body": "RoboCup’s humanoids have played their first 11-a-side match. This October, some of thesame problems — balance, vision, autonomy and plenty of debugging — come to MakerFaire Rome. This summer, twenty-two humanoid robots walked onto a football pitch in Incheon, South Korea. Eleven against eleven. No remote controls. On 5 July 2026, B-Human from Bremen and […] The post Robot Football Is Getting Serious At Maker Faire Rome appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/ae6c8a7cfb6132ee.png",
+        "alt": "Robot Football Is Getting Serious At Maker Faire Rome",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/maker-news/robot-football-is-getting-serious-at-maker-faire-rome/",
+        "trustTier": "publication",
+        "author": "Ursula Pala",
+        "date": "Thu, 17 Sep 2026 20:23:2"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "maker faire",
+        "maker news",
+        "maker faire rome"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:50:01.628Z",
+      "hash": "9a912ad74e447ae9"
+    },
+    {
+      "id": "word:9cb9ec4e6a25c900",
+      "type": "word",
+      "title": "petrichor",
+      "summary": "Noun: The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.",
+      "body": "1. The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.\n2. The yellow organic oil that yields this scent.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/petrichor",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:50:00.654Z",
+      "hash": "9cb9ec4e6a25c900"
+    },
+    {
+      "id": "word:c2ff7fb2c6b82c2a",
+      "type": "word",
+      "title": "serendipity",
+      "summary": "Noun: The phenomenon of making an unplanned, fortunate discovery through a combination of unexpected circumstances and insightful recognition.",
+      "body": "1. The phenomenon of making an unplanned, fortunate discovery through a combination of unexpected circumstances and insightful recognition.\n2. An unsought, unintended or unexpected, but fortunate, discovery or learning experience that occurs by accident.\n3. The occurrence and development of events by chance in a happy or beneficial way.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/serendipity",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:50.385Z",
+      "hash": "c2ff7fb2c6b82c2a"
+    },
+    {
+      "id": "quote:ffea67457632f2ff",
+      "type": "quote",
+      "title": "“The four P's to success are pressure, persistence, perseverance, and prayer.”",
+      "summary": "— Steve Harvey",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Steve_Harvey",
+        "trustTier": "community",
+        "author": "Steve Harvey"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:49.748Z",
+      "hash": "ffea67457632f2ff"
+    },
+    {
+      "id": "quote:0e606b81c0b4a950",
+      "type": "quote",
+      "title": "“The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.”",
+      "summary": "— Zig Ziglar",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Zig_Ziglar",
+        "trustTier": "community",
+        "author": "Zig Ziglar"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:49.748Z",
+      "hash": "0e606b81c0b4a950"
+    },
+    {
+      "id": "quote:294ca55c10e4cd08",
+      "type": "quote",
+      "title": "“Absorb what is useful, discard what is not, add what is uniquely your own.”",
+      "summary": "— Bruce Lee",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Bruce_Lee",
+        "trustTier": "community",
+        "author": "Bruce Lee"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:49.747Z",
+      "hash": "294ca55c10e4cd08"
+    },
+    {
+      "id": "book-review:bd8a1c821ac5f225",
+      "type": "book-review",
+      "title": "The Uninhabitable Front",
+      "summary": "“Israeli military aircraft flew low over the Lebanese villages of Ras Naqoura and Aita al-Shaab, spraying agricultural fields with a fine mist... Within days, the green of fields, orchards, and olive groves turned brown. Farmers who had worked the same soil for generations watched their trees…",
+      "body": "“Israeli military aircraft flew low over the Lebanese villages of Ras Naqoura and Aita al-Shaab, spraying agricultural fields with a fine mist... Within days, the green of fields, orchards, and olive groves turned brown. Farmers who had worked the same soil for generations watched their trees die.” The post The Uninhabitable Front appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/the-uninhabitable-front/",
+        "trustTier": "publication",
+        "author": "Morgan Barry",
+        "date": "Thu, 17 Sep 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "essays",
+        "displacement",
+        "environment",
+        "environmental justice",
+        "genocide",
+        "human rights",
+        "israeli-palestinian conflict"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:49.499Z",
+      "hash": "bd8a1c821ac5f225"
+    },
+    {
+      "id": "book-review:f987fcf04bac0386",
+      "type": "book-review",
+      "title": "“Being Undocumented Is Already a Chronic Stress. Then, Add in Blackness”: Talking with Dr. Felecia Russell on the Experience of Black Undocumented Folks",
+      "summary": "\"Growing up, I really didn't get exposed to the conversations about immigration, until I found out that I didn't have the proper documentation. Once I learned that, my world, I felt, just really shattered.\" The post “Being Undocumented Is Already a Chronic Stress. Then, Add in Blackness”: Talking…",
+      "body": "\"Growing up, I really didn't get exposed to the conversations about immigration, until I found out that I didn't have the proper documentation. Once I learned that, my world, I felt, just really shattered.\" The post “Being Undocumented Is Already a Chronic Stress. Then, Add in Blackness”: Talking with Dr. Felecia Russell on the Experience of Black Undocumented Folks appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/being-undocumented-is-already-a-chronic-stress-then-add-in-blackness-talking-with-dr-felecia-russell-on-the-experience-of-black-undocumented-folks/",
+        "trustTier": "publication",
+        "author": "Morgan Barry",
+        "date": "Wed, 16 Sep 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "interviews",
+        "activism",
+        "african diaspora",
+        "afro-caribbean",
+        "afro-latino",
+        "black diaspora",
+        "hbcus"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:49.499Z",
+      "hash": "f987fcf04bac0386"
+    },
+    {
+      "id": "article:e894bf9a3625dddd",
+      "type": "article",
+      "title": "Rediscovering the Handcart",
+      "summary": "Image: The handcart, equipped with a sail. Photo by Kris De Decker. The human-powered handcart is the oldest of vehicles, and it will likely be the last one around in the future. Of all vehicles, it&rsquo;s the cheapest and least complex to build and use. It offers a large advantage over carrying…",
+      "body": "Image: The handcart, equipped with a sail. Photo by Kris De Decker. The human-powered handcart is the oldest of vehicles, and it will likely be the last one around in the future. Of all vehicles, it&rsquo;s the cheapest and least complex to build and use. It offers a large advantage over carrying a load on your back or dragging it over the ground - the even older concept of the sled. On the other hand, the handcart is cheaper and easier to use than the animal-powered cart. Oxen and donkeys eat more than humans, and they have their own will, which can work against the driver. Like any other…",
+      "image": {
+        "src": "data/images/6d17c143b8bb92d4.png",
+        "alt": "Rediscovering the Handcart",
+        "credit": "Low-Tech Magazine"
+      },
+      "source": {
+        "name": "Low-Tech Magazine",
+        "url": "https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/",
+        "trustTier": "publication",
+        "date": "Wed, 22 Apr 2026 00:00:0"
+      },
+      "tags": [
+        "technology",
+        "sustainability",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:45.131Z",
+      "hash": "e894bf9a3625dddd"
+    },
+    {
+      "id": "article:2834da43a441aaf8",
+      "type": "article",
+      "title": "The Rise of the AI Spam Emailers",
+      "summary": "Hi! Over the last week or so, I’ve gotten a dozen or two emails that I never expected, and — frankly — can’t really understand, either. More on that in a moment. First, an apology on my end. Last Friday, I shared a story about 9/11 and — as many of you emailed me to let me know — the end got cut…",
+      "body": "Hi! Over the last week or so, I’ve gotten a dozen or two emails that I never expected, and — frankly — can’t really understand, either. More on that in a moment. First, an apology on my end. Last Friday, I shared a story about 9/11 and — as many of you emailed me to let me know — the end got cut off. Sorry about that. The full version is now available here. I didn’t notice it myself, and I don’t check my Now I Know inbox daily, so I didn’t notice until yesterday. But if you emailed me to let me know, thank you for being a helper nonetheless. And, sorry about that. One other quick note — I’m…",
+      "image": {
+        "src": "data/images/30229ad2e43e959f.png",
+        "alt": "The Rise of the AI Spam Emailers",
+        "credit": "Now I Know"
+      },
+      "source": {
+        "name": "Now I Know",
+        "url": "https://nowiknow.com/the-rise-of-the-ai-spam-emailers/",
+        "trustTier": "community",
+        "author": "Dan Lewis",
+        "date": "Fri, 18 Sep 2026 08:23:0"
+      },
+      "tags": [
+        "trivia",
+        "curiosities"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:43.437Z",
+      "hash": "2834da43a441aaf8"
+    },
+    {
+      "id": "article:7d5cdc5a15163e26",
+      "type": "article",
+      "title": "On Losing a Parent",
+      "summary": "We spend our lives mastering the art of losing. Our necessary losses shape us; the unnecessary, senseless, devastating losses bend our shape to test our breaking point. We can lose people to life — to conflict, to confusion, to the consequences of their trauma — losses painful precisely because it…",
+      "body": "We spend our lives mastering the art of losing. Our necessary losses shape us; the unnecessary, senseless, devastating losses bend our shape to test our breaking point. We can lose people to life — to conflict, to confusion, to the consequences of their trauma — losses painful precisely because it could be otherwise. We can lose people to death — losses painful because it can’t and never again will be otherwise. Of all our possible losses, the loss of a parent is the least evitable and the most complicated, for it is the most primal, most charged with the complexities… read article",
+      "image": {
+        "src": "data/images/27ebd52a6205b349.jpg",
+        "alt": "On Losing a Parent",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/09/17/on-losing-a-parent/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Thu, 17 Sep 2026 22:47:2"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "psychology",
+        "animation",
+        "joan didion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:40.694Z",
+      "hash": "7d5cdc5a15163e26"
+    },
+    {
+      "id": "article:af316448d51347c7",
+      "type": "article",
+      "title": "“A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote",
+      "summary": "The post “A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote appeared first on ProPublica.",
+      "body": "The post “A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/1d433cae29ccd037.jpg",
+        "alt": "“A Clear Watering Down”: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/clear-labels-act-drug-safety-senate-vote",
+        "trustTier": "publication",
+        "author": "Naisha Roy",
+        "date": "Fri, 18 Sep 2026 10:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "health care",
+        "regulation"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:39.841Z",
+      "hash": "af316448d51347c7",
+      "expires": "2026-12-17T12:49:39.841Z"
+    },
+    {
+      "id": "article:7289c84fda6a42c8",
+      "type": "article",
+      "title": "Why ProPublica Is Leaning Into Sports Investigations",
+      "summary": "The post Why ProPublica Is Leaning Into Sports Investigations appeared first on ProPublica.",
+      "body": "The post Why ProPublica Is Leaning Into Sports Investigations appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/64e82ca0962bd7e8.jpg",
+        "alt": "Why ProPublica Is Leaning Into Sports Investigations",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/propublica-sports-investigations",
+        "trustTier": "publication",
+        "author": "Tracy Weber",
+        "date": "Fri, 18 Sep 2026 09:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "sports"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:39.841Z",
+      "hash": "7289c84fda6a42c8",
+      "expires": "2026-12-17T12:49:39.841Z"
+    },
+    {
+      "id": "article:b14027633d7b0f1b",
+      "type": "article",
+      "title": "How a young Roger Scruton, an apolitical and unusually charming Cambridge undergraduate, became Britain's most reviled intellectual",
+      "summary": "How a young Roger Scruton, an apolitical and unusually charming Cambridge undergraduate, became Britain's most reviled intellectual",
+      "body": "How a young Roger Scruton, an apolitical and unusually charming Cambridge undergraduate, became Britain's most reviled intellectual",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://firstthings.com/the-making-of-roger-scruton/",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:38.808Z",
+      "hash": "b14027633d7b0f1b"
+    },
+    {
+      "id": "article:727c924abd846925",
+      "type": "article",
+      "title": "Reimagining research papers as interactive and reliable AI agents",
+      "summary": "That is a new Nature paper by Jiacheng Miao, Joe R. Davis, Yaohui Zhang, Jonathan K. Pritchard, and James Zou. Here goes: Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from…",
+      "body": "That is a new Nature paper by Jiacheng Miao, Joe R. Davis, Yaohui Zhang, Jonathan K. Pritchard, and James Zou. Here goes: Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from passive artefacts into active systems that accelerate use and discovery. Conventional research […] The post Reimagining research papers as interactive and reliable AI agents appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Fri, 18 Sep 2026 07:07:1"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "science",
+        "web/tech"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:37.639Z",
+      "hash": "727c924abd846925"
+    },
+    {
+      "id": "article:88551c0405b2752b",
+      "type": "article",
+      "title": "Animal eye",
+      "summary": "Probing the biology, beauty and mystery of animal eyes, this short poetic documentary explores an alien world- by Aeon VideoWatch on Aeon",
+      "body": "Probing the biology, beauty and mystery of animal eyes, this short poetic documentary explores an alien world- by Aeon VideoWatch on Aeon",
+      "image": {
+        "src": "data/images/3a9b397706f5b726.jpg",
+        "alt": "Animal eye",
+        "credit": "Aeon"
+      },
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/videos/the-alien-worlds-beside-our-own-a-journey-into-animal-eyes",
+        "trustTier": "publication",
+        "author": "Aeon Video",
+        "date": "Thu, 17 Sep 2026 10:01:0"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "philosophy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:36.079Z",
+      "hash": "88551c0405b2752b"
+    },
+    {
+      "id": "greek:074bd106f5f7a96a",
+      "type": "greek",
+      "title": "ἔχω",
+      "summary": "ἔχω — “I have” · verb",
+      "body": "Note: regular -ω verb; 3sg ἔχει\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%94%CF%87%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:35.946Z",
+      "hash": "074bd106f5f7a96a"
+    },
+    {
+      "id": "greek:0333963034ce697f",
+      "type": "greek",
+      "title": "ἀγάπη",
+      "summary": "ἀγάπη — “love” · noun",
+      "body": "Note: ἡ ἀγάπη\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%AC%CF%80%CE%B7#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_fem_1st"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:35.946Z",
+      "hash": "0333963034ce697f"
+    },
+    {
+      "id": "greek:13dacb465838174e",
+      "type": "greek",
+      "title": "ἀκούω",
+      "summary": "ἀκούω — “I hear” · verb",
+      "body": "Note: regular -ω verb; takes genitive or accusative object\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%BA%CE%BF%CF%8D%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:35.946Z",
+      "hash": "13dacb465838174e"
+    },
+    {
+      "id": "poetry:fbf62865bc8e3f6d",
+      "type": "poem",
+      "title": "Home",
+      "summary": "I came back late and tired last night\nInto my little room,\nTo the long chair and the firelight\nAnd comfortable gloom.",
+      "body": "I came back late and tired last night\nInto my little room,\nTo the long chair and the firelight\nAnd comfortable gloom.\n\nBut as I entered softly in\nI saw a woman there,\nThe line of neck and cheek and chin,\nThe darkness of her hair,\nThe form of one I did not know\nSitting in my chair.\n\nI stood a moment fierce and still,\nWatching her neck and hair.\nI made a step to her; and saw\nThat there was no one there.\n\nIt was some trick of the firelight\nThat made me see her there.\nIt was a chance of shade and light\nAnd the cushion in the chair.\n\nOh, all you happy over the earth,\nThat night, how could I sleep?\nI lay and watched the lonely gloom;\nAnd watched the moonlight creep\nFrom wall to basin, round the room,\nAll night I could not sleep.",
+      "source": {
+        "name": "Rupert Brooke · PoetryDB",
+        "url": "https://poetrydb.org/title/Home",
+        "trustTier": "community",
+        "author": "Rupert Brooke"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:35.945Z",
+      "hash": "fbf62865bc8e3f6d"
+    },
+    {
+      "id": "poetry:812bd6c25d20872e",
+      "type": "poem",
+      "title": "The Princess (Part V)",
+      "summary": "Now, scarce three paces measured from the mound,\nWe stumbled on a stationary voice,\nAnd 'Stand, who goes?' 'Two from the palace' I.\n'The second two: they wait,' he said, 'pass on;",
+      "body": "Now, scarce three paces measured from the mound,\nWe stumbled on a stationary voice,\nAnd 'Stand, who goes?' 'Two from the palace' I.\n'The second two: they wait,' he said, 'pass on;\nHis Highness wakes:' and one, that clashed in arms,\nBy glimmering lanes and walls of canvas led\nThreading the soldier-city, till we heard\nThe drowsy folds of our great ensign shake\nFrom blazoned lions o'er the imperial tent\nWhispers of war.\nEntering, the sudden light\nDazed me half-blind: I stood and seemed to hear,\nAs in a poplar grove when a light wind wakes\nA lisping of the innumerous leaf and dies,\nEach hissing in his neighbour's ear; and then\nA strangled titter, out of which there brake\nOn all sides, clamouring etiquette to death,\nUnmeasured mirth; while now the two old kings\nBegan to wag their baldness up and down,\nThe fresh young captains flashed their glittering teeth,\nThe huge bush-bearded Barons heaved and blew,\nAnd slain with laughter rolled the gilded Squire.\n\nAt length my Sire, his rough cheek wet with tears,\nPanted from weary sides 'King, you are free!\nWe did but keep you surety for our son,\nIf this be he,--or a dragged mawkin, thou,\nThat tends to her bristled grunters in the sludge:'\nFor I was drenched with ooze, and torn with briers,\nMore crumpled than a poppy from the sheath,\nAnd all one rag, disprinced from head to heel.\nThen some one sent beneath his vaulted palm\nA whispered jest to some one near him, 'Look,\nHe has been among his shadows.' 'Satan take\nThe old women and their shadows! (thus the King\nRoared) make yourself a man to fight with men.\nGo: Cyril told us all.'\nAs boys that slink\nFrom ferule and the trespass-chiding eye,\nAway we stole, and transient in a trice\nFrom what was left of faded woman-slough\nTo sheathing splendours and the golden scale\nOf harness, issued in the sun, that now\nLeapt from the dewy shoulders of the Earth,\nAnd hit the Northern hills. Here Cyril met us.\nA little shy at first, but by and by\nWe twain, with mutual pardon asked and given\nFor stroke and song, resoldered peace, whereon\nFollowed his tale. Amazed he fled away\nThrough the dark land, and later in the night\nHad come on Psyche weeping: 'then we fell\nInto your father's hand, and there she lies,\nBut will not speak, or stir.'\nHe showed a tent\nA stone-shot off: we entered in, and there\nAmong piled arms and rough accoutrements,\nPitiful sight, wrapped in a soldier's cloak,\nLike some sweet sculpture draped from head to foot,\nAnd pushed by rude hands from its pedestal,\nAll her fair length upon the ground she lay:\nAnd at her head a follower of the camp,\nA charred and wrinkled piece of womanhood,\nSat watching like the watcher by the dead.\n\nThen Florian knelt, and 'Come' he whispered to her,\n'Lift up your head, sweet sister: lie not thus.\nWhat have you done but right? you could not slay\nMe, nor your prince: look up: be comforted:\nSweet is it to have done the thing one ought,\nWhen fallen in darker ways.' And likewise I:\n'Be comforted: have I not lost her too,\nIn whose least act abides the nameless charm\nThat none has else for me?' She heard, she moved,\nShe moaned, a folded voice; and up she sat,\nAnd raised the cloak from brows as pale and smooth\nAs those that mourn half-shrouded over death\nIn deathless marble. 'Her,' she said, 'my friend--\nParted from her--betrayed her cause and mine--\nWhere shall I breathe? why kept ye not your faith?\nO base and bad! what comfort? none for me!'\nTo whom remorseful Cyril, 'Yet I pray\nTake comfort: live, dear lady, for your child!'\nAt which she lifted up her voice and cried.\n\n'Ah me, my babe, my blossom, ah, my child,\nMy one sweet child, whom I shall see no more!\nFor now will cruel Ida keep her back;\nAnd either she will die from want of care,\nOr sicken with ill-usage, when they say\nThe child is hers--for every little fault,\nThe child is hers; and they will beat my girl\nRemembering her mother: O my flower!\nOr they will take her, they will make her hard,\nAnd she will pass me by in after-life\nWith some cold reverence worse than were she dead.\nIll mother that I was to leave her there,\nTo lag behind, scared by the cry they made,\nThe horror of the shame among them all:\nBut I will go and sit beside the doors,\nAnd make a wild petition night and day,\nUntil they hate to hear me like a wind\nWailing for ever, till they open to me,\nAnd lay my little blossom at my feet,\nMy babe, my sweet Aglaïa, my one child:\nAnd I will take her up and go my way,\nAnd satisfy my soul with kissing her:\nAh! what might that man not deserve of me\nWho gave me back my child?' 'Be comforted,'\nSaid Cyril, 'you shall have it:' but again\nShe veiled her brows, and prone she sank, and so\nLike tender things that being caught feign death,\nSpoke not, nor stirred.\nBy this a murmur ran\nThrough all the camp and inward raced the scouts\nWith rumour of Prince Arab hard at hand.\nWe left her by the woman, and without\nFound the gray kings at parle: and 'Look you' cried\nMy father 'that our compact be fulfilled:\nYou have spoilt this child; she laughs at you and man:\nShe wrongs herself, her sex, and me, and him:\nBut red-faced war has rods of steel and fire;\nShe yields, or war.'\nThen Gama turned to me:\n'We fear, indeed, you spent a stormy time\nWith our strange girl: and yet they say that still\nYou love her. Give us, then, your mind at large:\nHow say you, war or not?'\n'Not war, if possible,\nO king,' I said, 'lest from the abuse of war,\nThe desecrated shrine, the trampled year,\nThe smouldering homestead, and the household flower\nTorn from the lintel--all the common wrong--\nA smoke go up through which I loom to her\nThree times a monster: now she lightens scorn\nAt him that mars her plan, but then would hate\n(And every voice she talked with ratify it,\nAnd every face she looked on justify it)\nThe general foe. More soluble is this knot,\nBy gentleness than war. I want her love.\nWhat were I nigher this although we dashed\nYour cities into shards with catapults,\nShe would not love;--or brought her chained, a slave,\nThe lifting of whose eyelash is my lord,\nNot ever would she love; but brooding turn\nThe book of scorn, till all my flitting chance\nWere caught within the record of her wrongs,\nAnd crushed to death: and rather, Sire, than this\nI would the old God of war himself were dead,\nForgotten, rusting on his iron hills,\nRotting on some wild shore with ribs of wreck,\nOr like an old-world mammoth bulked in ice,\nNot to be molten out.'\nAnd roughly spake\nMy father, 'Tut, you know them not, the girls.\nBoy, when I hear you prate I almost think\nThat idiot legend credible. Look you, Sir!\nMan is the hunter; woman is his game:\nThe sleek and shining creatures of the chase,\nWe hunt them for the beauty of their skins;\nThey love us for it, and we ride them down.\nWheedling and siding with them! Out! for shame!\nBoy, there's no rose that's half so dear to them\nAs he that does the thing they dare not do,\nBreathing and sounding beauteous battle, comes\nWith the air of the trumpet round him, and leaps in\nAmong the women, snares them by the score\nFlattered and flustered, wins, though dashed with death\nHe reddens what he kisses: thus I won\nYou mother, a good mother, a good wife,\nWorth winning; but this firebrand--gentleness\nTo such as her! if Cyril spake her true,\nTo catch a dragon in a cherry net,\nTo trip a tigress with a gossamer\nWere wisdom to it.'\n'Yea but Sire,' I cried,\n'Wild natures need wise curbs. The soldier? No:\nWhat dares not Ida do that she should prize\nThe soldier? I beheld her, when she rose\nThe yesternight, and storming in extremes,\nStood for her cause, and flung defiance down\nGagelike to man, and had not shunned the death,\nNo, not the soldier's: yet I hold her, king,\nTrue woman: you clash them all in one,\nThat have as many differences as we.\nThe violet varies from the lily as far\nAs oak from elm: one loves the soldier, one\nThe silken priest of peace, one this, one that,\nAnd some unworthily; their sinless faith,\nA maiden moon that sparkles on a sty,\nGlorifying clown and satyr; whence they need\nMore breadth of culture: is not Ida right?\nThey worth it? truer to the law within?\nSeverer in the logic of a life?\nTwice as magnetic to sweet influences\nOf earth and heaven? and she of whom you speak,\nMy mother, looks as whole as some serene\nCreation minted in the golden moods\nOf sovereign artists; not a thought, a touch,\nBut pure as lines of green that streak the white\nOf the first snowdrop's inner leaves; I say,\nNot like the piebald miscellany, man,\nBursts of great heart and slips in sensual mire,\nBut whole and one: and take them all-in-all,\nWere we ourselves but half as good, as kind,\nAs truthful, much that Ida claims as right\nHad ne'er been mooted, but as frankly theirs\nAs dues of Nature. To our point: not war:\nLest I lose all.'\n'Nay, nay, you spake but sense'\nSaid Gama. 'We remember love ourself\nIn our sweet youth; we did not rate him then\nThis red-hot iron to be shaped with blows.\nYou talk almost like Ida: ~she~ can talk;\nAnd there is something in it as you say:\nBut you talk kindlier: we esteem you for it.--\nHe seems a gracious and a gallant Prince,\nI would he had our daughter: for the rest,\nOur own detention, why, the causes weighed,\nFatherly fears--you used us courteously--\nWe would do much to gratify your Prince--\nWe pardon it; and for your ingress here\nUpon the skirt and fringe of our fair land,\nyou did but come as goblins in the night,\nNor in the furrow broke the ploughman's head,\nNor burnt the grange, nor bussed the milking-maid,\nNor robbed the farmer of his bowl of cream:\nBut let your Prince (our royal word upon it,\nHe comes back safe) ride with us to our lines,\nAnd speak with Arac: Arac's word is thrice\nAs ours with Ida: something may be done--\nI know not what--and ours shall see us friends.\nYou, likewise, our late guests, if so you will,\nFollow us: who knows? we four may build some plan\nFoursquare to opposition.'\nHere he reached\nWhite hands of farewell to my sire, who growled\nAn answer which, half-muffled in his beard,\nLet so much out as gave us leave to go.\n\nThen rode we with the old king across the lawns\nBeneath huge trees, a thousand rings of Spring\nIn every bole, a song on every spray\nOf birds that piped their Valentines, and woke\nDesire in me to infuse my tale of love\nIn the old king's ears, who promised help, and oozed\nAll o'er with honeyed answer as we rode\nAnd blossom-fragrant slipt the heavy dews\nGathered by night and peace, with each light air\nOn our mailed heads: but other thoughts than Peace\nBurnt in us, when we saw the embattled squares,\nAnd squadrons of the Prince, trampling the flowers\nWith clamour: for among them rose a cry\nAs if to greet the king; they made a halt;\nThe horses yelled; they clashed their arms; the drum\nBeat; merrily-blowing shrilled the martial fife;\nAnd in the blast and bray of the long horn\nAnd serpent-throated bugle, undulated\nThe banner: anon to meet us lightly pranced\nThree captains out; nor ever had I seen\nSuch thews of men: the midmost and the highest\nWas Arac: all about his motion clung\nThe shadow of his sister, as the beam\nOf the East, that played upon them, made them glance\nLike those three stars of the airy Giant's zone,\nThat glitter burnished by the frosty dark;\nAnd as the fiery Sirius alters hue,\nAnd bickers into red and emerald, shone\nTheir morions, washed with morning, as they came.\n\nAnd I that prated peace, when first I heard\nWar-music, felt the blind wildbeast of force,\nWhose home is in the sinews of a man,\nStir in me as to strike: then took the king\nHis three broad sons; with now a wandering hand\nAnd now a pointed finger, told them all:\nA common light of smiles at our disguise\nBroke from their lips, and, ere the windy jest\nHad laboured down within his ample lungs,\nThe genial giant, Arac, rolled himself\nThrice in the saddle, then burst out in words.\n\n'Our land invaded, 'sdeath! and he himself\nYour captive, yet my father wills not war:\nAnd, 'sdeath! myself, what care I, war or no?\nbut then this question of your troth remains:\nAnd there's a downright honest meaning in her;\nShe flies too high, she flies too high! and yet\nShe asked but space and fairplay for her scheme;\nShe prest and prest it on me--I myself,\nWhat know I of these things? but, life and soul!\nI thought her half-right talking of her wrongs;\nI say she flies too high, 'sdeath! what of that?\nI take her for the flower of womankind,\nAnd so I often told her, right or wrong,\nAnd, Prince, she can be sweet to those she loves,\nAnd, right or wrong, I care not: this is all,\nI stand upon her side: she made me swear it--\n'Sdeath--and with solemn rites by candle-light--\nSwear by St something--I forget her name--\nHer that talked down the fifty wisest men;\n~She~ was a princess too; and so I swore.\nCome, this is all; she will not: waive your claim:\nIf not, the foughten field, what else, at once\nDecides it, 'sdeath! against my father's will.'\n\nI lagged in answer loth to render up\nMy precontract, and loth by brainless war\nTo cleave the rift of difference deeper yet;\nTill one of those two brothers, half aside\nAnd fingering at the hair about his lip,\nTo prick us on to combat 'Like to like!\nThe woman's garment hid the woman's heart.'\nA taunt that clenched his purpose like a blow!\nFor fiery-short was Cyril's counter-scoff,\nAnd sharp I answered, touched upon the point\nWhere idle boys are cowards to their shame,\n'Decide it here: why not? we are three to three.'\n\nThen spake the third 'But three to three? no more?\nNo more, and in our noble sister's cause?\nMore, more, for honour: every captain waits\nHungry for honour, angry for his king.\nMore, more some fifty on a side, that each\nMay breathe himself, and quick! by overthrow\nOf these or those, the question settled die.'\n\n'Yea,' answered I, 'for this wreath of air,\nThis flake of rainbow flying on the highest\nFoam of men's deeds--this honour, if ye will.\nIt needs must be for honour if at all:\nSince, what decision? if we fail, we fail,\nAnd if we win, we fail: she would not keep\nHer compact.' ''Sdeath! but we will send to her,'\nSaid Arac, 'worthy reasons why she should\nBide by this issue: let our missive through,\nAnd you shall have her answer by the word.'\n\n'Boys!' shrieked the old king, but vainlier than a hen\nTo her false daughters in the pool; for none\nRegarded; neither seemed there more to say:\nBack rode we to my father's camp, and found\nHe thrice had sent a herald to the gates,\nTo learn if Ida yet would cede our claim,\nOr by denial flush her babbling wells\nWith her own people's life: three times he went:\nThe first, he blew and blew, but none appeared:\nHe battered at the doors; none came: the next,\nAn awful voice within had warned him thence:\nThe third, and those eight daughters of the plough\nCame sallying through the gates, and caught his hair,\nAnd so belaboured him on rib and cheek\nThey made him wild: not less one glance he caught\nThrough open doors of Ida stationed there\nUnshaken, clinging to her purpose, firm\nThough compassed by two armies and the noise\nOf arms; and standing like a stately Pine\nSet in a cataract on an island-crag,\nWhen storm is on the heights, and right and left\nSucked from the dark heart of the long hills roll\nThe torrents, dashed to the vale: and yet her will\nBred will in me to overcome it or fall.\n\nBut when I told the king that I was pledged\nTo fight in tourney for my bride, he clashed\nHis iron palms together with a cry;\nHimself would tilt it out among the lads:\nBut overborne by all his bearded lords\nWith reasons drawn from age and state, perforce\nHe yielded, wroth and red, with fierce demur:\nAnd many a bold knight started up in heat,\nAnd sware to combat for my claim till death.\n\nAll on this side the palace ran the field\nFlat to the garden-wall: and likewise here,\nAbove the garden's glowing blossom-belts,\nA columned entry shone and marble stairs,\nAnd great bronze valves, embossed with Tomyris\nAnd what she did to Cyrus after fight,\nBut now fast barred: so here upon the flat\nAll that long morn the lists were hammered up,\nAnd all that morn the heralds to and fro,\nWith message and defiance, went and came;\nLast, Ida's answer, in a royal hand,\nBut shaken here and there, and rolling words\nOration-like. I kissed it and I read.\n\n'O brother, you have known the pangs we felt,\nWhat heats of indignation when we heard\nOf those that iron-cramped their women's feet;\nOf lands in which at the altar the poor bride\nGives her harsh groom for bridal-gift a scourge;\nOf living hearts that crack within the fire\nWhere smoulder their dead despots; and of those,--\nMothers,--that, with all prophetic pity, fling\nTheir pretty maids in the running flood, and swoops\nThe vulture, beak and talon, at the heart\nMade for all noble motion: and I saw\nThat equal baseness lived in sleeker times\nWith smoother men: the old leaven leavened all:\nMillions of throats would bawl for civil rights,\nNo woman named: therefore I set my face\nAgainst all men, and lived but for mine own.\nFar off from men I built a fold for them:\nI stored it full of rich memorial:\nI fenced it round with gallant institutes,\nAnd biting laws to scare the beasts of prey\nAnd prospered; till a rout of saucy boys\nBrake on us at our books, and marred our peace,\nMasked like our maids, blustering I know not what\nOf insolence and love, some pretext held\nOf baby troth, invalid, since my will\nSealed not the bond--the striplings! for their sport!--\nI tamed my leopards: shall I not tame these?\nOr you? or I? for since you think me touched\nIn honour--what, I would not aught of false--\nIs not our case pure? and whereas I know\nYour prowess, Arac, and what mother's blood\nYou draw from, fight; you failing, I abide\nWhat end soever: fail you will not. Still\nTake not his life: he risked it for my own;\nHis mother lives: yet whatsoe'er you do,\nFight and fight well; strike and strike him. O dear\nBrothers, the woman's Angel guards you, you\nThe sole men to be mingled with our cause,\nThe sole men we shall prize in the after-time,\nYour very armour hallowed, and your statues\nReared, sung to, when, this gad-fly brushed aside,\nWe plant a solid foot into the Time,\nAnd mould a generation strong to move\nWith claim on claim from right to right, till she\nWhose name is yoked with children's, know herself;\nAnd Knowledge in our own land make her free,\nAnd, ever following those two crownèd twins,\nCommerce and conquest, shower the fiery grain\nOf freedom broadcast over all the orbs\nBetween the Northern and the Southern morn.'\n\nThen came a postscript dashed across the rest.\nSee that there be no traitors in your camp:\nWe seem a nest of traitors--none to trust\nSince our arms failed--this Egypt-plague of men!\nAlmost our maids were better at their homes,\nThan thus man-girdled here: indeed I think\nOur chiefest comfort is the little child\nOf one unworthy mother; which she left:\nShe shall not have it back: the child shall grow\nTo prize the authentic mother of her mind.\nI took it for an hour in mine own bed\nThis morning: there the tender orphan hands\nFelt at my heart, and seemed to charm from thence\nThe wrath I nursed against the world: farewell.'\n\nI ceased; he said, 'Stubborn, but she may sit\nUpon a king's right hand in thunder-storms,\nAnd breed up warriors! See now, though yourself\nBe dazzled by the wildfire Love to sloughs\nThat swallow common sense, the spindling king,\nThis Gama swamped in lazy tolerance.\nWhen the man wants weight, the woman takes it up,\nAnd topples down the scales; but this is fixt\nAs are the roots of earth and base of all;\nMan for the field and woman for the hearth:\nMan for the sword and for the needle she:\nMan with the head and woman with the heart:\nMan to command and woman to obey;\nAll else confusion. Look you! the gray mare\nIs ill to live with, when her whinny shrills\nFrom tile to scullery, and her small goodman\nShrinks in his arm-chair while the fires of Hell\nMix with his hearth: but you--she's yet a colt--\nTake, break her: strongly groomed and straitly curbed\nShe might not rank with those detestable\nThat let the bantling scald at home, and brawl\nTheir rights and wrongs like potherbs in the street.\nThey say she's comely; there's the fairer chance:\n~I~ like her none the less for rating at her!\nBesides, the woman wed is not as we,\nBut suffers change of frame. A lusty brace\nOf twins may weed her of her folly. Boy,\nThe bearing and the training of a child\nIs woman's wisdom.'\nThus the hard old king:\nI took my leave, for it was nearly noon:\nI pored upon her letter which I held,\nAnd on the little clause 'take not his life:'\nI mused on that wild morning in the woods,\nAnd on the 'Follow, follow, thou shalt win:'\nI thought on all the wrathful king had said,\nAnd how the strange betrothment was to end:\nThen I remembered that burnt sorcerer's curse\nThat one should fight with shadows and should fall;\nAnd like a flash the weird affection came:\nKing, camp and college turned to hollow shows;\nI seemed to move in old memorial tilts,\nAnd doing battle with forgotten ghosts,\nTo dream myself the shadow of a dream:\nAnd ere I woke it was the point of noon,\nThe lists were ready. Empanoplied and plumed\nWe entered in, and waited, fifty there\nOpposed to fifty, till the trumpet blared\nAt the barrier like a wild horn in a land\nOf echoes, and a moment, and once more\nThe trumpet, and again: at which the storm\nOf galloping hoofs bare on the ridge of spears\nAnd riders front to front, until they closed\nIn conflict with the crash of shivering points,\nAnd thunder. Yet it seemed a dream, I dreamed\nOf fighting. On his haunches rose the steed,\nAnd into fiery splinters leapt the lance,\nAnd out of stricken helmets sprang the fire.\nPart sat like rocks: part reeled but kept their seats:\nPart rolled on the earth and rose again and drew:\nPart stumbled mixt with floundering horses. Down\nFrom those two bulks at Arac's side, and down\nFrom Arac's arm, as from a giant's flail,\nThe large blows rained, as here and everywhere\nHe rode the mellay, lord of the ringing lists,\nAnd all the plain,--brand, mace, and shaft, and shield--\nShocked, like an iron-clanging anvil banged\nWith hammers; till I thought, can this be he\nFrom Gama's dwarfish loins? if this be so,\nThe mother makes us most--and in my dream\nI glanced aside, and saw the palace-front\nAlive with fluttering scarfs and ladies' eyes,\nAnd highest, among the statues, statuelike,\nBetween a cymballed Miriam and a Jael,\nWith Psyche's babe, was Ida watching us,\nA single band of gold about her hair,\nLike a Saint's glory up in heaven: but she\nNo saint--inexorable--no tenderness--\nToo hard, too cruel: yet she sees me fight,\nYea, let her see me fall! and with that I drave\nAmong the thickest and bore down a Prince,\nAnd Cyril, one. Yea, let me make my dream\nAll that I would. But that large-moulded man,\nHis visage all agrin as at a wake,\nMade at me through the press, and, staggering back\nWith stroke on stroke the horse and horseman, came\nAs comes a pillar of electric cloud,\nFlaying the roofs and sucking up the drains,\nAnd shadowing down the champaign till it strikes\nOn a wood, and takes, and breaks, and cracks, and splits,\nAnd twists the grain with such a roar that Earth\nReels, and the herdsmen cry; for everything\nGame way before him: only Florian, he\nThat loved me closer than his own right eye,\nThrust in between; but Arac rode him down:\nAnd Cyril seeing it, pushed against the Prince,\nWith Psyche's colour round his helmet, tough,\nStrong, supple, sinew-corded, apt at arms;\nBut tougher, heavier, stronger, he that smote\nAnd threw him: last I spurred; I felt my veins\nStretch with fierce heat; a moment hand to hand,\nAnd sword to sword, and horse to horse we hung,\nTill I struck out and shouted; the blade glanced,\nI did but shear a feather, and dream and truth\nFlowed from me; darkness closed me; and I fell.\n\n\nHome they brought her warrior dead:\nShe nor swooned, nor uttered cry:\nAll her maidens, watching, said,\n'She must weep or she will die.'\n\nThen they praised him, soft and low,\nCalled him worthy to be loved,\nTruest friend and noblest foe;\nYet she neither spoke nor moved.\n\nStole a maiden from her place,\nLightly to the warrior stept,\nTook the face-cloth from the face;\nYet she neither moved nor wept.\n\nRose a nurse of ninety years,\nSet his child upon her knee--\nLike summer tempest came her tears--\n'Sweet my child, I live for thee.'",
+      "source": {
+        "name": "Lord Alfred Tennyson · PoetryDB",
+        "url": "https://poetrydb.org/title/The%20Princess%20(Part%20V)",
+        "trustTier": "community",
+        "author": "Lord Alfred Tennyson"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-18T12:49:35.945Z",
+      "hash": "812bd6c25d20872e"
+    },
+    {
+      "id": "met:2019",
+      "type": "art",
+      "title": "Chest with drawers",
+      "summary": "Peter Blin · 1675–1700 · White oak, yellow pine, white cedar",
+      "body": "Peter Blin · 1675–1700 · White oak, yellow pine, white cedar\nGift of Mrs. J. Woodhull Overton, 1966\nThe American Wing",
+      "image": {
+        "src": "data/images/146927b24d09c763.jpg",
+        "alt": "Chest with drawers",
+        "credit": "The Met · Gift of Mrs. J. Woodhull Overton, 1966"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/2019",
+        "trustTier": "encyclopedic",
+        "author": "Peter Blin",
+        "date": "1675–1700"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-18T12:49:33.935Z",
+      "hash": "8d11e16795e43448"
+    },
+    {
+      "id": "met:20141",
+      "type": "art",
+      "title": "Plaque",
+      "summary": "Chelsea Keramic Art Works · ca. 1878–82 · Earthenware",
+      "body": "Chelsea Keramic Art Works · ca. 1878–82 · Earthenware\nGift of Robert A. Ellison Jr., 2018\nThe American Wing",
+      "image": {
+        "src": "data/images/1233c1f9439b39a4.jpg",
+        "alt": "Plaque",
+        "credit": "The Met · Gift of Robert A. Ellison Jr., 2018"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/20141",
+        "trustTier": "encyclopedic",
+        "author": "Chelsea Keramic Art Works",
+        "date": "ca. 1878–82"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-18T12:49:33.736Z",
+      "hash": "51ca9693631d64cf"
+    },
+    {
+      "id": "met:343052",
+      "type": "art",
+      "title": "Design for a wall decoration with peacock, cranes, and sunflowers for the restaurant in Hotel Langham (Paris)",
+      "summary": "Emile Hurtré · 1896–98 · Pen and black, blue, and metallic ink, watercolor, over graphite",
+      "body": "Emile Hurtré · 1896–98 · Pen and black, blue, and metallic ink, watercolor, over graphite\nEdward Pearce Casey Fund, 1991\nDrawings and Prints",
+      "image": {
+        "src": "data/images/faabf754ca35d8ff.jpg",
+        "alt": "Design for a wall decoration with peacock, cranes, and sunflowers for the restaurant in Hotel Langham (Paris)",
+        "credit": "The Met · Edward Pearce Casey Fund, 1991"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/343052",
+        "trustTier": "encyclopedic",
+        "author": "Emile Hurtré",
+        "date": "1896–98"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "sunflower",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-18T12:49:33.612Z",
+      "hash": "28274cc7ae38cf46"
+    },
+    {
+      "id": "apod:2019-11-05",
+      "type": "space",
+      "title": "Spiral Galaxies Spinning Super-Fast",
+      "summary": "Why are these galaxies spinning so fast? If you estimated each spiral's mass by how much light it emits, their fast rotations should break them apart. The leading hypothesis as to why these galaxies don't break apart is dark matter -- mass so dark we can't see it. But these galaxies are even out-spinning this…",
+      "body": "Why are these galaxies spinning so fast? If you estimated each spiral's mass by how much light it emits, their fast rotations should break them apart. The leading hypothesis as to why these galaxies don't break apart is dark matter -- mass so dark we can't see it. But these galaxies are even out-spinning this break-up limit -- they are the fastest rotating disk galaxies known. It is therefore further hypothesized that their dark matter halos are so massive -- and their spins so fast -- that it is harder for them to form stars than regular spirals. If so, then these galaxies may be among the most massive spirals possible. Further study of surprising super-spirals like these will continue, likely including observations taken by NASA's James Webb Space Telescope scheduled for launch in 2021.",
+      "image": {
+        "src": "data/images/6dd629c8f31c65c7.jpg",
+        "alt": "Spiral Galaxies Spinning Super-Fast",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap191105.html",
+        "trustTier": "encyclopedic",
+        "date": "2019-11-05"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:32.917Z",
+      "hash": "e629c634be4bc69e"
+    },
+    {
+      "id": "apod:2016-03-15",
+      "type": "space",
+      "title": "Cheering a Total Solar Eclipse",
+      "summary": "What would you do if you saw the Sun disappear? Quite possibly: cheer. That's what many exuberant sky watchers did across Indonesia during a total eclipse of the Sun last week. There and then, the land and sky went dark during the day as our Sun disappeared for a few minutes behind our Moon. Many people watching knew…",
+      "body": "What would you do if you saw the Sun disappear? Quite possibly: cheer. That's what many exuberant sky watchers did across Indonesia during a total eclipse of the Sun last week. There and then, the land and sky went dark during the day as our Sun disappeared for a few minutes behind our Moon. Many people watching knew they were witnessing a rare event, and their joyous exclamations can be heard on the featured video. What a far cry this reaction is from centuries ago, when more typical eclipse reactions derived from fear and worry. The video shows first shows a Sun only partly eclipsed by the Moon as totality approached. From many locations, foreground clouds on our Earth either obscured the view or made the view more interesting. The total eclipse was only visible from a narrow swath of Earth that included several Indonesian islands. At the same time, in the opposite direction, NASA's EPIC camera aboard NOAA's DSCOVR satellite captured the shadow of the Moon moving across the Earth. APOD is also available in: Arabic, Bahasa Indonesian, Catalan, Chinese, Chinese, Croatian, Czech, Dutch, Farsi, Farsi, Galego, German, French, Hebrew, Japanese, Korean, Montenegrin, Polish, Romanian, Russian, Serbian, Slovenian, Spanish, and Turkish",
+      "image": {
+        "src": "data/images/47e1e72b0ad89dfe.jpg",
+        "alt": "Cheering a Total Solar Eclipse",
+        "credit": "© Associated Press, Exploratorium"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap160315.html",
+        "trustTier": "encyclopedic",
+        "date": "2016-03-15"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:32.917Z",
+      "hash": "2d90add28e423579"
+    },
+    {
+      "id": "apod:2010-04-10",
+      "type": "space",
+      "title": "Spitzer's Orion",
+      "summary": "Few cosmic vistas excite the imagination like the Orion Nebula, an immense stellar nursery some 1,500 light-years away. Spanning about 40 light-years across the region, this new infrared image from the Spitzer Space Telescope was constructed from data intended to monitor the brightness of the nebula's young stars,…",
+      "body": "Few cosmic vistas excite the imagination like the Orion Nebula, an immense stellar nursery some 1,500 light-years away. Spanning about 40 light-years across the region, this new infrared image from the Spitzer Space Telescope was constructed from data intended to monitor the brightness of the nebula's young stars, many still surrounded by dusty, planet-forming disks. Orion's young stars are only about 1 million years old, compared to the Sun's age of 4.6 billion years. The region's hottest stars are found in the Trapezium Cluster, the brightest cluster near picture center. Spitzer's liquid helium coolant ran out in May 2009, so this false color view is from two channels that still remain sensitive to infrared light at warmer operating temperatures.",
+      "image": {
+        "src": "data/images/2f6dcea0ee0f0ca7.jpg",
+        "alt": "Spitzer's Orion",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap100410.html",
+        "trustTier": "encyclopedic",
+        "date": "2010-04-10"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:32.917Z",
+      "hash": "cd3fd55652a98ea3"
+    },
+    {
+      "id": "apod:2011-11-23",
+      "type": "space",
+      "title": "The View from Chajnantor",
+      "summary": "From an altitude of over 5,000 meters, the night sky view from Chajnantor Plateau in the Chilean Andes is breathtaking in more ways than one. The dark site's rarefied atmosphere, at about 50 percent sea level pressure, is also extremely dry. That makes it ideal for the Atacama Large Millimeter/submillimeter Array…",
+      "body": "From an altitude of over 5,000 meters, the night sky view from Chajnantor Plateau in the Chilean Andes is breathtaking in more ways than one. The dark site's rarefied atmosphere, at about 50 percent sea level pressure, is also extremely dry. That makes it ideal for the Atacama Large Millimeter/submillimeter Array (ALMA) designed to explore the universe at wavelengths over 1,000 times longer than visible light. Near the center of the the panoramic scene, ALMA's 7 and 12 meter wide dish antennas are illuminated by a young Moon nestled in the arc of the Milky Way. ALMA's antenna configurations are intended to achieve a resolution comparable to space telescopes by operating as an interferometer. At left, a meteor's streak and the Milky Way's satellite galaxies, the Large (bottom) and Small Magellanic Clouds grace the night.",
+      "image": {
+        "src": "data/images/ffdbbbf60c701272.jpg",
+        "alt": "The View from Chajnantor",
+        "credit": "© Stéphane Guisard"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap111123.html",
+        "trustTier": "encyclopedic",
+        "date": "2011-11-23"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:32.917Z",
+      "hash": "3099b9a63f4e186b"
+    },
+    {
+      "id": "apod:2008-08-13",
+      "type": "space",
+      "title": "NGC 6888: The Crescent Nebula",
+      "summary": "NGC 6888, also known as the Crescent Nebula, is a cosmic bubble about 25 light-years across, blown by winds from its central, bright, massive star. This beautiful telescopic view combines a composite color image with narrow band data that isolates light from hydrogen and oxygen atoms in the wind-blown nebula. The…",
+      "body": "NGC 6888, also known as the Crescent Nebula, is a cosmic bubble about 25 light-years across, blown by winds from its central, bright, massive star. This beautiful telescopic view combines a composite color image with narrow band data that isolates light from hydrogen and oxygen atoms in the wind-blown nebula. The oxygen atoms produce the blue-green hue that seems to enshroud the detailed folds and filaments. NGC 6888's central star is classified as a Wolf-Rayet star (WR 136). The star is shedding its outer envelope in a strong stellar wind, ejecting the equivalent of the Sun's mass every 10,000 years. The nebula's complex structures are likely the result of this strong wind interacting with material ejected in an earlier phase. Burning fuel at a prodigious rate and near the end of its stellar life this star should ultimately go out with a bang in a spectacular supernova explosion. Found in the nebula rich constellation Cygnus, NGC 6888 is about 5,000 light-years away.",
+      "image": {
+        "src": "data/images/22865504a55fb221.jpg",
+        "alt": "NGC 6888: The Crescent Nebula",
+        "credit": "© Tony Hallas"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap080813.html",
+        "trustTier": "encyclopedic",
+        "date": "2008-08-13"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:32.917Z",
+      "hash": "3d13e6adb4406b32"
+    },
+    {
+      "id": "onthisday:09-18:1870:cd13fde0ac497871",
+      "type": "history",
+      "title": "1870: Nathaniel P. Langford",
+      "summary": "Nathaniel P. Langford of the Washburn–Langford–Doane Expedition first observed a geyser in the Wyoming Territory erupting at regular intervals, naming it Old Faithful (video featured).",
+      "body": "Nathaniel P. Langford of the Washburn–Langford–Doane Expedition first observed a geyser in the Wyoming Territory erupting at regular intervals, naming it Old Faithful (video featured).",
+      "image": {
+        "src": "data/images/cd45ec4e2819ed60.png",
+        "alt": "Nathaniel P. Langford",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Nathaniel_P._Langford",
+        "trustTier": "encyclopedic",
+        "date": "09-18"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:03.731Z",
+      "hash": "f1ad0ba5b16309c6",
+      "expires": "2026-09-21T12:49:03.731Z"
+    },
+    {
+      "id": "onthisday:09-18:1961:031e8b475e504b34",
+      "type": "history",
+      "title": "1961: 1961 Ndola Transair Sweden Douglas DC-6 crash",
+      "summary": "An aircraft crashed near Ndola in Northern Rhodesia, resulting in the deaths of 16 people, including United Nations secretary-general Dag Hammarskjöld.",
+      "body": "An aircraft crashed near Ndola in Northern Rhodesia, resulting in the deaths of 16 people, including United Nations secretary-general Dag Hammarskjöld.",
+      "image": {
+        "src": "data/images/1acfae25ecdaaabb.png",
+        "alt": "1961 Ndola Transair Sweden Douglas DC-6 crash",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/1961_Ndola_Transair_Sweden_Douglas_DC-6_crash",
+        "trustTier": "encyclopedic",
+        "date": "09-18"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:03.731Z",
+      "hash": "85f8e36c19027142",
+      "expires": "2026-09-21T12:49:03.731Z"
+    },
+    {
+      "id": "onthisday:09-18:1964:5ae4a8307a3c47e0",
+      "type": "history",
+      "title": "1964: Wedding of Constantine II and Princess Anne-Marie",
+      "summary": "The wedding of King Constantine II of Greece and Princess Anne-Marie of Denmark took place in Athens.",
+      "body": "The wedding of King Constantine II of Greece and Princess Anne-Marie of Denmark took place in Athens.",
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Wedding_of_Constantine_II_and_Princess_Anne-Marie",
+        "trustTier": "encyclopedic",
+        "date": "09-18"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:03.731Z",
+      "hash": "9dfe73952d723551",
+      "expires": "2026-09-21T12:49:03.731Z"
+    },
+    {
+      "id": "wikipedia:585794",
+      "type": "wiki",
+      "title": "Tom Watson (golfer)",
+      "summary": "Thomas Sturges Watson is an American professional golfer. In the 1970s and 1980s, Watson was one of the leading golfers in the world, winning eight major championships and heading the PGA Tour money list five times. He was the number one player in the world according to McCormack's World Golf Rankings from 1978 until…",
+      "body": "Thomas Sturges Watson is an American professional golfer. In the 1970s and 1980s, Watson was one of the leading golfers in the world, winning eight major championships and heading the PGA Tour money list five times. He was the number one player in the world according to McCormack's World Golf Rankings from 1978 until 1982; in both 1983 and 1984, he was ranked second behind Seve Ballesteros. He also spent 32 weeks in the top 10 of the successor Sony Rankings in their debut in 1986.",
+      "image": {
+        "src": "data/images/5d703d0a2816f1f1.jpg",
+        "alt": "Tom Watson (golfer)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tom_Watson_(golfer)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:02.874Z",
+      "hash": "b0aa9083f2ae2db6"
+    },
+    {
+      "id": "wikipedia:68953134",
+      "type": "wiki",
+      "title": "Ane Etxezarreta",
+      "summary": "Ane Etxezarreta Ayerbe is a Spanish footballer who plays as a defender.",
+      "body": "Ane Etxezarreta Ayerbe is a Spanish footballer who plays as a defender.",
+      "image": {
+        "src": "data/images/ffb56311443cddb2.jpg",
+        "alt": "Ane Etxezarreta",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ane_Etxezarreta",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:02.561Z",
+      "hash": "97584c95aa774775"
+    },
+    {
+      "id": "wikipedia:2671132",
+      "type": "wiki",
+      "title": "Kaze–Forces for the Defense of Democracy",
+      "summary": "Kaze-Forces for the Defense of Democracy, also known by its abbreviated form KAZE-FDD, is a small, predominantly ethnic Hutu political party in Burundi. It is led by Jean-Bosco Ndayikengurukiye. The Kaze-FDD used to be a faction of the CNDD-FDD.",
+      "body": "Kaze-Forces for the Defense of Democracy, also known by its abbreviated form KAZE-FDD, is a small, predominantly ethnic Hutu political party in Burundi. It is led by Jean-Bosco Ndayikengurukiye. The Kaze-FDD used to be a faction of the CNDD-FDD.",
+      "image": {
+        "src": "data/images/ddf084573a1e78ef.png",
+        "alt": "Kaze–Forces for the Defense of Democracy",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kaze%E2%80%93Forces_for_the_Defense_of_Democracy",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:01.302Z",
+      "hash": "8bffe528767525d7"
+    },
+    {
+      "id": "wikipedia:50513514",
+      "type": "wiki",
+      "title": "Caro (L.A.X and Wizkid song)",
+      "summary": "\"Caro\" is an afropop song collaboratively recorded by Nigerian singers L.A.X and Wizkid. Released as the first official recording by Starboy Entertainment, the song was included as a bonus track on Wizkid's album Ayo (2014).",
+      "body": "\"Caro\" is an afropop song collaboratively recorded by Nigerian singers L.A.X and Wizkid. Released as the first official recording by Starboy Entertainment, the song was included as a bonus track on Wizkid's album Ayo (2014).",
+      "image": {
+        "src": "data/images/80f33e95d3d15452.jpg",
+        "alt": "Caro (L.A.X and Wizkid song)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Caro_(L.A.X_and_Wizkid_song)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-18T12:49:01.053Z",
+      "hash": "fe3b761cfcc3756a"
+    },
     {
       "id": "chess:b48zE",
       "type": "chess",
@@ -11273,1280 +12521,6 @@
       "difficulty": 1,
       "fetchedAt": "2026-09-08T12:43:43.224Z",
       "hash": "c12ec0dbd070f7e8"
-    },
-    {
-      "id": "met:381020",
-      "type": "art",
-      "title": "First Infant School in Green Street, New York",
-      "summary": "Anthony Imbert · 1828 · Lithograph",
-      "body": "Anthony Imbert · 1828 · Lithograph\nThe Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954\nDrawings and Prints",
-      "image": {
-        "src": "data/images/3e24f2b21e1e6bf5.jpg",
-        "alt": "First Infant School in Green Street, New York",
-        "credit": "The Met · The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/381020",
-        "trustTier": "encyclopedic",
-        "author": "Anthony Imbert",
-        "date": "1828"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "garden",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-08T12:43:43.064Z",
-      "hash": "b39eb69554eeaa80"
-    },
-    {
-      "id": "apod:2024-02-01",
-      "type": "space",
-      "title": "NGC 1365: Majestic Island Universe",
-      "summary": "Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies. This sharp color image shows the intense,…",
-      "body": "Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies. This sharp color image shows the intense, reddish star forming regions near the ends of the galaxy's central bar and along its spiral arms. Seen in fine detail, obscuring dust lanes cut across the galaxy's bright core. At the core lies a supermassive black hole. Astronomers think NGC 1365's prominent bar plays a crucial role in the galaxy's evolution, drawing gas and dust into a star-forming maelstrom and ultimately feeding material into the central black hole.",
-      "image": {
-        "src": "data/images/52e4da66dd21a3ad.jpg",
-        "alt": "NGC 1365: Majestic Island Universe",
-        "credit": "© Jean-Baptiste Auroux"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap240201.html",
-        "trustTier": "encyclopedic",
-        "date": "2024-02-01"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:41.643Z",
-      "hash": "e18d94e789b80e0d"
-    },
-    {
-      "id": "apod:2019-01-14",
-      "type": "space",
-      "title": "Meteor and Milky Way over the Alps",
-      "summary": "Now this was a view with a thrill. From Mount Tschirgant in the Alps, you can see not only nearby towns and distant Tyrolean peaks, but also, weather permitting, stars, nebulas, and the band of the Milky Way Galaxy. What made the arduous climb worthwhile this night, though, was another peak -- the peak of the 2018…",
-      "body": "Now this was a view with a thrill. From Mount Tschirgant in the Alps, you can see not only nearby towns and distant Tyrolean peaks, but also, weather permitting, stars, nebulas, and the band of the Milky Way Galaxy. What made the arduous climb worthwhile this night, though, was another peak -- the peak of the 2018 Perseids Meteor Shower. As hoped, dispersing clouds allowed a picturesque sky-gazing session that included many faint meteors, all while a carefully positioned camera took a series of exposures. Suddenly, a thrilling meteor -- bright and colorful -- slashed down right next the nearly vertical band of the Milky Way. As luck would have it, the camera caught it too. Therefore, a new image in the series was quickly taken with one of the sky-gazers posing on the nearby peak. Later, all of the images were digitally combined.",
-      "image": {
-        "src": "data/images/4d66211b04df19b2.jpg",
-        "alt": "Meteor and Milky Way over the Alps",
-        "credit": "© Nicholas Roemmelt (Venture Photography)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap190114.html",
-        "trustTier": "encyclopedic",
-        "date": "2019-01-14"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:41.643Z",
-      "hash": "37781194f21dc9ce"
-    },
-    {
-      "id": "apod:2004-10-07",
-      "type": "space",
-      "title": "Moon Lightning",
-      "summary": "Moonsets are not often quite as exciting as this one. But amateur astronomer Marc-Andre Besel was impressed by the brilliant lighting displays that joined the first quarter Moon and stars of the constellation Scorpius in western skies. On August 22, 2004, his view looked across the Gulf of Mexico from Anna Maria…",
-      "body": "Moonsets are not often quite as exciting as this one. But amateur astronomer Marc-Andre Besel was impressed by the brilliant lighting displays that joined the first quarter Moon and stars of the constellation Scorpius in western skies. On August 22, 2004, his view looked across the Gulf of Mexico from Anna Maria Island, Florida, USA, a region that would experience even more stormy weather in the coming days. The alluring digital image is a time exposure, by chance capturing the details of a brief flash of lightning along with an overexposed Moon and dramatic cloud formations. In fact, the exposure is long enough to show the background stars as short streaks or trails. The bright yellowish star trail, just above and right of the lightning flash, is red giant star Antares.",
-      "image": {
-        "src": "data/images/ea8a0d9285d436b3.jpg",
-        "alt": "Moon Lightning",
-        "credit": "© Marc-André Besel"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap041007.html",
-        "trustTier": "encyclopedic",
-        "date": "2004-10-07"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:41.643Z",
-      "hash": "22f27b222132b4aa"
-    },
-    {
-      "id": "apod:2016-05-07",
-      "type": "space",
-      "title": "Three Worlds for TRAPPIST-1",
-      "summary": "Three new found worlds orbit the ultracool dwarf star TRAPPIST-1, a mere 40 light-years away. Their transits were first detected by the Belgian robotic TRAnsiting Planets and Planetesimals Small Telescope, TRAPPIST, at ESO's La Silla Observatory in Chile. The newly discovered exoplanets are all similar in size to…",
-      "body": "Three new found worlds orbit the ultracool dwarf star TRAPPIST-1, a mere 40 light-years away. Their transits were first detected by the Belgian robotic TRAnsiting Planets and Planetesimals Small Telescope, TRAPPIST, at ESO's La Silla Observatory in Chile. The newly discovered exoplanets are all similar in size to Earth. Because they orbit very close to their faint, tiny star they could also have regions where surface temperatures allow for the presence of liquid water, a key ingredient for life. Their tantalizing proximity to Earth makes them prime candidates for future telescopic explorations of the atmospheres of these potentially habitable planets. All three worlds appear in this artist's vision, an imagined scene near the horizon of the system's outermost planet. Of course, the inner planet is transiting the dim, red, nearly Jupiter-sized parent star.",
-      "image": {
-        "src": "data/images/516a2fd327431748.jpg",
-        "alt": "Three Worlds for TRAPPIST-1",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap160507.html",
-        "trustTier": "encyclopedic",
-        "date": "2016-05-07"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:41.643Z",
-      "hash": "ed58c4d27ebfe9be"
-    },
-    {
-      "id": "apod:2006-10-05",
-      "type": "space",
-      "title": "Hidden Galaxy IC 342",
-      "summary": "Similar in size to other large, bright spiral galaxies IC 342 is a mere 7 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is almost hidden from view behind the veil of stars, gas…",
-      "body": "Similar in size to other large, bright spiral galaxies IC 342 is a mere 7 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is almost hidden from view behind the veil of stars, gas and dust clouds in the plane of our Milky Way galaxy. Even though IC 342's light is dimmed by intervening cosmic clouds, this remarkably sharp telescopic image traces the galaxy's own obscuring dust, blue star clusters, and glowing pink star forming regions along spiral arms that wind far from the galaxy's core. IC 342 may have undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.",
-      "image": {
-        "src": "data/images/de8db957224258d8.jpg",
-        "alt": "Hidden Galaxy IC 342",
-        "credit": "© Robert Gendler"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap061005.html",
-        "trustTier": "encyclopedic",
-        "date": "2006-10-05"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:41.643Z",
-      "hash": "5072233d23db829b"
-    },
-    {
-      "id": "onthisday:09-08:1566:87e5b60dedec0b5b",
-      "type": "history",
-      "title": "1566: Ottoman–Habsburg wars",
-      "summary": "Ottoman–Habsburg wars: Ottoman forces led by Suleiman the Magnificent captured the fortress of Szigetvár in Hungary, but were forced to end their campaign to take Vienna.",
-      "body": "Ottoman–Habsburg wars: Ottoman forces led by Suleiman the Magnificent captured the fortress of Szigetvár in Hungary, but were forced to end their campaign to take Vienna.",
-      "image": {
-        "src": "data/images/2a05aef6739f3421.jpg",
-        "alt": "Ottoman–Habsburg wars",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars",
-        "trustTier": "encyclopedic",
-        "date": "09-08"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:40.989Z",
-      "hash": "952d9ac992b154b0",
-      "expires": "2026-09-11T12:43:40.989Z"
-    },
-    {
-      "id": "onthisday:09-08:1831:8c60e98b53abfc33",
-      "type": "history",
-      "title": "1831: Russian Empire",
-      "summary": "The Russian Empire suppressed the November Uprising in Poland with the capture of Warsaw after a two-day assault.",
-      "body": "The Russian Empire suppressed the November Uprising in Poland with the capture of Warsaw after a two-day assault.",
-      "image": {
-        "src": "data/images/64e654e841768412.png",
-        "alt": "Russian Empire",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Russian_Empire",
-        "trustTier": "encyclopedic",
-        "date": "09-08"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:40.989Z",
-      "hash": "37b08806077c6f01",
-      "expires": "2026-09-11T12:43:40.989Z"
-    },
-    {
-      "id": "onthisday:09-08:1726:4a114ce128ab6361",
-      "type": "history",
-      "title": "1726: Johann Sebastian Bach",
-      "summary": "J. S. Bach led the first performance of Geist und Seele wird verwirret, a solo cantata for alto voice.",
-      "body": "J. S. Bach led the first performance of Geist und Seele wird verwirret, a solo cantata for alto voice.",
-      "image": {
-        "src": "data/images/ed351bfe6a56156f.jpg",
-        "alt": "Johann Sebastian Bach",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
-        "trustTier": "encyclopedic",
-        "date": "09-08"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:40.989Z",
-      "hash": "0fd54de6ab7a2520",
-      "expires": "2026-09-11T12:43:40.989Z"
-    },
-    {
-      "id": "wikipedia:28290137",
-      "type": "wiki",
-      "title": "Epictia goudotii",
-      "summary": "Epictia goudotii, also known commonly as the black blind snake and the southern Caribbean threadsnake, is a species of snake in the family Leptotyphlopidae. The species is native to Middle America.",
-      "body": "Epictia goudotii, also known commonly as the black blind snake and the southern Caribbean threadsnake, is a species of snake in the family Leptotyphlopidae. The species is native to Middle America.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Epictia_goudotii",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:39.710Z",
-      "hash": "3a4604b7625fc393"
-    },
-    {
-      "id": "wikipedia:17682521",
-      "type": "wiki",
-      "title": "Vinashak",
-      "summary": "Vinashak - Destroyer is a 1998 Indian Hindi-language action film directed by Ravi Dewan starring Sunil Shetty, Raveena Tandon and Danny Denzongpa. The film performed well at the box office.",
-      "body": "Vinashak - Destroyer is a 1998 Indian Hindi-language action film directed by Ravi Dewan starring Sunil Shetty, Raveena Tandon and Danny Denzongpa. The film performed well at the box office.",
-      "image": {
-        "src": "data/images/496ca90aa682bafd.jpg",
-        "alt": "Vinashak",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Vinashak",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:39.399Z",
-      "hash": "b79db8354ec011d7"
-    },
-    {
-      "id": "wikipedia:55657435",
-      "type": "wiki",
-      "title": "Hui Xian REIT",
-      "summary": "Hui Xian REIT is a real estate investment trust demerged from Cheung Kong Holdings. It is the first product listed on the Hong Kong Stock Exchange denominated in yuan. When it launched its IPO in 2011, its main asset is Oriental Plaza, a business park in Beijing.",
-      "body": "Hui Xian REIT is a real estate investment trust demerged from Cheung Kong Holdings. It is the first product listed on the Hong Kong Stock Exchange denominated in yuan. When it launched its IPO in 2011, its main asset is Oriental Plaza, a business park in Beijing.",
-      "image": {
-        "src": "data/images/5b06a108f38c3c0e.jpg",
-        "alt": "Hui Xian REIT",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hui_Xian_REIT",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:38.620Z",
-      "hash": "cfc4ffa901907dca"
-    },
-    {
-      "id": "wikipedia:21521748",
-      "type": "wiki",
-      "title": "Ścigów",
-      "summary": "Ścigów is a village in the administrative district of Gmina Strzeleczki, within Krapkowice County, Opole Voivodeship, in southern Poland.",
-      "body": "Ścigów is a village in the administrative district of Gmina Strzeleczki, within Krapkowice County, Opole Voivodeship, in southern Poland.",
-      "image": {
-        "src": "data/images/8cdc007e8626af84.jpg",
-        "alt": "Ścigów",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/%C5%9Acig%C3%B3w",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-08T12:43:38.297Z",
-      "hash": "237ea6ba81c1d1a9"
-    },
-    {
-      "id": "chess:3ngI1",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1712. Find the best line for black.",
-      "body": "Solution, from → to: h5→h3, g3→f4, h3→f3. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "5Bk1/1pp3pp/p1p2p2/7q/4P1b1/PNN2PK1/1PPR1P2/3R4 b - - 1 1",
-        "lastMove": "h2g3"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/3ngI1",
-        "trustTier": "community",
-        "date": "Mon, 07 Sep 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "matein2",
-        "short",
-        "epaulettemate",
-        "master"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:07:07.381Z",
-      "hash": "6739dcfc85bf4188"
-    },
-    {
-      "id": "trivia:bb02b3e4e3aa4a41",
-      "type": "trivia",
-      "title": "What is Canada's smallest province?",
-      "summary": "Is it: New Brunswick · Nova Scotia · Prince Edward Island · Yukon?",
-      "body": "Answer: Prince Edward Island.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "geography"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:07:04.396Z",
-      "hash": "bb02b3e4e3aa4a41"
-    },
-    {
-      "id": "trivia:fecf1fee4c8816d1",
-      "type": "trivia",
-      "title": "Hidden in the files for \"Mario Kart Arcade GP\" is a picture of the Beslan school hostage crisis.",
-      "summary": "True — or false?",
-      "body": "Answer: True.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:07:04.396Z",
-      "hash": "fecf1fee4c8816d1"
-    },
-    {
-      "id": "trivia:97e10db8f774fef0",
-      "type": "trivia",
-      "title": "Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
-      "summary": "Is it: Marvin Gaye - Sexual Healing · a-ha - Take On Me · Ed Sheeran - I See Fire · Coldplay - Midnight?",
-      "body": "Answer: Ed Sheeran - I See Fire.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-07T14:07:04.396Z",
-      "hash": "97e10db8f774fef0"
-    },
-    {
-      "id": "trivia:645b5adb1e5329e8",
-      "type": "trivia",
-      "title": "Which desert is the only desert in the world where the \"Saguaro\" cactus grows indigenously?",
-      "summary": "Is it: The Arabian Desert · The Yuma Desert · The Gobi Desert · The Sonoran Desert?",
-      "body": "Answer: The Sonoran Desert.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "science & nature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:07:04.396Z",
-      "hash": "645b5adb1e5329e8"
-    },
-    {
-      "id": "passage:gutenberg:120",
-      "type": "passage",
-      "title": "Treasure Island",
-      "summary": "Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17—, and go back to the time when my…",
-      "body": "Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17—, and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof. I remember him as if it were yesterday, as he came plodding to the inn door, his sea-chest following behind him in a hand-barrow--a tall, strong, heavy, nut-brown man, his tarry pigtail falling over the shoulder of his…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/120",
-        "trustTier": "publication",
-        "author": "Robert Louis Stevenson",
-        "date": "1883"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "adventure",
-        "pirates",
-        "sea"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:07:03.572Z",
-      "hash": "39059c5dab1d8659"
-    },
-    {
-      "id": "comic:smbc:a5287bae251bfe5b",
-      "type": "comic",
-      "title": "Seized",
-      "summary": "Please let Professor Sykes know there's a free bad caricature available for him.",
-      "image": {
-        "src": "data/images/b62fb99819d6cd5b.png",
-        "alt": "Please let Professor Sykes know there's a free bad caricature available for him.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/seized",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Sun, 06 Sep 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-07T14:07:02.677Z",
-      "hash": "a5287bae251bfe5b"
-    },
-    {
-      "id": "comic:xkcd:953",
-      "type": "comic",
-      "title": "1 to 10",
-      "summary": "If you get an 11/100 on a CS test, but you claim it should be counted as a 'C', they'll probably decide you deserve the upgrade.",
-      "body": "[[Two people are talking.]] Person 1: On a scale of 1 to 10, how likely is it that this question is using Binary? Person 2: ...4? Person 1: What's a 4? {{Title text: If you get an 11 100 on a CS test, but you claim it should be counted as a 'C', they'll probably decide you deserve the upgrade.}}",
-      "image": {
-        "src": "data/images/d063e34dc3212169.png",
-        "alt": "If you get an 11/100 on a CS test, but you claim it should be counted as a 'C', they'll probably decide you deserve the upgrade.",
-        "credit": "xkcd #953 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/953/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2011-09-19"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-07T14:07:02.410Z",
-      "hash": "56794d4f1edf31d8"
-    },
-    {
-      "id": "food:5c599e48e6782d10",
-      "type": "food",
-      "title": "Pan-Fried Tempeh Ponzu Balls",
-      "summary": "These Pan-Fried Tempeh Ponzu Balls are a high-protein, veg-friendly addition to all sorts of meals. They’re golden-crusted, bite-sized, and an easy way to work more tempeh into your cooking. Give them a try! Continue reading Pan-Fried Tempeh Ponzu Balls on 101 Cookbooks",
-      "body": "These Pan-Fried Tempeh Ponzu Balls are a high-protein, veg-friendly addition to all sorts of meals. They’re golden-crusted, bite-sized, and an easy way to work more tempeh into your cooking. Give them a try! Continue reading Pan-Fried Tempeh Ponzu Balls on 101 Cookbooks",
-      "image": {
-        "src": "data/images/63cecd21c82f68b7.jpg",
-        "alt": "Pan-Fried Tempeh Ponzu Balls",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/tempeh-ponzu-balls/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Fri, 21 Aug 2026 18:02:4"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "260+ vegan recipes",
-        "appetizers",
-        "dinner ideas",
-        "main course recipes",
-        "side dish recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:07:02.121Z",
-      "hash": "5c599e48e6782d10"
-    },
-    {
-      "id": "word:27613a753857af67",
-      "type": "word",
-      "title": "enigma",
-      "summary": "Noun: Something or someone puzzling, mysterious or inexplicable.",
-      "body": "1. Something or someone puzzling, mysterious or inexplicable.\n2. A riddle, or a difficult problem.\n3. Riddles and puzzles, collectively.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/enigma",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:07:00.806Z",
-      "hash": "27613a753857af67"
-    },
-    {
-      "id": "quote:4e2d4fe3ff98ef60",
-      "type": "quote",
-      "title": "“You are the sky. Everything else - it's just the weather.”",
-      "summary": "— Pema Chodron",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Pema_Chodron",
-        "trustTier": "community",
-        "author": "Pema Chodron"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:44.822Z",
-      "hash": "4e2d4fe3ff98ef60"
-    },
-    {
-      "id": "quote:bcce9110f4b33ae2",
-      "type": "quote",
-      "title": "“Nothing important is learned; it is simply remembered.”",
-      "summary": "— Carlos Ruiz Zafon",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Carlos_Ruiz_Zafon",
-        "trustTier": "community",
-        "author": "Carlos Ruiz Zafon"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:44.822Z",
-      "hash": "bcce9110f4b33ae2"
-    },
-    {
-      "id": "quote:a6d2f58772fdc25e",
-      "type": "quote",
-      "title": "“The glow of one warm thought is to me worth more than money.”",
-      "summary": "— Thomas Jefferson",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Thomas_Jefferson",
-        "trustTier": "community",
-        "author": "Thomas Jefferson"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:44.821Z",
-      "hash": "a6d2f58772fdc25e"
-    },
-    {
-      "id": "article:b8bc1866ea7229b5",
-      "type": "article",
-      "title": "Twenty",
-      "summary": "Twenty: In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants. Google, working under the motto “Don’t Be Evil,” had just dethroned Yahoo! as the planet’s most popular Internet search engine (AskJeeves was not available for comment). Nickelback was at the height of its…",
-      "body": "Twenty: In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants. Google, working under the motto “Don’t Be Evil,” had just dethroned Yahoo! as the planet’s most popular Internet search engine (AskJeeves was not available for comment). Nickelback was at the height of its fame. Internet Explorer was the most used web browser, […]",
-      "source": {
-        "name": "Damn Interesting",
-        "url": "https://www.damninteresting.com/twenty/",
-        "trustTier": "publication",
-        "author": "Alan Bellows",
-        "date": "Fri, 19 Sep 2025 13:32:2"
-      },
-      "tags": [
-        "curiosities",
-        "history",
-        "science",
-        "announcements",
-        "adventure",
-        "disaster",
-        "discovery",
-        "disorders",
-        "dubious claims",
-        "engineering"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:06:28.534Z",
-      "hash": "b8bc1866ea7229b5"
-    },
-    {
-      "id": "article:04396529beac4549",
-      "type": "article",
-      "title": "How To Stay Happy: 4 Secrets From History’s Happiest Philosopher",
-      "summary": "Becoming happy isn’t hard. Ice cream usually does the trick. Staying happy, now there’s a challenge. Often, it doesn’t take much for us to lose our cool and let positive feelings slip away. That said, there’s plenty of advice out there on becoming happy, but not too much on staying happy. So who…",
-      "body": "Becoming happy isn’t hard. Ice cream usually does the trick. Staying happy, now there’s a challenge. Often, it doesn’t take much for us to lose our cool and let positive feelings slip away. That said, there’s plenty of advice out there on becoming happy, but not too much on staying happy. So who can help […] The post How To Stay Happy: 4 Secrets From History’s Happiest Philosopher appeared first on Barking Up The Wrong Tree.",
-      "image": {
-        "src": "data/images/9d28345f0af285cb.jpg",
-        "alt": "How To Stay Happy: 4 Secrets From History’s Happiest Philosopher",
-        "credit": "Barking Up the Wrong Tree"
-      },
-      "source": {
-        "name": "Barking Up the Wrong Tree",
-        "url": "https://bakadesuyo.com/2026/08/stay-happy/?utm_source=rss&utm_medium=rss&utm_campaign=stay-happy",
-        "trustTier": "community",
-        "author": "Eric Barker",
-        "date": "Mon, 17 Aug 2026 08:36:4"
-      },
-      "tags": [
-        "psychology",
-        "self-improvement",
-        "science",
-        "be happier"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:06:28.445Z",
-      "hash": "04396529beac4549"
-    },
-    {
-      "id": "article:6def8fe8f34bd66a",
-      "type": "article",
-      "title": "Some more things about Django I've been enjoying",
-      "summary": "Hello! I&rsquo;m on a funny journey right now where I&rsquo;m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It&rsquo;s kind of an interesting journey because it doesn&rsquo;t necessarily feel &ldquo;easy&rdquo; to me…",
-      "body": "Hello! I&rsquo;m on a funny journey right now where I&rsquo;m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It&rsquo;s kind of an interesting journey because it doesn&rsquo;t necessarily feel &ldquo;easy&rdquo; to me to make websites in this way: I never learned how to do it in the 2000s or 2010s, and there&rsquo;s a lot I need to learn. So here are some Django features that make building this kind of site feel more achievable than when I was trying and failing to use Go&rsquo;s standard library or Flask. And…",
-      "source": {
-        "name": "Julia Evans",
-        "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-        "trustTier": "community",
-        "date": "2026-07-21T00:00:00+00:0"
-      },
-      "tags": [
-        "programming",
-        "computers",
-        "technology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:06:28.056Z",
-      "hash": "6def8fe8f34bd66a"
-    },
-    {
-      "id": "article:6c8a17c794af4ba0",
-      "type": "article",
-      "title": "The True Purpose of Tarot",
-      "summary": "“Nothing like this has ever happened before or will ever happen again,” a friend said to me about a lucky turn of events — a statement that struck me as touchingly self-negating: a recognition that life has violated her predictions about what is possible, immediately followed by a reassertion of…",
-      "body": "“Nothing like this has ever happened before or will ever happen again,” a friend said to me about a lucky turn of events — a statement that struck me as touchingly self-negating: a recognition that life has violated her predictions about what is possible, immediately followed by a reassertion of unquestioned confidence in her powers of prediction. The very fact that life surprises us is evidence that it can surprise us, that it will surprise us over and over. To mistake our theories of probability for a realistic representation of possibility is to forget that the improbable gave us all……",
-      "image": {
-        "src": "data/images/59db17cb12cb107f.jpg",
-        "alt": "The True Purpose of Tarot",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/09/06/alejandro-jorodowsky-tarot/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Sun, 06 Sep 2026 18:51:3"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "psychology",
-        "alejandro jorodowsky",
-        "books",
-        "time"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:06:26.703Z",
-      "hash": "6c8a17c794af4ba0"
-    },
-    {
-      "id": "article:0538c07c7da7a303",
-      "type": "article",
-      "title": "I Was a Workaholic. Quitting Changed My Life.",
-      "summary": "Lindsay Crouse was a Harvard-educated, Emmy-winning ‘New York Times’ journalist who ran marathons in her spare time. The hardest thing she ever did? Quit.",
-      "body": "Lindsay Crouse was a Harvard-educated, Emmy-winning ‘New York Times’ journalist who ran marathons in her spare time. The hardest thing she ever did? Quit.",
-      "image": {
-        "src": "data/images/0b5c72911fa0847b.jpg",
-        "alt": "I Was a Workaholic. Quitting Changed My Life.",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/i-was-a-workaholic-quitting-changed",
-        "trustTier": "publication",
-        "author": "Lindsay Crouse",
-        "date": "Mon, 07 Sep 2026 09:01:0"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:06:26.535Z",
-      "hash": "0538c07c7da7a303",
-      "expires": "2026-10-07T14:06:26.535Z"
-    },
-    {
-      "id": "article:63b7b1c93c57f0d7",
-      "type": "article",
-      "title": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
-      "summary": "The post Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year. appeared first on ProPublica.",
-      "body": "The post Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year. appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/7a0bfb20d6fc77d9.jpg",
-        "alt": "Regulators Knew This Marijuana Product Was Harming People. It Stayed on Shelves for More Than a Year.",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-sima-sciences-midnight-drops",
-        "trustTier": "publication",
-        "author": "Christopher Osher",
-        "date": "Fri, 04 Sep 2026 09:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "regulation"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:06:26.373Z",
-      "hash": "63b7b1c93c57f0d7",
-      "expires": "2026-12-06T14:06:26.373Z"
-    },
-    {
-      "id": "article:266de726c5aa4f28",
-      "type": "article",
-      "title": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
-      "summary": "Photographs from when Atlantic City beaches featured artists ornately sculpting sand.",
-      "body": "Photographs from when Atlantic City beaches featured artists ornately sculpting sand.",
-      "image": {
-        "src": "data/images/67dbd93da23a3d93.jpg",
-        "alt": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture",
-        "trustTier": "publication",
-        "date": "Wed, 29 Jul 2026 13:07:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:06:24.314Z",
-      "hash": "266de726c5aa4f28"
-    },
-    {
-      "id": "greek:d400c7e173bfe638",
-      "type": "greek",
-      "title": "υἱός",
-      "summary": "υἱός — “son” · noun",
-      "body": "Note: ὁ υἱός\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CF%85%E1%BC%B1%CF%8C%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:22.967Z",
-      "hash": "d400c7e173bfe638"
-    },
-    {
-      "id": "poetry:748f407f380a8e4a",
-      "type": "poem",
-      "title": "When First",
-      "summary": "WHEN first I came here I had hope,\nHope for I knew not what. Fast beat\nMy heart at sight of the tall slope\nOr grass and yews, as if my feet",
-      "body": "WHEN first I came here I had hope,\nHope for I knew not what. Fast beat\nMy heart at sight of the tall slope\nOr grass and yews, as if my feet\n\nOnly by scaling its steps of chalk\nWould see something no other hill\nEver disclosed. And now I walk\nDown it the last time. Never will\n\nMy heart beat so again at sight\nOf any hill although as fair\nAnd loftier. For infinite\nThe change, late unperceived, this year,\n\nThe twelfth, suddenly, shows me plain.\nHope now,--not health, nor cheerfulness,\nSince they can come and go again,\nAs often one brief hour witnesses,--\n\nJust hope has gone for ever. Perhaps\nI may love other hills yet more\nThan this: the future and the maps\nHide something I was waiting for.\n\nOne thing I know, that love with chance\nAnd use and time and necessity\nWill grow, and louder the heart's dance\nAt parting than at meeting be.",
-      "source": {
-        "name": "Edward Thomas · PoetryDB",
-        "url": "https://poetrydb.org/title/When%20First",
-        "trustTier": "community",
-        "author": "Edward Thomas"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-07T14:06:22.965Z",
-      "hash": "748f407f380a8e4a"
-    },
-    {
-      "id": "art:si:ld1-1643406112513-1643406113819-0",
-      "type": "art",
-      "title": "Lewis' Moon Snail, Lewis's Moon Snail, Lewis's Moon",
-      "summary": "NMNH - Education & Outreach · Education and Outreach collections",
-      "body": "NMNH - Education & Outreach\nEducation and Outreach collections",
-      "image": {
-        "src": "data/images/30e47d33fcf9d1f0.jpg",
-        "alt": "Lewis' Moon Snail, Lewis's Moon Snail, Lewis's Moon",
-        "credit": "NMNH - Education & Outreach · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/384123cac-f24c-47e7-ba92-83b16aa22dc6",
-        "trustTier": "encyclopedic",
-        "date": "Education and Outreach collections"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon",
-        "education and outreach collections"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-07T14:06:12.786Z",
-      "hash": "9205e963dd970cf6"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399972036-1",
-      "type": "art",
-      "title": "Bandbox",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1820s · Bandboxes (containers)",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1820s · Bandboxes (containers)",
-      "image": {
-        "src": "data/images/bf049018b4d5a161.jpg",
-        "alt": "Bandbox",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/213704",
-        "trustTier": "encyclopedic",
-        "date": "1820s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon",
-        "bandboxes (containers)"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-07T14:06:12.786Z",
-      "hash": "4afbae33a91b02ee"
-    },
-    {
-      "id": "met:424883",
-      "type": "art",
-      "title": "Jean Bart, France, from the Famous Ships series (N50) for Virginia Brights Cigarettes",
-      "summary": "Allen & Ginter · 1895 · Albumen photograph",
-      "body": "Allen & Ginter · 1895 · Albumen photograph\nThe Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick\nDrawings and Prints",
-      "image": {
-        "src": "data/images/929c57e8dc88c49d.jpg",
-        "alt": "Jean Bart, France, from the Famous Ships series (N50) for Virginia Brights Cigarettes",
-        "credit": "The Met · The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/424883",
-        "trustTier": "encyclopedic",
-        "author": "Allen & Ginter",
-        "date": "1895"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "ship",
-        "photographs"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-07T14:06:11.649Z",
-      "hash": "9bf35a695987a548"
-    },
-    {
-      "id": "met:383832",
-      "type": "art",
-      "title": "The Atlantic Telegraph Cable Fleet Assembled at Berehaven (Southwest Coast of Ireland): Ships, the Great Eastern, H.M.S. Terrible, the Alby, the Medway and the William Cory",
-      "summary": "Robert Charles Dudley · 1866 · Watercolor over graphite with touches of gouache (bodycolor)",
-      "body": "Robert Charles Dudley · 1866 · Watercolor over graphite with touches of gouache (bodycolor)\nGift of Cyrus W. Field, 1892\nDrawings and Prints",
-      "image": {
-        "src": "data/images/a97a4a2b1dc1a3f5.jpg",
-        "alt": "The Atlantic Telegraph Cable Fleet Assembled at Berehaven (Southwest Coast of Ireland): Ships, the Great Eastern, H.M.S. Terrible, the Alby, the Medway and the William Cory",
-        "credit": "The Met · Gift of Cyrus W. Field, 1892"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/383832",
-        "trustTier": "encyclopedic",
-        "author": "Robert Charles Dudley",
-        "date": "1866"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "ship",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-07T14:06:11.409Z",
-      "hash": "3939b93d8888d2f3"
-    },
-    {
-      "id": "met:287362",
-      "type": "art",
-      "title": "Marseille",
-      "summary": "Edouard Baldus · ca. 1860 · Albumen silver print from glass negative",
-      "body": "Edouard Baldus · ca. 1860 · Albumen silver print from glass negative\nGilman Collection, Gift of The Howard Gilman Foundation, 2005\nPhotographs",
-      "image": {
-        "src": "data/images/7492612d63d52f44.jpg",
-        "alt": "Marseille",
-        "credit": "The Met · Gilman Collection, Gift of The Howard Gilman Foundation, 2005"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/287362",
-        "trustTier": "encyclopedic",
-        "author": "Edouard Baldus",
-        "date": "ca. 1860"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "ship",
-        "photographs"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-07T14:06:11.099Z",
-      "hash": "b12b0d53158a500a"
-    },
-    {
-      "id": "apod:2020-01-23",
-      "type": "space",
-      "title": "Globular Star Cluster NGC 6752",
-      "summary": "Some 13,000 light-years away toward the southern constellation Pavo, the globular star cluster NGC 6752 roams the halo of our Milky Way galaxy. Over 10 billion years old, NGC 6752 follows clusters Omega Centauri and 47 Tucanae as the third brightest globular in planet Earth's night sky. It holds over 100 thousand…",
-      "body": "Some 13,000 light-years away toward the southern constellation Pavo, the globular star cluster NGC 6752 roams the halo of our Milky Way galaxy. Over 10 billion years old, NGC 6752 follows clusters Omega Centauri and 47 Tucanae as the third brightest globular in planet Earth's night sky. It holds over 100 thousand stars in a sphere about 100 light-years in diameter. Telescopic explorations of the NGC 6752 have found that a remarkable fraction of the stars near the cluster's core, are multiple star systems. They also reveal the presence of blue straggle stars, stars which appear to be too young and massive to exist in a cluster whose stars are all expected to be at least twice as old as the Sun. The blue stragglers are thought to be formed by star mergers and collisions in the dense stellar environment at the cluster's core. This sharp color composite also features the cluster's ancient red giant stars in yellowish hues. (Note: The bright, spiky blue star at 11 o'clock from the cluster center is a foreground star along the line-of-sight to NGC 6752)",
-      "image": {
-        "src": "data/images/f12f40253daae2cf.jpg",
-        "alt": "Globular Star Cluster NGC 6752",
-        "credit": "© Jose Joaquin Perez"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap200123.html",
-        "trustTier": "encyclopedic",
-        "date": "2020-01-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:08.200Z",
-      "hash": "317aae2178c04c8d"
-    },
-    {
-      "id": "apod:2001-05-21",
-      "type": "space",
-      "title": "Another Comet LINEAR Breaks Up",
-      "summary": "Last year, a different comet LINEAR (C/1999 S4) broke up. This year, a comet first imaged by the Lincoln Near Asteroid Research (LINEAR) telescope in New Mexico on 2001 January 3, is also breaking up. This new Comet LINEAR (C/2001 A2) unexpectedly brightened to the edge of naked-eye visiblilty a few weeks ago when…",
-      "body": "Last year, a different comet LINEAR (C/1999 S4) broke up. This year, a comet first imaged by the Lincoln Near Asteroid Research (LINEAR) telescope in New Mexico on 2001 January 3, is also breaking up. This new Comet LINEAR (C/2001 A2) unexpectedly brightened to the edge of naked-eye visiblilty a few weeks ago when its nucleus broke in two. Observations taken just last week now indicate that one of the two remaining nuclear fragments has again fragmented. The first piece to break off is visible on the upper left of the above false-color image by a Very Large Telescope, while additional fragmentation is inferred from the brightness and elongation of the spot on the lower right. When a comet nucleus splits, new surfaces are exposed and previously trapped ice and gas are released that evaporate and brighten in the energetic sunlight. Comet LINEAR may remain visible with little or no optical aid into early June. In contrast, at least two other much dimmer Comet LINEARs discovered recently appear stable.",
-      "image": {
-        "src": "data/images/4c9f3fc848b5c47a.jpg",
-        "alt": "Another Comet LINEAR Breaks Up",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap010521.html",
-        "trustTier": "encyclopedic",
-        "date": "2001-05-21"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:08.200Z",
-      "hash": "d77f65b163f26cae"
-    },
-    {
-      "id": "apod:2020-02-03",
-      "type": "space",
-      "title": "Solar Granules at Record High Resolution",
-      "summary": "Why does the Sun's surface keep changing? The help find out, the US National Science Foundation (NSF) has built the Daniel K. Inouye Solar Telescope in Hawaii, USA. The Inouye telescope has a larger mirror that enables the capturing of images of higher resolution, at a faster rate, and in more colors than ever…",
-      "body": "Why does the Sun's surface keep changing? The help find out, the US National Science Foundation (NSF) has built the Daniel K. Inouye Solar Telescope in Hawaii, USA. The Inouye telescope has a larger mirror that enables the capturing of images of higher resolution, at a faster rate, and in more colors than ever before. Featured are recently-released first-light images taken over 10 minutes and combined into a 5-second time-lapse video. The video captures an area on the Sun roughly the size of our Earth, features granules roughly the size of a country, and resolves features as small as 30-kilometers across. Granule centers are bright due to the upwelling hot solar plasma, while granule edges are dim due to the cooled plasma falling back. Some regions between granules edges are very bright as they are curious magnetic windows into a deep and hotter solar interior. How the Sun's magnetic field keeps changing, channeling energy, and affecting the distant Earth, among many other topics, will be studied for years to come using data from the new Inouye telescope. Astrophysicists: Browse 2,100+ codes in the Astrophysics Source Code Library",
-      "image": {
-        "src": "data/images/9bfe0a2a3e66be10.jpg",
-        "alt": "Solar Granules at Record High Resolution",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap200203.html",
-        "trustTier": "encyclopedic",
-        "date": "2020-02-03"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:08.200Z",
-      "hash": "daa0e323e7911a9e"
-    },
-    {
-      "id": "apod:2005-08-30",
-      "type": "space",
-      "title": "Albireo: A Bright and Beautiful Double",
-      "summary": "Sometimes, even a small telescope can help unlock a hidden beauty of the heavens. Such is the case of the bright double star Albireo. Seen at even slight magnification, Albireo unfolds from a bright single point into a beautiful double star of strikingly different colors. At 380 light years distant, the two bright…",
-      "body": "Sometimes, even a small telescope can help unlock a hidden beauty of the heavens. Such is the case of the bright double star Albireo. Seen at even slight magnification, Albireo unfolds from a bright single point into a beautiful double star of strikingly different colors. At 380 light years distant, the two bright stars of Albireo are comparatively far from each other and take about 75,000 years to complete a single orbit. The brighter yellow star is itself a binary star system, but too close together to be resolved even with a telescope. Albireo, pictured above, is the fifth brightest star system toward the constellation of the Swan (Cygnus) and easily visible to the unaided eye.",
-      "image": {
-        "src": "data/images/22fcfebb10ad0531.jpg",
-        "alt": "Albireo: A Bright and Beautiful Double",
-        "credit": "© Richard Yandrick (Cosmicimage.com)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap050830.html",
-        "trustTier": "encyclopedic",
-        "date": "2005-08-30"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:08.200Z",
-      "hash": "b53a0c2a0f056b57"
-    },
-    {
-      "id": "apod:1997-02-27",
-      "type": "space",
-      "title": "Comet Hale-Bopp is That Bright\r\nCredit and Copyright:",
-      "summary": "What's that fuzzy star? It's not a star, it's Comet Hale-Bopp. Not only has Comet Hale-Bopp become easy to see in the morning sky, it has become hard not to see it. It's that bright. Any morning just before sunrise, look towards the east. Comet Hale-Bopp is one of the brightest objects up. Its dominating presence is…",
-      "body": "What's that fuzzy star? It's not a star, it's Comet Hale-Bopp. Not only has Comet Hale-Bopp become easy to see in the morning sky, it has become hard not to see it. It's that bright. Any morning just before sunrise, look towards the east. Comet Hale-Bopp is one of the brightest objects up. Its dominating presence is shown dramatically by this photo taken just west of Williston, North Carolina, USA. Here Comet Hale-Bopp shines above the telephone poles lining Highway 70. Too tired to get up in the morning to see the comet? Don't worry, in less than a month it will also be visible in the evening sky, just before sunset. And it will have a longer tail. From the Space Shuttle, Dr. Steven Hawley says, \"Hale-Bopp looks great.\"",
-      "image": {
-        "src": "data/images/a992ffed0a68fc89.jpg",
-        "alt": "Comet Hale-Bopp is That Bright\r\nCredit and Copyright:",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap970227.html",
-        "trustTier": "encyclopedic",
-        "date": "1997-02-27"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:08.200Z",
-      "hash": "6c5a39650f7a67b6"
-    },
-    {
-      "id": "onthisday:09-07:2010:063690093b1fd940",
-      "type": "history",
-      "title": "2010: Fishing trawler",
-      "summary": "A Chinese fishing trawler operating in disputed waters collided with Japan Coast Guard patrol boats near the Senkaku Islands, sparking a major diplomatic dispute between the two countries.",
-      "body": "A Chinese fishing trawler operating in disputed waters collided with Japan Coast Guard patrol boats near the Senkaku Islands, sparking a major diplomatic dispute between the two countries.",
-      "image": {
-        "src": "data/images/3bffb435dd64b426.jpg",
-        "alt": "Fishing trawler",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Fishing_trawler",
-        "trustTier": "encyclopedic",
-        "date": "09-07"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:07.558Z",
-      "hash": "95b2c96dcca4380c",
-      "expires": "2026-09-10T14:06:07.558Z"
-    },
-    {
-      "id": "onthisday:09-07:1822:d3d8c95550459a1d",
-      "type": "history",
-      "title": "1822: Pedro I of Brazil",
-      "summary": "Pedro I declared the independence of Brazil from Portugal, establishing the Empire of Brazil (flag pictured).",
-      "body": "Pedro I declared the independence of Brazil from Portugal, establishing the Empire of Brazil (flag pictured).",
-      "image": {
-        "src": "data/images/6bcc2824ea5a42de.jpg",
-        "alt": "Pedro I of Brazil",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil",
-        "trustTier": "encyclopedic",
-        "date": "09-07"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:07.558Z",
-      "hash": "87ab13d0be83b986",
-      "expires": "2026-09-10T14:06:07.558Z"
-    },
-    {
-      "id": "onthisday:09-07:2011:38030cf7d5bd4aca",
-      "type": "history",
-      "title": "2011: Lokomotiv Yaroslavl plane crash",
-      "summary": "Yak-Service Flight 9633, carrying the players and coaching staff of the ice hockey team Lokomotiv Yaroslavl, crashed on take-off near Yaroslavl, Russia, resulting in the deaths of 44 of the 45 people on board.",
-      "body": "Yak-Service Flight 9633, carrying the players and coaching staff of the ice hockey team Lokomotiv Yaroslavl, crashed on take-off near Yaroslavl, Russia, resulting in the deaths of 44 of the 45 people on board.",
-      "image": {
-        "src": "data/images/ad14926466a7b408.jpg",
-        "alt": "Lokomotiv Yaroslavl plane crash",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Lokomotiv_Yaroslavl_plane_crash",
-        "trustTier": "encyclopedic",
-        "date": "09-07"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-07T14:06:07.558Z",
-      "hash": "09caaab2c3b48fd0",
-      "expires": "2026-09-10T14:06:07.558Z"
     },
     {
       "id": "curated:handwriting-beats-typing",

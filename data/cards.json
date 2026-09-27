@@ -1,7 +1,1001 @@
 {
-  "generatedAt": "2026-09-26T12:50:12.471Z",
+  "generatedAt": "2026-09-27T13:42:11.501Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:qi24x",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1681. Find the best line for black.",
+      "body": "Solution, from → to: a3→a2, a1→a2, f5→a5. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "1r4k1/6pp/p7/5r2/2pQ4/q4P2/P1P4P/K2R2R1 b - - 1 1",
+        "lastMove": "h1g1"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/qi24x",
+        "trustTier": "community",
+        "date": "Sun, 27 Sep 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "short",
+        "attraction",
+        "sacrifice",
+        "endgame"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:42:06.691Z",
+      "hash": "9f5047b8f2722c96"
+    },
+    {
+      "id": "trivia:87b6f5187f3f1e05",
+      "type": "trivia",
+      "title": "Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?",
+      "summary": "Is it: Steven Seagal · Scott Adkins · Chuck Norris · Jean-Claude Van Damme?",
+      "body": "Answer: Jean-Claude Van Damme.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "film"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:42:03.951Z",
+      "hash": "87b6f5187f3f1e05"
+    },
+    {
+      "id": "trivia:c9e944f721f1eea3",
+      "type": "trivia",
+      "title": "What nation produces roughly 40% of the world’s vanilla?",
+      "summary": "Is it: Mexico · China · Indonesia · Madagascar?",
+      "body": "Answer: Madagascar.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "general knowledge"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:42:03.951Z",
+      "hash": "c9e944f721f1eea3"
+    },
+    {
+      "id": "trivia:36f953d6fe6cbacd",
+      "type": "trivia",
+      "title": "The acronym \"RIP\" stands for which of these?",
+      "summary": "Is it: Routine Inspection Protocol · Routing Information Protocol · Regular Interval Processes · Runtime Instance Processes?",
+      "body": "Answer: Routing Information Protocol.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "computers"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-09-27T13:42:03.951Z",
+      "hash": "36f953d6fe6cbacd"
+    },
+    {
+      "id": "trivia:d36e08cba88fc82d",
+      "type": "trivia",
+      "title": "Which of the following Pacific Islander countries is ruled by a constitutional monarchy?",
+      "summary": "Is it: Palau · Tonga · Kiribati · Fiji?",
+      "body": "Answer: Tonga.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "politics"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:42:03.951Z",
+      "hash": "d36e08cba88fc82d"
+    },
+    {
+      "id": "comic:smbc:3ea1e12f4169ae4a",
+      "type": "comic",
+      "title": "All Right",
+      "summary": "He's only given one final week to live but having a salary is nice.",
+      "image": {
+        "src": "data/images/325899cef23597ec.png",
+        "alt": "He's only given one final week to live but having a salary is nice.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/all-right",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 26 Sep 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-27T13:42:02.593Z",
+      "hash": "3ea1e12f4169ae4a"
+    },
+    {
+      "id": "comic:xkcd:3037",
+      "type": "comic",
+      "title": "Radon",
+      "summary": "A good ²³⁸Umbrella policy should cover it.",
+      "image": {
+        "src": "data/images/74d3384d3d303b60.png",
+        "alt": "A good ²³⁸Umbrella policy should cover it.",
+        "credit": "xkcd #3037 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3037/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2025-01-13"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-27T13:42:02.305Z",
+      "hash": "51a30ebcc51143fe"
+    },
+    {
+      "id": "word:0331353fdca40f3f",
+      "type": "word",
+      "title": "halcyon",
+      "summary": "Noun: A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.",
+      "body": "1. A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.\n2. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.\n3. A tropical kingfisher of the genus Halcyon, such as the sacred kingfisher (Halcyon sancta) of Australia.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/halcyon",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:42:00.899Z",
+      "hash": "0331353fdca40f3f"
+    },
+    {
+      "id": "word:0e3cbac88c99d230",
+      "type": "word",
+      "title": "aphorism",
+      "summary": "Noun: A concise expression of a principle in an area of knowledge; an axiom, a precept.",
+      "body": "1. A concise expression of a principle in an area of knowledge; an axiom, a precept.\n2. A concise or pithy, and memorable, expression of a general truth; a maxim, a saying.\n3. The essence or heart of something.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/aphorism",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:51.744Z",
+      "hash": "0e3cbac88c99d230"
+    },
+    {
+      "id": "quote:739d79c26b37d37e",
+      "type": "quote",
+      "title": "“Knowledge is learning something everyday. Wisdom is letting go of something everyday.”",
+      "summary": "— Unknown",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:51.542Z",
+      "hash": "739d79c26b37d37e"
+    },
+    {
+      "id": "quote:650924c65bc382ca",
+      "type": "quote",
+      "title": "“Talk sense to a fool and he calls you foolish.”",
+      "summary": "— Euripides",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Euripides",
+        "trustTier": "community",
+        "author": "Euripides"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:51.542Z",
+      "hash": "650924c65bc382ca"
+    },
+    {
+      "id": "quote:6e2a18f006a55b15",
+      "type": "quote",
+      "title": "“Waste not fresh tears over old griefs.”",
+      "summary": "— Euripides",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Euripides",
+        "trustTier": "community",
+        "author": "Euripides"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:51.542Z",
+      "hash": "6e2a18f006a55b15"
+    },
+    {
+      "id": "book-review:c502eded19cbcb35",
+      "type": "book-review",
+      "title": "The Last Graduate Students?",
+      "summary": "“I began writing this as a record of what it felt like to be a student then, as collective attachments to values—long recognized as fraying, with the knell of the next scapegoat, or horrifying spectacle—face the final chopping block: public good, responsibility to others, democracy itself.” The…",
+      "body": "“I began writing this as a record of what it felt like to be a student then, as collective attachments to values—long recognized as fraying, with the knell of the next scapegoat, or horrifying spectacle—face the final chopping block: public good, responsibility to others, democracy itself.” The post The Last Graduate Students? appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/the-last-graduate-students/",
+        "trustTier": "publication",
+        "author": "Imani Radney",
+        "date": "Thu, 24 Sep 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "essays",
+        "academia",
+        "austerity",
+        "authoritarianism",
+        "covid",
+        "graduate school",
+        "higher education"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:41:51.410Z",
+      "hash": "c502eded19cbcb35"
+    },
+    {
+      "id": "article:25672325333177a3",
+      "type": "article",
+      "title": "Now the Music Ceases",
+      "summary": "In memory of Annie Dillard.",
+      "body": "In memory of Annie Dillard.",
+      "source": {
+        "name": "Lapham's Quarterly",
+        "url": "https://www.laphamsquarterly.org/roundtable/now-music-ceases",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "history",
+        "culture",
+        "literature"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:41:44.039Z",
+      "hash": "25672325333177a3"
+    },
+    {
+      "id": "article:9ebfd72d3c08c2ed",
+      "type": "article",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "summary": "Hello! Recently I needed bike lights for my bike. And I remembered that I already had rechargeable bike lights that I bought ten years ago, that I hadn&rsquo;t tried in a long time. I tried to recharge them, but after fully charging them, they only worked for maybe 5 minutes before they turned off…",
+      "body": "Hello! Recently I needed bike lights for my bike. And I remembered that I already had rechargeable bike lights that I bought ten years ago, that I hadn&rsquo;t tried in a long time. I tried to recharge them, but after fully charging them, they only worked for maybe 5 minutes before they turned off again. I don&rsquo;t know much about electronics, but I&rsquo;ve been curious about whether it&rsquo;s possible to fix old electronics for a long time, and this seemed like the perfect repair project because I might just need to replace the battery. So I went to the local queer makerspace where…",
+      "image": {
+        "src": "data/images/ea6d089cb287f835.png",
+        "alt": "Replacing the old battery on rechargeable bike lights",
+        "credit": "Julia Evans"
+      },
+      "source": {
+        "name": "Julia Evans",
+        "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+        "trustTier": "community",
+        "date": "2026-09-27T00:00:00+00:0"
+      },
+      "tags": [
+        "programming",
+        "computers",
+        "technology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:41:43.875Z",
+      "hash": "9ebfd72d3c08c2ed"
+    },
+    {
+      "id": "article:258cfc160bd0b5d0",
+      "type": "article",
+      "title": "A Blow‑by‑Blow Account of What Would Happen If the Yellowstone Supervolcano Erupted Now",
+      "summary": "Would it be the end of humanity? The post A Blow‑by‑Blow Account of What Would Happen If the Yellowstone Supervolcano Erupted Now appeared first on Nautilus.",
+      "body": "Would it be the end of humanity? The post A Blow‑by‑Blow Account of What Would Happen If the Yellowstone Supervolcano Erupted Now appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/37952bc4c9140b6e.jpg",
+        "alt": "A Blow‑by‑Blow Account of What Would Happen If the Yellowstone Supervolcano Erupted Now",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/a-blow%e2%80%91by%e2%80%91blow-account-of-what-would-happen-if-the-yellowstone-supervolcano-erupted-now-1285322/",
+        "trustTier": "publication",
+        "author": "Ilan Kelman",
+        "date": "Sat, 26 Sep 2026 16:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "geoscience"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:41:42.754Z",
+      "hash": "258cfc160bd0b5d0"
+    },
+    {
+      "id": "article:b8305af197a3af81",
+      "type": "article",
+      "title": "What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out.",
+      "summary": "The post What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out. appeared first on ProPublica.",
+      "body": "The post What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out. appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/43fc508d814a0ce1.jpg",
+        "alt": "What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out.",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://projects.propublica.org/sports-betting-uploader",
+        "trustTier": "publication",
+        "author": "Shoshana.gordon@propublica.org",
+        "date": "Sat, 26 Sep 2026 08:55:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "sports"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:41:41.876Z",
+      "hash": "b8305af197a3af81",
+      "expires": "2026-12-26T13:41:41.876Z"
+    },
+    {
+      "id": "article:9f4825e349b0942e",
+      "type": "article",
+      "title": "When Two Come Home Together: Twenty Years of Collaborating on Homer",
+      "summary": "This post is a continuation of Painful Signs, a series of posts on the Iliad. The full list of posts is here. New posts will be added on various books, with an emphasis on new projects and highlighting scholarship in general. πῶς ἂν ἔπειτ’ ᾿Οδυσῆος ἐγὼ θείοιο λαθοίμην…τούτου γ’ ἑσπομένοιο καὶ ἐκ…",
+      "body": "This post is a continuation of Painful Signs, a series of posts on the Iliad. The full list of posts is here. New posts will be added on various books, with an emphasis on new projects and highlighting scholarship in general. πῶς ἂν ἔπειτ’ ᾿Οδυσῆος ἐγὼ θείοιο λαθοίμην…τούτου γ’ ἑσπομένοιο καὶ ἐκ πυρὸς αἰθομένοιο / ἄμφω νοστήσαιμεν, ἐπεὶ … Continue reading When Two Come Home Together: Twenty Years of Collaborating on Homer",
+      "image": {
+        "src": "data/images/a7e7ede81d4d0023.jpg",
+        "alt": "When Two Come Home Together: Twenty Years of Collaborating on Homer",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/09/25/when-two-come-home-together-twenty-years-of-collaborating-on-homer/",
+        "trustTier": "community",
+        "author": "Joel",
+        "date": "Fri, 25 Sep 2026 19:50:2"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "collaboration",
+        "homer",
+        "iliad",
+        "painful signs",
+        "scholarshi",
+        "shcolarship"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:41:41.672Z",
+      "hash": "9f4825e349b0942e"
+    },
+    {
+      "id": "article:01f5e16d962e5629",
+      "type": "article",
+      "title": "The Federal Lands: An Economic Property Rights Perspective",
+      "summary": "The US federal government owns and administers 472,892,659 acres or 21% of the land area of the lower 48 states, the country’s largest landowner. The resource is held and managed as a collective resource, the Federal Lands, through political and bureaucratic interpretation of the Multiple Use…",
+      "body": "The US federal government owns and administers 472,892,659 acres or 21% of the land area of the lower 48 states, the country’s largest landowner. The resource is held and managed as a collective resource, the Federal Lands, through political and bureaucratic interpretation of the Multiple Use principle and generally, the biological aim of maximum sustained-yield. […] The post The Federal Lands: An Economic Property Rights Perspective appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-federal-lands-an-economic-property-rights-perspective.html?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-lands-an-economic-property-rights-perspective",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Sun, 27 Sep 2026 04:27:0"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "history",
+        "law"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:41:40.922Z",
+      "hash": "01f5e16d962e5629"
+    },
+    {
+      "id": "greek:0ae85978994e704d",
+      "type": "greek",
+      "title": "οὐρανός",
+      "summary": "οὐρανός — “heaven” · noun",
+      "body": "Note: ὁ οὐρανός; often plural οἱ οὐρανοί\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BF%E1%BD%90%CF%81%CE%B1%CE%BD%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:39.657Z",
+      "hash": "0ae85978994e704d"
+    },
+    {
+      "id": "greek:866a3ec74fb23eb0",
+      "type": "greek",
+      "title": "θεός",
+      "summary": "θεός — “God” · noun",
+      "body": "Note: ὁ θεός; can mean \"a god\" without article\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B8%CE%B5%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:39.657Z",
+      "hash": "866a3ec74fb23eb0"
+    },
+    {
+      "id": "greek:e41ea3017c23bcd8",
+      "type": "greek",
+      "title": "εἰμί",
+      "summary": "εἰμί — “I am” · verb",
+      "body": "Note: irregular; 3sg ἐστίν; learn paradigm early\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B5%E1%BC%B0%CE%BC%CE%AF#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:39.657Z",
+      "hash": "e41ea3017c23bcd8"
+    },
+    {
+      "id": "poetry:9d9c6fc6d3352ae0",
+      "type": "poem",
+      "title": "Ode on Venice",
+      "summary": "Oh Venice! Venice! when thy marble walls\n  Are level with the waters, there shall be\nA cry of nations o'er thy sunken halls,\n  A loud lament along the sweeping sea!",
+      "body": "Oh Venice! Venice! when thy marble walls\n  Are level with the waters, there shall be\nA cry of nations o'er thy sunken halls,\n  A loud lament along the sweeping sea!\nIf I, a northern wanderer, weep for thee,\nWhat should thy sons do?--anything but weep:\nAnd yet they only murmur in their sleep.\nIn contrast with their fathers--as the slime,\nThe dull green ooze of the receding deep,\nIs with the dashing of the spring-tide foam,\nThat drives the sailor shipless to his home,\nAre they to those that were; and thus they creep,\nCrouching and crab-like, through their sapping streets.\nOh! agony--that centuries should reap\nNo mellower harvest! Thirteen hundred years\nOf wealth and glory turned to dust and tears;\nAnd every monument the stranger meets,\nChurch, palace, pillar, as a mourner greets;\nAnd even the Lion all subdued appears,\nAnd the harsh sound of the barbarian drum,\nWith dull and daily dissonance, repeats\nThe echo of thy Tyrant's voice along\nThe soft waves, once all musical to song,\nThat heaved beneath the moonlight with the throng\nOf gondolas--and to the busy hum\nOf cheerful creatures, whose most sinful deeds\nWere but the overbeating of the heart,\nAnd flow of too much happiness, which needs\nThe aid of age to turn its course apart\nFrom the luxuriant and voluptuous flood\nOf sweet sensations, battling with the blood.\nBut these are better than the gloomy errors,\nThe weeds of nations in their last decay,\nWhen Vice walks forth with her unsoftened terrors,\nAnd Mirth is madness, and but smiles to slay;\nAnd Hope is nothing but a false delay,\nThe sick man's lightning half an hour ere Death,\nWhen Faintness, the last mortal birth of Pain,\nAnd apathy of limb, the dull beginning\nOf the cold staggering race which Death is winning,\nSteals vein by vein and pulse by pulse away;\nYet so relieving the o'er-tortured clay,\nTo him appears renewal of his breath,\nAnd freedom the mere numbness of his chain;\nAnd then he talks of Life, and how again\nHe feels his spirit soaring--albeit weak,\nAnd of the fresher air, which he would seek;\nAnd as he whispers knows not that he gasps,\nThat his thin finger feels not what it clasps,\nAnd so the film comes o'er him--and the dizzy\nChamber swims round and round--and shadows busy,\nAt which he vainly catches, flit and gleam,\nTill the last rattle chokes the strangled scream,\nAnd all is ice and blackness,--and the earth\nThat which it was the moment ere our birth.\n\nThere is no hope for nations!--Search the page\n  Of many thousand years--the daily scene,\nThe flow and ebb of each recurring age,\n  The everlasting _to be_ which _hath been_,\n  Hath taught us nought or little: still we lean\nOn things that rot beneath our weight, and wear\nOur strength away in wrestling with the air;\nFor't is our nature strikes us down: the beasts\nSlaughtered in hourly hecatombs for feasts\nAre of as high an order--they must go\nEven where their driver goads them, though to slaughter.\nYe men, who pour your blood for kings as water,\nWhat have they given your children in return?\nA heritage of servitude and woes,\nA blindfold bondage, where your hire is blows.\nWhat! do not yet the red-hot ploughshares burn,\nO'er which you stumble in a false ordeal,\nAnd deem this proof of loyalty the _real_;\nKissing the hand that guides you to your scars,\nAnd glorying as you tread the glowing bars?\nAll that your Sires have left you, all that Time\nBequeaths of free, and History of sublime,\nSpring from a different theme!--Ye see and read,\nAdmire and sigh, and then succumb and bleed!\nSave the few spirits who, despite of all,\nAnd worse than all, the sudden crimes engendered\nBy the down-thundering of the prison-wall,\nAnd thirst to swallow the sweet waters tendered,\nGushing from Freedom's fountains--when the crowd,\nMaddened with centuries of drought, are loud,\nAnd trample on each other to obtain\nThe cup which brings oblivion of a chain\nHeavy and sore,--in which long yoked they ploughed\nThe sand,--or if there sprung the yellow grain,\n'Twas not for them, their necks were too much bowed,\nAnd their dead palates chewed the cud of pain:--\nYes! the few spirits--who, despite of deeds\nWhich they abhor, confound not with the cause\nThose momentary starts from Nature's laws,\nWhich, like the pestilence and earthquake, smite\nBut for a term, then pass, and leave the earth\nWith all her seasons to repair the blight\nWith a few summers, and again put forth\nCities and generations--fair, when free--\nFor, Tyranny, there blooms no bud for thee!\n\nGlory and Empire! once upon these towers\n  With Freedom--godlike Triad! how you sate!\nThe league of mightiest nations, in those hours\n  When Venice was an envy, might abate,\n  But did not quench, her spirit--in her fate\nAll were enwrapped: the feasted monarchs knew\n  And loved their hostess, nor could learn to hate,\nAlthough they humbled--with the kingly few\nThe many felt, for from all days and climes\nShe was the voyager's worship;--even her crimes\nWere of the softer order, born of Love--\nShe drank no blood, nor fattened on the dead,\nBut gladdened where her harmless conquests spread;\nFor these restored the Cross, that from above\nHallowed her sheltering banners, which incessant\nFlew between earth and the unholy Crescent,\nWhich, if it waned and dwindled, Earth may thank\nThe city it has clothed in chains, which clank\nNow, creaking in the ears of those who owe\nThe name of Freedom to her glorious struggles;\nYet she but shares with them a common woe,\nAnd called the \"kingdom\" of a conquering foe,--\nBut knows what all--and, most of all, _we_ know--\nWith what set gilded terms a tyrant juggles!\n\nThe name of Commonwealth is past and gone\n  O'er the three fractions of the groaning globe;\nVenice is crushed, and Holland deigns to own\n  A sceptre, and endures the purple robe;\nIf the free Switzer yet bestrides alone\nHis chainless mountains, 't is but for a time,\nFor Tyranny of late is cunning grown,\nAnd in its own good season tramples down\nThe sparkles of our ashes. One great clime,\nWhose vigorous offspring by dividing ocean\nAre kept apart and nursed in the devotion\nOf Freedom, which their fathers fought for, and\nBequeathed--a heritage of heart and hand,\nAnd proud distinction from each other land,\nWhose sons must bow them at a Monarch's motion,\nAs if his senseless sceptre were a wand\nFull of the magic of exploded science--\nStill one great clime, in full and free defiance,\nYet rears her crest, unconquered and sublime,\nAbove the far Atlantic!--She has taught\nHer Esau-brethren that the haughty flag,\nThe floating fence of Albion's feebler crag,\nMay strike to those whose red right hands have bought\nRights cheaply earned with blood.--Still, still, for ever\nBetter, though each man's life-blood were a river,\nThat it should flow, and overflow, than creep\nThrough thousand lazy channels in our veins,\nDammed like the dull canal with locks and chains,\nAnd moving, as a sick man in his sleep,\nThree paces, and then faltering:--better be\nWhere the extinguished Spartans still are free,\nIn their proud charnel of Thermopylæ,\nThan stagnate in our marsh,--or o'er the deep\nFly, and one current to the ocean add,\nOne spirit to the souls our fathers had,\nOne freeman more, America, to thee!",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/Ode%20on%20Venice",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:41:39.656Z",
+      "hash": "9d9c6fc6d3352ae0"
+    },
+    {
+      "id": "poetry:9501044f26f17b06",
+      "type": "poem",
+      "title": "I Would I Were a Careless Child",
+      "summary": "I would I were a careless child,\n  Still dwelling in my Highland cave,\nOr roaming through the dusky wild,\n  Or bounding o'er the dark blue wave;",
+      "body": "I would I were a careless child,\n  Still dwelling in my Highland cave,\nOr roaming through the dusky wild,\n  Or bounding o'er the dark blue wave;\nThe cumbrous pomp of Saxon pride,\n  Accords not with the freeborn soul,\nWhich loves the mountain's craggy side,\n  And seeks the rocks where billows roll.\n\nFortune! take back these cultur'd lands,\n  Take back this name of splendid sound!\nI hate the touch of servile hands,\n  I hate the slaves that cringe around:\nPlace me among the rocks I love,\n  Which sound to Ocean's wildest roar;\nI ask but this--again to rove\n  Through scenes my youth hath known before.\n\nFew are my years, and yet I feel\n  The World was ne'er design'd for me:\nAh! why do dark'ning shades conceal\n  The hour when man must cease to be?\nOnce I beheld a splendid dream,\n  A visionary scene of bliss:\nTruth!--wherefore did thy hated beam\n  Awake me to a world like this?\n\nI lov'd--but those I lov'd are gone;\n  Had friends--my early friends are fled:\nHow cheerless feels the heart alone,\n  When all its former hopes are dead!\nThough gay companions, o'er the bowl\n  Dispel awhile the sense of ill;\nThough Pleasure stirs the maddening soul,\n  The heart--the heart--is lonely still.\n\nHow dull! to hear the voice of those\n  Whom Rank or Chance, whom Wealth or Power,\nHave made, though neither friends nor foes,\n  Associates of the festive hour.\nGive me again a faithful few,\n  In years and feelings still the same,\nAnd I will fly the midnight crew,\n  Where boist'rous Joy is but a name.\n\nAnd Woman, lovely Woman! thou,\n  My hope, my comforter, my all!\nHow cold must be my bosom now,\n  When e'en thy smiles begin to pall!\nWithout a sigh would I resign,\n  This busy scene of splendid Woe,\nTo make that calm contentment mine,\n  Which Virtue knows, or seems to know.\n\nFain would I fly the haunts of men -\n  I seek to shun, not hate mankind;\nMy breast requires the sullen glen,\n  Whose gloom may suit a darken'd mind.\nOh! that to me the wings were given,\n  Which bear the turtle to her nest!\nThen would I cleave the vault of Heaven,\n  To flee away, and be at rest.",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/I%20Would%20I%20Were%20a%20Careless%20Child",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-27T13:41:39.656Z",
+      "hash": "9501044f26f17b06"
+    },
+    {
+      "id": "met:339132",
+      "type": "art",
+      "title": "Allegory of Wealth, Lust and Stupidity",
+      "summary": "Joos van Winghe · late 16th century · Pen and brush and brown ink, white body color",
+      "body": "Joos van Winghe · late 16th century · Pen and brush and brown ink, white body color\nFrits and Rita Markus Fund, 2000\nDrawings and Prints",
+      "image": {
+        "src": "data/images/4dc807192fb13e21.jpg",
+        "alt": "Allegory of Wealth, Lust and Stupidity",
+        "credit": "The Met · Frits and Rita Markus Fund, 2000"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/339132",
+        "trustTier": "encyclopedic",
+        "author": "Joos van Winghe",
+        "date": "late 16th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "bird",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-27T13:41:37.753Z",
+      "hash": "9a7de0b42bfe1ab2"
+    },
+    {
+      "id": "met:309441",
+      "type": "art",
+      "title": "Raptorial Bird Bottle",
+      "summary": "Unknown artist · 4th–7th century · Ceramic, pigment",
+      "body": "Unknown artist · 4th–7th century · Ceramic, pigment\nGift of Nathan Cummings, 1967\nThe Michael C. Rockefeller Wing",
+      "image": {
+        "src": "data/images/d0130d9f1ee5ba55.jpg",
+        "alt": "Raptorial Bird Bottle",
+        "credit": "The Met · Gift of Nathan Cummings, 1967"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/309441",
+        "trustTier": "encyclopedic",
+        "date": "4th–7th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "bird",
+        "ceramics-containers"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-27T13:41:37.699Z",
+      "hash": "212c152c5e98644c"
+    },
+    {
+      "id": "met:313021",
+      "type": "art",
+      "title": "Pendant",
+      "summary": "Unknown artist · 4th–8th century · Jadeite",
+      "body": "Unknown artist · 4th–8th century · Jadeite\nThe Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979\nThe Michael C. Rockefeller Wing",
+      "image": {
+        "src": "data/images/927264f344c29a61.jpg",
+        "alt": "Pendant",
+        "credit": "The Met · The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/313021",
+        "trustTier": "encyclopedic",
+        "date": "4th–8th century"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "bird",
+        "stone-ornaments"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-27T13:41:37.559Z",
+      "hash": "37e58535ec5e197b"
+    },
+    {
+      "id": "apod:2026-03-26",
+      "type": "space",
+      "title": "Black Holes and Neutron Stars: 218 Mergers and Counting",
+      "summary": "What is the sound of two black holes merging in deep space? Sound waves don't propagate in vacuum, but gravitational waves do. In 2015 we were able to \"hear\" them for the first time and confirm one of Albert Einstein's theoretical predictions. Each square on the grid of the featured image represents one of the…",
+      "body": "What is the sound of two black holes merging in deep space? Sound waves don't propagate in vacuum, but gravitational waves do. In 2015 we were able to \"hear\" them for the first time and confirm one of Albert Einstein's theoretical predictions. Each square on the grid of the featured image represents one of the gravitational wave detections announced so far by the LIGO-VIRGO-KAGRA Collaboration. These plots show how the binary pair accelerates in their orbit around each other towards merger: the rising frequency effect is called a \"chirp\". Although there are significantly more neutron stars than black holes, most of the detections are binary black hole mergers. That happens because black holes are heavier and their signals are louder and can be seen farther away, resulting in more detections. These events are rare, and we don't expect to see one close by in our Galaxy any time soon. But they are happening continuously throughout the cosmos.",
+      "image": {
+        "src": "data/images/7d1cea12dc7cc81a.jpg",
+        "alt": "Black Holes and Neutron Stars: 218 Mergers and Counting",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap260326.html",
+        "trustTier": "encyclopedic",
+        "date": "2026-03-26"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:36.722Z",
+      "hash": "357d363fbc38ab0b"
+    },
+    {
+      "id": "apod:2006-07-11",
+      "type": "space",
+      "title": "Crescent Rhea Occults Crescent Saturn",
+      "summary": "Soft hues, partially lit orbs, a thin trace of the ring, and slight shadows highlight this understated view of the majestic surroundings of the giant planet Saturn. Looking nearly back toward the Sun, the robot Cassini spacecraft now orbiting Saturn captured crescent phases of Saturn and its moon Rhea in color a few…",
+      "body": "Soft hues, partially lit orbs, a thin trace of the ring, and slight shadows highlight this understated view of the majestic surroundings of the giant planet Saturn. Looking nearly back toward the Sun, the robot Cassini spacecraft now orbiting Saturn captured crescent phases of Saturn and its moon Rhea in color a few months ago. As striking as the above image is, it is but a single frame from a recently released 60-frame silent movie where Rhea can be seen gliding in front of its parent world. Since Cassini was nearly in the plane of Saturn's rings, the normally impressive rings are visible here only as a thin line across the image center. Cassini has now passed the official half-way mark of its mission around Saturn, but is well situated to complete another two years investigating this complex and surprising system.",
+      "image": {
+        "src": "data/images/6be101adb98c4493.jpg",
+        "alt": "Crescent Rhea Occults Crescent Saturn",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap060711.html",
+        "trustTier": "encyclopedic",
+        "date": "2006-07-11"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:36.722Z",
+      "hash": "dfb38d5506a8ecbb"
+    },
+    {
+      "id": "apod:2023-08-30",
+      "type": "space",
+      "title": "Full Moons of August",
+      "summary": "Near perigee, the closest point in its almost moonthly orbit, a Full Moon rose as the Sun set on August 1. Its brighter than average lunar disk was captured in this dramatic moonrise sequence over dense cloud banks along the eastern horizon from Ragusa, Sicily. Illuminating night skies around planet Earth it was the…",
+      "body": "Near perigee, the closest point in its almost moonthly orbit, a Full Moon rose as the Sun set on August 1. Its brighter than average lunar disk was captured in this dramatic moonrise sequence over dense cloud banks along the eastern horizon from Ragusa, Sicily. Illuminating night skies around planet Earth it was the second supermoon of 2023. Yet again near perigee, the third supermoon of 2023 will also shine on an August night. Rising as the Sun sets tonight this second Full Moon in August will be known to some as a Blue Moon, even though scattered sunlight gives the lunar disk a reddened hue. Defined as the second full moon in a calendar month, blue moons occur only once every 2 or 3 years. That's because lunar phases take 29.5 days, almost a calendar month, to go through a complete cycle. Tonight an August Blue Moon will find itself beside bright planet Saturn.",
+      "image": {
+        "src": "data/images/8523e702bf0bc90c.jpg",
+        "alt": "Full Moons of August",
+        "credit": "© Gianni Tumino"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap230830.html",
+        "trustTier": "encyclopedic",
+        "date": "2023-08-30"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:36.722Z",
+      "hash": "cbcbe93b38e0037a"
+    },
+    {
+      "id": "apod:2004-04-22",
+      "type": "space",
+      "title": "Comet C/2002 T7 (LINEAR)",
+      "summary": "Discovered by the the Lincoln Near Earth Asteroid Research (LINEAR) project in October of 2002, comet C/2002 T7 is now visiting the inner solar system, making its closest approach (see animation by L. Koehn) to the Sun tomorrow, April 23rd. Emerging from the solar glare, the comet is now just visible to the unaided…",
+      "body": "Discovered by the the Lincoln Near Earth Asteroid Research (LINEAR) project in October of 2002, comet C/2002 T7 is now visiting the inner solar system, making its closest approach (see animation by L. Koehn) to the Sun tomorrow, April 23rd. Emerging from the solar glare, the comet is now just visible to the unaided eye in the constellation Pisces, near the eastern horizon in morning twilight. In this gorgeous telescopic view recorded before dawn yesterday, the clearly active comet has developed an extensive, complex tail extending over 2 degrees in the anti-sunward direction, and a pronounced anti-tail or anomalous tail. Later next month this comet should appear brighter, making its closest approach to planet Earth on May 19th. In fact, it could share southern skies with another naked-eye comet, also anticipated to brighten in May, designated C/2001 Q4 (NEAT).",
+      "image": {
+        "src": "data/images/6fdbbc5f9f19e077.jpg",
+        "alt": "Comet C/2002 T7 (LINEAR)",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap040422.html",
+        "trustTier": "encyclopedic",
+        "date": "2004-04-22"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:36.722Z",
+      "hash": "b94838cc164b8afe"
+    },
+    {
+      "id": "apod:2019-07-02",
+      "type": "space",
+      "title": "NGC 1566: The Spanish Dancer Spiral Galaxy",
+      "summary": "If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC…",
+      "body": "If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566's shows two prominent and graceful spiral arms that are traced by bright blue star clusters and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral's unusually active center. Some of these images, stored online in the Hubble Legacy Archive, were freely downloaded, combined, and digitally processed by an industrious amateur to create the featured image. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas. Today: Total solar eclipse visible in parts of South America",
+      "image": {
+        "src": "data/images/5f64c5e98d5d417b.jpg",
+        "alt": "NGC 1566: The Spanish Dancer Spiral Galaxy",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap190702.html",
+        "trustTier": "encyclopedic",
+        "date": "2019-07-02"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:36.722Z",
+      "hash": "a81020739ab741ae"
+    },
+    {
+      "id": "onthisday:09-27:1822:717c087a7ea797cc",
+      "type": "history",
+      "title": "1822: Lettre à M. Dacier",
+      "summary": "In a letter to the Académie des Inscriptions et Belles-Lettres in Paris, Jean-François Champollion announced his initial successes in deciphering Egyptian hieroglyphs on the Rosetta Stone (pictured).",
+      "body": "In a letter to the Académie des Inscriptions et Belles-Lettres in Paris, Jean-François Champollion announced his initial successes in deciphering Egyptian hieroglyphs on the Rosetta Stone (pictured).",
+      "image": {
+        "src": "data/images/33a591e021652d34.jpg",
+        "alt": "Lettre à M. Dacier",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Lettre_%C3%A0_M._Dacier",
+        "trustTier": "encyclopedic",
+        "date": "09-27"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:36.007Z",
+      "hash": "3486bc222b6d1a8b",
+      "expires": "2026-09-30T13:41:36.007Z"
+    },
+    {
+      "id": "onthisday:09-27:1917:4b10247520755ccc",
+      "type": "history",
+      "title": "1917: Broadhurst Theatre",
+      "summary": "The Broadhurst Theatre opened in New York City with a performance of Misalliance by George Bernard Shaw.",
+      "body": "The Broadhurst Theatre opened in New York City with a performance of Misalliance by George Bernard Shaw.",
+      "image": {
+        "src": "data/images/bb93299f1682f6fc.jpg",
+        "alt": "Broadhurst Theatre",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Broadhurst_Theatre",
+        "trustTier": "encyclopedic",
+        "date": "09-27"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:36.007Z",
+      "hash": "92c84a28ab644739",
+      "expires": "2026-09-30T13:41:36.007Z"
+    },
+    {
+      "id": "onthisday:09-27:1988:75e47037d9cd8af4",
+      "type": "history",
+      "title": "1988: Aung San Suu Kyi",
+      "summary": "Led by pro-democracy activist Aung San Suu Kyi (pictured), the political party National League for Democracy was founded in Burma.",
+      "body": "Led by pro-democracy activist Aung San Suu Kyi (pictured), the political party National League for Democracy was founded in Burma.",
+      "image": {
+        "src": "data/images/447681fd6d9983e6.jpg",
+        "alt": "Aung San Suu Kyi",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi",
+        "trustTier": "encyclopedic",
+        "date": "09-27"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:36.007Z",
+      "hash": "0a097bc60e0f308f",
+      "expires": "2026-09-30T13:41:36.007Z"
+    },
+    {
+      "id": "wikipedia:3266521",
+      "type": "wiki",
+      "title": "Pencak silat",
+      "summary": "Pencak silat is a class of related Indonesian martial arts. In neighbouring countries, the term usually refers to professional competitive silat. It is a full-body fighting form incorporating strikes, grappling, and throwing, in addition to weaponry. Every part of the body is used and subject to attack. Pencak silat…",
+      "body": "Pencak silat is a class of related Indonesian martial arts. In neighbouring countries, the term usually refers to professional competitive silat. It is a full-body fighting form incorporating strikes, grappling, and throwing, in addition to weaponry. Every part of the body is used and subject to attack. Pencak silat was practiced not only for physical defense but also for psychological ends. There are hundreds of different pencak silat styles and schools which tend to focus either on strikes, joint manipulation, weaponry, or some combination thereof.",
+      "image": {
+        "src": "data/images/7b51440eed9f7186.jpg",
+        "alt": "Pencak silat",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pencak_silat",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:35.533Z",
+      "hash": "aaf949fe46dba7ed"
+    },
+    {
+      "id": "wikipedia:24759685",
+      "type": "wiki",
+      "title": "PZ Cussons",
+      "summary": "PZ Cussons plc is a major British manufacturer of personal healthcare products and consumer goods. It operates worldwide, especially in nations in Africa, and the Commonwealth. The company is listed on the London Stock Exchange.",
+      "body": "PZ Cussons plc is a major British manufacturer of personal healthcare products and consumer goods. It operates worldwide, especially in nations in Africa, and the Commonwealth. The company is listed on the London Stock Exchange.",
+      "image": {
+        "src": "data/images/f83a3ee247b92a80.png",
+        "alt": "PZ Cussons",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/PZ_Cussons",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:35.281Z",
+      "hash": "cad5dc4618e22faf"
+    },
+    {
+      "id": "wikipedia:36254669",
+      "type": "wiki",
+      "title": "Okumiyagawa-Uchidani Prefectural Natural Park",
+      "summary": "Okumiyagawa-Uchidani Prefectural Natural Park is a Prefectural Natural Park in Awa, Tokushima Prefecture, Japan. It was established in 1967.",
+      "body": "Okumiyagawa-Uchidani Prefectural Natural Park is a Prefectural Natural Park in Awa, Tokushima Prefecture, Japan. It was established in 1967.",
+      "image": {
+        "src": "data/images/839fd573f236a8dd.jpg",
+        "alt": "Okumiyagawa-Uchidani Prefectural Natural Park",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Okumiyagawa-Uchidani_Prefectural_Natural_Park",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:35.038Z",
+      "hash": "ce8cbd4e261ebc28"
+    },
+    {
+      "id": "wikipedia:1860085",
+      "type": "wiki",
+      "title": "Graveworm",
+      "summary": "Graveworm is an Italian symphonic/melodic black metal band from Brunico, South Tyrol, formed in 1992. They have released ten studio albums.",
+      "body": "Graveworm is an Italian symphonic/melodic black metal band from Brunico, South Tyrol, formed in 1992. They have released ten studio albums.",
+      "image": {
+        "src": "data/images/3aed711446a95752.jpg",
+        "alt": "Graveworm",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Graveworm",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-27T13:41:33.749Z",
+      "hash": "9c3cb294b0265ce3"
+    },
     {
       "id": "chess:E8IW7",
       "type": "chess",
@@ -11582,1031 +12576,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-09-16T13:17:06.710Z",
       "hash": "c6399de3b5d1dab8"
-    },
-    {
-      "id": "trivia:1ef8657ab3f8c7ec",
-      "type": "trivia",
-      "title": "What year was Walt Disney born?",
-      "summary": "Is it: 1903 · 1901 · 1902 · 1900?",
-      "body": "Answer: 1901.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:17:06.710Z",
-      "hash": "1ef8657ab3f8c7ec"
-    },
-    {
-      "id": "trivia:e2b79afa563625a6",
-      "type": "trivia",
-      "title": "What is the tallest mountain in Canada?",
-      "summary": "Is it: Mont Tremblant · Blue Mountain · Whistler Mountain · Mount Logan?",
-      "body": "Answer: Mount Logan.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "geography"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-16T13:17:06.710Z",
-      "hash": "e2b79afa563625a6"
-    },
-    {
-      "id": "trivia:7124e52c7e47d405",
-      "type": "trivia",
-      "title": "As of February 2019, the \"Donkey Kong Country\" series only had released five games (not counting remakes or ports).",
-      "summary": "True — or false?",
-      "body": "Answer: True.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:17:06.709Z",
-      "hash": "7124e52c7e47d405"
-    },
-    {
-      "id": "comic:smbc:5dda527ca3907153",
-      "type": "comic",
-      "title": "Gates",
-      "summary": "I wonder if the cost of chips has cut down on conspiracies.",
-      "image": {
-        "src": "data/images/4449a0783d417e7d.png",
-        "alt": "I wonder if the cost of chips has cut down on conspiracies.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/gates-3",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Tue, 15 Sep 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-16T13:17:05.717Z",
-      "hash": "5dda527ca3907153"
-    },
-    {
-      "id": "comic:xkcd:89",
-      "type": "comic",
-      "title": "Gravitational Mass",
-      "summary": "She's so fat the attraction goes up as the CUBE of the distance instead of the square",
-      "body": "Hat Guy: Gravitational mass is identical to inertial mass. That is, the amount of inertia something has and the amount of gravity it has are effectively the same. What's interesting is that there doesn't seem to be any reason this should be true. One could imagine an extremely large object with lots of resistance to force and no gravity (or vice versa), but this is never observed. Hat Guy: You know what? I'm just gonna skip the rest of the buildup and say it: Yo mama's fat. {{alt: She's so fat the attraction goes up as the CUBE of the distance instead of the square}}",
-      "image": {
-        "src": "data/images/329c2e7029d250d4.jpg",
-        "alt": "She's so fat the attraction goes up as the CUBE of the distance instead of the square",
-        "credit": "xkcd #89 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/89/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2006-04-14"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-16T13:17:05.575Z",
-      "hash": "c7f776872a7753f8"
-    },
-    {
-      "id": "craft:bd35c91fd7b939e3",
-      "type": "craft",
-      "title": "Please No Photos! A Short Film Focuses on Tourists’ Obsession with Capturing the Moment",
-      "summary": "Serenity now!",
-      "body": "Serenity now!",
-      "image": {
-        "src": "data/images/72224433c28cf8b2.jpg",
-        "alt": "Please No Photos! A Short Film Focuses on Tourists’ Obsession with Capturing the Moment",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/09/the-spectacle-short-film-new-yorker/",
-        "trustTier": "publication",
-        "author": "Grace Ebert",
-        "date": "Tue, 15 Sep 2026 23:40:5"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "film",
-        "documentary",
-        "tourism",
-        "video",
-        "yasmin van dorp"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:17:05.131Z",
-      "hash": "bd35c91fd7b939e3"
-    },
-    {
-      "id": "craft:fb04b108439560bd",
-      "type": "craft",
-      "title": "The Legacy of Colonialism Haunts Hew Locke’s Era-Defying Flotilla",
-      "summary": "How people, capital, cargo, and ideas traverse the globe has long been central to Hew Locke's work.",
-      "body": "How people, capital, cargo, and ideas traverse the globe has long been central to Hew Locke's work.",
-      "image": {
-        "src": "data/images/689fb615408564a3.jpg",
-        "alt": "The Legacy of Colonialism Haunts Hew Locke’s Era-Defying Flotilla",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/09/hew-locke-the-wanderers-ship-sculptures/",
-        "trustTier": "publication",
-        "author": "Grace Ebert",
-        "date": "Tue, 15 Sep 2026 19:54:1"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "boats",
-        "busts",
-        "colonialism",
-        "hew locke",
-        "sculpture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:17:05.131Z",
-      "hash": "fb04b108439560bd"
-    },
-    {
-      "id": "word:8813890b2475eb1c",
-      "type": "word",
-      "title": "ineffable",
-      "summary": "Adjective: Beyond expression in words; unspeakable. .mw-parser-output .defdate{font-size:smaller}",
-      "body": "1. Beyond expression in words; unspeakable. .mw-parser-output .defdate{font-size:smaller}\n2. Forbidden to be uttered; taboo.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/ineffable",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Adjective"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:17:03.671Z",
-      "hash": "8813890b2475eb1c"
-    },
-    {
-      "id": "quote:74d0b024dd144ba5",
-      "type": "quote",
-      "title": "“A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.”",
-      "summary": "— George Bernard Shaw",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/George_Bernard_Shaw",
-        "trustTier": "community",
-        "author": "George Bernard Shaw"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:17:03.378Z",
-      "hash": "74d0b024dd144ba5"
-    },
-    {
-      "id": "quote:0b9caaa0191a92b2",
-      "type": "quote",
-      "title": "“Nothing that results in human progress is achieved with unanimous consent.”",
-      "summary": "— Christopher Columbus",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Christopher_Columbus",
-        "trustTier": "community",
-        "author": "Christopher Columbus"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:17:03.378Z",
-      "hash": "0b9caaa0191a92b2"
-    },
-    {
-      "id": "quote:88f6028737ce4ea4",
-      "type": "quote",
-      "title": "“Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.”",
-      "summary": "— Morihei Ueshiba",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Morihei_Ueshiba",
-        "trustTier": "community",
-        "author": "Morihei Ueshiba"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:17:03.378Z",
-      "hash": "88f6028737ce4ea4"
-    },
-    {
-      "id": "book-review:987c77444ce54a60",
-      "type": "book-review",
-      "title": "Remember Them: Palestine Scholars Murdered in the Gaza Genocide",
-      "summary": "“In Palestine, some 87,000 students have suffered a near total disruption of their studies for the duration of the genocide, and more than 1200 have been killed. Upwards of 200 academic staff have perished, many in targeted attacks.” The post Remember Them: Palestine Scholars Murdered in the Gaza…",
-      "body": "“In Palestine, some 87,000 students have suffered a near total disruption of their studies for the duration of the genocide, and more than 1200 have been killed. Upwards of 200 academic staff have perished, many in targeted attacks.” The post Remember Them: Palestine Scholars Murdered in the Gaza Genocide appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/remember-them-palestine-scholars-murdered-in-the-gaza-genocide/",
-        "trustTier": "publication",
-        "author": "Morgan Barry",
-        "date": "Tue, 15 Sep 2026 15:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "essays",
-        "academia",
-        "academic freedom",
-        "genocide",
-        "higher education",
-        "human rights",
-        "in memoriam"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:17:03.332Z",
-      "hash": "987c77444ce54a60"
-    },
-    {
-      "id": "article:671653bc72ca523b",
-      "type": "article",
-      "title": "Tracing Shadows",
-      "summary": "What Toni Morrison made of Moby Dick and Huckleberry Finn.",
-      "body": "What Toni Morrison made of Moby Dick and Huckleberry Finn.",
-      "source": {
-        "name": "Lapham's Quarterly",
-        "url": "https://www.laphamsquarterly.org/roundtable/tracing-shadows",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "literature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:16:57.990Z",
-      "hash": "671653bc72ca523b"
-    },
-    {
-      "id": "article:33573d3890c200f3",
-      "type": "article",
-      "title": "Arizona Made Its English Fluency Test Easier to Pass. Experts Say It Will Harm Students’ Ability to Succeed.",
-      "summary": "The post Arizona Made Its English Fluency Test Easier to Pass. Experts Say It Will Harm Students’ Ability to Succeed. appeared first on ProPublica.",
-      "body": "The post Arizona Made Its English Fluency Test Easier to Pass. Experts Say It Will Harm Students’ Ability to Succeed. appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/5d2c31ecaace8a9e.jpg",
-        "alt": "Arizona Made Its English Fluency Test Easier to Pass. Experts Say It Will Harm Students’ Ability to Succeed.",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/article/arizona-english-language-test-azella",
-        "trustTier": "publication",
-        "author": "Rafael Carranza",
-        "date": "Wed, 16 Sep 2026 09:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "education"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:16:56.028Z",
-      "hash": "33573d3890c200f3",
-      "expires": "2026-12-15T13:16:56.028Z"
-    },
-    {
-      "id": "article:7885887df22bd2be",
-      "type": "article",
-      "title": "Cafe Tito in Sarajevo, Bosnia and Herzegovina",
-      "summary": "Josef Broz Tito occupied a unique place in the cultural memory of the countries that previously comprised Yugoslavia. To some, he was a human rights-violating authoritarian. To others, he was a “benevolent dictator” who kept simmering ethnic tensions from boiling over, as they did after the…",
-      "body": "Josef Broz Tito occupied a unique place in the cultural memory of the countries that previously comprised Yugoslavia. To some, he was a human rights-violating authoritarian. To others, he was a “benevolent dictator” who kept simmering ethnic tensions from boiling over, as they did after the breakup of Yugoslavia and subsequent Bosnian war. What better legacy to pair with the treasured Bosnian past times of sipping coffee and beer than his? At Cafe Tito, the mythical man watches over patrons from the photos, posters, news articles, magazines, and memorabilia featuring his likeness. The…",
-      "image": {
-        "src": "data/images/9cac14a40ea22f55.jpg",
-        "alt": "Cafe Tito in Sarajevo, Bosnia and Herzegovina",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/cafe-tito",
-        "trustTier": "publication",
-        "date": "Tue, 15 Sep 2026 16:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "cafe",
-        "communism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:16:55.703Z",
-      "hash": "7885887df22bd2be"
-    },
-    {
-      "id": "article:21f83f5376ce2f55",
-      "type": "article",
-      "title": "Very good news",
-      "summary": "Michael Kremer picked as World Bank chief economist (Bloomberg). Here are many many previous MR posts on Kremer, of course Alex also worked with him on Operation Warp Speed. The post Very good news appeared first on Marginal REVOLUTION.",
-      "body": "Michael Kremer picked as World Bank chief economist (Bloomberg). Here are many many previous MR posts on Kremer, of course Alex also worked with him on Operation Warp Speed. The post Very good news appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/09/very-good-news.html?utm_source=rss&utm_medium=rss&utm_campaign=very-good-news",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Wed, 16 Sep 2026 13:12:0"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "current affairs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:16:54.896Z",
-      "hash": "21f83f5376ce2f55"
-    },
-    {
-      "id": "article:236bb5f4a5912555",
-      "type": "article",
-      "title": "What Regulatory Capture Actually Looks Like",
-      "summary": "It’s amazing how a theory can take over a brain. Consider the idea that people believe what serves their interests. As heuristics go, it’s a good one. I use it all the time. Yet when Dario Amodei says AI is dangerous, perhaps even an extinction risk, some people conclude he must be running a…",
-      "body": "It’s amazing how a theory can take over a brain. Consider the idea that people believe what serves their interests. As heuristics go, it’s a good one. I use it all the time. Yet when Dario Amodei says AI is dangerous, perhaps even an extinction risk, some people conclude he must be running a marketing […] The post What Regulatory Capture Actually Looks Like appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html?utm_source=rss&utm_medium=rss&utm_campaign=what-regulatory-capture-actually-looks-like",
-        "trustTier": "community",
-        "author": "Alex Tabarrok",
-        "date": "Wed, 16 Sep 2026 11:16:5"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "current affairs",
-        "law",
-        "web/tech"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:16:54.896Z",
-      "hash": "236bb5f4a5912555"
-    },
-    {
-      "id": "article:d6031cb4afc67ee4",
-      "type": "article",
-      "title": "Chasing la dolce vita",
-      "summary": "Homecomings, fantasies, food and ghosts – how the myth of eternal return keeps the Italian diaspora in a state of longing- by Ben FacciniRead on Aeon",
-      "body": "Homecomings, fantasies, food and ghosts – how the myth of eternal return keeps the Italian diaspora in a state of longing- by Ben FacciniRead on Aeon",
-      "image": {
-        "src": "data/images/fa6c8961cd7e1dc5.jpg",
-        "alt": "Chasing la dolce vita",
-        "credit": "Aeon"
-      },
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
-        "trustTier": "publication",
-        "author": "Ben Faccini",
-        "date": "Tue, 15 Sep 2026 10:00:0"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "philosophy"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:16:53.865Z",
-      "hash": "d6031cb4afc67ee4"
-    },
-    {
-      "id": "greek:a3fb4baa29941699",
-      "type": "greek",
-      "title": "ἀγαθός",
-      "summary": "ἀγαθός, -ή, -όν — “good” · adjective",
-      "body": "Note: declines like 2-1-2 (masc 2nd / fem 1st / neut 2nd)\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%B1%CE%B8%CF%8C%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "adjective"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:53.779Z",
-      "hash": "a3fb4baa29941699"
-    },
-    {
-      "id": "poetry:b1c0c73562833aee",
-      "type": "poem",
-      "title": "Translation From Anacreon. Ode 3",
-      "summary": "'Twas now the hour when Night had driven\nHer car half round yon sable heaven;\nBoötes, only, seem'd to roll\nHis Arctic charge around the Pole;",
-      "body": "'Twas now the hour when Night had driven\nHer car half round yon sable heaven;\nBoötes, only, seem'd to roll\nHis Arctic charge around the Pole;\nWhile mortals, lost in gentle sleep,\nForgot to smile, or ceas'd to weep:\nAt this lone hour the Paphian boy,\nDescending from the realms of joy,\nQuick to my gate directs his course,\nAnd knocks with all his little force;\nMy visions fled, alarm'd I rose,--\n\"What stranger breaks my blest repose?\"\n\"Alas!\" replies the wily child\nIn faltering accents sweetly mild;\n\"A hapless Infant here I roam,\nFar from my dear maternal home.\nOh! shield me from the wintry blast!\nThe nightly storm is pouring fast.\nNo prowling robber lingers here;\nA wandering baby who can fear?\"\nI heard his seeming artless tale,\nI heard his sighs upon the gale:\nMy breast was never pity's foe,\nBut felt for all the baby's woe.\nI drew the bar, and by the light\nYoung Love, the infant, met my sight;\nHis bow across his shoulders flung,\nAnd thence his fatal quiver hung\n(Ah! little did I think the dart\nWould rankle soon within my heart).\nWith care I tend my weary guest,\nHis little fingers chill my breast;\nHis glossy curls, his azure wing,\nWhich droop with nightly showers, I wring;\nHis shivering limbs the embers warm;\nAnd now reviving from the storm,\nScarce had he felt his wonted glow,\nThan swift he seized his slender bow:--\n\"I fain would know, my gentle host,\"\nHe cried, \"if this its strength has lost;\nI fear, relax'd with midnight dews,\nThe strings their former aid refuse.\"\nWith poison tipt, his arrow flies,\nDeep in my tortur'd heart it lies:\nThen loud the joyous Urchin laugh'd:--\n\"My bow can still impel the shaft:\n'Tis firmly fix'd, thy sighs reveal it;\nSay, courteous host, canst thou not feel it?\"",
-      "source": {
-        "name": "George Gordon, Lord Byron · PoetryDB",
-        "url": "https://poetrydb.org/title/Translation%20From%20Anacreon.%20Ode%203",
-        "trustTier": "community",
-        "author": "George Gordon, Lord Byron"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:16:53.777Z",
-      "hash": "b1c0c73562833aee"
-    },
-    {
-      "id": "poetry:89e7954715c52c9c",
-      "type": "poem",
-      "title": "Fragment: Sufficient Unto the Day",
-      "summary": "Is not to-day enough? Why do I peer\nInto the darkness of the day to come?\nIs not to-morrow even as yesterday?\nAnd will the day that follows change thy doom?",
-      "body": "Is not to-day enough? Why do I peer\nInto the darkness of the day to come?\nIs not to-morrow even as yesterday?\nAnd will the day that follows change thy doom?\nFew flowers grow upon thy wintry way;\nAnd who waits for thee in that cheerless home\nWhence thou hast fled, whither thou must return\nCharged with the load that makes thee faint and mourn?",
-      "source": {
-        "name": "Percy Bysshe Shelley · PoetryDB",
-        "url": "https://poetrydb.org/title/Fragment%3A%20Sufficient%20Unto%20the%20Day",
-        "trustTier": "community",
-        "author": "Percy Bysshe Shelley"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-16T13:16:53.777Z",
-      "hash": "89e7954715c52c9c"
-    },
-    {
-      "id": "art:si:ld1-1643398738600-1643398750754-0",
-      "type": "art",
-      "title": "Gas mask with filter canister worn at demonstrations in Ferguson, Missouri",
-      "summary": "National Museum of African American History and Culture · 2010s · gas masks",
-      "body": "National Museum of African American History and Culture\n2010s · gas masks",
-      "image": {
-        "src": "data/images/0f0b061a86131529.jpg",
-        "alt": "Gas mask with filter canister worn at demonstrations in Ferguson, Missouri",
-        "credit": "National Museum of African American History and Culture · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://nmaahc.si.edu/object/nmaahc_2016.122ab",
-        "trustTier": "encyclopedic",
-        "date": "2010s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "mask",
-        "gas masks"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-16T13:16:53.405Z",
-      "hash": "5ce2296a72260406"
-    },
-    {
-      "id": "met:385364",
-      "type": "art",
-      "title": "Ruines de Cumes",
-      "summary": "Quentin Pierre Chedel · 18th century · Etching",
-      "body": "Quentin Pierre Chedel · 18th century · Etching\nHarris Brisbane Dick Fund, 1953\nDrawings and Prints",
-      "image": {
-        "src": "data/images/959b2aeabecbe752.jpg",
-        "alt": "Ruines de Cumes",
-        "credit": "The Met · Harris Brisbane Dick Fund, 1953"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/385364",
-        "trustTier": "encyclopedic",
-        "author": "Quentin Pierre Chedel",
-        "date": "18th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "cat",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-16T13:16:51.995Z",
-      "hash": "7fcc4ff208ca9076"
-    },
-    {
-      "id": "met:52562",
-      "type": "art",
-      "title": "Flask with mythical birds",
-      "summary": "Unknown artist · 6th century · Stoneware with molded decoration under olive-yellow glaze",
-      "body": "Unknown artist · 6th century · Stoneware with molded decoration under olive-yellow glaze\nRogers Fund, 1916\nAsian Art",
-      "image": {
-        "src": "data/images/6a7d8ce65dbf33fc.jpg",
-        "alt": "Flask with mythical birds",
-        "credit": "The Met · Rogers Fund, 1916"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/52562",
-        "trustTier": "encyclopedic",
-        "date": "6th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "cat",
-        "ceramics"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-16T13:16:51.791Z",
-      "hash": "0c9fa03ed70d49ba"
-    },
-    {
-      "id": "met:681432",
-      "type": "art",
-      "title": "Titel page from Eyn Newe kunstlich moetdelboech alle kunst (Page 1r)",
-      "summary": "Peter Quentel · 1532 · Woodcut",
-      "body": "Peter Quentel · 1532 · Woodcut\nHarris Brisbane Dick Fund, 1924\nDrawings and Prints",
-      "image": {
-        "src": "data/images/7030f1558789225b.jpg",
-        "alt": "Titel page from Eyn Newe kunstlich moetdelboech alle kunst (Page 1r)",
-        "credit": "The Met · Harris Brisbane Dick Fund, 1924"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/681432",
-        "trustTier": "encyclopedic",
-        "author": "Peter Quentel",
-        "date": "1532"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "cat",
-        "books"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-16T13:16:51.472Z",
-      "hash": "203ac60ff62b3e00"
-    },
-    {
-      "id": "apod:2017-10-07",
-      "type": "space",
-      "title": "Eclipsosaurus Rex",
-      "summary": "We live in an era where total solar eclipses are possible because at times the apparent size of the Moon can just cover the disk of the Sun. But the Moon is slowly moving away from planet Earth. Its distance is measured to increase about 1.5 inches (3.8 centimeters) per year due to tidal friction. So there will come…",
-      "body": "We live in an era where total solar eclipses are possible because at times the apparent size of the Moon can just cover the disk of the Sun. But the Moon is slowly moving away from planet Earth. Its distance is measured to increase about 1.5 inches (3.8 centimeters) per year due to tidal friction. So there will come a time, about 600 million years from now, when the Moon is far enough away that the lunar disk will be too small to ever completely cover the Sun. Then, at best only annular eclipses, a ring of fire surrounding the silhouetted disk of the too small Moon, will be seen from the surface of our fair planet. Of course the Moon was slightly closer and loomed a little larger 100 million years ago. So during the age of the dinosaurs there were more frequent total eclipses of the Sun. In front of the Tate Geological Museum at Casper College in Wyoming, this dinosaur statue posed with a modern total eclipse, though. An automated camera was placed under him to shoot his portrait during the Great American Eclipse of August 21.",
-      "image": {
-        "src": "data/images/b586616904041e14.jpg",
-        "alt": "Eclipsosaurus Rex",
-        "credit": "© MrEclipse.com"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap171007.html",
-        "trustTier": "encyclopedic",
-        "date": "2017-10-07"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:49.608Z",
-      "hash": "11da41b4fea9f08a"
-    },
-    {
-      "id": "apod:2007-04-09",
-      "type": "space",
-      "title": "Aurora Over Alaska",
-      "summary": "Higher than the highest mountain, higher than the highest airplane, lies the realm of the aurora. Aurora rarely reach below 60 kilometers, and can range up to 1000 kilometers. Aurora light results from solar shockwave causing energetic electrons and protons to striking molecules in the Earth's atmosphere. Frequently,…",
-      "body": "Higher than the highest mountain, higher than the highest airplane, lies the realm of the aurora. Aurora rarely reach below 60 kilometers, and can range up to 1000 kilometers. Aurora light results from solar shockwave causing energetic electrons and protons to striking molecules in the Earth's atmosphere. Frequently, when viewed from space, a complete aurora will appear as a circle around one of the Earth's magnetic poles. The above digitally enhanced photograph was taken in 2005 January shows a spectacular aurora borealis above the frozen landscape of Bear Lake, Alaska, USA. The above image was voted Wikipedia Commons Picture of the Year for 2006.",
-      "image": {
-        "src": "data/images/c446ce8dc683e9de.jpg",
-        "alt": "Aurora Over Alaska",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap070409.html",
-        "trustTier": "encyclopedic",
-        "date": "2007-04-09"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:49.608Z",
-      "hash": "5149ce7169f1b5a5"
-    },
-    {
-      "id": "apod:1999-06-11",
-      "type": "space",
-      "title": "AB Aurigae: How To Make Planets",
-      "summary": "This enhanced Hubble Space Telescope image shows in remarkable detail the inner portion of the disk of dust and gas surrounding the star AB Aurigae. Knots of material, visible here for the first time, may well represent an early stage of a process which could result in the formation of planets over the next few…",
-      "body": "This enhanced Hubble Space Telescope image shows in remarkable detail the inner portion of the disk of dust and gas surrounding the star AB Aurigae. Knots of material, visible here for the first time, may well represent an early stage of a process which could result in the formation of planets over the next few million years. AB Aurigae is a young star (2-4 million years old), about 469 light-years distant. Its swirling circumstellar disk is large, about 30 times the size of our solar system. Astronomers believe planet-making is just beginning in AB Aurigae's disk because known disks surrounding younger stars (less than 1 million years old) do not show such clumpy structure, while disks of slightly older stars (aged 8-10 million years) have gaps and features suggesting that planets have already been formed. Why the window pane appearance? Wide black stripes in the picture are caused by occulting bars used to block out the overwhelming starlight and the diagonal streaks are due to diffraction spikes.",
-      "image": {
-        "src": "data/images/b4786946fbf82fd0.jpg",
-        "alt": "AB Aurigae: How To Make Planets",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap990611.html",
-        "trustTier": "encyclopedic",
-        "date": "1999-06-11"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:49.608Z",
-      "hash": "e9352176366ebacb"
-    },
-    {
-      "id": "apod:2026-06-27",
-      "type": "space",
-      "title": "Mars Marathon by Perseverance",
-      "summary": "In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance of 26.218 miles…",
-      "body": "In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance of 26.218 miles (42.195 kilometers) since it began exploring the surface of Mars. That equivalent marathon distance was achieved by Perseverance on its mission sol (Martian day) 1,890, after about 5 Earth years and 4 Earth months of driving. Perseverance is continuing to hunt for biosignatures. In the HiRISE image, the Mars rover's tracks can be seen leading to its location in an area west of its landing site in Jezero crater near an ancient river delta.",
-      "image": {
-        "src": "data/images/87e0482fc3d2d18e.jpg",
-        "alt": "Mars Marathon by Perseverance",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap260627.html",
-        "trustTier": "encyclopedic",
-        "date": "2026-06-27"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:49.608Z",
-      "hash": "d6c08abb68da32c0"
-    },
-    {
-      "id": "apod:2004-03-14",
-      "type": "space",
-      "title": "Comet Hale-Bopp Over Val Parola Pass",
-      "summary": "Comet Hale-Bopp became much brighter than any surrounding stars. It was seen even over bright city lights. Out away from city lights, however, it put on quite a spectacular show. Here Comet Hale-Bopp was photographed above Val Parola Pass in the Dolomite mountains surrounding Cortina d'Ampezzo, Italy. Comet…",
-      "body": "Comet Hale-Bopp became much brighter than any surrounding stars. It was seen even over bright city lights. Out away from city lights, however, it put on quite a spectacular show. Here Comet Hale-Bopp was photographed above Val Parola Pass in the Dolomite mountains surrounding Cortina d'Ampezzo, Italy. Comet Hale-Bopp's blue ion tail was created when fast moving particles from the solar wind struck expelled ions from the comet's nucleus. The white dust tail is composed of larger particles of dust and ice expelled by the nucleus that orbit behind the comet. Observations showed that Comet Hale-Bopp's nucleus spins about once every 12 hours.",
-      "image": {
-        "src": "data/images/f855ef9ff17039a9.jpg",
-        "alt": "Comet Hale-Bopp Over Val Parola Pass",
-        "credit": "© A. Dimai, (Col Druscie Obs.), AAC"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap040314.html",
-        "trustTier": "encyclopedic",
-        "date": "2004-03-14"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:49.608Z",
-      "hash": "a3884e095974f90d"
-    },
-    {
-      "id": "onthisday:09-16:1961:67a8f6c5186d286b",
-      "type": "history",
-      "title": "1961: Typhoon Nancy (1961)",
-      "summary": "Typhoon Nancy (pictured), which possibly had the strongest winds ever measured in a tropical cyclone, made landfall in Muroto, Japan.",
-      "body": "Typhoon Nancy (pictured), which possibly had the strongest winds ever measured in a tropical cyclone, made landfall in Muroto, Japan.",
-      "image": {
-        "src": "data/images/d6d7e62b10d461c6.jpg",
-        "alt": "Typhoon Nancy (1961)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Typhoon_Nancy_(1961)",
-        "trustTier": "encyclopedic",
-        "date": "09-16"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:48.802Z",
-      "hash": "97554ee144acd4ef",
-      "expires": "2026-09-19T13:16:48.802Z"
-    },
-    {
-      "id": "onthisday:09-16:1844:41d88c0aabf218bc",
-      "type": "history",
-      "title": "1844: Felix Mendelssohn",
-      "summary": "Felix Mendelssohn completed the score of his Violin Concerto, his final concerto.",
-      "body": "Felix Mendelssohn completed the score of his Violin Concerto, his final concerto.",
-      "image": {
-        "src": "data/images/c2aaf52aec7e8a99.jpg",
-        "alt": "Felix Mendelssohn",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
-        "trustTier": "encyclopedic",
-        "date": "09-16"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:48.802Z",
-      "hash": "06bc4a748af7c363",
-      "expires": "2026-09-19T13:16:48.802Z"
-    },
-    {
-      "id": "onthisday:09-16:1992:d86853c50bc70e74",
-      "type": "history",
-      "title": "1992: Pound sterling",
-      "summary": "The British pound (coin pictured) was forced out of the European Exchange Rate Mechanism on Black Wednesday and suffered a major devaluation.",
-      "body": "The British pound (coin pictured) was forced out of the European Exchange Rate Mechanism on Black Wednesday and suffered a major devaluation.",
-      "image": {
-        "src": "data/images/963be90d2a724182.png",
-        "alt": "Pound sterling",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Pound_sterling",
-        "trustTier": "encyclopedic",
-        "date": "09-16"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:48.802Z",
-      "hash": "cc4c5e9bf181a979",
-      "expires": "2026-09-19T13:16:48.802Z"
-    },
-    {
-      "id": "wikipedia:2269078",
-      "type": "wiki",
-      "title": "Baffin Bay (Texas)",
-      "summary": "Baffin Bay is a bay in South Texas, an inlet of the larger Laguna Madre. Located near the Gulf of Mexico, Baffin Bay forms part of the boundary between Kenedy County and Kleberg County.",
-      "body": "Baffin Bay is a bay in South Texas, an inlet of the larger Laguna Madre. Located near the Gulf of Mexico, Baffin Bay forms part of the boundary between Kenedy County and Kleberg County.",
-      "image": {
-        "src": "data/images/56740abe5bf9e3f6.png",
-        "alt": "Baffin Bay (Texas)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Baffin_Bay_(Texas)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:48.792Z",
-      "hash": "d07499f55f8f6bfc"
-    },
-    {
-      "id": "wikipedia:5748336",
-      "type": "wiki",
-      "title": "Battle of Ban Me Thuot",
-      "summary": "The Battle of Ban Me Thuot was a decisive battle of the Vietnam War which led to the complete destruction of South Vietnam's II Corps Tactical Zone. The battle was part of a larger North Vietnamese military operation known as Campaign 275 to capture the Tay Nguyen region, known in the West as the Vietnamese Central…",
-      "body": "The Battle of Ban Me Thuot was a decisive battle of the Vietnam War which led to the complete destruction of South Vietnam's II Corps Tactical Zone. The battle was part of a larger North Vietnamese military operation known as Campaign 275 to capture the Tay Nguyen region, known in the West as the Vietnamese Central Highlands.",
-      "image": {
-        "src": "data/images/cd39028829a73a12.jpg",
-        "alt": "Battle of Ban Me Thuot",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Battle_of_Ban_Me_Thuot",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:48.606Z",
-      "hash": "8d579cc2d2d8c724"
-    },
-    {
-      "id": "wikipedia:449142",
-      "type": "wiki",
-      "title": "Huddersfield Giants",
-      "summary": "The Huddersfield Giants are an English professional rugby league club from Huddersfield, West Yorkshire, England. Huddersfield play their home games at the FLAIR Stadium in Dewsbury and currently compete in the Super League, the top tier of British rugby league.",
-      "body": "The Huddersfield Giants are an English professional rugby league club from Huddersfield, West Yorkshire, England. Huddersfield play their home games at the FLAIR Stadium in Dewsbury and currently compete in the Super League, the top tier of British rugby league.",
-      "image": {
-        "src": "data/images/9a3eca751d423cc4.png",
-        "alt": "Huddersfield Giants",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Huddersfield_Giants",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:48.492Z",
-      "hash": "cf35888563ba9acb"
-    },
-    {
-      "id": "wikipedia:69752983",
-      "type": "wiki",
-      "title": "IMOCA 60 Paprec 5",
-      "summary": "The IMOCA 60 class yacht Arkéa Paprec, FRA 4 was designed by Juan Kouyoumdjian and launched on 19 July 2019 after being built CDK Technologies in Port La Forêtin, France",
-      "body": "The IMOCA 60 class yacht Arkéa Paprec, FRA 4 was designed by Juan Kouyoumdjian and launched on 19 July 2019 after being built CDK Technologies in Port La Forêtin, France",
-      "image": {
-        "src": "data/images/72ae9f0ef688634a.jpg",
-        "alt": "IMOCA 60 Paprec 5",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/IMOCA_60_Paprec_5",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-16T13:16:48.389Z",
-      "hash": "20b5df40f83d980c"
-    },
-    {
-      "id": "chess:zIAIv",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 2089. Find the best line for black.",
-      "body": "Solution, from → to: h7→h5, g4→h3, g5→g4, f3→g4, h5→g4, h3→g4, d7→e5, g4→f4, h8→h4, g2→g4, h4→g4. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "r1b1k2r/3n3p/4pp2/3p2p1/6K1/5P2/P2NPbPP/2RQ1BNR b kq - 1 1",
-        "lastMove": "f4g4"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/zIAIv",
-        "trustTier": "community",
-        "date": "Tue, 15 Sep 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "verylong",
-        "hookmate",
-        "matein5",
-        "middlegame"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-15T13:19:37.450Z",
-      "hash": "7f6284e480dea4d5"
-    },
-    {
-      "id": "game:b80dc5199c0e0396",
-      "type": "game",
-      "title": "Valve's Steam Frame pricing starts at $1,059",
-      "summary": "Valve is also rolling out a developer kit for VR developers targeting its new headset.",
-      "body": "Valve is also rolling out a developer kit for VR developers targeting its new headset.",
-      "image": {
-        "src": "data/images/8655c6ce19cc17b0.jpg",
-        "alt": "Valve's Steam Frame pricing starts at $1,059",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059",
-        "trustTier": "publication",
-        "author": "Bryant Francis",
-        "date": "Mon, 14 Sep 2026 18:04:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-15T13:19:36.992Z",
-      "hash": "b80dc5199c0e0396",
-      "expires": "2026-12-14T13:19:36.992Z"
     },
     {
       "id": "curated:handwriting-beats-typing",

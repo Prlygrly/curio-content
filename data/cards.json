@@ -1,7 +1,972 @@
 {
-  "generatedAt": "2026-09-29T14:43:54.482Z",
+  "generatedAt": "2026-09-30T14:47:34.136Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:toZHG",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 2020. Find the best line for white.",
+      "body": "Solution, from → to: e1→e5, e8→e5, f4→e5, d8→d5, h4→f6, d5→e5, f6→e5. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "r2qr1k1/pp3pp1/5n1p/2pNbP2/3p1Q1B/8/PPP3PP/R3R1K1 w - - 0 1",
+        "lastMove": "d6e5"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/toZHG",
+        "trustTier": "community",
+        "date": "Wed, 30 Sep 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "middlegame",
+        "advantage",
+        "verylong"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-09-30T14:47:30.449Z",
+      "hash": "e17c1832f319ff1d"
+    },
+    {
+      "id": "game:4294c3660fd0e7fb",
+      "type": "game",
+      "title": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
+      "summary": "'If you’re a developer, studio, or creator working on something interesting in horror, give me a shout!'",
+      "body": "'If you’re a developer, studio, or creator working on something interesting in horror, give me a shout!'",
+      "image": {
+        "src": "data/images/4ffe1477f4b5c947.jpg",
+        "alt": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
+        "trustTier": "publication",
+        "author": "Nicole Carpenter",
+        "date": "Tue, 29 Sep 2026 20:00:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:30.167Z",
+      "hash": "4294c3660fd0e7fb",
+      "expires": "2026-12-29T14:47:30.167Z"
+    },
+    {
+      "id": "game:2f6f428bd8dfd0cd",
+      "type": "game",
+      "title": "Naughty Dog is working on new The Last Of Us 'projects'",
+      "summary": "Naughty Dog is signaling what comes next for the studio after it finishes Intergalactic.",
+      "body": "Naughty Dog is signaling what comes next for the studio after it finishes Intergalactic.",
+      "image": {
+        "src": "data/images/376fb36b3f646479.jpg",
+        "alt": "Naughty Dog is working on new The Last Of Us 'projects'",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+        "trustTier": "publication",
+        "author": "Nicole Carpenter",
+        "date": "Tue, 29 Sep 2026 17:52:4"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:30.167Z",
+      "hash": "2f6f428bd8dfd0cd",
+      "expires": "2026-12-29T14:47:30.167Z"
+    },
+    {
+      "id": "game:0fdc5b829ff2036f",
+      "type": "game",
+      "title": "Steam's discounts and events tab will soon be fully algorithm-driven",
+      "summary": "Steam announced a new set of changes for its discounts and events tab that will impact which games players see.",
+      "body": "Steam announced a new set of changes for its discounts and events tab that will impact which games players see.",
+      "image": {
+        "src": "data/images/b5a395e2f2a2facf.png",
+        "alt": "Steam's discounts and events tab will soon be fully algorithm-driven",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+        "trustTier": "publication",
+        "author": "Nicole Carpenter",
+        "date": "Tue, 29 Sep 2026 21:30:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:30.167Z",
+      "hash": "0fdc5b829ff2036f",
+      "expires": "2026-12-29T14:47:30.167Z"
+    },
+    {
+      "id": "trivia:462181a2f726ac24",
+      "type": "trivia",
+      "title": "Which of these actors have NOT played Spiderman in the movies?",
+      "summary": "Is it: Michael Cera · Andrew Garfield · Tom Holland · Tobey Maguire?",
+      "body": "Answer: Michael Cera.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "film"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:47:27.848Z",
+      "hash": "462181a2f726ac24"
+    },
+    {
+      "id": "trivia:221ee5d3351f3b04",
+      "type": "trivia",
+      "title": "In the show Stranger Things, what is Eleven's favorite breakfast food?",
+      "summary": "Is it: Eggo Waffles · Toast · Bacon and Eggs · Captain Crunch?",
+      "body": "Answer: Eggo Waffles.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "television"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:47:27.848Z",
+      "hash": "221ee5d3351f3b04"
+    },
+    {
+      "id": "trivia:05774a8f91a1ad59",
+      "type": "trivia",
+      "title": "Who released the song \"Photograph\" in 2005?",
+      "summary": "Is it: Fall Out Boy · Coldplay · Nickelback · Green Day?",
+      "body": "Answer: Nickelback.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:47:27.848Z",
+      "hash": "05774a8f91a1ad59"
+    },
+    {
+      "id": "trivia:a4225a9f63b78fe8",
+      "type": "trivia",
+      "title": "Which of these is NOT a name of an album released by American rapper Pitbull?",
+      "summary": "Is it: Welcome to Miami · Dale · Global Warming · Armando?",
+      "body": "Answer: Welcome to Miami.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:27.848Z",
+      "hash": "a4225a9f63b78fe8"
+    },
+    {
+      "id": "comic:smbc:85d5b4de1da1b3c0",
+      "type": "comic",
+      "title": "Free",
+      "summary": "It's just a more full service lending program.",
+      "image": {
+        "src": "data/images/6fb5e0a7d9c572ca.png",
+        "alt": "It's just a more full service lending program.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/free-5",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Tue, 29 Sep 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-30T14:47:26.909Z",
+      "hash": "85d5b4de1da1b3c0"
+    },
+    {
+      "id": "comic:xkcd:2250",
+      "type": "comic",
+      "title": "OK/okay/ok",
+      "summary": "After changing it back and forth several times and consulting with internet linguist Gretchen McCulloch, I settled on \"ok\" in my book How To, but I'm still on the fence. Maybe I should just switch to \"oK.\"",
+      "image": {
+        "src": "data/images/3893c64a961f4e53.png",
+        "alt": "After changing it back and forth several times and consulting with internet linguist Gretchen McCulloch, I settled on \"ok\" in my book How To, but I'm still on the fence. Maybe I should just switch to \"oK.\"",
+        "credit": "xkcd #2250 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/2250/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2020-01-03"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-30T14:47:26.742Z",
+      "hash": "8576ffd27b536136"
+    },
+    {
+      "id": "craft:e63908bae73cda8f",
+      "type": "craft",
+      "title": "Fantastical, Elemental Hybrids Persevere in Jon Ching’s Metaphysical Paintings",
+      "summary": "Inspired by his island upbringing on O’ahu, Hawai’i, Ching turns to nature as a boundless source of wonder and solace.",
+      "body": "Inspired by his island upbringing on O’ahu, Hawai’i, Ching turns to nature as a boundless source of wonder and solace.",
+      "image": {
+        "src": "data/images/912e8d47a727843d.jpg",
+        "alt": "Fantastical, Elemental Hybrids Persevere in Jon Ching’s Metaphysical Paintings",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/09/jon-ching-path-of-least-resistance-paintings/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Tue, 29 Sep 2026 17:00:0"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "nature",
+        "animals",
+        "birds",
+        "fish",
+        "jon ching",
+        "plants",
+        "spirituality"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:26.404Z",
+      "hash": "e63908bae73cda8f"
+    },
+    {
+      "id": "word:0e8e6560b14acc0b",
+      "type": "word",
+      "title": "hubris",
+      "summary": "Noun: Excessive arrogance or pride, or presumption; originally toward the gods; a feeling of overwhelming and all-encompassing pride.",
+      "body": "1. Excessive arrogance or pride, or presumption; originally toward the gods; a feeling of overwhelming and all-encompassing pride.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/hubris",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:47:25.954Z",
+      "hash": "0e8e6560b14acc0b"
+    },
+    {
+      "id": "word:b1e57b21fb46da07",
+      "type": "word",
+      "title": "eudaimonia",
+      "summary": "Noun: Alternative form of Eudaimonia.",
+      "body": "1. Alternative form of Eudaimonia.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/eudaimonia",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:47:25.546Z",
+      "hash": "b1e57b21fb46da07"
+    },
+    {
+      "id": "quote:0f480cc309f87c7c",
+      "type": "quote",
+      "title": "“There is a difference between giving directions and giving direction.”",
+      "summary": "— Simon Sinek",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Simon_Sinek",
+        "trustTier": "community",
+        "author": "Simon Sinek"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:47:24.239Z",
+      "hash": "0f480cc309f87c7c"
+    },
+    {
+      "id": "quote:f2a41aba1e8205ad",
+      "type": "quote",
+      "title": "“Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.”",
+      "summary": "— Honore de Balzac",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Honore_de_Balzac",
+        "trustTier": "community",
+        "author": "Honore de Balzac"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:47:24.239Z",
+      "hash": "f2a41aba1e8205ad"
+    },
+    {
+      "id": "quote:febb56521e37650a",
+      "type": "quote",
+      "title": "“The universe doesn't allow perfection.”",
+      "summary": "— Stephen Hawking",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Stephen_Hawking",
+        "trustTier": "community",
+        "author": "Stephen Hawking"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:47:24.239Z",
+      "hash": "febb56521e37650a"
+    },
+    {
+      "id": "article:7263c49aeac5abde",
+      "type": "article",
+      "title": "Manchester City guilty over Premier League charges after...",
+      "summary": "Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts. The “financial doping” scheme allowed the club’s owners to pump large sums of money into the team without appearing to exceed the league’s spending limits.",
+      "body": "Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts. The “financial doping” scheme allowed the club’s owners to pump large sums of money into the team without appearing to exceed the league’s spending limits.",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/09/0049703-manchester-city-guilty-ov",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-09-30T13:03:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:16.762Z",
+      "hash": "7263c49aeac5abde"
+    },
+    {
+      "id": "article:4865c0092ff68aa3",
+      "type": "article",
+      "title": "Who Is Claude Trying to Kid?",
+      "summary": "Confessing to being mechanical is the most mechanical trick of all The post Who Is Claude Trying to Kid? appeared first on Nautilus.",
+      "body": "Confessing to being mechanical is the most mechanical trick of all The post Who Is Claude Trying to Kid? appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/8e54a746a7963a3e.jpg",
+        "alt": "Who Is Claude Trying to Kid?",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/who-is-claude-trying-to-kid-1285411/",
+        "trustTier": "publication",
+        "author": "Dariusz Jemielniak",
+        "date": "Wed, 30 Sep 2026 14:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "technology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:16.078Z",
+      "hash": "4865c0092ff68aa3"
+    },
+    {
+      "id": "article:2ad50c634bb693f8",
+      "type": "article",
+      "title": "Mithridatism and the Myth of Poison Immunity",
+      "summary": "ISABELLA ZELTSER From Pontic Pharmaka to Modern Toxicology Continue reading Mithridatism and the Myth of Poison Immunity",
+      "body": "ISABELLA ZELTSER From Pontic Pharmaka to Modern Toxicology Continue reading Mithridatism and the Myth of Poison Immunity",
+      "image": {
+        "src": "data/images/a21c82d1a1d9c506.png",
+        "alt": "Mithridatism and the Myth of Poison Immunity",
+        "credit": "Antigone Journal"
+      },
+      "source": {
+        "name": "Antigone Journal",
+        "url": "https://antigonejournal.com/2026/09/mithridatism-myth-poison-immunity/",
+        "trustTier": "publication",
+        "author": "Antigone",
+        "date": "Sun, 27 Sep 2026 15:43:2"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "history",
+        "material culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:15.603Z",
+      "hash": "2ad50c634bb693f8"
+    },
+    {
+      "id": "article:d3bf5ef008a537ae",
+      "type": "article",
+      "title": "David Bowie Answers the Famous Proust Questionnaire",
+      "summary": "\"Q: What do you regard as the lowest depth of misery? A: Living in fear.\"",
+      "body": "\"Q: What do you regard as the lowest depth of misery? A: Living in fear.\"",
+      "image": {
+        "src": "data/images/7be8b5519bca9633.jpg",
+        "alt": "David Bowie Answers the Famous Proust Questionnaire",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/09/29/david-bowie-proust-questionnaire-vanity-fair/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Wed, 30 Sep 2026 03:58:5"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "music",
+        "books",
+        "david bowie",
+        "history",
+        "marcel proust"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:15.560Z",
+      "hash": "d3bf5ef008a537ae"
+    },
+    {
+      "id": "article:8b5fb1969c7238c5",
+      "type": "article",
+      "title": "How Ordinary Israelis Foiled a Hijacking",
+      "summary": "For the first time in 20 years, someone tried to hijack a plane bound for Israel. It was only by the bravery of a handful of passengers and crew that almost 180 lives were saved, writes Amit Segal.",
+      "body": "For the first time in 20 years, someone tried to hijack a plane bound for Israel. It was only by the bravery of a handful of passengers and crew that almost 180 lives were saved, writes Amit Segal.",
+      "image": {
+        "src": "data/images/6a80e4168a90d1e2.jpg",
+        "alt": "How Ordinary Israelis Foiled a Hijacking",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/ordinary-israelis-terrorism-hijacking-attempt",
+        "trustTier": "publication",
+        "author": "Amit Segal",
+        "date": "Wed, 30 Sep 2026 13:23:1"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:15.146Z",
+      "hash": "8b5fb1969c7238c5",
+      "expires": "2026-10-30T14:47:15.146Z"
+    },
+    {
+      "id": "greek:69ec86320445e935",
+      "type": "greek",
+      "title": "ἅγιος",
+      "summary": "ἅγιος, -α, -ον — “holy” · adjective",
+      "body": "Note: declines like 2-1-2; substantive use \"saint, holy one\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%85%CE%B3%CE%B9%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "adjective"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:47:12.618Z",
+      "hash": "69ec86320445e935"
+    },
+    {
+      "id": "greek:df0658eeb68d3dc4",
+      "type": "greek",
+      "title": "πιστεύω",
+      "summary": "πιστεύω — “I believe, trust” · verb",
+      "body": "Note: often with εἰς + acc. (\"believe in\")\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CF%80%CE%B9%CF%83%CF%84%CE%B5%CF%8D%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:47:12.617Z",
+      "hash": "df0658eeb68d3dc4"
+    },
+    {
+      "id": "poetry:c97fa258d85c4142",
+      "type": "poem",
+      "title": "The Canterbury Tales: The Manciple's Tale",
+      "summary": "THE PROLOGUE.\nWEET ye not where there stands a little town,\nWhich that y-called is Bob-up-and-down,\nUnder the Blee, in Canterbury way?",
+      "body": "THE PROLOGUE.\n\nWEET ye not where there stands a little town,\nWhich that y-called is Bob-up-and-down,\nUnder the Blee, in Canterbury way?\nThere gan our Hoste for to jape and play,\nAnd saide, \"Sirs, what? Dun is in the mire.\nIs there no man, for prayer nor for hire,\nThat will awaken our fellow behind?\nA thief him might full rob and bind\nSee how he nappeth, see, for cocke's bones,\nAs he would falle from his horse at ones.\nIs that a Cook of London, with mischance?\nDo him come forth, he knoweth his penance;\nFor he shall tell a tale, by my fay,\nAlthough it be not worth a bottle hay.\n\nAwake, thou Cook,\" quoth he; \"God give thee sorrow\nWhat aileth thee to sleepe by the morrow?\nHast thou had fleas all night, or art drunk?\nOr had thou with some quean all night y-swunk,\nSo that thou mayest not hold up thine head?\"\nThe Cook, that was full pale and nothing red,\nSaid to Host, \"So God my soule bless,\nAs there is fall'n on me such heaviness,\nI know not why, that me were lever sleep,\nThan the best gallon wine that is in Cheap.\"\n\"Well,\" quoth the Manciple, \"if it may do ease\nTo thee, Sir Cook, and to no wight displease\nWhich that here rideth in this company,\nAnd that our Host will of his courtesy,\nI will as now excuse thee of thy tale;\nFor in good faith thy visage is full pale:\nThine eyen daze, soothly as me thinketh,\nAnd well I wot, thy breath full soure stinketh,\nThat sheweth well thou art not well disposed;\nOf me certain thou shalt not be y-glosed.\nSee how he yawneth, lo, this drunken wight,\nAs though he would us swallow anon right.\nHold close thy mouth, man, by thy father's kin;\nThe devil of helle set his foot therein!\nThy cursed breath infecte will us all:\nFy! stinking swine, fy! foul may thee befall.\nAh! take heed, Sirs, of this lusty man.\nNow, sweete Sir, will ye joust at the fan?\nThereto, me thinketh, ye be well y-shape.\nI trow that ye have drunken wine of ape,\nAnd that is when men playe with a straw.\"\n\nAnd with this speech the Cook waxed all wraw,\nAnd on the Manciple he gan nod fast\nFor lack of speech; and down his horse him cast,\nWhere as he lay, till that men him up took.\nThis was a fair chevachie of a cook:\nAlas! that he had held him by his ladle!\nAnd ere that he again were in the saddle\nThere was great shoving bothe to and fro\nTo lift him up, and muche care and woe,\nSo unwieldy was this silly paled ghost.\nAnd to the Manciple then spake our Host:\n\"Because that drink hath domination\nUpon this man, by my salvation\nI trow he lewedly will tell his tale.\nFor were it wine, or old or moisty ale,\nThat he hath drunk, he speaketh in his nose,\nAnd sneezeth fast, and eke he hath the pose\nHe also hath to do more than enough\nTo keep him on his capel out of the slough;\nAnd if he fall from off his capel eftsoon,\nThen shall we alle have enough to do'n\nIn lifting up his heavy drunken corse.\nTell on thy tale, of him make I no force.\nBut yet, Manciple, in faith thou art too nice\nThus openly to reprove him of his vice;\nAnother day he will paraventure\nReclaime thee, and bring thee to the lure;\nI mean, he speake will of smalle things,\nAs for to pinchen at thy reckonings,\nThat were not honest, if it came to prefe.\"\nQuoth the Manciple, \"That were a great mischief;\nSo might he lightly bring me in the snare.\nYet had I lever paye for the mare\nWhich he rides on, than he should with me strive.\nI will not wrathe him, so may I thrive)\nThat that I spake, I said it in my bourde.\nAnd weet ye what? I have here in my gourd\nA draught of wine, yea, of a ripe grape,\nAnd right anon ye shall see a good jape.\nThis Cook shall drink thereof, if that I may;\nOn pain of my life he will not say nay.\"\nAnd certainly, to tellen as it was,\nOf this vessel the cook drank fast (alas!\nWhat needed it? he drank enough beforn),\nAnd when he hadde pouped in his horn,\nTo the Manciple he took the gourd again.\nAnd of that drink the Cook was wondrous fain,\nAnd thanked him in such wise as he could.\n\nThen gan our Host to laughe wondrous loud,\nAnd said, \"I see well it is necessary\nWhere that we go good drink with us to carry;\nFor that will turne rancour and disease\nT'accord and love, and many a wrong appease.\nO Bacchus, Bacchus, blessed be thy name,\nThat so canst turnen earnest into game!\nWorship and thank be to thy deity.\nOf that mattere ye get no more of me.\nTell on thy tale, Manciple, I thee pray.\"\n\"Well, Sir,\" quoth he, \"now hearken what I say.\"\n\nTHE TALE.\n\nWhen Phoebus dwelled here in earth adown,\nAs olde bookes make mentioun,\nHe was the moste lusty bacheler\nOf all this world, and eke the best archer.\nHe slew Python the serpent, as he lay\nSleeping against the sun upon a day;\nAnd many another noble worthy deed\nHe with his bow wrought, as men maye read.\nPlayen he could on every minstrelsy,\nAnd singe, that it was a melody\nTo hearen of his cleare voice the soun'.\nCertes the king of Thebes, Amphioun,\nThat with his singing walled the city,\nCould never singe half so well as he.\nThereto he was the seemlieste man\nThat is, or was since that the world began;\nWhat needeth it his features to descrive?\nFor in this world is none so fair alive.\nHe was therewith full fill'd of gentleness,\nOf honour, and of perfect worthiness.\n\nThis Phoebus, that was flower of bach'lery,\nAs well in freedom as in chivalry,\nFor his disport, in sign eke of victory\nOf Python, so as telleth us the story,\nWas wont to bearen in his hand a bow.\nNow had this Phoebus in his house a crow,\nWhich in a cage he foster'd many a day,\nAnd taught it speaken, as men teach a jay.\nWhite was this crow, as is a snow-white swan,\nAnd counterfeit the speech of every man\nHe coulde, when he shoulde tell a tale.\nTherewith in all this world no nightingale\nNe coulde by an hundred thousand deal\nSinge so wondrous merrily and well.\nNow had this Phoebus in his house a wife;\nWhich that he loved more than his life.\nAnd night and day did ever his diligence\nHer for to please, and do her reverence:\nSave only, if that I the sooth shall sayn,\nJealous he was, and would have kept her fain.\nFor him were loth y-japed for to be;\nAnd so is every wight in such degree;\nBut all for nought, for it availeth nought.\nA good wife, that is clean of work and thought,\nShould not be kept in none await certain:\nAnd truely the labour is in vain\nTo keep a shrewe, for it will not be.\nThis hold I for a very nicety,\nTo spille labour for to keepe wives;\n\nThus writen olde clerkes in their lives.\nBut now to purpose, as I first began.\nThis worthy Phoebus did all that he can\nTo please her, weening, through such pleasance,\nAnd for his manhood and his governance,\nThat no man should have put him from her grace;\nBut, God it wot, there may no man embrace\nAs to distrain a thing, which that nature\nHath naturally set in a creature.\nTake any bird, and put it in a cage,\nAnd do all thine intent, and thy corage,\nTo foster it tenderly with meat and drink\nOf alle dainties that thou canst bethink,\nAnd keep it all so cleanly as thou may;\nAlthough the cage of gold be never so gay,\nYet had this bird, by twenty thousand fold,\nLever in a forest, both wild and cold,\nGo eate wormes, and such wretchedness.\nFor ever this bird will do his business\nT'escape out of his cage when that he may:\nHis liberty the bird desireth aye.\nLet take a cat, and foster her with milk\nAnd tender flesh, and make her couch of silk,\nAnd let her see a mouse go by the wall,\nAnon she weiveth milk, and flesh, and all,\nAnd every dainty that is in that house,\nSuch appetite hath she to eat the mouse.\nLo, here hath kind her domination,\nAnd appetite flemeth discretion.\nA she-wolf hath also a villain's kind\nThe lewedeste wolf that she may find,\nOr least of reputation, will she take\nIn time when her lust to have a make.\nAll these examples speak I by these men\nThat be untrue, and nothing by women.\nFor men have ever a lik'rous appetite\nOn lower things to perform their delight\nThan on their wives, be they never so fair,\nNever so true, nor so debonair.\nFlesh is so newefangled, with mischance,\nThat we can in no thinge have pleasance\nThat souneth unto virtue any while.\n\nThis Phoebus, which that thought upon no guile,\nDeceived was for all his jollity;\nFor under him another hadde she,\nA man of little reputation,\nNought worth to Phoebus in comparison.\nThe more harm is; it happens often so,\nOf which there cometh muche harm and woe.\nAnd so befell, when Phoebus was absent,\nHis wife anon hath for her leman sent.\nHer leman! certes that is a knavish speech.\nForgive it me, and that I you beseech.\nThe wise Plato saith, as ye may read,\nThe word must needs accorde with the deed;\nIf men shall telle properly a thing,\nThe word must cousin be to the working.\nI am a boistous man, right thus I say.\nThere is no difference truely\nBetwixt a wife that is of high degree\n(If of her body dishonest she be),\nAnd any poore wench, other than this\n(If it so be they worke both amiss),\nBut, for the gentle is in estate above,\nShe shall be call'd his lady and his love;\nAnd, for that other is a poor woman,\nShe shall be call'd his wench and his leman:\nAnd God it wot, mine owen deare brother,\nMen lay the one as low as lies the other.\nRight so betwixt a titleless tyrant\nAnd an outlaw, or else a thief errant,\nThe same I say, there is no difference\n(To Alexander told was this sentence),\nBut, for the tyrant is of greater might\nBy force of meinie for to slay downright,\nAnd burn both house and home, and make all plain,\nLo, therefore is he call'd a capitain;\nAnd, for the outlaw hath but small meinie,\nAnd may not do so great an harm as he,\nNor bring a country to so great mischief,\nMen calle him an outlaw or a thief.\nBut, for I am a man not textuel,\nI will not tell of texts never a deal;\nI will go to my tale, as I began.\n\nWhen Phoebus' wife had sent for her leman,\nAnon they wroughten all their lust volage.\nThis white crow, that hung aye in the cage,\nBeheld their work, and said never a word;\nAnd when that home was come Phoebus the lord,\nThis crowe sung, \"Cuckoo, cuckoo, cuckoo!\"\n\"What? bird,\" quoth Phoebus, \"what song sing'st thou now?\nWert thou not wont so merrily to sing,\nThat to my heart it was a rejoicing\nTo hear thy voice? alas! what song is this?\"\n\"By God,\" quoth he, \"I singe not amiss.\nPhoebus,\" quoth he, \"for all thy worthiness,\nFor all thy beauty, and all thy gentleness,\nFor all thy song, and all thy minstrelsy,\nFor all thy waiting, bleared is thine eye\nWith one of little reputation,\nNot worth to thee, as in comparison,\nThe mountance of a gnat, so may I thrive;\nFor on thy bed thy wife I saw him swive.\"\nWhat will ye more? the crow anon him told,\nBy sade tokens, and by wordes bold,\nHow that his wife had done her lechery,\nTo his great shame and his great villainy;\nAnd told him oft, he saw it with his eyen.\nThis Phoebus gan awayward for to wrien;\nHim thought his woeful hearte burst in two.\nHis bow he bent, and set therein a flo,\nAnd in his ire he hath his wife slain;\nThis is th' effect, there is no more to sayn.\nFor sorrow of which he brake his minstrelsy,\nBoth harp and lute, gitern and psaltery;\nAnd eke he brake his arrows and his bow;\nAnd after that thus spake he to the crow.\n\n\"Traitor,\" quoth he, \"with tongue of scorpion,\nThou hast me brought to my confusion;\nAlas that I was wrought! why n'ere I dead?\nO deare wife, O gem of lustihead,\nThat wert to me so sad, and eke so true,\nNow liest thou dead, with face pale of hue,\nFull guilteless, that durst I swear y-wis!\nO rakel hand, to do so foul amiss\nO troubled wit, O ire reckeless,\nThat unadvised smit'st the guilteless!\nO wantrust, full of false suspicion!\nWhere was thy wit and thy discretion?\nO! every man beware of rakelness,\nNor trow no thing withoute strong witness.\nSmite not too soon, ere that ye weete why,\nAnd be advised well and sickerly\nEre ye do any execution\nUpon your ire for suspicion.\nAlas! a thousand folk hath rakel ire\nFoully fordone, and brought them in the mire.\nAlas! for sorrow I will myself slee\nAnd to the crow, \"O false thief,\" said he,\n\"I will thee quite anon thy false tale.\nThou sung whilom like any nightingale,\nNow shalt thou, false thief, thy song foregon,\nAnd eke thy white feathers every one,\nNor ever in all thy life shalt thou speak;\nThus shall men on a traitor be awreak.\nThou and thine offspring ever shall be blake,\nNor ever sweete noise shall ye make,\nBut ever cry against tempest and rain,\nIn token that through thee my wife is slain.\"\nAnd to the crow he start, and that anon,\nAnd pull'd his white feathers every one,\nAnd made him black, and reft him all his song,\nAnd eke his speech, and out at door him flung\nUnto the devil, which I him betake;\nAnd for this cause be all crowes blake.\nLordings, by this ensample, I you pray,\nBeware, and take keep what that ye say;\nNor telle never man in all your life\nHow that another man hath dight his wife;\nHe will you hate mortally certain.\nDan Solomon, as wise clerkes sayn,\nTeacheth a man to keep his tongue well;\nBut, as I said, I am not textuel.\nBut natheless thus taughte me my dame;\n\"My son, think on the crow, in Godde's name.\nMy son, keep well thy tongue, and keep thy friend;\nA wicked tongue is worse than is a fiend:\nMy sone, from a fiend men may them bless.\nMy son, God of his endeless goodness\nWalled a tongue with teeth, and lippes eke,\nFor man should him advise, what he speak.\nMy son, full often for too muche speech\nHath many a man been spilt, as clerkes teach;\nBut for a little speech advisedly\nIs no man shent, to speak generally.\nMy son, thy tongue shouldest thou restrain\nAt alle time, but when thou dost thy pain\nTo speak of God in honour and prayere.\nThe firste virtue, son, if thou wilt lear,\nIs to restrain and keepe well thy tongue;\nThus learne children, when that they be young.\nMy son, of muche speaking evil advis'd,\nWhere lesse speaking had enough suffic'd,\nCometh much harm; thus was me told and taught;\nIn muche speeche sinne wanteth not.\nWost thou whereof a rakel tongue serveth?\nRight as a sword forcutteth and forcarveth\nAn arm in two, my deare son, right so\nA tongue cutteth friendship all in two.\nA jangler is to God abominable.\nRead Solomon, so wise and honourable;\nRead David in his Psalms, and read Senec'.\nMy son, speak not, but with thine head thou beck,\nDissimule as thou wert deaf, if that thou hear\nA jangler speak of perilous mattere.\nThe Fleming saith, and learn if that thee lest,\nThat little jangling causeth muche rest.\nMy son, if thou no wicked word hast said,\nThee thar not dreade for to be bewray'd;\nBut he that hath missaid, I dare well sayn,\nHe may by no way call his word again.\nThing that is said is said, and forth it go'th,\nThough him repent, or be he ne'er so loth;\nHe is his thrall, to whom that he hath said\nA tale, of which he is now evil apaid.\nMy son, beware, and be no author new\nOf tidings, whether they be false or true;\nWhereso thou come, amonges high or low,\nKeep well thy tongue, and think upon the crow.\"",
+      "source": {
+        "name": "Geoffrey Chaucer · PoetryDB",
+        "url": "https://poetrydb.org/title/The%20Canterbury%20Tales%3A%20The%20Manciple's%20Tale",
+        "trustTier": "community",
+        "author": "Geoffrey Chaucer"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:12.616Z",
+      "hash": "c97fa258d85c4142"
+    },
+    {
+      "id": "poetry:2ee63bd20570929e",
+      "type": "poem",
+      "title": "Locksley Hall",
+      "summary": "Comrades, leave me here a little, while as yet 't is early morn:\nLeave me here, and when you want me, sound upon the bugle-horn.\n'T is the place, and all around it, as of old, the curlews call,\nDreary gleams about the moorland flying over…",
+      "body": "Comrades, leave me here a little, while as yet 't is early morn:\nLeave me here, and when you want me, sound upon the bugle-horn.\n\n'T is the place, and all around it, as of old, the curlews call,\nDreary gleams about the moorland flying over Locksley Hall;\n\nLocksley Hall, that in the distance overlooks the sandy tracts,\nAnd the hollow ocean-ridges roaring into cataracts.\n\nMany a night from yonder ivied casement, ere I went to rest,\nDid I look on great Orion sloping slowly to the West.\n\nMany a night I saw the Pleiads, rising thro' the mellow shade,\nGlitter like a swarm of fire-flies tangled in a silver braid.\n\nHere about the beach I wander'd, nourishing a youth sublime\nWith the fairy tales of science, and the long result of Time;\n\nWhen the centuries behind me like a fruitful land reposed;\nWhen I clung to all the present for the promise that it closed:\n\nWhen I dipt into the future far as human eye could see;\nSaw the Vision of the world and all the wonder that would be.--\n\nIn the Spring a fuller crimson comes upon the robin's breast;\nIn the Spring the wanton lapwing gets himself another crest;\n\nIn the Spring a livelier iris changes on the burnish'd dove;\nIn the Spring a young man's fancy lightly turns to thoughts of love.\n\nThen her cheek was pale and thinner than should be for one so young,\nAnd her eyes on all my motions with a mute observance hung.\n\nAnd I said, \"My cousin Amy, speak, and speak the truth to me,\nTrust me, cousin, all the current of my being sets to thee.\"\n\nOn her pallid cheek and forehead came a colour and a light,\nAs I have seen the rosy red flushing in the northern night.\n\nAnd she turn'd--her bosom shaken with a sudden storm of sighs--\nAll the spirit deeply dawning in the dark of hazel eyes--\n\nSaying, \"I have hid my feelings, fearing they should do me wrong\";\nSaying, \"Dost thou love me, cousin?\" weeping, \"I have loved thee long.\"\n\nLove took up the glass of Time, and turn'd it in his glowing hands;\nEvery moment, lightly shaken, ran itself in golden sands.\n\nLove took up the harp of Life, and smote on all the chords with might;\nSmote the chord of Self, that, trembling, pass'd in music out of sight.\n\nMany a morning on the moorland did we hear the copses ring,\nAnd her whisper throng'd my pulses with the fulness of the Spring.\n\nMany an evening by the waters did we watch the stately ships,\nAnd our spirits rush'd together at the touching of the lips.\n\nO my cousin, shallow-hearted! O my Amy, mine no more!\nO the dreary, dreary moorland! O the barren, barren shore!\n\nFalser than all fancy fathoms, falser than all songs have sung,\nPuppet to a father's threat, and servile to a shrewish tongue!\n\nIs it well to wish thee happy?--having known me--to decline\nOn a range of lower feelings and a narrower heart than mine!\n\nYet it shall be; thou shalt lower to his level day by day,\nWhat is fine within thee growing coarse to sympathize with clay.\n\nAs the husband is, the wife is: thou art mated with a clown,\nAnd the grossness of his nature will have weight to drag thee down.\n\nHe will hold thee, when his passion shall have spent its novel force,\nSomething better than his dog, a little dearer than his horse.\n\nWhat is this? his eyes are heavy; think not they are glazed with wine.\nGo to him, it is thy duty, kiss him, take his hand in thine.\n\nIt may be my lord is weary, that his brain is overwrought:\nSoothe him with thy finer fancies, touch him with thy lighter thought.\n\nHe will answer to the purpose, easy things to understand--\nBetter thou wert dead before me, tho' I slew thee with my hand!\n\nBetter thou and I were lying, hidden from the heart's disgrace,\nRoll'd in one another's arms, and silent in a last embrace.\n\nCursed be the social wants that sin against the strength of youth!\nCursed be the social lies that warp us from the living truth!\n\nCursed be the sickly forms that err from honest Nature's rule!\nCursed be the gold that gilds the straiten'd forehead of the fool!\n\nWell--'t is well that I should bluster!--Hadst thou less unworthy proved--\nWould to God--for I had loved thee more than ever wife was loved.\n\nAm I mad, that I should cherish that which bears but bitter fruit?\nI will pluck it from my bosom, tho' my heart be at the root.\n\nNever, tho' my mortal summers to such length of years should come\nAs the many-winter'd crow that leads the clanging rookery home.\n\nWhere is comfort? in division of the records of the mind?\nCan I part her from herself, and love her, as I knew her, kind?\n\nI remember one that perish'd; sweetly did she speak and move;\nSuch a one do I remember, whom to look at was to love.\n\nCan I think of her as dead, and love her for the love she bore?\nNo--she never loved me truly; love is love for evermore.\n\nComfort? comfort scorn'd of devils! this is truth the poet sings,\nThat a sorrow's crown of sorrow is remembering happier things.\n\nDrug thy memories, lest thou learn it, lest thy heart be put to proof,\nIn the dead unhappy night, and when the rain is on the roof.\n\nLike a dog, he hunts in dreams, and thou art staring at the wall,\nWhere the dying night-lamp flickers, and the shadows rise and fall.\n\nThen a hand shall pass before thee, pointing to his drunken sleep,\nTo thy widow'd marriage-pillows, to the tears that thou wilt weep.\n\nThou shalt hear the \"Never, never,\" whisper'd by the phantom years,\nAnd a song from out the distance in the ringing of thine ears;\n\nAnd an eye shall vex thee, looking ancient kindness on thy pain.\nTurn thee, turn thee on thy pillow; get thee to thy rest again.\n\nNay, but Nature brings thee solace; for a tender voice will cry.\n'T is a purer life than thine, a lip to drain thy trouble dry.\n\nBaby lips will laugh me down; my latest rival brings thee rest.\nBaby fingers, waxen touches, press me from the mother's breast.\n\nO, the child too clothes the father with a dearness not his due.\nHalf is thine and half is his: it will be worthy of the two.\n\nO, I see thee old and formal, fitted to thy petty part,\nWith a little hoard of maxims preaching down a daughter's heart.\n\n\"They were dangerous guides the feelings--she herself was not exempt--\nTruly, she herself had suffer'd\"--Perish in thy self-contempt!\n\nOverlive it--lower yet--be happy! wherefore should I care?\nI myself must mix with action, lest I wither by despair.\n\nWhat is that which I should turn to, lighting upon days like these?\nEvery door is barr'd with gold, and opens but to golden keys.\n\nEvery gate is throng'd with suitors, all the markets overflow.\nI have but an angry fancy; what is that which I should do?\n\nI had been content to perish, falling on the foeman's ground,\nWhen the ranks are roll'd in vapour, and the winds are laid with sound.\n\nBut the jingling of the guinea helps the hurt that Honour feels,\nAnd the nations do but murmur, snarling at each other's heels.\n\nCan I but relive in sadness? I will turn that earlier page.\nHide me from my deep emotion, O thou wondrous Mother-Age!\n\nMake me feel the wild pulsation that I felt before the strife,\nWhen I heard my days before me, and the tumult of my life;\n\nYearning for the large excitement that the coming years would yield,\nEager-hearted as a boy when first he leaves his father's field,\n\nAnd at night along the dusky highway near and nearer drawn,\nSees in heaven the light of London flaring like a dreary dawn;\n\nAnd his spirit leaps within him to be gone before him then,\nUnderneath the light he looks at, in among the throngs of men:\n\nMen, my brothers, men the workers, ever reaping something new:\nThat which they have done but earnest of the things that they shall do:\n\nFor I dipt into the future, far as human eye could see,\nSaw the Vision of the world, and all the wonder that would be;\n\nSaw the heavens fill with commerce, argosies of magic sails,\nPilots of the purple twilight dropping down with costly bales;\n\nHeard the heavens fill with shouting, and there rain'd a ghastly dew\nFrom the nations' airy navies grappling in the central blue;\n\nFar along the world-wide whisper of the south-wind rushing warm,\nWith the standards of the peoples plunging thro' the thunder-storm;\n\nTill the war-drum throbb'd no longer, and the battle-flags were furl'd\nIn the Parliament of man, the Federation of the world.\n\nThere the common sense of most shall hold a fretful realm in awe,\nAnd the kindly earth shall slumber, lapt in universal law.\n\nSo I triumph'd ere my passion sweeping thro' me left me dry,\nLeft me with the palsied heart, and left me with the jaundiced eye;\n\nEye, to which all order festers, all things here are out of joint:\nScience moves, but slowly, slowly, creeping on from point to point:\n\nSlowly comes a hungry people, as a lion, creeping nigher,\nGlares at one that nods and winks behind a slowly-dying fire.\n\nYet I doubt not thro' the ages one increasing purpose runs,\nAnd the thoughts of men are widen'd with the process of the suns.\n\nWhat is that to him that reaps not harvest of his youthful joys,\nTho' the deep heart of existence beat for ever like a boy's?\n\nKnowledge comes, but wisdom lingers, and I linger on the shore,\nAnd the individual withers, and the world is more and more.\n\nKnowledge comes, but wisdom lingers, and he bears a laden breast,\nFull of sad experience, moving toward the stillness of his rest.\n\nHark, my merry comrades call me, sounding on the bugle-horn,\nThey to whom my foolish passion were a target for their scorn:\n\nShall it not be scorn to me to harp on such a moulder'd string?\nI am shamed thro' all my nature to have loved so slight a thing.\n\nWeakness to be wroth with weakness! woman's pleasure, woman's pain--\nNature made them blinder motions bounded in a shallower brain:\n\nWoman is the lesser man, and all thy passions, match'd with mine,\nAre as moonlight unto sunlight, and as water unto wine--\n\nHere at least, where nature sickens, nothing. Ah, for some retreat\nDeep in yonder shining Orient, where my life began to beat;\n\nWhere in wild Mahratta-battle fell my father evil-starr'd,--\nI was left a trampled orphan, and a selfish uncle's ward.\n\nOr to burst all links of habit--there to wander far away,\nOn from island unto island at the gateways of the day.\n\nLarger constellations burning, mellow moons and happy skies,\nBreadths of tropic shade and palms in cluster, knots of Paradise.\n\nNever comes the trader, never floats an European flag,\nSlides the bird o'er lustrous woodland, swings the trailer from the crag;\n\nDroops the heavy-blossom'd bower, hangs the heavy-fruited tree--\nSummer isles of Eden lying in dark-purple spheres of sea.\n\nThere methinks would be enjoyment more than in this march of mind,\nIn the steamship, in the railway, in the thoughts that shake mankind.\n\nThere the passions cramp'd no longer shall have scope and breathing space;\nI will take some savage woman, she shall rear my dusky race.\n\nIron-jointed, supple-sinew'd, they shall dive, and they shall run,\nCatch the wild goat by the hair, and hurl their lances in the sun;\n\nWhistle back the parrot's call, and leap the rainbows of the brooks,\nNot with blinded eyesight poring over miserable books--\n\nFool, again the dream, the fancy! but I know my words are wild,\nBut I count the gray barbarian lower than the Christian child.\n\nI, to herd with narrow foreheads, vacant of our glorious gains,\nLike a beast with lower pleasures, like a beast with lower pains!\n\nMated with a squalid savage--what to me were sun or clime?\nI the heir of all the ages, in the foremost files of time--\n\nI that rather held it better men should perish one by one,\nThan that earth should stand at gaze like Joshua's moon in Ajalon!\n\nNot in vain the distance beacons. Forward, forward let us range,\nLet the great world spin for ever down the ringing grooves of change.\n\nThro' the shadow of the globe we sweep into the younger day;\nBetter fifty years of Europe than a cycle of Cathay.\n\nMother-Age (for mine I knew not) help me as when life begun:\nRift the hills, and roll the waters, flash the lightnings, weigh the Sun.\n\nO, I see the crescent promise of my spirit hath not set.\nAncient founts of inspiration well thro' all my fancy yet.\n\nHowsoever these things be, a long farewell to Locksley Hall!\nNow for me the woods may wither, now for me the roof-tree fall.\n\nComes a vapour from the margin, blackening over heath and holt,\nCramming all the blast before it, in its breast a thunderbolt.\n\nLet it fall on Locksley Hall, with rain or hail, or fire or snow;\nFor the mighty wind arises, roaring seaward, and I go.",
+      "source": {
+        "name": "Lord Alfred Tennyson · PoetryDB",
+        "url": "https://poetrydb.org/title/Locksley%20Hall",
+        "trustTier": "community",
+        "author": "Lord Alfred Tennyson"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-09-30T14:47:12.616Z",
+      "hash": "2ee63bd20570929e"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399894009-1",
+      "type": "art",
+      "title": "Moon Rising over the Porcupine Islands, Bar Harbor, Maine",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1850s · Drawings",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1850s · Drawings",
+      "image": {
+        "src": "data/images/18a2ff9fcea20834.jpg",
+        "alt": "Moon Rising over the Porcupine Islands, Bar Harbor, Maine",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/22428",
+        "trustTier": "encyclopedic",
+        "date": "1850s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "moon",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-30T14:47:12.186Z",
+      "hash": "c0b96d9e96f580d4"
+    },
+    {
+      "id": "art:si:ld1-1643406112513-1643406113819-0",
+      "type": "art",
+      "title": "Lewis' Moon Snail, Lewis's Moon Snail, Lewis's Moon",
+      "summary": "NMNH - Education & Outreach · Education and Outreach collections",
+      "body": "NMNH - Education & Outreach\nEducation and Outreach collections",
+      "image": {
+        "src": "data/images/30e47d33fcf9d1f0.jpg",
+        "alt": "Lewis' Moon Snail, Lewis's Moon Snail, Lewis's Moon",
+        "credit": "NMNH - Education & Outreach · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "http://n2t.net/ark:/65665/384123cac-f24c-47e7-ba92-83b16aa22dc6",
+        "trustTier": "encyclopedic",
+        "date": "Education and Outreach collections"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "moon",
+        "education and outreach collections"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-30T14:47:12.186Z",
+      "hash": "9205e963dd970cf6"
+    },
+    {
+      "id": "met:264910",
+      "type": "art",
+      "title": "Yosemite Falls, 2,634 feet",
+      "summary": "Carleton E. Watkins · ca. 1872, printed ca. 1876 · Albumen silver print from glass negative",
+      "body": "Carleton E. Watkins · ca. 1872, printed ca. 1876 · Albumen silver print from glass negative\nGift of Carole and Irwin Lainoff, Ruth P. Lasser and Joseph R. Lasser, Mr. and Mrs. John T. Marvin, Martin E. and Joan Messinger, Richard L. Yett and Sheri and Paul Siegel, 1986\nPhotographs",
+      "image": {
+        "src": "data/images/f403ed46e225518c.jpg",
+        "alt": "Yosemite Falls, 2,634 feet",
+        "credit": "The Met · Gift of Carole and Irwin Lainoff, Ruth P. Lasser and Joseph R. Lasser, Mr. and Mrs. John T. Marvin, Martin E. and Joan Messinger, Richard L. Yett and Sheri and Paul Siegel, 1986"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/264910",
+        "trustTier": "encyclopedic",
+        "author": "Carleton E. Watkins",
+        "date": "ca. 1872, printed ca. 1876"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "mountain",
+        "photographs"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-30T14:47:10.689Z",
+      "hash": "044d1b7aa313d70e"
+    },
+    {
+      "id": "met:337499",
+      "type": "art",
+      "title": "The Lake of Zug",
+      "summary": "Joseph Mallord William Turner · 1843 · Watercolor and bodycolor (gouache) with reductive techniques over graphite",
+      "body": "Joseph Mallord William Turner · 1843 · Watercolor and bodycolor (gouache) with reductive techniques over graphite\nMarquand Fund, 1959\nDrawings and Prints",
+      "image": {
+        "src": "data/images/cb5e234746033d92.jpg",
+        "alt": "The Lake of Zug",
+        "credit": "The Met · Marquand Fund, 1959"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/337499",
+        "trustTier": "encyclopedic",
+        "author": "Joseph Mallord William Turner",
+        "date": "1843"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "mountain",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-30T14:47:10.465Z",
+      "hash": "b5f002ce86d78276"
+    },
+    {
+      "id": "met:323988",
+      "type": "art",
+      "title": "Figure of crouching lion",
+      "summary": "Unknown artist · ca. 8th–7th century BCE · Ivory",
+      "body": "Unknown artist · ca. 8th–7th century BCE · Ivory\nRogers Fund, 1943\nAncient West Asian Art",
+      "image": {
+        "src": "data/images/dc90b689c171393b.jpg",
+        "alt": "Figure of crouching lion",
+        "credit": "The Met · Rogers Fund, 1943"
+      },
+      "source": {
+        "name": "The Met Collection",
+        "url": "https://www.metmuseum.org/art/collection/search/323988",
+        "trustTier": "encyclopedic",
+        "date": "ca. 8th–7th century BCE"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "mountain"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-09-30T14:47:10.387Z",
+      "hash": "0de0ef12f92796d0"
+    },
+    {
+      "id": "onthisday:09-30:1551:d4bb6d916337b612",
+      "type": "history",
+      "title": "1551: Sue Harukata",
+      "summary": "Sue Takafusa, a retainer of the Ōuchi clan in western Japan, led a coup against the daimyō Ōuchi Yoshitaka, leading to the latter's forced suicide.",
+      "body": "Sue Takafusa, a retainer of the Ōuchi clan in western Japan, led a coup against the daimyō Ōuchi Yoshitaka, leading to the latter's forced suicide.",
+      "image": {
+        "src": "data/images/22edd7a235b69e91.jpg",
+        "alt": "Sue Harukata",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Sue_Harukata",
+        "trustTier": "encyclopedic",
+        "date": "09-30"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:45:46.986Z",
+      "hash": "da2cd349ee0d50b0",
+      "expires": "2026-10-03T14:45:46.986Z"
+    },
+    {
+      "id": "onthisday:09-30:1938:7d12554eabceb152",
+      "type": "history",
+      "title": "1938: Adolf Hitler",
+      "summary": "Adolf Hitler, Benito Mussolini, Neville Chamberlain, and Édouard Daladier signed the Munich Agreement, stipulating that Czechoslovakia must cede the Sudetenland to Germany.",
+      "body": "Adolf Hitler, Benito Mussolini, Neville Chamberlain, and Édouard Daladier signed the Munich Agreement, stipulating that Czechoslovakia must cede the Sudetenland to Germany.",
+      "image": {
+        "src": "data/images/1fc516e19ea7072d.jpg",
+        "alt": "Adolf Hitler",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Adolf_Hitler",
+        "trustTier": "encyclopedic",
+        "date": "09-30"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:45:46.986Z",
+      "hash": "ee801d8db63b54a0",
+      "expires": "2026-10-03T14:45:46.986Z"
+    },
+    {
+      "id": "onthisday:09-30:1975:66c0c9aca9859ea8",
+      "type": "history",
+      "title": "1975: Boeing AH-64 Apache",
+      "summary": "The Boeing AH-64 Apache (example pictured), the primary attack helicopter for a number of countries, made its first flight.",
+      "body": "The Boeing AH-64 Apache (example pictured), the primary attack helicopter for a number of countries, made its first flight.",
+      "image": {
+        "src": "data/images/0dc1fb5812b973ee.jpg",
+        "alt": "Boeing AH-64 Apache",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Boeing_AH-64_Apache",
+        "trustTier": "encyclopedic",
+        "date": "09-30"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:45:46.986Z",
+      "hash": "c189aed567685f3d",
+      "expires": "2026-10-03T14:45:46.986Z"
+    },
+    {
+      "id": "wikipedia:75783166",
+      "type": "wiki",
+      "title": "Climate Change Isn't Everything: Liberating Climate Politics from Alarmism",
+      "summary": "Climate Change Isn’t Everything: Liberating Climate Politics from Alarmism is a book by Mike Hulme published in 2023 by Polity Press.",
+      "body": "Climate Change Isn’t Everything: Liberating Climate Politics from Alarmism is a book by Mike Hulme published in 2023 by Polity Press.",
+      "image": {
+        "src": "data/images/971856ba1ce24582.jpg",
+        "alt": "Climate Change Isn't Everything: Liberating Climate Politics from Alarmism",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Climate_Change_Isn't_Everything%3A_Liberating_Climate_Politics_from_Alarmism",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:45:46.970Z",
+      "hash": "a686425902dc8c18"
+    },
+    {
+      "id": "wikipedia:60062284",
+      "type": "wiki",
+      "title": "Patrignone, San Giuliano Terme",
+      "summary": "Patrignone is a village in Tuscany, central Italy, administratively a frazione of the comune of San Giuliano Terme, province of Pisa. At the time of the 2001 census its population was 160.",
+      "body": "Patrignone is a village in Tuscany, central Italy, administratively a frazione of the comune of San Giuliano Terme, province of Pisa. At the time of the 2001 census its population was 160.",
+      "image": {
+        "src": "data/images/f74ec2072c960b16.jpg",
+        "alt": "Patrignone, San Giuliano Terme",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Patrignone%2C_San_Giuliano_Terme",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:45:46.888Z",
+      "hash": "c7b8a2f9ac5bd160"
+    },
+    {
+      "id": "wikipedia:67924038",
+      "type": "wiki",
+      "title": "Puebla sinkhole",
+      "summary": "The Puebla sinkhole is located in the town of Santa Maria Zacatepec, Juan C. Bonilla municipality, Puebla, Mexico. It is found 93.7 kilometres (58.2 mi) west of the state capital of Puebla, and 212 kilometres (132 mi) east of Mexico City, at coordinates 19.1257, -98.3738. The sinkhole first appeared on May 29, 2021,…",
+      "body": "The Puebla sinkhole is located in the town of Santa Maria Zacatepec, Juan C. Bonilla municipality, Puebla, Mexico. It is found 93.7 kilometres (58.2 mi) west of the state capital of Puebla, and 212 kilometres (132 mi) east of Mexico City, at coordinates 19.1257, -98.3738. The sinkhole first appeared on May 29, 2021, with a diameter of 15 feet (4.6 m); by June 10 it had grown to 400 feet (120 m) with a depth estimated at 50 feet (15 m).",
+      "image": {
+        "src": "data/images/5bd5a73d19931526.jpg",
+        "alt": "Puebla sinkhole",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Puebla_sinkhole",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:45:43.539Z",
+      "hash": "b9c55ca5df4dbb66"
+    },
+    {
+      "id": "wikipedia:9422820",
+      "type": "wiki",
+      "title": "Brănești, Dâmbovița",
+      "summary": "Brănești is a commune in Dâmbovița County, Muntenia, southern Romania. It is composed of two villages, Brănești and Priboiu.",
+      "body": "Brănești is a commune in Dâmbovița County, Muntenia, southern Romania. It is composed of two villages, Brănești and Priboiu.",
+      "image": {
+        "src": "data/images/1be3620380ef0bd8.jpg",
+        "alt": "Brănești, Dâmbovița",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Br%C4%83ne%C8%99ti%2C_D%C3%A2mbovi%C8%9Ba",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-09-30T14:45:42.412Z",
+      "hash": "b3c5c2ddd209f170"
+    },
     {
       "id": "chess:9862H",
       "type": "chess",
@@ -11588,1009 +12553,6 @@
       "difficulty": 1,
       "fetchedAt": "2026-09-19T12:22:15.201Z",
       "hash": "e343b085cbfb005c"
-    },
-    {
-      "id": "comic:xkcd:2815",
-      "type": "comic",
-      "title": "Car Wash",
-      "summary": "I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did.",
-      "image": {
-        "src": "data/images/2bf19578226d1608.png",
-        "alt": "I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did.",
-        "credit": "xkcd #2815 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/2815/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2023-08-14"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-19T12:22:14.949Z",
-      "hash": "6eea844accb5218f"
-    },
-    {
-      "id": "comic:xkcd:3300",
-      "type": "comic",
-      "title": "Tyrannosaurus",
-      "summary": "Many of the smaller dinosaurs seem to have largely preyed on housecats.",
-      "image": {
-        "src": "data/images/21d89d9ca700b26b.png",
-        "alt": "Many of the smaller dinosaurs seem to have largely preyed on housecats.",
-        "credit": "xkcd #3300 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3300/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2026-09-18"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-19T12:22:14.520Z",
-      "hash": "7ee20ca65bb664ab"
-    },
-    {
-      "id": "craft:705a165b885c1bd1",
-      "type": "craft",
-      "title": "Step Inside the Studios of 20 Contemporary Black Artists in ‘Another View’",
-      "summary": "Featuring Nick Cave, Nina Chanel Abney, Hank Willis Thomas, Carrie Mae Weems, Kerry James Marshall, and many more.",
-      "body": "Featuring Nick Cave, Nina Chanel Abney, Hank Willis Thomas, Carrie Mae Weems, Kerry James Marshall, and many more.",
-      "image": {
-        "src": "data/images/44f5fc4c57a279b2.jpg",
-        "alt": "Step Inside the Studios of 20 Contemporary Black Artists in ‘Another View’",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/09/another-view-the-vibrant-world-of-contemporary-black-artists/",
-        "trustTier": "publication",
-        "author": "Jackie Andres",
-        "date": "Fri, 18 Sep 2026 21:05:3"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "books",
-        "derrick adams",
-        "drawing",
-        "hank willis thomas",
-        "kerry james marshall",
-        "lorna simpson",
-        "nick cave"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:14.185Z",
-      "hash": "705a165b885c1bd1"
-    },
-    {
-      "id": "craft:50ff91aea5ec9e94",
-      "type": "craft",
-      "title": "FilaDC i10 Cabinet Dries Filament in the Background",
-      "summary": "The FilaDC i10 filament dehumidifying cabinet from Inslogic/Sunlu takes a gentler approach to drying spools to solve stringy 3D prints. The post FilaDC i10 Cabinet Dries Filament in the Background appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "The FilaDC i10 filament dehumidifying cabinet from Inslogic/Sunlu takes a gentler approach to drying spools to solve stringy 3D prints. The post FilaDC i10 Cabinet Dries Filament in the Background appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/876742f6448edd05.jpg",
-        "alt": "FilaDC i10 Cabinet Dries Filament in the Background",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/digital-fabrication/3d-printing-workshop/filadc-i10-cabinet-dries-filament-in-the-background/",
-        "trustTier": "publication",
-        "author": "Lisa Rogers",
-        "date": "Fri, 18 Sep 2026 22:00:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "3d printing & imaging",
-        "digital fabrication",
-        "3d printing",
-        "filament",
-        "review"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:13.863Z",
-      "hash": "50ff91aea5ec9e94"
-    },
-    {
-      "id": "quote:45df83afb15b7e62",
-      "type": "quote",
-      "title": "“Until we can manage time, we can manage nothing else.”",
-      "summary": "— Peter Drucker",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Peter_Drucker",
-        "trustTier": "community",
-        "author": "Peter Drucker"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:22:10.401Z",
-      "hash": "45df83afb15b7e62"
-    },
-    {
-      "id": "quote:e4cb2910fc2b076e",
-      "type": "quote",
-      "title": "“Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.”",
-      "summary": "— Kabir",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Kabir",
-        "trustTier": "community",
-        "author": "Kabir"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:22:10.401Z",
-      "hash": "e4cb2910fc2b076e"
-    },
-    {
-      "id": "quote:861df34af79c8aa2",
-      "type": "quote",
-      "title": "“Creativity is the greatest rebellion in existence.”",
-      "summary": "— Osho",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Osho",
-        "trustTier": "community",
-        "author": "Osho"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:22:10.401Z",
-      "hash": "861df34af79c8aa2"
-    },
-    {
-      "id": "article:b13d67cd37826f35",
-      "type": "article",
-      "title": "The Criterion Channel’s October 2026 Lineup",
-      "summary": "Channel Calendars This October, hitch a ride to the heart of terror: our Halloween programming includes a full-throttle tour of cinema’s scariest road movies, an anthology of TV-movie nightmares, and collections built around our fears of sinister intruders and mysterious possessive forces. There’s…",
-      "body": "Channel Calendars This October, hitch a ride to the heart of terror: our Halloween programming includes a full-throttle tour of cinema’s scariest road movies, an anthology of TV-movie nightmares, and collections built around our fears of sinister intruders and mysterious possessive forces. There’s so much more to choose from this month, including the films of contemporary Japanese master Kiyoshi Kurosawa, Marc Maron’s Adventures in Moviegoing, selections from the landmark box set The Complete Kubrick, transgressive cult favorites from Bruce LaBruce, and the riveting anime series Terror in…",
-      "image": {
-        "src": "data/images/9cea5a6b7ae13af7.jpg",
-        "alt": "The Criterion Channel’s October 2026 Lineup",
-        "credit": "The Current (Criterion)"
-      },
-      "source": {
-        "name": "The Current (Criterion)",
-        "url": "https://www.criterion.com/current/posts/9279-the-criterion-channel-s-october-2026-lineup",
-        "trustTier": "publication",
-        "date": "Thu, 17 Sep 2026 06:33:0"
-      },
-      "tags": [
-        "film",
-        "essay",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:07.642Z",
-      "hash": "b13d67cd37826f35"
-    },
-    {
-      "id": "article:4e49d30ecaae9ff9",
-      "type": "article",
-      "title": "Memorial Service for Victor Mair",
-      "summary": "A memorial service for Victor Mair will be held at Swarthmore Friends Meeting (12 Whittier Place, Swarthmore, Pennsylvania) on the afternoon of Saturday, October 10, between 2:00 and 5:00.",
-      "body": "A memorial service for Victor Mair will be held at Swarthmore Friends Meeting (12 Whittier Place, Swarthmore, Pennsylvania) on the afternoon of Saturday, October 10, between 2:00 and 5:00.",
-      "image": {
-        "src": "data/images/c6cccebd18d247f2.jpg",
-        "alt": "Memorial Service for Victor Mair",
-        "credit": "Language Log"
-      },
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74240&utm_source=rss&utm_medium=rss&utm_campaign=memorial-service-for-victor-mair",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Thu, 17 Sep 2026 14:40:5"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "announcements"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:05.414Z",
-      "hash": "4e49d30ecaae9ff9"
-    },
-    {
-      "id": "article:48921c3edc876e5a",
-      "type": "article",
-      "title": "The Stoic Key to Living with Presence: Seneca on Time Spent vs. Saved vs. Wasted",
-      "summary": "\"Lay hold of to-day’s task, and you will not need to depend so much upon to-morrow’s. While we are postponing, life speeds by. Nothing... is ours, except time.\"",
-      "body": "\"Lay hold of to-day’s task, and you will not need to depend so much upon to-morrow’s. While we are postponing, life speeds by. Nothing... is ours, except time.\"",
-      "image": {
-        "src": "data/images/8c9e0086d1155d9b.jpg",
-        "alt": "The Stoic Key to Living with Presence: Seneca on Time Spent vs. Saved vs. Wasted",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/09/18/seneca-letter-1-time/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Fri, 18 Sep 2026 15:23:4"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "psychology",
-        "books",
-        "seneca"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:02.770Z",
-      "hash": "48921c3edc876e5a"
-    },
-    {
-      "id": "article:a3785ea5fc7c1f27",
-      "type": "article",
-      "title": "A Bard Reviews Nolan’s Odyssey",
-      "summary": "Note: We took some time off after an extreme summer, but will start posts up again with this return to the Odysscene. I can’t believe I’m saying this, but I took life advice from Agamemnon. In Christopher Nolan’s movie adaptation of Homer’s Odyssey, the shade of Agamemnon appears to Odysseus in…",
-      "body": "Note: We took some time off after an extreme summer, but will start posts up again with this return to the Odysscene. I can’t believe I’m saying this, but I took life advice from Agamemnon. In Christopher Nolan’s movie adaptation of Homer’s Odyssey, the shade of Agamemnon appears to Odysseus in the Underworld and imparts … Continue reading A Bard Reviews Nolan’s Odyssey",
-      "image": {
-        "src": "data/images/41729006a2443b77.jpg",
-        "alt": "A Bard Reviews Nolan’s Odyssey",
-        "credit": "Sententiae Antiquae"
-      },
-      "source": {
-        "name": "Sententiae Antiquae",
-        "url": "https://sententiaeantiquae.com/2026/09/18/a-bard-reviews-nolans-odyssey/",
-        "trustTier": "community",
-        "author": "joegoodkin",
-        "date": "Fri, 18 Sep 2026 16:39:0"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:02.117Z",
-      "hash": "a3785ea5fc7c1f27"
-    },
-    {
-      "id": "article:cf5b2489a69055e1",
-      "type": "article",
-      "title": "Old Sagiada in Greece",
-      "summary": "The town of Old Sagiada was burned and looted in the Second World War by the German occupiers and local Muslims after the inhabitants fled. The abandoned houses are fascinating since many of the walls are still standing, showing a glimpse of the original architecture. Nature has completely…",
-      "body": "The town of Old Sagiada was burned and looted in the Second World War by the German occupiers and local Muslims after the inhabitants fled. The abandoned houses are fascinating since many of the walls are still standing, showing a glimpse of the original architecture. Nature has completely overtaken most of the town, with trees growing inside many of the ruins. The church is still mostly intact. Inside, you can still see some frescoes. Outside the church hangs a cool bell, which can probably be heard from quite far, which is great if you want to wake some lazy tourists sleeping on the…",
-      "image": {
-        "src": "data/images/780982f549e2e722.jpg",
-        "alt": "Old Sagiada in Greece",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/old-sagiada",
-        "trustTier": "publication",
-        "date": "Fri, 18 Sep 2026 14:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "ghost towns",
-        "abandoned"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:01.997Z",
-      "hash": "cf5b2489a69055e1"
-    },
-    {
-      "id": "article:a197c63d2f8c4180",
-      "type": "article",
-      "title": "The Mack Truck Museum in Allentown, Pennsylvania",
-      "summary": "The Mack Museum was created in 1984 and commemorates Mack history through preserving truck build records, service and parts information, engineering drawings, photos, memorabilia and a collection of vintage Mack truck models. After being founded in Brooklyn, New York in 1900, the Mack Brothers…",
-      "body": "The Mack Museum was created in 1984 and commemorates Mack history through preserving truck build records, service and parts information, engineering drawings, photos, memorabilia and a collection of vintage Mack truck models. After being founded in Brooklyn, New York in 1900, the Mack Brothers Motor Company registered in Lehigh County, in Allentown PA. They kept the headquarters in Allentown for over 100 years until they moved it to North Carolina in 2009. Some of the highlights of the museum include the original and iconic bulldog, Mack, who is the mascot, the 1909 Mack Brothers Bus, the…",
-      "image": {
-        "src": "data/images/4a8f008b0dac069d.webp",
-        "alt": "The Mack Truck Museum in Allentown, Pennsylvania",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/the-mack-truck-museum",
-        "trustTier": "publication",
-        "date": "Fri, 18 Sep 2026 16:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "cars",
-        "trucks",
-        "museums"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:01.997Z",
-      "hash": "a197c63d2f8c4180"
-    },
-    {
-      "id": "article:095ce34156fd5c77",
-      "type": "article",
-      "title": "Critical theory can be used to convey sophistication — but when it goes wrong, the whiff of pretension and arrogance is unmistakable",
-      "summary": "Critical theory can be used to convey sophistication — but when it goes wrong, the whiff of pretension and arrogance is unmistakable",
-      "body": "Critical theory can be used to convey sophistication — but when it goes wrong, the whiff of pretension and arrogance is unmistakable",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://hedgehogreview.com/web-features/thr/posts/slouching-toward-paris",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:01.521Z",
-      "hash": "095ce34156fd5c77"
-    },
-    {
-      "id": "article:81079548693c11cc",
-      "type": "article",
-      "title": "Internet diffusion and religious decline?",
-      "summary": "Using a panel of 81 countries across six World Values Survey waves (1990–2022), we examine whether growth in internet diffusion is associated with religious decline. We construct a six-item composite religiosity index, align annual macro series to wave periods, and estimate country fixed-effects…",
-      "body": "Using a panel of 81 countries across six World Values Survey waves (1990–2022), we examine whether growth in internet diffusion is associated with religious decline. We construct a six-item composite religiosity index, align annual macro series to wave periods, and estimate country fixed-effects models with one-wave lags and a broad set of modernization, demographic, welfare-state, […] The post Internet diffusion and religious decline? appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Sat, 19 Sep 2026 06:22:3"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "data source",
-        "religion",
-        "web/tech"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:00.613Z",
-      "hash": "81079548693c11cc"
-    },
-    {
-      "id": "article:c012600cd41c0cbf",
-      "type": "article",
-      "title": "The Age of Wonders and Terrors",
-      "summary": "Scott Aaranson, theoretical computer scientist writes: My position on AI is merely the conservative, skeptical position of 2006, updated with intellectual honesty for the reality of late 2026. And that position, if you need me to spell it out, is as follows:…",
-      "body": "Scott Aaranson, theoretical computer scientist writes: My position on AI is merely the conservative, skeptical position of 2006, updated with intellectual honesty for the reality of late 2026. And that position, if you need me to spell it out, is as follows: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA It seems to me that the Singularity has already started; […] The post The Age of Wonders and Terrors appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html?utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-wonders-and-terrors",
-        "trustTier": "community",
-        "author": "Alex Tabarrok",
-        "date": "Sat, 19 Sep 2026 11:17:1"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "current affairs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:00.612Z",
-      "hash": "c012600cd41c0cbf"
-    },
-    {
-      "id": "article:cb8bef0fdf296175",
-      "type": "article",
-      "title": "It’s “A Cat-astrophe”! (1919)",
-      "summary": "“A Cat-astrophe” came on the tail end of an odd 1918 boom in cat-themed music.",
-      "body": "“A Cat-astrophe” came on the tail end of an odd 1918 boom in cat-themed music.",
-      "image": {
-        "src": "data/images/7822374f5f949409.jpg",
-        "alt": "It’s “A Cat-astrophe”! (1919)",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/collection/cat-astrophe",
-        "trustTier": "publication",
-        "date": "Tue, 15 Sep 2026 17:46:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:22:00.516Z",
-      "hash": "cb8bef0fdf296175"
-    },
-    {
-      "id": "greek:6f6f3d5338ff7a99",
-      "type": "greek",
-      "title": "πρός",
-      "summary": "πρός — “to, toward, with” · preposition",
-      "body": "Note: takes accusative (usually); \"with\" in sense of \"in the presence of\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CF%80%CF%81%CF%8C%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "preposition",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-19T12:21:58.978Z",
-      "hash": "6f6f3d5338ff7a99"
-    },
-    {
-      "id": "poetry:716d24356c08e7d9",
-      "type": "poem",
-      "title": "On the Death of the Rev. Dr. Sewell",
-      "summary": "Ere yet the morn its lovely blushes spread,\nSee Sewell number'd with the happy dead.\nHail, holy man, arriv'd th' immortal shore,\nThough we shall hear thy warning voice no more.",
-      "body": "Ere yet the morn its lovely blushes spread,\nSee Sewell number'd with the happy dead.\nHail, holy man, arriv'd th' immortal shore,\nThough we shall hear thy warning voice no more.\nCome, let us all behold with wishful eyes\nThe saint ascending to his native skies;\nFrom hence the prophet wing'd his rapt'rous way\nTo the blest mansions in eternal day.\nThen begging for the Spirit of our God,\n\nAnd panting eager for the same abode,\nCome, let us all with the same vigour rise,\nAnd take a prospect of the blissful skies;\nWhile on our minds Christ's image is imprest,\nAnd the dear Saviour glows in ev'ry breast.\nThrice happy faint! to find thy heav'n at last,\nWhat compensation for the evils past!\nGreat God, incomprehensible, unknown\nBy sense, we bow at thine exalted throne.\nO, while we beg thine excellence to feel,\n\nThy sacred Spirit to our hearts reveal,\nAnd give us of that mercy to partake,\nWhich thou hast promis'd for the Saviour's sake!\n\"Sewell is dead.\" Swift-pinion'd Fame thus cry'd.\n\"Is Sewell dead,\" my trembling tongue reply'd,\nO what a blessing in his flight deny'd!\nHow oft for us the holy prophet pray'd!\nHow oft to us the Word of Life convey'd!\nBy duty urg'd my mournful verse to close,\nI for his tomb this epitaph compose.\n\n\"Lo, here a man, redeem'd by Jesus's blood,\n\"A sinner once, but now a saint with God;\n\"Behold ye rich, ye poor, ye fools, ye wise,\n\"Not let his monument your heart surprise;\n\"Twill tell you what this holy man has done,\n\"Which gives him brighter lustre than the sun.\n\"Listen, ye happy, from your seats above.\n\"I speak sincerely, while I speak and love,\n\"He sought the paths of piety and truth,\n\"By these made happy from his early youth;\n\n\"In blooming years that grace divine he felt,\n\"Which rescues sinners from the chains of guilt.\n\"Mourn him, ye indigent, whom he has fed,\n\"And henceforth seek, like him, for living bread;\n\"Ev'n Christ, the bread descending from above,\n\"And ask an int'rest in his saving love.\n\"Mourn him, ye youth, to whom he oft has told\n\"God's gracious wonders from the times of old.\n\"I too have cause this mighty loss to mourn,\n\"For he my monitor will not return.\n\n\"O when shall we to his blest state arrive?\n\"When the same graces in our bosoms thrive.\"",
-      "source": {
-        "name": "Phillis Wheatley · PoetryDB",
-        "url": "https://poetrydb.org/title/On%20the%20Death%20of%20the%20Rev.%20Dr.%20Sewell",
-        "trustTier": "community",
-        "author": "Phillis Wheatley"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:21:58.977Z",
-      "hash": "716d24356c08e7d9"
-    },
-    {
-      "id": "poetry:8564074b6a68652c",
-      "type": "poem",
-      "title": "Oh! Think Not My Spirits Are Always As Light",
-      "summary": "Oh! think not my spirits are always as light,\nAnd as free from a pang as they seem to you now,\nNor expect that the heart-beaming smile of to-night\nWill return with to-morrow to brighten my brow.",
-      "body": "Oh! think not my spirits are always as light,\nAnd as free from a pang as they seem to you now,\nNor expect that the heart-beaming smile of to-night\nWill return with to-morrow to brighten my brow.\nNo: -- life is a waste of wearisome hours,\nWhich seldom the rose of enjoyment adorns;\nAnd the heart that is soonest awake to the flowers,\nIs always the first to be touch'd by the thorns.\nBut send round the bowl, and be happy awhile --\nMay we never meet worse, in our pilgrimage here,\nThan the tear that enjoyment may gild with a smile,\nAnd the smile that compassion can turn to a tear.\n\nThe thread of our life would be dark, Heaven knows\nIf it were not with friendship and love intertwined;\nAnd I care not how soon I may sink to repose,\nWhen these blessing shall cease to be dear to my mind.\nBut they who have loved the fondest, the purest,\nToo often have wept o'er the dream they believed;\nAnd the heart that has slumber'd in friendship securest\nIs happy indeed if 'twas never deceived.\nBut send round the bowl; while a relic of truth\nIs in man or in woman, this prayer shall be mine, --\nThat the sunshine of love may illumine our youth,\nAnd the moonlight of friendship console our decline.",
-      "source": {
-        "name": "Thomas Moore · PoetryDB",
-        "url": "https://poetrydb.org/title/Oh!%20Think%20Not%20My%20Spirits%20Are%20Always%20As%20Light",
-        "trustTier": "community",
-        "author": "Thomas Moore"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-19T12:21:58.977Z",
-      "hash": "8564074b6a68652c"
-    },
-    {
-      "id": "art:si:ld1-1643407787750-1643407817506-1",
-      "type": "art",
-      "title": "Primulina 'Moon Walker'",
-      "summary": "NMNH - Botany Dept. · 1990s",
-      "body": "NMNH - Botany Dept.\n1990s",
-      "image": {
-        "src": "data/images/d82724df805e2725.jpg",
-        "alt": "Primulina 'Moon Walker'",
-        "credit": "NMNH - Botany Dept. · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/3d0ec32a4-6b06-4cc5-a1ee-ca65efa220c1",
-        "trustTier": "encyclopedic",
-        "date": "1990s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-19T12:21:58.283Z",
-      "hash": "a6c823ff5791ec4a"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399893884-0",
-      "type": "art",
-      "title": "Full Moon in a Cloudy Sky",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1880s · Drawings",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1880s · Drawings",
-      "image": {
-        "src": "data/images/e281ded9d984c430.jpg",
-        "alt": "Full Moon in a Cloudy Sky",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/22169",
-        "trustTier": "encyclopedic",
-        "date": "1880s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-19T12:21:58.283Z",
-      "hash": "8c591eaafc9d7439"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399893757-0",
-      "type": "art",
-      "title": "Clayton's Ascent",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1830s · Bandboxes (containers)",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1830s · Bandboxes (containers)",
-      "image": {
-        "src": "data/images/2fb2783262c22c05.jpg",
-        "alt": "Clayton's Ascent",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/21896",
-        "trustTier": "encyclopedic",
-        "date": "1830s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon",
-        "bandboxes (containers)"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-19T12:21:58.283Z",
-      "hash": "539512d8997b30fb"
-    },
-    {
-      "id": "met:459775",
-      "type": "art",
-      "title": "Portrait medal of Vittorino Rambaldoni da Feltre (obverse); A Pelican (reverse)",
-      "summary": "Pisanello (Antonio Pisano) · model 1446–47 (possibly cast 15th or 16th century) · Bronze (yellowish copper alloy with brown patina and traces of black lacquer or wax)",
-      "body": "Pisanello (Antonio Pisano) · model 1446–47 (possibly cast 15th or 16th century) · Bronze (yellowish copper alloy with brown patina and traces of black lacquer or wax)\nRobert Lehman Collection, 1975\nRobert Lehman Collection",
-      "image": {
-        "src": "data/images/5ad5d9d503de4ccd.jpg",
-        "alt": "Portrait medal of Vittorino Rambaldoni da Feltre (obverse); A Pelican (reverse)",
-        "credit": "The Met · Robert Lehman Collection, 1975"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/459775",
-        "trustTier": "encyclopedic",
-        "author": "Pisanello (Antonio Pisano)",
-        "date": "model 1446–47 (possibly cast 15th or 16th century)"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "sunflower",
-        "medals"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-19T12:21:57.158Z",
-      "hash": "f2b69308bd305ee0"
-    },
-    {
-      "id": "met:437984",
-      "type": "art",
-      "title": "La Berceuse (Woman Rocking a Cradle; Augustine-Alix Pellicot Roulin, 1851–1930)",
-      "summary": "Vincent van Gogh · 1889 · Oil on canvas",
-      "body": "Vincent van Gogh · 1889 · Oil on canvas\nThe Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1996, Bequest of Walter H. Annenberg, 2002\nEuropean Paintings",
-      "image": {
-        "src": "data/images/e6cdabaaefd38eb8.jpg",
-        "alt": "La Berceuse (Woman Rocking a Cradle; Augustine-Alix Pellicot Roulin, 1851–1930)",
-        "credit": "The Met · The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1996, Bequest of Walter H. Annenberg, 2002"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/437984",
-        "trustTier": "encyclopedic",
-        "author": "Vincent van Gogh",
-        "date": "1889"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "sunflower",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-19T12:21:56.839Z",
-      "hash": "5b2e57073c4304e0"
-    },
-    {
-      "id": "met:705155",
-      "type": "art",
-      "title": "Fan Design with Cats and Sunflowers",
-      "summary": "Henri Charles Guérard · ca. 1885–90 · Pen and black ink over black chalk or graphite, gouache and gold leaf on prepared (stiffened) patterned silk",
-      "body": "Henri Charles Guérard · ca. 1885–90 · Pen and black ink over black chalk or graphite, gouache and gold leaf on prepared (stiffened) patterned silk\nGift of Robert Tuggle and Paul Jeromack, 2015\nDrawings and Prints",
-      "image": {
-        "src": "data/images/75a35ff8643e35a2.jpg",
-        "alt": "Fan Design with Cats and Sunflowers",
-        "credit": "The Met · Gift of Robert Tuggle and Paul Jeromack, 2015"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/705155",
-        "trustTier": "encyclopedic",
-        "author": "Henri Charles Guérard",
-        "date": "ca. 1885–90"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "sunflower",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-19T12:21:56.415Z",
-      "hash": "950b8e8409919393"
-    },
-    {
-      "id": "apod:2014-01-26",
-      "type": "space",
-      "title": "Sunspot Loops in Ultraviolet",
-      "summary": "It was a quiet day on the Sun. The above image shows, however, that even during off days the Sun's surface is a busy place. Shown in ultraviolet light, the relatively cool dark regions have temperatures of thousands of degrees Celsius. Large sunspot group AR 9169 from the last solar cycle is visible as the bright…",
-      "body": "It was a quiet day on the Sun. The above image shows, however, that even during off days the Sun's surface is a busy place. Shown in ultraviolet light, the relatively cool dark regions have temperatures of thousands of degrees Celsius. Large sunspot group AR 9169 from the last solar cycle is visible as the bright area near the horizon. The bright glowing gas flowing around the sunspots has a temperature of over one million degrees Celsius. The reason for the high temperatures is unknown but thought to be related to the rapidly changing magnetic field loops that channel solar plasma. Large sunspot group AR 9169 moved across the Sun during 2000 September and decayed in a few weeks.",
-      "image": {
-        "src": "data/images/0af3b0805980fb2d.jpg",
-        "alt": "Sunspot Loops in Ultraviolet",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap140126.html",
-        "trustTier": "encyclopedic",
-        "date": "2014-01-26"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:56.103Z",
-      "hash": "e623cbc8b314a255"
-    },
-    {
-      "id": "apod:2001-04-17",
-      "type": "space",
-      "title": "Colorful Water Clouds Over Mars",
-      "summary": "One place where water can be found on Mars is in clouds. In the above picture colorful water clouds are visible just after sunrise in and around a maze of canyons known as Noctis Labyrinthus (the labyrinth of the night). Scientists don't yet know, however, why these clouds formed, and why some stick to the canyons.…",
-      "body": "One place where water can be found on Mars is in clouds. In the above picture colorful water clouds are visible just after sunrise in and around a maze of canyons known as Noctis Labyrinthus (the labyrinth of the night). Scientists don't yet know, however, why these clouds formed, and why some stick to the canyons. One exciting possibility is that water sometimes condenses in shaded regions of the canyons, only to evaporate into clouds when exposed to the morning Sun. Water in any form on the Martian surface might be important to sustaining life and possible future human exploration. Viking Orbiter 1, which visited Mars in 1976, took the above picture. The region shown is about 100 kilometers across.",
-      "image": {
-        "src": "data/images/0fb01fe50baa62e1.jpg",
-        "alt": "Colorful Water Clouds Over Mars",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap010417.html",
-        "trustTier": "encyclopedic",
-        "date": "2001-04-17"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:56.103Z",
-      "hash": "c66b3ec08c21469f"
-    },
-    {
-      "id": "apod:2024-11-20",
-      "type": "space",
-      "title": "Earthset from Orion",
-      "summary": "ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to…",
-      "body": "ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Orion entered its distant retrograde orbit on November 25. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is scheduled to launch no earlier than September 2025.",
-      "image": {
-        "src": "data/images/48147e7bc403a577.png",
-        "alt": "Earthset from Orion",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap241120.html",
-        "trustTier": "encyclopedic",
-        "date": "2024-11-20"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:56.103Z",
-      "hash": "dd7a9a668b3bea5e"
-    },
-    {
-      "id": "apod:1998-04-12",
-      "type": "space",
-      "title": "Stars from Eagle's EGGs",
-      "summary": "Newborn stars are forming in the Eagle Nebula. This image, taken with the Hubble Space Telescope in 1995, shows evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust. The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form…",
-      "body": "Newborn stars are forming in the Eagle Nebula. This image, taken with the Hubble Space Telescope in 1995, shows evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust. The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars. At each pillars' end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed. The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.",
-      "image": {
-        "src": "data/images/201aa305bc0f60e0.jpg",
-        "alt": "Stars from Eagle's EGGs",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap980412.html",
-        "trustTier": "encyclopedic",
-        "date": "1998-04-12"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:56.103Z",
-      "hash": "059697c990223986"
-    },
-    {
-      "id": "onthisday:09-19:1970:ae980675118c9901",
-      "type": "history",
-      "title": "1970: Kostas Georgakis",
-      "summary": "Greek student Kostas Georgakis set himself on fire in Genoa, Italy, as a protest against the military junta of Georgios Papadopoulos.",
-      "body": "Greek student Kostas Georgakis set himself on fire in Genoa, Italy, as a protest against the military junta of Georgios Papadopoulos.",
-      "image": {
-        "src": "data/images/9c2eaa60561f76cc.jpg",
-        "alt": "Kostas Georgakis",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Kostas_Georgakis",
-        "trustTier": "encyclopedic",
-        "date": "09-19"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:55.165Z",
-      "hash": "15bbe7526f2ee765",
-      "expires": "2026-09-22T12:21:55.165Z"
-    },
-    {
-      "id": "onthisday:09-19:1989:7a0de2b0b5c4f95b",
-      "type": "history",
-      "title": "1989: UTA Flight 772",
-      "summary": "UTA Flight 772 was bombed up over Niger by the Libyan government while flying from Chad to France, killing all 170 people on board.",
-      "body": "UTA Flight 772 was bombed up over Niger by the Libyan government while flying from Chad to France, killing all 170 people on board.",
-      "image": {
-        "src": "data/images/a00b7f3cbac81803.jpg",
-        "alt": "UTA Flight 772",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/UTA_Flight_772",
-        "trustTier": "encyclopedic",
-        "date": "09-19"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:55.165Z",
-      "hash": "8c40949e75705706",
-      "expires": "2026-09-22T12:21:55.165Z"
-    },
-    {
-      "id": "onthisday:09-19:1940:d89f7d1e5015178d",
-      "type": "history",
-      "title": "1940: World War II",
-      "summary": "World War II: Polish resistance leader Witold Pilecki allowed himself to be captured by German forces and sent to Auschwitz to gather intelligence.",
-      "body": "World War II: Polish resistance leader Witold Pilecki allowed himself to be captured by German forces and sent to Auschwitz to gather intelligence.",
-      "image": {
-        "src": "data/images/70964c7afc601aa9.jpg",
-        "alt": "World War II",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/World_War_II",
-        "trustTier": "encyclopedic",
-        "date": "09-19"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:55.165Z",
-      "hash": "15ee507fbb82acb3",
-      "expires": "2026-09-22T12:21:55.165Z"
-    },
-    {
-      "id": "wikipedia:14212744",
-      "type": "wiki",
-      "title": "Alanine racemase",
-      "summary": "In enzymology, an alanine racemase is an enzyme that catalyzes the chemical reactionL-alanine D-alanine",
-      "body": "In enzymology, an alanine racemase is an enzyme that catalyzes the chemical reactionL-alanine D-alanine",
-      "image": {
-        "src": "data/images/2dd117a5209e5cc1.jpg",
-        "alt": "Alanine racemase",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Alanine_racemase",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:54.048Z",
-      "hash": "95981d83cc3f189c"
-    },
-    {
-      "id": "wikipedia:22583811",
-      "type": "wiki",
-      "title": "Tanah Merah railway station",
-      "summary": "The Tanah Merah railway station is a Malaysian railway station located in the Tanah Merah District of the state of Kelantan, Malaysia. It is on Keretapi Tanah Melayu's East Coast Line.",
-      "body": "The Tanah Merah railway station is a Malaysian railway station located in the Tanah Merah District of the state of Kelantan, Malaysia. It is on Keretapi Tanah Melayu's East Coast Line.",
-      "image": {
-        "src": "data/images/ee63172ae3c3e643.jpg",
-        "alt": "Tanah Merah railway station",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tanah_Merah_railway_station",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:53.772Z",
-      "hash": "4d357cc2a33109c6"
-    },
-    {
-      "id": "wikipedia:55122683",
-      "type": "wiki",
-      "title": "Mike De Decker",
-      "summary": "Mike De Decker is a Belgian professional darts player who competes in Professional Darts Corporation (PDC) events. Nicknamed \"the Real Deal\", he won his first major title at the 2024 World Grand Prix, defeating Luke Humphries 6–4 in the final. He won his first PDC Pro Tour title at Players Championship 16 in 2024. He…",
-      "body": "Mike De Decker is a Belgian professional darts player who competes in Professional Darts Corporation (PDC) events. Nicknamed \"the Real Deal\", he won his first major title at the 2024 World Grand Prix, defeating Luke Humphries 6–4 in the final. He won his first PDC Pro Tour title at Players Championship 16 in 2024. He finished as runner-up at the 2025 Belgian Darts Open on the PDC European Tour, as well as at the 2025 Australian Darts Masters on the World Series of Darts. He reached his second major quarter-final at the 2024 Players Championship Finals. In his youth career, De Decker won four PDC Development Tour titles.",
-      "image": {
-        "src": "data/images/ac2f6e1a5241e05b.png",
-        "alt": "Mike De Decker",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Mike_De_Decker",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:53.471Z",
-      "hash": "84d556004d362954"
-    },
-    {
-      "id": "wikipedia:25900312",
-      "type": "wiki",
-      "title": "Epagoge (moth)",
-      "summary": "Epagoge is a genus of moths belonging to the subfamily Tortricinae of the family Tortricidae. The genus was erected by Jacob Hübner in 1825.",
-      "body": "Epagoge is a genus of moths belonging to the subfamily Tortricinae of the family Tortricidae. The genus was erected by Jacob Hübner in 1825.",
-      "image": {
-        "src": "data/images/cea950feec56354c.jpg",
-        "alt": "Epagoge (moth)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Epagoge_(moth)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-19T12:21:53.102Z",
-      "hash": "ebdcd677a43c9c17"
     },
     {
       "id": "curated:handwriting-beats-typing",

@@ -1,7 +1,959 @@
 {
-  "generatedAt": "2026-10-03T13:11:37.174Z",
+  "generatedAt": "2026-10-04T13:50:10.382Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:ukijz",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1973. Find the best line for white.",
+      "body": "Solution, from → to: f8→f7, e7→d6, f7→d7. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "5R2/p3k1p1/3Np3/3qNp2/5K2/P3B3/r4P2/8 w - - 1 1",
+        "lastMove": "f6e7"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/ukijz",
+        "trustTier": "community",
+        "date": "Sun, 04 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "short",
+        "sacrifice",
+        "pillsburysmate",
+        "endgame"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-04T13:50:07.059Z",
+      "hash": "e40aee19a8e51e73"
+    },
+    {
+      "id": "trivia:85da4354ab870894",
+      "type": "trivia",
+      "title": "Which former boy-band star released hit solo single \"Angels\" in 1997?",
+      "summary": "Is it: Gary Barlow · Harry Styles · Robbie Williams · Justin Timberlake?",
+      "body": "Answer: Robbie Williams.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:50:04.084Z",
+      "hash": "85da4354ab870894"
+    },
+    {
+      "id": "trivia:ffe384d4105300fb",
+      "type": "trivia",
+      "title": "Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.",
+      "summary": "True — or false?",
+      "body": "Answer: True.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:50:04.084Z",
+      "hash": "ffe384d4105300fb"
+    },
+    {
+      "id": "trivia:4a1c6e49bf445ae0",
+      "type": "trivia",
+      "title": "Who is the youngest person to receive a Nobel Prize?",
+      "summary": "Is it: Lawrence Bragg · Werner Heisenberg · Yasser Arafat · Malala Yousafzai?",
+      "body": "Answer: Malala Yousafzai.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "general knowledge"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:50:04.084Z",
+      "hash": "4a1c6e49bf445ae0"
+    },
+    {
+      "id": "trivia:9e23bb25e98b9245",
+      "type": "trivia",
+      "title": "Who was the first American in space?",
+      "summary": "Is it: John Glenn · Alan Shephard · Jim Lovell · Neil Armstrong?",
+      "body": "Answer: Alan Shephard.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:50:04.084Z",
+      "hash": "9e23bb25e98b9245"
+    },
+    {
+      "id": "passage:gutenberg:43",
+      "type": "passage",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "summary": "Mr. Utterson the lawyer was a man of a rugged countenance that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable. At friendly meetings, and when the wine was to his taste, something eminently human beaconed from his eye; something indeed which never found its…",
+      "body": "Mr. Utterson the lawyer was a man of a rugged countenance that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable. At friendly meetings, and when the wine was to his taste, something eminently human beaconed from his eye; something indeed which never found its way into his talk, but which spoke not only in these silent symbols of the after-dinner face, but more often and loudly in the acts of his life. He was austere with himself; drank gin when he was alone, to mortify a taste for vintages; and though he enjoyed the theatre, had not crossed the doors of one for twenty years. But he had an…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/43",
+        "trustTier": "publication",
+        "author": "Robert Louis Stevenson",
+        "date": "1886"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "gothic",
+        "mystery"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:50:03.853Z",
+      "hash": "70558e6170fa769a"
+    },
+    {
+      "id": "comic:smbc:e567c0a8e11eac42",
+      "type": "comic",
+      "title": "Specify",
+      "summary": "All these jokes about how it's hard to operationalize good values are gonna be really funny when the T-1000s start rolling out.",
+      "image": {
+        "src": "data/images/991e81d1de401cbd.png",
+        "alt": "All these jokes about how it's hard to operationalize good values are gonna be really funny when the T-1000s start rolling out.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/specify",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 03 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-04T13:50:03.006Z",
+      "hash": "e567c0a8e11eac42"
+    },
+    {
+      "id": "comic:xkcd:3050",
+      "type": "comic",
+      "title": "Atom",
+      "summary": "What's weirder is that muons turned out to be INCREDIBLY cute.",
+      "image": {
+        "src": "data/images/7d535aae84734029.png",
+        "alt": "What's weirder is that muons turned out to be INCREDIBLY cute.",
+        "credit": "xkcd #3050 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3050/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2025-02-12"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-04T13:50:01.354Z",
+      "hash": "dca7a4f226a75892"
+    },
+    {
+      "id": "craft:f3ddb271cfddd85e",
+      "type": "craft",
+      "title": "Gaia Alari’s Lilting Animations are Drawn Frame by Frame",
+      "summary": "Meandering botanical forms, gestural dancing, and sweeping birds converge into fluid loops.",
+      "body": "Meandering botanical forms, gestural dancing, and sweeping birds converge into fluid loops.",
+      "image": {
+        "src": "data/images/c1e4780bfabe3ca1.gif",
+        "alt": "Gaia Alari’s Lilting Animations are Drawn Frame by Frame",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/gaia-alari-animation/",
+        "trustTier": "publication",
+        "author": "Jackie Andres",
+        "date": "Fri, 02 Oct 2026 19:00:0"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "animation",
+        "drawing",
+        "gaia alari",
+        "music",
+        "video"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-04T13:50:00.726Z",
+      "hash": "f3ddb271cfddd85e"
+    },
+    {
+      "id": "word:3d01476289dfe66b",
+      "type": "word",
+      "title": "ephemeral",
+      "summary": "Adjective: Lasting for a short period of time.",
+      "body": "1. Lasting for a short period of time.\n2. Existing for only one day, as with some flowers, insects, and diseases.\n3. Usually dry, but filling with water for brief periods during and after precipitation.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/ephemeral",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Adjective"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:59.638Z",
+      "hash": "3d01476289dfe66b"
+    },
+    {
+      "id": "quote:b05774dda80982d1",
+      "type": "quote",
+      "title": "“Optimism, when applied to your life, develops strength and peace within you.”",
+      "summary": "— Norman Vincent Peale",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Norman_Vincent_Peale",
+        "trustTier": "community",
+        "author": "Norman Vincent Peale"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:59.079Z",
+      "hash": "b05774dda80982d1"
+    },
+    {
+      "id": "quote:0bfeca222d3855f2",
+      "type": "quote",
+      "title": "“Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.”",
+      "summary": "— Alexander Graham Bell",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alexander_Graham_Bell",
+        "trustTier": "community",
+        "author": "Alexander Graham Bell"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:59.079Z",
+      "hash": "0bfeca222d3855f2"
+    },
+    {
+      "id": "quote:fb0bd85b387d43d7",
+      "type": "quote",
+      "title": "“Making your mark on the world is hard. If it were easy, everybody would do it.”",
+      "summary": "— Barack Obama",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Barack_Obama",
+        "trustTier": "community",
+        "author": "Barack Obama"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:59.079Z",
+      "hash": "fb0bd85b387d43d7"
+    },
+    {
+      "id": "article:e894bf9a3625dddd",
+      "type": "article",
+      "title": "Rediscovering the Handcart",
+      "summary": "Image: The handcart, equipped with a sail. Photo by Kris De Decker. The human-powered handcart is the oldest of vehicles, and it will likely be the last one around in the future. Of all vehicles, it&rsquo;s the cheapest and least complex to build and use. It offers a large advantage over carrying…",
+      "body": "Image: The handcart, equipped with a sail. Photo by Kris De Decker. The human-powered handcart is the oldest of vehicles, and it will likely be the last one around in the future. Of all vehicles, it&rsquo;s the cheapest and least complex to build and use. It offers a large advantage over carrying a load on your back or dragging it over the ground - the even older concept of the sled. On the other hand, the handcart is cheaper and easier to use than the animal-powered cart. Oxen and donkeys eat more than humans, and they have their own will, which can work against the driver. Like any other…",
+      "image": {
+        "src": "data/images/6d17c143b8bb92d4.png",
+        "alt": "Rediscovering the Handcart",
+        "credit": "Low-Tech Magazine"
+      },
+      "source": {
+        "name": "Low-Tech Magazine",
+        "url": "https://solar.lowtechmagazine.com/2026/04/rediscovering-the-handcart/",
+        "trustTier": "publication",
+        "date": "Wed, 22 Apr 2026 00:00:0"
+      },
+      "tags": [
+        "technology",
+        "sustainability",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-04T13:49:55.744Z",
+      "hash": "e894bf9a3625dddd"
+    },
+    {
+      "id": "article:6c50602374636635",
+      "type": "article",
+      "title": "How Sugar from Outer Space Became One of the Backbones of Life on Earth",
+      "summary": "Is there life elsewhere, or is Earth unique in the universe? This is one of humanity’s great unanswered questions. One way to approach this mystery is to investigate how life began here on Earth. Our research explores the conditions where a mixture of molecules somehow transformed from chemistry…",
+      "body": "Is there life elsewhere, or is Earth unique in the universe? This is one of humanity’s great unanswered questions. One way to approach this mystery is to investigate how life began here on Earth. Our research explores the conditions where a mixture of molecules somehow transformed from chemistry into biology. In a new study published in Scientific Reports, we shed new light on one possible step in this process: how a fragile sugar from outer space may have helped create the conditions for its own survival on Earth, where it eventually became the backbone of one of life’s most important…",
+      "image": {
+        "src": "data/images/7946eb7b33cdbf17.jpg",
+        "alt": "How Sugar from Outer Space Became One of the Backbones of Life on Earth",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/how-sugar-from-outer-space-became-one-of-the-backbones-of-life-on-earth-1285504/",
+        "trustTier": "publication",
+        "author": "Martin Van Kranendonk",
+        "date": "Sat, 03 Oct 2026 16:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "geoscience"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-04T13:49:50.798Z",
+      "hash": "6c50602374636635"
+    },
+    {
+      "id": "article:95ee1b983cbac987",
+      "type": "article",
+      "title": "Caitlin Flanagan on the ‘Cornell 7’ and the Battle of the Sexes. Plus…",
+      "summary": "In today’s Weekend Press: Caitlin Flanagan on the ‘Cornell Seven.’ Taylor Swift, what went wrong? Marie Gluesenkamp Perez tells us there’s more than one way to be a Democrat. It’s time to read ‘East of Eden.’ And more!",
+      "body": "In today’s Weekend Press: Caitlin Flanagan on the ‘Cornell Seven.’ Taylor Swift, what went wrong? Marie Gluesenkamp Perez tells us there’s more than one way to be a Democrat. It’s time to read ‘East of Eden.’ And more!",
+      "image": {
+        "src": "data/images/888d644f78b25f8f.jpg",
+        "alt": "Caitlin Flanagan on the ‘Cornell 7’ and the Battle of the Sexes. Plus…",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/caitlin-flanagan-on-the-cornell-7",
+        "trustTier": "publication",
+        "author": "The Free Press",
+        "date": "Sat, 03 Oct 2026 10:03:2"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-04T13:49:50.093Z",
+      "hash": "95ee1b983cbac987",
+      "expires": "2026-11-03T13:49:50.093Z"
+    },
+    {
+      "id": "article:5f1e697775a71851",
+      "type": "article",
+      "title": "Caitlin Flanagan: What Was Jane Doe Looking For?",
+      "summary": "Women know that fraternity houses are dangerous places—and yet they go anyway, writes Caitlin Flanagan.",
+      "body": "Women know that fraternity houses are dangerous places—and yet they go anyway, writes Caitlin Flanagan.",
+      "image": {
+        "src": "data/images/fb8afd0b1e97980f.jpg",
+        "alt": "Caitlin Flanagan: What Was Jane Doe Looking For?",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/caitlin-flanagan-jane-doe-frat-parties-cornell",
+        "trustTier": "publication",
+        "author": "Caitlin Flanagan",
+        "date": "Sat, 03 Oct 2026 01:34:3"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-04T13:49:50.093Z",
+      "hash": "5f1e697775a71851",
+      "expires": "2026-11-03T13:49:50.093Z"
+    },
+    {
+      "id": "article:8a27ebe9aea58bdb",
+      "type": "article",
+      "title": "Does Costco Cause Cancer?",
+      "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers…",
+      "body": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers published an expanded nationwide study claiming a similar result—this time […] The post Does Costco Cause Cancer? appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=does-costco-cause-cancer",
+        "trustTier": "community",
+        "author": "Alex Tabarrok",
+        "date": "Sun, 04 Oct 2026 11:18:5"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "data source",
+        "food and drink",
+        "medicine"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-04T13:49:49.019Z",
+      "hash": "8a27ebe9aea58bdb"
+    },
+    {
+      "id": "article:9e9af5336bf030eb",
+      "type": "article",
+      "title": "“There is Nothing but Immortality!”: Walt Whitman and The Book of Heavenly Death (1905)",
+      "summary": "Choice excerpts from *Leaves of Grass* that speak to Whitman’s conception of immortality.",
+      "body": "Choice excerpts from *Leaves of Grass* that speak to Whitman’s conception of immortality.",
+      "image": {
+        "src": "data/images/9aed856576871506.jpg",
+        "alt": "“There is Nothing but Immortality!”: Walt Whitman and The Book of Heavenly Death (1905)",
+        "credit": "The Public Domain Review"
+      },
+      "source": {
+        "name": "The Public Domain Review",
+        "url": "https://publicdomainreview.org/collection/the-book-of-heavenly-death",
+        "trustTier": "publication",
+        "date": "Wed, 30 Sep 2026 15:51:0"
+      },
+      "tags": [
+        "essay",
+        "history",
+        "culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-04T13:49:48.926Z",
+      "hash": "9e9af5336bf030eb"
+    },
+    {
+      "id": "greek:074bd106f5f7a96a",
+      "type": "greek",
+      "title": "ἔχω",
+      "summary": "ἔχω — “I have” · verb",
+      "body": "Note: regular -ω verb; 3sg ἔχει\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%94%CF%87%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:48.251Z",
+      "hash": "074bd106f5f7a96a"
+    },
+    {
+      "id": "greek:0333963034ce697f",
+      "type": "greek",
+      "title": "ἀγάπη",
+      "summary": "ἀγάπη — “love” · noun",
+      "body": "Note: ἡ ἀγάπη\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%AC%CF%80%CE%B7#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_fem_1st"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:48.251Z",
+      "hash": "0333963034ce697f"
+    },
+    {
+      "id": "poetry:dabc0ff9e0ce1822",
+      "type": "poem",
+      "title": "Epitaph. Intended for Mr Rowe, in Westminster Abbey.",
+      "summary": "Thy relics, Rowe, to this fair urn we trust,\nAnd sacred place by Dryden's awful dust:\nBeneath a rude and nameless stone he lies,\nTo which thy tomb shall guide inquiring eyes.",
+      "body": "Thy relics, Rowe, to this fair urn we trust,\nAnd sacred place by Dryden's awful dust:\nBeneath a rude and nameless stone he lies,\nTo which thy tomb shall guide inquiring eyes.\nPeace to thy gentle shade, and endless rest!\nBlest in thy genius, in thy love, too, blest!\nOne grateful woman to thy fame supplies\nWhat a whole thankless land to his denies.",
+      "source": {
+        "name": "Alexander Pope · PoetryDB",
+        "url": "https://poetrydb.org/title/Epitaph.%20Intended%20for%20Mr%20Rowe%2C%20in%20Westminster%20Abbey.",
+        "trustTier": "community",
+        "author": "Alexander Pope"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-04T13:49:48.249Z",
+      "hash": "dabc0ff9e0ce1822"
+    },
+    {
+      "id": "poetry:ad091af9f1022c73",
+      "type": "poem",
+      "title": "Absalom and Achitophel",
+      "summary": "In pious times, ere priest-craft did begin,\nBefore polygamy was made a sin;\nWhen man, on many, multipli'd his kind,\nEre one to one was cursedly confin'd:",
+      "body": "In pious times, ere priest-craft did begin,\nBefore polygamy was made a sin;\nWhen man, on many, multipli'd his kind,\nEre one to one was cursedly confin'd:\nWhen Nature prompted, and no Law deni'd\nPromiscuous use of concubine and bride;\nThen, Israel's monarch, after Heaven's own heart,\nHis vigorous warmth did variously impart\nTo wives and slaves: and, wide as his command,\nScatter'd his Maker's image through the land.\nMichal, of royal blood, the crown did wear;\nA soil ungrateful to the tiller's care:\nNot so the rest; for several mothers bore\nTo god-like David, several sons before.\nBut since like slaves his bed they did ascend,\nNo true succession could their seed attend.\nOf all this numerous progeny was none\nSo beautiful, so brave, as Absalom:\nWhether, inspir'd by some diviner lust,\nHis father got him with a greater gust;\nOr that his conscious destiny made way,\nBy manly beauty to imperial sway.\nEarly in foreign fields he won renown,\nWith kings and states alli'd to Israel's crown:\nIn peace the thoughts of war he could remove,\nAnd seem'd as he were only born for love.\nWhate'er he did, was done with so much ease,\nIn him alone, 'twas natural to please:\nHis motions all accompani'd with grace;\nAnd Paradise was open'd in his face.\nWith secret joy, indulgent David view'd\nHis youthful image in his son renew'd:\nTo all his wishes nothing he deni'd;\nAnd made the charming Annabel his bride.\nWhat faults he had (for who from faults is free?)\nHis father could not, or he would not see.\nSome warm excesses, which the Law forbore,\nWere constru'd youth that purged by boiling o'er:\nAnd Amnon's murther, by a specious name,\nWas call'd a just revenge for injur'd fame.\nThus prais'd, and lov'd, the noble youth remain'd,\nWhile David, undisturb'd, in Sion reign'd.\nBut life can never be sincerely blest:\nHeav'n punishes the bad, and proves the best.\nThe Jews, a headstrong, moody, murm'ring race,\nAs ever tri'd th'extent and stretch of grace;\nGod's pamper'd people whom, debauch'd with ease,\nNo king could govern, nor no God could please;\n(Gods they had tri'd of every shape and size,\nThat god-smiths could produce, or priests devise:)\nThese Adam-wits, too fortunately free,\nBegan to dream they wanted liberty:\nAnd when no rule, no precedent, was found\nOf men, by laws less circumscrib'd and bound,\nThey led their wild desires to woods and caves,\nAnd thought that all but savages were slaves.\nThey who, when Saul was dead, without a blow,\nMade foolish Ishbosheth the crown forego;\nWho banisht David did from Hebron bring,\nAnd, with a general shout, proclaim'd him king:\nThose very Jews, who, at their very best,\nTheir Humour more than loyalty exprest,\nNow, wonder'd why, so long, they had obey'd\nAn idol-monarch which their hands had made:\nThought they might ruin him they could create;\nOr melt him to that golden calf, a state.\nBut these were random bolts: no form'd design,\nNor interest made the factious crowd to join:\nThe sober part of Israel, free from stain,\nWell knew the value of a peaceful reign:\nAnd, looking backward with a wise afright,\nSaw seams of wounds, dishonest to the sight:\nIn contemplation of whose ugly scars,\nThey curst the memory of civil wars.\nThe moderate sort of men, thus qualifi'd,\nInclin'd the balance to the better side:\nAnd, David's mildness manag'd it so well,\nThe bad found no occasion to rebel.\nBut, when to sin our bias'd nature leans,\nThe careful Devil is still at hand with means;\nAnd providently pimps for ill desires:\nThe good old cause reviv'd, a plot requires.\nPlots, true or false, are necessary things,\nTo raise up common-wealths, and ruin kings.\n\n  Th' inhabitants of old Jerusalem\nWere Jebusites: the town so call'd from them;\nAnd theirs the native right—\nBut when the chosen people grew more strong,\nThe rightful cause at length became the wrong:\nAnd every loss the men of Jebus bore,\nThey still were thought God's enemies the more.\nThus, worn and weaken'd, well or ill content,\nSubmit they must to David's government:\nImpoverish'd and depriv'd of all command,\nTheir taxes doubled as they lost their land;\nAnd, what was harder yet to flesh and blood,\nTheir gods disgrac'd, and burnt like common wood.\nThis set the heathen priesthood in a flame;\nFor priests of all religions are the same:\nOf whatsoe'er descent their godhead be,\nStock, stone, or other homely pedigree,\nIn his defence his servants are as bold,\nAs if he had been born of beaten gold.\nThe Jewish Rabbins though their Enemies,\nIn this conclude them honest men and wise:\nFor 'twas their duty, all the learned think,\nT'espouse his cause by whom they eat and drink.\nFrom hence began that plot, the nation's curse,\nBad in itself, but represented worse.\nRais'd in extremes, and in extremes decri'd;\nWith oaths affirm'd, with dying vows deni'd.\nNot weigh'd, or winnow'd by the multitude;\nBut swallow'd in the mass, unchew'd and crude.\nSome truth there was, but dash'd and brew'd with lies;\nTo please the fools, and puzzle all the wise.\nSucceeding times did equal folly call,\nBelieving nothing, or believing all.\nTh' Egyptian rites the Jebusites embrac'd;\nWhere gods were recommended by their taste.\nSuch sav'ry deities must needs be good,\nAs serv'd at once for worship and for food.\nBy force they could not introduce these gods;\nFor ten to one, in former days was odds.\nSo fraud was us'd, (the sacrificers' trade,)\nFools are more hard to conquer than persuade.\nTheir busy teachers mingled with the Jews;\nAnd rak'd, for converts, even the court and stews:\nWhich Hebrew priests the more unkindly took,\nBecause the fleece accompanies the flock.\nSome thought they God's anointed meant to slay\nBy guns, invented since full many a day:\nOur author swears it not; but who can know\nHow far the Devil and Jebusites may go?\nThis plot, which fail'd for want of common sense,\nHad yet a deep and dangerous consequence:\nFor, as when raging fevers boil the blood,\nThe standing lake soon floats into a flood;\nAnd ev'ry hostile humour, which before\nSlept quiet in its channels, bubbles o'er:\nSo, several factions from this first ferment,\nWork up to foam, and threat the government.\nSome by their friends, more by themselves thought wise,\nOppos'd the pow'r, to which they could not rise.\nSome had in courts been great, and thrown from thence,\nLike fiends, were harden'd in impenitence.\nSome by their monarch's fatal mercy grown,\nFrom pardon'd rebels, kinsmen to the throne;\nWere rais'd in pow'r and public office high;\nStrong bands, if bands ungrateful men could tie.\n\nOf these the false Achitophel was first:\nA name to all succeeding ages curst.\nFor close designs, and crooked counsels fit;\nSagacious, bold and turbulent of wit:\nRestless, unfixt in principles and place;\nIn pow'r unpleas'd, impatient of disgrace.\nA fiery soul, which working out its way,\nFretted the pigmy-body to decay:\nAnd o'er inform'd the tenement of clay.\nA daring pilot in extremity;\nPleas'd with the danger, when the waves went high\nHe sought the storms; but for a calm unfit,\nWould steer too nigh the sands, to boast his wit.\nGreat wits are sure to madness near alli'd;\nAnd thin partitions do their bounds divide:\nElse, why should he, with wealth and honour blest,\nRefuse his age the needful hours of rest?\nPunish a body which he could not please;\nBankrupt of life, yet prodigal of ease?\nAnd all to leave, what with his toil he won\nTo that unfeather'd, two-legg'd thing, a son:\nGot, while his soul did huddled notions try;\nAnd born a shapeless lump, like anarchy.\nIn friendship false, implacable in hate:\nResolv'd to ruin or to rule the state.\nTo compass this, the triple bond he broke;\nThe pillars of the public safety shook:\nAnd fitted Israel for a foreign yoke.\nThen, seiz'd with fear, yet still affecting fame,\nUsurp'd a patriot's all-atoning name.\nSo easy still it proves in factious times,\nWith public zeal to cancel private crimes:\nHow safe is treason, and how sacred ill,\nWhere none can sin against the people's will:\nWhere crowds can wink; and no offence be known,\nSince in another's guilt they find their own.\nYet, fame deserv'd, no enemy can grudge;\nThe statesman we abhor, but praise the judge.\nIn Jewish courts ne'er sat an Abbethdin\nWith more discerning eyes, or hands more clean:\nUnbrib'd, unsought, the wretched to redress;\nSwift of dispatch, and easy of access.\nOh, had he been content to serve the crown,\nWith virtues only proper to the gown;\nOr, had the rankness of the soil been freed\nFrom cockle, that opprest the noble seed:\nDavid, for him his tuneful harp had strung,\nAnd heav'n had wanted one immortal song.\nBut wild ambition loves to slide, not stand;\nAnd fortune's ice prefers to virtue's land:\nAchitophel, grown weary to possess\nA lawful fame, and lazy happiness;\nDisdain'd the golden fruit to gather free,\nAnd lent the crowd his arm to shake the tree.\nNow, manifest of crimes, contriv'd long since,\nHe stood at bold defiance with his prince:\nHeld up the buckler of the people's cause,\nAgainst the crown; and skulk'd behind the laws.\nThe wish'd occasion of the plot he takes;\nSome circumstances finds, but more he makes.\nBy buzzing emissaries, fills the ears\nOf list'ning crowds, with jealousies and fears\nOf arbitrary counsels brought to light,\nAnd proves the king himself a Jebusite.\nWeak arguments! which yet he knew full well,\nWere strong with people easy to rebel.\nFor, govern'd by the moon, the giddy Jews\nTread the same track when she the prime renews:\nAnd once in twenty years, their scribes record,\nBy natural instinct they change their lord.\nAchitophel still wants a chief, and none\nWas found so fit as warlike Absalom:\nNot, that he wish'd his greatness to create,\n(For politicians neither love nor hate:)\nBut, for he knew, his title not allow'd,\nWould keep him still depending on the crowd:\nThat kingly pow'r, thus ebbing out, might be\nDrawn to the dregs of a democracy.\nHim he attempts, with studied arts to please,\nAnd sheds his venom, in such words as these.\n\nAuspicious Prince! at whose nativity\nSome royal planet rul'd the southern sky;\nThy longing country's darling and desire;\nTheir cloudy pillar, and their guardian fire:\nTheir second Moses, whose extended wand\nDivides the seas, and shows the promis'd land:\nWhose dawning day, in very distant age,\nHas exercis'd the sacred prophet's rage:\nThe people's pray'r, the glad diviner's theme,\nThe young men's vision, and the old men's dream!\nThee, Saviour, thee, the nation's vows confess;\nAnd, never satisfi'd with seeing, bless:\nSwift, unbespoken pomps, thy steps proclaim,\nAnd stammering babes are taught to lisp thy name.\nHow long wilt thou the general joy detain;\nStarve, and defraud the people of thy reign?\nContent ingloriously to pass thy days\nLike one of virtue's fools that feeds on praise;\nTill thy fresh glories, which now shine so bright,\nGrow stale and tarnish with our daily sight.\nBelieve me, royal youth, thy fruit must be,\nOr gather'd ripe, or rot upon the tree.\nHeav'n has to all allotted, soon or late,\nSome lucky revolution of their fate:\nWhose motions if we watch and guide with skill,\n(For human good depends on human will,)\nOur fortune rolls, as from a smooth descent,\nAnd, from the first impression, takes the bent:\nBut, if unseiz'd, she glides away like wind;\nAnd leaves repenting folly far behind.\nNow, now she meets you, with a glorious prize,\nAnd spreads her locks before her as she flies.\nHad thus Old David, from whose loins you spring,\nNot dar'd, when fortune call'd him, to be king.\nAt Gath an exile he might still remain;\nAnd Heaven's anointing oil had been in vain.\nLet his successful youth your hopes engage;\nBut shun th'example of declining age:\nBehold him setting in his western skies,\nThe shadows lengthening as the vapours rise.\nHe is not now, as when on Jordan's sand\nThe joyful people throng'd to see him land,\nCov'ring the beach, and black'ning all the strand:\nBut, like the Prince of Angels from his height,\nComes tumbling downward with diminish'd light:\nBetray'd by one poor plot to public scorn:\n(Our only blessing since his curst return:)\nThose heaps of people which one sheaf did bind,\nBlown off, and scatter'd by a puff of wind.\nWhat strength can he to your designs oppose,\nNaked of friends and round beset with foes?\nIf Pharaoh's doubtful succour he should use,\nA foreign aid would more incense the Jews:\nProud Egypt would dissembled friendship bring;\nFoment the war, but not support the king:\nNor would the royal party e'er unite\nWith Pharaoh's arms, t'assist the Jebusite;\nOr if they should, their interest soon would break,\nAnd with such odious aid, make David weak.\nAll sorts of men, by my successful arts,\nAbhorring kings, estrange their alter'd hearts\nFrom David's rule: And 'tis the general Cry,\nReligion, Common-wealth, and Liberty.\nIf, you, as champion of the public good,\nAdd to their arms a chief of royal blood;\nWhat may not Israel hope, and what applause\nMight such a general gain by such a cause?\nNot barren praise alone, that gaudy flow'r,\nFair only to the sight, but solid pow'r:\nAnd nobler is a limited command,\nGiv'n by the love of all your native land,\nThan a successive title, long, and dark,\nDrawn from the mouldy rolls of Noah's Ark.\n\nWhat cannot praise effect in mighty minds,\nWhen flattery soothes, and when ambition blinds!\nDesire of pow'r, on earth a vicious weed,\nYet, sprung from high, is of celestial seed:\nIn God 'tis glory: And when men aspire,\n'Tis but a spark too much of heavenly fire.\nTh' ambitious youth, too covetous of fame,\nToo full of angel's metal in his frame;\nUnwarily was led from virtue's ways;\nMade drunk with honour, and debauch'd with praise.\nHalf loath, and half consenting to the ill,\n(For loyal blood within him struggled still)\nHe thus repli'd.—And what pretence have I\nTo take up arms for public liberty?\nMy Father governs with unquestion'd right;\nThe Faith's defender, and mankind's delight:\nGood, gracious, just, observant of the laws;\nAnd Heav'n by wonders has espous'd his cause.\nWhom has he wrong'd in all his peaceful reign?\nWho sues for justice to his throne in vain?\nWhat millions has he pardon'd of his foes,\nWhom just revenge did to his wrath expose?\nMild, easy, humble, studious of our good;\nInclin'd to mercy, and averse from blood.\nIf mildness ill with stubborn Israel suit,\nHis crime is God's beloved attribute.\nWhat could he gain, his people to betray,\nOr change his right, for arbitrary sway?\nLet haughty Pharaoh curse with such a reign,\nHis fruitful Nile, and yoke a servile train.\nIf David's rule Jerusalem displease,\nThe Dog-star heats their brains to this disease.\nWhy then should I, encouraging the bad,\nTurn rebel, and run popularly mad?\nWere he a tyrant who, by lawless might,\nOppress'd the Jews, and rais'd the Jebusite,\nWell might I mourn; but nature's holy bands\nWould curb my spirits, and restrain my hands:\nThe people might assert their liberty;\nBut what was right in them, were crime in me.\nHis favour leaves me nothing to require;\nPrevents my wishes, and out-runs desire.\nWhat more can I expect while David lives?\nAll but his kingly diadem he gives:\nAnd that: but there he paus'd; then sighing, said,\nIs justly destin'd for a worthier head.\nFor when my father from his toils shall rest,\nAnd late augment the number of the blest:\nHis lawful issue shall the throne ascend;\nOr the collat'ral line where that shall end.\nHis brother, though oppress'd with vulgar spite,\nYet dauntless and secure of native right,\nOf every royal virtue stands possess'd;\nStill dear to all the bravest, and the best.\nHis courage foes, his friends his truth proclaim;\nHis loyalty the king, the world his fame.\nHis mercy ev'n th'offending crowd will find:\nFor sure he comes of a forgiving kind.\nWhy should I then repine at Heaven's decree;\nWhich gives me no pretence to royalty?\nYet oh that Fate, propitiously inclin'd,\nHad rais'd my birth, or had debas'd my mind;\nTo my large soul, not all her treasure lent,\nAnd then betray'd it to a mean descent.\nI find, I find my mounting spirits bold,\nAnd David's part disdains my mother's mold.\nWhy am I scanted by a niggard-birth?\nMy soul disclaims the kindred of her earth:\nAnd made for empire, whispers me within;\nDesire of greatness is a god-like sin.\n\nHim staggering so when Hell's dire agent found,\nWhile fainting virtue scarce maintain'd her ground,\nHe pours fresh forces in, and thus replies:\n\nTh'eternal God, supremely good and wise,\nImparts not these prodigious gifts in vain;\nWhat wonders are reserv'd to bless your reign?\nAgainst your will your arguments have shown,\nSuch virtue's only giv'n to guide a throne.\nNot that your father's mildness I contemn;\nBut manly force becomes the diadem.\n'Tis true, he grants the people all they crave;\nAnd more perhaps than subjects ought to have:\nFor lavish grants suppose a monarch tame,\nAnd more his goodness than his wit proclaim.\nBut when should people strive their bonds to break,\nIf not when kings are negligent or weak?\nLet him give on till he can give no more,\nThe thrifty Sanhedrin shall keep him poor:\nAnd every shekel which he can receive,\nShall cost a limb of his prerogative.\nTo ply him with new plots, shall be my care;\nOr plunge him deep in some expensive war;\nWhich, when his treasure can no more supply,\nHe must, with the remains of kingship, buy.\nHis faithful friends, our jealousies and fears\nCall Jebusites; and Pharaoh's pensioners:\nWhom, when our fury from his aid has torn,\nHe shall be naked left to public scorn.\nThe next successor, whom I fear and hate,\nMy arts have made obnoxious to the state;\nTurn'd all his virtues to his overthrow,\nAnd gain'd our elders to pronounce a foe.\nHis right, for sums of necessary gold,\nShall first be pawn'd, and afterwards be sold:\nTill time shall ever-wanting David draw,\nTo pass your doubtful title into law:\nIf not; the people have a right supreme\nTo make their kings; for kings are made for them.\nAll empire is no more than pow'r in trust:\nWhich when resum'd, can be no longer just.\nSuccession, for the general good design'd,\nIn its own wrong a nation cannot bind:\nIf altering that, the people can relieve,\nBetter one suffer, than a nation grieve.\nThe Jews well know their pow'r: ere Saul they chose,\nGod was their king, and God they durst depose.\nUrge now your piety, your filial name,\nA father's right, and fear of future fame;\nThe public good, the universal call,\nTo which even Heav'n submitted, answers all.\nNor let his love enchant your generous mind;\n'Tis Nature's trick to propagate her kind.\nOur fond begetters, who would never die,\nLove but themselves in their posterity.\nOr let his kindness by th'effects be tri'd,\nOr let him lay his vain pretence aside.\nGod said he lov'd your father; could he bring\nA better proof, than to anoint him king?\nIt surely show'd he lov'd the shepherd well,\nWho gave so fair a flock as Israel.\nWould David have you thought his darling son?\nWhat means he then, to alienate the crown?\nThe name of godly he may blush to bear:\n'Tis after God's own heart to cheat his heir.\nHe to his brother gives supreme command;\nTo you a legacy of barren land:\nPerhaps th'old harp, on which he thrums his lays:\nOr some dull Hebrew ballad in your praise.\nThen the next heir, a prince, severe and wise\nAlready looks on you with jealous eyes;\nSees through the thin disguises of your arts,\nAnd marks your progress in the people's hearts.\nThough now his mighty soul in grief contains,\nHe meditates revenge who least complains;\nAnd like a lion, slumb'ring in the way,\nOr sleep-dissembling, while he waits his prey,\nHis fearless foes within his distance draws;\nConstrains his roaring and contracts his paws:\nTill at the last, his time for fury found,\nHe shoots with sudden vengeance from the ground:\nThe prostrate vulgar, passes o'er, and spares;\nBut with a lordly rage, his hunters tears.\nYour case no tame expedients will afford;\nResolve on death, or conquest by the sword,\nWhich for no less a stake than life, you draw;\nAnd self-defence is Nature's eldest law.\nLeave the warm people no considering time;\nFor then rebellion may be thought a crime.\nPrevail yourself of what occasion gives,\nBut try your title while your father lives:\nAnd that your arms may have a fair pretence,\nProclaim, you take them in the king's defence:\nWhose sacred life each minute would expose\nTo plots from seeming friends and secret foes.\nAnd who can sound the depth of David's soul?\nPerhaps his fear, his kindness may control.\nHe fears his brother, though he loves his son,\nFor plighted vows too late to be undone.\nIf so, by force he wishes to be gain'd;\nLike women's lechery, to seem constrain'd:\nDoubt not; but when he most affects the frown,\nCommit a pleasing rape upon the crown.\nSecure his person to secure your cause;\nThey who possess the prince, possess the laws.\n\nHe said, and this advice above the rest\nWith Absalom's mild nature suited best;\nUnblam'd of life, (ambition set aside,)\nNot stain'd with cruelty, nor puff'd with pride.\nHow happy had he been, if destiny\nHad higher plac'd his birth, or not so high!\nHis kingly virtues might have claim'd a throne;\nAnd blest all other countries but his own:\nBut charming greatness since so few refuse,\n'Tis juster to lament him, than accuse.\nStrong were his hopes a rival to remove,\nWith blandishments to gain the public love;\nTo head the faction while their zeal was hot,\nAnd popularly prosecute the plot.\nTo farther this Achitophel unites\nThe malcontents of all the Israelites:\nWhose differing parties he could wisely join,\nFor several ends, to serve the same design.\nThe best, and of the princes some were such,\nWho thought the pow'r of monarchy too much:\nMistaken men, and patriots in their hearts;\nNot wicked, but seduc'd by impious arts.\nBy these the springs of property were bent,\nAnd wound so high, they crack'd the government.\nThe next for interest sought t'embroil the state,\nTo sell their duty at a dearer rate;\nAnd make their Jewish markets of the throne;\nPretending public good, to serve their own.\nOthers thought kings an useless heavy load,\nWho cost too much, and did too little good.\nThese were for laying honest David by,\nOn principles of pure good husbandry.\nWith them join'd all th'haranguers of the throng,\nThat thought to get preferment by the tongue.\nWho follow next, a double danger bring,\nNot only hating David, but the king;\nThe Solymaean rout; well vers'd of old\nIn godly faction, and in treason bold;\nCow'ring and quaking at a conqu'ror's sword,\nBut lofty to a lawful prince restor'd;\nSaw with disdain an Ethnic plot begun,\nAnd scorn'd by Jebusites to be out-done.\nHot Levites headed these; who pull'd before\nFrom th'Ark, which in the Judges' days they bore,\nResum'd their Cant, and with a zealous cry,\nPursu'd their old belov'd Theocracy.\nWhere Sanhedrin and Priest enslav'd the nation,\nAnd justifi'd their spoils by inspiration:\nFor who so fit for reign as Aaron's race,\nIf once dominion they could found in Grace?\nThese led the pack; though not of surest scent,\nYet deepest mouth'd against the government.\nA numerous host of dreaming saints succeed;\nOf the true old enthusiastic breed:\n'Gainst form and order they their pow'r employ;\nNothing to build, and all things to destroy.\nBut far more numerous was the herd of such,\nWho think too little, and who talk too much.\nThese, out of mere instinct, they knew not why,\nAdor'd their father's God, and property:\nAnd by the same blind benefit of fate,\nThe Devil and the Jebusite did hate:\nBorn to be saved even in their own despite;\nBecause they could not help believing right.\nSuch were the tools; but a whole Hydra more\nRemains, of sprouting heads too long, to score.\nSome of their chiefs were princes of the land:\nIn the first rank of these did Zimri stand:\nA man so various, that he seem'd to be\nNot one, but all Mankind's Epitome.\nStiff in opinions, always in the wrong;\nWas everything by starts, and nothing long:\nBut in the course of one revolving moon,\nWas chemist, fiddler, statesman, and buffoon:\nThen all for women, painting, rhyming, drinking;\nBesides ten thousand freaks that died in thinking.\nBlest madman, who could every hour employ,\nWith something new to wish, or to enjoy!\nRailing and praising were his usual themes;\nAnd both (to show his judgment) in extremes:\nSo over violent, or over civil,\nThat every man, with him, was god or devil.\nIn squandering wealth was his peculiar art:\nNothing went unrewarded, but desert.\nBeggar'd by fools, whom still he found too late:\nHe had his jest, and they had his estate.\nHe laugh'd himself from court; then sought relief\nBy forming parties, but could ne'er be chief:\nFor, spite of him, the weight of business fell\nOn Absalom and wise Achitophel:\nThus, wicked but in will, of means bereft,\nHe left not faction, but of that was left.\n\nTitles and names 'twere tedious to rehearse\nOf lords, below the dignity of verse.\nWits, warriors, commonwealths-men, were the best:\nKind husbands and mere nobles all the rest.\nAnd, therefore in the name of dullness, be\nThe well-hung Balaam and cold Caleb free.\nAnd canting Nadab let oblivion damn,\nWho made new porridge for the Paschal Lamb.\nLet friendship's holy band some names assure:\nSome their own worth, and some let scorn secure.\nNor shall the rascal rabble here have place,\nWhom kings no titles gave, and God no grace:\nNot bull-faced Jonas, who could statutes draw\nTo mean rebellion, and make treason law.\nBut he, though bad, is follow'd by a worse,\nThe wretch, who Heav'n's Anointed dar'd to curse.\nShimei, whose youth did early promise bring\nOf zeal to God, and hatred to his king;\nDid wisely from expensive sins refrain,\nAnd never broke the Sabbath, but for gain:\nNor ever was he known an oath to vent,\nOr curse, unless against the government.\nThus, heaping wealth, by the most ready way\nAmong the Jews, which was to cheat and pray;\nThe city, to reward his pious hate\nAgainst his master, chose him magistrate:\nHis hand a vare of justice did uphold;\nHis neck was loaded with a chain of gold.\nDuring his office, treason was no crime.\nThe sons of Belial had a glorious time:\nFor Shimei, though not prodigal of pelf,\nYet lov'd his wicked neighbour as himself:\nWhen two or three were gather'd to declaim\nAgainst the monarch of Jerusalem,\nShimei was always in the midst of them.\nAnd, if they curst the king when he was by,\nWould rather curse, than break good company.\nIf any durst his factious friends accuse,\nHe pack'd a jury of dissenting Jews:\nWhose fellow-feeling, in the godly cause,\nWould free the suff'ring saint from human laws.\nFor laws are only made to punish those\nWho serve the king, and to protect his foes.\nIf any leisure time he had from pow'r,\n(Because 'tis sin to mis-employ an hour;)\nHis bus'ness was, by writing, to persuade,\nThat kings were useless, and a clog to trade:\nAnd, that his noble style he might refine,\nNo Rechabite more shunn'd the fumes of wine.\nChaste were his cellars; and his shrieval board\nThe grossness of a city feast abhorr'd:\nHis cooks, with long disuse, their trade forgot;\nCool was his kitchen, though his brains were hot.\nSuch frugal virtue malice may accuse;\nBut sure 'twas necessary to the Jews:\nFor towns once burnt, such magistrates require\nAs dare not tempt God's providence by fire.\nWith spiritual food he fed his servants well,\nBut free from flesh, that made the Jews rebel:\nAnd Moses' laws he held in more account\nFor forty days of fasting in the mount.\nTo speak the rest, who better are forgot,\nWould tire a well-breath'd witness of the plot:\nYet, Corah, thou shalt from oblivion pass;\nErect thyself thou monumental brass:\nHigh as the serpent of thy metal made,\nWhile nations stand secure beneath thy shade.\nWhat though his birth were base, yet comets rise\nFrom earthy vapours e'er they shine in skies.\nProdigious actions may as well be done\nBy weaver's issue, as by prince's son.\nThis arch-attestor, for the public good,\nBy that one deed ennobles all his blood.\nWho ever ask'd the witnesses' high race,\nWhose oath with martyrdom did Stephen grace?\nOurs was a Levite, and as times went then,\nHis tribe were God-almighty's gentlemen.\nSunk were his eyes, his voice was harsh and loud,\nSure signs he neither choleric was, nor proud:\nHis long chin prov'd his wit; his saint-like grace\nA church vermilion, and a Moses' face.\nHis memory, miraculously great,\nCould plots exceeding man's belief, repeat;\nWhich therefore cannot be accounted lies,\nFor human wit could never such devise.\nSome future truths are mingled in his book;\nBut, where the witness fail'd, the Prophet spoke:\nSome things like visionary flights appear;\nThe spirit caught him up, the Lord knows where:\nAnd gave him his rabbinical degree,\nUnknown to foreign university.\nHis judgment yet his mem'ry did excel:\nWhich piec'd his wondrous evidence so well:\nAnd suited to the temper of the times;\nThen groaning under Jebusitic crimes.\nLet Israel's foes suspect his Heav'nly call,\nAnd rashly judge his writ apocryphal;\nOur laws for such affronts have forfeits made:\nHe takes his life, who takes away his trade.\nWere I myself in witness Corah's place,\nThe wretch who did me such a dire disgrace,\nShould whet my memory, though once forgot,\nTo make him an appendix of my plot.\nHis zeal to Heav'n made him his prince despise,\nAnd load his person with indignities:\nBut Zeal peculiar privilege affords,\nIndulging latitude to deeds and words.\nAnd Corah might for Agag's murther call,\nIn terms as coarse as Samuel us'd to Saul.\nWhat others in his evidence did join,\n(The best that could be had for love or coin,)\nIn Corah's own predicament will fall:\nFor Witness is a common name to all.\n\nSurrounded thus with friends of every sort,\nDeluded Absalom forsakes the court:\nImpatient of high hopes, urg'd with renown,\nAnd fir'd with near possession of a crown:\nTh' admiring crowd are dazzled with surprise,\nAnd on his goodly person feed their eyes:\nHis joy conceal'd, he sets himself to show;\nOn each side bowing popularly low:\nHis looks, his gestures, and his words he frames,\nAnd with familiar ease repeats their names.\nThus, form'd by Nature, furnish'd out with arts,\nHe glides unfelt into their secret hearts:\nThen, with a kind compassionating look,\nAnd sighs, bespeaking pity e'er he spoke:\nFew words he said; but easy those and fit:\nMore slow than Hybla drops, and far more sweet.\n\nI mourn, my country-men, your lost estate;\nThough far unable to prevent your fate:\nBehold a banish'd man, for your dear cause\nExpos'd a prey to arbitrary laws!\nYet oh! that I alone could be undone,\nCut off from empire, and no more a son!\nNow all your liberties a spoil are made;\nEgypt and Tyrus intercept your trade,\nAnd Jebusites your sacred rites invade.\nMy father, whom with reverence yet I name,\nCharm'd into ease, is careless of his fame:\nAnd, brib'd with petty sums of foreign gold,\nIs grown in Bathsheba's embraces old:\nExalts his enemies, his friends destroys:\nAnd all his pow'r against himself employs.\nHe gives, and let him give my right away:\nBut why should he his own, and yours betray?\nHe, only he can make the nation bleed,\nAnd he alone from my revenge is freed.\nTake then my tears (with that he wip'd his eyes)\n'Tis all the aid my present pow'r supplies:\nNo court-informer can these arms accuse;\nThese arms may sons against their fathers use;\nAnd, 'tis my wish, the next successor's reign\nMay make no other Israelite complain.\n\nYouth, beauty, graceful action, seldom fail:\nBut common interest always will prevail:\nAnd pity never ceases to be shown\nTo him, who makes the people's wrongs his own.\nThe crowd, (that still believe their kings oppress,)\nWith lifted hands their young Messiah bless:\nWho now begins his progress to ordain;\nWith chariots, horsemen, and a num'rous train:\nFrom East to West his glories he displays:\nAnd, like the sun, the Promis'd Land surveys.\nFame runs before him, as the Morning-Star;\nAnd shouts of joy salute him from afar:\nEach house receives him as a guardian God;\nAnd consecrates the place of his abode:\nBut hospitable treats did most commend\nWise Issachar, his wealthy western friend.\nThis moving court, that caught the people's eyes,\nAnd seem'd but pomp, did other ends disguise:\nAchitophel had form'd it, with intent\nTo sound the depths, and fathom where it went,\nThe people's hearts; distinguish friends from foes;\nAnd try their strength, before they came to blows.\nYet all was colour'd with a smooth pretence\nOf specious love, and duty to their prince.\nReligion, and redress of grievances,\nTwo names, that always cheat and always please,\nAre often urg'd; and good King David's life\nEndanger'd by a brother and a wife.\nThus, in a pageant show, a plot is made;\nAnd peace itself is war in masquerade.\nOh foolish Israel! never warn'd by ill:\nStill the same bait, and circumvented still!\nDid ever men forsake their present ease,\nIn midst of health imagine a disease;\nTake pains contingent mischiefs to foresee,\nMake heirs for monarchs, and for God decree?\nWhat shall we think! Can people give away\nBoth for themselves and sons, their native sway?\nThen they are left defenceless to the sword\nOf each unbounded arbitrary lord:\nAnd laws are vain, by which we right enjoy,\nIf kings unquestion'd can those laws destroy.\nYet, if the crowd be judge of fit and just,\nAnd kings are only officers in trust,\nThen this resuming cov'nant was declar'd\nWhen Kings were made, or is for ever bar'd:\nIf those who gave the sceptre could not tie\nBy their own deed their own posterity,\nHow then could Adam bind his future race?\nHow could his forfeit on mankind take place?\nOr how could heavenly justice damn us all,\nWho ne'er consented to our father's fall?\nThen kings are slaves to those whom they command,\nAnd tenants to their people's pleasure stand.\nAdd, that the pow'r for property allow'd,\nIs mischievously seated in the crowd:\nFor who can be secure of private right,\nIf sovereign sway may be dissolv'd by might?\nNor is the people's judgment always true:\nThe most may err as grossly as the few.\nAnd faultless kings run down, by common cry,\nFor vice, oppression and for tyranny.\nWhat standard is there in a fickle rout,\nWhich, flowing to the mark, runs faster out?\nNor only crowds, but Sanhedrins may be\nInfected with this public lunacy:\nAnd share the madness of rebellious times,\nTo murther monarchs for imagin'd crimes.\nIf they may give and take whene'er they please,\nNot kings alone, (the godhead's images,)\nBut government itself at length must fall\nTo nature's state, where all have right to all.\nYet, grant our lords the people kings can make,\nWhat prudent men a settled throne would shake?\nFor whatsoe'er their sufferings were before,\nThat change they covet makes them suffer more.\nAll other errors but disturb a state;\nBut innovation is the blow of fate.\nIf ancient fabrics nod, and threat to fall,\nTo patch the flaws, and buttress up the wall,\nThus far 'tis duty; but here fix the mark:\nFor all beyond it is to touch our Ark.\nTo change foundations, cast the frame anew,\nIs work for rebels who base ends pursue:\nAt once divine and human laws control;\nAnd mend the parts by ruin of the whole.\nThe tamp'ring world is subject to this curse,\nTo physic their disease into a worse.\n\nNow what relief can righteous David bring?\nHow fatal 'tis to be too good a king!\nFriends he has few, so high the madness grows;\nWho dare be such, must be the people's foes:\nYet some there were, ev'n in the worst of days;\nSome let me name, and naming is to praise.\n\nIn this short file Barzillai first appears;\nBarzillai crown'd with honour and with years:\nLong since, the rising rebels he withstood\nIn regions waste, beyond the Jordan's flood:\nUnfortunately brave to buoy the state;\nBut sinking underneath his master's fate:\nIn exile with his god-like prince he mourn'd:\nFor him he suffer'd, and with him return'd.\nThe court he practis'd, not the courtier's art:\nLarge was his wealth, but larger was his heart:\nWhich well the noblest objects knew to choose,\nThe fighting warrior, and recording Muse.\nHis bed could once a fruitful issue boast:\nNow more than half a father's name is lost.\nHis eldest hope, with every grace adorn'd,\nBy me (so Heav'n will have it) always mourn'd,\nAnd always honour'd, snatch'd in manhood's prime\nB' unequal Fates, and Providence's crime:\nYet not before the goal of honour won,\nAll parts fulfill'd, of subject and of son;\nSwift was the race, but short the time to run.\nOh narrow circle, but of pow'r divine,\nScanted in space, but perfect in thy line!\nBy sea, by land, thy matchless worth was known;\nArms thy delight, and war was all thy own:\nThy force infus'd, the fainting Tyrians propp'd:\nAnd haughty Pharaoh found his fortune stopp'd.\nOh ancient honour, Oh unconquer'd Hand,\nWhom foes unpunish'd never could withstand!\nBut Israel was unworthy of thy name:\nShort is the date of all immoderate fame.\nIt looks as Heav'n our ruin had design'd,\nAnd durst not trust thy fortune and thy mind.\nNow, free from earth, thy disencumber'd Soul\nMounts up, and leaves behind the clouds and starry pole:\nFrom thence thy kindred legions may'st thou bring,\nTo aid the Guardian Angel of thy king.\nHere stop my Muse, here cease thy painful flight;\nNo pinions can pursue immortal height:\nTell good Barzillai thou canst sing no more,\nAnd tell thy soul she should have fled before;\nOr fled she with his life, and left this verse\nTo hang on her departed patron's hearse?\nNow take thy steepy flight from Heav'n, and see\nIf thou canst find on earth another he;\nAnother he would be too hard to find,\nSee then whom thou canst see not far behind.\nZadoc the priest whom, shunning, pow'r and place,\nHis lowly mind advanc'd to David's grace:\nWith him the Sagan of Jerusalem,\nOf hospitable soul and noble stem;\nHim of the western dome, whose weighty sense\nFlows in fit words and heavenly eloquence.\nThe Prophet's sons by such example led,\nTo learning and to loyalty were bred:\nFor colleges on bounteous kings depend,\nAnd never rebel was to arts a friend.\nTo these succeed the pillars of the laws,\nWho best could plead, and best can judge a cause.\nNext them a train of loyal peers ascend:\nSharp judging Adriel, the Muse's friend,\nHimself a Muse:—in Sanhedrin's debate\nTrue to his prince; but not a slave of state.\nWhom David's love with honours did adorn,\nThat from his disobedient son were torn.\nJotham of piercing wit and pregnant thought,\nEndow'd by Nature, and by learning taught\nTo move assemblies, who but only tri'd\nThe worse awhile, then chose the better side;\nNor chose alone, but turn'd the balance too;\nSo much the weight of one brave man can do.\nHushai, the friend of David in distress,\nIn public storms of manly steadfastness;\nBy foreign treaties he inform'd his youth;\nAnd join'd experience to his native truth.\nHis frugal care suppli'd the wanting throne;\nFrugal for that, but bounteous of his own:\n'Tis easy conduct when exchequers flow;\nBut hard the task to manage well the low:\nFor sovereign power is too depress'd or high,\nWhen kings are forc'd to sell, or crowds to buy.\nIndulge one labour more, my weary Muse,\nFor Amiel, who can Amiel's praise refuse?\nOf ancient race by birth, but nobler yet\nIn his own worth, and without title great:\nThe Sanhedrin long time as chief he rul'd,\nTheir reason guided, and their passion cool'd;\nSo dext'rous was he in the crown's defence,\nSo form'd to speak a loyal nation's sense,\nThat as their band was Israel's tribes in small,\nSo fit was he to represent them all.\nNow rasher charioteers the seat ascend,\nWhose loose careers his steady skill commend:\nThey, like th'unequal ruler of the day,\nMisguide the seasons and mistake the way;\nWhile he withdrawn at their mad labour smiles,\nAnd safe enjoys the sabbath of his toils.\n\nThese were the chief; a small but faithful band\nOf worthies, in the breach who dar'd to stand,\nAnd tempt th'united fury of the land.\nWith grief they view'd such powerful engines bent,\nTo batter down the lawful government.\nA numerous faction with pretended frights,\nIn Sanhedrins to plume the regal rights.\nThe true successor from the court remov'd:\nThe plot, by hireling witnesses, improv'd.\nThese ills they saw, and as their duty bound,\nThey show'd the king the danger of the wound:\nThat no concessions from the throne would please;\nBut lenitives fomented the disease:\nThat Absalom, ambitious of the crown,\nWas made the lure to draw the people down:\nThat false Achitophel's pernicious hate,\nHad turn'd the plot to ruin church and state:\nThe Council violent, the rabble worse:\nThat Shimei taught Jerusalem to curse.\n\nWith all these loads of injuries opprest,\nAnd long revolving in his careful breast\nTh'event of things; at last his patience tir'd,\nThus from his royal throne, by Heav'n inspir'd,\nThe god-like David spoke; and awful fear\nHis train their Maker in their Master hear.\n\nThus long have I by native mercy sway'd,\nMy wrongs dissembl'd, my revenge delay'd:\nSo willing to forgive th'offending age;\nSo much the father did the king assuage.\nBut now so far my clemency they slight,\nTh' offenders question my forgiving right.\nThat one was made for many, they contend:\nBut 'tis to rule, for that's a monarch's end.\nThey call my tenderness of blood, my fear:\nThough manly tempers can the longest bear.\nYet, since they will divert my native course,\n'Tis time to shew I am not good by force.\nThose heap'd affronts that haughty subjects bring,\nAre burdens for a camel, not a king:\nKings are the public pillars of the state,\nBorn to sustain and prop the nation's weight:\nIf my young Sampson will pretend a call\nTo shake the column, let him share the fall:\nBut oh that yet he would repent and live!\nHow easy 'tis for parents to forgive!\nWith how few tears a pardon might be won\nFrom Nature, pleading for a darling son!\nPoor pitied youth, by my paternal care,\nRais'd up to all the heights his frame could bear:\nHad God ordain'd his fate for empire born,\nHe would have giv'n his soul another turn:\nGull'd with a patriot's name, whose modern sense\nIs one that would by law supplant his prince:\nThe people's brave, the politician's tool;\nNever was patriot yet, but was a fool.\nWhence comes it that religion and the laws\nShould more be Absalom's than David's cause?\nHis old instructor, e'er he lost his place,\nWas never thought endued with so much grace.\nGood heav'ns, how faction can a patriot paint!\nMy rebel ever proves my people's saint;\nWould they impose an heir upon the throne?\nLet Sanhedrins be taught to give their own.\nA king's at least a part of government;\nAnd mine as requisite as their consent:\nWithout my leave a future king to choose,\nInfers a right the present to depose;\nTrue, they petition me t'approve their choice:\nBut Esau's hands suit ill with Jacob's voice.\nMy pious subjects for my safety pray,\nWhich to secure they take my pow'r away.\nFrom plots and treasons Heav'n preserve my years\nBut save me most from my petitioners.\nUnsatiate as the barren womb or grave;\nGod cannot grant so much as they can crave.\nWhat then is left but with a jealous eye\nTo guard the small remains of royalty?\nThe law shall still direct my peaceful sway,\nAnd the same law teach rebels to obey:\nVotes shall no more establish'd pow'r control,\nSuch votes as make a part exceed the whole:\nNo groundless clamours shall my friends remove,\nNor crowds have pow'r to punish ere they prove:\nFor gods, and god-like kings their care express,\nStill to defend their servants in distress.\nOh that my pow'r to saving were confin'd:\nWhy am I forc'd, like Heav'n, against my mind,\nTo make examples of another kind?\nMust I at length the sword of justice draw?\nOh curst effects of necessary law!\nHow ill my fear they by my mercy scan,\nBeware the fury of a patient man.\nLaw they require, let law then show her face;\nThey could not be content to look on grace,\nHer hinder parts, but with a daring eye\nTo tempt the terror of her front, and die.\nBy their own arts 'tis righteously decreed,\nThose dire artificers of death shall bleed.\nAgainst themselves their witnesses will swear,\nTill viper-like their mother plot they tear:\nAnd suck for nutriment that bloody gore\nWhich was their principle of life before.\nTheir Belial with the Belzebub will fight;\nThus on my foes, my foes shall do me right:\nNor doubt th'event: for factious crowds engage\nIn their first onset, all their brutal rage;\nThen, let 'em take an unresisted course:\nRetire and traverse, and delude their force:\nBut when they stand all breathless, urge the fight,\nAnd rise upon 'em with redoubled might:\nFor lawful pow'r is still superior found,\nWhen long driv'n back, at length it stands the ground.\n\nHe said. Th' Almighty, nodding, gave consent;\nAnd peals of thunder shook the firmament.\nHenceforth a series of new time began,\nThe mighty years in long procession ran:\nOnce more the god-like David was restor'd,\nAnd willing nations knew their lawful lord.",
+      "source": {
+        "name": "John Dryden · PoetryDB",
+        "url": "https://poetrydb.org/title/Absalom%20and%20Achitophel",
+        "trustTier": "community",
+        "author": "John Dryden"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-04T13:49:48.249Z",
+      "hash": "ad091af9f1022c73"
+    },
+    {
+      "id": "art:si:ld1-1643399486815-1643399503740-1",
+      "type": "art",
+      "title": "Patent Model for Hosley Ship's Model Measurer, 1851",
+      "summary": "National Museum of American History · 1850s · Patents",
+      "body": "National Museum of American History\n1850s · Patents",
+      "image": {
+        "src": "data/images/1eada21d7e9a9f69.jpg",
+        "alt": "Patent Model for Hosley Ship's Model Measurer, 1851",
+        "credit": "National Museum of American History · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://n2t.net/ark:/65665/ng49ca746b4-536f-704b-e053-15f76fa0b4fa",
+        "trustTier": "encyclopedic",
+        "date": "1850s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "ship",
+        "patents"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-04T13:49:47.189Z",
+      "hash": "98106064173525f3"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399929169-1",
+      "type": "art",
+      "title": "Ship cloth (palepai)",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1800s · Ship cloth (palepai)",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1800s · Ship cloth (palepai)",
+      "image": {
+        "src": "data/images/c3f4ff6abdf46cd2.jpg",
+        "alt": "Ship cloth (palepai)",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/120288",
+        "trustTier": "encyclopedic",
+        "date": "1800s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "ship",
+        "ship cloth (palepai)"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-04T13:49:47.189Z",
+      "hash": "c059da33468f8f21"
+    },
+    {
+      "id": "apod:2018-03-13",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap180313.html",
+        "trustTier": "encyclopedic",
+        "date": "2018-03-13"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:43.798Z",
+      "hash": "6b6c8dc830a47a45"
+    },
+    {
+      "id": "apod:2022-01-08",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Cheng Luo"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap220108.html",
+        "trustTier": "encyclopedic",
+        "date": "2022-01-08"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:43.798Z",
+      "hash": "2f18a982c14e3e2b"
+    },
+    {
+      "id": "apod:2017-07-31",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap170731.html",
+        "trustTier": "encyclopedic",
+        "date": "2017-07-31"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:43.798Z",
+      "hash": "e5561eb533d6eb66"
+    },
+    {
+      "id": "apod:2008-10-13",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap081013.html",
+        "trustTier": "encyclopedic",
+        "date": "2008-10-13"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:43.798Z",
+      "hash": "2c59697ccf950564"
+    },
+    {
+      "id": "apod:2010-12-15",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap101215.html",
+        "trustTier": "encyclopedic",
+        "date": "2010-12-15"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:43.798Z",
+      "hash": "5929f35bee097387"
+    },
+    {
+      "id": "onthisday:10-04:1876:0a1c1c5205f7c97f",
+      "type": "history",
+      "title": "1876: Texas A&M University",
+      "summary": "Texas A&M University opened as the first public institution of higher education in the U.S. state.",
+      "body": "Texas A&M University opened as the first public institution of higher education in the U.S. state.",
+      "image": {
+        "src": "data/images/45db5e6693303b16.png",
+        "alt": "Texas A&M University",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Texas_A%26M_University",
+        "trustTier": "encyclopedic",
+        "date": "10-04"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:36.086Z",
+      "hash": "ce6c60ac97397450",
+      "expires": "2026-10-07T13:49:36.086Z"
+    },
+    {
+      "id": "onthisday:10-04:1917:ef5aa5b5320a1121",
+      "type": "history",
+      "title": "1917: World War I",
+      "summary": "First World War: The Allies devastated the German defence at the Battle of Broodseinde, prompting a crisis among German commanders and causing a severe loss of morale in the 4th Army.",
+      "body": "First World War: The Allies devastated the German defence at the Battle of Broodseinde, prompting a crisis among German commanders and causing a severe loss of morale in the 4th Army.",
+      "image": {
+        "src": "data/images/37fd173e52361e38.jpg",
+        "alt": "World War I",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/World_War_I",
+        "trustTier": "encyclopedic",
+        "date": "10-04"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:36.086Z",
+      "hash": "5c50f7f1a5fcd8ee",
+      "expires": "2026-10-07T13:49:36.086Z"
+    },
+    {
+      "id": "onthisday:10-04:1862:ecf4cfd212fd516e",
+      "type": "history",
+      "title": "1862: American Civil War",
+      "summary": "American Civil War: After a naval battle in Galveston Harbor, Texas, Confederate commanders negotiated the surrender of the city to Union forces.",
+      "body": "American Civil War: After a naval battle in Galveston Harbor, Texas, Confederate commanders negotiated the surrender of the city to Union forces.",
+      "image": {
+        "src": "data/images/41309e32a43708f5.png",
+        "alt": "American Civil War",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+        "trustTier": "encyclopedic",
+        "date": "10-04"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:36.086Z",
+      "hash": "e07573ca1e0cb090",
+      "expires": "2026-10-07T13:49:36.086Z"
+    },
+    {
+      "id": "wikipedia:14023885",
+      "type": "wiki",
+      "title": "3'-demethylstaurosporine O-methyltransferase",
+      "summary": "3'-demethylstaurosporine O-methyltransferase is an enzyme that catalyzes the chemical reaction",
+      "body": "3'-demethylstaurosporine O-methyltransferase is an enzyme that catalyzes the chemical reaction",
+      "image": {
+        "src": "data/images/e3a3dcb1aa660722.png",
+        "alt": "3'-demethylstaurosporine O-methyltransferase",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/3'-demethylstaurosporine_O-methyltransferase",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:36.073Z",
+      "hash": "c28740324ab85b56"
+    },
+    {
+      "id": "wikipedia:4164882",
+      "type": "wiki",
+      "title": "Gérard Kango Ouédraogo",
+      "summary": "Gérard Kango Ouédraogo was a Burkinabé statesman and diplomat who served as Prime Minister of Upper Volta from 13 February 1971 to 8 February 1974. He was subsequently President of the National Assembly of Upper Volta from October 1978 to 25 November 1980.",
+      "body": "Gérard Kango Ouédraogo was a Burkinabé statesman and diplomat who served as Prime Minister of Upper Volta from 13 February 1971 to 8 February 1974. He was subsequently President of the National Assembly of Upper Volta from October 1978 to 25 November 1980.",
+      "image": {
+        "src": "data/images/cce908866160900d.jpg",
+        "alt": "Gérard Kango Ouédraogo",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/G%C3%A9rard_Kango_Ou%C3%A9draogo",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:35.927Z",
+      "hash": "5cc144628f4cb84c"
+    },
+    {
+      "id": "wikipedia:65594544",
+      "type": "wiki",
+      "title": "Loïc Desriac",
+      "summary": "Loïc Desriac is a French road cyclist, who currently rides for Vietnamese amateur team Dược Domesco Đồng Tháp.",
+      "body": "Loïc Desriac is a French road cyclist, who currently rides for Vietnamese amateur team Dược Domesco Đồng Tháp.",
+      "image": {
+        "src": "data/images/e9f6d17d0591c079.jpg",
+        "alt": "Loïc Desriac",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lo%C3%AFc_Desriac",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:31.558Z",
+      "hash": "71a0865e1927f6ba"
+    },
+    {
+      "id": "wikipedia:19347834",
+      "type": "wiki",
+      "title": "Newman Brothers Coffin Furniture Factory",
+      "summary": "Newman Brothers at The Coffin Works is a museum in the Newman Brothers Coffin Furniture Factory building in the Jewellery Quarter conservation area in Birmingham, England. The museum educates visitors about the social and industrial history of the site, which operated from 1894–1998 as a coffin furniture factory. The…",
+      "body": "Newman Brothers at The Coffin Works is a museum in the Newman Brothers Coffin Furniture Factory building in the Jewellery Quarter conservation area in Birmingham, England. The museum educates visitors about the social and industrial history of the site, which operated from 1894–1998 as a coffin furniture factory. The museum opened in October 2014 after a fifteen-year campaign by the Birmingham Conservation Trust to save the factory building, which ceased trading in 1998, and raise the funds to transform it into a heritage attraction. Located at 13–15 Fleet Street, the building is Grade II* listed.",
+      "image": {
+        "src": "data/images/a1a99b6dc439f2c6.jpg",
+        "alt": "Newman Brothers Coffin Furniture Factory",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Newman_Brothers_Coffin_Furniture_Factory",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-04T13:49:31.468Z",
+      "hash": "891e67068ab87a36"
+    },
     {
       "id": "chess:cYdei",
       "type": "chess",
@@ -11534,1011 +12486,6 @@
       "difficulty": 3,
       "fetchedAt": "2026-09-23T13:29:13.313Z",
       "hash": "ec7421ef0974b359"
-    },
-    {
-      "id": "trivia:93259510687ede22",
-      "type": "trivia",
-      "title": "The fork came to Italy before any other European country.",
-      "summary": "True — or false?",
-      "body": "Answer: True.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-23T13:29:13.313Z",
-      "hash": "93259510687ede22"
-    },
-    {
-      "id": "comic:smbc:b0ba61f7061e3922",
-      "type": "comic",
-      "title": "Taken",
-      "summary": "The worst part is how she's wearing a suit instead of an event t-shirt with holes in it.",
-      "image": {
-        "src": "data/images/722b04bdf8cec0c0.png",
-        "alt": "The worst part is how she's wearing a suit instead of an event t-shirt with holes in it.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/taken",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Tue, 22 Sep 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-23T13:29:11.919Z",
-      "hash": "b0ba61f7061e3922"
-    },
-    {
-      "id": "comic:xkcd:1284",
-      "type": "comic",
-      "title": "Improved Keyboard",
-      "summary": "I'm always installing tons of weird experimental keyboards because it serves as a good reminder that nothing I was going to type was really worth the trouble.",
-      "body": "[[A figure walks on screen, holding a phone, and starts talking to black hat guy.]] Figure: Did you get my texts? Black hat guy: You should install this keyboard I found. Figure: What? Why? Is it better than SwiftKey? Black hat guy: In some ways. [[Black hat guy begins to walk off-panel.]] Figure: Ok, installing... It's not working. The key area is blank-I can't type anything. [[Black hat guy has left. The figure stares at their phone.]] [[The figure lets their hand fall to their side.]] Figure: ... Hey. {{Title text: I'm always installing tons of weird experimental keyboards because it serves as a good reminder that nothing I was going to type was really worth the trouble.}}",
-      "image": {
-        "src": "data/images/fc1fc1093bbba0fa.png",
-        "alt": "I'm always installing tons of weird experimental keyboards because it serves as a good reminder that nothing I was going to type was really worth the trouble.",
-        "credit": "xkcd #1284 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1284/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2013-10-30"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-23T13:29:11.752Z",
-      "hash": "e495b680f3366952"
-    },
-    {
-      "id": "food:71c4574a3215195b",
-      "type": "food",
-      "title": "Butternut Squash Soup with Red Lentils",
-      "summary": "A beautiful butternut squash soup with enough substance to make a real meal of it. Finish each bowl with a colorful medley of toppings: a bright herb oil, toasted pepitas, goat cheese, or whatever else you have on hand. Peak meal in a bowl situation. Continue reading Butternut Squash Soup with Red…",
-      "body": "A beautiful butternut squash soup with enough substance to make a real meal of it. Finish each bowl with a colorful medley of toppings: a bright herb oil, toasted pepitas, goat cheese, or whatever else you have on hand. Peak meal in a bowl situation. Continue reading Butternut Squash Soup with Red Lentils on 101 Cookbooks",
-      "image": {
-        "src": "data/images/7e9e9a9c3a207138.jpg",
-        "alt": "Butternut Squash Soup with Red Lentils",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/butternut-squash-soup/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Tue, 22 Sep 2026 18:33:4"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "260+ vegan recipes",
-        "90 best soup recipes",
-        "dinner ideas",
-        "fall",
-        "gluten free recipes",
-        "side dish recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:29:11.151Z",
-      "hash": "71c4574a3215195b"
-    },
-    {
-      "id": "craft:c6e9050e106aa778",
-      "type": "craft",
-      "title": "Diverse and Dramatic Behaviors Top the 2026 Bird Photographer of the Year Contest",
-      "summary": "This year, the competition welcomed more than 24,000 entries from photographers around the globe.",
-      "body": "This year, the competition welcomed more than 24,000 entries from photographers around the globe.",
-      "image": {
-        "src": "data/images/49ac3571bd29267f.jpg",
-        "alt": "Diverse and Dramatic Behaviors Top the 2026 Bird Photographer of the Year Contest",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/09/bird-photographer-of-the-year-winners-2026/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Tue, 22 Sep 2026 15:15:2"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "nature",
-        "photography",
-        "animals",
-        "birds",
-        "bpoty",
-        "wildlife"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:29:11.060Z",
-      "hash": "c6e9050e106aa778"
-    },
-    {
-      "id": "craft:db293f76a48223ff",
-      "type": "craft",
-      "title": "Emmy Star Brown’s Vivid Murals Channel Youthfulness and Play",
-      "summary": "Brown's work is currently on view in 'The Peace of Wild Things' at Joy Machine.",
-      "body": "Brown's work is currently on view in 'The Peace of Wild Things' at Joy Machine.",
-      "image": {
-        "src": "data/images/1b66e1559f7a3784.jpg",
-        "alt": "Emmy Star Brown’s Vivid Murals Channel Youthfulness and Play",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/09/emmy-star-brown-murals/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Tue, 22 Sep 2026 17:00:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "abstract",
-        "color",
-        "emmy star brown",
-        "murals",
-        "public art"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:29:11.060Z",
-      "hash": "db293f76a48223ff"
-    },
-    {
-      "id": "word:e7feed4c67ffa8fb",
-      "type": "word",
-      "title": "sophrosyne",
-      "summary": "Noun: The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "body": "1. The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/sophrosyne",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:29:08.296Z",
-      "hash": "e7feed4c67ffa8fb"
-    },
-    {
-      "id": "quote:a944169c5e0f9698",
-      "type": "quote",
-      "title": "“Perplexity is the beginning of knowledge.”",
-      "summary": "— Kahlil Gibran",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Kahlil_Gibran",
-        "trustTier": "community",
-        "author": "Kahlil Gibran"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:29:06.278Z",
-      "hash": "a944169c5e0f9698"
-    },
-    {
-      "id": "quote:e66d10717bc15a5d",
-      "type": "quote",
-      "title": "“He who leaves the game wins it.”",
-      "summary": "— Nicolas Chamfort",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Nicolas_Chamfort",
-        "trustTier": "community",
-        "author": "Nicolas Chamfort"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:29:06.278Z",
-      "hash": "e66d10717bc15a5d"
-    },
-    {
-      "id": "quote:69773bf7b47f4705",
-      "type": "quote",
-      "title": "“The only limits in our life are those we impose on ourselves.”",
-      "summary": "— Bob Proctor",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Bob_Proctor",
-        "trustTier": "community",
-        "author": "Bob Proctor"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:29:06.278Z",
-      "hash": "69773bf7b47f4705"
-    },
-    {
-      "id": "article:c7898e3a567192d4",
-      "type": "article",
-      "title": "Nouvelle Vague: Insolent Like No One Else",
-      "summary": "A weight of seriousness has always hung around the critics of the French film journal Cahiers du cinéma who went on to become the directors of the New Wave. Jean-Luc Godard in particular has been revered as an intellectual artist, especially among other European critics and filmmakers. With this…",
-      "body": "A weight of seriousness has always hung around the critics of the French film journal Cahiers du cinéma who went on to become the directors of the New Wave. Jean-Luc Godard in particular has been revered as an intellectual artist, especially among other European critics and filmmakers. With this fearsome reputation, it is hard to imagine that any of these compatriots would dare attempt to recreate the making of one of Godard’s films, let alone the iconic Breathless—and even if they did, they would be very unlikely to depict the shoot as lighthearted, experimental fun. Perhaps only an…",
-      "image": {
-        "src": "data/images/811b6e5e9f7389b4.jpg",
-        "alt": "Nouvelle Vague: Insolent Like No One Else",
-        "credit": "The Current (Criterion)"
-      },
-      "source": {
-        "name": "The Current (Criterion)",
-        "url": "https://www.criterion.com/current/posts/9285-nouvelle-vague-insolent-like-no-one-else",
-        "trustTier": "publication",
-        "author": "Nick James",
-        "date": "Tue, 22 Sep 2026 11:08:0"
-      },
-      "tags": [
-        "film",
-        "essay",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:29:03.421Z",
-      "hash": "c7898e3a567192d4"
-    },
-    {
-      "id": "article:d3803d1d062077ca",
-      "type": "article",
-      "title": "Icons, symbols, metaphors, analogies, …",
-      "summary": "As counterpoint to Scott Alexander's impressive \"King Ludd\" exploration, consider this thematic image from The Spectator magazine (\"The autistocracy: the men on the spectrum who rule our world\"), featuring caricatures of Elon Musk, Dario Amodei, and Sam Altman engaged in modeling a cubical world:…",
-      "body": "As counterpoint to Scott Alexander's impressive \"King Ludd\" exploration, consider this thematic image from The Spectator magazine (\"The autistocracy: the men on the spectrum who rule our world\"), featuring caricatures of Elon Musk, Dario Amodei, and Sam Altman engaged in modeling a cubical world: This should immediately remind us of William Blake's image of Urizen […]",
-      "image": {
-        "src": "data/images/7f85e252d0aa778f.png",
-        "alt": "Icons, symbols, metaphors, analogies, …",
-        "credit": "Language Log"
-      },
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74243&utm_source=rss&utm_medium=rss&utm_campaign=icons-symbols-metaphors-analogies",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Sun, 20 Sep 2026 11:40:4"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "metaphors"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:29:00.964Z",
-      "hash": "d3803d1d062077ca"
-    },
-    {
-      "id": "article:b82a5408d999f4ad",
-      "type": "article",
-      "title": "Steve Jobs in Exile",
-      "summary": "We all know the Steve Jobs who came back in the late 1990s and saved Apple from becoming a footnote. And we’ve all heard the story of how, in 1985, he was pushed out of the company he’d created. What we don’t know is what happened in between. Geoffrey Cain spent years reconstructing the decade ……",
-      "body": "We all know the Steve Jobs who came back in the late 1990s and saved Apple from becoming a footnote. And we’ve all heard the story of how, in 1985, he was pushed out of the company he’d created. What we don’t know is what happened in between. Geoffrey Cain spent years reconstructing the decade … The post Steve Jobs in Exile appeared first on Farnam Street.",
-      "source": {
-        "name": "Farnam Street",
-        "url": "https://fs.blog/knowledge-project-podcast/geoffrey-cain/",
-        "trustTier": "community",
-        "author": "Vicky",
-        "date": "Thu, 27 Aug 2026 09:50:0"
-      },
-      "tags": [
-        "ideas",
-        "psychology",
-        "decision-making"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:28:58.049Z",
-      "hash": "b82a5408d999f4ad"
-    },
-    {
-      "id": "article:bf63083271f16e23",
-      "type": "article",
-      "title": "Loneliness and Social Isolation Can Rob Men of Six Disease-Free Years of Their Lives",
-      "summary": "Don’t neglect your emotional health, gentlemen The post Loneliness and Social Isolation Can Rob Men of Six Disease-Free Years of Their Lives appeared first on Nautilus.",
-      "body": "Don’t neglect your emotional health, gentlemen The post Loneliness and Social Isolation Can Rob Men of Six Disease-Free Years of Their Lives appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/5d98336405219c8e.jpg",
-        "alt": "Loneliness and Social Isolation Can Rob Men of Six Disease-Free Years of Their Lives",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/loneliness-and-social-isolation-can-rob-men-of-six-disease-free-years-of-their-lives-1285210/",
-        "trustTier": "publication",
-        "author": "Jake Currie",
-        "date": "Wed, 23 Sep 2026 12:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "health"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:28:57.928Z",
-      "hash": "bf63083271f16e23"
-    },
-    {
-      "id": "article:18d1add9fd3d2868",
-      "type": "article",
-      "title": "Whatever Happened to America’s Frontier Spirit?",
-      "summary": "As the world became less risky, we collectively changed what we considered ‘safe enough.’ But instead of simply making us more secure, our increasing desire for safety is now holding us back.",
-      "body": "As the world became less risky, we collectively changed what we considered ‘safe enough.’ But instead of simply making us more secure, our increasing desire for safety is now holding us back.",
-      "image": {
-        "src": "data/images/1f95f4ccbd2858a2.jpg",
-        "alt": "Whatever Happened to America’s Frontier Spirit?",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/whatever-happened-americas-frontier-culture-risk-gen-z",
-        "trustTier": "publication",
-        "author": "Allison Schrager",
-        "date": "Wed, 23 Sep 2026 02:04:0"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:28:56.940Z",
-      "hash": "18d1add9fd3d2868",
-      "expires": "2026-10-23T13:28:56.940Z"
-    },
-    {
-      "id": "article:50f2a9fcdaffe25c",
-      "type": "article",
-      "title": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
-      "summary": "The post The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way appeared first on ProPublica.",
-      "body": "The post The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/7a0a7a137e3dfc8e.jpg",
-        "alt": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation",
-        "trustTier": "publication",
-        "author": "William Turton",
-        "date": "Tue, 22 Sep 2026 09:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "politics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:28:56.779Z",
-      "hash": "50f2a9fcdaffe25c",
-      "expires": "2026-12-22T13:28:56.779Z"
-    },
-    {
-      "id": "poetry:6555190bd0be4324",
-      "type": "poem",
-      "title": "On the Death of the Honourable Mr. James Thynne",
-      "summary": "Farewell, lov'd Youth! since 'twas the Will of Heaven\nSo soon to take, what had so late been giv'n;\nAnd thus our Expectations to destroy,\nRaising a Grief, where we had form'd a Joy;",
-      "body": "Farewell, lov'd Youth! since 'twas the Will of Heaven\nSo soon to take, what had so late been giv'n;\nAnd thus our Expectations to destroy,\nRaising a Grief, where we had form'd a Joy;\nWho once believ'd, it was the Fates Design\nIn Him to double an Illustrious Line,\nAnd in a second Channel spread that Race\nWhere ev'ry Virtue shines, with every Grace.\nBut we mistook, and 'twas not here below\nThat this engrafted Scion was to grow;\nThe Seats above requir'd him, that each Sphere\nMight soon the Offspring of such Parents share.\nResign him then to the supream Intent,\nYou, who but Flesh to that blest Spirit lent.\nAgain disrob'd, let him to Bliss retire,\nAnd only bear from you, amidst that Choir,\nWhat, Precept or Example did inspire,\nA Title to Rewards, from that rich store\nOf Pious Works, which you have sent before.\nThen lay the fading Reliques, which remain,\nIn the still Vault (excluding farther Pain);\nWhere Kings and Counsellors their Progress close,\nAnd his renowned Ancestors repose;\nWhere COVENTRY withdrew All but in Name,\nLeaving the World his Benefits and Fame;\nWhere his Paternal Predecessor lies,\nOnce large of Thought, and rank'd among the Wise;\nWhose Genius in Long-Leat we may behold\n(A Pile, as noble as if he'd been told\nBy WEYMOUTH, it shou'd be in time possest,\nAnd strove to suit the Mansion to the Guest.)\nNor favour'd, nor disgrac'd, there ESSEX sleeps,\nNor SOMERSET his Master's Sorrows weeps,\nWho to the shelter of th' unenvy'd Grave\nConvey'd the Monarch, whom he cou'd not save;\nThough, Roman-like, his own less-valu'd Head\nHe proffer'd in that injur'd Martyr's stead.\nNor let that matchless Female 'scape my Pen,\nWho their Whole Duty taught to weaker Men,\nAnd of each Sex the Two best Gifts enjoy'd,\nThe Skill to write, the Modesty to hide;\nWhilst none shou'd that Performance disbelieve,\nWho led the Life, might the Directions give.\nWith such as These, whence He deriv'd his Blood,\nGreat on Record, or eminently Good,\nLet Him be laid, till Death's long Night shall cease,\nAnd breaking Glory interrupt the Peace.\nMean-while, ye living Parents, ease your Grief\nBy Tears, allow'd as Nature's due Relief.\nFor when we offer to the Pow'rs above,\nLike You, the dearest Objects of our Love;\nWhen, with that patient Saint in Holy Writ,\nWe've learnt at once to Grieve, and to Submit;\nWhen contrite Sighs, like hallow'd Incense, rise\nBearing our Anguish to th' appeased Skies;\nThen may those Show'rs, which take from Sorrow birth,\nAnd still are tending tow'rd this baleful Earth,\nO'er all our deep and parching Cares diffuse,\nLike Eden's Springs, or Hermon's soft'ning Dews.\n\nBut lend your Succours, ye Almighty Pow'rs,\nFor as the Wound, the Balsam too is Yours.\nIn vain are Numbers, or persuasive Speech,\nWhat Poets write, or what the Pastors teach,\nTill You, who make, again repair the Breach.\nFor when to Shades of Death our Joys are fled,\nWhen for a Loss, like This, our Tears are shed,\nNone can revive the Heart, but who can raise the Dead.\nBut yet, my Muse, if thou hadst softer Verse\nThan e'er bewail'd the melancholy Herse;\nIf thou hadst Pow'r to dissipate the Gloom\nInherent to the Solitary Tomb;\nTo rescue thence the Memory and Air\nOf what we lately saw so Fresh, so Fair;\nThen shou'd this Noble Youth thy Art engage\nTo shew the Beauties of his blooming Age,\nThe pleasing Light, that from his Eyes was cast,\nLike hasty Beams, too Vigorous to last;\nWhere the warm Soul, as on the Confines, lay\nReady for Flight, and for Eternal Day.\nGently dispos'd his Nature shou'd be shown,\nAnd all the Mother's Sweetness made his Own.\nThe Father's Likeness was but faintly seen,\nAs ripen'd Fruits are figur'd by the Green.\nNor cou'd we hope, had he fulfill'd his Days,\nHe shou'd have reach'd WEYMOUTH's unequal'd Praise.\nStill One distinguish'd plant each Lineage shews,\nAnd all the rest beneath it's Stature grows.\nOf Tully's Race but He possess'd the Tongue,\nAnd none like Julius from the Caesars sprung.\nNext, in his harmless Sports he shou'd be drawn\nUrging his Courser, o'er the flow'ry Lawn;\nSprightly Himself, as the enliven'd Game,\nBold in the Chace, and full of gen'rous Flame;\nYet in the Palace, Tractable and Mild,\nPerfect in all the Duties of a Child;\nWhich fond Reflection pleases, whilst it pains,\nLike penetrating Notes of sad Harmonious Strains.\nSelected Friendships timely he began,\nAnd siezed in Youth that best Delight of Man,\nLeaving a growing Race to mourn his End,\nTheir earliest and their Ages promis'd Friend.\nBut far away alas! that Prospect moves,\nLost in the Clouds, like distant Hills and Groves,\nWhilst with encreasing Steps we all pursue\nWhat Time alone can bring to nearer View,\nThat Future State, which Darkness yet involves,\nKnown but by Death, which ev'ry Doubt resolves.",
-      "source": {
-        "name": "Anne Kingsmill Finch · PoetryDB",
-        "url": "https://poetrydb.org/title/On%20the%20Death%20of%20the%20Honourable%20Mr.%20James%20Thynne",
-        "trustTier": "community",
-        "author": "Anne Kingsmill Finch"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:28:52.736Z",
-      "hash": "6555190bd0be4324"
-    },
-    {
-      "id": "poetry:c2dffb9f2d4fad7c",
-      "type": "poem",
-      "title": "The Canterbury Tales: The Prologue",
-      "summary": "WHEN that Aprilis, with his showers swoot,\nThe drought of March hath pierced to the root,\nAnd bathed every vein in such licour,\nOf which virtue engender'd is the flower;",
-      "body": "WHEN that Aprilis, with his showers swoot,\nThe drought of March hath pierced to the root,\nAnd bathed every vein in such licour,\nOf which virtue engender'd is the flower;\nWhen Zephyrus eke with his swoote breath\nInspired hath in every holt and heath\nThe tender croppes and the younge sun\nHath in the Ram  his halfe course y-run,\nAnd smalle fowles make melody,\nThat sleepen all the night with open eye,\n(So pricketh them nature in their corages);\nThen longe folk to go on pilgrimages,\nAnd palmers  for to seeke strange strands,\nTo ferne hallows couth in sundry lands;\nAnd specially, from every shire's end\nOf Engleland, to Canterbury they wend,\nThe holy blissful Martyr for to seek,\nThat them hath holpen, when that they were sick.\n\nBefell that, in that season on a day,\nIn Southwark at the Tabard  as I lay,\nReady to wenden on my pilgrimage\nTo Canterbury with devout corage,\nAt night was come into that hostelry\nWell nine and twenty in a company\nOf sundry folk, by aventure y-fall\nIn fellowship, and pilgrims were they all,\nThat toward Canterbury woulde ride.\nThe chamber, and the stables were wide,\nAnd well we weren eased at the best.\nAnd shortly, when the sunne was to rest,\nSo had I spoken with them every one,\nThat I was of their fellowship anon,\nAnd made forword early for to rise,\nTo take our way there as I you devise.\n\nBut natheless, while I have time and space,\nEre that I farther in this tale pace,\nMe thinketh it accordant to reason,\nTo tell you alle the condition\nOf each of them, so as it seemed me,\nAnd which they weren, and of what degree;\nAnd eke in what array that they were in:\nAnd at a Knight then will I first begin.\n\nA KNIGHT there was, and that a worthy man,\nThat from the time that he first began\nTo riden out, he loved chivalry,\nTruth and honour, freedom and courtesy.\nFull worthy was he in his Lorde's war,\nAnd thereto had he ridden, no man farre,\nAs well in Christendom as in Heatheness,\nAnd ever honour'd for his worthiness\nAt Alisandre  he was when it was won.\nFull often time he had the board begun\nAbove alle nations in Prusse.\nIn Lettowe had he reysed, and in Russe,\nNo Christian man so oft of his degree.\nIn Grenade at the siege eke had he be\nOf Algesir, and ridden in Belmarie.\nAt Leyes was he, and at Satalie,\nWhen they were won; and in the Greate Sea\nAt many a noble army had he be.\nAt mortal battles had he been fifteen,\nAnd foughten for our faith at Tramissene.\nIn listes thries, and aye slain his foe.\nThis ilke worthy knight had been also\nSome time with the lord of Palatie,\nAgainst another heathen in Turkie:\nAnd evermore he had a sovereign price.\nAnd though that he was worthy he was wise,\nAnd of his port as meek as is a maid.\nHe never yet no villainy ne said\nIn all his life, unto no manner wight.\nHe was a very perfect gentle knight.\nBut for to telle you of his array,\nHis horse was good, but yet he was not gay.\nOf fustian he weared a gipon,\nAlle besmotter'd with his habergeon,\nFor he was late y-come from his voyage,\nAnd wente for to do his pilgrimage.\n\nWith him there was his son, a younge SQUIRE,\nA lover, and a lusty bacheler,\nWith lockes crulle as they were laid in press.\nOf twenty year of age he was I guess.\nOf his stature he was of even length,\nAnd wonderly deliver, and great of strength.\nAnd he had been some time in chevachie,\nIn Flanders, in Artois, and Picardie,\nAnd borne him well, as of so little space,\nIn hope to standen in his lady's grace.\nEmbroider'd was he, as it were a mead\nAll full of freshe flowers, white and red.\nSinging he was, or fluting all the day;\nHe was as fresh as is the month of May.\nShort was his gown, with sleeves long and wide.\nWell could he sit on horse, and faire ride.\nHe coulde songes make, and well indite,\nJoust, and eke dance, and well pourtray and write.\nSo hot he loved, that by nightertale\nHe slept no more than doth the nightingale.\nCourteous he was, lowly, and serviceable,\nAnd carv'd before his father at the table.\n\nA YEOMAN had he, and servants no mo'\nAt that time, for him list ride so\nAnd he was clad in coat and hood of green.\nA sheaf of peacock arrows bright and keen\nUnder his belt he bare full thriftily.\nWell could he dress his tackle yeomanly:\nHis arrows drooped not with feathers low;\nAnd in his hand he bare a mighty bow.\nA nut-head  had he, with a brown visiage:\nOf wood-craft coud he well all the usage:\nUpon his arm he bare a gay bracer,\nAnd by his side a sword and a buckler,\nAnd on that other side a gay daggere,\nHarnessed well, and sharp as point of spear:\nA Christopher on his breast of silver sheen.\nAn horn he bare, the baldric was of green:\nA forester was he soothly as I guess.\n\nThere was also a Nun, a PRIORESS,\nThat of her smiling was full simple and coy;\nHer greatest oathe was but by Saint Loy;\nAnd she was cleped Madame Eglentine.\nFull well she sang the service divine,\nEntuned in her nose full seemly;\nAnd French she spake full fair and fetisly\nAfter the school of Stratford atte Bow,\nFor French of Paris was to her unknow.\nAt meate was she well y-taught withal;\nShe let no morsel from her lippes fall,\nNor wet her fingers in her sauce deep.\nWell could she carry a morsel, and well keep,\nThat no droppe ne fell upon her breast.\nIn courtesy was set full much her lest.\nHer over-lippe wiped she so clean,\nThat in her cup there was no farthing seen\nOf grease, when she drunken had her draught;\nFull seemely after her meat she raught:\nAnd sickerly she was of great disport,\nAnd full pleasant, and amiable of port,\nAnd pained her to counterfeite cheer\nOf court, and be estately of mannere,\nAnd to be holden digne of reverence.\nBut for to speaken of her conscience,\nShe was so charitable and so pitous,\nShe woulde weep if that she saw a mouse\nCaught in a trap, if it were dead or bled.\nOf smalle houndes had she, that she fed\nWith roasted flesh, and milk, and wastel bread.\nBut sore she wept if one of them were dead,\nOr if men smote it with a yarde smart:\nAnd all was conscience and tender heart.\nFull seemly her wimple y-pinched was;\nHer nose tretis; her eyen gray as glass;\nHer mouth full small, and thereto soft and red;\nBut sickerly she had a fair forehead.\nIt was almost a spanne broad I trow;\nFor hardily she was not undergrow.\nFull fetis was her cloak, as I was ware.\nOf small coral about her arm she bare\nA pair of beades, gauded all with green;\nAnd thereon hung a brooch of gold full sheen,\nOn which was first y-written a crown'd A,\nAnd after, Amor vincit omnia.\nAnother Nun also with her had she,\n[That was her chapelleine, and PRIESTES three.]\n\nA MONK there was, a fair for the mast'ry,\nAn out-rider, that loved venery;\nA manly man, to be an abbot able.\nFull many a dainty horse had he in stable:\nAnd when he rode, men might his bridle hear\nJingeling  in a whistling wind as clear,\nAnd eke as loud, as doth the chapel bell,\nThere as this lord was keeper of the cell.\nThe rule of Saint Maur and of Saint Benet,\nBecause that it was old and somedeal strait\nThis ilke monk let olde thinges pace,\nAnd held after the newe world the trace.\nHe gave not of the text a pulled hen,\nThat saith, that hunters be not holy men:\nNe that a monk, when he is cloisterless;\nIs like to a fish that is waterless;\nThis is to say, a monk out of his cloister.\nThis ilke text held he not worth an oyster;\nAnd I say his opinion was good.\nWhy should he study, and make himselfe wood\nUpon a book in cloister always pore,\nOr swinken with his handes, and labour,\nAs Austin bid? how shall the world be served?\nLet Austin have his swink to him reserved.\nTherefore he was a prickasour aright:\nGreyhounds he had as swift as fowl of flight;\nOf pricking and of hunting for the hare\nWas all his lust, for no cost would he spare.\n I saw his sleeves purfil'd at the hand\nWith gris, and that the finest of the land.\nAnd for to fasten his hood under his chin,\nHe had of gold y-wrought a curious pin;\nA love-knot in the greater end there was.\nHis head was bald, and shone as any glass,\nAnd eke his face, as it had been anoint;\nHe was a lord full fat and in good point;\nHis eyen steep, and rolling in his head,\nThat steamed as a furnace of a lead.\nHis bootes supple, his horse in great estate,\nNow certainly he was a fair prelate;\nHe was not pale as a forpined ghost;\nA fat swan lov'd he best of any roast.\nHis palfrey was as brown as is a berry.\n\nA FRIAR there was, a wanton and a merry,\nA limitour , a full solemne man.\nIn all the orders four is none that can\nSo much of dalliance and fair language.\nHe had y-made full many a marriage\nOf younge women, at his owen cost.\nUnto his order he was a noble post;\nFull well belov'd, and familiar was he\nWith franklins over all in his country,\nAnd eke with worthy women of the town:\nFor he had power of confession,\nAs said himselfe, more than a curate,\nFor of his order he was licentiate.\nFull sweetely heard he confession,\nAnd pleasant was his absolution.\nHe was an easy man to give penance,\nThere as he wist to have a good pittance:\nFor unto a poor order for to give\nIs signe that a man is well y-shrive.\nFor if he gave, he durste make avant,\nHe wiste that the man was repentant.\nFor many a man so hard is of his heart,\nHe may not weep although him sore smart.\nTherefore instead of weeping and prayeres,\nMen must give silver to the poore freres.\nHis tippet was aye farsed full of knives\nAnd pinnes, for to give to faire wives;\nAnd certainly he had a merry note:\nWell could he sing and playen on a rote;\nOf yeddings he bare utterly the prize.\nHis neck was white as is the fleur-de-lis.\nThereto he strong was as a champion,\nAnd knew well the taverns in every town.\nAnd every hosteler and gay tapstere,\nBetter than a lazar or a beggere,\nFor unto such a worthy man as he\nAccordeth not, as by his faculty,\nTo have with such lazars acquaintance.\nIt is not honest, it may not advance,\nAs for to deale with no such pouraille,\nBut all with rich, and sellers of vitaille.\nAnd ov'r all there as profit should arise,\nCourteous he was, and lowly of service;\nThere n'as no man nowhere so virtuous.\nHe was the beste beggar in all his house:\nAnd gave a certain farme for the grant,\nNone of his bretheren came in his haunt.\nFor though a widow hadde but one shoe,\nSo pleasant was his In Principio,\nYet would he have a farthing ere he went;\nHis purchase was well better than his rent.\nAnd rage he could and play as any whelp,\nIn lovedays ; there could he muchel help.\nFor there was he not like a cloisterer,\nWith threadbare cope as is a poor scholer;\nBut he was like a master or a pope.\nOf double worsted was his semicope,\nThat rounded was as a bell out of press.\nSomewhat he lisped for his wantonness,\nTo make his English sweet upon his tongue;\nAnd in his harping, when that he had sung,\nHis eyen twinkled in his head aright,\nAs do the starres in a frosty night.\nThis worthy limitour  was call'd Huberd.\n\nA MERCHANT was there with a forked beard,\nIn motley, and high on his horse he sat,\nUpon his head a Flandrish beaver hat.\nHis bootes clasped fair and fetisly.\nHis reasons aye spake he full solemnly,\nSounding alway th' increase of his winning.\nHe would the sea were kept  for any thing\nBetwixte Middleburg and Orewell\nWell could he in exchange shieldes sell\nThis worthy man full well his wit beset;\nThere wiste no wight that he was in debt,\nSo estately was he of governance\nWith his bargains, and with his chevisance.\nFor sooth he was a worthy man withal,\nBut sooth to say, I n'ot how men him call.\n\nA CLERK there was of Oxenford also,\nThat unto logic hadde long y-go.\nAs leane was his horse as is a rake,\nAnd he was not right fat, I undertake;\nBut looked hollow, and thereto soberly.\nFull threadbare was his overest courtepy,\nFor he had gotten him yet no benefice,\nNe was not worldly, to have an office.\nFor him was lever have at his bed's head\nTwenty bookes, clothed in black or red,\nOf Aristotle, and his philosophy,\nThan robes rich, or fiddle, or psalt'ry.\nBut all be that he was a philosopher,\nYet hadde he but little gold in coffer,\nBut all that he might of his friendes hent,\nOn bookes and on learning he it spent,\nAnd busily gan for the soules pray\nOf them that gave him  wherewith to scholay\nOf study took he moste care and heed.\nNot one word spake he more than was need;\nAnd that was said in form and reverence,\nAnd short and quick, and full of high sentence.\nSounding in moral virtue was his speech,\nAnd gladly would he learn, and gladly teach.\n\nA SERGEANT OF THE LAW, wary and wise,\nThat often had y-been at the Parvis,\nThere was also, full rich of excellence.\nDiscreet he was, and of great reverence:\nHe seemed such, his wordes were so wise,\nJustice he was full often in assize,\nBy patent, and by plein commission;\nFor his science, and for his high renown,\nOf fees and robes had he many one.\nSo great a purchaser was nowhere none.\nAll was fee simple to him, in effect\nHis purchasing might not be in suspect\nNowhere so busy a man as he there was\nAnd yet he seemed busier than he was\nIn termes had he case' and doomes all\nThat from the time of King Will. were fall.\nThereto he could indite, and make a thing\nThere coulde no wight pinch at his writing.\nAnd every statute coud he plain by rote\nHe rode but homely in a medley coat,\nGirt with a seint of silk, with barres small;\nOf his array tell I no longer tale.\n\nA FRANKELIN was in this company;\nWhite was his beard, as is the daisy.\nOf his complexion he was sanguine.\nWell lov'd he in the morn a sop in wine.\nTo liven in delight was ever his won,\nFor he was Epicurus' owen son,\nThat held opinion, that plein delight\nWas verily felicity perfite.\nAn householder, and that a great, was he;\nSaint Julian he was in his country.\nHis bread, his ale, was alway after one;\nA better envined man was nowhere none;\nWithoute bake-meat never was his house,\nOf fish and flesh, and that so plenteous,\nIt snowed in his house of meat and drink,\nOf alle dainties that men coulde think.\nAfter the sundry seasons of the year,\nSo changed he his meat and his soupere.\nFull many a fat partridge had he in mew,\nAnd many a bream, and many a luce in stew\nWoe was his cook, but if his sauce were\nPoignant and sharp, and ready all his gear.\nHis table dormant in his hall alway\nStood ready cover'd all the longe day.\nAt sessions there was he lord and sire.\nFull often time he was knight of the shire\nAn anlace, and a gipciere all of silk,\nHung at his girdle, white as morning milk.\nA sheriff had he been, and a countour\nWas nowhere such a worthy vavasour.\n\n An HABERDASHER, and a CARPENTER,\nA WEBBE, a DYER, and a TAPISER,\nWere with us eke, cloth'd in one livery,\nOf a solemn and great fraternity.\nFull fresh and new their gear y-picked was.\nTheir knives were y-chaped not with brass,\nBut all with silver wrought full clean and well,\nTheir girdles and their pouches every deal.\nWell seemed each of them a fair burgess,\nTo sitten in a guild-hall, on the dais.\nEvereach, for the wisdom that he can,\nWas shapely for to be an alderman.\nFor chattels hadde they enough and rent,\nAnd eke their wives would it well assent:\nAnd elles certain they had been to blame.\nIt is full fair to be y-clep'd madame,\nAnd for to go to vigils all before,\nAnd have a mantle royally y-bore.\n\nA COOK they hadde with them for the nones,\nTo boil the chickens and the marrow bones,\nAnd powder merchant tart and galingale.\nWell could he know a draught of London ale.\nHe could roast, and stew, and broil, and fry,\nMake mortrewes, and well bake a pie.\nBut great harm was it, as it thoughte me,\nThat, on his shin a mormal hadde he.\nFor blanc manger, that made he with the best\n\nA SHIPMAN was there, wonned far by West:\nFor ought I wot, be was of Dartemouth.\nHe rode upon a rouncy, as he couth,\nAll in a gown of falding to the knee.\nA dagger hanging by a lace had he\nAbout his neck under his arm adown;\nThe hot summer had made his hue all brown;\nAnd certainly he was a good fellaw.\nFull many a draught of wine he had y-draw\nFrom Bourdeaux-ward, while that the chapmen sleep;\nOf nice conscience took he no keep.\nIf that he fought, and had the higher hand,\nBy water he sent them home to every land.\nBut of his craft to reckon well his tides,\nHis streames and his strandes him besides,\nHis herberow, his moon, and lodemanage,\nThere was none such, from Hull unto Carthage\nHardy he was, and wise, I undertake:\nWith many a tempest had his beard been shake.\nHe knew well all the havens, as they were,\nFrom Scotland to the Cape of Finisterre,\nAnd every creek in Bretagne and in Spain:\nHis barge y-cleped was the Magdelain.\n\nWith us there was a DOCTOR OF PHYSIC;\nIn all this worlde was there none him like\nTo speak of physic, and of surgery:\nFor he was grounded in astronomy.\nHe kept his patient a full great deal\nIn houres by his magic natural.\nWell could he fortune the ascendent\nOf his images for his patient,.\nHe knew the cause of every malady,\nWere it of cold, or hot, or moist, or dry,\nAnd where engender'd, and of what humour.\nHe was a very  perfect practisour\nThe cause y-know, and of his harm the root,\nAnon he gave to the sick man his boot\nFull ready had he his apothecaries,\nTo send his drugges and his lectuaries\nFor each of them made other for to win\nTheir friendship was not newe to begin\nWell knew he the old Esculapius,\nAnd Dioscorides, and eke Rufus;\nOld Hippocras, Hali, and Gallien;\nSerapion, Rasis, and Avicen;\nAverrois, Damascene, and Constantin;\nBernard, and Gatisden, and Gilbertin.\nOf his diet measurable was he,\nFor it was of no superfluity,\nBut of great nourishing, and digestible.\nHis study was but little on the Bible.\nIn sanguine and in perse he clad was all\nLined with taffeta, and with sendall.\nAnd yet he was but easy of dispense:\nHe kept that he won in the pestilence.\nFor gold in physic is a cordial;\nTherefore he loved gold in special.\n\nA good WIFE was there OF beside BATH,\nBut she was somedeal deaf, and that was scath.\nOf cloth-making she hadde such an haunt,\nShe passed them of Ypres, and of Gaunt.\nIn all the parish wife was there none,\nThat to the off'ring before her should gon,\nAnd if there did, certain so wroth was she,\nThat she was out of alle charity\nHer coverchiefs were full fine of ground\nI durste swear, they weighede ten pound\nThat on the Sunday were upon her head.\nHer hosen weren of fine scarlet red,\nFull strait y-tied, and shoes full moist and new\nBold was her face, and fair and red of hue.\nShe was a worthy woman all her live,\nHusbands at the church door had she had five,\nWithouten other company in youth;\nBut thereof needeth not to speak as nouth.\nAnd thrice had she been at Jerusalem;\nShe hadde passed many a strange stream\nAt Rome she had been, and at Bologne,\nIn Galice at Saint James,  and at Cologne;\nShe coude much of wand'rng by the Way.\nGat-toothed was she, soothly for to say.\nUpon an ambler easily she sat,\nY-wimpled well, and on her head an hat\nAs broad as is a buckler or a targe.\nA foot-mantle about her hippes large,\nAnd on her feet a pair of spurres sharp.\nIn fellowship well could she laugh and carp\nOf remedies of love she knew perchance\nFor of that art she coud the olde dance.\n\nA good man there was of religion,\nThat was a poore PARSON of a town:\nBut rich he was of holy thought and werk.\nHe was also a learned man, a clerk,\nThat Christe's gospel truly woulde preach.\nHis parishens devoutly would he teach.\nBenign he was, and wonder diligent,\nAnd in adversity full patient:\nAnd such he was y-proved often sithes.\nFull loth were him to curse for his tithes,\nBut rather would he given out of doubt,\nUnto his poore parishens about,\nOf his off'ring, and eke of his substance.\nHe could in little thing have suffisance.\nWide was his parish, and houses far asunder,\nBut he ne left not, for no rain nor thunder,\nIn sickness and in mischief to visit\nThe farthest in his parish, much and lit,\nUpon his feet, and in his hand a staff.\nThis noble ensample to his sheep he gaf,\nThat first he wrought, and afterward he taught.\nOut of the gospel he the wordes caught,\nAnd this figure he added yet thereto,\nThat if gold ruste, what should iron do?\nFor if a priest be foul, on whom we trust,\nNo wonder is a lewed man to rust:\nAnd shame it is, if that a priest take keep,\nTo see a shitten shepherd and clean sheep:\nWell ought a priest ensample for to give,\nBy his own cleanness, how his sheep should live.\nHe sette not his benefice to hire,\nAnd left his sheep eucumber'd in the mire,\nAnd ran unto London, unto Saint Paul's,\nTo seeke him a chantery for souls,\nOr with a brotherhood to be withold:\nBut dwelt at home, and kepte well his fold,\nSo that the wolf ne made it not miscarry.\nHe was a shepherd, and no mercenary.\nAnd though he holy were, and virtuous,\nHe was to sinful men not dispitous\nNor of his speeche dangerous nor dign\nBut in his teaching discreet and benign.\nTo drawen folk to heaven, with fairness,\nBy good ensample, was his business:\nBut it were any person obstinate,\nWhat so he were of high or low estate,\nHim would he snibbe sharply for the nones.\nA better priest I trow that nowhere none is.\nHe waited after no pomp nor reverence,\nNor maked him a spiced conscience,\nBut Christe's lore, and his apostles' twelve,\nHe taught, and first he follow'd it himselve.\n\nWith him there was a PLOUGHMAN, was his brother,\nThat had y-laid of dung full many a fother.\nA true swinker and a good was he,\nLiving in peace and perfect charity.\nGod loved he beste with all his heart\nAt alle times, were it gain or smart,\nAnd then his neighebour right as himselve.\nHe woulde thresh, and thereto dike, and delve,\nFor Christe's sake, for every poore wight,\nWithouten hire, if it lay in his might.\nHis tithes payed he full fair and well,\nBoth of his proper swink, and his chattel\nIn a tabard he rode upon a mare.\n\nThere was also a Reeve, and a Millere,\nA Sompnour, and a Pardoner also,\nA Manciple, and myself, there were no mo'.\n\nThe MILLER was a stout carle for the nones,\nFull big he was of brawn, and eke of bones;\nThat proved well, for ov'r all where he came,\nAt wrestling he would bear away the ram.\nHe was short-shouldered, broad, a thicke gnarr,\nThere was no door, that he n'old heave off bar,\nOr break it at a running with his head.\nHis beard as any sow or fox was red,\nAnd thereto broad, as though it were a spade.\nUpon the cop right of his nose he had\nA wart, and thereon stood a tuft of hairs\nRed as the bristles of a sowe's ears.\nHis nose-thirles blacke were and wide.\nA sword and buckler bare he by his side.\nHis mouth as wide was as a furnace.\nHe was a jangler, and a goliardais,\nAnd that was most of sin and harlotries.\nWell could he steale corn, and tolle thrice\nAnd yet he had a thumb of gold, pardie.\nA white coat and a blue hood weared he\nA baggepipe well could he blow and soun',\nAnd therewithal he brought us out of town.\n\nA gentle MANCIPLE  was there of a temple,\nOf which achatours mighte take ensample\nFor to be wise in buying of vitaille.\nFor whether that he paid, or took by taile,\nAlgate he waited so in his achate,\nThat he was aye before in good estate.\nNow is not that of God a full fair grace\nThat such a lewed mannes wit shall pace\nThe wisdom of an heap of learned men?\nOf masters had he more than thries ten,\nThat were of law expert and curious:\nOf which there was a dozen in that house,\nWorthy to be stewards of rent and land\nOf any lord that is in Engleland,\nTo make him live by his proper good,\nIn honour debtless, but if he were wood,\nOr live as scarcely as him list desire;\nAnd able for to helpen all a shire\nIn any case that mighte fall or hap;\nAnd yet this Manciple set their aller cap\n\nThe REEVE  was a slender choleric man\nHis beard was shav'd as nigh as ever he can.\nHis hair was by his eares round y-shorn;\nHis top was docked like a priest beforn\nFull longe were his legges, and full lean\nY-like a staff, there was no calf y-seen\nWell could he keep a garner and a bin\nThere was no auditor could on him win\nWell wist he by the drought, and by the rain,\nThe yielding of his seed and of his grain\nHis lorde's sheep, his neat, and his dairy\nHis swine, his horse, his store, and his poultry,\nWere wholly in this Reeve's governing,\nAnd by his cov'nant gave he reckoning,\nSince that his lord was twenty year of age;\nThere could no man bring him in arrearage\nThere was no bailiff, herd, nor other hine\nThat he ne knew his sleight and his covine\nThey were adrad of him, as of the death\nHis wonning was full fair upon an heath\nWith greene trees y-shadow'd was his place.\nHe coulde better than his lord purchase\nFull rich he was y-stored privily\nHis lord well could he please subtilly,\nTo give and lend him of his owen good,\nAnd have a thank, and yet a coat and hood.\nIn youth he learned had a good mistere\nHe was a well good wright, a carpentere\nThis Reeve sate upon a right good stot,\nThat was all pomely gray, and highte Scot.\nA long surcoat of perse upon he had,\nAnd by his side he bare a rusty blade.\nOf Norfolk was this Reeve, of which I tell,\nBeside a town men clepen Baldeswell,\nTucked he was, as is a friar, about,\nAnd ever rode the hinderest of the rout.\n\nA SOMPNOUR was there with us in that place,\nThat had a fire-red cherubinnes face,\nFor sausefleme he was, with eyen narrow.\nAs hot he was and lecherous as a sparrow,\nWith scalled browes black, and pilled beard:\nOf his visage children were sore afeard.\nThere n'as quicksilver, litharge, nor brimstone,\nBoras, ceruse, nor oil of tartar none,\nNor ointement that woulde cleanse or bite,\nThat him might helpen of his whelkes white,\nNor of the knobbes sitting on his cheeks.\nWell lov'd he garlic, onions, and leeks,\nAnd for to drink strong wine as red as blood.\nThen would he speak, and cry as he were wood;\nAnd when that he well drunken had the wine,\nThen would he speake no word but Latin.\nA fewe termes knew he, two or three,\nThat he had learned out of some decree;\nNo wonder is, he heard it all the day.\nAnd eke ye knowen well, how that a jay\nCan clepen \"Wat,\" as well as can the Pope.\nBut whoso would in other thing him grope,\nThen had he spent all his philosophy,\nAye, Questio quid juris, would he cry.\n\nHe was a gentle harlot and a kind;\nA better fellow should a man not find.\nHe woulde suffer, for a quart of wine,\nA good fellow to have his concubine\nA twelvemonth, and excuse him at the full.\nFull privily a finch eke could he pull.\nAnd if he found owhere a good fellaw,\nHe woulde teache him to have none awe\nIn such a case of the archdeacon's curse;\nBut if a manne's soul were in his purse;\nFor in his purse he should y-punished be.\n\"Purse is the archedeacon's hell,\" said he.\nBut well I wot, he lied right indeed:\nOf cursing ought each guilty man to dread,\nFor curse will slay right as assoiling saveth;\nAnd also 'ware him of a significavit.\nIn danger had he at his owen guise\nThe younge girles of the diocese,\nAnd knew their counsel, and was of their rede.\nA garland had he set upon his head,\nAs great as it were for an alestake:\nA buckler had he made him of a cake.\n\nWith him there rode a gentle PARDONERE\nOf Ronceval, his friend and his compere,\nThat straight was comen from the court of Rome.\nFull loud he sang, \"Come hither, love, to me\"\nThis Sompnour bare to him a stiff burdoun,\nWas never trump of half so great a soun'.\nThis Pardoner had hair as yellow as wax,\nBut smooth it hung, as doth a strike of flax:\nBy ounces hung his lockes that he had,\nAnd therewith he his shoulders oversprad.\nFull thin it lay, by culpons one and one,\nBut hood for jollity, he weared none,\nFor it was trussed up in his wallet.\nHim thought he rode all of the newe get,\nDishevel, save his cap, he rode all bare.\nSuch glaring eyen had he, as an hare.\nA vernicle had he sew'd upon his cap.\nHis wallet lay before him in his lap,\nBretful of pardon come from Rome all hot.\nA voice he had as small as hath a goat.\nNo beard had he, nor ever one should have.\nAs smooth it was as it were new y-shave;\nI trow he were a gelding or a mare.\nBut of his craft, from Berwick unto Ware,\nNe was there such another pardonere.\nFor in his mail he had a pillowbere,\nWhich, as he saide, was our Lady's veil:\nHe said, he had a gobbet of the sail\nThat Sainte Peter had, when that he went\nUpon the sea, till Jesus Christ him hent.\nHe had a cross of latoun full of stones,\nAnd in a glass he hadde pigge's bones.\nBut with these relics, whenne that he fond\nA poore parson dwelling upon lond,\nUpon a day he got him more money\nThan that the parson got in moneths tway;\nAnd thus with feigned flattering and japes,\nHe made the parson and the people his apes.\nBut truely to tellen at the last,\nHe was in church a noble ecclesiast.\nWell could he read a lesson or a story,\nBut alderbest he sang an offertory:\nFor well he wiste, when that song was sung,\nHe muste preach, and well afile his tongue,\nTo winne silver, as he right well could:\nTherefore he sang full merrily and loud.\n\nNow have I told you shortly in a clause\nTh' estate, th' array, the number, and eke the cause\nWhy that assembled was this company\nIn Southwark at this gentle hostelry,\nThat highte the Tabard, fast by the Bell.\nBut now is time to you for to tell\nHow that we baren us that ilke night,\nWhen we were in that hostelry alight.\nAnd after will I tell of our voyage,\nAnd all the remnant of our pilgrimage.\nBut first I pray you of your courtesy,\nThat ye arette it not my villainy,\nThough that I plainly speak in this mattere.\nTo tellen you their wordes and their cheer;\nNot though I speak their wordes properly.\nFor this ye knowen all so well as I,\nWhoso shall tell a tale after a man,\nHe must rehearse, as nigh as ever he can,\nEvery word, if it be in his charge,\nAll speak he ne'er so rudely and so large;\nOr elles he must tell his tale untrue,\nOr feigne things, or finde wordes new.\nHe may not spare, although he were his brother;\nHe must as well say one word as another.\nChrist spake Himself full broad in Holy Writ,\nAnd well ye wot no villainy is it.\nEke Plato saith, whoso that can him read,\nThe wordes must be cousin to the deed.\nAlso I pray you to forgive it me,\nAll have I not set folk in their degree,\nHere in this tale, as that they shoulden stand:\nMy wit is short, ye may well understand.\n\nGreat cheere made our Host us every one,\nAnd to the supper set he us anon:\nAnd served us with victual of the best.\nStrong was the wine, and well to drink us lest.\nA seemly man Our Hoste was withal\nFor to have been a marshal in an hall.\nA large man he was with eyen steep,\nA fairer burgess is there none in Cheap:\nBold of his speech, and wise and well y-taught,\nAnd of manhoode lacked him right naught.\nEke thereto was he right a merry man,\nAnd after supper playen he began,\nAnd spake of mirth amonges other things,\nWhen that we hadde made our reckonings;\nAnd saide thus; \"Now, lordinges, truly\nYe be to me welcome right heartily:\nFor by my troth, if that I shall not lie,\nI saw not this year such a company\nAt once in this herberow, am is now.\nFain would I do you mirth, an I wist how.\nAnd of a mirth I am right now bethought.\nTo do you ease, and it shall coste nought.\nYe go to Canterbury; God you speed,\nThe blissful Martyr quite you your meed;\nAnd well I wot, as ye go by the way,\nYe shapen you to talken and to play:\nFor truely comfort nor mirth is none\nTo ride by the way as dumb as stone:\nAnd therefore would I make you disport,\nAs I said erst, and do you some comfort.\nAnd if you liketh all by one assent\nNow for to standen at my judgement,\nAnd for to worken as I shall you say\nTo-morrow, when ye riden on the way,\nNow by my father's soule that is dead,\nBut ye be merry, smiteth off mine head.\nHold up your hands withoute more speech.\n\nOur counsel was not longe for to seech:\nUs thought it was not worth to make it wise,\nAnd granted him withoute more avise,\nAnd bade him say his verdict, as him lest.\nLordings (quoth he), now hearken for the best;\nBut take it not, I pray you, in disdain;\nThis is the point, to speak it plat and plain.\nThat each of you, to shorten with your way\nIn this voyage, shall tellen tales tway,\nTo Canterbury-ward, I mean it so,\nAnd homeward he shall tellen other two,\nOf aventures that whilom have befall.\nAnd which of you that bear'th him best of all,\nThat is to say, that telleth in this case\nTales of best sentence and most solace,\nShall have a supper at your aller cost\nHere in this place, sitting by this post,\nWhen that ye come again from Canterbury.\nAnd for to make you the more merry,\nI will myselfe gladly with you ride,\nRight at mine owen cost, and be your guide.\nAnd whoso will my judgement withsay,\nShall pay for all we spenden by the way.\nAnd if ye vouchesafe that it be so,\nTell me anon withoute wordes mo',\nAnd I will early shape me therefore.\"\n\nThis thing was granted, and our oath we swore\nWith full glad heart, and prayed him also,\nThat he would vouchesafe for to do so,\nAnd that he woulde be our governour,\nAnd of our tales judge and reportour,\nAnd set a supper at a certain price;\nAnd we will ruled be at his device,\nIn high and low: and thus by one assent,\nWe be accorded to his judgement.\nAnd thereupon the wine was fet anon.\nWe drunken, and to reste went each one,\nWithouten any longer tarrying\nA-morrow, when the day began to spring,\nUp rose our host, and was our aller cock,\nAnd gather'd us together in a flock,\nAnd forth we ridden all a little space,\nUnto the watering of Saint Thomas:\nAnd there our host began his horse arrest,\nAnd saide; \"Lordes, hearken if you lest.\nYe weet your forword, and I it record.\nIf even-song and morning-song accord,\nLet see now who shall telle the first tale.\nAs ever may I drinke wine or ale,\nWhoso is rebel to my judgement,\nShall pay for all that by the way is spent.\nNow draw ye cuts, ere that ye farther twin.\nHe which that hath the shortest shall begin.\"\n\n\"Sir Knight (quoth he), my master and my lord,\nNow draw the cut, for that is mine accord.\nCome near (quoth he), my Lady Prioress,\nAnd ye, Sir Clerk, let be your shamefastness,\nNor study not: lay hand to, every man.\"\nAnon to drawen every wight began,\nAnd shortly for to tellen as it was,\nWere it by a venture, or sort, or cas,\nThe sooth is this, the cut fell to the Knight,\nOf which full blithe and glad was every wight;\nAnd tell he must his tale as was reason,\nBy forword, and by composition,\nAs ye have heard; what needeth wordes mo'?\nAnd when this good man saw that it was so,\nAs he that wise was and obedient\nTo keep his forword by his free assent,\nHe said; \"Sithen I shall begin this game,\nWhy, welcome be the cut in Godde's name.\nNow let us ride, and hearken what I say.\"\nAnd with that word we ridden forth our way;\nAnd he began with right a merry cheer\nHis tale anon, and said as ye shall hear.",
-      "source": {
-        "name": "Geoffrey Chaucer · PoetryDB",
-        "url": "https://poetrydb.org/title/The%20Canterbury%20Tales%3A%20The%20Prologue",
-        "trustTier": "community",
-        "author": "Geoffrey Chaucer"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-23T13:28:52.736Z",
-      "hash": "c2dffb9f2d4fad7c"
-    },
-    {
-      "id": "met:37482",
-      "type": "art",
-      "title": "Covered Jar in the Form of a Bird",
-      "summary": "Unknown artist · 14th–ca. mid-16th century · Earthenware with cream white glaze and iron-brown underglaze decoration",
-      "body": "Unknown artist · 14th–ca. mid-16th century · Earthenware with cream white glaze and iron-brown underglaze decoration\nPurchase, Gifts of friends of Jim Thompson, in his memory, 1989\nAsian Art",
-      "image": {
-        "src": "data/images/9c22d2cb684bb352.jpg",
-        "alt": "Covered Jar in the Form of a Bird",
-        "credit": "The Met · Purchase, Gifts of friends of Jim Thompson, in his memory, 1989"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/37482",
-        "trustTier": "encyclopedic",
-        "date": "14th–ca. mid-16th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "bird",
-        "ceramics"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-23T13:28:50.421Z",
-      "hash": "4985a346e929d8b5"
-    },
-    {
-      "id": "met:385673",
-      "type": "art",
-      "title": "Allegory of Africa, from \"The Four Continents\"",
-      "summary": "Adriaen Collaert · 1580–1600 · Engraving; second state of three",
-      "body": "Adriaen Collaert · 1580–1600 · Engraving; second state of three\nGift of the Estate of James Hazen Hyde, 1959\nDrawings and Prints",
-      "image": {
-        "src": "data/images/77fb19d2ad993177.jpg",
-        "alt": "Allegory of Africa, from \"The Four Continents\"",
-        "credit": "The Met · Gift of the Estate of James Hazen Hyde, 1959"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/385673",
-        "trustTier": "encyclopedic",
-        "author": "Adriaen Collaert",
-        "date": "1580–1600"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "bird",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-23T13:28:50.221Z",
-      "hash": "9b84e5adfd703e25"
-    },
-    {
-      "id": "met:43288",
-      "type": "art",
-      "title": "Dish with bird’s head",
-      "summary": "Unknown artist · 18th century · Jade (nephrite)",
-      "body": "Unknown artist · 18th century · Jade (nephrite)\nBequest of Mary Clark Thompson, 1923\nAsian Art",
-      "image": {
-        "src": "data/images/d90e16fe1a5c19bc.jpg",
-        "alt": "Dish with bird’s head",
-        "credit": "The Met · Bequest of Mary Clark Thompson, 1923"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/43288",
-        "trustTier": "encyclopedic",
-        "date": "18th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "bird",
-        "jade"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-23T13:28:50.090Z",
-      "hash": "77717aa7297c345e"
-    },
-    {
-      "id": "apod:2007-12-28",
-      "type": "space",
-      "title": "A Beautiful Boomerang Nebula",
-      "summary": "This symmetric cloud dubbed the Boomerang Nebula was created by a high-speed wind of gas and dust blowing from an aging central star at speeds of nearly 600,000 kilometers per hour. The rapid expansion has cooled molecules in the nebular gas to about one degree above absolute zero - colder than even the cosmic…",
-      "body": "This symmetric cloud dubbed the Boomerang Nebula was created by a high-speed wind of gas and dust blowing from an aging central star at speeds of nearly 600,000 kilometers per hour. The rapid expansion has cooled molecules in the nebular gas to about one degree above absolute zero - colder than even the cosmic background radiation - making it the coldest known region in the distant Universe. Shining with light from the central star reflected by dust, the frigid Boomerang Nebula is believed to be a star or stellar system evolving toward the planetary nebula phase. This Hubble image was recorded using polarizing filters (analogous to polaroid sunglasses) and color coded by the angle associated with the polarized light. The gorgeous result traces the small dust particles responsible for polarizing and scattering the light. The Boomerang Nebula spans about one light year and lies about 5,000 light years away toward the constellation Centaurus. APOD presents: Astronomy Pictures of the Year for 2007",
-      "image": {
-        "src": "data/images/9179ecf7de8fd97c.jpg",
-        "alt": "A Beautiful Boomerang Nebula",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap071228.html",
-        "trustTier": "encyclopedic",
-        "date": "2007-12-28"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:49.249Z",
-      "hash": "e3f35b5b09711748"
-    },
-    {
-      "id": "apod:2007-04-17",
-      "type": "space",
-      "title": "Water Claimed in Evaporating Planet HD 209458b",
-      "summary": "Planet HD 209458b is evaporating. It is so close to its parent star that its heated atmosphere is simply expanding away into space. Some astronomers studying this distant planetary system now believe they have detected water vapor among the gases being liberated. This controversial claim, if true, would mark the…",
-      "body": "Planet HD 209458b is evaporating. It is so close to its parent star that its heated atmosphere is simply expanding away into space. Some astronomers studying this distant planetary system now believe they have detected water vapor among the gases being liberated. This controversial claim, if true, would mark the first instance of planetary water beyond our Solar System, and indicate anew that life might be sustainable elsewhere in the universe. HD 209458b is known as a hot Jupiter type system because it involves a Jupiter-type planet in a Mercury-type orbit. Although spectroscopic observations from the Hubble Space Telescope are the basis for the water detection claim, the planetary system is too small and faint to image. Therefore, an artist's impression of the HD 209458b system is shown above. Research into the atmospheric composition of HD 209458b and other extrasolar planets is continuing.",
-      "image": {
-        "src": "data/images/530c9c6d2375edd6.jpg",
-        "alt": "Water Claimed in Evaporating Planet HD 209458b",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap070417.html",
-        "trustTier": "encyclopedic",
-        "date": "2007-04-17"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:49.249Z",
-      "hash": "0796f09478b028d4"
-    },
-    {
-      "id": "apod:2009-11-30",
-      "type": "space",
-      "title": "Bright Sun and Crescent Earth from the Space Station",
-      "summary": "This was just one more breathtaking view from the International Space Station. The Sun, a crescent Earth, and the long arm of a solar panel were all visible outside a window when the Space Shuttle Atlantis visited the orbiting outpost last week. Reflections from the window and hexagonal lens flares from the camera…",
-      "body": "This was just one more breathtaking view from the International Space Station. The Sun, a crescent Earth, and the long arm of a solar panel were all visible outside a window when the Space Shuttle Atlantis visited the orbiting outpost last week. Reflections from the window and hexagonal lens flares from the camera are superposed. The space shuttle landed Friday after a successful 10 day mission to expand and resupply the ISS. Numbered STS-129, the space shuttle mission returned astronaut Nicole Stott to Earth from her stay on the ISS as a Flight Engineer in the Expedition 20 and 21 crews.",
-      "image": {
-        "src": "data/images/67e513e4da963f3f.jpg",
-        "alt": "Bright Sun and Crescent Earth from the Space Station",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap091130.html",
-        "trustTier": "encyclopedic",
-        "date": "2009-11-30"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:49.249Z",
-      "hash": "1077c87dc3276756"
-    },
-    {
-      "id": "apod:2015-06-06",
-      "type": "space",
-      "title": "Into the Void",
-      "summary": "Fifty years ago, on June 3, 1965, Edward White stepped out of the orbiting Gemini 4 spacecraft to become the first US astronaut to walk in space. White is captured in this photo taken by mission commander James McDivit from inside the capsule as White's spacewalk began over the Pacific Ocean on Gemini 4's third…",
-      "body": "Fifty years ago, on June 3, 1965, Edward White stepped out of the orbiting Gemini 4 spacecraft to become the first US astronaut to walk in space. White is captured in this photo taken by mission commander James McDivit from inside the capsule as White's spacewalk began over the Pacific Ocean on Gemini 4's third orbit. Planet Earth, spacecraft, and tether are reflected in White's gold tinted helmet visor. A gas powered manuevering gun is held in his right hand. Though the gun ran out of gas after only 3 minutes, he continued to manuever by twisting his body and pulling on the tether for the remainder of the 23 minute long Extra Vehicular Activity. White later described his historic spacewalk as the most comfortable part of the mission, and said the order to end it was the \"saddest moment\" of his life.",
-      "image": {
-        "src": "data/images/82e7b18d0aaa8547.jpg",
-        "alt": "Into the Void",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap150606.html",
-        "trustTier": "encyclopedic",
-        "date": "2015-06-06"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:49.249Z",
-      "hash": "726a4d81266dd9ce"
-    },
-    {
-      "id": "apod:2007-07-05",
-      "type": "space",
-      "title": "Night-Shining Clouds",
-      "summary": "Alluring noctilucent or night-shining clouds lie near the edge of space, some 80 kilometers above Earth's surface. Of course, when viewed from space the clouds are more properly called polar mesospheric clouds (PMCs) -- seen here for the first time in image data from the Aeronomy of Ice in the Mesosphere (AIM)…",
-      "body": "Alluring noctilucent or night-shining clouds lie near the edge of space, some 80 kilometers above Earth's surface. Of course, when viewed from space the clouds are more properly called polar mesospheric clouds (PMCs) -- seen here for the first time in image data from the Aeronomy of Ice in the Mesosphere (AIM) satellite. The clouds form over the poles in the corresponding summer season and are now being seen more frequently at lower latitudes. This paticular view from June 11 details the PMC structures forming over the north polar region in white and blue. (Black indicates no cloud data was available.) The AIM satellite should be able to track two complete cloud seasons over both poles to investigate possible connections between the high altitude night-shining clouds and global change in the lower atmosphere.",
-      "image": {
-        "src": "data/images/18f5d9cce0367c75.jpg",
-        "alt": "Night-Shining Clouds",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap070705.html",
-        "trustTier": "encyclopedic",
-        "date": "2007-07-05"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:49.249Z",
-      "hash": "88eb37f0a8c8bf43"
-    },
-    {
-      "id": "onthisday:09-23:1122:01fb96d57d590442",
-      "type": "history",
-      "title": "1122: Pope Callixtus II",
-      "summary": "Pope Callixtus II and Holy Roman emperor Henry V agreed the Concordat of Worms (pictured), ending the Investiture Controversy.",
-      "body": "Pope Callixtus II and Holy Roman emperor Henry V agreed the Concordat of Worms (pictured), ending the Investiture Controversy.",
-      "image": {
-        "src": "data/images/9af80a3cb603e13c.jpg",
-        "alt": "Pope Callixtus II",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Pope_Callixtus_II",
-        "trustTier": "encyclopedic",
-        "date": "09-23"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:48.690Z",
-      "hash": "23fb268beb09a810",
-      "expires": "2026-09-26T13:28:48.690Z"
-    },
-    {
-      "id": "onthisday:09-23:1983:49a2dedf900c0fc8",
-      "type": "history",
-      "title": "1983: Gulf Air Flight 771",
-      "summary": "Flying from Pakistan, Gulf Air Flight 771 was bombed up by the Abu Nidal Organization while on approach over the United Arab Emirates (UAE), killing all 112 people on board.",
-      "body": "Flying from Pakistan, Gulf Air Flight 771 was bombed up by the Abu Nidal Organization while on approach over the United Arab Emirates (UAE), killing all 112 people on board.",
-      "image": {
-        "src": "data/images/bd31c9e6542df0bc.jpg",
-        "alt": "Gulf Air Flight 771",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Gulf_Air_Flight_771",
-        "trustTier": "encyclopedic",
-        "date": "09-23"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:48.690Z",
-      "hash": "5934c3114c8104c1",
-      "expires": "2026-09-26T13:28:48.690Z"
-    },
-    {
-      "id": "onthisday:09-23:1913:94e5c64401d32472",
-      "type": "history",
-      "title": "1913: United Mine Workers of America",
-      "summary": "The United Mine Workers of America began a strike against the Rockefeller-owned Colorado Fuel & Iron Company, sparking the Colorado Coalfield War.",
-      "body": "The United Mine Workers of America began a strike against the Rockefeller-owned Colorado Fuel & Iron Company, sparking the Colorado Coalfield War.",
-      "image": {
-        "src": "data/images/d299aa2c7d880215.png",
-        "alt": "United Mine Workers of America",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/United_Mine_Workers_of_America",
-        "trustTier": "encyclopedic",
-        "date": "09-23"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:48.690Z",
-      "hash": "9e881c37922c04ea",
-      "expires": "2026-09-26T13:28:48.690Z"
-    },
-    {
-      "id": "wikipedia:76979536",
-      "type": "wiki",
-      "title": "2024–25 Women's Super League",
-      "summary": "The 2024–25 Women's Super League season was the 14th season of the Women's Super League (WSL) since it was formed in 2010. It was the sixth season after the rebranding of the four highest levels in English women's football.",
-      "body": "The 2024–25 Women's Super League season was the 14th season of the Women's Super League (WSL) since it was formed in 2010. It was the sixth season after the rebranding of the four highest levels in English women's football.",
-      "image": {
-        "src": "data/images/b49a1f328cb36d56.jpg",
-        "alt": "2024–25 Women's Super League",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/2024%E2%80%9325_Women's_Super_League",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:48.648Z",
-      "hash": "c42008e16bb04913"
-    },
-    {
-      "id": "wikipedia:52128609",
-      "type": "wiki",
-      "title": "NGC 323",
-      "summary": "NGC 323 is an elliptical galaxy located in the constellation Phoenix. It was discovered on October 3, 1834, by John Herschel. It was described by Dreyer as \"pretty faint, small, round, brighter middle, preceding (western) of 2\", the other being NGC 328.",
-      "body": "NGC 323 is an elliptical galaxy located in the constellation Phoenix. It was discovered on October 3, 1834, by John Herschel. It was described by Dreyer as \"pretty faint, small, round, brighter middle, preceding (western) of 2\", the other being NGC 328.",
-      "image": {
-        "src": "data/images/f681f2f614d732ca.jpg",
-        "alt": "NGC 323",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/NGC_323",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:48.402Z",
-      "hash": "679f6a1986276b7c"
-    },
-    {
-      "id": "wikipedia:10919112",
-      "type": "wiki",
-      "title": "Beverly L. Hodghead",
-      "summary": "Beverly Lacy Hodghead was an American politician who served as the first mayor of Berkeley, California, from 1909 to 1911. Although Berkeley had been incorporated since 1878 as a Town, the office of mayor did not exist until the adoption of a new charter that transformed Berkeley into a City.",
-      "body": "Beverly Lacy Hodghead was an American politician who served as the first mayor of Berkeley, California, from 1909 to 1911. Although Berkeley had been incorporated since 1878 as a Town, the office of mayor did not exist until the adoption of a new charter that transformed Berkeley into a City.",
-      "image": {
-        "src": "data/images/263f7ce533c5a6ae.jpg",
-        "alt": "Beverly L. Hodghead",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Beverly_L._Hodghead",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:48.178Z",
-      "hash": "0a93e48c78b0dca0"
-    },
-    {
-      "id": "wikipedia:26132546",
-      "type": "wiki",
-      "title": "Antheraea godmani",
-      "summary": "Antheraea godmani is a moth of the family Saturniidae first described by Herbert Druce in 1892. It is found from Mexico to Colombia.",
-      "body": "Antheraea godmani is a moth of the family Saturniidae first described by Herbert Druce in 1892. It is found from Mexico to Colombia.",
-      "image": {
-        "src": "data/images/f70c9688038bf310.jpg",
-        "alt": "Antheraea godmani",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Antheraea_godmani",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-23T13:28:46.393Z",
-      "hash": "e0085d0395f81082"
-    },
-    {
-      "id": "chess:Pjbrv",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1831. Find the best line for black.",
-      "body": "Solution, from → to: a3→a1, g1→h2, f6→g4, h2→h3, g4→f2, h3→h4, a1→h1, f3→h2, h1→h2. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "7k/ppR3p1/5n1p/2P5/1P6/r4NP1/5PP1/6K1 b - - 0 1",
-        "lastMove": "e7c7"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/Pjbrv",
-        "trustTier": "community",
-        "date": "Tue, 22 Sep 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "verylong",
-        "matein5",
-        "endgame"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-22T13:14:27.388Z",
-      "hash": "72f6e5dc7bf1f82e"
-    },
-    {
-      "id": "game:7faeb5be95580f67",
-      "type": "game",
-      "title": "Bungie declares it's 'not done with Destiny' as it lays out studio's future",
-      "summary": "'Destiny is foundational to Bungie's future.'",
-      "body": "'Destiny is foundational to Bungie's future.'",
-      "image": {
-        "src": "data/images/24c86d26b2c366dc.png",
-        "alt": "Bungie declares it's 'not done with Destiny' as it lays out studio's future",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
-        "trustTier": "publication",
-        "author": "Bryant Francis",
-        "date": "Mon, 21 Sep 2026 20:30:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-22T13:14:26.911Z",
-      "hash": "7faeb5be95580f67",
-      "expires": "2026-12-21T13:14:26.911Z"
-    },
-    {
-      "id": "game:98bb907710aca8c8",
-      "type": "game",
-      "title": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
-      "summary": "Official Rockstar storylines, characters, and other elements from the studio's 'established continuity' are off-limits.",
-      "body": "Official Rockstar storylines, characters, and other elements from the studio's 'established continuity' are off-limits.",
-      "image": {
-        "src": "data/images/8de064a74420c1c8.png",
-        "alt": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Tue, 22 Sep 2026 12:33:1"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-22T13:14:26.911Z",
-      "hash": "98bb907710aca8c8",
-      "expires": "2026-12-21T13:14:26.911Z"
-    },
-    {
-      "id": "game:e89875220a38d48e",
-      "type": "game",
-      "title": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions",
-      "summary": "A mutant marriage goes unmentioned in some parts of the world.",
-      "body": "A mutant marriage goes unmentioned in some parts of the world.",
-      "image": {
-        "src": "data/images/d888335280eb27c7.jpg",
-        "alt": "Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions",
-        "trustTier": "publication",
-        "author": "Bryant Francis",
-        "date": "Mon, 21 Sep 2026 19:00:1"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-22T13:14:26.911Z",
-      "hash": "e89875220a38d48e",
-      "expires": "2026-12-21T13:14:26.911Z"
     },
     {
       "id": "curated:handwriting-beats-typing",

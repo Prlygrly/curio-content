@@ -1,7 +1,972 @@
 {
-  "generatedAt": "2026-10-05T16:59:23.650Z",
+  "generatedAt": "2026-10-06T14:56:28.556Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:uFTip",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1953. Find the best line for black.",
+      "body": "Solution, from → to: e5→e4, d5→f6, d8→f6, e3→d4, f6→d4, d2→d4, g7→d4, d1→d4, e4→f3. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "1r1q1rk1/pb3pbp/5np1/3Np3/7P/4BB2/PPPQ1PP1/2KR3R b - - 0 1",
+        "lastMove": "c3d5"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/uFTip",
+        "trustTier": "community",
+        "date": "Tue, 06 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "middlegame",
+        "advantage",
+        "verylong"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-06T14:56:25.292Z",
+      "hash": "073f86b963a660c2"
+    },
+    {
+      "id": "game:06f3f6ea1a733edb",
+      "type": "game",
+      "title": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer",
+      "summary": "The Sweden-based Embark Studios has secured adaptations for both of its multiplayer shooters, The Finals and ARC Raiders.",
+      "body": "The Sweden-based Embark Studios has secured adaptations for both of its multiplayer shooters, The Finals and ARC Raiders.",
+      "image": {
+        "src": "data/images/313f637a6b68fe1a.png",
+        "alt": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
+        "trustTier": "publication",
+        "author": "Imran Khan",
+        "date": "Mon, 05 Oct 2026 18:30:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:24.827Z",
+      "hash": "06f3f6ea1a733edb",
+      "expires": "2027-01-04T14:56:24.827Z"
+    },
+    {
+      "id": "trivia:8bc503f2db1f01c0",
+      "type": "trivia",
+      "title": "Which of the following names is the \"Mega Man\" Franchise known as in Japan?",
+      "summary": "Is it: Scissorsman · Paperman · Rockman · Mega Man?",
+      "body": "Answer: Rockman.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:56:22.665Z",
+      "hash": "8bc503f2db1f01c0"
+    },
+    {
+      "id": "trivia:a512c88f251397c8",
+      "type": "trivia",
+      "title": "How many counties in the Republic of Ireland.",
+      "summary": "Is it: 28 · 32 · 26 · 30?",
+      "body": "Answer: 26.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "geography"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:22.665Z",
+      "hash": "a512c88f251397c8"
+    },
+    {
+      "id": "trivia:3cac406eb5fb1038",
+      "type": "trivia",
+      "title": "The Alps are a mountain range on which continent?",
+      "summary": "Is it: Europe · Asia · Africa · North America?",
+      "body": "Answer: Europe.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "geography"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:56:22.665Z",
+      "hash": "3cac406eb5fb1038"
+    },
+    {
+      "id": "trivia:f776dfb867e4a3ff",
+      "type": "trivia",
+      "title": "What is the name of Joel's daughter in the game, \"The Last of Us\"?",
+      "summary": "Is it: Marlene · Sarah · Tess · Ellie?",
+      "body": "Answer: Sarah.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:22.665Z",
+      "hash": "f776dfb867e4a3ff"
+    },
+    {
+      "id": "comic:xkcd:2361",
+      "type": "comic",
+      "title": "Voting",
+      "summary": "'Wait, our state has mail voting. The forms are literally on the kitchen table.' 'Not now, I'm busy researching which channels have sharks in them.'",
+      "image": {
+        "src": "data/images/2e2a2e6d81f5165d.png",
+        "alt": "'Wait, our state has mail voting. The forms are literally on the kitchen table.' 'Not now, I'm busy researching which channels have sharks in them.'",
+        "credit": "xkcd #2361 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/2361/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2020-09-18"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-06T14:56:20.824Z",
+      "hash": "45c7686be7a7d87c"
+    },
+    {
+      "id": "comic:xkcd:3307",
+      "type": "comic",
+      "title": "Spectrum Allocation",
+      "summary": "Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.",
+      "image": {
+        "src": "data/images/599e265d6420b140.png",
+        "alt": "Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.",
+        "credit": "xkcd #3307 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3307/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-10-05"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-06T14:56:20.539Z",
+      "hash": "e49f70151b680a1f"
+    },
+    {
+      "id": "food:71c4574a3215195b",
+      "type": "food",
+      "title": "Butternut Squash Soup with Red Lentils",
+      "summary": "A beautiful butternut squash soup with enough substance to make a real meal of it. Finish each bowl with a colorful medley of toppings: a bright herb oil, toasted pepitas, goat cheese, or whatever else you have on hand. Peak meal in a bowl situation. Continue reading Butternut Squash Soup with Red…",
+      "body": "A beautiful butternut squash soup with enough substance to make a real meal of it. Finish each bowl with a colorful medley of toppings: a bright herb oil, toasted pepitas, goat cheese, or whatever else you have on hand. Peak meal in a bowl situation. Continue reading Butternut Squash Soup with Red Lentils on 101 Cookbooks",
+      "image": {
+        "src": "data/images/7e9e9a9c3a207138.jpg",
+        "alt": "Butternut Squash Soup with Red Lentils",
+        "credit": "101 Cookbooks"
+      },
+      "source": {
+        "name": "101 Cookbooks",
+        "url": "https://www.101cookbooks.com/butternut-squash-soup/",
+        "trustTier": "community",
+        "author": "Heidi Swanson",
+        "date": "Tue, 22 Sep 2026 18:33:4"
+      },
+      "tags": [
+        "cooking",
+        "recipe",
+        "food",
+        "100+ vegetarian recipes",
+        "260+ vegan recipes",
+        "90 best soup recipes",
+        "dinner ideas",
+        "fall",
+        "gluten free recipes",
+        "side dish recipes"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:20.478Z",
+      "hash": "71c4574a3215195b"
+    },
+    {
+      "id": "word:2498fe925ce2ca11",
+      "type": "word",
+      "title": "solitude",
+      "summary": "Noun: Aloneness; the state of being alone, solitary, or by oneself.",
+      "body": "1. Aloneness; the state of being alone, solitary, or by oneself.\n2. A lonely or deserted place.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/solitude",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:56:19.125Z",
+      "hash": "2498fe925ce2ca11"
+    },
+    {
+      "id": "word:2a6fe5aa979245a4",
+      "type": "word",
+      "title": "epiphany",
+      "summary": "Noun: An illuminating realization or discovery, often resulting in a personal feeling of elation, awe, or wonder.",
+      "body": "1. An illuminating realization or discovery, often resulting in a personal feeling of elation, awe, or wonder.\n2. A manifestation or appearance of a divine or superhuman being.\n3. Alternative letter-case form of Epiphany.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/epiphany",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:56:18.370Z",
+      "hash": "2a6fe5aa979245a4"
+    },
+    {
+      "id": "quote:fae5f402180f3eec",
+      "type": "quote",
+      "title": "“The greatest deception men suffer is from their own opinions.”",
+      "summary": "— Leonardo da Vinci",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Leonardo_da_Vinci",
+        "trustTier": "community",
+        "author": "Leonardo da Vinci"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:56:17.763Z",
+      "hash": "fae5f402180f3eec"
+    },
+    {
+      "id": "quote:4e3dde32271de018",
+      "type": "quote",
+      "title": "“Where there is no struggle, there is no strength.”",
+      "summary": "— Oprah Winfrey",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Oprah_Winfrey",
+        "trustTier": "community",
+        "author": "Oprah Winfrey"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:56:17.763Z",
+      "hash": "4e3dde32271de018"
+    },
+    {
+      "id": "quote:2b41748d4ae6bd10",
+      "type": "quote",
+      "title": "“When you lose your desire for things that do not matter, you will be free.”",
+      "summary": "— Morihei Ueshiba",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Morihei_Ueshiba",
+        "trustTier": "community",
+        "author": "Morihei Ueshiba"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:56:17.763Z",
+      "hash": "2b41748d4ae6bd10"
+    },
+    {
+      "id": "book-review:7a208d9185ac4375",
+      "type": "book-review",
+      "title": "Pied Noir Homesick Blues",
+      "summary": "Camus opens the book with Meursault’s life, but François Ozon opens the new film adaptation with Meursault’s specific moment in history: the brutal French colonization of Algeria. The post Pied Noir Homesick Blues appeared first on Public Books.",
+      "body": "Camus opens the book with Meursault’s life, but François Ozon opens the new film adaptation with Meursault’s specific moment in history: the brutal French colonization of Algeria. The post Pied Noir Homesick Blues appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/pied-noir-homesick-blues/",
+        "trustTier": "publication",
+        "author": "Morgan Barry",
+        "date": "Mon, 05 Oct 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "reviews",
+        "algeria",
+        "cinema",
+        "film",
+        "france",
+        "french empire",
+        "literature"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:16.599Z",
+      "hash": "7a208d9185ac4375"
+    },
+    {
+      "id": "article:eed1b8695e164c71",
+      "type": "article",
+      "title": "Pneumatic, pneumonic, whatever",
+      "summary": "\"Trump calls reported pneumatic plague outbreak ‘big problem for Russia’: ‘The microbes and the germs have gotten stronger’\", NY Post 10/5/2026. President Trump gave an ominous assessment of the suspected outbreak of pneumonic plague in Siberia Monday, calling it a “big problem for Russia” and…",
+      "body": "\"Trump calls reported pneumatic plague outbreak ‘big problem for Russia’: ‘The microbes and the germs have gotten stronger’\", NY Post 10/5/2026. President Trump gave an ominous assessment of the suspected outbreak of pneumonic plague in Siberia Monday, calling it a “big problem for Russia” and adding cryptically that “the microbes and the germs have gotten […]",
+      "image": {
+        "src": "data/images/62560d1aab41e2b2.jpg",
+        "alt": "Pneumatic, pneumonic, whatever",
+        "credit": "Language Log"
+      },
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74357&utm_source=rss&utm_medium=rss&utm_campaign=pneumatic-pneumonic-whatever",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Tue, 06 Oct 2026 10:28:1"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "words words words"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:11.818Z",
+      "hash": "eed1b8695e164c71"
+    },
+    {
+      "id": "article:796304d164089755",
+      "type": "article",
+      "title": "Richard Linklater is directing a film adaptation of the...",
+      "summary": "Richard Linklater is directing a film adaptation of the Sondheim musical Merrily We Roll Along. Shooting started in 2019 and will continue until 2040 to match the musical’s 20-year period. (Linklater’s Boyhood was shot over 12 years.)",
+      "body": "Richard Linklater is directing a film adaptation of the Sondheim musical Merrily We Roll Along. Shooting started in 2019 and will continue until 2040 to match the musical’s 20-year period. (Linklater’s Boyhood was shot over 12 years.)",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/10/0049742-a-film-adaptation-of-the-",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-10-06T14:44:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:08.450Z",
+      "hash": "796304d164089755"
+    },
+    {
+      "id": "article:7f9497bd4611893f",
+      "type": "article",
+      "title": "David Byrne Awakens the Story of Dark Matter",
+      "summary": "In an excerpt from his new book, “Sleeping Beauties,” the musician and writer revisits the brilliant discoveries by astronomer Vera Rubin The post David Byrne Awakens the Story of Dark Matter appeared first on Nautilus.",
+      "body": "In an excerpt from his new book, “Sleeping Beauties,” the musician and writer revisits the brilliant discoveries by astronomer Vera Rubin The post David Byrne Awakens the Story of Dark Matter appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/f21096af9c38827c.jpg",
+        "alt": "David Byrne Awakens the Story of Dark Matter",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/david-byrne-awakens-the-story-of-dark-matter-1285530/",
+        "trustTier": "publication",
+        "author": "David Byrne",
+        "date": "Tue, 06 Oct 2026 12:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "physics"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:07.047Z",
+      "hash": "7f9497bd4611893f"
+    },
+    {
+      "id": "article:938e0d510bb56fe3",
+      "type": "article",
+      "title": "David Bowie on Creativity and His Advice to Artists",
+      "summary": "\"It's terribly dangerous for an artist to fulfill other people's expectations\"",
+      "body": "\"It's terribly dangerous for an artist to fulfill other people's expectations\"",
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/10/05/david-bowie-creativity-advice/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Tue, 06 Oct 2026 01:38:4"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "music",
+        "creativity",
+        "david bowie"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:06.902Z",
+      "hash": "938e0d510bb56fe3"
+    },
+    {
+      "id": "article:ff2c6eeb527316d6",
+      "type": "article",
+      "title": "Susannah Place in The Rocks, Australia",
+      "summary": "Located in The Rocks, Sydney's oldest neighborhood, the four humble terrace houses that make up Susannah Place were built in 1844 by Irish immigrants. For over 150 years, the row housed more than 100 working class families ranging from the families of Greek shopkeepers to Norwegian sailors. Having…",
+      "body": "Located in The Rocks, Sydney's oldest neighborhood, the four humble terrace houses that make up Susannah Place were built in 1844 by Irish immigrants. For over 150 years, the row housed more than 100 working class families ranging from the families of Greek shopkeepers to Norwegian sailors. Having survived a bubonic plague outbreak, the resulting slum clearances, and the threat of gentrification, Susannah Place remained intact and relatively unchanged. In 1987, the New South Wales Historic Houses Trust in collaboration with the Sydney Cove Authority, began conservation work on the terrace.…",
+      "image": {
+        "src": "data/images/f490aeeda1adf386.jpg",
+        "alt": "Susannah Place in The Rocks, Australia",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/susannah-place",
+        "trustTier": "publication",
+        "date": "Tue, 06 Oct 2026 10:00:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history",
+        "preservation",
+        "houses"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:06.451Z",
+      "hash": "ff2c6eeb527316d6"
+    },
+    {
+      "id": "article:1b63352fb0bbf34d",
+      "type": "article",
+      "title": "Are single-mindedness and arrogance what’s required to write great fiction? Consider the case of Cormac McCarthy",
+      "summary": "Are single-mindedness and arrogance what’s required to write great fiction? Consider the case of Cormac McCarthy",
+      "body": "Are single-mindedness and arrogance what’s required to write great fiction? Consider the case of Cormac McCarthy",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://www.nytimes.com/2026/10/05/books/review/tracy-daugherty-cormac-mccarthy.html?unlocked_article_code=1.GVE.5ymi.kNsN3uRW1AqJ&smid=url-share",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:06.026Z",
+      "hash": "1b63352fb0bbf34d"
+    },
+    {
+      "id": "article:8b86ace121e83249",
+      "type": "article",
+      "title": "The almost-forgotten Akhenaten. The pharaoh revolutionized Egyptian theology and art, then was erased from the material record",
+      "summary": "The almost-forgotten Akhenaten. The pharaoh revolutionized Egyptian theology and art, then was erased from the material record",
+      "body": "The almost-forgotten Akhenaten. The pharaoh revolutionized Egyptian theology and art, then was erased from the material record",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://www.theatlantic.com/magazine/2026/11/public-monuments-egyptian-art-exhibits/688700/?gift=2DPnH7-w5PunRuGFjgT5WxxBLsXpFbypFsq1_OYo0ko&utm_source=copy-link&utm_medium=social&utm_campaign=share",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:06.026Z",
+      "hash": "8b86ace121e83249"
+    },
+    {
+      "id": "article:1109b27cf4a39f2b",
+      "type": "article",
+      "title": "The Great Accretion and the Great Depression",
+      "summary": "A very old idea, returning with a vengeance: The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new…",
+      "body": "A very old idea, returning with a vengeance: The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And, was this […] The post The Great Accretion and the Great Depression appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-great-accretion-and-the-great-depression.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-accretion-and-the-great-depression",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Tue, 06 Oct 2026 07:06:2"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:04.961Z",
+      "hash": "1109b27cf4a39f2b"
+    },
+    {
+      "id": "greek:9e7f4017b4b6afed",
+      "type": "greek",
+      "title": "ἐν",
+      "summary": "ἐν — “in” · preposition",
+      "body": "Note: takes dative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%90%CE%BD#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "preposition",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-06T14:56:03.196Z",
+      "hash": "9e7f4017b4b6afed"
+    },
+    {
+      "id": "poetry:e64b9c473b12f817",
+      "type": "poem",
+      "title": "Epigram",
+      "summary": "The world is a bundle of hay,\n  Mankind are the asses who pull;\nEach tugs it a different way,--\n  And the greatest of all is John Bull!",
+      "body": "The world is a bundle of hay,\n  Mankind are the asses who pull;\nEach tugs it a different way,--\n  And the greatest of all is John Bull!",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/Epigram",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:03.194Z",
+      "hash": "e64b9c473b12f817"
+    },
+    {
+      "id": "poetry:987ccb4a66e5e522",
+      "type": "poem",
+      "title": "To Ianthe",
+      "summary": "I love thee, Baby! for thine own sweet sake;\nThose azure eyes, that faintly dimpled cheek,\nThy tender frame, so eloquently weak,\nLove in the sternest heart of hate might wake;",
+      "body": "I love thee, Baby! for thine own sweet sake;\nThose azure eyes, that faintly dimpled cheek,\nThy tender frame, so eloquently weak,\nLove in the sternest heart of hate might wake;\nBut more when o'er thy fitful slumber bending\nThy mother folds thee to her wakeful heart,\nWhilst love and pity, in her glances blending,\nAll that thy passive eyes can feel impart:\nMore, when some feeble lineaments of her,\nWho bore thy weight beneath her spotless bosom,\nAs with deep love I read thy face, recur,--\nMore dear art thou, O fair and fragile blossom;\nDearest when most thy tender traits express\nThe image of thy mother's loveliness.",
+      "source": {
+        "name": "Percy Bysshe Shelley · PoetryDB",
+        "url": "https://poetrydb.org/title/To%20Ianthe",
+        "trustTier": "community",
+        "author": "Percy Bysshe Shelley"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-06T14:56:03.194Z",
+      "hash": "987ccb4a66e5e522"
+    },
+    {
+      "id": "apod:2006-02-04",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap060204.html",
+        "trustTier": "encyclopedic",
+        "date": "2006-02-04"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:59.729Z",
+      "hash": "5fc2ea854912c794"
+    },
+    {
+      "id": "apod:2023-12-01",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© José Rodrigues"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap231201.html",
+        "trustTier": "encyclopedic",
+        "date": "2023-12-01"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:59.729Z",
+      "hash": "f30792e00d42c1c7"
+    },
+    {
+      "id": "apod:1995-12-04",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap951204.html",
+        "trustTier": "encyclopedic",
+        "date": "1995-12-04"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:59.729Z",
+      "hash": "91a7e580a1bc85f8"
+    },
+    {
+      "id": "apod:2015-11-26",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Carnegie"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap151126.html",
+        "trustTier": "encyclopedic",
+        "date": "2015-11-26"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:59.729Z",
+      "hash": "5eb1efa6dddc6856"
+    },
+    {
+      "id": "apod:2005-08-09",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap050809.html",
+        "trustTier": "encyclopedic",
+        "date": "2005-08-09"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:59.729Z",
+      "hash": "e67467bd2ac2fc72"
+    },
+    {
+      "id": "onthisday:10-06:1927:1133d9bf901bff3a",
+      "type": "history",
+      "title": "1927: The Jazz Singer",
+      "summary": "The Jazz Singer, one of the first feature-length motion pictures with a synchronized recorded music score, was released.",
+      "body": "The Jazz Singer, one of the first feature-length motion pictures with a synchronized recorded music score, was released.",
+      "image": {
+        "src": "data/images/319a6e48a7f800fa.jpg",
+        "alt": "The Jazz Singer",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/The_Jazz_Singer",
+        "trustTier": "encyclopedic",
+        "date": "10-06"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:21.085Z",
+      "hash": "9ad9754ddc233770",
+      "expires": "2026-10-09T14:55:21.085Z"
+    },
+    {
+      "id": "onthisday:10-06:1981:5d21b7c4d7578fac",
+      "type": "history",
+      "title": "1981: Anwar Sadat",
+      "summary": "Egyptian president Anwar Sadat (pictured) was assassinated while attending a parade in Cairo to mark the eighth anniversary of the Crossing of the Bar Lev Line at the start of the 1973 Arab-Israeli War.",
+      "body": "Egyptian president Anwar Sadat (pictured) was assassinated while attending a parade in Cairo to mark the eighth anniversary of the Crossing of the Bar Lev Line at the start of the 1973 Arab-Israeli War.",
+      "image": {
+        "src": "data/images/e6eef8eecafd9d4c.jpg",
+        "alt": "Anwar Sadat",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+        "trustTier": "encyclopedic",
+        "date": "10-06"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:21.085Z",
+      "hash": "3072d868cec31bf1",
+      "expires": "2026-10-09T14:55:21.085Z"
+    },
+    {
+      "id": "onthisday:10-06:1985:0c9751c85c7101fe",
+      "type": "history",
+      "title": "1985: Murder of Keith Blakelock",
+      "summary": "Police constable Keith Blakelock was killed during rioting in the Broadwater Farm housing estate in Tottenham, London.",
+      "body": "Police constable Keith Blakelock was killed during rioting in the Broadwater Farm housing estate in Tottenham, London.",
+      "image": {
+        "src": "data/images/598ff745f04fa498.jpg",
+        "alt": "Murder of Keith Blakelock",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Keith_Blakelock",
+        "trustTier": "encyclopedic",
+        "date": "10-06"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:21.085Z",
+      "hash": "75ff6bd2997a45ea",
+      "expires": "2026-10-09T14:55:21.085Z"
+    },
+    {
+      "id": "wikipedia:51414750",
+      "type": "wiki",
+      "title": "Silverton, Washington",
+      "summary": "Silverton is an unincorporated community in Snohomish County, in the U.S. state of Washington.",
+      "body": "Silverton is an unincorporated community in Snohomish County, in the U.S. state of Washington.",
+      "image": {
+        "src": "data/images/c61b0e7571814722.jpg",
+        "alt": "Silverton, Washington",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Silverton%2C_Washington",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:20.487Z",
+      "hash": "9d3b2a50a89c0d45"
+    },
+    {
+      "id": "wikipedia:45245280",
+      "type": "wiki",
+      "title": "April Phillips",
+      "summary": "April Phillips is an actress, writer, singer, director and producer of film and theatre. She was born in Coventry, England, but resides in Wellington, New Zealand. Her production company, Godiva Productions Limited, was named after the Lady Godiva legend of her hometown of Coventry.",
+      "body": "April Phillips is an actress, writer, singer, director and producer of film and theatre. She was born in Coventry, England, but resides in Wellington, New Zealand. Her production company, Godiva Productions Limited, was named after the Lady Godiva legend of her hometown of Coventry.",
+      "image": {
+        "src": "data/images/5b3b7b0f9ec1b0d1.jpg",
+        "alt": "April Phillips",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/April_Phillips",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:19.990Z",
+      "hash": "030bdd95d4373538"
+    },
+    {
+      "id": "wikipedia:69530",
+      "type": "wiki",
+      "title": "Charles Emmanuel II",
+      "summary": "Charles Emmanuel II ; 20 June 1634 – 12 June 1675) was Duke of Savoy and ruler of the Savoyard states from 4 October 1638 until his death in 1675 and under regency of his mother Christine of France until 1648. He was also Marquis of Saluzzo, Count of Aosta, Geneva, Moriana and Nice, as well as claimant king of…",
+      "body": "Charles Emmanuel II ; 20 June 1634 – 12 June 1675) was Duke of Savoy and ruler of the Savoyard states from 4 October 1638 until his death in 1675 and under regency of his mother Christine of France until 1648. He was also Marquis of Saluzzo, Count of Aosta, Geneva, Moriana and Nice, as well as claimant king of Cyprus, Jerusalem and Armenia. At his death in 1675, his second wife Marie Jeanne Baptiste of Savoy-Nemours acted as regent for their 9-year-old son.",
+      "image": {
+        "src": "data/images/befaa8978de48673.png",
+        "alt": "Charles Emmanuel II",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Charles_Emmanuel_II",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:19.583Z",
+      "hash": "13e32cfe4f6b3509"
+    },
+    {
+      "id": "wikipedia:11557553",
+      "type": "wiki",
+      "title": "Badagry Division",
+      "summary": "Badagry Division is an administrative division of Lagos State in Nigeria. It is one of five administrative divisions of Lagos State, and is further divided into four Local Government Areas.",
+      "body": "Badagry Division is an administrative division of Lagos State in Nigeria. It is one of five administrative divisions of Lagos State, and is further divided into four Local Government Areas.",
+      "image": {
+        "src": "data/images/a6b7a1c8b1a62f33.jpg",
+        "alt": "Badagry Division",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Badagry_Division",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-06T14:55:19.237Z",
+      "hash": "53dd12638ebb3041"
+    },
     {
       "id": "chess:WYC4q",
       "type": "chess",
@@ -11504,984 +12469,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-09-25T13:26:42.725Z",
       "hash": "795df3501fc1ba91"
-    },
-    {
-      "id": "article:8e19194bea3596cd",
-      "type": "article",
-      "title": "The Secret Agent: Left Out of History",
-      "summary": "“I told you the story in the wrong order,” the protagonist of The Secret Agent (2025) admits, midway through a film that declines to linger for long on a single plot or timeline. Implicit within this confession is the question that animates Kleber Mendonça Filho’s expansive thriller about a man on…",
-      "body": "“I told you the story in the wrong order,” the protagonist of The Secret Agent (2025) admits, midway through a film that declines to linger for long on a single plot or timeline. Implicit within this confession is the question that animates Kleber Mendonça Filho’s expansive thriller about a man on the run in 1977 Brazil: Is there such a thing as a right order when it comes to conjuring the past, especially a brutal and traumatic one? How does one account for the elisions of history and the workings of memory, for the ambiguous status of archives as both evidentiary and incomplete, and for…",
-      "image": {
-        "src": "data/images/c26900f17ca08279.jpg",
-        "alt": "The Secret Agent: Left Out of History",
-        "credit": "The Current (Criterion)"
-      },
-      "source": {
-        "name": "The Current (Criterion)",
-        "url": "https://www.criterion.com/current/posts/9287-the-secret-agent-left-out-of-history",
-        "trustTier": "publication",
-        "author": "Dennis Lim",
-        "date": "Wed, 23 Sep 2026 08:34:0"
-      },
-      "tags": [
-        "film",
-        "essay",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-25T13:26:40.092Z",
-      "hash": "8e19194bea3596cd"
-    },
-    {
-      "id": "article:a1d9fdf7e52958ac",
-      "type": "article",
-      "title": "Out Now: Low-tech Magazine Volume IV",
-      "summary": "Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret. Low-tech Magazine presents the fourth volume in the chronological book series. It contains twenty articles that were published online between 2022 and 2026. Three earlier volumes collect articles written and published online…",
-      "body": "Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret. Low-tech Magazine presents the fourth volume in the chronological book series. It contains twenty articles that were published online between 2022 and 2026. Three earlier volumes collect articles written and published online between 2007 and 2021, which are also bundled in the &ldquo;Compressed Edition&rdquo;. This new volume is a bit different from the earlier books: eight of the articles are DIY guides or manuals, and we have grouped them together in the second part of the book. This volume covers the period that…",
-      "image": {
-        "src": "data/images/136a0ca50b519ad9.png",
-        "alt": "Out Now: Low-tech Magazine Volume IV",
-        "credit": "Low-Tech Magazine"
-      },
-      "source": {
-        "name": "Low-Tech Magazine",
-        "url": "https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/",
-        "trustTier": "publication",
-        "date": "Thu, 24 Sep 2026 00:00:0"
-      },
-      "tags": [
-        "technology",
-        "sustainability",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-25T13:26:38.933Z",
-      "hash": "a1d9fdf7e52958ac"
-    },
-    {
-      "id": "article:7ae7f383052c19ef",
-      "type": "article",
-      "title": "Scans of City Textures",
-      "summary": "Using a handheld scanner, designer/illustrator Noah Nolet captures textures from surfaces in cities around the world, including Tokyo, LA, Paris, Kyoto, NYC, and Berlin. On his website, he offers city packs of hundreds of scans for sale and free sample packs as well. You can also check out how he…",
-      "body": "Using a handheld scanner, designer/illustrator Noah Nolet captures textures from surfaces in cities around the world, including Tokyo, LA, Paris, Kyoto, NYC, and Berlin. On his website, he offers city packs of hundreds of scans for sale and free sample packs as well. You can also check out how he captures the textures on Instagram and YouTube. This is a modern take on stone rubbing. Tags: cities · design · Noah Nolet · photography",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/09/scans-of-city-textures",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-09-24T21:44:00Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-25T13:26:35.264Z",
-      "hash": "7ae7f383052c19ef"
-    },
-    {
-      "id": "article:daf4dd7e027a7085",
-      "type": "article",
-      "title": "What If We Just Stopped? “We’re in the Looney Tunes stage...",
-      "summary": "What If We Just Stopped? “We’re in the Looney Tunes stage of the end of social, where we’ve glided well past the edge of the cliff and it’s slowing dawning on us that the only way left is down. Fast.”",
-      "body": "What If We Just Stopped? “We’re in the Looney Tunes stage of the end of social, where we’ve glided well past the edge of the cliff and it’s slowing dawning on us that the only way left is down. Fast.”",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/09/0049680-what-if-we-just-stopped",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-09-25T00:10:00Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-25T13:26:35.264Z",
-      "hash": "daf4dd7e027a7085"
-    },
-    {
-      "id": "article:000eccf31351e039",
-      "type": "article",
-      "title": "How to Fall in Love Better: A Field Guide to Enlightened Enchantment",
-      "summary": "Enchantment, J.R.R. Tolkien believed, is “as necessary for the health and complete functioning of the Human as is sunlight for physical life.” But enchantment is a story we tell ourselves that tells us back to ourselves, and like every story, it can be true or false. Love is the most powerful…",
-      "body": "Enchantment, J.R.R. Tolkien believed, is “as necessary for the health and complete functioning of the Human as is sunlight for physical life.” But enchantment is a story we tell ourselves that tells us back to ourselves, and like every story, it can be true or false. Love is the most powerful enchantment we know, the most transformative if true and the most dangerous if false. “When we are falsely enchanted, we desire either to possess the enchanting being or be possessed by it,” W.H. Auden observed in one of the most insightful things I have ever read, adding the haunting… read article",
-      "image": {
-        "src": "data/images/095d5531270942f8.jpg",
-        "alt": "How to Fall in Love Better: A Field Guide to Enlightened Enchantment",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/09/24/love-enchantment/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Thu, 24 Sep 2026 18:26:1"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "books",
-        "love",
-        "patrick curry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-25T13:26:33.795Z",
-      "hash": "000eccf31351e039"
-    },
-    {
-      "id": "article:c1bfdce116b11498",
-      "type": "article",
-      "title": "The Hard Truth About the Sanctuary Movement",
-      "summary": "In a healthy country, the American experiment with the sanctuary movement would be widely recognized as a deadly failure.",
-      "body": "In a healthy country, the American experiment with the sanctuary movement would be widely recognized as a deadly failure.",
-      "image": {
-        "src": "data/images/8b4203b38dcbe80f.jpg",
-        "alt": "The Hard Truth About the Sanctuary Movement",
-        "credit": "Imprimis"
-      },
-      "source": {
-        "name": "Imprimis",
-        "url": "https://imprimis.hillsdale.edu/the-hard-truth-about-the-sanctuary-movement/",
-        "trustTier": "publication",
-        "author": "Sean Davis",
-        "date": "Fri, 24 Jul 2026 21:16:0"
-      },
-      "tags": [
-        "ideas",
-        "liberty",
-        "lecture",
-        "american liberalism",
-        "immigration",
-        "law",
-        "law enforcement"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-25T13:26:32.013Z",
-      "hash": "c1bfdce116b11498"
-    },
-    {
-      "id": "greek:a689ab4aaac40b73",
-      "type": "greek",
-      "title": "κύριος",
-      "summary": "κύριος — “Lord” · noun",
-      "body": "Note: ὁ κύριος; also \"master, sir\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%BA%CF%8D%CF%81%CE%B9%CE%BF%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:29.757Z",
-      "hash": "a689ab4aaac40b73"
-    },
-    {
-      "id": "greek:d6ec919479d8a208",
-      "type": "greek",
-      "title": "λέγω",
-      "summary": "λέγω — “I say, speak” · verb",
-      "body": "Note: regular -ω verb; 3sg λέγει\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%BB%CE%AD%CE%B3%CF%89#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "verb"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:29.757Z",
-      "hash": "d6ec919479d8a208"
-    },
-    {
-      "id": "greek:514725f5fd86f09f",
-      "type": "greek",
-      "title": "ἐγώ",
-      "summary": "ἐγώ — “I” · pronoun",
-      "body": "Note: 1st person singular nominative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%90%CE%B3%CF%8E#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "pronoun",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-25T13:26:29.757Z",
-      "hash": "514725f5fd86f09f"
-    },
-    {
-      "id": "greek:d400c7e173bfe638",
-      "type": "greek",
-      "title": "υἱός",
-      "summary": "υἱός — “son” · noun",
-      "body": "Note: ὁ υἱός\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CF%85%E1%BC%B1%CF%8C%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:29.757Z",
-      "hash": "d400c7e173bfe638"
-    },
-    {
-      "id": "poetry:c773ac8a795225ed",
-      "type": "poem",
-      "title": "Werner: First Draft",
-      "summary": "ACT I.\nSCENE I.--_A ruinous chateau on the Silesian frontier of Bohemia_.\n_Josepha_. THE storm is at it's height--how the wind howls,\nLike an unearthly voice, through these lone chambers!",
-      "body": "ACT I.\n\nSCENE I.--_A ruinous chateau on the Silesian frontier of Bohemia_.\n\n_Josepha_. THE storm is at it's height--how the wind howls,\nLike an unearthly voice, through these lone chambers!\nAnd the rain patters on the flapping casement\nWhich quivers in it's frame--the night is starless--\nYet cheerly Werner! still our hearts are warm:\nThe tempest is without, or should be so--\nFor we are sheltered here where Fortune's clouds\nMay roll all harmless o'er us as the wrath\nOf these wild elements that menace now,\nYet do not reach us.\n\n_Werner_ (_without attending, and walking disturbedly,\nspeaking to himself_). No--'Tis past--'tis blighted,\nThe last faint hope to which my withered fortune\nClung with a feeble and a fluttering grasp,\nYet clung convulsively--for twas the _last_--\nIs broken with the rest: would that my heart were!\nBut there is pride, and passion's war within,\nWhich give my breast vitality to suffer,\nAs it hath suffered through long years till now.\nMy father's wrath extends beyond the grave,\nAnd haunts me in the shape of Stralenheim!\nHe revels in my fathers palace--I--\nExiled--disherited--a nameless outcast!\n                                                     [_Werner pauses_.\nMy boy, too, where and what is he?--my father\nMight well have limited his curse to me.\nIf that my heritage had passed to Ulric,\nI had not mourned my own less happy lot.\nNo--No--all's past--all torn away.\n\n_Josepha_.                        Dear Werner,\nOh banish these discomfortable thoughts\nThat thus contend within you: we are poor,\nSo we have ever been--but I remember\nThe time when thy Josepha's smile could turn\nThy heart to hers--despite of every ill.\nSo let it now--alas! you hear me not.\n\n_Werner_. What said you?--let it pass--no matter what--\nThink me not churlish, Sweet, I am not well.\nMy brain is hot and busy--long fatigue\nAnd last night's watching have oppressed me much.\n\n_Josepha_. Then get thee to thy couch. I do perceive\nIn thy pale cheek and in thy bloodshot eye\nA strange distemperature--nay, as a boon,\nI do entreat thee to thy rest.\n\n_Werner_.                      My _rest!_\nWell--be it so--Good Night!\n\n_Josepha_.                 Thy hand is burning;\nI will prepare a potion:--peace be with thee--\nTomorrow's dawn I trust will find thee healthful;\nAnd, then, our Ulric may perchance--\n\n_Werner_. _Our_ Ulric--thine and mine--our only boy--\nCurse on his father and his father's Sire!\n(For, if it is so, I will render back\nA curse that Heaven will hear as well as his),\nOur Ulric by his father's fault or folly,\nAnd by my father's unrelenting pride,\nIs at this hour, perchance, undone. This night\nThat shelters us may shower it's wrath on him--\nA homeless beggar for his parent's sin--\nThy sin and mine--Thy child and mine atones--\nOur Ulric--Woman!--I'll to no bed to-night--\nThere is no pillow for my thoughts.\n\n_Josepha_.                         What words,\nWhat fearful words are these! what may they mean?\n\n_Werner_. Look on me--thou hast known me, hitherto,\nAs an oppressed, but yet a humble creature;\nBy birth predestined to the yoke I've borne.\nTill now I've borne it patiently, at least,\nIn bitter silence--but the hour is come,\nThat should and shall behold me as I was,\nAnd ought again to be--\n\n_Josepha_.               I know not what\nThy mystery may tend to, but my fate--\nMy heart--my will--my love are linked with thine,\nAnd I would share thy sorrow: lay it open.\n\n_Werner_. Thou see'st the son of Count--but let it pass--\nI forfeited the name in wedding thee:\nThat fault of many faults a father's pride\nProclaimed the last and worst--and, from that hour,\nHe disavowed, disherited, debased\nA wayward son----tis a long tale--too long--\nAnd I am heartsick of the heavy thought.\n\n_Josepha_. Oh, I could weep--but that were little solace:\nYet tell the rest--or, if thou wilt not, say--\nYet say--why, through long years, from me withheld,\nThis fearful secret that hath gnawed thy soul?\n\n_Werner_. Why? had it not been base to call on thee\nFor patience and for pity--to awake\nThe thirst of grandeur in thy gentle spirit--\nTo tell thee what thou shouldst have been--the wife\nOf one, in power--birth--wealth, preeminent--\nThen, sudden quailing in that lofty tone,\nTo bid thee soothe thy husband--peasant Werner?\n\n_Josepha_. I would thou wert, indeed, the peasant Werner;\nFor then thy soul had been of calmer mould,\nAnd suited to thy lot----\n\n_Werner_.                 Was it not so?\nBeneath a humble name and garb--the which\nMy youthful riot and a father's frown,\nToo justly fixed upon me, had compelled\nMy bowed down spirit to assume too well--\nSince it deceived the world, myself, and thee:\nI linked my lot irrevocably with thine--\nAnd I have loved thee deeply--long and dearly--\nEven as I love thee still--but these late crosses,\nAnd most of all the last,--have maddened me;\nAnd I am wild and wayward as in youth,\nEre I beheld thee--\n\n_Josepha_.          Would thou never hadst!\nSince I have been a blight upon thy hope,\nAnd marred alike the present and the future.\n\n_Werner_. Yet say not so--for all that I have known\nOf true and calm content--of love--of peace--\nHas been with thee and from thee: wert thou not,\nI were a lonely and self-loathing thing.\nUlric has left us! all, save thou, have left me!\nFather and son--Fortune--Fame--Power--Ambition--\nThe ties of being--the high soul of man--\nAll save the long remorse--the consciousness,\nThe curse of living on, regretting life\nMispent in miserably gazing upward,\nWhile others soared--Away, I'll think no more.\n\n_Josepha_. But Ulric--wherefore didst thou let him leave\nHis home and us? tis now three weary years.\n\n_Werner_ (_interrupting her quickly_).\nSince my hard father, half-relenting, sent\nThe offer of a scanty stipend which\nI needs must earn by rendering up my son--\nFool that I was--I thought this quick compliance,\nAnd never more assuming in myself\nThe haught name of my house would soften him--\nAnd for our child secure the heritage\nForfeit in me forever. Since that hour,\nTill the last year, the wretched pittance came--\nThen ceased with every tidings of my son\nAnd Sire--till late I heard the last had ceased\nTo live--and unforgiving died--Oh God!\n\n_Josepha_. Was it for this our Ulric left us so?\nThou dids't deceive me then--he went not forth\nTo join the legions of Count Tilly's war?\n\n_Werner_. I know not--he had left my father's castle,\nSome months before his death--but why?--but why?\nLeft it as I did ere his birth, perchance,\nLike me an outcast. Old age had not made\nMy father meeker--and my son, Alas!\nToo much his Sire resembled----\n\n_Josepha_.                     Yet there's comfort.\nRestrain thy wandering Spirit--Ulric cannot\nHave left his native land--thou dost not know,\nThough it looks strangely, thy Sire and he\nIn anger parted--Hope is left us still.\n\n_Werner_. The best hope that I ever held in youth,\nWhen every pulse was life, each thought a joy,\n(Yet not irrationally sanguine, since\nMy birth bespoke high thoughts,) hath lured and left me.\nI will not be a dreamer in mine age--\nThe hunter of a shadow--let _boys hope_:\nOf Hope I now know nothing but the name--\nAnd that's a sound which jars upon my heart.\nI've wearied thee--Good night--my patient Love!\n\n_Josepha_. I must not leave thee thus--my husband--friend--\nMy heart is rent in twain for thee--I scarce\nDare greet thee as I would, lest that my love\nShould seem officious and ill timed:--'tis early--\nYet rest were as a healing balm to thee--\nThen once again--Good night!\n\n_Voice Without_.             What Ho--lights ho!\n\nSCENE II.\n\n_Josepha_. What noise is that? 'tis nearer--hush! they knock.\n                     [_A knocking heard at the gate_--WERNER _starts_.\n\n_Werner_ (_aside_). It may be that the bloodhounds of the villain,\nWho long has tracked me, have approached at last:\nI'll not be taken tamely.\n\n_Josepha_.                'Twas the voice,\nThe single voice of some lone traveller.\nI'll to the door.\n\n_Werner_.         No--stay thou here--again!\n                                 [_Knocking repeated. Opens the door_.\nWell--Sir--your pleasure?\n\n                   _Enter_ CARL _the Bavarian_.\n\n_Carl_.                   Thanks most worthy Sir!\nMy pleasure, for to-night, depends on yours--\nI'm weary, wet, and wayworn--without shelter,\nUnless you please to grant it.\n\n_Josepha_.                    You shall have it,\nSuch as this ruinous mansion may afford:\nTis spacious, but too cold and crazy now\nFor Hospitality's more cordial welcome:\nBut as it is 'tis yours.\n\n_Werner_ (_to his wife_).   Why say ye so?\nAt once such hearty greeting to a stranger?\nAt such a lonely hour, too--\n\n_Josepha_ (_in reply to Werner_). Nay--he's honest.\nThere is trust-worthiness in his blunt looks.\n\n_Werner_ (_to Josepha_).\n\"Trustworthiness in looks!\" I'll trust no looks!\nI look into men's faces for their age,\nNot for their actions--had he Adam's brow,\nOpen and goodly as before the fall,\nI've lived too long to trust the frankest aspect.\n(_To Carl_) Whence come you Sir?\n\n_Carl_.                         From Frankfort, on my way\nTo my own country--I've a companion too--\nHe tarries now behind:--an hour ago,\nOn reaching that same river on your frontier,\nWe found it swoln by storms--a stranger's carriage,\nDespite the current, drawn by sturdy mules,\nEssayed to pass, and nearly reached the middle\nOf that which was the _ford_ in gentler weather,\nWhen down came driver, carriage, mules, and all--\nYou may suppose the worthy Lord within\nFared ill enough:--worse still he might have suffered,\nBut that my comrade and myself rushed in,\nAnd with main strength and some good luck beside,\nDislodged and saved him: he'll be here anon.\nHis equipage by this time is at Dresden--\nI left it floating that way.\n\n_Werner_.                   Where is he?\n\n_Carl_. Hitherward on his way, even like myself--\nWe saw the light and made for the nearest shelter:\nYou'll not deny us for a single night?\nYou've room enough, methinks--and this vast ruin\nWill not be worse for three more guests.\n\n_Werner_.                               Two more:\nAnd thou?--well--be it so--(_aside_) (tonight will soon\nBe overpast: they shall not stay tomorrow)--\nKnow you the name of him you saved?\n\n_Carl_.                             Not I!\nI think I heard him called a Baron Something--\nBut was too chill to stay and hear his titles:\nYou know they are sometimes tedious in the reckoning,\nIf counted over by the noble wearer.\nHas't any wine? I'm wet, stung to the marrow--\nMy comrade waited to escort the Baron:\nThey will be here, anon--they, too, want cheering:\nI'll taste for them, if it please you, courteous host!\n\n_Josepha_. Such as our vintage is shall give you welcome:\nI'll bring you some anon.                                 [_goes out_.\n\n_Carl_ (_looking round_). A goodly mansion!\nAnd has been nobly tenanted, I doubt not.\nThis worn magnificence some day has shone\nOn light hearts and long revels--those torn banners\nHave waved o'er courtly guests--and yon huge lamp\nHigh blazed through many a midnight--I could wish\nMy lot had led me here in those gay times!\nYour days, my host, must pass but heavily.\nAre you the vassal of these antient chiefs,\nWhose heir wastes elsewhere their fast melting hoards,\nAnd placed to keep their cobwebs company?\n\n_Werner_ (_who has been absorbed in thought till the latter\npart of his speech_). A Vassal!--I a vassal!--_who_ accosts me\nWith such familiar question?--(_checks himself and says\naside_)--Down startled pride!\nHave not long years of wretchedness yet quenched thee,\nAnd, suffering evil, wilt thou start at scorn?\n(_To Carl_.) Sir! if I boast no birth--and, as you see,\nMy state bespeaks none--still, no being breathes\nWho calls me slave or servant.--Like yourself\nI am a stranger here--a lonely guest--\nBut, for a time, on sufferance. On my way,\nFrom--a far distant city--Sickness seized,\nAnd long detained me in the neighbouring hamlet.\nThe Intendant of the owner of this castle,\nThen uninhabited, with kind intent,\nPermitted me to wait returning health\nWithin these walls--more sheltered than the cot\nOf humble peasants.\n\n_Carl_.             Worthy Sir, your mercy!\nI meant not to offend you--plain of speech,\nAnd blunt in apprehension, I do judge\nMen's station from their seeming--but themselves\nFrom acts alone. You bid me share your shelter,\nAnd I am bound to you; and had you been\nThe lowliest vassal had not thanked you less,\nThan I do now, believing you his better,\nPerhaps my own superior--\n\n_Werner_.                 What imports it?\nWhat--who I am--or whence--you are welcome--sit--\nYou shall have cheer anon. (_walks disturbedly aside_)\n\n_Carl_ (_to himself_). Here's a strange fellow!\nWild, churlish, angry--_why_, I know not, seek not.\nWould that the wine were come! my doublet's wet,\nBut my throat dry as Summer's drought in desarts.\nAh--here it sparkles!\n\n   _Enter_ JOSEPHA _with wine in flask--and a cup. As she pours\n     it out a Voice is heard without calling at a distance_.\n         WERNER _starts_--JOSEPHA _listens tremulously_.\n\n_Werner_.            That voice--that voice--Hark!\nNo--no--tis silent--Sir--I say--that voice--\nWhose is it--speak--\n\n_Carl_ (_drinking unconcernedly_).\n                    Whose is it? faith, I know not--\nAnd, yet, 'tis my companion's: he's like you,\nAnd does not care to tell his name and station.\n                                        [_The voice again and nearer_.\n\n_Josepha_. 'Tis his--I knew it--Ulric!--Ulric!--Ulric!\n                                 [_She drops the wine and rushes out_.\n\n_Carl_. The flask's unhurt--but every drop is spilt.\nConfound the voice! I say--would he were dumb!\nAnd faith! to me, he has been nearly so--\nA silent and unsocial travelling mate.\n\n_Werner_ (_stands in agitation gazing towards the door_).\nIf it be he--I cannot move to meet him.\nYes--it must be so--there is no such voice\nThat so could sound and shake me: he is here,\nAnd I am--\n\n                       _Enter_ STRALENHEIM.\n\n_Werner_ (_turns and sees him_). A curse upon thee, stranger!\nWhere dids't thou learn a tone so like my boy's?\nThou mock bird of my hopes--a curse upon thee!\nOut! Out! I say. Thou shalt not harbour here.\n\n_Stralenheim_. What means the peasant? knows he unto whom\nHe dares address this language?\n\n_Carl_.                         Noble Sir!\nPray heed him not--he's Phrenzy's next door neighbour,\nAnd full of these strange starts and causeless jarrings.\n\n_Werner_. Oh, that long wished for voice!--I dreamed of it--\nAnd then it did elude me--then--and now.\n\n     _Enter_ ULRIC _and_ JOSEPHA. WERNER _falls on his neck_.\n\nOh God! forgive, for thou dids't not forget me.\nAlthough I murmured--tis--it is my Son!\n\n_Josepha_. Aye, 'tis dear Ulric--yet, methinks, he's changed, too:\nHis cheek is tanned, his frame more firmly knit!\nThat scar, too, dearest Ulric--I do fear me--\nThou hast been battling with these heretics,\nAnd that's a Swedish token on thy brow.\n\n_Ulric_. My heart is glad with yours--we meet like those\nWho never would have parted:--of the past\nYou shall know more anon--but, here's a guest\nThat asks a gentle welcome. Noble Baron,\nMy father's silence looks discourtesy:\nYet must I plead his pardon--'tis his love\nOf a long truant that has rapt him, thus,\nFrom hospitable greeting--you'll be seated--\nAnd, Father, we will sup like famished hunters.\n\n                     JOSEPHA _goes out here_.\n\n_Stralenheim_. I have much need of rest: no more refreshment!\nWere all my people housed within the hamlet,\nOr can they follow?\n\n_Ulric_.           Not to night I fear.\nThey staid in hope the damaged Cabriole\nMight, with the dawn of day, have such repairs,\nAs circumstance admits of.\n\n_Carl_.                    Nay--that's hopeless.\nThey must not only mend but draw it too.\nThe mules are drowned--a murrain on them both!\nOne kicked me as I would have helped him on.\n\n_Stralenheim_. It is most irksome to me--this delay.\nI was for Prague on business of great moment.\n\n_Werner_. For Prague--Sir--Say you?--\n\n_Stralenheim_.                        Yes, my host! for Prague.\nAnd these vile floods and villainous cross roads\nSteal my time from it's uses--but--my people?\nWhere do they shelter?\n\n_Ulric_.               In the boatman's shed,\nNear to the ferry: you mistook the ford--\nTis higher to the right:--their entertainment\nWill be but rough--but 'tis a single night,\nAnd they had best be guardians of the baggage.\nThe shed will hold the weather from their sleep,\nThe woodfire warm them--and, for beds, a cloak\nIs swansdown to a seasoned traveller:\nIt has been mine for many a moon, and may\nTonight, for aught it recks me.\n\n_Stralenheim_.                  And tomorrow\nI must be on my journey--and betimes.\nIt is not more than three days travel, hence,\nTo Mansfeldt Castle.\n\n_Werner and Ulric_. Mansfeldt Castle!--\n\n_Stralenheim_.                           Aye!\nFor thither tends my progress--so, betimes,\nMine host I would be stirring--think of that!\nAnd let me find my couch of rest at present.\n\n_Werner_. You shall Sir--but--to Mansfeldt!--\n                      [ULRIC _stops his father and says aside to him_,\n                                             _Silence--father--_\nWhate'er it be that shakes you thus--_tread down_--\n(_To Stralenheim_) My father, Sir, was born not far from Prague,\nAnd knows it's environs--and, when he hears,\nThe name endeared to him by native thoughts,\nHe would ask of it, and it's habitants--\nYou will excuse his plain blunt mode of question.\n\n_Stralenheim_. Indeed, perchance, then, he may aid my search.\nPray, know you aught of one named Werner? who\n(But he no doubt has passed through many names),\nLived long in Hamburgh--and has thence been traced\nInto Silesia--and not far from hence--\nBut there we lost him; he who can disclose\nAught of him, or his hiding-place, will find\nAdvantage in revealing it.\n\n_Ulric_.                  Why so--Sir?\n\n_Stralenheim_. There are strong reasons to suspect this man\nOf crimes against the State--league with Swedes--\nAnd other evil acts of moment:--he\nWho shall deliver him, bound hand and foot,\nWill benefit his country and himself:\nI will reward him doubly too.\n\n_Ulric_.                      You know him?\n\n_Stralenheim_. He never met my eyes--but Circumstance\nHas led me to near knowledge of the man.\nHe is a villain--and an enemy\nTo all men--most to me! If earth contain him,\nHe shall be found and fettered: I have hopes,\nBy traces which tomorrow will unravel,\nA fresh clue to his lurking spot is nigh.\n\n_Carl_. And, if I find it, I will break the thread.\nWhat, all the world against one luckless wight!\nAnd he a fugitive--I would I knew him!\n\n_Ulric_. You'd help him to escape--is it not so?\n\n_Carl_. I would, indeed!\n\n_Ulric_.                 The greater greenhorn you!\nI would secure him--nay--I will do so.\n\n_Stralenheim_. If it be so--my gratitude for aid,\nAnd rescue of my life from the wild waters,\nWill double in it's strength and it's requital.\nYour father, too, perhaps can help our search?\n\n_Werner_. _I_ turn a spy--no--not for _Mansfeldt Castle_,\nAnd all the broad domain it frowns upon.\n\n_Stralenheim_. Mansfeldt again!--you know it then? perchance,\nYou also know the story of it's lords?\n\n_Werner_. Whate'er I know, there is no bribe of thine\nCan swerve me to the crooked path thou pointest.\nThe chamber's ready, which your rest demands.\n\n_Stralenheim_ (_aside_).\n'Tis strange--this peasant's tone is wondrous high,\nHis air imperious--and his eye shines out\nAs wont to look command with a quick glance--\nHis garb befits him not--why, he may be\nThe man I look for! now, I look again,\nThere is the very lip--short curling lip--\nAnd the oerjutting eye-brow dark and large,\nAnd the peculiar wild variety\nOf feature, even unto the Viper's eye,\nOf that detested race, and it's descendant\nWho stands alone between me and a power,\nWhich Princes gaze at with unquiet eyes!\nThis is no peasant--but, whate'er he be,\nTomorrow shall secure him and unfold.\n\n_Ulric_. It will not please you, Sir, then to remain\nWith us beyond tomorrow?\n\n_Stralenheim_. Nay--I do not say so--there is no haste.\nAnd now I think again--I'll tarry here--\nPerhaps until the floods abate--we'll see--\nIn the mean time--to my chamber--so--Good Night!\n                                                  [_Exit with_ WERNER.\n\n_Werner_. This way, Sir.\n\n_Carl_. And I to mine: pray, where are we to rest?\nWe'll sup within--\n\n_Ulric_.          What matter where--there's room.\n\n_Carl_. I would fain see my way through this vast ruin;\nCome take the lamp, and we'll explore together.\n\n_Josepha_ (_meeting them_). And I will with my son.\n\n_Ulric_.                          Nay--stay--dear mother!\nThese chilly damps and the cold rush of winds\nFling a rough paleness o'er thy delicate cheek--\nAnd thou seem'st lovely in thy sickliness\nOf most transparent beauty:--but it grieves me.\nNay! tarry here by the blaze of the bright hearth:--\nI will return anon--and we have much\nTo listen and impart. Come, Carl, we'll find\nSome gorgeous canopy, and, thence, unroost\nIt's present bedfellows the bats--and thou\nShalt slumber underneath a velvet cloud\nThat mantles o'er the couch of some dead Countess.\n                                             [_Exit_ CARL _and_ ULRIC.\n\n_Josepha_ (_sola_). It was my joy to see him--nothing more\nI should have said--which sent my gush of blood\nBack on my full heart with a dancing tide:\nIt was my weary hope's unthought fulfilment,\nMy agony of mother-feelings curdled\nAt once in gathered rapture--which did change\nMy cheek into the hue of fainting Nature.\nI should have answered thus--and yet I could not:\nFor though 'twas true--it was not all the truth.\nI have much suffered in the thought of Werner's\nLate deep distemperature of mind and fortunes,\nWhich since have almost driven him into phrenzy:--\nAnd though that I would soothe, not share, such passions,\nAnd show not how they shake me:--when alone,\nI feel them prey upon me by reflection,\nAnd want the very solace I bestowed;\nAnd which, it seems, I cannot give and have.\nUlric must be my comforter--his father's\nHath long been the most melancholy soul\nThat ever hovered o'er the verge of Madness:\nAnd, better, had he leapt into it's gulph:\nThough to the Mad thoughts are realities,\nYet they can play with sorrow--and live on.\nBut with the mind of consciousness and care\nThe body wears to ruin, and the struggle,\nHowever long, is deadly----He is lost,\nAnd all around him tasteless:--in his mirth\nHis very laughter moves me oft to tears,\nAnd I have turned to hide them--for, in him,\nAs Sunshine glittering o'er unburied bones----\nSoft--he is here.----\n\n_Werner_.             Josepha--where is Ulric?\n\n_Josepha_. Gone with the other stranger to gaze o'er\nThese shattered corridors, and spread themselves\nA pillow with their mantles, in the least ruinous:\nI must replenish the diminished hearth\nIn the inner chamber--the repast is ready,\nAnd Ulric will be here again.--",
-      "source": {
-        "name": "George Gordon, Lord Byron · PoetryDB",
-        "url": "https://poetrydb.org/title/Werner%3A%20First%20Draft",
-        "trustTier": "community",
-        "author": "George Gordon, Lord Byron"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-25T13:26:29.755Z",
-      "hash": "c773ac8a795225ed"
-    },
-    {
-      "id": "poetry:1fc10e49561e4365",
-      "type": "poem",
-      "title": "Epitaph. On Two Lovers Struck Dead by Lightning.",
-      "summary": "When Eastern lovers feed the funeral fire,\nOn the same pile the faithful pair expire.\nHere pitying Heaven that virtue mutual found,\nAnd blasted both, that it might neither wound.",
-      "body": "When Eastern lovers feed the funeral fire,\nOn the same pile the faithful pair expire.\nHere pitying Heaven that virtue mutual found,\nAnd blasted both, that it might neither wound.\nHearts so sincere, the Almighty saw well pleased,\nSent his own lightning, and the victims seized.\n\n    NEAR THIS PLACE LIE THE BODIES OF\n      JOHN HEWET AND SARAH DREW,\n        AN INDUSTRIOUS YOUNG MAN,\n  AND VIRTUOUS MAIDEN OF THIS PARISH;\n        WHO, BEING AT HARVEST-WORK\n         (WITH SEVERAL OTHERS),\nWERE IN ONE INSTANT KILLED BY LIGHTNING,\n        THE LAST DAY OF JULY 1718.\n\nThink not, by rigorous judgment seized,\n  A pair so faithful could expire;\nVictims so pure Heaven saw well pleased,\n  And snatch'd them in celestial fire.\n\nLive well, and fear no sudden fate;\n  When God calls virtue to the grave,\nAlike 'tis justice soon or late,\n  Mercy alike to kill or save.\n\nVirtue unmoved can hear the call,\n  And face the flash that melts the ball.",
-      "source": {
-        "name": "Alexander Pope · PoetryDB",
-        "url": "https://poetrydb.org/title/Epitaph.%20On%20Two%20Lovers%20Struck%20Dead%20by%20Lightning.",
-        "trustTier": "community",
-        "author": "Alexander Pope"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-25T13:26:29.755Z",
-      "hash": "1fc10e49561e4365"
-    },
-    {
-      "id": "met:324434",
-      "type": "art",
-      "title": "Battle scene of Assyrians storming a citadel",
-      "summary": "Unknown artist · ca. 704–681 BCE · Gypsum alabaster",
-      "body": "Unknown artist · ca. 704–681 BCE · Gypsum alabaster\nPurchase, Joseph Pulitzer Bequest, 1955\nAncient West Asian Art",
-      "image": {
-        "src": "data/images/e5aed23b3b0e2087.jpg",
-        "alt": "Battle scene of Assyrians storming a citadel",
-        "credit": "The Met · Purchase, Joseph Pulitzer Bequest, 1955"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/324434",
-        "trustTier": "encyclopedic",
-        "date": "ca. 704–681 BCE"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "storm"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-25T13:26:09.657Z",
-      "hash": "8b6f8d7fdad5b3c0"
-    },
-    {
-      "id": "met:437292",
-      "type": "art",
-      "title": "A Shipwreck in a Storm",
-      "summary": "Jean Pillement · 1782 · Pastel on gessoed canvas",
-      "body": "Jean Pillement · 1782 · Pastel on gessoed canvas\nGift of Martin Birnbaum, 1956\nEuropean Paintings",
-      "image": {
-        "src": "data/images/c74f9f98e08065d3.jpg",
-        "alt": "A Shipwreck in a Storm",
-        "credit": "The Met · Gift of Martin Birnbaum, 1956"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/437292",
-        "trustTier": "encyclopedic",
-        "author": "Jean Pillement",
-        "date": "1782"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "storm",
-        "pastels & oil sketches on paper"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-25T13:26:09.566Z",
-      "hash": "770e01842fef9243"
-    },
-    {
-      "id": "met:437283",
-      "type": "art",
-      "title": "A Hunting Scene",
-      "summary": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio) · ca. 1494–1500 · Tempera and oil transferred to Masonite",
-      "body": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio) · ca. 1494–1500 · Tempera and oil transferred to Masonite\nGift of Robert Gordon, 1875\nEuropean Paintings",
-      "image": {
-        "src": "data/images/a533ebd4899cb593.jpg",
-        "alt": "A Hunting Scene",
-        "credit": "The Met · Gift of Robert Gordon, 1875"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/437283",
-        "trustTier": "encyclopedic",
-        "author": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
-        "date": "ca. 1494–1500"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "storm",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-25T13:26:09.482Z",
-      "hash": "652106fefc3c8970"
-    },
-    {
-      "id": "apod:2003-04-09",
-      "type": "space",
-      "title": "The Egg Nebula in Polarized Light",
-      "summary": "Where is the center of the unusual Egg Nebula? Like a baby chick pecking its way out of an egg, the star in the center of the Egg Nebula is casting away shells of gas and dust as it slowly transforms itself into a white dwarf star. The Egg Nebula is a rapidly evolving pre-planetary nebula spanning about one light…",
-      "body": "Where is the center of the unusual Egg Nebula? Like a baby chick pecking its way out of an egg, the star in the center of the Egg Nebula is casting away shells of gas and dust as it slowly transforms itself into a white dwarf star. The Egg Nebula is a rapidly evolving pre-planetary nebula spanning about one light year toward the constellation of Cygnus. Thick dust, though, blocks the center star from view, while the dust shells further out reflect light from this star. Light vibrating in the plane defined by each dust grain, the central star, and the observer is preferentially reflected, causing an effect known as polarization. Measuring the orientation of the polarized light for the Egg Nebula gives clues to location of the hidden source. The above image taken by the Advanced Camera for Surveys on the Hubble Space Telescope is false-color coded to highlight the orientation of polarization. Have you seen this week's: HEASARC Picture of the Week?",
-      "image": {
-        "src": "data/images/9176048b08fda88a.jpg",
-        "alt": "The Egg Nebula in Polarized Light",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap030409.html",
-        "trustTier": "encyclopedic",
-        "date": "2003-04-09"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:08.641Z",
-      "hash": "eafb8d6da862491c"
-    },
-    {
-      "id": "apod:2009-12-24",
-      "type": "space",
-      "title": "Gamma Cas and Friends",
-      "summary": "Gamma Cassiopeiae shines high in northern autumn evening skies. The brightest spiky star in this rich and colorful Milky Way starfield, bluish Gamma Cas marks the central peak in the W-shaped constellation Cassiopeia. A hot, variable, and rapidly rotating star about 600 light-years distant, Gamma Cas also ionizes…",
-      "body": "Gamma Cassiopeiae shines high in northern autumn evening skies. The brightest spiky star in this rich and colorful Milky Way starfield, bluish Gamma Cas marks the central peak in the W-shaped constellation Cassiopeia. A hot, variable, and rapidly rotating star about 600 light-years distant, Gamma Cas also ionizes surrounding interstellar material, including the wispy IC 63 (left) and IC 59 emission and reflection nebulae. The two faint nebulae are physically close to Gamma Cas, separated from the star by only a few light-years. This well-composed, wide-field view of the region spans almost 2 degrees on the sky.",
-      "image": {
-        "src": "data/images/fb17a382036abed6.jpg",
-        "alt": "Gamma Cas and Friends",
-        "credit": "© Noel Carboni"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap091224.html",
-        "trustTier": "encyclopedic",
-        "date": "2009-12-24"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:08.641Z",
-      "hash": "e1f9491601f311d6"
-    },
-    {
-      "id": "apod:2006-12-02",
-      "type": "space",
-      "title": "Star Trails at 19,000 Feet",
-      "summary": "In myth, Atlas holds up the heavens, but in this stunning view a mountain appears to serve as the southern night sky pivots around a snowy peak. Recorded during a climbing expedition at an altitude above 19,000 feet (temperature -18 degrees C), the picture places the South Celestial Pole over the Andes mountain Ojos…",
-      "body": "In myth, Atlas holds up the heavens, but in this stunning view a mountain appears to serve as the southern night sky pivots around a snowy peak. Recorded during a climbing expedition at an altitude above 19,000 feet (temperature -18 degrees C), the picture places the South Celestial Pole over the Andes mountain Ojos del Salado. Topping out at over 22,000 feet, the Ojos del Salado is a stratovolcano, the highest active volcano on planet Earth. The time exposure lasted for an hour, recording the graceful arcing star trails along with the rising Milky Way (left) and setting Magellanic clouds.",
-      "image": {
-        "src": "data/images/5f1592ca91681437.jpg",
-        "alt": "Star Trails at 19,000 Feet",
-        "credit": "© Serge Brunier"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap061202.html",
-        "trustTier": "encyclopedic",
-        "date": "2006-12-02"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:08.641Z",
-      "hash": "4501663010b41968"
-    },
-    {
-      "id": "apod:2024-11-09",
-      "type": "space",
-      "title": "Neptune at Night",
-      "summary": "Ice giant Neptune is faint in Earth's night sky. Some 30 times farther from the Sun than our fair planet, telescopes are needed to catch a glimpse of the dim and distant world. This dramatic view of Neptune's night just isn't possible for telescopes in the vicinity of planet Earth though. Peering out from the inner…",
-      "body": "Ice giant Neptune is faint in Earth's night sky. Some 30 times farther from the Sun than our fair planet, telescopes are needed to catch a glimpse of the dim and distant world. This dramatic view of Neptune's night just isn't possible for telescopes in the vicinity of planet Earth though. Peering out from the inner Solar System they can only bring Neptune's day side into view. In fact this night side image with Neptune's slender crescent next to the crescent of its large moon Triton was captured by Voyager 2. Launched from planet Earth in 1977 the Voyager 2 spacecraft made a close fly by of the Solar System's outermost planet in 1989, looking back on Neptune at night as the robotic spacecraft continued its voyage to interstellar space.",
-      "image": {
-        "src": "data/images/d58c3840f0949035.jpg",
-        "alt": "Neptune at Night",
-        "credit": "© Voyager"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap241109.html",
-        "trustTier": "encyclopedic",
-        "date": "2024-11-09"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:08.641Z",
-      "hash": "7e2e18fa5d06646c"
-    },
-    {
-      "id": "apod:2014-05-24",
-      "type": "space",
-      "title": "A Circumhorizontal Arc Over Ohio",
-      "summary": "Why would clouds appear to be different colors? The reason here is that ice crystals in distant cirrus clouds are acting like little floating prisms. Sometimes known as a fire rainbow for its flame-like appearance, a circumhorizon arc lies parallel to the horizon. For a circumhorizontal arc to be visible, the Sun…",
-      "body": "Why would clouds appear to be different colors? The reason here is that ice crystals in distant cirrus clouds are acting like little floating prisms. Sometimes known as a fire rainbow for its flame-like appearance, a circumhorizon arc lies parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58 degrees high in a sky where cirrus clouds are present. Furthermore, the numerous, flat, hexagonal ice-crystals that compose the cirrus cloud must be aligned horizontally to properly refract sunlight in a collectively similar manner. Therefore, circumhorizontal arcs are quite unusual to see. This circumhorizon display was photographed through a polarized lens above Dublin, Ohio in 2009.",
-      "image": {
-        "src": "data/images/948e025f8ec35e86.jpg",
-        "alt": "A Circumhorizontal Arc Over Ohio",
-        "credit": "© Todd Sladoje"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap140524.html",
-        "trustTier": "encyclopedic",
-        "date": "2014-05-24"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:08.641Z",
-      "hash": "c6e958e427665e7d"
-    },
-    {
-      "id": "onthisday:09-25:1983:25274f79e1b766db",
-      "type": "history",
-      "title": "1983: Maze Prison escape",
-      "summary": "In one of the largest prison escapes in British history, 38 Provisional Irish Republican Army prisoners hijacked a meals lorry and broke out of HM Prison Maze in County Antrim, Northern Ireland.",
-      "body": "In one of the largest prison escapes in British history, 38 Provisional Irish Republican Army prisoners hijacked a meals lorry and broke out of HM Prison Maze in County Antrim, Northern Ireland.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Maze_Prison_escape",
-        "trustTier": "encyclopedic",
-        "date": "09-25"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:07.734Z",
-      "hash": "a524c53437249058",
-      "expires": "2026-09-28T13:26:07.734Z"
-    },
-    {
-      "id": "onthisday:09-25:1957:a8898ff5c7b282a3",
-      "type": "history",
-      "title": "1957: United States Army",
-      "summary": "United States Army troops escorted nine students as Central High School in Little Rock, Arkansas was integrated.",
-      "body": "United States Army troops escorted nine students as Central High School in Little Rock, Arkansas was integrated.",
-      "image": {
-        "src": "data/images/e679a8267bc9f15d.png",
-        "alt": "United States Army",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/United_States_Army",
-        "trustTier": "encyclopedic",
-        "date": "09-25"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:07.734Z",
-      "hash": "06d7fb3d62bce4ca",
-      "expires": "2026-09-28T13:26:07.734Z"
-    },
-    {
-      "id": "onthisday:09-25:1978:30a250835071d0fa",
-      "type": "history",
-      "title": "1978: San Diego International Airport",
-      "summary": "While on approach to San Diego International Airport, Pacific Southwest Airlines Flight 182, a Boeing 727, collided with a Cessna 172, killing all 137 people on board both aircraft, along with 7 more on the ground.",
-      "body": "While on approach to San Diego International Airport, Pacific Southwest Airlines Flight 182, a Boeing 727, collided with a Cessna 172, killing all 137 people on board both aircraft, along with 7 more on the ground.",
-      "image": {
-        "src": "data/images/fe1004e98737fb3c.png",
-        "alt": "San Diego International Airport",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/San_Diego_International_Airport",
-        "trustTier": "encyclopedic",
-        "date": "09-25"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:07.734Z",
-      "hash": "5c4a92fcac48028f",
-      "expires": "2026-09-28T13:26:07.734Z"
-    },
-    {
-      "id": "wikipedia:56725111",
-      "type": "wiki",
-      "title": "Barbora Blažková",
-      "summary": "Barbora Blažková is a Czech former ski jumper. She competed at World Cup level from the 2012–13 to 2018–19 seasons, with her best individual result being 23rd place in Oberstdorf on 8 January 2017. At the 2013 European Youth Olympic Winter Festival, she won a mixed team gold medal.",
-      "body": "Barbora Blažková is a Czech former ski jumper. She competed at World Cup level from the 2012–13 to 2018–19 seasons, with her best individual result being 23rd place in Oberstdorf on 8 January 2017. At the 2013 European Youth Olympic Winter Festival, she won a mixed team gold medal.",
-      "image": {
-        "src": "data/images/a12b7787d5193848.jpg",
-        "alt": "Barbora Blažková",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Barbora_Bla%C5%BEkov%C3%A1",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:06.922Z",
-      "hash": "423a0d0f1bffa7e1"
-    },
-    {
-      "id": "wikipedia:61275662",
-      "type": "wiki",
-      "title": "Triosteum perfoliatum",
-      "summary": "Triosteum perfoliatum, commonly known as perfoliate tinker's-weed, late horse gentian, common horse gentian, perfoliate-leaved horse-gentian, feverwort, and wild coffee, is a species of flowering plant belonging to the family Caprifoliaceae (honeysuckle). It is found in eastern and central North America. The…",
-      "body": "Triosteum perfoliatum, commonly known as perfoliate tinker's-weed, late horse gentian, common horse gentian, perfoliate-leaved horse-gentian, feverwort, and wild coffee, is a species of flowering plant belonging to the family Caprifoliaceae (honeysuckle). It is found in eastern and central North America. The yellow-orange berries can be dried, roasted, ground, and used as a coffee substitute.",
-      "image": {
-        "src": "data/images/e81d8c8dcedf0c5f.jpg",
-        "alt": "Triosteum perfoliatum",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Triosteum_perfoliatum",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:06.655Z",
-      "hash": "2efb6827dd711931"
-    },
-    {
-      "id": "wikipedia:49799396",
-      "type": "wiki",
-      "title": "Gleichenia abscida",
-      "summary": "Gleichenia abscida, commonly known as dwarf coral fern, is an uncommon alpine fern found in southwestern Tasmania. Described by English born dentist and botanist Leonard Rodway, that which distinguishes G. abscida the most from all other species of Gleichenia is its frond. While each other species of Gleichenia have…",
-      "body": "Gleichenia abscida, commonly known as dwarf coral fern, is an uncommon alpine fern found in southwestern Tasmania. Described by English born dentist and botanist Leonard Rodway, that which distinguishes G. abscida the most from all other species of Gleichenia is its frond. While each other species of Gleichenia have a repetitively branching frond, G. abscida's frond consists of just two blades, with the apical axil between these two blades lacking meristematic tissue.",
-      "image": {
-        "src": "data/images/a8f92c6ee83ea8be.jpg",
-        "alt": "Gleichenia abscida",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Gleichenia_abscida",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:06.313Z",
-      "hash": "a62fcf8f7ba02117"
-    },
-    {
-      "id": "wikipedia:54249520",
-      "type": "wiki",
-      "title": "Liliana Borcea",
-      "summary": "Liliana Borcea is the George P. Livanos Professor of Applied Physics and Applied Mathematics in the Department of Applied Physics and Applied Mathematics at Columbia University. She was previously the Peter Field Collegiate Professor of Mathematics at the University of Michigan. Her research interests are in…",
-      "body": "Liliana Borcea is the George P. Livanos Professor of Applied Physics and Applied Mathematics in the Department of Applied Physics and Applied Mathematics at Columbia University. She was previously the Peter Field Collegiate Professor of Mathematics at the University of Michigan. Her research interests are in scientific computing and applied mathematics, including the scattering and transport of electromagnetic waves.",
-      "image": {
-        "src": "data/images/dbbc597504e54d27.jpg",
-        "alt": "Liliana Borcea",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Liliana_Borcea",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-25T13:26:05.954Z",
-      "hash": "09bab6eba9c53321"
-    },
-    {
-      "id": "chess:eabgq",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1829. Find the best line for white.",
-      "body": "Solution, from → to: h4→e7, h7→g8, e7→e8, f4→f8, e8→g6, h6→g7, g6→g7. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "8/p6k/1p2p1pb/4B3/2P2rPQ/1P2q2P/P5K1/8 w - - 0 1",
-        "lastMove": "f8f4"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/eabgq",
-        "trustTier": "community",
-        "date": "Thu, 24 Sep 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "verylong",
-        "endgame",
-        "matein4"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-24T13:25:29.017Z",
-      "hash": "75f4823d7ccbc8e0"
-    },
-    {
-      "id": "game:1ee3a77f6764ccf5",
-      "type": "game",
-      "title": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
-      "summary": "Bethesda president Jill Braff is reportedly calling Obsidian's merging with Bethesda 'primarily a change in reporting structure.'",
-      "body": "Bethesda president Jill Braff is reportedly calling Obsidian's merging with Bethesda 'primarily a change in reporting structure.'",
-      "image": {
-        "src": "data/images/53ba01abea74115a.png",
-        "alt": "Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Wed, 23 Sep 2026 17:03:4"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-24T13:25:28.589Z",
-      "hash": "1ee3a77f6764ccf5",
-      "expires": "2026-12-23T13:25:28.589Z"
-    },
-    {
-      "id": "game:4fa60402abda716e",
-      "type": "game",
-      "title": "Discord re-introduces age verification policy based on 'account signal' methodology",
-      "summary": "Discord says it has built an age estimation model based on 'account signals' to determine an user's age group.",
-      "body": "Discord says it has built an age estimation model based on 'account signals' to determine an user's age group.",
-      "image": {
-        "src": "data/images/16d7b0d228f97cd5.png",
-        "alt": "Discord re-introduces age verification policy based on 'account signal' methodology",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
-        "trustTier": "publication",
-        "author": "Diego Argüello",
-        "date": "Wed, 23 Sep 2026 18:30:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-24T13:25:28.589Z",
-      "hash": "4fa60402abda716e",
-      "expires": "2026-12-23T13:25:28.589Z"
-    },
-    {
-      "id": "game:9166d8aa39093b38",
-      "type": "game",
-      "title": "Irish Game Fund expands with additional funding pathways",
-      "summary": "Developers in the region will now be able to take advantage of a Development Fund, Prototype Fund, and Release Fund.",
-      "body": "Developers in the region will now be able to take advantage of a Development Fund, Prototype Fund, and Release Fund.",
-      "image": {
-        "src": "data/images/9e07b6807d7bbac7.png",
-        "alt": "Irish Game Fund expands with additional funding pathways",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Thu, 24 Sep 2026 11:10:2"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-24T13:25:28.589Z",
-      "hash": "9166d8aa39093b38",
-      "expires": "2026-12-23T13:25:28.589Z"
-    },
-    {
-      "id": "trivia:dfd9de0990c311a7",
-      "type": "trivia",
-      "title": "What is the name for a male bee that comes from an unfertilized egg?",
-      "summary": "Is it: Soldier · Male · Drone · Worker?",
-      "body": "Answer: Drone.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "animals"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-24T13:25:26.042Z",
-      "hash": "dfd9de0990c311a7"
-    },
-    {
-      "id": "trivia:b7c3c0f59b9bd394",
-      "type": "trivia",
-      "title": "In Undertale, having a \"Fun Value\" set to 56-57 will play the \"Wrong Number Song Call\".",
-      "summary": "True — or false?",
-      "body": "Answer: False.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-24T13:25:26.042Z",
-      "hash": "b7c3c0f59b9bd394"
-    },
-    {
-      "id": "trivia:1c2b72976c9aa188",
-      "type": "trivia",
-      "title": "Scotch whisky and Drambuie make up which cocktail?",
-      "summary": "Is it: Sex on the Beach · Screwdriver · Manhattan · Rusty Nail?",
-      "body": "Answer: Rusty Nail.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-24T13:25:26.042Z",
-      "hash": "1c2b72976c9aa188"
-    },
-    {
-      "id": "trivia:c1fa355089b25610",
-      "type": "trivia",
-      "title": "If you could fold a piece of paper in half 50 times, its' thickness will be 3/4th the distance from the Earth to the Sun.",
-      "summary": "True — or false?",
-      "body": "Answer: True.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "mathematics"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-24T13:25:26.042Z",
-      "hash": "c1fa355089b25610"
-    },
-    {
-      "id": "passage:gutenberg:55",
-      "type": "passage",
-      "title": "The Wonderful Wizard of Oz",
-      "summary": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the…",
-      "body": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the dishes, a table, three or four chairs, and the beds. Uncle Henry and Aunt Em had a big bed in one corner, and Dorothy a little bed in another corner. There was no garret at all, and no cellar—except a small hole dug in the ground, called a cyclone cellar, where the family could go in case one of those great whirlwinds arose, mighty enough…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/55",
-        "trustTier": "publication",
-        "author": "L. Frank Baum",
-        "date": "1900"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "fantasy",
-        "childrens",
-        "adventure"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-24T13:25:25.607Z",
-      "hash": "7baef76d70f6712b"
-    },
-    {
-      "id": "comic:smbc:826fe6fb4128e77f",
-      "type": "comic",
-      "title": "Wolf",
-      "summary": "The witch from Hansel and Gretel sells magic crystals.",
-      "image": {
-        "src": "data/images/150e19e6f90df4d0.png",
-        "alt": "The witch from Hansel and Gretel sells magic crystals.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/wolf-5",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Wed, 23 Sep 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-24T13:25:24.815Z",
-      "hash": "826fe6fb4128e77f"
-    },
-    {
-      "id": "comic:xkcd:3081",
-      "type": "comic",
-      "title": "PhD Timeline",
-      "summary": "Rümeysa Öztürk was grabbed off the street in my town one month ago.",
-      "image": {
-        "src": "data/images/afe79751c9727de0.png",
-        "alt": "Rümeysa Öztürk was grabbed off the street in my town one month ago.",
-        "credit": "xkcd #3081 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3081/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2025-04-25"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-24T13:25:24.451Z",
-      "hash": "d744ab243ac93e02"
     },
     {
       "id": "curated:handwriting-beats-typing",

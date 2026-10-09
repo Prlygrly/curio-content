@@ -1,7 +1,1182 @@
 {
-  "generatedAt": "2026-10-08T15:24:55.265Z",
+  "generatedAt": "2026-10-09T15:07:10.925Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:yngvQ",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1738. Find the best line for black.",
+      "body": "Solution, from → to: e8→e5, h5→e5, d6→e5. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "r1bqr1k1/1p3ppp/p1pp4/7Q/2P1P3/P3NP1P/1PP3P1/R3K2R b KQ - 0 1",
+        "lastMove": "f2f3"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/yngvQ",
+        "trustTier": "community",
+        "date": "Fri, 09 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "middlegame",
+        "advantage",
+        "short",
+        "trappedpiece"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:07:06.786Z",
+      "hash": "75de1a8e8ee52e4c"
+    },
+    {
+      "id": "game:a08ffbc217bd2bba",
+      "type": "game",
+      "title": "Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud",
+      "summary": "The tech giant is no longer able to apply for H1-B visas for employees who come to live and work in the United States, potentially stymieing Xbox hiring.",
+      "body": "The tech giant is no longer able to apply for H1-B visas for employees who come to live and work in the United States, potentially stymieing Xbox hiring.",
+      "image": {
+        "src": "data/images/93e447bb3a1575ad.jpg",
+        "alt": "Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+        "trustTier": "publication",
+        "author": "Imran Khan",
+        "date": "Thu, 08 Oct 2026 18:05:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:07:06.263Z",
+      "hash": "a08ffbc217bd2bba",
+      "expires": "2027-01-07T15:07:06.263Z"
+    },
+    {
+      "id": "game:79656e5e0b0337b3",
+      "type": "game",
+      "title": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'",
+      "summary": "Xbox is doubling down on its more IP-centric strategy with a division dedicated to expanding those properties outside of games.",
+      "body": "Xbox is doubling down on its more IP-centric strategy with a division dedicated to expanding those properties outside of games.",
+      "image": {
+        "src": "data/images/ca13e52d8c56ec51.jpg",
+        "alt": "Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+        "trustTier": "publication",
+        "author": "Imran Khan",
+        "date": "Thu, 08 Oct 2026 17:28:5"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:07:06.263Z",
+      "hash": "79656e5e0b0337b3",
+      "expires": "2027-01-07T15:07:06.263Z"
+    },
+    {
+      "id": "trivia:896e5513b791cb3f",
+      "type": "trivia",
+      "title": "What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?",
+      "summary": "Is it: Blonde · Burgundy · Black · Brunette?",
+      "body": "Answer: Blonde.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:07:03.743Z",
+      "hash": "896e5513b791cb3f"
+    },
+    {
+      "id": "trivia:b85639c20138dcb4",
+      "type": "trivia",
+      "title": "'We Built This City' was a number one hit for which American rock band in 1985?",
+      "summary": "Is it: Starship · Kansas · Aerosmith · Jefferson Airplane?",
+      "body": "Answer: Starship.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:07:03.743Z",
+      "hash": "b85639c20138dcb4"
+    },
+    {
+      "id": "trivia:74c6913b629b0f4d",
+      "type": "trivia",
+      "title": "The theme for the popular science fiction series \"Doctor Who\" was composed by who?",
+      "summary": "Is it: Delia Derbyshire · Murray Gold · Ron Grainer · Peter Howell?",
+      "body": "Answer: Ron Grainer.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "television"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-09T15:07:03.743Z",
+      "hash": "74c6913b629b0f4d"
+    },
+    {
+      "id": "trivia:8773d3179e1c38a8",
+      "type": "trivia",
+      "title": "Which actress married Michael Douglas in 2000?",
+      "summary": "Is it: Catherine Zeta-Jones · Ruth Jones · Pam Ferris · Sara Sugarman?",
+      "body": "Answer: Catherine Zeta-Jones.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "celebrities"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:07:03.743Z",
+      "hash": "8773d3179e1c38a8"
+    },
+    {
+      "id": "passage:gutenberg:2701",
+      "type": "passage",
+      "title": "Moby-Dick",
+      "summary": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth;…",
+      "body": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/2701",
+        "trustTier": "publication",
+        "author": "Herman Melville",
+        "date": "1851"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "sea",
+        "adventure"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:07:03.474Z",
+      "hash": "8e8c699abb4bca4a"
+    },
+    {
+      "id": "passage:gutenberg:55",
+      "type": "passage",
+      "title": "The Wonderful Wizard of Oz",
+      "summary": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the…",
+      "body": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the dishes, a table, three or four chairs, and the beds. Uncle Henry and Aunt Em had a big bed in one corner, and Dorothy a little bed in another corner. There was no garret at all, and no cellar—except a small hole dug in the ground, called a cyclone cellar, where the family could go in case one of those great whirlwinds arose, mighty enough…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/55",
+        "trustTier": "publication",
+        "author": "L. Frank Baum",
+        "date": "1900"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "fantasy",
+        "childrens",
+        "adventure"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:07:03.285Z",
+      "hash": "7baef76d70f6712b"
+    },
+    {
+      "id": "passage:gutenberg:84",
+      "type": "passage",
+      "title": "Frankenstein",
+      "summary": "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday, and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking. I am already far north of London, and as I walk in the streets of…",
+      "body": "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday, and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking. I am already far north of London, and as I walk in the streets of Petersburgh, I feel a cold northern breeze play upon my cheeks, which braces my nerves and fills me with delight. Do you understand this feeling? This breeze, which has travelled from the regions towards which I am advancing, gives me a foretaste of those icy climes. Inspirited by this wind of promise, my daydreams become more fervent and…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/84",
+        "trustTier": "publication",
+        "author": "Mary Shelley",
+        "date": "1818"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "gothic",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:07:03.227Z",
+      "hash": "6cad170a13629ac3"
+    },
+    {
+      "id": "comic:xkcd:2109",
+      "type": "comic",
+      "title": "Invisible Formatting",
+      "summary": "To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.",
+      "image": {
+        "src": "data/images/e6546e8dfc0b256c.png",
+        "alt": "To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.",
+        "credit": "xkcd #2109 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/2109/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2019-02-08"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-09T15:07:02.453Z",
+      "hash": "525a6b83b8309b0d"
+    },
+    {
+      "id": "food:bd1ce85fbfc5eba0",
+      "type": "food",
+      "title": "Lemon Roasted Potatoes",
+      "summary": "These lemon roasted potatoes are made extra-special with very little effort, thanks to crushed garlic, lemon juice, herbs, and olive oil. For when you want to level up your roasted potatoes, but aren’t game for anything too wild. Continue reading Lemon Roasted Potatoes on 101 Cookbooks",
+      "body": "These lemon roasted potatoes are made extra-special with very little effort, thanks to crushed garlic, lemon juice, herbs, and olive oil. For when you want to level up your roasted potatoes, but aren’t game for anything too wild. Continue reading Lemon Roasted Potatoes on 101 Cookbooks",
+      "image": {
+        "src": "data/images/16414f77076ce5e9.jpg",
+        "alt": "Lemon Roasted Potatoes",
+        "credit": "101 Cookbooks"
+      },
+      "source": {
+        "name": "101 Cookbooks",
+        "url": "https://www.101cookbooks.com/lemon-roasted-potatoes/",
+        "trustTier": "community",
+        "author": "Heidi Swanson",
+        "date": "Thu, 08 Oct 2026 17:30:4"
+      },
+      "tags": [
+        "cooking",
+        "recipe",
+        "food",
+        "100+ vegetarian recipes",
+        "260+ vegan recipes",
+        "baking recipes",
+        "fall",
+        "gluten free recipes",
+        "holiday recipes",
+        "side dish recipes"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:07:02.320Z",
+      "hash": "bd1ce85fbfc5eba0"
+    },
+    {
+      "id": "craft:18578e372b394663",
+      "type": "craft",
+      "title": "Psychedelic Paintings by Rafael Silveira Explore a World of ‘Visual Synonymies’",
+      "summary": "Silveira juxtaposes objects and organisms in unlikely scenarios to challenge how we perceive the world around us.",
+      "body": "Silveira juxtaposes objects and organisms in unlikely scenarios to challenge how we perceive the world around us.",
+      "image": {
+        "src": "data/images/1515a286322db4fa.jpg",
+        "alt": "Psychedelic Paintings by Rafael Silveira Explore a World of ‘Visual Synonymies’",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/rafael-silveira-paintings-surreal-popsicledelic-trip/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Thu, 08 Oct 2026 14:37:5"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "humor",
+        "painting",
+        "psychedelic",
+        "rafael silveira",
+        "surreal"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:07:02.241Z",
+      "hash": "18578e372b394663"
+    },
+    {
+      "id": "craft:653d947230bdfc51",
+      "type": "craft",
+      "title": "BedazzLED Jean Jacket",
+      "summary": "Make some 21st-century flower power — with powered flowers, with this LED jean jacket. The post BedazzLED Jean Jacket appeared first on Make: DIY Projects and Ideas for Makers.",
+      "body": "Make some 21st-century flower power — with powered flowers, with this LED jean jacket. The post BedazzLED Jean Jacket appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/5267aad5eec8e1aa.jpg",
+        "alt": "BedazzLED Jean Jacket",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/projects/bedazzled-jean-jacket/",
+        "trustTier": "publication",
+        "author": "Debra Ansell",
+        "date": "Thu, 08 Oct 2026 15:00:0"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "costumes, cosplay, and props",
+        "craft & design",
+        "denim",
+        "diy projects",
+        "jacket",
+        "leds",
+        "make97"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:07:01.731Z",
+      "hash": "653d947230bdfc51"
+    },
+    {
+      "id": "word:92b7cdbb8ce6c8d2",
+      "type": "word",
+      "title": "melancholy",
+      "summary": "Noun: Black bile, formerly thought to be one of the four \"cardinal humours\" of animal bodies.",
+      "body": "1. Black bile, formerly thought to be one of the four \"cardinal humours\" of animal bodies.\n2. Great sadness or depression, especially of a thoughtful or introspective nature.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/melancholy",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:07:01.591Z",
+      "hash": "92b7cdbb8ce6c8d2"
+    },
+    {
+      "id": "word:928725f8e871e731",
+      "type": "word",
+      "title": "idyllic",
+      "summary": "Adjective: Of or pertaining to idylls.",
+      "body": "1. Of or pertaining to idylls.\n2. Extremely happy, peaceful, or picturesque.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/idyllic",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Adjective"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:07:00.559Z",
+      "hash": "928725f8e871e731"
+    },
+    {
+      "id": "quote:72fc0abcb7234ffe",
+      "type": "quote",
+      "title": "“Help others and give something back.”",
+      "summary": "— Arnold Schwarzenegger",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Arnold_Schwarzenegger",
+        "trustTier": "community",
+        "author": "Arnold Schwarzenegger"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:07:00.413Z",
+      "hash": "72fc0abcb7234ffe"
+    },
+    {
+      "id": "quote:7b6c65e1a8fc50aa",
+      "type": "quote",
+      "title": "“Once you choose hope, anything's possible.”",
+      "summary": "— Christopher Reeve",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Christopher_Reeve",
+        "trustTier": "community",
+        "author": "Christopher Reeve"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:07:00.413Z",
+      "hash": "7b6c65e1a8fc50aa"
+    },
+    {
+      "id": "quote:23a20178a824b39f",
+      "type": "quote",
+      "title": "“It is ignorance that causes most mistakes.”",
+      "summary": "— Harry S. Truman",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Harry_S._Truman",
+        "trustTier": "community",
+        "author": "Harry S. Truman"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:07:00.413Z",
+      "hash": "23a20178a824b39f"
+    },
+    {
+      "id": "article:c0f5d115962fb1ce",
+      "type": "article",
+      "title": "Welcome II the Terrordome: The Future Is Furious",
+      "summary": "The first theatrically distributed British feature directed by a Black woman was perhaps always destined to be labeled as angry, no matter what it was about. All the same, that adjective is wholly accurate, and one Ngozi Onwurah has used herself to describe her 1995 feature debut, Welcome II the…",
+      "body": "The first theatrically distributed British feature directed by a Black woman was perhaps always destined to be labeled as angry, no matter what it was about. All the same, that adjective is wholly accurate, and one Ngozi Onwurah has used herself to describe her 1995 feature debut, Welcome II the Terrordome, which confronts the lived experience of racial violence, police brutality, and mass incarceration. However, there is a crucial distinction between Onwurah’s use of the word and that of her critics. As Audre Lorde wrote in 1981, anger is “loaded with information and energy,” and when that…",
+      "image": {
+        "src": "data/images/b342e05e794d3463.jpg",
+        "alt": "Welcome II the Terrordome: The Future Is Furious",
+        "credit": "The Current (Criterion)"
+      },
+      "source": {
+        "name": "The Current (Criterion)",
+        "url": "https://www.criterion.com/current/posts/9300-welcome-ii-the-terrordome-the-future-is-furious",
+        "trustTier": "publication",
+        "author": "Kadish Morris",
+        "date": "Tue, 06 Oct 2026 14:20:0"
+      },
+      "tags": [
+        "film",
+        "essay",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:06:57.902Z",
+      "hash": "c0f5d115962fb1ce"
+    },
+    {
+      "id": "article:44a7529ae4ab5969",
+      "type": "article",
+      "title": "A Possible Future",
+      "summary": "Current donations: $21,146 of $40,000 goal Alan Bellows here, founder of Damn Interesting. For the better part of twenty years, I kept this project afloat by working part-time engineering jobs to pay the bills, and spending the other halves of my work days researching, writing, editing, and…",
+      "body": "Current donations: $21,146 of $40,000 goal Alan Bellows here, founder of Damn Interesting. For the better part of twenty years, I kept this project afloat by working part-time engineering jobs to pay the bills, and spending the other halves of my work days researching, writing, editing, and podcasting. But in recent years, the landscape has […]",
+      "source": {
+        "name": "Damn Interesting",
+        "url": "https://www.damninteresting.com/a-possible-future/",
+        "trustTier": "publication",
+        "author": "Alan Bellows",
+        "date": "Wed, 08 Jul 2026 16:36:1"
+      },
+      "tags": [
+        "curiosities",
+        "history",
+        "science",
+        "announcements",
+        "future",
+        "innovation",
+        "whimsy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:06:53.180Z",
+      "hash": "44a7529ae4ab5969"
+    },
+    {
+      "id": "article:d680811e9ee0ec8e",
+      "type": "article",
+      "title": "Adults Are Regressing",
+      "summary": "Adults who do not have children are taking over Disneyland, purchasing the majority of Toys“R”Us products, and sleeping with stuffed bears, writes Kat Rosenfield. Why can’t they put childish things away?",
+      "body": "Adults who do not have children are taking over Disneyland, purchasing the majority of Toys“R”Us products, and sleeping with stuffed bears, writes Kat Rosenfield. Why can’t they put childish things away?",
+      "image": {
+        "src": "data/images/1d5ef96ea0e3fdd8.jpg",
+        "alt": "Adults Are Regressing",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/adults-are-regressing-disney-toys-comic-con-funko-pop",
+        "trustTier": "publication",
+        "author": "Kat Rosenfield",
+        "date": "Fri, 09 Oct 2026 14:56:5"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:06:49.745Z",
+      "hash": "d680811e9ee0ec8e",
+      "expires": "2026-11-08T15:06:49.745Z"
+    },
+    {
+      "id": "article:0f4a09ba1caeaaac",
+      "type": "article",
+      "title": "Silicon Valley’s self-styled futurists build marvelous machines. Their politics, though, recycle discredited ideas. Jill Lepore explains",
+      "summary": "Silicon Valley’s self-styled futurists build marvelous machines. Their politics, though, recycle discredited ideas. Jill Lepore explains",
+      "body": "Silicon Valley’s self-styled futurists build marvelous machines. Their politics, though, recycle discredited ideas. Jill Lepore explains",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://www.chronicle.com/article/has-harvard-indeed-lost-its-mind",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:06:49.138Z",
+      "hash": "0f4a09ba1caeaaac"
+    },
+    {
+      "id": "article:dd4baf29e6aa09fc",
+      "type": "article",
+      "title": "Robert Frost was both a skeptical believer and a believing skeptic. Yet his letters reveal a soul closer to despair",
+      "summary": "Robert Frost was both a skeptical believer and a believing skeptic. Yet his letters reveal a soul closer to despair",
+      "body": "Robert Frost was both a skeptical believer and a believing skeptic. Yet his letters reveal a soul closer to despair",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://porticoquarterly.com/book/did-robert-frost-despair-for-his-soul",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:06:49.138Z",
+      "hash": "dd4baf29e6aa09fc"
+    },
+    {
+      "id": "article:c97c0909ab8175d5",
+      "type": "article",
+      "title": "Paul Carus’ The History of the Devil and the Idea of Evil (1899)",
+      "summary": "A history of the Evil One, from the earliest times to the present.",
+      "body": "A history of the Evil One, from the earliest times to the present.",
+      "image": {
+        "src": "data/images/30d32084911c0c5a.jpg",
+        "alt": "Paul Carus’ The History of the Devil and the Idea of Evil (1899)",
+        "credit": "The Public Domain Review"
+      },
+      "source": {
+        "name": "The Public Domain Review",
+        "url": "https://publicdomainreview.org/collection/history-of-the-devil",
+        "trustTier": "publication",
+        "date": "Wed, 07 Oct 2026 13:34:0"
+      },
+      "tags": [
+        "essay",
+        "history",
+        "culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:06:48.239Z",
+      "hash": "c97c0909ab8175d5"
+    },
+    {
+      "id": "article:03128b2e62b7a863",
+      "type": "article",
+      "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
+      "summary": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result. The post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine",
+      "body": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result. The post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine",
+      "image": {
+        "src": "data/images/0b9f2598d714770c.webp",
+        "alt": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
+        "credit": "Quanta Magazine"
+      },
+      "source": {
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+        "trustTier": "publication",
+        "author": "Ben Brubaker",
+        "date": "Wed, 07 Oct 2026 15:08:4"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "mathematics",
+        "computer science"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:06:47.250Z",
+      "hash": "03128b2e62b7a863"
+    },
+    {
+      "id": "article:6a765750d6316db1",
+      "type": "article",
+      "title": "Barbara Ward’s vision",
+      "summary": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals- by Or RosenboimRead on Aeon",
+      "body": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals- by Or RosenboimRead on Aeon",
+      "image": {
+        "src": "data/images/4d1d296dced288f7.jpg",
+        "alt": "Barbara Ward’s vision",
+        "credit": "Aeon"
+      },
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
+        "trustTier": "publication",
+        "author": "Or Rosenboim",
+        "date": "Fri, 09 Oct 2026 10:00:0"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "philosophy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:06:46.882Z",
+      "hash": "6a765750d6316db1"
+    },
+    {
+      "id": "greek:ec392a324cacf7b1",
+      "type": "greek",
+      "title": "καί",
+      "summary": "καί — “and, also” · conjunction",
+      "body": "Note: can also mean \"even\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BA%CE%B1%CE%AF#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "conjunction",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-09T15:06:46.781Z",
+      "hash": "ec392a324cacf7b1"
+    },
+    {
+      "id": "poetry:115a93e79aa86867",
+      "type": "poem",
+      "title": "Fragment: May the Limner",
+      "summary": "When May is painting with her colours gay\nThe landscape sketched by April her sweet twin...",
+      "body": "When May is painting with her colours gay\nThe landscape sketched by April her sweet twin...",
+      "source": {
+        "name": "Percy Bysshe Shelley · PoetryDB",
+        "url": "https://poetrydb.org/title/Fragment%3A%20May%20the%20Limner",
+        "trustTier": "community",
+        "author": "Percy Bysshe Shelley"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:06:46.779Z",
+      "hash": "115a93e79aa86867"
+    },
+    {
+      "id": "poetry:fd35bea6456018f1",
+      "type": "poem",
+      "title": "To Thomas Moore",
+      "summary": "What are you doing now,\n  Oh Thomas Moore?\nWhat are you doing now,\n  Oh Thomas Moore?",
+      "body": "What are you doing now,\n  Oh Thomas Moore?\nWhat are you doing now,\n  Oh Thomas Moore?\nSighing or suing now,\nRhyming or wooing now,\nBilling or cooing now,\n  Which, Thomas Moore?\n\nBut the Carnival's coming,\n  Oh Thomas Moore!\nThe Carnival's coming,\n  Oh Thomas Moore!\nMasking and humming,\nFifing and drumming,\nGuitarring and strumming,\n  Oh Thomas Moore!",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/To%20Thomas%20Moore",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-09T15:06:46.779Z",
+      "hash": "fd35bea6456018f1"
+    },
+    {
+      "id": "art:si:ld1-1729331898832-1729331901609-0",
+      "type": "art",
+      "title": "Plastic straw hat with net and fabric flowers",
+      "summary": "National Museum of African American History and Culture · 1960s · Hats",
+      "body": "National Museum of African American History and Culture\n1960s · Hats",
+      "image": {
+        "src": "data/images/75705f9ce41aec94.jpg",
+        "alt": "Plastic straw hat with net and fabric flowers",
+        "credit": "National Museum of African American History and Culture · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://nmaahc.si.edu/object/nmaahc_2007.3.572",
+        "trustTier": "encyclopedic",
+        "date": "1960s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "flower",
+        "hats"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-09T15:06:46.504Z",
+      "hash": "6d2d429a810439ab"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399896624-0",
+      "type": "art",
+      "title": "Designs for Chinoiserie Flowers",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1760s · Bound print",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1760s · Bound print",
+      "image": {
+        "src": "data/images/d3c95aed96739bd7.jpg",
+        "alt": "Designs for Chinoiserie Flowers",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/26895",
+        "trustTier": "encyclopedic",
+        "date": "1760s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "flower",
+        "bound print"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-09T15:06:46.504Z",
+      "hash": "3cd2f0d18049b082"
+    },
+    {
+      "id": "art:si:ld1-1756975001566-1756975004504-0",
+      "type": "art",
+      "title": "Wedding veil with cream flowers",
+      "summary": "National Museum of African American History and Culture · 1930s · Veils (headcloths)",
+      "body": "National Museum of African American History and Culture\n1930s · Veils (headcloths)",
+      "image": {
+        "src": "data/images/dffdb31598d2e42f.jpg",
+        "alt": "Wedding veil with cream flowers",
+        "credit": "National Museum of African American History and Culture · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://nmaahc.si.edu/object/nmaahc_2007.3.764",
+        "trustTier": "encyclopedic",
+        "date": "1930s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "flower",
+        "veils (headcloths)"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-09T15:06:46.504Z",
+      "hash": "e79eb3a660d22dca"
+    },
+    {
+      "id": "apod:2018-10-27",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Yuri Beletsky"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap181027.html",
+        "trustTier": "encyclopedic",
+        "date": "2018-10-27"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:43.056Z",
+      "hash": "5ef6521885f2150b"
+    },
+    {
+      "id": "apod:2026-06-23",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap260623.html",
+        "trustTier": "encyclopedic",
+        "date": "2026-06-23"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:43.056Z",
+      "hash": "8f347010eb4232d4"
+    },
+    {
+      "id": "apod:2011-01-24",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap110124.html",
+        "trustTier": "encyclopedic",
+        "date": "2011-01-24"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:43.056Z",
+      "hash": "835d84e264c1494e"
+    },
+    {
+      "id": "apod:2006-03-28",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap060328.html",
+        "trustTier": "encyclopedic",
+        "date": "2006-03-28"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:43.056Z",
+      "hash": "b3c37cc81fcaa41b"
+    },
+    {
+      "id": "apod:1996-03-27",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap960327.html",
+        "trustTier": "encyclopedic",
+        "date": "1996-03-27"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:43.056Z",
+      "hash": "0386d38f0aea6760"
+    },
+    {
+      "id": "onthisday:10-09:1793:9c557f83ff08dc7b",
+      "type": "history",
+      "title": "1793: French Revolution",
+      "summary": "French Revolution: After a month-long siege, the leaders of Lyon surrendered, ending their revolt against the National Convention.",
+      "body": "French Revolution: After a month-long siege, the leaders of Lyon surrendered, ending their revolt against the National Convention.",
+      "image": {
+        "src": "data/images/119d2b70797f1a75.jpg",
+        "alt": "French Revolution",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/French_Revolution",
+        "trustTier": "encyclopedic",
+        "date": "10-09"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:35.440Z",
+      "hash": "30d65607225467ff",
+      "expires": "2026-10-12T15:06:35.440Z"
+    },
+    {
+      "id": "onthisday:10-09:2019:300084ccb91ee765",
+      "type": "history",
+      "title": "2019: Syrian civil war",
+      "summary": "Syrian civil war: Turkish forces began an offensive into north-eastern Syria following the withdrawal of U.S. troops from the region.",
+      "body": "Syrian civil war: Turkish forces began an offensive into north-eastern Syria following the withdrawal of U.S. troops from the region.",
+      "image": {
+        "src": "data/images/42f038e002c66454.jpg",
+        "alt": "Syrian civil war",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+        "trustTier": "encyclopedic",
+        "date": "10-09"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:35.440Z",
+      "hash": "0ca1bdaed1db1448",
+      "expires": "2026-10-12T15:06:35.440Z"
+    },
+    {
+      "id": "onthisday:10-09:1780:aa67c7bb80d53dc0",
+      "type": "history",
+      "title": "1780: Great Hurricane of 1780",
+      "summary": "The deadliest Atlantic hurricane on record began to impact the Caribbean, killing at least 20,000 people across the Antilles over the subsequent days.",
+      "body": "The deadliest Atlantic hurricane on record began to impact the Caribbean, killing at least 20,000 people across the Antilles over the subsequent days.",
+      "image": {
+        "src": "data/images/6855c2dfcc3bf14e.png",
+        "alt": "Great Hurricane of 1780",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Great_Hurricane_of_1780",
+        "trustTier": "encyclopedic",
+        "date": "10-09"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:35.440Z",
+      "hash": "8b8f5876b2082514",
+      "expires": "2026-10-12T15:06:35.440Z"
+    },
+    {
+      "id": "wikipedia:95529",
+      "type": "wiki",
+      "title": "Rowan County, Kentucky",
+      "summary": "Rowan County is a county located in the northeastern part of the U.S. state of Kentucky, in the Eastern Kentucky Coalfield region. As of the 2020 census, the population was 24,662. Its county seat is Morehead.",
+      "body": "Rowan County is a county located in the northeastern part of the U.S. state of Kentucky, in the Eastern Kentucky Coalfield region. As of the 2020 census, the population was 24,662. Its county seat is Morehead.",
+      "image": {
+        "src": "data/images/13a5ed0111128e77.jpg",
+        "alt": "Rowan County, Kentucky",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rowan_County%2C_Kentucky",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:35.404Z",
+      "hash": "42e649c97974ee6d"
+    },
+    {
+      "id": "wikipedia:8671644",
+      "type": "wiki",
+      "title": "1982 World Rally Championship",
+      "summary": "The 1982 World Rally Championship was the tenth season of the Fédération Internationale de l'Automobile (FIA) World Rally Championship (WRC). The season consisted of 12 rallies. By this time, the schedule format had become generally stable with only one or two changes to venues year to year. 1982 marked the return of…",
+      "body": "The 1982 World Rally Championship was the tenth season of the Fédération Internationale de l'Automobile (FIA) World Rally Championship (WRC). The season consisted of 12 rallies. By this time, the schedule format had become generally stable with only one or two changes to venues year to year. 1982 marked the return of New Zealand to the schedule in place of Argentina's Rally Codasur.",
+      "image": {
+        "src": "data/images/e11d5a594479b2e0.jpg",
+        "alt": "1982 World Rally Championship",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1982_World_Rally_Championship",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:34.980Z",
+      "hash": "2565efa28df02453"
+    },
+    {
+      "id": "wikipedia:54090032",
+      "type": "wiki",
+      "title": "Carmanor of Crete",
+      "summary": "In Greek mythology, Carmanor or Karmanor was a Cretan priest who purified Apollo after he killed the Delphic dragon Python. He was the father of two children: Eubuleus and Chrysothemis, possibly by Demeter. According to Walter Burkert, the name Carmanor \"does not appear to be Greek\".",
+      "body": "In Greek mythology, Carmanor or Karmanor was a Cretan priest who purified Apollo after he killed the Delphic dragon Python. He was the father of two children: Eubuleus and Chrysothemis, possibly by Demeter. According to Walter Burkert, the name Carmanor \"does not appear to be Greek\".",
+      "image": {
+        "src": "data/images/369a3c50e0ce468b.jpg",
+        "alt": "Carmanor of Crete",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Carmanor_of_Crete",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:34.856Z",
+      "hash": "46c0c38fe3d1998f"
+    },
+    {
+      "id": "wikipedia:25080990",
+      "type": "wiki",
+      "title": "The Spy in the Green Hat",
+      "summary": "The Spy in the Green Hat is a 1967 feature-length film version of The Man from U.N.C.L.E.'s third season two-part episode \"The Concrete Overcoat Affair\". The episodes were originally broadcast in the United States on November 25, 1966 and December 2, 1966 on NBC. The film was directed by Joseph Sargent and written by…",
+      "body": "The Spy in the Green Hat is a 1967 feature-length film version of The Man from U.N.C.L.E.'s third season two-part episode \"The Concrete Overcoat Affair\". The episodes were originally broadcast in the United States on November 25, 1966 and December 2, 1966 on NBC. The film was directed by Joseph Sargent and written by Peter Allan Fields with the story by David Victor. Robert Vaughn and David McCallum star in the film as they did in the television series, supported by co-stars Jack Palance and Janet Leigh. It is the fifth such feature film composed of a reedited version of one or more episodes from the series.",
+      "image": {
+        "src": "data/images/c147f62d97d258b3.jpg",
+        "alt": "The Spy in the Green Hat",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Spy_in_the_Green_Hat",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-09T15:06:34.004Z",
+      "hash": "8f58fa6a2e269140"
+    },
     {
       "id": "chess:jrOAZ",
       "type": "chess",
@@ -11304,1201 +12479,6 @@
       "difficulty": 1,
       "fetchedAt": "2026-09-28T16:37:02.458Z",
       "hash": "6581ecb61a7d81f2"
-    },
-    {
-      "id": "craft:cacc18f0e75ce199",
-      "type": "craft",
-      "title": "At a ‘Molecular Level,’ Mu Pan Composes Meticulous Mandalas in Acrylic",
-      "summary": "The Brooklyn-based artist's solo show 'Micro MUniverse' runs through October 10 at Hashimoto Contemporary.",
-      "body": "The Brooklyn-based artist's solo show 'Micro MUniverse' runs through October 10 at Hashimoto Contemporary.",
-      "image": {
-        "src": "data/images/20d82075c43f28cd.jpg",
-        "alt": "At a ‘Molecular Level,’ Mu Pan Composes Meticulous Mandalas in Acrylic",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/09/mu-pan-acrylic-paintings-drawings-mandalas/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Mon, 28 Sep 2026 14:45:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "acrylic",
-        "animals",
-        "geometric",
-        "mandala",
-        "mu pan",
-        "spirituality"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:37:01.658Z",
-      "hash": "cacc18f0e75ce199"
-    },
-    {
-      "id": "craft:b53eb13d3a132808",
-      "type": "craft",
-      "title": "Very Important Partners Behind Maker Faire Bay Area",
-      "summary": "Fun sponsor activities to check out at Maker Faire Bay Area. The post Very Important Partners Behind Maker Faire Bay Area appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "Fun sponsor activities to check out at Maker Faire Bay Area. The post Very Important Partners Behind Maker Faire Bay Area appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/afc78dd4318d5107.jpg",
-        "alt": "Very Important Partners Behind Maker Faire Bay Area",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/maker-news/maker-faire/very-important-projects-behind-maker-faire-bay-area/",
-        "trustTier": "publication",
-        "author": "Make: Editors",
-        "date": "Sun, 27 Sep 2026 18:10:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "maker faire",
-        "maker news",
-        "3d printer",
-        "ai",
-        "mfba",
-        "tools"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:37:01.335Z",
-      "hash": "b53eb13d3a132808"
-    },
-    {
-      "id": "word:8813890b2475eb1c",
-      "type": "word",
-      "title": "ineffable",
-      "summary": "Adjective: Beyond expression in words; unspeakable. .mw-parser-output .defdate{font-size:smaller}",
-      "body": "1. Beyond expression in words; unspeakable. .mw-parser-output .defdate{font-size:smaller}\n2. Forbidden to be uttered; taboo.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/ineffable",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Adjective"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:37:01.157Z",
-      "hash": "8813890b2475eb1c"
-    },
-    {
-      "id": "quote:4316ad6290b77041",
-      "type": "quote",
-      "title": "“Life can be wonderful if you're not afraid of it.”",
-      "summary": "— Charlie Chaplin",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Charlie_Chaplin",
-        "trustTier": "community",
-        "author": "Charlie Chaplin"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:39.651Z",
-      "hash": "4316ad6290b77041"
-    },
-    {
-      "id": "quote:efcb341df22f79aa",
-      "type": "quote",
-      "title": "“Open your eyes and look within. Are you satisfied with the life you're living?”",
-      "summary": "— Bob Marley",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Bob_Marley",
-        "trustTier": "community",
-        "author": "Bob Marley"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:39.651Z",
-      "hash": "efcb341df22f79aa"
-    },
-    {
-      "id": "quote:f6a63563f8853e09",
-      "type": "quote",
-      "title": "“If you see someone without a smile give them one of yours.”",
-      "summary": "— Unknown",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:39.651Z",
-      "hash": "f6a63563f8853e09"
-    },
-    {
-      "id": "book-review:f7f23c070b55df96",
-      "type": "book-review",
-      "title": "If We Rot, You Rot with Us",
-      "summary": "“Despite the enduring belief that literary nonsense is primarily directed toward children—an idea that has its roots in the popularity of Lewis Carroll and Dr. Seuss—literary nonsense has historically been weaponized by the masses, always under the guise of stupidity, to effect change.” The post…",
-      "body": "“Despite the enduring belief that literary nonsense is primarily directed toward children—an idea that has its roots in the popularity of Lewis Carroll and Dr. Seuss—literary nonsense has historically been weaponized by the masses, always under the guise of stupidity, to effect change.” The post If We Rot, You Rot with Us appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/if-we-rot-you-rot-with-us/",
-        "trustTier": "publication",
-        "author": "Morgan Barry",
-        "date": "Mon, 28 Sep 2026 15:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "essays",
-        "absurdity",
-        "art",
-        "comedy",
-        "culture",
-        "internet",
-        "politics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:39.183Z",
-      "hash": "f7f23c070b55df96"
-    },
-    {
-      "id": "article:7e640a462de5a3e9",
-      "type": "article",
-      "title": "Jacques Rivette Envisions a More Human Joan of Arc",
-      "summary": "Deep Dives It was hardly an auspicious beginning, when the sixteen-year-old girl calling herself Jeanne la Pucelle arrived at the French court in February of 1429. Here was a young woman, a provincial illiterate in men’s clothes and with her hair cut short, who claimed to have been sent by God.…",
-      "body": "Deep Dives It was hardly an auspicious beginning, when the sixteen-year-old girl calling herself Jeanne la Pucelle arrived at the French court in February of 1429. Here was a young woman, a provincial illiterate in men’s clothes and with her hair cut short, who claimed to have been sent by God. While working in her garden in the village of Domrémy, she had received a series of ecstatic visions, all instructing her to drive out the English invaders and reunite the shattered kingdom of France under the Dauphin Charles, whom she would deliver personally to be coronated in the holy city of…",
-      "image": {
-        "src": "data/images/baa8cc8ac1bbe2a8.jpg",
-        "alt": "Jacques Rivette Envisions a More Human Joan of Arc",
-        "credit": "The Current (Criterion)"
-      },
-      "source": {
-        "name": "The Current (Criterion)",
-        "url": "https://www.criterion.com/current/posts/9289-jacques-rivette-envisions-a-more-human-joan-of-arc",
-        "trustTier": "publication",
-        "author": "Robert Rubsam",
-        "date": "Mon, 28 Sep 2026 06:53:0"
-      },
-      "tags": [
-        "film",
-        "essay",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:36.503Z",
-      "hash": "7e640a462de5a3e9"
-    },
-    {
-      "id": "article:081f468ea7ee782b",
-      "type": "article",
-      "title": "Will the president nationalize boating?",
-      "summary": "Myriam Toua, \"Donald Trump's advisers 'urge him to declare martial law' amid latest grim poll\", The Mirrorus 9/26/2026: [emphasis added] Martial law in the US would mean the temporary replacement of government and regular law enforcement by a solely military force. Standard civil liberties, such…",
-      "body": "Myriam Toua, \"Donald Trump's advisers 'urge him to declare martial law' amid latest grim poll\", The Mirrorus 9/26/2026: [emphasis added] Martial law in the US would mean the temporary replacement of government and regular law enforcement by a solely military force. Standard civil liberties, such as freedom of speech, assembly, or protection from detention without […]",
-      "image": {
-        "src": "data/images/2835300b72ce415e.jpg",
-        "alt": "Will the president nationalize boating?",
-        "credit": "Language Log"
-      },
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74316&utm_source=rss&utm_medium=rss&utm_campaign=will-the-president-nationalize-boating",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Sun, 27 Sep 2026 17:32:2"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:34.176Z",
-      "hash": "081f468ea7ee782b"
-    },
-    {
-      "id": "article:7acd0eff19d2788d",
-      "type": "article",
-      "title": "Well. I’m not sure what to think about this. The teaser...",
-      "summary": "Well. I’m not sure what to think about this. The teaser trailer for Madden, starring Nicolas Cage as John Madden and Christian Bale as Al Davis. Boom?",
-      "body": "Well. I’m not sure what to think about this. The teaser trailer for Madden, starring Nicolas Cage as John Madden and Christian Bale as Al Davis. Boom?",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/09/0049677-the-teaser-trailer-for-ma",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-09-25T20:39:00Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:31.284Z",
-      "hash": "7acd0eff19d2788d"
-    },
-    {
-      "id": "article:82d4e093e4aa5b2f",
-      "type": "article",
-      "title": "Does Religion Change Our Brains?",
-      "summary": "Devotional practices seem to shape our highest organ in distinct ways The post Does Religion Change Our Brains? appeared first on Nautilus.",
-      "body": "Devotional practices seem to shape our highest organ in distinct ways The post Does Religion Change Our Brains? appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/02a4b494f940840e.jpg",
-        "alt": "Does Religion Change Our Brains?",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/does-religion-change-our-brains-1285342/",
-        "trustTier": "publication",
-        "author": "Kristen French",
-        "date": "Mon, 28 Sep 2026 16:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "neuroscience"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:30.529Z",
-      "hash": "82d4e093e4aa5b2f"
-    },
-    {
-      "id": "article:f3eb71ff25c6dd01",
-      "type": "article",
-      "title": "Bertrand Russell on the Secret of Happiness",
-      "summary": "\"Let your interests be as wide as possible, and let your reactions to the things and persons that interest you be as far as possible friendly rather than hostile.\"",
-      "body": "\"Let your interests be as wide as possible, and let your reactions to the things and persons that interest you be as far as possible friendly rather than hostile.\"",
-      "image": {
-        "src": "data/images/52451b8ade314aa2.jpg",
-        "alt": "Bertrand Russell on the Secret of Happiness",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/09/28/bertrand-russell-happiness/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Mon, 28 Sep 2026 12:31:4"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "psychology",
-        "bertrand russell",
-        "books"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:30.239Z",
-      "hash": "f3eb71ff25c6dd01"
-    },
-    {
-      "id": "article:239471de0f07dffc",
-      "type": "article",
-      "title": "Orcas and the Price of Consciousness: Lessons in Love and Loss from Earth’s Most Successful and Creative Predator",
-      "summary": "Marbling the waters of every ocean with their billows of black and white, orcas are Earth’s most creative and most successful apex predator. Although they are known as killer whales, they are the largest member of the dolphin family. Older than great white sharks, they hunt everything from seals a…",
-      "body": "Marbling the waters of every ocean with their billows of black and white, orcas are Earth’s most creative and most successful apex predator. Although they are known as killer whales, they are the largest member of the dolphin family. Older than great white sharks, they hunt everything from seals a tenth their size to moose bathing in the shallows to Earth’s largest animal — the blue whale, whose tongue alone can weigh as much as a female orca. The secret to these staggering feats is not brute force but strategy and synchrony. Beneath the shimmering surface that divides us from… read article",
-      "image": {
-        "src": "data/images/45b746ed358767d9.jpg",
-        "alt": "Orcas and the Price of Consciousness: Lessons in Love and Loss from Earth’s Most Successful and Creative Predator",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/09/28/orcas/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Mon, 28 Sep 2026 16:35:3"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:30.239Z",
-      "hash": "239471de0f07dffc"
-    },
-    {
-      "id": "article:f048718b96e4dd03",
-      "type": "article",
-      "title": "The Man Trying to Salvage the Midterms for the GOP. Plus. . .",
-      "summary": "Inside the ceremony for the man who could become America’s next saint. Arthur Brooks asks: Should adult children care for aging parents? And more.",
-      "body": "Inside the ceremony for the man who could become America’s next saint. Arthur Brooks asks: Should adult children care for aging parents? And more.",
-      "image": {
-        "src": "data/images/209608525bac5403.jpg",
-        "alt": "The Man Trying to Salvage the Midterms for the GOP. Plus. . .",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/james-blair-fulton-sheen-midterms",
-        "trustTier": "publication",
-        "author": "The Free Press",
-        "date": "Mon, 28 Sep 2026 10:03:2"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:30.032Z",
-      "hash": "f048718b96e4dd03",
-      "expires": "2026-10-28T16:36:30.032Z"
-    },
-    {
-      "id": "article:760221d16c6f1aba",
-      "type": "article",
-      "title": "Wild Bird Petroglyph in Phippsburg, Maine",
-      "summary": "Inspired by the natural environment in Phippsburg, there are a series of petroglyphs in the deep woods near the Center Ponds Trailhead located at 125 Parker Head Road. This site has one of Kevin's largest collections of petroglyphs to date, with over ten different carvings displaying creatures and…",
-      "body": "Inspired by the natural environment in Phippsburg, there are a series of petroglyphs in the deep woods near the Center Ponds Trailhead located at 125 Parker Head Road. This site has one of Kevin's largest collections of petroglyphs to date, with over ten different carvings displaying creatures and scenes that could take place in the area. Intended to reflect the environment surrounding the stones, the carvings, which are embellished by trails on the Phippsburg Land Trust, display an array of photorealistic images of remarkable life-sized birds native to the region. On display are the great…",
-      "image": {
-        "src": "data/images/0011d853984ec5b1.jpg",
-        "alt": "Wild Bird Petroglyph in Phippsburg, Maine",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/wild-bird-petroglyph",
-        "trustTier": "publication",
-        "date": "Mon, 28 Sep 2026 10:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "trails",
-        "art",
-        "petroglyphs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:29.727Z",
-      "hash": "760221d16c6f1aba"
-    },
-    {
-      "id": "article:9eaba822eb5f3e6d",
-      "type": "article",
-      "title": "Egomaniacs, psychos, and informants. Why is it we look past all sorts of ugliness and insist on mythologizing revolutionaries?",
-      "summary": "Egomaniacs, psychos, and informants. Why is it we look past all sorts of ugliness and insist on mythologizing revolutionaries?",
-      "body": "Egomaniacs, psychos, and informants. Why is it we look past all sorts of ugliness and insist on mythologizing revolutionaries?",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://theamericanscholar.org/the-allure-of-eden-on-earth/",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:29.024Z",
-      "hash": "9eaba822eb5f3e6d"
-    },
-    {
-      "id": "article:8ec9f099be26d228",
-      "type": "article",
-      "title": "Veronese's Dogs",
-      "summary": "“Oh, if I could only pray”, Luther once said of his dog Tölpel, “the way this dog watches the meat”. Attending to attentive canine figures in half a dozen paintings by Paolo Veronese, Thomas W. Laqueur explores the work of an artist whose love of dogs landed him in hot water with the Inquisition.",
-      "body": "“Oh, if I could only pray”, Luther once said of his dog Tölpel, “the way this dog watches the meat”. Attending to attentive canine figures in half a dozen paintings by Paolo Veronese, Thomas W. Laqueur explores the work of an artist whose love of dogs landed him in hot water with the Inquisition.",
-      "image": {
-        "src": "data/images/67bab426316ad11e.jpg",
-        "alt": "Veronese's Dogs",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/essay/veroneses-dogs",
-        "trustTier": "publication",
-        "date": "Wed, 16 Sep 2026 14:16:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:28.281Z",
-      "hash": "8ec9f099be26d228"
-    },
-    {
-      "id": "article:1b9338d9600f6862",
-      "type": "article",
-      "title": "In Company Style: Illustrations from James Skinner’s Kitāb-i tashrīḥ al-aqvām (1825)",
-      "summary": "An illuminated Persian manuscript about customs, culture, and caste, written by an enigmatic figure of the early British Raj.",
-      "body": "An illuminated Persian manuscript about customs, culture, and caste, written by an enigmatic figure of the early British Raj.",
-      "image": {
-        "src": "data/images/660762f19e03d7a4.jpg",
-        "alt": "In Company Style: Illustrations from James Skinner’s Kitāb-i tashrīḥ al-aqvām (1825)",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/collection/james-skinner-india-castes",
-        "trustTier": "publication",
-        "date": "Wed, 23 Sep 2026 12:59:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:28.280Z",
-      "hash": "1b9338d9600f6862"
-    },
-    {
-      "id": "greek:fd18039c95c245aa",
-      "type": "greek",
-      "title": "λόγος",
-      "summary": "λόγος — “word” · noun",
-      "body": "Note: ὁ λόγος; also \"message, reason, account\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:26.598Z",
-      "hash": "fd18039c95c245aa"
-    },
-    {
-      "id": "poetry:127b47fd1c98a83a",
-      "type": "poem",
-      "title": "Prosopopoia: Or Mother Hubbard's Tale",
-      "summary": "By that he ended had his ghostly sermon,\nThe fox was well induc'd to be a parson,\nAnd of the priest eftsoons gan to inquire,\nHow to a benefice he might aspire.",
-      "body": "By that he ended had his ghostly sermon,\nThe fox was well induc'd to be a parson,\nAnd of the priest eftsoons gan to inquire,\nHow to a benefice he might aspire.\n\"Marry, there\" (said the priest) \"is art indeed:\nMuch good deep learning one thereout may read;\nFor that the ground-work is, and end of all,\nHow to obtain a beneficial.\nFirst, therefore, when ye have in handsome wise\nYourself attired, as you can devise,\nThen to some nobleman yourself apply,\nOr other great one in the world{\"e}s eye,\nThat hath a zealous disposition\nTo God, and so to his religion.\nThere must thou fashion eke a godly zeal,\nSuch as no carpers may contrare reveal;\nFor each thing feigned ought more wary be.\nThere thou must walk in sober gravity,\nAnd seem as saint-like as Saint Radegund:\nFast much, pray oft, look lowly on the ground,\nAnd unto every one do courtesy meek:\nThese looks (nought saying) do a benefice seek,\nBut be thou sure one not to lack or long.\nAnd if thee list unto the court to throng,\nAnd there to hunt after the hoped prey,\nThen must thou thee dispose another way:\nFor there thou needs must learn to laugh, to lie,\nTo face, to forge, to scoff, to company,\nTo crouch, to please, to be a beetle-stock\nOf thy great master's will, to scorn, or mock.\nSo may'st thou chance mock out a benefice,\nUnless thou canst one conjure by device,\nOr cast a figure for a bishopric;\nAnd if one could, it were but a school trick.\nThese be the ways by which without reward\nLivings in court be gotten, though full hard;\nFor nothing there is done without a fee:\nThe courtier needs must recompensed be\nWith a benevolence, or have in gage\nThe primitias of your parsonage:\nScarce can a bishopric forpass them by,\nBut that it must be gelt in privity.\nDo not thou therefore seek a living there,\nBut of more private persons seek elsewhere,\nWhereas thou may'st compound a better penny,\nNe let thy learning question'd be of any.\nFor some good gentleman, that hath the right\nUnto his church for to present a wight,\nWill cope with thee in reasonable wise;\nThat if the living yearly do arise\nTo forty pound, that then his youngest son\nShall twenty have, and twenty thou hast won:\nThou hast it won, for it is of frank gift,\nAnd he will care for all the rest to shift,\nBoth that the bishop may admit of thee,\nAnd that therein thou may'st maintained be.\nThis is the way for one that is unlearn'd\nLiving to get, and not to be discern'd.\nBut they that are great clerks, have nearer ways,\nFor learning sake to living them to raise;\nYet many eke of them (God wot) are driven\nT' accept a benefice in pieces riven.\nHow say'st thou (friend), have I not well discourst\nUpon this common-place (though plain, not worst)?\nBetter a short tale than a bad long shriving.\nNeeds any more to learn to get a living?\"\n\n\"Now sure, and by my halidom,\" (quoth he)\n\"Ye a great master are in your degree:\nGreat thanks I yield you for your discipline,\nAnd do not doubt but duly to incline\nMy wits thereto, as ye shall shortly hear.\"\nThe priest him wish'd good speed, and well to fare:\nSo parted they, as either's way them led.\nBut th' ape and fox ere long so well them sped,\nThrough the priest's wholesome counsel lately taught,\nAnd through their own fair handling wisely wrought,\nThat they a benefice 'twixt them obtained;\nAnd crafty Reynold was a priest ordained,\nAnd th' ape his parish clerk procur'd to be.\nThen made they revel rout and goodly glee;\nBut, ere long time had passed, they so ill\nDid order their affairs, that th' evil will\nOf all their parish'ners they had constrain'd;\nWho to the Ordinary of them complain'd,\nHow foully they their offices abus'd,\nAnd them of crimes and heresies accus'd,\nThat pursuivants he often for them sent;\nBut they neglected his command{\"e}ment.\nSo long persisted obstinate and bold,\nTill at the length he published to hold\nA visitation, and them cited thether:\nThen was high time their wits about to geather.\nWhat did they then, but made a composition\nWith their next neighbour priest, for light condition,\nTo whom their living they resigned quite\nFor a few pence, and ran away by night.",
-      "source": {
-        "name": "Edmund Spenser · PoetryDB",
-        "url": "https://poetrydb.org/title/Prosopopoia%3A%20Or%20Mother%20Hubbard's%20Tale",
-        "trustTier": "community",
-        "author": "Edmund Spenser"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:26.597Z",
-      "hash": "127b47fd1c98a83a"
-    },
-    {
-      "id": "poetry:ca309ed28462033d",
-      "type": "poem",
-      "title": "The Morgante Maggiore of Pulci",
-      "summary": "CANTO THE FIRST.\nIn the beginning was the Word next God;\n  God was the Word, the Word no less was He:\nThis was in the beginning, to my mode",
-      "body": "CANTO THE FIRST.\n\nIn the beginning was the Word next God;\n  God was the Word, the Word no less was He:\nThis was in the beginning, to my mode\n  Of thinking, and without Him nought could be:\nTherefore, just Lord! from out thy high abode,\n  Benign and pious, bid an angel flee,\nOne only, to be my companion, who\nShall help my famous, worthy, old song through.\n\nAnd thou, oh Virgin! daughter, mother, bride,\n  Of the same Lord, who gave to you each key\nOf Heaven, and Hell, and every thing beside,\n  The day thy Gabriel said \"All hail!\" to thee,\nSince to thy servants Pity's ne'er denied,\n  With flowing rhymes, a pleasant style and free,\nBe to my verses then benignly kind,\nAnd to the end illuminate my mind.\n\n'Twas in the season when sad Philomel\n  Weeps with her sister, who remembers and\nDeplores the ancient woes which both befel,\n  And makes the nymphs enamoured, to the hand\nOf Phaëton, by Phoebus loved so well,\n  His car (but tempered by his sire's command)\nWas given, and on the horizon's verge just now\nAppeared, so that Tithonus scratched his brow:\n\nWhen I prepared my bark first to obey,\n  As it should still obey, the helm, my mind,\nAnd carry prose or rhyme, and this my lay\n  Of Charles the Emperor, whom you will find\nBy several pens already praised; but they\n  Who to diffuse his glory were inclined,\nFor all that I can see in prose or verse,\nHave understood Charles badly, and wrote worse.\n\nLeonardo Aretino said already,\n  That if, like Pepin, Charles had had a writer\nOf genius quick, and diligently steady,\n  No hero would in history look brighter;\nHe in the cabinet being always ready,\n  And in the field a most victorious fighter,\nWho for the church and Christian faith had wrought,\nCertes, far more than yet is said or thought.\n\nYou still may see at Saint Liberatore,\n  The abbey, no great way from Manopell,\nErected in the Abruzzi to his glory,\n  Because of the great battle in which fell\nA pagan king, according to the story,\n  And felon people whom Charles sent to Hell:\nAnd there are bones so many, and so many,\nNear them Giusaffa's would seem few, if any.\n\nBut the world, blind and ignorant, don't prize\n  His virtues as I wish to see them: thou,\nFlorence, by his great bounty don't arise,\n  And hast, and may have, if thou wilt allow,\nAll proper customs and true courtesies:\n  Whate'er thou hast acquired from then till now,\nWith knightly courage, treasure, or the lance,\nIs sprung from out the noble blood of France.\n\nTwelve Paladins had Charles in court, of whom\n  The wisest and most famous was Orlando;\nHim traitor Gan conducted to the tomb\n  In Roncesvalles, as the villain planned too,\nWhile the horn rang so loud, and knelled the doom\n  Of their sad rout, though he did all knight can do:\nAnd Dante in his comedy has given\nTo him a happy seat with Charles in Heaven.\n\n'Twas Christmas-day; in Paris all his court\n  Charles held; the Chief, I say, Orlando was,\nThe Dane; Astolfo there too did resort,\n  Also Ansuigi, the gay time to pass\nIn festival and in triumphal sport,\n  The much-renowned St. Dennis being the cause;\nAngiolin of Bayonne, and Oliver,\nAnd gentle Belinghieri too came there:\n\nAvolio, and Arino, and Othone\n  Of Normandy, and Richard Paladin,\nWise Hamo, and the ancient Salamone,\n  Walter of Lion's Mount, and Baldovin,\nWho was the son of the sad Ganellone,\n  Were there, exciting too much gladness in\nThe son of Pepin:--when his knights came hither,\nHe groaned with joy to see them altogether.\n\nBut watchful Fortune, lurking, takes good heed\n  Ever some bar 'gainst our intents to bring.\nWhile Charles reposed him thus, in word and deed,\n  Orlando ruled court, Charles, and every thing;\nCurst Gan, with envy bursting, had such need\n  To vent his spite, that thus with Charles the king\nOne day he openly began to say,\n\"Orlando must we always then obey?\n\n\"A thousand times I've been about to say,\n  Orlando too presumptuously goes on;\nHere are we, counts, kings, dukes, to own thy sway,\n  Hamo, and Otho, Ogier, Solomon,\nEach have to honour thee and to obey;\n  But he has too much credit near the throne,\nWhich we won't suffer, but are quite decided\nBy such a boy to be no longer guided.\n\n\"And even at Aspramont thou didst begin\n  To let him know he was a gallant knight,\nAnd by the fount did much the day to win;\n  But I know _who_ that day had won the fight\nIf it had not for good Gherardo been;\n  The victory was Almonte's else; his sight\nHe kept upon the standard--and the laurels,\nIn fact and fairness, are his earning, Charles!\n\n\"If thou rememberest being in Gascony,\n  When there advanced the nations out of Spain\nThe Christian cause had suffered shamefully,\n  Had not his valour driven them back again.\nBest speak the truth when there's a reason why:\n  Know then, oh Emperor! that all complain:\nAs for myself, I shall repass the mounts\nO'er which I crossed with two and sixty counts.\n\n\"'Tis fit thy grandeur should dispense relief,\n  So that each here may have his proper part,\nFor the whole court is more or less in grief:\n  Perhaps thou deem'st this lad a Mars in heart?\"\nOrlando one day heard this speech in brief,\n  As by himself it chanced he sate apart:\nDispleased he was with Gan because he said it,\nBut much more still that Charles should give him credit.\n\nAnd with the sword he would have murdered Gan,\n  But Oliver thrust in between the pair,\nAnd from his hand extracted Durlindan,\n  And thus at length they separated were.\nOrlando angry too with Carloman,\n  Wanted but little to have slain him there;\nThen forth alone from Paris went the Chief,\nAnd burst and maddened with disdain and grief.\n\nFrom Ermellina, consort of the Dane,\n  He took Cortana, and then took Rondell,\nAnd on towards Brara pricked him o'er the plain;\n  And when she saw him coming, Aldabelle\nStretched forth her arms to clasp her lord again:\n  Orlando, in whose brain all was not well,\nAs \"Welcome, my Orlando, home,\" she said,\nRaised up his sword to smite her on the head.\n\nLike him a Fury counsels, his revenge\n  On Gan in that rash act he seemed to take,\nWhich Aldabella thought extremely strange;\n  But soon Orlando found himself awake;\nAnd his spouse took his bridle on this change,\n  And he dismounted from his horse, and spake\nOf every thing which passed without demur,\nAnd then reposed himself some days with her.\n\nThen full of wrath departed from the place,\n  As far as pagan countries roamed astray,\nAnd while he rode, yet still at every pace\n  The traitor Gan remembered by the way;\nAnd wandering on in error a long space,\n  An abbey which in a lone desert lay,\n'Midst glens obscure, and distant lands, he found,\nWhich formed the Christian's and the Pagan's bound.\n\nThe Abbot was called Clermont, and by blood\n  Descended from Angrante: under cover\nOf a great mountain's brow the abbey stood,\n  But certain savage giants looked him over;\nOne Passamont was foremost of the brood,\n  And Alabaster and Morgante hover\nSecond and third, with certain slings, and throw\nIn daily jeopardy the place below.\n\nThe monks could pass the convent gate no more,\n  Nor leave their cells for water or for wood;\nOrlando knocked, but none would ope, before\n  Unto the Prior it at length seemed good;\nEntered, he said that he was taught to adore\n  Him who was born of Mary's holiest blood,\nAnd was baptized a Christian; and then showed\nHow to the abbey he had found his road.\n\nSaid the Abbot, \"You are welcome; what is mine\n  We give you freely, since that you believe\nWith us in Mary Mother's Son divine;\n  And that you may not, Cavalier, conceive\nThe cause of our delay to let you in\n  To be rusticity, you shall receive\nThe reason why our gate was barred to you:\nThus those who in suspicion live must do.\n\n\"When hither to inhabit first we came\n  These mountains, albeit that they are obscure,\nAs you perceive, yet without fear or blame\n  They seemed to promise an asylum sure:\nFrom savage brutes alone, too fierce to tame,\n  'Twas fit our quiet dwelling to secure;\nBut now, if here we'd stay, we needs must guard\nAgainst domestic beasts with watch and ward.\n\n\"These make us stand, in fact, upon the watch;\n  For late there have appeared three giants rough,\nWhat nation or what kingdom bore the batch\n  I know not, but they are all of savage stuff;\nWhen Force and Malice with some genius match,\n  You know, they can do all--_we_ are not enough:\nAnd these so much our orisons derange,\nI know not what to do, till matters change.\n\n\"Our ancient fathers, living the desert in,\n  For just and holy works were duly fed;\nThink not they lived on locusts sole, 'tis certain\n  That manna was rained down from heaven instead;\nBut here 'tis fit we keep on the alert in\n  Our bounds, or taste the stones showered down for bread,\nFrom off yon mountain daily raining faster,\nAnd flung by Passamont and Alabaster.\n\n\"The third, Morgante, 's savagest by far; he\n  Plucks up pines, beeches, poplar-trees, and oaks,\nAnd flings them, our community to bury;\n  And all that I can do but more provokes.\"\nWhile thus they parley in the cemetery,\n  A stone from one of their gigantic strokes,\nWhich nearly crushed Rondell, came tumbling over,\nSo that he took a long leap under cover.\n\n\"For God-sake, Cavalier, come in with speed;\n  The manna's falling now,\" the Abbot cried.\n\"This fellow does not wish my horse should feed,\n  Dear Abbot,\" Roland unto him replied,\n\"Of restiveness he'd cure him had he need;\n  That stone seems with good will and aim applied.\"\nThe holy father said, \"I don't deceive;\nThey'll one day fling the mountain, I believe.\"\n\nOrlando bade them take care of Rondello,\n  And also made a breakfast of his own;\n\"Abbot,\" he said, \"I want to find that fellow\n  Who flung at my good horse yon corner-stone.\"\nSaid the abbot, \"Let not my advice seem shallow;\n  As to a brother dear I speak alone;\nI would dissuade you, Baron, from this strife,\nAs knowing sure that you will lose your life.\n\n\"That Passamont has in his hand three darts--\n  Such slings, clubs, ballast-stones, that yield you must:\nYou know that giants have much stouter hearts\n  Than us, with reason, in proportion just:\nIf go you will, guard well against their arts,\n  For these are very barbarous and robust.\"\nOrlando answered,\" This I'll see, be sure,\nAnd walk the wild on foot to be secure.\"\n\nThe Abbot signed the great cross on his front,\n  \"Then go you with God's benison and mine.\"\nOrlando, after he had scaled the mount,\n  As the Abbot had directed, kept the line\nRight to the usual haunt of Passamont;\n  Who, seeing him alone in this design,\nSurveyed him fore and aft with eyes observant,\nThen asked him, \"If he wished to stay as servant?\"\n\nAnd promised him an office of great ease.\n  But, said Orlando, \"Saracen insane!\nI come to kill you, if it shall so please\n  God, not to serve as footboy in your train;\nYou with his monks so oft have broke the peace--\n  Vile dog! 'tis past his patience to sustain.\"\nThe Giant ran to fetch his arms, quite furious,\nWhen he received an answer so injurious.\n\nAnd being returned to where Orlando stood,\n  Who had not moved him from the spot, and swinging\nThe cord, he hurled a stone with strength so rude,\n  As showed a sample of his skill in slinging;\nIt rolled on Count Orlando's helmet good\n  And head, and set both head and helmet ringing,\nSo that he swooned with pain as if he died,\nBut more than dead, he seemed so stupified.\n\nThen Passamont, who thought him slain outright,\n  Said, \"I will go, and while he lies along,\nDisarm me: why such craven did I fight?\"\n  But Christ his servants ne'er abandons long,\nEspecially Orlando, such a knight,\n  As to desert would almost be a wrong.\nWhile the giant goes to put off his defences,\nOrlando has recalled his force and senses:\n\nAnd loud he shouted, \"Giant, where dost go?\n  Thou thought'st me doubtless for the bier outlaid;\nTo the right about--without wings thou'rt too slow\n  To fly my vengeance--currish renegade!\n'Twas but by treachery thou laid'st me low.\"\n  The giant his astonishment betrayed,\nAnd turned about, and stopped his journey on,\nAnd then he stooped to pick up a great stone.\n\nOrlando had Cortana bare in hand;\n  To split the head in twain was what he schemed:\nCortana clave the skull like a true brand,\n  And pagan Passamont died unredeemed;\nYet harsh and haughty, as he lay he banned,\n  And most devoutly Macon still blasphemed;\nBut while his crude, rude blasphemies he heard,\nOrlando thanked the Father and the Word,--\n\nSaying, \"What grace to me thou'st this day given!\n  And I to thee, O Lord! am ever bound;\nI know my life was saved by thee from Heaven,\n  Since by the Giant I was fairly downed.\nAll things by thee are measured just and even;\n  Our power without thine aid would nought be found:\nI pray thee take heed of me, till I can\nAt least return once more to Carloman.\"\n\nAnd having said thus much, he went his way;\n  And Alabaster he found out below,\nDoing the very best that in him lay\n  To root from out a bank a rock or two.\nOrlando, when he reached him, loud 'gan say,\n  \"How think'st thou, glutton, such a stone to throw?\"\nWhen Alabaster heard his deep voice ring,\nHe suddenly betook him to his sling,\n\nAnd hurled a fragment of a size so large\n  That if it had in fact fulfilled its mission,\nAnd Roland not availed him of his targe,\n  There would have been no need of a physician.\nOrlando set himself in turn to charge,\n  And in his bulky bosom made incision\nWith all his sword. The lout fell; but o'erthrown, he\nHowever by no means forgot Macone.\n\nMorgante had a palace in his mode,\n  Composed of branches, logs of wood, and earth,\nAnd stretched himself at ease in this abode,\n  And shut himself at night within his berth.\nOrlando knocked, and knocked again, to goad\n  The giant from his sleep; and he came forth,\nThe door to open, like a crazy thing,\nFor a rough dream had shook him slumbering.\n\nHe thought that a fierce serpent had attacked him,\n  And Mahomet he called; but Mahomet\nIs nothing worth, and, not an instant backed him;\n  But praying blessed Jesu, he was set\nAt liberty from all the fears which racked him;\n  And to the gate he came with great regret--\n\"Who knocks here?\" grumbling all the while, said he.\n\"That,\" said Orlando, \"you will quickly see:\n\n\"I come to preach to you, as to your brothers,--\n  Sent by the miserable monks--repentance;\nFor Providence divine, in you and others,\n  Condemns the evil done, my new acquaintance!\n'Tis writ on high--your wrong must pay another's:\n  From Heaven itself is issued out this sentence.\nKnow then, that colder now than a pilaster\nI left your Passamont and Alabaster.\"\n\nMorgante said, \"Oh gentle Cavalier!\n  Now by thy God say me no villany;\nThe favour of your name I fain would hear,\n  And if a Christian, speak for courtesy.\"\nReplied Orlando, \"So much to your ear\n  I by my faith disclose contentedly;\nChrist I adore, who is the genuine Lord,\nAnd, if you please, by you may be adored.\"\n\nThe Saracen rejoined in humble tone,\n  \"I have had an extraordinary vision;\nA savage serpent fell on me alone,\n  And Macon would not pity my condition;\nHence to thy God, who for ye did atone\n  Upon the cross, preferred I my petition;\nHis timely succour set me safe and free,\nAnd I a Christian am disposed to be.\"\n\nOrlando answered, \"Baron just and pious,\n  If this good wish your heart can really move\nTo the true God, who will not then deny us\n  Eternal honour, you will go above,\nAnd, if you please, as friends we will ally us,\n  And I will love you with a perfect love.\nYour idols are vain liars, full of fraud:\nThe only true God is the Christian's God.\n\n\"The Lord descended to the virgin breast\n  Of Mary Mother, sinless and divine;\nIf you acknowledge the Redeemer blest,\n  Without whom neither sun nor star can shine,\nAbjure bad Macon's false and felon test,\n  Your renegado god, and worship mine,\nBaptize yourself with zeal, since you repent.\"\nTo which Morgante answered, \"I'm content.\"\n\nAnd then Orlando to embrace him flew,\n  And made much of his convert, as he cried,\n\"To the abbey I will gladly marshal you.\"\n  To whom Morgante, \"Let us go,\" replied:\n\"I to the friars have for peace to sue.\"\n  Which thing Orlando heard with inward pride,\nSaying, \"My brother, so devout and good,\nAsk the Abbot pardon, as I wish you would:\n\n\"Since God has granted your illumination,\n  Accepting you in mercy for his own,\nHumility should be your first oblation.\"\n  Morgante said, \"For goodness' sake, make known,--\nSince that your God is to be mine--your station,\n  And let your name in verity be shown;\nThen will I everything at your command do.\"\nOn which the other said, he was Orlando.\n\n\"Then,\" quoth the Giant, \"blessed be Jesu\n  A thousand times with gratitude and praise!\nOft, perfect Baron! have I heard of you\n  Through all the different periods of my days:\nAnd, as I said, to be your vassal too\n  I wish, for your great gallantry always.\"\nThus reasoning, they continued much to say,\nAnd onwards to the abbey went their way.\n\nAnd by the way about the giants dead\n  Orlando with Morgante reasoned: \"Be,\nFor their decease, I pray you, comforted,\n  And, since it is God's pleasure, pardon me;\nA thousand wrongs unto the monks they bred;\n  And our true Scripture soundeth openly,\nGood is rewarded, and chastised the ill,\nWhich the Lord never faileth to fulfil:\n\n\"Because His love of justice unto all\n  Is such, He wills His judgment should devour\nAll who have sin, however great or small;\n  But good He well remembers to restore.\nNor without justice holy could we call\n  Him, whom I now require you to adore.\nAll men must make His will their wishes sway,\nAnd quickly and spontaneously obey.\n\n\"And here our doctors are of one accord,\n  Coming on this point to the same conclusion,--\nThat in their thoughts, who praise in Heaven the Lord,\n  If Pity e'er was guilty of intrusion\nFor their unfortunate relations stored\n  In Hell below, and damned in great confusion,\nTheir happiness would be reduced to nought,--\nAnd thus unjust the Almighty's self be thought.\n\n\"But they in Christ have firmest hope, and all\n  Which seems to Him, to them too must appear\nWell done; nor could it otherwise befall;\n  He never can in any purpose err.\nIf sire or mother suffer endless thrall,\n  They don't disturb themselves for him or her:\nWhat pleases God to them must joy inspire;--\nSuch is the observance of the eternal choir.\"\n\n\"A word unto the wise,\" Morgante said,\n  \"Is wont to be enough, and you shall see\nHow much I grieve about my brethren dead;\n  And if the will of God seem good to me,\nJust, as you tell me, 'tis in Heaven obeyed--\n  Ashes to ashes,--merry let us be!\nI will cut off the hands from both their trunks,\nAnd carry them unto the holy monks.\n\n\"So that all persons may be sure and certain\n  That they are dead, and have no further fear\nTo wander solitary this desert in,\n  And that they may perceive my spirit clear\nBy the Lord's grace, who hath withdrawn the curtain\n  Of darkness, making His bright realm appear.\"\nHe cut his brethren's hands off at these words,\nAnd left them to the savage beasts and birds.\n\nThen to the abbey they went on together,\n  Where waited them the Abbot in great doubt.\nThe monks, who knew not yet the fact, ran thither\n  To their superior, all in breathless rout,\nSaying with tremor, \"Please to tell us whether\n  You wish to have this person in or out?\"\nThe Abbot, looking through upon the Giant,\nToo greatly feared, at first, to be compliant.\n\nOrlando seeing him thus agitated,\n  Said quickly, \"Abbot, be thou of good cheer;\nHe Christ believes, as Christian must be rated,\n  And hath renounced his Macon false;\" which here\nMorgante with the hands corroborated,\n  A proof of both the giants' fate quite clear:\nThence, with due thanks, the Abbot God adored,\nSaying, \"Thou hast contented me, O Lord!\"\n\nHe gazed; Morgante's height he calculated,\n  And more than once contemplated his size;\nAnd then he said, \"O Giant celebrated!\n  Know, that no more my wonder will arise,\nHow you could tear and fling the trees you late did,\n  When I behold your form with my own eyes.\nYou now a true and perfect friend will show\nYourself to Christ, as once you were a foe.\n\n\"And one of our apostles, Saul once named,\n  Long persecuted sore the faith of Christ,\nTill, one day, by the Spirit being inflamed,\n  'Why dost thou persecute me thus?' said Christ;\nAnd then from his offence he was reclaimed,\n  And went for ever after preaching Christ,\nAnd of the faith became a trump, whose sounding\nO'er the whole earth is echoing and rebounding.\n\n\"So, my Morgante, you may do likewise:\n  He who repents--thus writes the Evangelist--\nOccasions more rejoicing in the skies\n  Than ninety-nine of the celestial list.\nYou may be sure, should each desire arise\n  With just zeal for the Lord, that you'll exist\nAmong the happy saints for evermore;\nBut you were lost and damned to Hell before!\"\n\nAnd thus great honour to Morgante paid\n  The Abbot: many days they did repose.\nOne day, as with Orlando they both strayed,\n  And sauntered here and there, where'er they chose,\nThe Abbot showed a chamber, where arrayed\n  Much armour was, and hung up certain bows;\nAnd one of these Morgante for a whim\nGirt on, though useless, he believed, to him.\n\nThere being a want of water in the place,\n  Orlando, like a worthy brother, said,\n\"Morgante, I could wish you in this case\n  To go for water.\" \"You shall be obeyed\nIn all commands,\" was the reply, \"straight ways.\"\n  Upon his shoulder a great tub he laid,\nAnd went out on his way unto a fountain,\nWhere he was wont to drink, below the mountain.\n\nArrived there, a prodigious noise he hears,\n  Which suddenly along the forest spread;\nWhereat from out his quiver he prepares\n  An arrow for his bow, and lifts his head;\nAnd lo! a monstrous herd of swine appears,\n  And onward rushes with tempestuous tread,\nAnd to the fountain's brink precisely pours;\nSo that the Giant's joined by all the boars.\n\nMorgante at a venture shot an arrow,\n  Which pierced a pig precisely in the ear,\nAnd passed unto the other side quite through;\n  So that the boar, defunct, lay tripped up near.\nAnother, to revenge his fellow farrow,\n  Against the Giant rushed in fierce career,\nAnd reached the passage with so swift a foot,\nMorgante was not now in time to shoot.\n\nPerceiving that the pig was on him close,\n  He gave him such a punch upon the head,\nAs floored him so that he no more arose,\n  Smashing the very bone; and he fell dead\nNext to the other. Having seen such blows,\n  The other pigs along the valley fled;\nMorgante on his neck the bucket took,\nFull from the spring, which neither swerved nor shook.\n\nThe tub was on one shoulder, and there were\n  The hogs on t'other, and he brushed apace\nOn to the abbey, though by no means near,\n  Nor spilt one drop of water in his race.\nOrlando, seeing him so soon appear\n  With the dead boars, and with that brimful vase,\nMarvelled to see his strength so very great;\nSo did the Abbot, and set wide the gate.\n\nThe monks, who saw the water fresh and good,\n  Rejoiced, but much more to perceive the pork;\nAll animals are glad at sight of food:\n  They lay their breviaries to sleep, and work\nWith greedy pleasure, and in such a mood,\n  That the flesh needs no salt beneath their fork.\nOf rankness and of rot there is no fear,\nFor all the fasts are now left in arrear.\n\nAs though they wished to burst at once, they ate;\n  And gorged so that, as if the bones had been\nIn water, sorely grieved the dog and cat,\n  Perceiving that they all were picked too clean.\nThe Abbot, who to all did honour great,\n  A few days after this convivial scene,\nGave to Morgante a fine horse, well trained,\nWhich he long time had for himself maintained.\n\nThe horse Morgante to a meadow led,\n  To gallop, and to put him to the proof,\nThinking that he a back of iron had,\n  Or to skim eggs unbroke was light enough;\nBut the horse, sinking with the pain, fell dead,\n  And burst, while cold on earth lay head and hoof.\nMorgante said, \"Get up, thou sulky cur!\"\nAnd still continued pricking with the spur.\n\nBut finally he thought fit to dismount,\n  And said, \"I am as light as any feather,\nAnd he has burst;--to this what say you, Count?\"\n  Orlando answered, \"Like a ship's mast rather\nYou seem to me, and with the truck for front:\n  Let him go! Fortune wills that we together\nShould march, but you on foot Morgante still.\"\nTo which the Giant answered,\" So I will.\n\n\"When there shall be occasion, you will see\n  How I approve my courage in the fight.\"\nOrlando said, \"I really think you'll be,\n  If it should prove God's will, a goodly knight;\nNor will you napping there discover me.\n  But never mind your horse, though out of sight\n'Twere best to carry him into some wood,\nIf but the means or way I understood.\"\n\nThe Giant said, \"Then carry him I will,\n  Since that to carry me he was so slack--\nTo render, as the gods do, good for ill;\n  But lend a hand to place him on my back.\"\nOrlando answered, \"If my counsel still\n  May weigh, Morgante, do not undertake\nTo lift or carry this dead courser, who,\nAs you have done to him, will do to you.\n\n\"Take care he don't revenge himself, though dead,\n  As Nessus did of old beyond all cure.\nI don't know if the fact you've heard or read;\n  But he will make you burst, you may be sure.\"\n\"But help him on my back,\" Morgante said,\n  \"And you shall see what weight I can endure.\nIn place, my gentle Roland, of this palfrey,\nWith all the bells, I'd carry yonder belfry.\"\n\nThe Abbot said, \"The steeple may do well,\n  But for the bells, you've broken them, I wot.\"\nMorgante answered, \"Let them pay in Hell\n  The penalty who lie dead in yon grot;\"\nAnd hoisting up the horse from where he fell,\n  He said, \"Now look if I the gout have got,\nOrlando, in the legs,--or if I have force;\"--\nAnd then he made two gambols with the horse.\n\nMorgante was like any mountain framed;\n  So if he did this 'tis no prodigy;\nBut secretly himself Orlando blamed,\n  Because he was one of his family;\nAnd fearing that he might be hurt or maimed,\n  Once more he bade him lay his burden by:\n\"Put down, nor bear him further the desert in.\"\nMorgante said, \"I'll carry him for certain.\"\n\nHe did; and stowed him in some nook away,\n  And to the abbey then returned with speed.\nOrlando said, \"Why longer do we stay?\n  Morgante, here is nought to do indeed.\"\nThe Abbot by the hand he took one day,\n  And said, with great respect, he had agreed\nTo leave his reverence; but for this decision\nHe wished to have his pardon and permission.\n\nThe honours they continued to receive\n  Perhaps exceeded what his merits claimed:\nHe said, \"I mean, and quickly, to retrieve\n  The lost days of time past, which may be blamed;\nSome days ago I should have asked your leave,\n  Kind father, but I really was ashamed,\nAnd know not how to show my sentiment,\nSo much I see you with our stay content.\n\n\"But in my heart I bear through every clime\n  The Abbot, abbey, and this solitude--\nSo much I love you in so short a time;\n  For me, from Heaven reward you with all good\nThe God so true, the eternal Lord sublime!\n  Whose kingdom at the last hath open stood.\nMeantime we stand expectant of your blessing.\nAnd recommend us to your prayers with pressing.\"\n\nNow when the Abbot Count Orlando heard,\n  His heart grew soft with inner tenderness,\nSuch fervour in his bosom bred each word;\n  And, \"Cavalier,\" he said, \"if I have less\nCourteous and kind to your great worth appeared,\n  Than fits me for such gentle blood to express,\nI know I have done too little in this case;\nBut blame our ignorance, and this poor place.\n\n\"We can indeed but honour you with masses,\n  And sermons, thanksgivings, and pater-nosters,\nHot suppers, dinners (fitting other places\n  In verity much rather than the cloisters);\nBut such a love for you my heart embraces,\n  For thousand virtues which your bosom fosters,\nThat wheresoe'er you go I too shall be,\nAnd, on the other part, you rest with me.\n\n\"This may involve a seeming contradiction;\n  But you I know are sage, and feel, and taste,\nAnd understand my speech with full conviction.\n  For your just pious deeds may you be graced\nWith the Lord's great reward and benediction,\n  By whom you were directed to this waste:\nTo His high mercy is our freedom due,\nFor which we render thanks to Him and you.\n\n\"You saved at once our life and soul: such fear\n  The Giants caused us, that the way was lost\nBy which we could pursue a fit career\n  In search of Jesus and the saintly Host;\nAnd your departure breeds such sorrow here,\n  That comfortless we all are to our cost;\nBut months and years you would not stay in sloth,\nNor are you formed to wear our sober cloth,\n\n\"But to bear arms, and wield the lance; indeed,\n  With these as much is done as with this cowl;\nIn proof of which the Scripture you may read,\n  This Giant up to Heaven may bear his soul\nBy your compassion: now in peace proceed.\n  Your state and name I seek not to unroll;\nBut, if I'm asked, this answer shall be given,\nThat here an angel was sent down from Heaven.\n\n\"If you want armour or aught else, go in,\n  Look o'er the wardrobe, and take what you choose,\nAnd cover with it o'er this Giant's skin.\"\n  Orlando answered, \"If there should lie loose\nSome armour, ere our journey we begin,\n  Which might be turned to my companion's use,\nThe gift would be acceptable to me.\"\nThe Abbot said to him, \"Come in and see.\"\n\nAnd in a certain closet, where the wall\n  Was covered with old armour like a crust,\nThe Abbot said to them, \"I give you all.\"\n  Morgante rummaged piecemeal from the dust\nThe whole, which, save one cuirass, was too small,\n  And that too had the mail inlaid with rust.\nThey wondered how it fitted him exactly,\nWhich ne'er had suited others so compactly.\n\n'Twas an immeasurable Giant's, who\n  By the great Milo of Agrante fell\nBefore the abbey many years ago.\n  The story on the wall was figured well;\nIn the last moment of the abbey's foe,\n  Who long had waged a war implacable:\nPrecisely as the war occurred they drew him,\nAnd there was Milo as he overthrew him.\n\nSeeing this history, Count Orlando said\n  In his own heart, \"O God who in the sky\nKnow'st all things! how was Milo hither led?\n  Who caused the Giant in this place to die?\"\nAnd certain letters, weeping, then he read,\n  So that he could not keep his visage dry,--\nAs I will tell in the ensuing story:\nFrom evil keep you the high King of Glory!",
-      "source": {
-        "name": "George Gordon, Lord Byron · PoetryDB",
-        "url": "https://poetrydb.org/title/The%20Morgante%20Maggiore%20of%20Pulci",
-        "trustTier": "community",
-        "author": "George Gordon, Lord Byron"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-28T16:36:26.597Z",
-      "hash": "ca309ed28462033d"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399986984-1",
-      "type": "art",
-      "title": "Textile",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1890s · Textiles",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1890s · Textiles",
-      "image": {
-        "src": "data/images/fd877c3797a86f91.jpg",
-        "alt": "Textile",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/288376",
-        "trustTier": "encyclopedic",
-        "date": "1890s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "textile",
-        "textiles"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-28T16:36:25.164Z",
-      "hash": "aab5c7026dea8b73"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399893546-1",
-      "type": "art",
-      "title": "Textile",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1920s · Textiles",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1920s · Textiles",
-      "image": {
-        "src": "data/images/6bfbea086a73161e.jpg",
-        "alt": "Textile",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/20819",
-        "trustTier": "encyclopedic",
-        "date": "1920s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "textile",
-        "textiles"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-28T16:36:25.164Z",
-      "hash": "160408fe473c637c"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399986996-1",
-      "type": "art",
-      "title": "Textile",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1920s · Textiles",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1920s · Textiles",
-      "image": {
-        "src": "data/images/c3221064bde8bd0e.jpg",
-        "alt": "Textile",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/288399",
-        "trustTier": "encyclopedic",
-        "date": "1920s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "textile",
-        "textiles"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-28T16:36:25.164Z",
-      "hash": "6d409fcc2920ff85"
-    },
-    {
-      "id": "met:317295",
-      "type": "art",
-      "title": "Celt",
-      "summary": "Unknown artist · before 16th century · Stone",
-      "body": "Unknown artist · before 16th century · Stone\nBequest of Arthur M. Bullowa, 1993\nThe Michael C. Rockefeller Wing",
-      "image": {
-        "src": "data/images/2e52edc08052cbf3.jpg",
-        "alt": "Celt",
-        "credit": "The Met · Bequest of Arthur M. Bullowa, 1993"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/317295",
-        "trustTier": "encyclopedic",
-        "date": "before 16th century"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "river",
-        "stone-implements"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-28T16:36:24.184Z",
-      "hash": "061659c610038cd5"
-    },
-    {
-      "id": "met:399141",
-      "type": "art",
-      "title": "Woodcutters at Park Place, Henley, the river Thames beyond",
-      "summary": "William Havell · ca. 1826 · Graphite, watercolor and gouache (bodycolor) with gum arabic and scratching out",
-      "body": "William Havell · ca. 1826 · Graphite, watercolor and gouache (bodycolor) with gum arabic and scratching out\nPurchase, Guy Wildenstein Gift, 2012\nDrawings and Prints",
-      "image": {
-        "src": "data/images/3ad2ee7e3be25921.jpg",
-        "alt": "Woodcutters at Park Place, Henley, the river Thames beyond",
-        "credit": "The Met · Purchase, Guy Wildenstein Gift, 2012"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/399141",
-        "trustTier": "encyclopedic",
-        "author": "William Havell",
-        "date": "ca. 1826"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "river",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-28T16:36:23.291Z",
-      "hash": "d8c3878f5728a1cd"
-    },
-    {
-      "id": "met:12822",
-      "type": "art",
-      "title": "George Washington and William Lee (George Washington)",
-      "summary": "John Trumbull · 1780 · Oil on canvas",
-      "body": "John Trumbull · 1780 · Oil on canvas\nBequest of Charles Allen Munn, 1924\nThe American Wing",
-      "image": {
-        "src": "data/images/ccb83b8e511ecf6d.jpg",
-        "alt": "George Washington and William Lee (George Washington)",
-        "credit": "The Met · Bequest of Charles Allen Munn, 1924"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/12822",
-        "trustTier": "encyclopedic",
-        "author": "John Trumbull",
-        "date": "1780"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "river"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-28T16:36:23.160Z",
-      "hash": "a3a4f44ccebf6fa4"
-    },
-    {
-      "id": "apod:2003-04-23",
-      "type": "space",
-      "title": "The Stars of NGC 1705",
-      "summary": "Some 2,000 light-years across, NGC 1705 is small as galaxies go, similar to our Milky Way's own satellite galaxies, the Magellanic Clouds. At a much larger distance of 17 million light-years, the stars of NGC 1705 are still easily resolved in this beautiful image constructed from data taken in 1999 and 2000 with the…",
-      "body": "Some 2,000 light-years across, NGC 1705 is small as galaxies go, similar to our Milky Way's own satellite galaxies, the Magellanic Clouds. At a much larger distance of 17 million light-years, the stars of NGC 1705 are still easily resolved in this beautiful image constructed from data taken in 1999 and 2000 with the Hubble Space Telescope. Most of the younger, hot, blue stars in the galaxy are seen to be concentrated in a large central star cluster with the older, cooler, red stars more evenly distributed. Possibly 13 billion years old, NGC 1705 could well have been forming stars through out its lifetime while light from its most recent burst of star formation reached Earth only 30 million years ago. This gradually evolving dwarf irregular galaxy lacks organized structures like spiral arms and is thought to be a nearby analog to the first galaxies to form in the early Universe.",
-      "image": {
-        "src": "data/images/36e2f5cbe4b08534.jpg",
-        "alt": "The Stars of NGC 1705",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap030423.html",
-        "trustTier": "encyclopedic",
-        "date": "2003-04-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:22.331Z",
-      "hash": "98f1e2e447f5426f"
-    },
-    {
-      "id": "apod:2022-12-15",
-      "type": "space",
-      "title": "Full Moon, Full Mars",
-      "summary": "On December 8 a full Moon and a full Mars were close, both bright and opposite the Sun in planet Earth's sky. In fact Mars was occulted, passing behind the Moon when viewed from some locations across Europe and North America. Seen from the city of Kosice in eastern Slovakia, the lunar occultation of Mars happened…",
-      "body": "On December 8 a full Moon and a full Mars were close, both bright and opposite the Sun in planet Earth's sky. In fact Mars was occulted, passing behind the Moon when viewed from some locations across Europe and North America. Seen from the city of Kosice in eastern Slovakia, the lunar occultation of Mars happened just before sunrise. The tantalizing spectacle was recorded in this telescopic timelapse sequence of exposures. It took about an hour for the Red Planet to disappear behind the lunar disk and then reappear as a warm-hued full Moon, the last full Moon of 2022, sank toward the western horizon. The next lunar occultation of bright planet Mars will be in the new year on January 3, when the Moon is in a waxing gibbous phase. Lunar occultations are only ever visible from a fraction of the Earth's surface, though. The January 3 occultation of Mars will be visible from parts of the South Atlantic, southern Africa, and the Indian Ocean.",
-      "image": {
-        "src": "data/images/ad48ff64ae9cef63.jpg",
-        "alt": "Full Moon, Full Mars",
-        "credit": "© Tomas Slovinsky"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap221215.html",
-        "trustTier": "encyclopedic",
-        "date": "2022-12-15"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:22.331Z",
-      "hash": "ea8d46e53963373c"
-    },
-    {
-      "id": "apod:2013-11-20",
-      "type": "space",
-      "title": "Heavy Black Hole Jets in 4U1630-47",
-      "summary": "What are black hole jets made of? Many black holes in stellar systems are surely surrounded by disks of gas and plasma gravitationally pulled from a close binary star companion. Some of this material, after approaching the black hole, ends up being expelled from the star system in powerful jets emanating from the…",
-      "body": "What are black hole jets made of? Many black holes in stellar systems are surely surrounded by disks of gas and plasma gravitationally pulled from a close binary star companion. Some of this material, after approaching the black hole, ends up being expelled from the star system in powerful jets emanating from the poles of the spinning black hole. Recent evidence indicates that these jets are composed not only electrons and protons, but also the nuclei of heavy elements such as iron and nickel. The discovery was made in system 4U1630-47 using CSIRO�s Compact Array of radio telescopes in eastern Australia, and the European Space Agency's Earth-orbiting XMM-Newton satellite. The 4U1630-47 star system is depicted above in an artist's illustration, with a large blue star on the right and jets emanating from a black hole in the center of the accretion disc on the left. Although the 4U1630-47 star system is thought to contain only a small black hole -- a few times the mass of our Sun -- the implications of the results may be larger: that black holes of larger sizes might also be emitting jets of massive nuclei into the cosmos. Click Hyperspace: Random APOD Generator",
-      "image": {
-        "src": "data/images/53902ea058312ecd.jpg",
-        "alt": "Heavy Black Hole Jets in 4U1630-47",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap131120.html",
-        "trustTier": "encyclopedic",
-        "date": "2013-11-20"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:22.331Z",
-      "hash": "adb9e98175296e8d"
-    },
-    {
-      "id": "apod:1999-09-05",
-      "type": "space",
-      "title": "The Universe Evolves",
-      "summary": "Scroll right and watch the universe evolve. Above is a computer simulation depicting the evolution of our entire universe. On the far left is a slice of the universe soon after the Big Bang - over 10 billion years ago. As time progresses toward the right, the initially smooth universe can be seen becoming more and…",
-      "body": "Scroll right and watch the universe evolve. Above is a computer simulation depicting the evolution of our entire universe. On the far left is a slice of the universe soon after the Big Bang - over 10 billion years ago. As time progresses toward the right, the initially smooth universe can be seen becoming more and more clumpy. The vertex near the far right marks the present day. The largest slice of the universe actually surveyed is simulated to the vertex's right. This artificial universe, called a Hubble Volume, was designed to mimic what humanity might see were we to have powerful enough telescopes. By comparing different computer simulations to reality, we might be able to better tell what kind of universe we live in.",
-      "image": {
-        "src": "data/images/cd582d33dc00793b.jpg",
-        "alt": "The Universe Evolves",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap990905.html",
-        "trustTier": "encyclopedic",
-        "date": "1999-09-05"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:22.331Z",
-      "hash": "6c7847243685ae4e"
-    },
-    {
-      "id": "apod:2019-08-18",
-      "type": "space",
-      "title": "Human as Spaceship",
-      "summary": "You are a spaceship soaring through the universe. So is your dog. We all carry with us trillions of microorganisms as we go through life. These multitudes of bacteria, fungi, and archaea have different DNA than you. Collectively called your microbiome, your shipmates outnumber your own cells. Your crew members form…",
-      "body": "You are a spaceship soaring through the universe. So is your dog. We all carry with us trillions of microorganisms as we go through life. These multitudes of bacteria, fungi, and archaea have different DNA than you. Collectively called your microbiome, your shipmates outnumber your own cells. Your crew members form communities, help digest food, engage in battles against intruders, and sometimes commute on a liquid superhighway from one end of your body to the other. Much of what your microbiome does, however, remains unknown. You are the captain, but being nice to your crew may allow you to explore more of your local cosmos.",
-      "image": {
-        "src": "data/images/01a319dc7d251545.jpg",
-        "alt": "Human as Spaceship",
-        "credit": "© Charis Tsevis; Composition: R. J. Nemiroff"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap190818.html",
-        "trustTier": "encyclopedic",
-        "date": "2019-08-18"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:22.331Z",
-      "hash": "16889ddab1a78cd1"
-    },
-    {
-      "id": "onthisday:09-28:2006:9601b6c21954a76d",
-      "type": "history",
-      "title": "2006: Typhoon Xangsane",
-      "summary": "Typhoon Xangsane passed Manila on its way to causing more than 300 deaths, mostly in the Phillippines and Vietnam.",
-      "body": "Typhoon Xangsane passed Manila on its way to causing more than 300 deaths, mostly in the Phillippines and Vietnam.",
-      "image": {
-        "src": "data/images/6b65b8f84f5c0caf.jpg",
-        "alt": "Typhoon Xangsane",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Typhoon_Xangsane",
-        "trustTier": "encyclopedic",
-        "date": "09-28"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:21.600Z",
-      "hash": "cb522f64f86ea7ed",
-      "expires": "2026-10-01T16:36:21.600Z"
-    },
-    {
-      "id": "onthisday:09-28:1978:9ac964a74b1a2806",
-      "type": "history",
-      "title": "1978: Pope John Paul I",
-      "summary": "Pope John Paul I died only 33 days after his papal election due to an apparent myocardial infarction, resulting in the first year of three popes since 1605.",
-      "body": "Pope John Paul I died only 33 days after his papal election due to an apparent myocardial infarction, resulting in the first year of three popes since 1605.",
-      "image": {
-        "src": "data/images/3314e4af77bbfeb7.jpg",
-        "alt": "Pope John Paul I",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_I",
-        "trustTier": "encyclopedic",
-        "date": "09-28"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:21.600Z",
-      "hash": "197ab544e061cac5",
-      "expires": "2026-10-01T16:36:21.600Z"
-    },
-    {
-      "id": "onthisday:09-28:1821:8534124529f41759",
-      "type": "history",
-      "title": "1821: Declaration of Independence (Mexico)",
-      "summary": "The Declaration of Independence of the Mexican Empire from Spain was drafted in the National Palace in Mexico City.",
-      "body": "The Declaration of Independence of the Mexican Empire from Spain was drafted in the National Palace in Mexico City.",
-      "image": {
-        "src": "data/images/f70b2f6d683dbca4.jpg",
-        "alt": "Declaration of Independence (Mexico)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Declaration_of_Independence_(Mexico)",
-        "trustTier": "encyclopedic",
-        "date": "09-28"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:21.600Z",
-      "hash": "8cd06edfa0991e9e",
-      "expires": "2026-10-01T16:36:21.600Z"
-    },
-    {
-      "id": "wikipedia:66916285",
-      "type": "wiki",
-      "title": "Thalía Mallqui",
-      "summary": "Thalía Mallqui is a Peruvian freestyle wrestler. She is a two-time medalist at the Pan American Games.",
-      "body": "Thalía Mallqui is a Peruvian freestyle wrestler. She is a two-time medalist at the Pan American Games.",
-      "image": {
-        "src": "data/images/0712b28b3ead45fd.jpg",
-        "alt": "Thalía Mallqui",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Thal%C3%ADa_Mallqui",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:20.920Z",
-      "hash": "0874d943712812d0"
-    },
-    {
-      "id": "wikipedia:75543898",
-      "type": "wiki",
-      "title": "The Bequeathed",
-      "summary": "The Bequeathed (Korean: 선산) is a 2024 South Korean occult thriller television series created and written by Yeon Sang-ho with Min Hong-nam and Hwang Eun-young, directed by Min, and starring Kim Hyun-joo, Park Hee-soon, Park Byung-eun, and Ryu Kyung-soo. Based on the webtoon of the same name by Kang Tae-kyung. It was…",
-      "body": "The Bequeathed (Korean: 선산) is a 2024 South Korean occult thriller television series created and written by Yeon Sang-ho with Min Hong-nam and Hwang Eun-young, directed by Min, and starring Kim Hyun-joo, Park Hee-soon, Park Byung-eun, and Ryu Kyung-soo. Based on the webtoon of the same name by Kang Tae-kyung. It was released on Netflix on January 19, 2024, and received generally positive reviews.",
-      "image": {
-        "src": "data/images/1dc5ba8436229f97.jpg",
-        "alt": "The Bequeathed",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Bequeathed",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:20.087Z",
-      "hash": "f39810c11a4e1698"
-    },
-    {
-      "id": "wikipedia:3483849",
-      "type": "wiki",
-      "title": "Mississippi Flyway",
-      "summary": "The Mississippi Flyway is a bird migration route that generally follows the Mississippi, Missouri, and Lower Ohio Rivers in the United States across the western Great Lakes to the Mackenzie River and Hudson Bay in Canada. The main endpoints of the flyway include central Canada and the region surrounding the Gulf of…",
-      "body": "The Mississippi Flyway is a bird migration route that generally follows the Mississippi, Missouri, and Lower Ohio Rivers in the United States across the western Great Lakes to the Mackenzie River and Hudson Bay in Canada. The main endpoints of the flyway include central Canada and the region surrounding the Gulf of Mexico. The migration route tends to narrow considerably in the lower Mississippi River valley in the states of Missouri, Arkansas, Mississippi, and Louisiana, which accounts for the high number of bird species found in those areas. Some birds use this flyway to migrate from the Arctic Ocean to Patagonia.",
-      "image": {
-        "src": "data/images/7bb85ba5166bc400.png",
-        "alt": "Mississippi Flyway",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Mississippi_Flyway",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:19.762Z",
-      "hash": "fa7c7f5d0a5814f9"
-    },
-    {
-      "id": "wikipedia:24912265",
-      "type": "wiki",
-      "title": "Harlee Dean",
-      "summary": "Harlee James Dean is an English professional footballer who plays as a centre-back for National League North club Morecambe.",
-      "body": "Harlee James Dean is an English professional footballer who plays as a centre-back for National League North club Morecambe.",
-      "image": {
-        "src": "data/images/6dd87ed739664141.jpg",
-        "alt": "Harlee Dean",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Harlee_Dean",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-28T16:36:19.036Z",
-      "hash": "1ffb63bcc372563e"
-    },
-    {
-      "id": "chess:qi24x",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1681. Find the best line for black.",
-      "body": "Solution, from → to: a3→a2, a1→a2, f5→a5. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "1r4k1/6pp/p7/5r2/2pQ4/q4P2/P1P4P/K2R2R1 b - - 1 1",
-        "lastMove": "h1g1"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/qi24x",
-        "trustTier": "community",
-        "date": "Sun, 27 Sep 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "short",
-        "attraction",
-        "sacrifice",
-        "endgame"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-27T13:42:06.691Z",
-      "hash": "9f5047b8f2722c96"
-    },
-    {
-      "id": "trivia:87b6f5187f3f1e05",
-      "type": "trivia",
-      "title": "Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?",
-      "summary": "Is it: Steven Seagal · Scott Adkins · Chuck Norris · Jean-Claude Van Damme?",
-      "body": "Answer: Jean-Claude Van Damme.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "film"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-27T13:42:03.951Z",
-      "hash": "87b6f5187f3f1e05"
-    },
-    {
-      "id": "trivia:c9e944f721f1eea3",
-      "type": "trivia",
-      "title": "What nation produces roughly 40% of the world’s vanilla?",
-      "summary": "Is it: Mexico · China · Indonesia · Madagascar?",
-      "body": "Answer: Madagascar.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-27T13:42:03.951Z",
-      "hash": "c9e944f721f1eea3"
-    },
-    {
-      "id": "trivia:36f953d6fe6cbacd",
-      "type": "trivia",
-      "title": "The acronym \"RIP\" stands for which of these?",
-      "summary": "Is it: Routine Inspection Protocol · Routing Information Protocol · Regular Interval Processes · Runtime Instance Processes?",
-      "body": "Answer: Routing Information Protocol.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "computers"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-27T13:42:03.951Z",
-      "hash": "36f953d6fe6cbacd"
-    },
-    {
-      "id": "trivia:d36e08cba88fc82d",
-      "type": "trivia",
-      "title": "Which of the following Pacific Islander countries is ruled by a constitutional monarchy?",
-      "summary": "Is it: Palau · Tonga · Kiribati · Fiji?",
-      "body": "Answer: Tonga.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "politics"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-27T13:42:03.951Z",
-      "hash": "d36e08cba88fc82d"
-    },
-    {
-      "id": "comic:smbc:3ea1e12f4169ae4a",
-      "type": "comic",
-      "title": "All Right",
-      "summary": "He's only given one final week to live but having a salary is nice.",
-      "image": {
-        "src": "data/images/325899cef23597ec.png",
-        "alt": "He's only given one final week to live but having a salary is nice.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/all-right",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Sat, 26 Sep 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-27T13:42:02.593Z",
-      "hash": "3ea1e12f4169ae4a"
     },
     {
       "id": "curated:handwriting-beats-typing",

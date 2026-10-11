@@ -1,7 +1,914 @@
 {
-  "generatedAt": "2026-10-10T14:21:49.964Z",
+  "generatedAt": "2026-10-11T14:48:54.771Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:5lB9s",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 2039. Find the best line for black.",
+      "body": "Solution, from → to: e5→c3, e1→d1, c4→e2. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "3Qr1k1/p1p2ppp/8/4b3/2b5/2N3P1/PPP2PBP/R1B1K2R b KQ - 0 1",
+        "lastMove": "a8d8"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/5lB9s",
+        "trustTier": "community",
+        "date": "Sun, 11 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "matein2",
+        "middlegame",
+        "short",
+        "discoveredcheck"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-11T14:48:45.277Z",
+      "hash": "5917f772c108759b"
+    },
+    {
+      "id": "trivia:c6db39ba67912e1d",
+      "type": "trivia",
+      "title": "The Arab Spring was a series of protests and rebellions that began in which of these Arab nations?",
+      "summary": "Is it: Egypt · Syria · Morocco · Tunisia?",
+      "body": "Answer: Tunisia.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-11T14:48:42.296Z",
+      "hash": "c6db39ba67912e1d"
+    },
+    {
+      "id": "trivia:a66aed86e0c28da8",
+      "type": "trivia",
+      "title": "Which of the following games was NOT included in Valve's \"The Orange Box\"?",
+      "summary": "Is it: Half-Life 2: Episode Two · Left 4 Dead · Portal · Team Fortress 2?",
+      "body": "Answer: Left 4 Dead.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:48:42.296Z",
+      "hash": "a66aed86e0c28da8"
+    },
+    {
+      "id": "trivia:166006c08fac1dd7",
+      "type": "trivia",
+      "title": "What does the D stand for in D-pad, found on most video game controllers?",
+      "summary": "Is it: Dial-up · Dynamic · Directional · Design?",
+      "body": "Answer: Directional.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:48:42.296Z",
+      "hash": "166006c08fac1dd7"
+    },
+    {
+      "id": "trivia:4ad10f13ffc5eeef",
+      "type": "trivia",
+      "title": "Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "computers"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:42.296Z",
+      "hash": "4ad10f13ffc5eeef"
+    },
+    {
+      "id": "comic:smbc:8d5e4b4c230cb41f",
+      "type": "comic",
+      "title": "Relative",
+      "summary": "It is now only cheating in your reference frame.",
+      "image": {
+        "src": "data/images/0bcfee197ff02e45.png",
+        "alt": "It is now only cheating in your reference frame.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/relative",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 10 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-11T14:48:40.725Z",
+      "hash": "8d5e4b4c230cb41f"
+    },
+    {
+      "id": "comic:xkcd:3104",
+      "type": "comic",
+      "title": "Tukey",
+      "summary": "Numbers can be tricky. On the day of my 110th birthday, I'll be one day younger than John Tukey was on his.",
+      "image": {
+        "src": "data/images/764e82979d60b1a3.png",
+        "alt": "Numbers can be tricky. On the day of my 110th birthday, I'll be one day younger than John Tukey was on his.",
+        "credit": "xkcd #3104 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3104/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2025-06-18"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-11T14:48:40.527Z",
+      "hash": "0c8bc7b5bfcdb958"
+    },
+    {
+      "id": "craft:7151eb653cb75492",
+      "type": "craft",
+      "title": "Woo Jin Joo Conjures Mythic Tales from Uncanny Sculptures of Fiber and Found Objects",
+      "summary": "Stumbling upon a battered end table or lost mitten is an opportunity for magic in Woo Jin Joo’s mind.",
+      "body": "Stumbling upon a battered end table or lost mitten is an opportunity for magic in Woo Jin Joo’s mind.",
+      "image": {
+        "src": "data/images/00a996835d8a8a99.jpg",
+        "alt": "Woo Jin Joo Conjures Mythic Tales from Uncanny Sculptures of Fiber and Found Objects",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/woo-jin-joo-mixed-media-sculptures/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Thu, 08 Oct 2026 15:59:1"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "ceramics",
+        "fiber art",
+        "found objects",
+        "furniture",
+        "mixed media",
+        "mythology",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:39.631Z",
+      "hash": "7151eb653cb75492"
+    },
+    {
+      "id": "craft:b53eb13d3a132808",
+      "type": "craft",
+      "title": "Very Important Partners Behind Maker Faire Bay Area",
+      "summary": "Fun sponsor activities to check out at Maker Faire Bay Area. The post Very Important Partners Behind Maker Faire Bay Area appeared first on Make: DIY Projects and Ideas for Makers.",
+      "body": "Fun sponsor activities to check out at Maker Faire Bay Area. The post Very Important Partners Behind Maker Faire Bay Area appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/afc78dd4318d5107.jpg",
+        "alt": "Very Important Partners Behind Maker Faire Bay Area",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/maker-news/maker-faire/very-important-projects-behind-maker-faire-bay-area/",
+        "trustTier": "publication",
+        "author": "Make: Editors",
+        "date": "Sun, 27 Sep 2026 18:10:0"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "maker faire",
+        "maker news",
+        "3d printer",
+        "ai",
+        "mfba",
+        "tools"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:39.225Z",
+      "hash": "b53eb13d3a132808"
+    },
+    {
+      "id": "word:27613a753857af67",
+      "type": "word",
+      "title": "enigma",
+      "summary": "Noun: Something or someone puzzling, mysterious or inexplicable.",
+      "body": "1. Something or someone puzzling, mysterious or inexplicable.\n2. A riddle, or a difficult problem.\n3. Riddles and puzzles, collectively.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/enigma",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:48:37.436Z",
+      "hash": "27613a753857af67"
+    },
+    {
+      "id": "quote:d322a9b822aef3a7",
+      "type": "quote",
+      "title": "“Great loves too must be endured.”",
+      "summary": "— Coco Chanel",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Coco_Chanel",
+        "trustTier": "community",
+        "author": "Coco Chanel"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:48:36.900Z",
+      "hash": "d322a9b822aef3a7"
+    },
+    {
+      "id": "quote:f3bca83a1ca071e4",
+      "type": "quote",
+      "title": "“Once a decision was made, I didn't worry about it afterward.”",
+      "summary": "— Harry S. Truman",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Harry_S._Truman",
+        "trustTier": "community",
+        "author": "Harry S. Truman"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:48:36.900Z",
+      "hash": "f3bca83a1ca071e4"
+    },
+    {
+      "id": "quote:6969f51f0c259cdc",
+      "type": "quote",
+      "title": "“Don't stumble over something that's behind you.”",
+      "summary": "— Steve Harvey",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Steve_Harvey",
+        "trustTier": "community",
+        "author": "Steve Harvey"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:48:36.900Z",
+      "hash": "6969f51f0c259cdc"
+    },
+    {
+      "id": "article:a1d9fdf7e52958ac",
+      "type": "article",
+      "title": "Out Now: Low-tech Magazine Volume IV",
+      "summary": "Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret. Low-tech Magazine presents the fourth volume in the chronological book series. It contains twenty articles that were published online between 2022 and 2026. Three earlier volumes collect articles written and published online…",
+      "body": "Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret. Low-tech Magazine presents the fourth volume in the chronological book series. It contains twenty articles that were published online between 2022 and 2026. Three earlier volumes collect articles written and published online between 2007 and 2021, which are also bundled in the &ldquo;Compressed Edition&rdquo;. This new volume is a bit different from the earlier books: eight of the articles are DIY guides or manuals, and we have grouped them together in the second part of the book. This volume covers the period that…",
+      "image": {
+        "src": "data/images/136a0ca50b519ad9.png",
+        "alt": "Out Now: Low-tech Magazine Volume IV",
+        "credit": "Low-Tech Magazine"
+      },
+      "source": {
+        "name": "Low-Tech Magazine",
+        "url": "https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/",
+        "trustTier": "publication",
+        "date": "Thu, 24 Sep 2026 00:00:0"
+      },
+      "tags": [
+        "technology",
+        "sustainability",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:32.576Z",
+      "hash": "a1d9fdf7e52958ac"
+    },
+    {
+      "id": "article:543232bebf35080e",
+      "type": "article",
+      "title": "Victor Mair and Benjamin Franklin",
+      "summary": "Wikipedia’s article on Benjamin Franklin starts this way: Benjamin Franklin was an American polymath active as a physicist, philosopher, statesman and inventor. The article goes on to list (some of) his other achievements, including his role as a writer, and as the founder of institutions such as…",
+      "body": "Wikipedia’s article on Benjamin Franklin starts this way: Benjamin Franklin was an American polymath active as a physicist, philosopher, statesman and inventor. The article goes on to list (some of) his other achievements, including his role as a writer, and as the founder of institutions such as the American Philosophical Society and what became the […]",
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74414&utm_source=rss&utm_medium=rss&utm_campaign=victor-mair-and-benjamin-franklin",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Sun, 11 Oct 2026 14:21:0"
+      },
+      "tags": [
+        "linguistics",
+        "language"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:31.657Z",
+      "hash": "543232bebf35080e"
+    },
+    {
+      "id": "article:67d69d2fedb2ef26",
+      "type": "article",
+      "title": "The Secret Superpowers of Amphibians and Reptiles",
+      "summary": "They are full of unusual senses The post The Secret Superpowers of Amphibians and Reptiles appeared first on Nautilus.",
+      "body": "They are full of unusual senses The post The Secret Superpowers of Amphibians and Reptiles appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/930089c08460501e.jpg",
+        "alt": "The Secret Superpowers of Amphibians and Reptiles",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/the-secret-superpowers-of-amphibians-and-reptiles-1285689/",
+        "trustTier": "publication",
+        "author": "Steven Allain",
+        "date": "Sat, 10 Oct 2026 16:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "zoology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:27.775Z",
+      "hash": "67d69d2fedb2ef26"
+    },
+    {
+      "id": "article:f1fc0a2d227e4492",
+      "type": "article",
+      "title": "Priority Traps and Generic Fallacies: Thinking about Homer as the Borg",
+      "summary": "One of the many questions about Homeric poetry that interests me is its engagement with other genres. There are some basic assumptions about how epic works in relation to other kinds of poetry that can restrict how we talk about epic, think about how audiences engaged with the poetry in…",
+      "body": "One of the many questions about Homeric poetry that interests me is its engagement with other genres. There are some basic assumptions about how epic works in relation to other kinds of poetry that can restrict how we talk about epic, think about how audiences engaged with the poetry in performance, and how it influenced … Continue reading Priority Traps and Generic Fallacies: Thinking about Homer as the Borg",
+      "image": {
+        "src": "data/images/479a5dd13443590f.jpg",
+        "alt": "Priority Traps and Generic Fallacies: Thinking about Homer as the Borg",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/10/03/priority-traps-and-generic-fallacies-thinking-about-homer-as-the-borg/",
+        "trustTier": "community",
+        "author": "Joel",
+        "date": "Sat, 03 Oct 2026 12:37:1"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:27.089Z",
+      "hash": "f1fc0a2d227e4492"
+    },
+    {
+      "id": "article:77d3bfba0e2319f0",
+      "type": "article",
+      "title": "High Shoals Falls in Hiawassee, Georgia",
+      "summary": "High Shoals Falls is a secluded waterfall. To get there you must access the trailhead on Indian Grave Gap Rd in Hiawassee, Ga. The drive up the mountain is exhilarating. Once you reach the trailhead, you begin descending the mountain. The trail leads you down into a small valley with beautiful…",
+      "body": "High Shoals Falls is a secluded waterfall. To get there you must access the trailhead on Indian Grave Gap Rd in Hiawassee, Ga. The drive up the mountain is exhilarating. Once you reach the trailhead, you begin descending the mountain. The trail leads you down into a small valley with beautiful scenery and several back country campsites. There are two waterfalls on the trail. The first one is Blue Hole Falls, the smaller of the two. The trail ends at High Shoals Falls where there is a boardwalk to view the falls from. The hike is a moderately challenging 2.4 miles round trip and worth every…",
+      "image": {
+        "src": "data/images/07eaa93937427ab4.jpg",
+        "alt": "High Shoals Falls in Hiawassee, Georgia",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/high-shoals-falls",
+        "trustTier": "publication",
+        "date": "Fri, 09 Oct 2026 14:00:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history",
+        "hiking",
+        "trails",
+        "waterfalls"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:26.968Z",
+      "hash": "77d3bfba0e2319f0"
+    },
+    {
+      "id": "article:8ac970557b2958e0",
+      "type": "article",
+      "title": "Why We Shouldn’t Cancel the Supreme Court",
+      "summary": "There is a radical movement rising in the U.S. with chilling parallels to the French Revolution.",
+      "body": "There is a radical movement rising in the U.S. with chilling parallels to the French Revolution.",
+      "image": {
+        "src": "data/images/0a3aa17ef35866ff.jpg",
+        "alt": "Why We Shouldn’t Cancel the Supreme Court",
+        "credit": "Imprimis"
+      },
+      "source": {
+        "name": "Imprimis",
+        "url": "https://imprimis.hillsdale.edu/why-we-shouldnt-cancel-the-supreme-court/",
+        "trustTier": "publication",
+        "author": "Jonathan Turley",
+        "date": "Tue, 01 Sep 2026 18:23:1"
+      },
+      "tags": [
+        "ideas",
+        "liberty",
+        "lecture",
+        "american liberalism",
+        "conservatism",
+        "government",
+        "history",
+        "law"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:26.240Z",
+      "hash": "8ac970557b2958e0"
+    },
+    {
+      "id": "article:adc4fef9f5baf79f",
+      "type": "article",
+      "title": "What should I ask Fuchsia Dunlop?",
+      "summary": "Yes I will be doing a fourth (!) Conversation with her, based in part on her forthcoming book Five Tastes: Delicious Recipes for Chinese Flavors. I am sure it is excellent, and will read it very soon. Her works are not just great cookbooks, they are among the best books period. Here are my…",
+      "body": "Yes I will be doing a fourth (!) Conversation with her, based in part on her forthcoming book Five Tastes: Delicious Recipes for Chinese Flavors. I am sure it is excellent, and will read it very soon. Her works are not just great cookbooks, they are among the best books period. Here are my previous […] The post What should I ask Fuchsia Dunlop? appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-fuchsia-dunlop-2",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Sun, 11 Oct 2026 08:52:4"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "books",
+        "food and drink",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:25.544Z",
+      "hash": "adc4fef9f5baf79f"
+    },
+    {
+      "id": "greek:514725f5fd86f09f",
+      "type": "greek",
+      "title": "ἐγώ",
+      "summary": "ἐγώ — “I” · pronoun",
+      "body": "Note: 1st person singular nominative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%90%CE%B3%CF%8E#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "pronoun",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-11T14:48:23.830Z",
+      "hash": "514725f5fd86f09f"
+    },
+    {
+      "id": "greek:d6ec919479d8a208",
+      "type": "greek",
+      "title": "λέγω",
+      "summary": "λέγω — “I say, speak” · verb",
+      "body": "Note: regular -ω verb; 3sg λέγει\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BB%CE%AD%CE%B3%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:48:23.829Z",
+      "hash": "d6ec919479d8a208"
+    },
+    {
+      "id": "greek:a3fb4baa29941699",
+      "type": "greek",
+      "title": "ἀγαθός",
+      "summary": "ἀγαθός, -ή, -όν — “good” · adjective",
+      "body": "Note: declines like 2-1-2 (masc 2nd / fem 1st / neut 2nd)\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%B1%CE%B8%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "adjective"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:48:23.829Z",
+      "hash": "a3fb4baa29941699"
+    },
+    {
+      "id": "poetry:c8297c925e114719",
+      "type": "poem",
+      "title": "Lines Written in an Album, at Malta",
+      "summary": "As o'er the cold sepulchral stone\n  Some _name_ arrests the passer-by;\nThus, when thou view'st this page alone,\n  May _mine_ attract thy pensive eye!",
+      "body": "As o'er the cold sepulchral stone\n  Some _name_ arrests the passer-by;\nThus, when thou view'st this page alone,\n  May _mine_ attract thy pensive eye!\n\nAnd when by thee that name is read,\n  Perchance in some succeeding year,\nReflect on _me_ as on the _dead_,\n  And think my _Heart_ is buried _here_.",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/Lines%20Written%20in%20an%20Album%2C%20at%20Malta",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:23.828Z",
+      "hash": "c8297c925e114719"
+    },
+    {
+      "id": "poetry:a31b839af6d4b51d",
+      "type": "poem",
+      "title": "Paradise Regained: The Fourth Book",
+      "summary": "Perplexed and troubled at his bad success\nThe Tempter stood, nor had what to reply,\nDiscovered in his fraud, thrown from his hope\nSo oft, and the persuasive rhetoric",
+      "body": "Perplexed and troubled at his bad success\nThe Tempter stood, nor had what to reply,\nDiscovered in his fraud, thrown from his hope\nSo oft, and the persuasive rhetoric\nThat sleeked his tongue, and won so much on Eve,\nSo little here, nay lost.  But Eve was Eve;\nThis far his over-match, who, self-deceived\nAnd rash, beforehand had no better weighed\nThe strength he was to cope with, or his own.\nBut—as a man who had been matchless held\nIn cunning, over-reached where least he thought,\nTo salve his credit, and for very spite,\nStill will be tempting him who foils him still,\nAnd never cease, though to his shame the more;\nOr as a swarm of flies in vintage-time,\nAbout the wine-press where sweet must is poured,\nBeat off, returns as oft with humming sound;\nOr surging waves against a solid rock,\nThough all to shivers dashed, the assault renew,\n(Vain battery!) and in froth or bubbles end—\nSo Satan, whom repulse upon repulse\nMet ever, and to shameful silence brought,\nYet gives not o'er, though desperate of success,\nAnd his vain importunity pursues.\nHe brought our Saviour to the western side\nOf that high mountain, whence he might behold\nAnother plain, long, but in breadth not wide,\nWashed by the southern sea, and on the north\nTo equal length backed with a ridge of hills\nThat screened the fruits of the earth and seats of men\nFrom cold Septentrion blasts; thence in the midst\nDivided by a river, off whose banks\nOn each side an Imperial City stood,\nWith towers and temples proudly elevate\nOn seven small hills, with palaces adorned,\nPorches and theatres, baths, aqueducts,\nStatues and trophies, and triumphal arcs,\nGardens and groves, presented to his eyes\nAbove the highth of mountains interposed—\nBy what strange parallax, or optic skill\nOf vision, multiplied through air, or glass\nOf telescope, were curious to enquire.\nAnd now the Tempter thus his silence broke:—\n  \"The city which thou seest no other deem\nThan great and glorious Rome, Queen of the Earth\nSo far renowned, and with the spoils enriched\nOf nations.  There the Capitol thou seest,\nAbove the rest lifting his stately head\nOn the Tarpeian rock, her citadel\nImpregnable; and there Mount Palatine,\nThe imperial palace, compass huge, and high\nThe structure, skill of noblest architects,\nWith gilded battlements, conspicuous far,\nTurrets, and terraces, and glittering spires.\nMany a fair edifice besides, more like\nHouses of gods—so well I have disposed\nMy aerie microscope—thou may'st behold,\nOutside and inside both, pillars and roofs\nCarved work, the hand of famed artificers\nIn cedar, marble, ivory, or gold.\nThence to the gates cast round thine eye, and see\nWhat conflux issuing forth, or entering in:\nPraetors, proconsuls to their provinces\nHasting, or on return, in robes of state;\nLictors and rods, the ensigns of their power;\nLegions and cohorts, turms of horse and wings;\nOr embassies from regions far remote,\nIn various habits, on the Appian road,\nOr on the AEmilian—some from farthest south,\nSyene, and where the shadow both way falls,\nMeroe, Nilotic isle, and, more to west,\nThe realm of Bocchus to the Blackmoor sea;\nFrom the Asian kings (and Parthian among these),\nFrom India and the Golden Chersoness,\nAnd utmost Indian isle Taprobane,\nDusk faces with white silken turbants wreathed;\nFrom Gallia, Gades, and the British west;\nGermans, and Scythians, and Sarmatians north\nBeyond Danubius to the Tauric pool.\nAll nations now to Rome obedience pay—\nTo Rome's great Emperor, whose wide domain,\nIn ample territory, wealth and power,\nCivility of manners, arts and arms,\nAnd long renown, thou justly may'st prefer\nBefore the Parthian.  These two thrones except,\nThe rest are barbarous, and scarce worth the sight,\nShared among petty kings too far removed;\nThese having shewn thee, I have shewn thee all\nThe kingdoms of the world, and all their glory.\nThis Emperor hath no son, and now is old,\nOld and lascivious, and from Rome retired\nTo Capreae, an island small but strong\nOn the Campanian shore, with purpose there\nHis horrid lusts in private to enjoy;\nCommitting to a wicked favourite\nAll public cares, and yet of him suspicious;\nHated of all, and hating.  With what ease,\nEndued with regal virtues as thou art,\nAppearing, and beginning noble deeds,\nMight'st thou expel this monster from his throne,\nNow made a sty, and, in his place ascending,\nA victor-people free from servile yoke!\nAnd with my help thou may'st; to me the power\nIs given, and by that right I give it thee.\nAim, therefore, at no less than all the world;\nAim at the highest; without the highest attained,\nWill be for thee no sitting, or not long,\nOn David's throne, be prophesied what will.\"\n  To whom the Son of God, unmoved, replied:—\n\"Nor doth this grandeur and majestic shew\nOf luxury, though called magnificence,\nMore than of arms before, allure mine eye,\nMuch less my mind; though thou should'st add to tell\nTheir sumptuous gluttonies, and gorgeous feasts\nOn citron tables or Atlantic stone\n(For I have also heard, perhaps have read),\nTheir wines of Setia, Cales, and Falerne,\nChios and Crete, and how they quaff in gold,\nCrystal, and myrrhine cups, imbossed with gems\nAnd studs of pearl—to me should'st tell, who thirst\nAnd hunger still.  Then embassies thou shew'st\nFrom nations far and nigh!  What honour that,\nBut tedious waste of time, to sit and hear\nSo many hollow compliments and lies,\nOutlandish flatteries?  Then proceed'st to talk\nOf the Emperor, how easily subdued,\nHow gloriously.  I shall, thou say'st, expel\nA brutish monster: what if I withal\nExpel a Devil who first made him such?\nLet his tormentor, Conscience, find him out;\nFor him I was not sent, nor yet to free\nThat people, victor once, now vile and base,\nDeservedly made vassal—who, once just,\nFrugal, and mild, and temperate, conquered well,\nBut govern ill the nations under yoke,\nPeeling their provinces, exhausted all\nBy lust and rapine; first ambitious grown\nOf triumph, that insulting vanity;\nThen cruel, by their sports to blood inured\nOf fighting beasts, and men to beasts exposed;\nLuxurious by their wealth, and greedier still,\nAnd from the daily Scene effeminate.\nWhat wise and valiant man would seek to free\nThese, thus degenerate, by themselves enslaved,\nOr could of inward slaves make outward free?\nKnow, therefore, when my season comes to sit\nOn David's throne, it shall be like a tree\nSpreading and overshadowing all the earth,\nOr as a stone that shall to pieces dash\nAll monarchies besides throughout the world;\nAnd of my Kingdom there shall be no end.\nMeans there shall be to this; but what the means\nIs not for thee to know, nor me to tell.\"\n  To whom the Tempter, impudent, replied:—\n\"I see all offers made by me how slight\nThou valuest, because offered, and reject'st.\nNothing will please the difficult and nice,\nOr nothing more than still to contradict.\nOn the other side know also thou that I\nOn what I offer set as high esteem,\nNor what I part with mean to give for naught,\nAll these, which in a moment thou behold'st,\nThe kingdoms of the world, to thee I give\n(For, given to me, I give to whom I please),\nNo trifle; yet with this reserve, not else—\nOn this condition, if thou wilt fall down,\nAnd worship me as thy superior Lord\n(Easily done), and hold them all of me;\nFor what can less so great a gift deserve?\"\n  Whom thus our Saviour answered with disdain:—\n\"I never liked thy talk, thy offers less;\nNow both abhor, since thou hast dared to utter\nThe abominable terms, impious condition.\nBut I endure the time, till which expired\nThou hast permission on me.  It is written,\nThe first of all commandments, 'Thou shalt worship\nThe Lord thy God, and only Him shalt serve.'\nAnd dar'st thou to the Son of God propound\nTo worship thee, accursed? now more accursed\nFor this attempt, bolder than that on Eve,\nAnd more blasphemous; which expect to rue.\nThe kingdoms of the world to thee were given!\nPermitted rather, and by thee usurped;\nOther donation none thou canst produce.\nIf given, by whom but by the King of kings,\nGod over all supreme?  If given to thee,\nBy thee how fairly is the Giver now\nRepaid!  But gratitude in thee is lost\nLong since.  Wert thou so void of fear or shame\nAs offer them to me, the Son of God—\nTo me my own, on such abhorred pact,\nThat I fall down and worship thee as God?\nGet thee behind me!  Plain thou now appear'st\nThat Evil One, Satan for ever damned.\"\n  To whom the Fiend, with fear abashed, replied:—\n\"Be not so sore offended, Son of God—\nThough Sons of God both Angels are and Men—\nIf I, to try whether in higher sort\nThan these thou bear'st that title, have proposed\nWhat both from Men and Angels I receive,\nTetrarchs of Fire, Air, Flood, and on the Earth\nNations besides from all the quartered winds—\nGod of this World invoked, and World beneath.\nWho then thou art, whose coming is foretold\nTo me most fatal, me it most concerns.\nThe trial hath indamaged thee no way,\nRather more honour left and more esteem;\nMe naught advantaged, missing what I aimed.\nTherefore let pass, as they are transitory,\nThe kingdoms of this world; I shall no more\nAdvise thee; gain them as thou canst, or not.\nAnd thou thyself seem'st otherwise inclined\nThan to a worldly crown, addicted more\nTo contemplation and profound dispute;\nAs by that early action may be judged,\nWhen, slipping from thy mother's eye, thou went'st\nAlone into the Temple, there wast found\nAmong the gravest Rabbies, disputant\nOn points and questions fitting Moses' chair,\nTeaching, not taught.  The childhood shews the man,\nAs morning shews the day.  Be famous, then,\nBy wisdom; as thy empire must extend,\nSo let extend thy mind o'er all the world\nIn knowledge; all things in it comprehend.\nAll knowledge is not couched in Moses' law,\nThe Pentateuch, or what the Prophets wrote;\nThe Gentiles also know, and write, and teach\nTo admiration, led by Nature's light;\nAnd with the Gentiles much thou must converse,\nRuling them by persuasion, as thou mean'st.\nWithout their learning, how wilt thou with them,\nOr they with thee, hold conversation meet?\nHow wilt thou reason with them, how refute\nTheir idolisms, traditions, paradoxes?\nError by his own arms is best evinced.\nLook once more, ere we leave this specular mount,\nWestward, much nearer by south-west; behold\nWhere on the AEgean shore a city stands,\nBuilt nobly, pure the air and light the soil—\nAthens, the eye of Greece, mother of arts\nAnd Eloquence, native to famous wits\nOr hospitable, in her sweet recess,\nCity or suburban, studious walks and shades.\nSee there the olive-grove of Academe,\nPlato's retirement, where the Attic bird\nTrills her thick-warbled notes the summer long;\nThere, flowery hill, Hymettus, with the sound\nOf bees' industrious murmur, oft invites\nTo studious musing; there Ilissus rowls\nHis whispering stream.  Within the walls then view\nThe schools of ancient sages—his who bred\nGreat Alexander to subdue the world,\nLyceum there; and painted Stoa next.\nThere thou shalt hear and learn the secret power\nOf harmony, in tones and numbers hit\nBy voice or hand, and various-measured verse,\nAEolian charms and Dorian lyric odes,\nAnd his who gave them breath, but higher sung,\nBlind Melesigenes, thence Homer called,\nWhose poem Phoebus challenged for his own.\nThence what the lofty grave Tragedians taught\nIn chorus or iambic, teachers best\nOf moral prudence, with delight received\nIn brief sententious precepts, while they treat\nOf fate, and chance, and change in human life,\nHigh actions and high passions best describing.\nThence to the famous Orators repair,\nThose ancient whose resistless eloquence\nWielded at will that fierce democraty,\nShook the Arsenal, and fulmined over Greece\nTo Macedon and Artaxerxes' throne.\nTo sage Philosophy next lend thine ear,\nFrom heaven descended to the low-roofed house\nOf Socrates—see there his tenement—\nWhom, well inspired, the Oracle pronounced\nWisest of men; from whose mouth issued forth\nMellifluous streams, that watered all the schools\nOf Academics old and new, with those\nSurnamed Peripatetics, and the sect\nEpicurean, and the Stoic severe.\nThese here revolve, or, as thou likest, at home,\nTill time mature thee to a kingdom's weight;\nThese rules will render thee a king complete\nWithin thyself, much more with empire joined.\"\n  To whom our Saviour sagely thus replied:—\n\"Think not but that I know these things; or, think\nI know them not, not therefore am I short\nOf knowing what I ought.  He who receives\nLight from above, from the Fountain of Light,\nNo other doctrine needs, though granted true;\nBut these are false, or little else but dreams,\nConjectures, fancies, built on nothing firm.\nThe first and wisest of them all professed\nTo know this only, that he nothing knew;\nThe next to fabling fell and smooth conceits;\nA third sort doubted all things, though plain sense;\nOthers in virtue placed felicity,\nBut virtue joined with riches and long life;\nIn corporal pleasure he, and careless ease;\nThe Stoic last in philosophic pride,\nBy him called virtue, and his virtuous man,\nWise, perfect in himself, and all possessing,\nEqual to God, oft shames not to prefer,\nAs fearing God nor man, contemning all\nWealth, pleasure, pain or torment, death and life—\nWhich, when he lists, he leaves, or boasts he can;\nFor all his tedious talk is but vain boast,\nOr subtle shifts conviction to evade.\nAlas! what can they teach, and not mislead,\nIgnorant of themselves, of God much more,\nAnd how the World began, and how Man fell,\nDegraded by himself, on grace depending?\nMuch of the Soul they talk, but all awry;\nAnd in themselves seek virtue; and to themselves\nAll glory arrogate, to God give none;\nRather accuse him under usual names,\nFortune and Fate, as one regardless quite\nOf mortal things.  Who, therefore, seeks in these\nTrue wisdom finds her not, or, by delusion\nFar worse, her false resemblance only meets,\nAn empty cloud.  However, many books,\nWise men have said, are wearisome; who reads\nIncessantly, and to his reading brings not\nA spirit and judgment equal or superior,\n(And what he brings what needs he elsewhere seek?)\nUncertain and unsettled still remains,\nDeep-versed in books and shallow in himself,\nCrude or intoxicate, collecting toys\nAnd trifles for choice matters, worth a sponge,\nAs children gathering pebbles on the shore.\nOr, if I would delight my private hours\nWith music or with poem, where so soon\nAs in our native language can I find\nThat solace?  All our Law and Story strewed\nWith hymns, our Psalms with artful terms inscribed,\nOur Hebrew songs and harps, in Babylon\nThat pleased so well our victor's ear, declare\nThat rather Greece from us these arts derived—\nIll imitated while they loudest sing\nThe vices of their deities, and their own,\nIn fable, hymn, or song, so personating\nTheir gods ridiculous, and themselves past shame.\nRemove their swelling epithetes, thick-laid\nAs varnish on a harlot's cheek, the rest,\nThin-sown with aught of profit or delight,\nWill far be found unworthy to compare\nWith Sion's songs, to all true tastes excelling,\nWhere God is praised aright and godlike men,\nThe Holiest of Holies and his Saints\n(Such are from God inspired, not such from thee);\nUnless where moral virtue is expressed\nBy light of Nature, not in all quite lost.\nTheir orators thou then extoll'st as those\nThe top of eloquence—statists indeed,\nAnd lovers of their country, as may seem;\nBut herein to our Prophets far beneath,\nAs men divinely taught, and better teaching\nThe solid rules of civil government,\nIn their majestic, unaffected style,\nThan all the oratory of Greece and Rome.\nIn them is plainest taught, and easiest learnt,\nWhat makes a nation happy, and keeps it so,\nWhat ruins kingdoms, and lays cities flat;\nThese only, with our Law, best form a king.\"\n  So spake the Son of God; but Satan, now\nQuite at a loss (for all his darts were spent),\nThus to our Saviour, with stern brow, replied:—\n  \"Since neither wealth nor honour, arms nor arts,\nKingdom nor empire, pleases thee, nor aught\nBy me proposed in life contemplative\nOr active, tended on by glory or fame,\nWhat dost thou in this world?  The Wilderness\nFor thee is fittest place: I found thee there,\nAnd thither will return thee.  Yet remember\nWhat I foretell thee; soon thou shalt have cause\nTo wish thou never hadst rejected, thus\nNicely or cautiously, my offered aid,\nWhich would have set thee in short time with ease\nOn David's throne, or throne of all the world,\nNow at full age, fulness of time, thy season,\nWhen prophecies of thee are best fulfilled.\nNow, contrary—if I read aught in heaven,\nOr heaven write aught of fate—by what the stars\nVoluminous, or single characters\nIn their conjunction met, give me to spell,\nSorrows and labours, opposition, hate,\nAttends thee; scorns, reproaches, injuries,\nViolence and stripes, and, lastly, cruel death.\nA kingdom they portend thee, but what kingdom,\nReal or allegoric, I discern not;\nNor when: eternal sure—as without end,\nWithout beginning; for no date prefixed\nDirects me in the starry rubric set.\"\n  So saying, he took (for still he knew his power\nNot yet expired), and to the Wilderness\nBrought back, the Son of God, and left him there,\nFeigning to disappear.  Darkness now rose,\nAs daylight sunk, and brought in louring Night,\nHer shadowy offspring, unsubstantial both,\nPrivation mere of light and absent day.\nOur Saviour, meek, and with untroubled mind\nAfter hisaerie jaunt, though hurried sore,\nHungry and cold, betook him to his rest,\nWherever, under some concourse of shades,\nWhose branching arms thick intertwined might shield\nFrom dews and damps of night his sheltered head;\nBut, sheltered, slept in vain; for at his head\nThe Tempter watched, and soon with ugly dreams\nDisturbed his sleep.  And either tropic now\n'Gan thunder, and both ends of heaven; the clouds\nFrom many a horrid rift abortive poured\nFierce rain with lightning mixed, water with fire,\nIn ruin reconciled; nor slept the winds\nWithin their stony caves, but rushed abroad\nFrom the four hinges of the world, and fell\nOn the vexed wilderness, whose tallest pines,\nThough rooted deep as high, and sturdiest oaks,\nBowed their stiff necks, loaden with stormy blasts,\nOr torn up sheer.  Ill wast thou shrouded then,\nO patient Son of God, yet only stood'st\nUnshaken!  Nor yet staid the terror there:\nInfernal ghosts and hellish furies round\nEnvironed thee; some howled, some yelled, some shrieked,\nSome bent at thee their fiery darts, while thou\nSat'st unappalled in calm and sinless peace.\nThus passed the night so foul, till Morning fair\nCame forth with pilgrim steps, in amice grey,\nWho with her radiant finger stilled the roar\nOf thunder, chased the clouds, and laid the winds,\nAnd griesly spectres, which the Fiend had raised\nTo tempt the Son of God with terrors dire.\nAnd now the sun with more effectual beams\nHad cheered the face of earth, and dried the wet\nFrom drooping plant, or dropping tree; the birds,\nWho all things now behold more fresh and green,\nAfter a night of storm so ruinous,\nCleared up their choicest notes in bush and spray,\nTo gratulate the sweet return of morn.\nNor yet, amidst this joy and brightest morn,\nWas absent, after all his mischief done,\nThe Prince of Darkness; glad would also seem\nOf this fair change, and to our Saviour came;\nYet with no new device (they all were spent),\nRather by this his last affront resolved,\nDesperate of better course, to vent his rage\nAnd mad despite to be so oft repelled.\nHim walking on a sunny hill he found,\nBacked on the north and west by a thick wood;\nOut of the wood he starts in wonted shape,\nAnd in a careless mood thus to him said:—\n  \"Fair morning yet betides thee, Son of God,\nAfter a dismal night.  I heard the wrack,\nAs earth and sky would mingle; but myself\nWas distant; and these flaws, though mortals fear them,\nAs dangerous to the pillared frame of Heaven,\nOr to the Earth's dark basis underneath,\nAre to the main as inconsiderable\nAnd harmless, if not wholesome, as a sneeze\nTo man's less universe, and soon are gone.\nYet, as being ofttimes noxious where they light\nOn man, beast, plant, wasteful and turbulent,\nLike turbulencies in the affairs of men,\nOver whose heads they roar, and seem to point,\nThey oft fore-signify and threaten ill.\nThis tempest at this desert most was bent;\nOf men at thee, for only thou here dwell'st.\nDid I not tell thee, if thou didst reject\nThe perfect season offered with my aid\nTo win thy destined seat, but wilt prolong\nAll to the push of fate, pursue thy way\nOf gaining David's throne no man knows when\n(For both the when and how is nowhere told),\nThou shalt be what thou art ordained, no doubt;\nFor Angels have proclaimed it, but concealing\nThe time and means?  Each act is rightliest done\nNot when it must, but when it may be best.\nIf thou observe not this, be sure to find\nWhat I foretold thee—many a hard assay\nOf dangers, and adversities, and pains,\nEre thou of Israel's sceptre get fast hold;\nWhereof this ominous night that closed thee round,\nSo many terrors, voices, prodigies,\nMay warn thee, as a sure foregoing sign.\"\n  So talked he, while the Son of God went on,\nAnd staid not, but in brief him answered thus:—\n  \"Me worse than wet thou find'st not; other harm\nThose terrors which thou speak'st of did me none.\nI never feared they could, though noising loud\nAnd threatening nigh: what they can do as signs\nBetokening or ill-boding I contemn\nAs false portents, not sent from God, but thee;\nWho, knowing I shall reign past thy preventing,\nObtrud'st thy offered aid, that I, accepting,\nAt least might seem to hold all power of thee,\nAmbitious Spirit! and would'st be thought my God;\nAnd storm'st, refused, thinking to terrify\nMe to thy will!  Desist (thou art discerned,\nAnd toil'st in vain), nor me in vain molest.\"\n  To whom the Fiend, now swoln with rage, replied:—\n\"Then hear, O Son of David, virgin-born!\nFor Son of God to me is yet in doubt.\nOf the Messiah I have heard foretold\nBy all the Prophets; of thy birth, at length\nAnnounced by Gabriel, with the first I knew,\nAnd of the angelic song in Bethlehem field,\nOn thy birth-night, that sung thee Saviour born.\nFrom that time seldom have I ceased to eye\nThy infancy, thy childhood, and thy youth,\nThy manhood last, though yet in private bred;\nTill, at the ford of Jordan, whither all\nFlocked to the Baptist, I among the rest\n(Though not to be baptized), by voice from Heaven\nHeard thee pronounced the Son of God beloved.\nThenceforth I thought thee worth my nearer view\nAnd narrower scrutiny, that I might learn\nIn what degree or meaning thou art called\nThe Son of God, which bears no single sense.\nThe Son of God I also am, or was;\nAnd, if I was, I am; relation stands:\nAll men are Sons of God; yet thee I thought\nIn some respect far higher so declared.\nTherefore I watched thy footsteps from that hour,\nAnd followed thee still on to this waste wild,\nWhere, by all best conjectures, I collect\nThou art to be my fatal enemy.\nGood reason, then, if I beforehand seek\nTo understand my adversary, who\nAnd what he is; his wisdom, power, intent;\nBy parle or composition, truce or league,\nTo win him, or win from him what I can.\nAnd opportunity I here have had\nTo try thee, sift thee, and confess have found thee\nProof against all temptation, as a rock\nOf adamant and as a centre, firm\nTo the utmost of mere man both wise and good,\nNot more; for honours, riches, kingdoms, glory,\nHave been before contemned, and may again.\nTherefore, to know what more thou art than man,\nWorth naming the Son of God by voice from Heaven,\nAnother method I must now begin.\"\n  So saying, he caught him up, and, without wing\nOf hippogrif, bore through the air sublime,\nOver the wilderness and o'er the plain,\nTill underneath them fair Jerusalem,\nThe Holy City, lifted high her towers,\nAnd higher yet the glorious Temple reared\nHer pile, far off appearing like a mount\nOf alablaster, topt with golden spires:\nThere, on the highest pinnacle, he set\nThe Son of God, and added thus in scorn:—\n  \"There stand, if thou wilt stand; to stand upright\nWill ask thee skill.  I to thy Father's house\nHave brought thee, and highest placed: highest is best.\nNow shew thy progeny; if not to stand,\nCast thyself down.  Safely, if Son of God;\nFor it is written, 'He will give command\nConcerning thee to his Angels; in their hands\nThey shall uplift thee, lest at any time\nThou chance to dash thy foot against a stone.'\"\n  To whom thus Jesus: \"Also it is written,\n'Tempt not the Lord thy God.'\"  He said, and stood;\nBut Satan, smitten with amazement, fell.\nAs when Earth's son, Antaeus (to compare\nSmall things with greatest), in Irassa strove\nWith Jove's Alcides, and, oft foiled, still rose,\nReceiving from his mother Earth new strength,\nFresh from his fall, and fiercer grapple joined,\nThrottled at length in the air expired and fell,\nSo, after many a foil, the Tempter proud,\nRenewing fresh assaults, amidst his pride\nFell whence he stood to see his victor fall;\nAnd, as that Theban monster that proposed\nHer riddle, and him who solved it not devoured,\nThat once found out and solved, for grief and spite\nCast herself headlong from the Ismenian steep,\nSo, strook with dread and anguish, fell the Fiend,\nAnd to his crew, that sat consulting, brought\nJoyless triumphals of his hoped success,\nRuin, and desperation, and dismay,\nWho durst so proudly tempt the Son of God.\nSo Satan fell; and straight a fiery globe\nOf Angels on full sail of wing flew nigh,\nWho on their plumy vans received Him soft\nFrom his uneasy station, and upbore,\nAs on a floating couch, through the blithe air;\nThen, in a flowery valley, set him down\nOn a green bank, and set before him spread\nA table of celestial food, divine\nAmbrosial fruits fetched from the Tree of Life,\nAnd from the Fount of Life ambrosial drink,\nThat soon refreshed him wearied, and repaired\nWhat hunger, if aught hunger, had impaired,\nOr thirst; and, as he fed, Angelic quires\nSung heavenly anthems of his victory\nOver temptation and the Tempter proud:—\n  \"True Image of the Father, whether throned\nIn the bosom of bliss, and light of light\nConceiving, or, remote from Heaven, enshrined\nIn fleshly tabernacle and human form,\nWandering the wilderness—whatever place,\nHabit, or state, or motion, still expressing\nThe Son of God, with Godlike force endued\nAgainst the attempter of thy Father's throne\nAnd thief of Paradise!  Him long of old\nThou didst debel, and down from Heaven cast\nWith all his army; now thou hast avenged\nSupplanted Adam, and, by vanquishing\nTemptation, hast regained lost Paradise,\nAnd frustrated the conquest fraudulent.\nHe never more henceforth will dare set foot\nIn paradise to tempt; his snares are broke.\nFor, though that seat of earthly bliss be failed,\nA fairer Paradise is founded now\nFor Adam and his chosen sons, whom thou,\nA Saviour, art come down to reinstall;\nWhere they shall dwell secure, when time shall be,\nOf tempter and temptation without fear.\nBut thou, Infernal Serpent! shalt not long\nRule in the clouds.  Like an autumnal star,\nOr lightning, thou shalt fall from Heaven, trod down\nUnder his feet.  For proof, ere this thou feel'st\nThy wound (yet not thy last and deadliest wound)\nBy this repulse received, and hold'st in Hell\nNo triumph; in all her gates Abaddon rues\nThy bold attempt.  Hereafter learn with awe\nTo dread the Son of God.  He, all unarmed,\nShall chase thee, with the terror of his voice,\nFrom thy demoniac holds, possession foul—\nThee and thy legions; yelling they shall fly,\nAnd beg to hide them in a herd of swine,\nLest he command them down into the Deep,\nBound, and to torment sent before their time.\nHail, Son of the Most High, heir of both Worlds,\nQueller of Satan!  On thy glorious work\nNow enter, and begin to save Mankind.\"\n  Thus they the Son of God, our Saviour meek,\nSung victor, and, from heavenly feast refreshed,\nBrought on his way with joy.  He, unobserved,\nHome to his mother's house private returned.\n\nTHE END",
+      "source": {
+        "name": "John Milton · PoetryDB",
+        "url": "https://poetrydb.org/title/Paradise%20Regained%3A%20The%20Fourth%20Book",
+        "trustTier": "community",
+        "author": "John Milton"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-11T14:48:23.828Z",
+      "hash": "a31b839af6d4b51d"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399986996-1",
+      "type": "art",
+      "title": "Textile",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1920s · Textiles",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1920s · Textiles",
+      "image": {
+        "src": "data/images/c3221064bde8bd0e.jpg",
+        "alt": "Textile",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/288399",
+        "trustTier": "encyclopedic",
+        "date": "1920s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "textile",
+        "textiles"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-11T14:48:22.786Z",
+      "hash": "6d409fcc2920ff85"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399893546-1",
+      "type": "art",
+      "title": "Textile",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1920s · Textiles",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1920s · Textiles",
+      "image": {
+        "src": "data/images/6bfbea086a73161e.jpg",
+        "alt": "Textile",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/20819",
+        "trustTier": "encyclopedic",
+        "date": "1920s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "textile",
+        "textiles"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-11T14:48:22.786Z",
+      "hash": "160408fe473c637c"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399986984-1",
+      "type": "art",
+      "title": "Textile",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1890s · Textiles",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1890s · Textiles",
+      "image": {
+        "src": "data/images/fd877c3797a86f91.jpg",
+        "alt": "Textile",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/288376",
+        "trustTier": "encyclopedic",
+        "date": "1890s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "textile",
+        "textiles"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-11T14:48:22.786Z",
+      "hash": "aab5c7026dea8b73"
+    },
+    {
+      "id": "onthisday:10-11:1973:cc1c27f9beac6319",
+      "type": "history",
+      "title": "1973: Typhoon Nora (1973)",
+      "summary": "Typhoon Nora, the fourth-most intense tropical cyclone on record, dissipated after killing 40 people and leaving more than a million homeless across Taiwan and the Philippines.",
+      "body": "Typhoon Nora, the fourth-most intense tropical cyclone on record, dissipated after killing 40 people and leaving more than a million homeless across Taiwan and the Philippines.",
+      "image": {
+        "src": "data/images/79d982a1a0fff096.png",
+        "alt": "Typhoon Nora (1973)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Typhoon_Nora_(1973)",
+        "trustTier": "encyclopedic",
+        "date": "10-11"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:46:59.887Z",
+      "hash": "91ccefec92833694",
+      "expires": "2026-10-14T14:46:59.887Z"
+    },
+    {
+      "id": "onthisday:10-11:1968:0c709a5d404b83dd",
+      "type": "history",
+      "title": "1968: Apollo 7",
+      "summary": "Apollo 7, the first manned mission of NASA's Apollo program, and the first three-man American space mission, launched from Complex 34 in Cape Kennedy, Florida.",
+      "body": "Apollo 7, the first manned mission of NASA's Apollo program, and the first three-man American space mission, launched from Complex 34 in Cape Kennedy, Florida.",
+      "image": {
+        "src": "data/images/f48be0070b8cc82a.jpg",
+        "alt": "Apollo 7",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Apollo_7",
+        "trustTier": "encyclopedic",
+        "date": "10-11"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:46:59.887Z",
+      "hash": "02ce065438763122",
+      "expires": "2026-10-14T14:46:59.887Z"
+    },
+    {
+      "id": "onthisday:10-11:1984:73a05eb178a0fc05",
+      "type": "history",
+      "title": "1984: Space Shuttle Challenger",
+      "summary": "Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan (pictured) became the first American woman to perform a space walk.",
+      "body": "Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan (pictured) became the first American woman to perform a space walk.",
+      "image": {
+        "src": "data/images/348e52db9423c277.jpg",
+        "alt": "Space Shuttle Challenger",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+        "trustTier": "encyclopedic",
+        "date": "10-11"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:46:59.887Z",
+      "hash": "e5d062bf8f28b311",
+      "expires": "2026-10-14T14:46:59.887Z"
+    },
+    {
+      "id": "wikipedia:76571124",
+      "type": "wiki",
+      "title": "Lucifer (soundtrack)",
+      "summary": "Lucifer is the soundtrack album to the 2019 Indian Malayalam-language political action thriller film of the same name directed by Prithviraj Sukumaran, produced by Antony Perumbavoor under Aashirvad Cinemas, starring Mohanlal. The soundtrack featured five songs composed by Deepak Dev and lyrics written by Tanishk…",
+      "body": "Lucifer is the soundtrack album to the 2019 Indian Malayalam-language political action thriller film of the same name directed by Prithviraj Sukumaran, produced by Antony Perumbavoor under Aashirvad Cinemas, starring Mohanlal. The soundtrack featured five songs composed by Deepak Dev and lyrics written by Tanishk Nabar, Logan, Amsi Narayanapilla, Murali Gopy and Usha Uthup. The songs were performed by Jyotsna Radhakrishnan, Karthik, Baradwaj, Gopy and Uthup.",
+      "image": {
+        "src": "data/images/a3f58c03d8cc06c9.jpg",
+        "alt": "Lucifer (soundtrack)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lucifer_(soundtrack)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:46:59.876Z",
+      "hash": "daa6b253199e9b42"
+    },
+    {
+      "id": "wikipedia:77751535",
+      "type": "wiki",
+      "title": "Viliam Žingor",
+      "summary": "Viliam Žingor was a Slovak partisan, one of the leaders of the Slovak National Uprising.",
+      "body": "Viliam Žingor was a Slovak partisan, one of the leaders of the Slovak National Uprising.",
+      "image": {
+        "src": "data/images/9f90bbb975a3777d.png",
+        "alt": "Viliam Žingor",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Viliam_%C5%BDingor",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:46:59.667Z",
+      "hash": "8f3496d2257d7bee"
+    },
+    {
+      "id": "wikipedia:36966058",
+      "type": "wiki",
+      "title": "Gilbert Licudi",
+      "summary": "The Hon. Gilbert Horace Licudi is a Gibraltarian barrister and legal partner at Hassans and former Minister (2011–2020) and former MP (2007–2023) of Gibraltar, member of the Gibraltar Socialist Labour Party (GSLP). He is married and has two children.",
+      "body": "The Hon. Gilbert Horace Licudi is a Gibraltarian barrister and legal partner at Hassans and former Minister (2011–2020) and former MP (2007–2023) of Gibraltar, member of the Gibraltar Socialist Labour Party (GSLP). He is married and has two children.",
+      "image": {
+        "src": "data/images/ad4a74b95686ef8d.jpg",
+        "alt": "Gilbert Licudi",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gilbert_Licudi",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:46:59.334Z",
+      "hash": "28f3ddb1d14eaa9c"
+    },
+    {
+      "id": "wikipedia:23243456",
+      "type": "wiki",
+      "title": "Rocío de la Mancha",
+      "summary": "Rocío de la Mancha is a 1963 album by the Spanish singer and actress Rocío Dúrcal as the soundtrack album of the 1963 musical comedy film of the same name. Directed by Luis Lucia, the film was Dúrcal's second cinematic appearance and solidified her status as a major mid-century teen idol across Europe and Latin…",
+      "body": "Rocío de la Mancha is a 1963 album by the Spanish singer and actress Rocío Dúrcal as the soundtrack album of the 1963 musical comedy film of the same name. Directed by Luis Lucia, the film was Dúrcal's second cinematic appearance and solidified her status as a major mid-century teen idol across Europe and Latin America.",
+      "image": {
+        "src": "data/images/a37816548d958a67.jpg",
+        "alt": "Rocío de la Mancha",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Roc%C3%ADo_de_la_Mancha",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-11T14:46:57.187Z",
+      "hash": "ee98998d21f1467c"
+    },
     {
       "id": "chess:tgu12",
       "type": "chess",
@@ -11513,926 +12420,6 @@
       "difficulty": 3,
       "fetchedAt": "2026-09-30T14:47:16.078Z",
       "hash": "4865c0092ff68aa3"
-    },
-    {
-      "id": "article:2ad50c634bb693f8",
-      "type": "article",
-      "title": "Mithridatism and the Myth of Poison Immunity",
-      "summary": "ISABELLA ZELTSER From Pontic Pharmaka to Modern Toxicology Continue reading Mithridatism and the Myth of Poison Immunity",
-      "body": "ISABELLA ZELTSER From Pontic Pharmaka to Modern Toxicology Continue reading Mithridatism and the Myth of Poison Immunity",
-      "image": {
-        "src": "data/images/a21c82d1a1d9c506.png",
-        "alt": "Mithridatism and the Myth of Poison Immunity",
-        "credit": "Antigone Journal"
-      },
-      "source": {
-        "name": "Antigone Journal",
-        "url": "https://antigonejournal.com/2026/09/mithridatism-myth-poison-immunity/",
-        "trustTier": "publication",
-        "author": "Antigone",
-        "date": "Sun, 27 Sep 2026 15:43:2"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity",
-        "history",
-        "material culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:15.603Z",
-      "hash": "2ad50c634bb693f8"
-    },
-    {
-      "id": "article:d3bf5ef008a537ae",
-      "type": "article",
-      "title": "David Bowie Answers the Famous Proust Questionnaire",
-      "summary": "\"Q: What do you regard as the lowest depth of misery? A: Living in fear.\"",
-      "body": "\"Q: What do you regard as the lowest depth of misery? A: Living in fear.\"",
-      "image": {
-        "src": "data/images/7be8b5519bca9633.jpg",
-        "alt": "David Bowie Answers the Famous Proust Questionnaire",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/09/29/david-bowie-proust-questionnaire-vanity-fair/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Wed, 30 Sep 2026 03:58:5"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "music",
-        "books",
-        "david bowie",
-        "history",
-        "marcel proust"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:15.560Z",
-      "hash": "d3bf5ef008a537ae"
-    },
-    {
-      "id": "article:8b5fb1969c7238c5",
-      "type": "article",
-      "title": "How Ordinary Israelis Foiled a Hijacking",
-      "summary": "For the first time in 20 years, someone tried to hijack a plane bound for Israel. It was only by the bravery of a handful of passengers and crew that almost 180 lives were saved, writes Amit Segal.",
-      "body": "For the first time in 20 years, someone tried to hijack a plane bound for Israel. It was only by the bravery of a handful of passengers and crew that almost 180 lives were saved, writes Amit Segal.",
-      "image": {
-        "src": "data/images/6a80e4168a90d1e2.jpg",
-        "alt": "How Ordinary Israelis Foiled a Hijacking",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/ordinary-israelis-terrorism-hijacking-attempt",
-        "trustTier": "publication",
-        "author": "Amit Segal",
-        "date": "Wed, 30 Sep 2026 13:23:1"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:15.146Z",
-      "hash": "8b5fb1969c7238c5",
-      "expires": "2026-10-30T14:47:15.146Z"
-    },
-    {
-      "id": "greek:69ec86320445e935",
-      "type": "greek",
-      "title": "ἅγιος",
-      "summary": "ἅγιος, -α, -ον — “holy” · adjective",
-      "body": "Note: declines like 2-1-2; substantive use \"saint, holy one\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%85%CE%B3%CE%B9%CE%BF%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "adjective"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:47:12.618Z",
-      "hash": "69ec86320445e935"
-    },
-    {
-      "id": "greek:df0658eeb68d3dc4",
-      "type": "greek",
-      "title": "πιστεύω",
-      "summary": "πιστεύω — “I believe, trust” · verb",
-      "body": "Note: often with εἰς + acc. (\"believe in\")\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CF%80%CE%B9%CF%83%CF%84%CE%B5%CF%8D%CF%89#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "verb"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:47:12.617Z",
-      "hash": "df0658eeb68d3dc4"
-    },
-    {
-      "id": "poetry:c97fa258d85c4142",
-      "type": "poem",
-      "title": "The Canterbury Tales: The Manciple's Tale",
-      "summary": "THE PROLOGUE.\nWEET ye not where there stands a little town,\nWhich that y-called is Bob-up-and-down,\nUnder the Blee, in Canterbury way?",
-      "body": "THE PROLOGUE.\n\nWEET ye not where there stands a little town,\nWhich that y-called is Bob-up-and-down,\nUnder the Blee, in Canterbury way?\nThere gan our Hoste for to jape and play,\nAnd saide, \"Sirs, what? Dun is in the mire.\nIs there no man, for prayer nor for hire,\nThat will awaken our fellow behind?\nA thief him might full rob and bind\nSee how he nappeth, see, for cocke's bones,\nAs he would falle from his horse at ones.\nIs that a Cook of London, with mischance?\nDo him come forth, he knoweth his penance;\nFor he shall tell a tale, by my fay,\nAlthough it be not worth a bottle hay.\n\nAwake, thou Cook,\" quoth he; \"God give thee sorrow\nWhat aileth thee to sleepe by the morrow?\nHast thou had fleas all night, or art drunk?\nOr had thou with some quean all night y-swunk,\nSo that thou mayest not hold up thine head?\"\nThe Cook, that was full pale and nothing red,\nSaid to Host, \"So God my soule bless,\nAs there is fall'n on me such heaviness,\nI know not why, that me were lever sleep,\nThan the best gallon wine that is in Cheap.\"\n\"Well,\" quoth the Manciple, \"if it may do ease\nTo thee, Sir Cook, and to no wight displease\nWhich that here rideth in this company,\nAnd that our Host will of his courtesy,\nI will as now excuse thee of thy tale;\nFor in good faith thy visage is full pale:\nThine eyen daze, soothly as me thinketh,\nAnd well I wot, thy breath full soure stinketh,\nThat sheweth well thou art not well disposed;\nOf me certain thou shalt not be y-glosed.\nSee how he yawneth, lo, this drunken wight,\nAs though he would us swallow anon right.\nHold close thy mouth, man, by thy father's kin;\nThe devil of helle set his foot therein!\nThy cursed breath infecte will us all:\nFy! stinking swine, fy! foul may thee befall.\nAh! take heed, Sirs, of this lusty man.\nNow, sweete Sir, will ye joust at the fan?\nThereto, me thinketh, ye be well y-shape.\nI trow that ye have drunken wine of ape,\nAnd that is when men playe with a straw.\"\n\nAnd with this speech the Cook waxed all wraw,\nAnd on the Manciple he gan nod fast\nFor lack of speech; and down his horse him cast,\nWhere as he lay, till that men him up took.\nThis was a fair chevachie of a cook:\nAlas! that he had held him by his ladle!\nAnd ere that he again were in the saddle\nThere was great shoving bothe to and fro\nTo lift him up, and muche care and woe,\nSo unwieldy was this silly paled ghost.\nAnd to the Manciple then spake our Host:\n\"Because that drink hath domination\nUpon this man, by my salvation\nI trow he lewedly will tell his tale.\nFor were it wine, or old or moisty ale,\nThat he hath drunk, he speaketh in his nose,\nAnd sneezeth fast, and eke he hath the pose\nHe also hath to do more than enough\nTo keep him on his capel out of the slough;\nAnd if he fall from off his capel eftsoon,\nThen shall we alle have enough to do'n\nIn lifting up his heavy drunken corse.\nTell on thy tale, of him make I no force.\nBut yet, Manciple, in faith thou art too nice\nThus openly to reprove him of his vice;\nAnother day he will paraventure\nReclaime thee, and bring thee to the lure;\nI mean, he speake will of smalle things,\nAs for to pinchen at thy reckonings,\nThat were not honest, if it came to prefe.\"\nQuoth the Manciple, \"That were a great mischief;\nSo might he lightly bring me in the snare.\nYet had I lever paye for the mare\nWhich he rides on, than he should with me strive.\nI will not wrathe him, so may I thrive)\nThat that I spake, I said it in my bourde.\nAnd weet ye what? I have here in my gourd\nA draught of wine, yea, of a ripe grape,\nAnd right anon ye shall see a good jape.\nThis Cook shall drink thereof, if that I may;\nOn pain of my life he will not say nay.\"\nAnd certainly, to tellen as it was,\nOf this vessel the cook drank fast (alas!\nWhat needed it? he drank enough beforn),\nAnd when he hadde pouped in his horn,\nTo the Manciple he took the gourd again.\nAnd of that drink the Cook was wondrous fain,\nAnd thanked him in such wise as he could.\n\nThen gan our Host to laughe wondrous loud,\nAnd said, \"I see well it is necessary\nWhere that we go good drink with us to carry;\nFor that will turne rancour and disease\nT'accord and love, and many a wrong appease.\nO Bacchus, Bacchus, blessed be thy name,\nThat so canst turnen earnest into game!\nWorship and thank be to thy deity.\nOf that mattere ye get no more of me.\nTell on thy tale, Manciple, I thee pray.\"\n\"Well, Sir,\" quoth he, \"now hearken what I say.\"\n\nTHE TALE.\n\nWhen Phoebus dwelled here in earth adown,\nAs olde bookes make mentioun,\nHe was the moste lusty bacheler\nOf all this world, and eke the best archer.\nHe slew Python the serpent, as he lay\nSleeping against the sun upon a day;\nAnd many another noble worthy deed\nHe with his bow wrought, as men maye read.\nPlayen he could on every minstrelsy,\nAnd singe, that it was a melody\nTo hearen of his cleare voice the soun'.\nCertes the king of Thebes, Amphioun,\nThat with his singing walled the city,\nCould never singe half so well as he.\nThereto he was the seemlieste man\nThat is, or was since that the world began;\nWhat needeth it his features to descrive?\nFor in this world is none so fair alive.\nHe was therewith full fill'd of gentleness,\nOf honour, and of perfect worthiness.\n\nThis Phoebus, that was flower of bach'lery,\nAs well in freedom as in chivalry,\nFor his disport, in sign eke of victory\nOf Python, so as telleth us the story,\nWas wont to bearen in his hand a bow.\nNow had this Phoebus in his house a crow,\nWhich in a cage he foster'd many a day,\nAnd taught it speaken, as men teach a jay.\nWhite was this crow, as is a snow-white swan,\nAnd counterfeit the speech of every man\nHe coulde, when he shoulde tell a tale.\nTherewith in all this world no nightingale\nNe coulde by an hundred thousand deal\nSinge so wondrous merrily and well.\nNow had this Phoebus in his house a wife;\nWhich that he loved more than his life.\nAnd night and day did ever his diligence\nHer for to please, and do her reverence:\nSave only, if that I the sooth shall sayn,\nJealous he was, and would have kept her fain.\nFor him were loth y-japed for to be;\nAnd so is every wight in such degree;\nBut all for nought, for it availeth nought.\nA good wife, that is clean of work and thought,\nShould not be kept in none await certain:\nAnd truely the labour is in vain\nTo keep a shrewe, for it will not be.\nThis hold I for a very nicety,\nTo spille labour for to keepe wives;\n\nThus writen olde clerkes in their lives.\nBut now to purpose, as I first began.\nThis worthy Phoebus did all that he can\nTo please her, weening, through such pleasance,\nAnd for his manhood and his governance,\nThat no man should have put him from her grace;\nBut, God it wot, there may no man embrace\nAs to distrain a thing, which that nature\nHath naturally set in a creature.\nTake any bird, and put it in a cage,\nAnd do all thine intent, and thy corage,\nTo foster it tenderly with meat and drink\nOf alle dainties that thou canst bethink,\nAnd keep it all so cleanly as thou may;\nAlthough the cage of gold be never so gay,\nYet had this bird, by twenty thousand fold,\nLever in a forest, both wild and cold,\nGo eate wormes, and such wretchedness.\nFor ever this bird will do his business\nT'escape out of his cage when that he may:\nHis liberty the bird desireth aye.\nLet take a cat, and foster her with milk\nAnd tender flesh, and make her couch of silk,\nAnd let her see a mouse go by the wall,\nAnon she weiveth milk, and flesh, and all,\nAnd every dainty that is in that house,\nSuch appetite hath she to eat the mouse.\nLo, here hath kind her domination,\nAnd appetite flemeth discretion.\nA she-wolf hath also a villain's kind\nThe lewedeste wolf that she may find,\nOr least of reputation, will she take\nIn time when her lust to have a make.\nAll these examples speak I by these men\nThat be untrue, and nothing by women.\nFor men have ever a lik'rous appetite\nOn lower things to perform their delight\nThan on their wives, be they never so fair,\nNever so true, nor so debonair.\nFlesh is so newefangled, with mischance,\nThat we can in no thinge have pleasance\nThat souneth unto virtue any while.\n\nThis Phoebus, which that thought upon no guile,\nDeceived was for all his jollity;\nFor under him another hadde she,\nA man of little reputation,\nNought worth to Phoebus in comparison.\nThe more harm is; it happens often so,\nOf which there cometh muche harm and woe.\nAnd so befell, when Phoebus was absent,\nHis wife anon hath for her leman sent.\nHer leman! certes that is a knavish speech.\nForgive it me, and that I you beseech.\nThe wise Plato saith, as ye may read,\nThe word must needs accorde with the deed;\nIf men shall telle properly a thing,\nThe word must cousin be to the working.\nI am a boistous man, right thus I say.\nThere is no difference truely\nBetwixt a wife that is of high degree\n(If of her body dishonest she be),\nAnd any poore wench, other than this\n(If it so be they worke both amiss),\nBut, for the gentle is in estate above,\nShe shall be call'd his lady and his love;\nAnd, for that other is a poor woman,\nShe shall be call'd his wench and his leman:\nAnd God it wot, mine owen deare brother,\nMen lay the one as low as lies the other.\nRight so betwixt a titleless tyrant\nAnd an outlaw, or else a thief errant,\nThe same I say, there is no difference\n(To Alexander told was this sentence),\nBut, for the tyrant is of greater might\nBy force of meinie for to slay downright,\nAnd burn both house and home, and make all plain,\nLo, therefore is he call'd a capitain;\nAnd, for the outlaw hath but small meinie,\nAnd may not do so great an harm as he,\nNor bring a country to so great mischief,\nMen calle him an outlaw or a thief.\nBut, for I am a man not textuel,\nI will not tell of texts never a deal;\nI will go to my tale, as I began.\n\nWhen Phoebus' wife had sent for her leman,\nAnon they wroughten all their lust volage.\nThis white crow, that hung aye in the cage,\nBeheld their work, and said never a word;\nAnd when that home was come Phoebus the lord,\nThis crowe sung, \"Cuckoo, cuckoo, cuckoo!\"\n\"What? bird,\" quoth Phoebus, \"what song sing'st thou now?\nWert thou not wont so merrily to sing,\nThat to my heart it was a rejoicing\nTo hear thy voice? alas! what song is this?\"\n\"By God,\" quoth he, \"I singe not amiss.\nPhoebus,\" quoth he, \"for all thy worthiness,\nFor all thy beauty, and all thy gentleness,\nFor all thy song, and all thy minstrelsy,\nFor all thy waiting, bleared is thine eye\nWith one of little reputation,\nNot worth to thee, as in comparison,\nThe mountance of a gnat, so may I thrive;\nFor on thy bed thy wife I saw him swive.\"\nWhat will ye more? the crow anon him told,\nBy sade tokens, and by wordes bold,\nHow that his wife had done her lechery,\nTo his great shame and his great villainy;\nAnd told him oft, he saw it with his eyen.\nThis Phoebus gan awayward for to wrien;\nHim thought his woeful hearte burst in two.\nHis bow he bent, and set therein a flo,\nAnd in his ire he hath his wife slain;\nThis is th' effect, there is no more to sayn.\nFor sorrow of which he brake his minstrelsy,\nBoth harp and lute, gitern and psaltery;\nAnd eke he brake his arrows and his bow;\nAnd after that thus spake he to the crow.\n\n\"Traitor,\" quoth he, \"with tongue of scorpion,\nThou hast me brought to my confusion;\nAlas that I was wrought! why n'ere I dead?\nO deare wife, O gem of lustihead,\nThat wert to me so sad, and eke so true,\nNow liest thou dead, with face pale of hue,\nFull guilteless, that durst I swear y-wis!\nO rakel hand, to do so foul amiss\nO troubled wit, O ire reckeless,\nThat unadvised smit'st the guilteless!\nO wantrust, full of false suspicion!\nWhere was thy wit and thy discretion?\nO! every man beware of rakelness,\nNor trow no thing withoute strong witness.\nSmite not too soon, ere that ye weete why,\nAnd be advised well and sickerly\nEre ye do any execution\nUpon your ire for suspicion.\nAlas! a thousand folk hath rakel ire\nFoully fordone, and brought them in the mire.\nAlas! for sorrow I will myself slee\nAnd to the crow, \"O false thief,\" said he,\n\"I will thee quite anon thy false tale.\nThou sung whilom like any nightingale,\nNow shalt thou, false thief, thy song foregon,\nAnd eke thy white feathers every one,\nNor ever in all thy life shalt thou speak;\nThus shall men on a traitor be awreak.\nThou and thine offspring ever shall be blake,\nNor ever sweete noise shall ye make,\nBut ever cry against tempest and rain,\nIn token that through thee my wife is slain.\"\nAnd to the crow he start, and that anon,\nAnd pull'd his white feathers every one,\nAnd made him black, and reft him all his song,\nAnd eke his speech, and out at door him flung\nUnto the devil, which I him betake;\nAnd for this cause be all crowes blake.\nLordings, by this ensample, I you pray,\nBeware, and take keep what that ye say;\nNor telle never man in all your life\nHow that another man hath dight his wife;\nHe will you hate mortally certain.\nDan Solomon, as wise clerkes sayn,\nTeacheth a man to keep his tongue well;\nBut, as I said, I am not textuel.\nBut natheless thus taughte me my dame;\n\"My son, think on the crow, in Godde's name.\nMy son, keep well thy tongue, and keep thy friend;\nA wicked tongue is worse than is a fiend:\nMy sone, from a fiend men may them bless.\nMy son, God of his endeless goodness\nWalled a tongue with teeth, and lippes eke,\nFor man should him advise, what he speak.\nMy son, full often for too muche speech\nHath many a man been spilt, as clerkes teach;\nBut for a little speech advisedly\nIs no man shent, to speak generally.\nMy son, thy tongue shouldest thou restrain\nAt alle time, but when thou dost thy pain\nTo speak of God in honour and prayere.\nThe firste virtue, son, if thou wilt lear,\nIs to restrain and keepe well thy tongue;\nThus learne children, when that they be young.\nMy son, of muche speaking evil advis'd,\nWhere lesse speaking had enough suffic'd,\nCometh much harm; thus was me told and taught;\nIn muche speeche sinne wanteth not.\nWost thou whereof a rakel tongue serveth?\nRight as a sword forcutteth and forcarveth\nAn arm in two, my deare son, right so\nA tongue cutteth friendship all in two.\nA jangler is to God abominable.\nRead Solomon, so wise and honourable;\nRead David in his Psalms, and read Senec'.\nMy son, speak not, but with thine head thou beck,\nDissimule as thou wert deaf, if that thou hear\nA jangler speak of perilous mattere.\nThe Fleming saith, and learn if that thee lest,\nThat little jangling causeth muche rest.\nMy son, if thou no wicked word hast said,\nThee thar not dreade for to be bewray'd;\nBut he that hath missaid, I dare well sayn,\nHe may by no way call his word again.\nThing that is said is said, and forth it go'th,\nThough him repent, or be he ne'er so loth;\nHe is his thrall, to whom that he hath said\nA tale, of which he is now evil apaid.\nMy son, beware, and be no author new\nOf tidings, whether they be false or true;\nWhereso thou come, amonges high or low,\nKeep well thy tongue, and think upon the crow.\"",
-      "source": {
-        "name": "Geoffrey Chaucer · PoetryDB",
-        "url": "https://poetrydb.org/title/The%20Canterbury%20Tales%3A%20The%20Manciple's%20Tale",
-        "trustTier": "community",
-        "author": "Geoffrey Chaucer"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:12.616Z",
-      "hash": "c97fa258d85c4142"
-    },
-    {
-      "id": "poetry:2ee63bd20570929e",
-      "type": "poem",
-      "title": "Locksley Hall",
-      "summary": "Comrades, leave me here a little, while as yet 't is early morn:\nLeave me here, and when you want me, sound upon the bugle-horn.\n'T is the place, and all around it, as of old, the curlews call,\nDreary gleams about the moorland flying over…",
-      "body": "Comrades, leave me here a little, while as yet 't is early morn:\nLeave me here, and when you want me, sound upon the bugle-horn.\n\n'T is the place, and all around it, as of old, the curlews call,\nDreary gleams about the moorland flying over Locksley Hall;\n\nLocksley Hall, that in the distance overlooks the sandy tracts,\nAnd the hollow ocean-ridges roaring into cataracts.\n\nMany a night from yonder ivied casement, ere I went to rest,\nDid I look on great Orion sloping slowly to the West.\n\nMany a night I saw the Pleiads, rising thro' the mellow shade,\nGlitter like a swarm of fire-flies tangled in a silver braid.\n\nHere about the beach I wander'd, nourishing a youth sublime\nWith the fairy tales of science, and the long result of Time;\n\nWhen the centuries behind me like a fruitful land reposed;\nWhen I clung to all the present for the promise that it closed:\n\nWhen I dipt into the future far as human eye could see;\nSaw the Vision of the world and all the wonder that would be.--\n\nIn the Spring a fuller crimson comes upon the robin's breast;\nIn the Spring the wanton lapwing gets himself another crest;\n\nIn the Spring a livelier iris changes on the burnish'd dove;\nIn the Spring a young man's fancy lightly turns to thoughts of love.\n\nThen her cheek was pale and thinner than should be for one so young,\nAnd her eyes on all my motions with a mute observance hung.\n\nAnd I said, \"My cousin Amy, speak, and speak the truth to me,\nTrust me, cousin, all the current of my being sets to thee.\"\n\nOn her pallid cheek and forehead came a colour and a light,\nAs I have seen the rosy red flushing in the northern night.\n\nAnd she turn'd--her bosom shaken with a sudden storm of sighs--\nAll the spirit deeply dawning in the dark of hazel eyes--\n\nSaying, \"I have hid my feelings, fearing they should do me wrong\";\nSaying, \"Dost thou love me, cousin?\" weeping, \"I have loved thee long.\"\n\nLove took up the glass of Time, and turn'd it in his glowing hands;\nEvery moment, lightly shaken, ran itself in golden sands.\n\nLove took up the harp of Life, and smote on all the chords with might;\nSmote the chord of Self, that, trembling, pass'd in music out of sight.\n\nMany a morning on the moorland did we hear the copses ring,\nAnd her whisper throng'd my pulses with the fulness of the Spring.\n\nMany an evening by the waters did we watch the stately ships,\nAnd our spirits rush'd together at the touching of the lips.\n\nO my cousin, shallow-hearted! O my Amy, mine no more!\nO the dreary, dreary moorland! O the barren, barren shore!\n\nFalser than all fancy fathoms, falser than all songs have sung,\nPuppet to a father's threat, and servile to a shrewish tongue!\n\nIs it well to wish thee happy?--having known me--to decline\nOn a range of lower feelings and a narrower heart than mine!\n\nYet it shall be; thou shalt lower to his level day by day,\nWhat is fine within thee growing coarse to sympathize with clay.\n\nAs the husband is, the wife is: thou art mated with a clown,\nAnd the grossness of his nature will have weight to drag thee down.\n\nHe will hold thee, when his passion shall have spent its novel force,\nSomething better than his dog, a little dearer than his horse.\n\nWhat is this? his eyes are heavy; think not they are glazed with wine.\nGo to him, it is thy duty, kiss him, take his hand in thine.\n\nIt may be my lord is weary, that his brain is overwrought:\nSoothe him with thy finer fancies, touch him with thy lighter thought.\n\nHe will answer to the purpose, easy things to understand--\nBetter thou wert dead before me, tho' I slew thee with my hand!\n\nBetter thou and I were lying, hidden from the heart's disgrace,\nRoll'd in one another's arms, and silent in a last embrace.\n\nCursed be the social wants that sin against the strength of youth!\nCursed be the social lies that warp us from the living truth!\n\nCursed be the sickly forms that err from honest Nature's rule!\nCursed be the gold that gilds the straiten'd forehead of the fool!\n\nWell--'t is well that I should bluster!--Hadst thou less unworthy proved--\nWould to God--for I had loved thee more than ever wife was loved.\n\nAm I mad, that I should cherish that which bears but bitter fruit?\nI will pluck it from my bosom, tho' my heart be at the root.\n\nNever, tho' my mortal summers to such length of years should come\nAs the many-winter'd crow that leads the clanging rookery home.\n\nWhere is comfort? in division of the records of the mind?\nCan I part her from herself, and love her, as I knew her, kind?\n\nI remember one that perish'd; sweetly did she speak and move;\nSuch a one do I remember, whom to look at was to love.\n\nCan I think of her as dead, and love her for the love she bore?\nNo--she never loved me truly; love is love for evermore.\n\nComfort? comfort scorn'd of devils! this is truth the poet sings,\nThat a sorrow's crown of sorrow is remembering happier things.\n\nDrug thy memories, lest thou learn it, lest thy heart be put to proof,\nIn the dead unhappy night, and when the rain is on the roof.\n\nLike a dog, he hunts in dreams, and thou art staring at the wall,\nWhere the dying night-lamp flickers, and the shadows rise and fall.\n\nThen a hand shall pass before thee, pointing to his drunken sleep,\nTo thy widow'd marriage-pillows, to the tears that thou wilt weep.\n\nThou shalt hear the \"Never, never,\" whisper'd by the phantom years,\nAnd a song from out the distance in the ringing of thine ears;\n\nAnd an eye shall vex thee, looking ancient kindness on thy pain.\nTurn thee, turn thee on thy pillow; get thee to thy rest again.\n\nNay, but Nature brings thee solace; for a tender voice will cry.\n'T is a purer life than thine, a lip to drain thy trouble dry.\n\nBaby lips will laugh me down; my latest rival brings thee rest.\nBaby fingers, waxen touches, press me from the mother's breast.\n\nO, the child too clothes the father with a dearness not his due.\nHalf is thine and half is his: it will be worthy of the two.\n\nO, I see thee old and formal, fitted to thy petty part,\nWith a little hoard of maxims preaching down a daughter's heart.\n\n\"They were dangerous guides the feelings--she herself was not exempt--\nTruly, she herself had suffer'd\"--Perish in thy self-contempt!\n\nOverlive it--lower yet--be happy! wherefore should I care?\nI myself must mix with action, lest I wither by despair.\n\nWhat is that which I should turn to, lighting upon days like these?\nEvery door is barr'd with gold, and opens but to golden keys.\n\nEvery gate is throng'd with suitors, all the markets overflow.\nI have but an angry fancy; what is that which I should do?\n\nI had been content to perish, falling on the foeman's ground,\nWhen the ranks are roll'd in vapour, and the winds are laid with sound.\n\nBut the jingling of the guinea helps the hurt that Honour feels,\nAnd the nations do but murmur, snarling at each other's heels.\n\nCan I but relive in sadness? I will turn that earlier page.\nHide me from my deep emotion, O thou wondrous Mother-Age!\n\nMake me feel the wild pulsation that I felt before the strife,\nWhen I heard my days before me, and the tumult of my life;\n\nYearning for the large excitement that the coming years would yield,\nEager-hearted as a boy when first he leaves his father's field,\n\nAnd at night along the dusky highway near and nearer drawn,\nSees in heaven the light of London flaring like a dreary dawn;\n\nAnd his spirit leaps within him to be gone before him then,\nUnderneath the light he looks at, in among the throngs of men:\n\nMen, my brothers, men the workers, ever reaping something new:\nThat which they have done but earnest of the things that they shall do:\n\nFor I dipt into the future, far as human eye could see,\nSaw the Vision of the world, and all the wonder that would be;\n\nSaw the heavens fill with commerce, argosies of magic sails,\nPilots of the purple twilight dropping down with costly bales;\n\nHeard the heavens fill with shouting, and there rain'd a ghastly dew\nFrom the nations' airy navies grappling in the central blue;\n\nFar along the world-wide whisper of the south-wind rushing warm,\nWith the standards of the peoples plunging thro' the thunder-storm;\n\nTill the war-drum throbb'd no longer, and the battle-flags were furl'd\nIn the Parliament of man, the Federation of the world.\n\nThere the common sense of most shall hold a fretful realm in awe,\nAnd the kindly earth shall slumber, lapt in universal law.\n\nSo I triumph'd ere my passion sweeping thro' me left me dry,\nLeft me with the palsied heart, and left me with the jaundiced eye;\n\nEye, to which all order festers, all things here are out of joint:\nScience moves, but slowly, slowly, creeping on from point to point:\n\nSlowly comes a hungry people, as a lion, creeping nigher,\nGlares at one that nods and winks behind a slowly-dying fire.\n\nYet I doubt not thro' the ages one increasing purpose runs,\nAnd the thoughts of men are widen'd with the process of the suns.\n\nWhat is that to him that reaps not harvest of his youthful joys,\nTho' the deep heart of existence beat for ever like a boy's?\n\nKnowledge comes, but wisdom lingers, and I linger on the shore,\nAnd the individual withers, and the world is more and more.\n\nKnowledge comes, but wisdom lingers, and he bears a laden breast,\nFull of sad experience, moving toward the stillness of his rest.\n\nHark, my merry comrades call me, sounding on the bugle-horn,\nThey to whom my foolish passion were a target for their scorn:\n\nShall it not be scorn to me to harp on such a moulder'd string?\nI am shamed thro' all my nature to have loved so slight a thing.\n\nWeakness to be wroth with weakness! woman's pleasure, woman's pain--\nNature made them blinder motions bounded in a shallower brain:\n\nWoman is the lesser man, and all thy passions, match'd with mine,\nAre as moonlight unto sunlight, and as water unto wine--\n\nHere at least, where nature sickens, nothing. Ah, for some retreat\nDeep in yonder shining Orient, where my life began to beat;\n\nWhere in wild Mahratta-battle fell my father evil-starr'd,--\nI was left a trampled orphan, and a selfish uncle's ward.\n\nOr to burst all links of habit--there to wander far away,\nOn from island unto island at the gateways of the day.\n\nLarger constellations burning, mellow moons and happy skies,\nBreadths of tropic shade and palms in cluster, knots of Paradise.\n\nNever comes the trader, never floats an European flag,\nSlides the bird o'er lustrous woodland, swings the trailer from the crag;\n\nDroops the heavy-blossom'd bower, hangs the heavy-fruited tree--\nSummer isles of Eden lying in dark-purple spheres of sea.\n\nThere methinks would be enjoyment more than in this march of mind,\nIn the steamship, in the railway, in the thoughts that shake mankind.\n\nThere the passions cramp'd no longer shall have scope and breathing space;\nI will take some savage woman, she shall rear my dusky race.\n\nIron-jointed, supple-sinew'd, they shall dive, and they shall run,\nCatch the wild goat by the hair, and hurl their lances in the sun;\n\nWhistle back the parrot's call, and leap the rainbows of the brooks,\nNot with blinded eyesight poring over miserable books--\n\nFool, again the dream, the fancy! but I know my words are wild,\nBut I count the gray barbarian lower than the Christian child.\n\nI, to herd with narrow foreheads, vacant of our glorious gains,\nLike a beast with lower pleasures, like a beast with lower pains!\n\nMated with a squalid savage--what to me were sun or clime?\nI the heir of all the ages, in the foremost files of time--\n\nI that rather held it better men should perish one by one,\nThan that earth should stand at gaze like Joshua's moon in Ajalon!\n\nNot in vain the distance beacons. Forward, forward let us range,\nLet the great world spin for ever down the ringing grooves of change.\n\nThro' the shadow of the globe we sweep into the younger day;\nBetter fifty years of Europe than a cycle of Cathay.\n\nMother-Age (for mine I knew not) help me as when life begun:\nRift the hills, and roll the waters, flash the lightnings, weigh the Sun.\n\nO, I see the crescent promise of my spirit hath not set.\nAncient founts of inspiration well thro' all my fancy yet.\n\nHowsoever these things be, a long farewell to Locksley Hall!\nNow for me the woods may wither, now for me the roof-tree fall.\n\nComes a vapour from the margin, blackening over heath and holt,\nCramming all the blast before it, in its breast a thunderbolt.\n\nLet it fall on Locksley Hall, with rain or hail, or fire or snow;\nFor the mighty wind arises, roaring seaward, and I go.",
-      "source": {
-        "name": "Lord Alfred Tennyson · PoetryDB",
-        "url": "https://poetrydb.org/title/Locksley%20Hall",
-        "trustTier": "community",
-        "author": "Lord Alfred Tennyson"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:12.616Z",
-      "hash": "2ee63bd20570929e"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399894009-1",
-      "type": "art",
-      "title": "Moon Rising over the Porcupine Islands, Bar Harbor, Maine",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1850s · Drawings",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1850s · Drawings",
-      "image": {
-        "src": "data/images/18a2ff9fcea20834.jpg",
-        "alt": "Moon Rising over the Porcupine Islands, Bar Harbor, Maine",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/22428",
-        "trustTier": "encyclopedic",
-        "date": "1850s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-30T14:47:12.186Z",
-      "hash": "c0b96d9e96f580d4"
-    },
-    {
-      "id": "art:si:ld1-1643406112513-1643406113819-0",
-      "type": "art",
-      "title": "Lewis' Moon Snail, Lewis's Moon Snail, Lewis's Moon",
-      "summary": "NMNH - Education & Outreach · Education and Outreach collections",
-      "body": "NMNH - Education & Outreach\nEducation and Outreach collections",
-      "image": {
-        "src": "data/images/30e47d33fcf9d1f0.jpg",
-        "alt": "Lewis' Moon Snail, Lewis's Moon Snail, Lewis's Moon",
-        "credit": "NMNH - Education & Outreach · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/384123cac-f24c-47e7-ba92-83b16aa22dc6",
-        "trustTier": "encyclopedic",
-        "date": "Education and Outreach collections"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "moon",
-        "education and outreach collections"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-30T14:47:12.186Z",
-      "hash": "9205e963dd970cf6"
-    },
-    {
-      "id": "met:264910",
-      "type": "art",
-      "title": "Yosemite Falls, 2,634 feet",
-      "summary": "Carleton E. Watkins · ca. 1872, printed ca. 1876 · Albumen silver print from glass negative",
-      "body": "Carleton E. Watkins · ca. 1872, printed ca. 1876 · Albumen silver print from glass negative\nGift of Carole and Irwin Lainoff, Ruth P. Lasser and Joseph R. Lasser, Mr. and Mrs. John T. Marvin, Martin E. and Joan Messinger, Richard L. Yett and Sheri and Paul Siegel, 1986\nPhotographs",
-      "image": {
-        "src": "data/images/f403ed46e225518c.jpg",
-        "alt": "Yosemite Falls, 2,634 feet",
-        "credit": "The Met · Gift of Carole and Irwin Lainoff, Ruth P. Lasser and Joseph R. Lasser, Mr. and Mrs. John T. Marvin, Martin E. and Joan Messinger, Richard L. Yett and Sheri and Paul Siegel, 1986"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/264910",
-        "trustTier": "encyclopedic",
-        "author": "Carleton E. Watkins",
-        "date": "ca. 1872, printed ca. 1876"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "mountain",
-        "photographs"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-30T14:47:10.689Z",
-      "hash": "044d1b7aa313d70e"
-    },
-    {
-      "id": "met:337499",
-      "type": "art",
-      "title": "The Lake of Zug",
-      "summary": "Joseph Mallord William Turner · 1843 · Watercolor and bodycolor (gouache) with reductive techniques over graphite",
-      "body": "Joseph Mallord William Turner · 1843 · Watercolor and bodycolor (gouache) with reductive techniques over graphite\nMarquand Fund, 1959\nDrawings and Prints",
-      "image": {
-        "src": "data/images/cb5e234746033d92.jpg",
-        "alt": "The Lake of Zug",
-        "credit": "The Met · Marquand Fund, 1959"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/337499",
-        "trustTier": "encyclopedic",
-        "author": "Joseph Mallord William Turner",
-        "date": "1843"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "mountain",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-30T14:47:10.465Z",
-      "hash": "b5f002ce86d78276"
-    },
-    {
-      "id": "met:323988",
-      "type": "art",
-      "title": "Figure of crouching lion",
-      "summary": "Unknown artist · ca. 8th–7th century BCE · Ivory",
-      "body": "Unknown artist · ca. 8th–7th century BCE · Ivory\nRogers Fund, 1943\nAncient West Asian Art",
-      "image": {
-        "src": "data/images/dc90b689c171393b.jpg",
-        "alt": "Figure of crouching lion",
-        "credit": "The Met · Rogers Fund, 1943"
-      },
-      "source": {
-        "name": "The Met Collection",
-        "url": "https://www.metmuseum.org/art/collection/search/323988",
-        "trustTier": "encyclopedic",
-        "date": "ca. 8th–7th century BCE"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "mountain"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-30T14:47:10.387Z",
-      "hash": "0de0ef12f92796d0"
-    },
-    {
-      "id": "onthisday:09-30:1551:d4bb6d916337b612",
-      "type": "history",
-      "title": "1551: Sue Harukata",
-      "summary": "Sue Takafusa, a retainer of the Ōuchi clan in western Japan, led a coup against the daimyō Ōuchi Yoshitaka, leading to the latter's forced suicide.",
-      "body": "Sue Takafusa, a retainer of the Ōuchi clan in western Japan, led a coup against the daimyō Ōuchi Yoshitaka, leading to the latter's forced suicide.",
-      "image": {
-        "src": "data/images/22edd7a235b69e91.jpg",
-        "alt": "Sue Harukata",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Sue_Harukata",
-        "trustTier": "encyclopedic",
-        "date": "09-30"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:45:46.986Z",
-      "hash": "da2cd349ee0d50b0",
-      "expires": "2026-10-03T14:45:46.986Z"
-    },
-    {
-      "id": "onthisday:09-30:1938:7d12554eabceb152",
-      "type": "history",
-      "title": "1938: Adolf Hitler",
-      "summary": "Adolf Hitler, Benito Mussolini, Neville Chamberlain, and Édouard Daladier signed the Munich Agreement, stipulating that Czechoslovakia must cede the Sudetenland to Germany.",
-      "body": "Adolf Hitler, Benito Mussolini, Neville Chamberlain, and Édouard Daladier signed the Munich Agreement, stipulating that Czechoslovakia must cede the Sudetenland to Germany.",
-      "image": {
-        "src": "data/images/1fc516e19ea7072d.jpg",
-        "alt": "Adolf Hitler",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Adolf_Hitler",
-        "trustTier": "encyclopedic",
-        "date": "09-30"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:45:46.986Z",
-      "hash": "ee801d8db63b54a0",
-      "expires": "2026-10-03T14:45:46.986Z"
-    },
-    {
-      "id": "onthisday:09-30:1975:66c0c9aca9859ea8",
-      "type": "history",
-      "title": "1975: Boeing AH-64 Apache",
-      "summary": "The Boeing AH-64 Apache (example pictured), the primary attack helicopter for a number of countries, made its first flight.",
-      "body": "The Boeing AH-64 Apache (example pictured), the primary attack helicopter for a number of countries, made its first flight.",
-      "image": {
-        "src": "data/images/0dc1fb5812b973ee.jpg",
-        "alt": "Boeing AH-64 Apache",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Boeing_AH-64_Apache",
-        "trustTier": "encyclopedic",
-        "date": "09-30"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:45:46.986Z",
-      "hash": "c189aed567685f3d",
-      "expires": "2026-10-03T14:45:46.986Z"
-    },
-    {
-      "id": "wikipedia:75783166",
-      "type": "wiki",
-      "title": "Climate Change Isn't Everything: Liberating Climate Politics from Alarmism",
-      "summary": "Climate Change Isn’t Everything: Liberating Climate Politics from Alarmism is a book by Mike Hulme published in 2023 by Polity Press.",
-      "body": "Climate Change Isn’t Everything: Liberating Climate Politics from Alarmism is a book by Mike Hulme published in 2023 by Polity Press.",
-      "image": {
-        "src": "data/images/971856ba1ce24582.jpg",
-        "alt": "Climate Change Isn't Everything: Liberating Climate Politics from Alarmism",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Climate_Change_Isn't_Everything%3A_Liberating_Climate_Politics_from_Alarmism",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:45:46.970Z",
-      "hash": "a686425902dc8c18"
-    },
-    {
-      "id": "wikipedia:60062284",
-      "type": "wiki",
-      "title": "Patrignone, San Giuliano Terme",
-      "summary": "Patrignone is a village in Tuscany, central Italy, administratively a frazione of the comune of San Giuliano Terme, province of Pisa. At the time of the 2001 census its population was 160.",
-      "body": "Patrignone is a village in Tuscany, central Italy, administratively a frazione of the comune of San Giuliano Terme, province of Pisa. At the time of the 2001 census its population was 160.",
-      "image": {
-        "src": "data/images/f74ec2072c960b16.jpg",
-        "alt": "Patrignone, San Giuliano Terme",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Patrignone%2C_San_Giuliano_Terme",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:45:46.888Z",
-      "hash": "c7b8a2f9ac5bd160"
-    },
-    {
-      "id": "wikipedia:67924038",
-      "type": "wiki",
-      "title": "Puebla sinkhole",
-      "summary": "The Puebla sinkhole is located in the town of Santa Maria Zacatepec, Juan C. Bonilla municipality, Puebla, Mexico. It is found 93.7 kilometres (58.2 mi) west of the state capital of Puebla, and 212 kilometres (132 mi) east of Mexico City, at coordinates 19.1257, -98.3738. The sinkhole first appeared on May 29, 2021,…",
-      "body": "The Puebla sinkhole is located in the town of Santa Maria Zacatepec, Juan C. Bonilla municipality, Puebla, Mexico. It is found 93.7 kilometres (58.2 mi) west of the state capital of Puebla, and 212 kilometres (132 mi) east of Mexico City, at coordinates 19.1257, -98.3738. The sinkhole first appeared on May 29, 2021, with a diameter of 15 feet (4.6 m); by June 10 it had grown to 400 feet (120 m) with a depth estimated at 50 feet (15 m).",
-      "image": {
-        "src": "data/images/5bd5a73d19931526.jpg",
-        "alt": "Puebla sinkhole",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Puebla_sinkhole",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:45:43.539Z",
-      "hash": "b9c55ca5df4dbb66"
-    },
-    {
-      "id": "wikipedia:9422820",
-      "type": "wiki",
-      "title": "Brănești, Dâmbovița",
-      "summary": "Brănești is a commune in Dâmbovița County, Muntenia, southern Romania. It is composed of two villages, Brănești and Priboiu.",
-      "body": "Brănești is a commune in Dâmbovița County, Muntenia, southern Romania. It is composed of two villages, Brănești and Priboiu.",
-      "image": {
-        "src": "data/images/1be3620380ef0bd8.jpg",
-        "alt": "Brănești, Dâmbovița",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Br%C4%83ne%C8%99ti%2C_D%C3%A2mbovi%C8%9Ba",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:45:42.412Z",
-      "hash": "b3c5c2ddd209f170"
-    },
-    {
-      "id": "chess:9862H",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 2095. Find the best line for white.",
-      "body": "Solution, from → to: f2→f4, e5→d6, c4→c5, d6→c5, e3→c5. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "rnb2rk1/ppp1pp1p/5np1/4b3/2P5/3BB3/PP3PPP/R2NK1NR w KQ - 1 1",
-        "lastMove": "e4f6"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/9862H",
-        "trustTier": "community",
-        "date": "Tue, 29 Sep 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "opening",
-        "advantage",
-        "trappedpiece",
-        "long"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-29T14:43:50.264Z",
-      "hash": "3d594cb715e8d66c"
-    },
-    {
-      "id": "game:f257e5e155cbe5ee",
-      "type": "game",
-      "title": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
-      "summary": "Aleksander Grøndal admits Embark has struggled to balance the needs of millions of players with those of its workforce.",
-      "body": "Aleksander Grøndal admits Embark has struggled to balance the needs of millions of players with those of its workforce.",
-      "image": {
-        "src": "data/images/313f637a6b68fe1a.png",
-        "alt": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Tue, 29 Sep 2026 14:10:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-29T14:43:49.982Z",
-      "hash": "f257e5e155cbe5ee",
-      "expires": "2026-12-28T14:43:49.982Z"
-    },
-    {
-      "id": "trivia:3a573490de957e28",
-      "type": "trivia",
-      "title": "In the anime, \"Hunter X Hunter\", what is the main protagonist's name?",
-      "summary": "Is it: Gen · Gin · Gon · Gan?",
-      "body": "Answer: Gon.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "japanese anime & manga"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-29T14:43:47.420Z",
-      "hash": "3a573490de957e28"
-    },
-    {
-      "id": "trivia:a67c89de7f7820d4",
-      "type": "trivia",
-      "title": "In Kingdom Hearts, how many members does Organization XIII have in total?",
-      "summary": "Is it: 10 · 12 · 13 · 14?",
-      "body": "Answer: 14.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-29T14:43:47.420Z",
-      "hash": "a67c89de7f7820d4"
-    },
-    {
-      "id": "trivia:eb8088860de046ac",
-      "type": "trivia",
-      "title": "What polymer is used to make CDs, safety goggles and riot shields?",
-      "summary": "Is it: Rubber · Nylon · Bakelite · Polycarbonate?",
-      "body": "Answer: Polycarbonate.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "science & nature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-29T14:43:47.420Z",
-      "hash": "eb8088860de046ac"
-    },
-    {
-      "id": "trivia:68e1fecccc980c57",
-      "type": "trivia",
-      "title": "The Roman god \"Jupiter\" was first known as \"Zeus\" to the Greeks.",
-      "summary": "True — or false?",
-      "body": "Answer: True.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "mythology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-29T14:43:47.420Z",
-      "hash": "68e1fecccc980c57"
-    },
-    {
-      "id": "passage:gutenberg:1260",
-      "type": "passage",
-      "title": "Jane Eyre",
-      "summary": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. I was glad…",
-      "body": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. I was glad of it: I never liked long walks, especially on chilly afternoons: dreadful to me was the coming home in the raw twilight, with nipped fingers and toes, and a heart saddened by the chidings of Bessie, the nurse, and humbled by the consciousness of my physical inferiority to Eliza, John, and Georgiana Reed. The said Eliza, John, and…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1260",
-        "trustTier": "publication",
-        "author": "Charlotte Brontë",
-        "date": "1847"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "romance",
-        "gothic"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-29T14:43:47.150Z",
-      "hash": "1f6a6118b636cfc1"
-    },
-    {
-      "id": "passage:gutenberg:1232",
-      "type": "passage",
-      "title": "The Prince",
-      "summary": "All states, all powers, that have held and hold rule over men have been and are either republics or principalities. Principalities are either hereditary, in which the family has been long established; or they are new. The new are either entirely new, as was Milan to Francesco Sforza, or they are, as it were, members annexed to the hereditary state of the…",
-      "body": "All states, all powers, that have held and hold rule over men have been and are either republics or principalities. Principalities are either hereditary, in which the family has been long established; or they are new. The new are either entirely new, as was Milan to Francesco Sforza, or they are, as it were, members annexed to the hereditary state of the prince who has acquired them, as was the kingdom of Naples to that of the King of Spain. Such dominions thus acquired are either accustomed to live under a prince, or to live in freedom; and are acquired either by the arms of the prince himself, or of others, or else by fortune or by ability. CHAPTER II. CONCERNING HEREDITARY…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1232",
-        "trustTier": "publication",
-        "author": "Niccolò Machiavelli",
-        "date": "1532"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "philosophy",
-        "politics",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-29T14:43:46.977Z",
-      "hash": "493aa7cd7a7a847b"
-    },
-    {
-      "id": "comic:xkcd:1621",
-      "type": "comic",
-      "title": "Fixion",
-      "summary": "My theory predicts that, at high enough energies, FRBs and perytons become indistinguishable because the detector burns out.",
-      "body": "A guide to the medical diagnostic and treatment algorithm used by IBM's Watson computer system. [[Chart consists of highly complex flowchart, with some states having labeled transition functions, and others having unconditional transitions. Transitions will be placed after the state names for this description]] Start -> Draw Blood Draw Blood -> Record Patient's Name Record Patient's Name -> Measure Patient's Height and Weight Measure Patient's Height and Weight -> Consult Standard Height Weight Chart Consult Standard Height Weight Chart -> Surgically Adjust Patient To Match Surgically Adjust Patient To Match -> Is Patient Coughing Up Blood? Is Patient Coughing Up Blood? Yes -> Gather Blood…",
-      "image": {
-        "src": "data/images/6d51d9d5d8c3ddd3.png",
-        "alt": "My theory predicts that, at high enough energies, FRBs and perytons become indistinguishable because the detector burns out.",
-        "credit": "xkcd #1621 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1621/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2015-12-25"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-29T14:43:45.995Z",
-      "hash": "d4a2e404b5517387"
-    },
-    {
-      "id": "comic:xkcd:3304",
-      "type": "comic",
-      "title": "Jupiter Icy Moons Explorer",
-      "summary": "\"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons.\"",
-      "image": {
-        "src": "data/images/07cda08496204a16.png",
-        "alt": "\"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons.\"",
-        "credit": "xkcd #3304 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3304/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2026-09-28"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-29T14:43:45.908Z",
-      "hash": "fad75448fcd0827e"
-    },
-    {
-      "id": "craft:b6e2313dae3097b8",
-      "type": "craft",
-      "title": "A Giant Gold Coil by Plastique Fantastique Created a Loopy Portal on the High Line",
-      "summary": "Earlier this month, a monumental, metallic spiral appeared on Manhattan's High Line to coincide with New York Fashion Week.",
-      "body": "Earlier this month, a monumental, metallic spiral appeared on Manhattan's High Line to coincide with New York Fashion Week.",
-      "image": {
-        "src": "data/images/06bfbd1d43565738.jpg",
-        "alt": "A Giant Gold Coil by Plastique Fantastique Created a Loopy Portal on the High Line",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/09/auroboros-plastique-fantastique-high-line-inflatable-sculpture/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Mon, 28 Sep 2026 17:41:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "inflatable",
-        "installation",
-        "parks",
-        "plastique fantastique",
-        "public art",
-        "sculpture",
-        "snakes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-29T14:43:45.702Z",
-      "hash": "b6e2313dae3097b8"
-    },
-    {
-      "id": "craft:1da67dcb08fc5898",
-      "type": "craft",
-      "title": "October 2026 Opportunities: Open Calls, Residencies, and Grants for Artists",
-      "summary": "Don't be afraid to apply!",
-      "body": "Don't be afraid to apply!",
-      "image": {
-        "src": "data/images/eb0497f473b927d1.jpg",
-        "alt": "October 2026 Opportunities: Open Calls, Residencies, and Grants for Artists",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/09/october-2026-opportunities-for-artists/",
-        "trustTier": "publication",
-        "author": "Colossal",
-        "date": "Mon, 28 Sep 2026 20:05:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "opportunities"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-29T14:43:45.702Z",
-      "hash": "1da67dcb08fc5898"
-    },
-    {
-      "id": "craft:f3c6a30febee4b50",
-      "type": "craft",
-      "title": "Star Wars Mouse Droid is a Rebel Rave Machine",
-      "summary": "When does a droid need a party button? When it's an Imperial Mouse Droid that got a makeover from Sabine Wren. The post Star Wars Mouse Droid is a Rebel Rave Machine appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "When does a droid need a party button? When it's an Imperial Mouse Droid that got a makeover from Sabine Wren. The post Star Wars Mouse Droid is a Rebel Rave Machine appeared first on Make: DIY Projects and Ideas for Makers.",
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/technology/robotics/star-wars-mouse-droid-is-a-rebel-rave-machine/",
-        "trustTier": "publication",
-        "author": "Sam Freeman",
-        "date": "Thu, 24 Sep 2026 03:00:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "robotics",
-        "technology",
-        "3d printing",
-        "art",
-        "autonomous vehicles",
-        "robot",
-        "star wars"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-29T14:43:45.470Z",
-      "hash": "f3c6a30febee4b50"
-    },
-    {
-      "id": "word:357de8f622ff2aae",
-      "type": "word",
-      "title": "labyrinth",
-      "summary": "Noun: A maze-like structure built by Daedalus in Knossos, containing the Minotaur. A complicated irregular network of passages or paths, especially underground or covered, in which it is difficult to find one's way.",
-      "body": "1. A maze-like structure built by Daedalus in Knossos, containing the Minotaur. A complicated irregular network of passages or paths, especially underground or covered, in which it is difficult to find one's way.\n2. A complicated irregular network of passages or paths, especially underground or covered, in which it is difficult to find one's way.\n3. A maze formed by paths separated by high hedges.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/labyrinth",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-29T14:43:44.837Z",
-      "hash": "357de8f622ff2aae"
-    },
-    {
-      "id": "quote:30fcd394b723b2e9",
-      "type": "quote",
-      "title": "“You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.”",
-      "summary": "— Robin Williams",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Robin_Williams",
-        "trustTier": "community",
-        "author": "Robin Williams"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-29T14:43:44.288Z",
-      "hash": "30fcd394b723b2e9"
-    },
-    {
-      "id": "quote:d39779ed44c81c89",
-      "type": "quote",
-      "title": "“Nothing good ever comes of violence.”",
-      "summary": "— Martin Luther",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Martin_Luther",
-        "trustTier": "community",
-        "author": "Martin Luther"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-29T14:43:44.288Z",
-      "hash": "d39779ed44c81c89"
     },
     {
       "id": "curated:handwriting-beats-typing",

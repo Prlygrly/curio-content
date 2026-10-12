@@ -1,7 +1,872 @@
 {
-  "generatedAt": "2026-10-11T14:48:54.771Z",
+  "generatedAt": "2026-10-12T17:36:19.509Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:s2zVy",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1933. Find the best line for white.",
+      "body": "Solution, from → to: e2→e5, c5→f2, e1→f2, d8→h4, g2→g3. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "rn1q1rk1/ppp2ppp/4b3/2b5/2B5/2B5/PPP1QPPP/R3K1NR w KQ - 1 1",
+        "lastMove": "e8g8"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/s2zVy",
+        "trustTier": "community",
+        "date": "Mon, 12 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "opening",
+        "long",
+        "advantage"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-12T17:36:15.379Z",
+      "hash": "217f481597682974"
+    },
+    {
+      "id": "trivia:0204464c72e2fcac",
+      "type": "trivia",
+      "title": "Which of the following is not a real Pokémon?",
+      "summary": "Is it: Araquanid · Luminid · Dragalge · Mandibuzz?",
+      "body": "Answer: Luminid.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:36:12.415Z",
+      "hash": "0204464c72e2fcac"
+    },
+    {
+      "id": "trivia:6aecf5a06ac76cd1",
+      "type": "trivia",
+      "title": "In what year did the anime adaptation of \"March Comes In Like A Lion\" air?",
+      "summary": "Is it: 2015 · 2016 · 2017 · 2018?",
+      "body": "Answer: 2016.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "cartoon & animations"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:36:12.415Z",
+      "hash": "6aecf5a06ac76cd1"
+    },
+    {
+      "id": "trivia:9f126f7eb3158f81",
+      "type": "trivia",
+      "title": "In what year was Avril Lavigne’s first studio album, “Let Go”, released?",
+      "summary": "Is it: 2002 · 2005 · 2004 · 2001?",
+      "body": "Answer: 2002.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:36:12.415Z",
+      "hash": "9f126f7eb3158f81"
+    },
+    {
+      "id": "trivia:09c9f1a44118524a",
+      "type": "trivia",
+      "title": "Bob Ross was a US Air Force pilot.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "television"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:36:12.415Z",
+      "hash": "09c9f1a44118524a"
+    },
+    {
+      "id": "passage:gutenberg:1260",
+      "type": "passage",
+      "title": "Jane Eyre",
+      "summary": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. I was glad…",
+      "body": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further outdoor exercise was now out of the question. I was glad of it: I never liked long walks, especially on chilly afternoons: dreadful to me was the coming home in the raw twilight, with nipped fingers and toes, and a heart saddened by the chidings of Bessie, the nurse, and humbled by the consciousness of my physical inferiority to Eliza, John, and Georgiana Reed. The said Eliza, John, and…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/1260",
+        "trustTier": "publication",
+        "author": "Charlotte Brontë",
+        "date": "1847"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "romance",
+        "gothic"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:36:11.984Z",
+      "hash": "1f6a6118b636cfc1"
+    },
+    {
+      "id": "comic:smbc:5138df4f049cd8cb",
+      "type": "comic",
+      "title": "Blog",
+      "summary": "I feel like if you said this on twitter someone wearing a shirt that reads INTERNET would come into your house and take an ax to your router.",
+      "image": {
+        "src": "data/images/c3345b704b4aa149.png",
+        "alt": "I feel like if you said this on twitter someone wearing a shirt that reads INTERNET would come into your house and take an ax to your router.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/blog",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sun, 11 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-12T17:36:10.154Z",
+      "hash": "5138df4f049cd8cb"
+    },
+    {
+      "id": "comic:smbc:dc76e7aae654d076",
+      "type": "comic",
+      "title": "Random",
+      "summary": "If I can get just one teen girl to use the word epistemic, this entire career will have been valuable.",
+      "image": {
+        "src": "data/images/86a5aa5901326837.png",
+        "alt": "If I can get just one teen girl to use the word epistemic, this entire career will have been valuable.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/random",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Mon, 12 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-12T17:36:10.153Z",
+      "hash": "dc76e7aae654d076"
+    },
+    {
+      "id": "comic:xkcd:2080",
+      "type": "comic",
+      "title": "Cohort and Age Effects",
+      "summary": "Younger people get very few joint replacements, yet they're also getting more than older people did at the same age. This means you can choose between 'Why are millennials getting so (many/few) joint replacements?' depending on which trend fits your current argument better.",
+      "image": {
+        "src": "data/images/19f90b481fe1b102.png",
+        "alt": "Younger people get very few joint replacements, yet they're also getting more than older people did at the same age. This means you can choose between 'Why are millennials getting so (many/few) joint replacements?' depending on which trend fits your current argument better.",
+        "credit": "xkcd #2080 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/2080/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2018-12-03"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-12T17:36:09.975Z",
+      "hash": "427b2abed1c1ee2b"
+    },
+    {
+      "id": "word:0331353fdca40f3f",
+      "type": "word",
+      "title": "halcyon",
+      "summary": "Noun: A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.",
+      "body": "1. A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.\n2. The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam.\n3. A tropical kingfisher of the genus Halcyon, such as the sacred kingfisher (Halcyon sancta) of Australia.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/halcyon",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:36:07.907Z",
+      "hash": "0331353fdca40f3f"
+    },
+    {
+      "id": "quote:a9837ed8b7824fc8",
+      "type": "quote",
+      "title": "“Your chances of success in any undertaking can always be measured by your belief in yourself.”",
+      "summary": "— Robert Collier",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Robert_Collier",
+        "trustTier": "community",
+        "author": "Robert Collier"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:36:06.581Z",
+      "hash": "a9837ed8b7824fc8"
+    },
+    {
+      "id": "quote:b977bf643a5ae3ad",
+      "type": "quote",
+      "title": "“People do not decide their futures, they decide their habits and their habits decide their futures.”",
+      "summary": "— Gary Keller",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Gary_Keller",
+        "trustTier": "community",
+        "author": "Gary Keller"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:36:06.581Z",
+      "hash": "b977bf643a5ae3ad"
+    },
+    {
+      "id": "quote:59be49c049e2274f",
+      "type": "quote",
+      "title": "“You don't get in life what you want; you get in life what you are.”",
+      "summary": "— Les Brown",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Les_Brown",
+        "trustTier": "community",
+        "author": "Les Brown"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:36:06.581Z",
+      "hash": "59be49c049e2274f"
+    },
+    {
+      "id": "article:53e4c0dcb6bb89aa",
+      "type": "article",
+      "title": "English adjectives as adverbs?",
+      "summary": "Some of the comments on \"Filthy comfortable\" (10/9/2026) related to the issue of an adjective being used as an adverbial intensifier, which is a fairly common though always irregular development. We can start with very, for which Wiktonary gives the etymology From Middle English verray, from Old…",
+      "body": "Some of the comments on \"Filthy comfortable\" (10/9/2026) related to the issue of an adjective being used as an adverbial intensifier, which is a fairly common though always irregular development. We can start with very, for which Wiktonary gives the etymology From Middle English verray, from Old French verai (“true”), from Early Medieval Latin vērāgus, […]",
+      "image": {
+        "src": "data/images/7364ed187bf10aab.jpg",
+        "alt": "English adjectives as adverbs?",
+        "credit": "Language Log"
+      },
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74409&utm_source=rss&utm_medium=rss&utm_campaign=english-adjectives-as-adverbs",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Sun, 11 Oct 2026 16:26:2"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "words words words"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:36:00.636Z",
+      "hash": "53e4c0dcb6bb89aa"
+    },
+    {
+      "id": "article:af3030f0d89fdc4f",
+      "type": "article",
+      "title": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
+      "summary": "We’d all like to think we’re deliberately steering our lives. Yet a heck of a lot of adulthood consists of continuing whatever we were already doing because stopping would require change. You took a job because you needed money, stayed because you knew where the toilets were, and now, apparently,…",
+      "body": "We’d all like to think we’re deliberately steering our lives. Yet a heck of a lot of adulthood consists of continuing whatever we were already doing because stopping would require change. You took a job because you needed money, stayed because you knew where the toilets were, and now, apparently, this is your destiny. If […] The post This Is How To Get What You Want In Life: 6 Secrets To High-Agency appeared first on Barking Up The Wrong Tree.",
+      "image": {
+        "src": "data/images/8f3b1cc42239cc69.jpg",
+        "alt": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
+        "credit": "Barking Up the Wrong Tree"
+      },
+      "source": {
+        "name": "Barking Up the Wrong Tree",
+        "url": "https://bakadesuyo.com/2026/10/agency/?utm_source=rss&utm_medium=rss&utm_campaign=agency",
+        "trustTier": "community",
+        "author": "Eric Barker",
+        "date": "Sun, 11 Oct 2026 14:59:5"
+      },
+      "tags": [
+        "psychology",
+        "self-improvement",
+        "science",
+        "be more productive",
+        "live the good life",
+        "master the workplace"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:35:57.848Z",
+      "hash": "af3030f0d89fdc4f"
+    },
+    {
+      "id": "article:9b1c10b030e02533",
+      "type": "article",
+      "title": "Why I Did Not Leave Nazi Germany in Time. “Many of us...",
+      "summary": "Why I Did Not Leave Nazi Germany in Time. “Many of us feared the shock of being uprooted and tried to avoid it if at all possible. But to understand this reaction…I say that nobody could possibly have foreseen the ‘final solution.’”",
+      "body": "Why I Did Not Leave Nazi Germany in Time. “Many of us feared the shock of being uprooted and tried to avoid it if at all possible. But to understand this reaction…I say that nobody could possibly have foreseen the ‘final solution.’”",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/10/0049776-why-i-did-not-leave-nazi-",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-10-12T16:58:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:35:57.347Z",
+      "hash": "9b1c10b030e02533"
+    },
+    {
+      "id": "article:611eb68c8f03203c",
+      "type": "article",
+      "title": "The Simple Method That Boosts Memory by 50%",
+      "summary": "Effective learning doesn't need to be complicated. Here's a simple trick that outperforms mind-maps. The post The Simple Method That Boosts Memory by 50% appeared first on Scott H Young.",
+      "body": "Effective learning doesn't need to be complicated. Here's a simple trick that outperforms mind-maps. The post The Simple Method That Boosts Memory by 50% appeared first on Scott H Young.",
+      "source": {
+        "name": "Scott H. Young",
+        "url": "https://www.scotthyoung.com/blog/2026/10/06/boost-memory-50-percent/",
+        "trustTier": "community",
+        "author": "Scott Young",
+        "date": "Tue, 06 Oct 2026 21:33:4"
+      },
+      "tags": [
+        "learning",
+        "productivity",
+        "ideas",
+        "general"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:35:56.497Z",
+      "hash": "611eb68c8f03203c"
+    },
+    {
+      "id": "article:2ad50c634bb693f8",
+      "type": "article",
+      "title": "Mithridatism and the Myth of Poison Immunity",
+      "summary": "ISABELLA ZELTSER From Pontic Pharmaka to Modern Toxicology Continue reading Mithridatism and the Myth of Poison Immunity",
+      "body": "ISABELLA ZELTSER From Pontic Pharmaka to Modern Toxicology Continue reading Mithridatism and the Myth of Poison Immunity",
+      "image": {
+        "src": "data/images/a21c82d1a1d9c506.png",
+        "alt": "Mithridatism and the Myth of Poison Immunity",
+        "credit": "Antigone Journal"
+      },
+      "source": {
+        "name": "Antigone Journal",
+        "url": "https://antigonejournal.com/2026/09/mithridatism-myth-poison-immunity/",
+        "trustTier": "publication",
+        "author": "Antigone",
+        "date": "Sun, 27 Sep 2026 15:43:2"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "history",
+        "material culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:35:55.857Z",
+      "hash": "2ad50c634bb693f8"
+    },
+    {
+      "id": "article:218d8ed20d75db78",
+      "type": "article",
+      "title": "James Baldwin on How Love (Finally) Finds You",
+      "summary": "Our language betrays our self-betrayals: We speak of finding love, as if it were an undiscovered eighth continent or a habitable world in another solar system, as if it got lost like the Little Red Riding Hood or the names of the women who painted the caves. Like the paradoxical notion of finding…",
+      "body": "Our language betrays our self-betrayals: We speak of finding love, as if it were an undiscovered eighth continent or a habitable world in another solar system, as if it got lost like the Little Red Riding Hood or the names of the women who painted the caves. Like the paradoxical notion of finding yourself, the notion of finding love pulsates with equal parts helplessness and hubris — a rueful recognition that something is missing from your life and a belief that it falls on you to do the looking, that if you only look hard enough and long enough, you… read article",
+      "image": {
+        "src": "data/images/cc68643b7a0fe4d0.jpg",
+        "alt": "James Baldwin on How Love (Finally) Finds You",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/10/11/baldwin-love/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sun, 11 Oct 2026 20:12:1"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "psychology",
+        "books",
+        "james baldwin",
+        "love"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:35:55.748Z",
+      "hash": "218d8ed20d75db78"
+    },
+    {
+      "id": "article:a168e04e893d2eba",
+      "type": "article",
+      "title": "El-Sayed’s Unanswered Questions. Plus. . .",
+      "summary": "Rod Dreher’s dispatch from NatCon Jerusalem. Arthur Brooks on why you shouldn’t pursue happiness. Helen Andrews says the ‘great feminization’ has come to Cornell. And more.",
+      "body": "Rod Dreher’s dispatch from NatCon Jerusalem. Arthur Brooks on why you shouldn’t pursue happiness. Helen Andrews says the ‘great feminization’ has come to Cornell. And more.",
+      "image": {
+        "src": "data/images/4446bb749a0b395d.jpg",
+        "alt": "El-Sayed’s Unanswered Questions. Plus. . .",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/el-sayed-michigan-natcon-arthur-brooks-cornell",
+        "trustTier": "publication",
+        "author": "The Free Press",
+        "date": "Mon, 12 Oct 2026 10:04:5"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:35:55.284Z",
+      "hash": "a168e04e893d2eba",
+      "expires": "2026-11-11T17:35:55.284Z"
+    },
+    {
+      "id": "article:895d2925484fd3c2",
+      "type": "article",
+      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
+      "summary": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas. The post How Does Life Unfold? A Landscape Metaphor Comes Into Its Own. first…",
+      "body": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas. The post How Does Life Unfold? A Landscape Metaphor Comes Into Its Own. first appeared on Quanta Magazine",
+      "image": {
+        "src": "data/images/12a288356b786b5a.webp",
+        "alt": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
+        "credit": "Quanta Magazine"
+      },
+      "source": {
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+        "trustTier": "publication",
+        "author": "Philip Ball",
+        "date": "Fri, 09 Oct 2026 14:03:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "mathematics",
+        "biology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:35:52.307Z",
+      "hash": "895d2925484fd3c2"
+    },
+    {
+      "id": "article:4b1d008af16abdf4",
+      "type": "article",
+      "title": "Is ‘Attention’ the Essence of Intelligence?",
+      "summary": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key? The post Is ‘Attention’ the Essence of Intelligence? first appeared on Quanta Magazine",
+      "body": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key? The post Is ‘Attention’ the Essence of Intelligence? first appeared on Quanta Magazine",
+      "image": {
+        "src": "data/images/85340f88472e1240.webp",
+        "alt": "Is ‘Attention’ the Essence of Intelligence?",
+        "credit": "Quanta Magazine"
+      },
+      "source": {
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+        "trustTier": "publication",
+        "author": "Natalie Wolchover",
+        "date": "Mon, 12 Oct 2026 14:20:3"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "mathematics",
+        "computer science"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:35:52.306Z",
+      "hash": "4b1d008af16abdf4"
+    },
+    {
+      "id": "greek:fd18039c95c245aa",
+      "type": "greek",
+      "title": "λόγος",
+      "summary": "λόγος — “word” · noun",
+      "body": "Note: ὁ λόγος; also \"message, reason, account\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:35:52.064Z",
+      "hash": "fd18039c95c245aa"
+    },
+    {
+      "id": "greek:69ec86320445e935",
+      "type": "greek",
+      "title": "ἅγιος",
+      "summary": "ἅγιος, -α, -ον — “holy” · adjective",
+      "body": "Note: declines like 2-1-2; substantive use \"saint, holy one\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%85%CE%B3%CE%B9%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "adjective"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:35:52.064Z",
+      "hash": "69ec86320445e935"
+    },
+    {
+      "id": "greek:0ae85978994e704d",
+      "type": "greek",
+      "title": "οὐρανός",
+      "summary": "οὐρανός — “heaven” · noun",
+      "body": "Note: ὁ οὐρανός; often plural οἱ οὐρανοί\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BF%E1%BD%90%CF%81%CE%B1%CE%BD%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:35:52.064Z",
+      "hash": "0ae85978994e704d"
+    },
+    {
+      "id": "poetry:023c4717f0eb9b16",
+      "type": "poem",
+      "title": "Paradise Lost: Book II",
+      "summary": "High on a throne of royal state, which far\nOutshone the wealth or Ormus and of Ind,\nOr where the gorgeous East with richest hand\nShowers on her kings barbaric pearl and gold,",
+      "body": "High on a throne of royal state, which far\nOutshone the wealth or Ormus and of Ind,\nOr where the gorgeous East with richest hand\nShowers on her kings barbaric pearl and gold,\nSatan exalted sat, by merit raised\nTo that bad eminence; and, from despair\nThus high uplifted beyond hope, aspires\nBeyond thus high, insatiate to pursue\nVain war with Heaven; and, by success untaught,\nHis proud imaginations thus displayed:--\n  \"Powers and Dominions, Deities of Heaven!--\nFor, since no deep within her gulf can hold\nImmortal vigour, though oppressed and fallen,\nI give not Heaven for lost: from this descent\nCelestial Virtues rising will appear\nMore glorious and more dread than from no fall,\nAnd trust themselves to fear no second fate!--\nMe though just right, and the fixed laws of Heaven,\nDid first create your leader--next, free choice\nWith what besides in council or in fight\nHath been achieved of merit--yet this loss,\nThus far at least recovered, hath much more\nEstablished in a safe, unenvied throne,\nYielded with full consent. The happier state\nIn Heaven, which follows dignity, might draw\nEnvy from each inferior; but who here\nWill envy whom the highest place exposes\nForemost to stand against the Thunderer's aim\nYour bulwark, and condemns to greatest share\nOf endless pain? Where there is, then, no good\nFor which to strive, no strife can grow up there\nFrom faction: for none sure will claim in Hell\nPrecedence; none whose portion is so small\nOf present pain that with ambitious mind\nWill covet more! With this advantage, then,\nTo union, and firm faith, and firm accord,\nMore than can be in Heaven, we now return\nTo claim our just inheritance of old,\nSurer to prosper than prosperity\nCould have assured us; and by what best way,\nWhether of open war or covert guile,\nWe now debate. Who can advise may speak.\"\n  He ceased; and next him Moloch, sceptred king,\nStood up--the strongest and the fiercest Spirit\nThat fought in Heaven, now fiercer by despair.\nHis trust was with th' Eternal to be deemed\nEqual in strength, and rather than be less\nCared not to be at all; with that care lost\nWent all his fear: of God, or Hell, or worse,\nHe recked not, and these words thereafter spake:--\n  \"My sentence is for open war. Of wiles,\nMore unexpert, I boast not: them let those\nContrive who need, or when they need; not now.\nFor, while they sit contriving, shall the rest--\nMillions that stand in arms, and longing wait\nThe signal to ascend--sit lingering here,\nHeaven's fugitives, and for their dwelling-place\nAccept this dark opprobrious den of shame,\nThe prison of his ryranny who reigns\nBy our delay? No! let us rather choose,\nArmed with Hell-flames and fury, all at once\nO'er Heaven's high towers to force resistless way,\nTurning our tortures into horrid arms\nAgainst the Torturer; when, to meet the noise\nOf his almighty engine, he shall hear\nInfernal thunder, and, for lightning, see\nBlack fire and horror shot with equal rage\nAmong his Angels, and his throne itself\nMixed with Tartarean sulphur and strange fire,\nHis own invented torments. But perhaps\nThe way seems difficult, and steep to scale\nWith upright wing against a higher foe!\nLet such bethink them, if the sleepy drench\nOf that forgetful lake benumb not still,\nThat in our porper motion we ascend\nUp to our native seat; descent and fall\nTo us is adverse. Who but felt of late,\nWhen the fierce foe hung on our broken rear\nInsulting, and pursued us through the Deep,\nWith what compulsion and laborious flight\nWe sunk thus low? Th' ascent is easy, then;\nTh' event is feared! Should we again provoke\nOur stronger, some worse way his wrath may find\nTo our destruction, if there be in Hell\nFear to be worse destroyed! What can be worse\nThan to dwell here, driven out from bliss, condemned\nIn this abhorred deep to utter woe!\nWhere pain of unextinguishable fire\nMust exercise us without hope of end\nThe vassals of his anger, when the scourge\nInexorably, and the torturing hour,\nCalls us to penance? More destroyed than thus,\nWe should be quite abolished, and expire.\nWhat fear we then? what doubt we to incense\nHis utmost ire? which, to the height enraged,\nWill either quite consume us, and reduce\nTo nothing this essential--happier far\nThan miserable to have eternal being!--\nOr, if our substance be indeed divine,\nAnd cannot cease to be, we are at worst\nOn this side nothing; and by proof we feel\nOur power sufficient to disturb his Heaven,\nAnd with perpetual inroads to alarm,\nThough inaccessible, his fatal throne:\nWhich, if not victory, is yet revenge.\"\n  He ended frowning, and his look denounced\nDesperate revenge, and battle dangerous\nTo less than gods. On th' other side up rose\nBelial, in act more graceful and humane.\nA fairer person lost not Heaven; he seemed\nFor dignity composed, and high exploit.\nBut all was false and hollow; though his tongue\nDropped manna, and could make the worse appear\nThe better reason, to perplex and dash\nMaturest counsels: for his thoughts were low--\n To vice industrious, but to nobler deeds\nTimorous and slothful. Yet he pleased the ear,\nAnd with persuasive accent thus began:--\n  \"I should be much for open war, O Peers,\nAs not behind in hate, if what was urged\nMain reason to persuade immediate war\nDid not dissuade me most, and seem to cast\nOminous conjecture on the whole success;\nWhen he who most excels in fact of arms,\nIn what he counsels and in what excels\nMistrustful, grounds his courage on despair\nAnd utter dissolution, as the scope\nOf all his aim, after some dire revenge.\nFirst, what revenge? The towers of Heaven are filled\nWith armed watch, that render all access\nImpregnable: oft on the bodering Deep\nEncamp their legions, or with obscure wing\nScout far and wide into the realm of Night,\nScorning surprise. Or, could we break our way\nBy force, and at our heels all Hell should rise\nWith blackest insurrection to confound\nHeaven's purest light, yet our great Enemy,\nAll incorruptible, would on his throne\nSit unpolluted, and th' ethereal mould,\nIncapable of stain, would soon expel\nHer mischief, and purge off the baser fire,\nVictorious. Thus repulsed, our final hope\nIs flat despair: we must exasperate\nTh' Almighty Victor to spend all his rage;\nAnd that must end us; that must be our cure--\nTo be no more. Sad cure! for who would lose,\nThough full of pain, this intellectual being,\nThose thoughts that wander through eternity,\nTo perish rather, swallowed up and lost\nIn the wide womb of uncreated Night,\nDevoid of sense and motion? And who knows,\nLet this be good, whether our angry Foe\nCan give it, or will ever? How he can\nIs doubtful; that he never will is sure.\nWill he, so wise, let loose at once his ire,\nBelike through impotence or unaware,\nTo give his enemies their wish, and end\nThem in his anger whom his anger saves\nTo punish endless? 'Wherefore cease we, then?'\nSay they who counsel war; 'we are decreed,\nReserved, and destined to eternal woe;\nWhatever doing, what can we suffer more,\nWhat can we suffer worse?' Is this, then, worst--\nThus sitting, thus consulting, thus in arms?\nWhat when we fled amain, pursued and struck\nWith Heaven's afflicting thunder, and besought\nThe Deep to shelter us? This Hell then seemed\nA refuge from those wounds. Or when we lay\nChained on the burning lake? That sure was worse.\nWhat if the breath that kindled those grim fires,\nAwaked, should blow them into sevenfold rage,\nAnd plunge us in the flames; or from above\nShould intermitted vengeance arm again\nHis red right hand to plague us? What if all\nHer stores were opened, and this firmament\nOf Hell should spout her cataracts of fire,\nImpendent horrors, threatening hideous fall\nOne day upon our heads; while we perhaps,\nDesigning or exhorting glorious war,\nCaught in a fiery tempest, shall be hurled,\nEach on his rock transfixed, the sport and prey\nOr racking whirlwinds, or for ever sunk\nUnder yon boiling ocean, wrapt in chains,\nThere to converse with everlasting groans,\nUnrespited, unpitied, unreprieved,\nAges of hopeless end? This would be worse.\nWar, therefore, open or concealed, alike\nMy voice dissuades; for what can force or guile\nWith him, or who deceive his mind, whose eye\nViews all things at one view? He from Heaven's height\nAll these our motions vain sees and derides,\nNot more almighty to resist our might\nThan wise to frustrate all our plots and wiles.\nShall we, then, live thus vile--the race of Heaven\nThus trampled, thus expelled, to suffer here\nChains and these torments? Better these than worse,\nBy my advice; since fate inevitable\nSubdues us, and omnipotent decree,\nThe Victor's will. To suffer, as to do,\nOur strength is equal; nor the law unjust\nThat so ordains. This was at first resolved,\nIf we were wise, against so great a foe\nContending, and so doubtful what might fall.\nI laugh when those who at the spear are bold\nAnd venturous, if that fail them, shrink, and fear\nWhat yet they know must follow--to endure\nExile, or igominy, or bonds, or pain,\nThe sentence of their Conqueror. This is now\nOur doom; which if we can sustain and bear,\nOur Supreme Foe in time may much remit\nHis anger, and perhaps, thus far removed,\nNot mind us not offending, satisfied\nWith what is punished; whence these raging fires\nWill slacken, if his breath stir not their flames.\nOur purer essence then will overcome\nTheir noxious vapour; or, inured, not feel;\nOr, changed at length, and to the place conformed\nIn temper and in nature, will receive\nFamiliar the fierce heat; and, void of pain,\nThis horror will grow mild, this darkness light;\nBesides what hope the never-ending flight\nOf future days may bring, what chance, what change\nWorth waiting--since our present lot appears\nFor happy though but ill, for ill not worst,\nIf we procure not to ourselves more woe.\"\n  Thus Belial, with words clothed in reason's garb,\nCounselled ignoble ease and peaceful sloth,\nNot peace; and after him thus Mammon spake:--\n  \"Either to disenthrone the King of Heaven\nWe war, if war be best, or to regain\nOur own right lost. Him to unthrone we then\nMay hope, when everlasting Fate shall yield\nTo fickle Chance, and Chaos judge the strife.\nThe former, vain to hope, argues as vain\nThe latter; for what place can be for us\nWithin Heaven's bound, unless Heaven's Lord supreme\nWe overpower? Suppose he should relent\nAnd publish grace to all, on promise made\nOf new subjection; with what eyes could we\nStand in his presence humble, and receive\nStrict laws imposed, to celebrate his throne\nWith warbled hyms, and to his Godhead sing\nForced hallelujahs, while he lordly sits\nOur envied sovereign, and his altar breathes\nAmbrosial odours and ambrosial flowers,\nOur servile offerings? This must be our task\nIn Heaven, this our delight. How wearisome\nEternity so spent in worship paid\nTo whom we hate! Let us not then pursue,\nBy force impossible, by leave obtained\nUnacceptable, though in Heaven, our state\nOf splendid vassalage; but rather seek\nOur own good from ourselves, and from our own\nLive to ourselves, though in this vast recess,\nFree and to none accountable, preferring\nHard liberty before the easy yoke\nOf servile pomp. Our greatness will appear\nThen most conspicuous when great things of small,\nUseful of hurtful, prosperous of adverse,\nWe can create, and in what place soe'er\nThrive under evil, and work ease out of pain\nThrough labour and endurance. This deep world\nOf darkness do we dread? How oft amidst\nThick clouds and dark doth Heaven's all-ruling Sire\nChoose to reside, his glory unobscured,\nAnd with the majesty of darkness round\nCovers his throne, from whence deep thunders roar.\nMustering their rage, and Heaven resembles Hell!\nAs he our darkness, cannot we his light\nImitate when we please? This desert soil\nWants not her hidden lustre, gems and gold;\nNor want we skill or art from whence to raise\nMagnificence; and what can Heaven show more?\nOur torments also may, in length of time,\nBecome our elements, these piercing fires\nAs soft as now severe, our temper changed\nInto their temper; which must needs remove\nThe sensible of pain. All things invite\nTo peaceful counsels, and the settled state\nOf order, how in safety best we may\nCompose our present evils, with regard\nOf what we are and where, dismissing quite\nAll thoughts of war. Ye have what I advise.\"\n  He scarce had finished, when such murmur filled\nTh' assembly as when hollow rocks retain\nThe sound of blustering winds, which all night long\nHad roused the sea, now with hoarse cadence lull\nSeafaring men o'erwatched, whose bark by chance\nOr pinnace, anchors in a craggy bay\nAfter the tempest. Such applause was heard\nAs Mammon ended, and his sentence pleased,\nAdvising peace: for such another field\nThey dreaded worse than Hell; so much the fear\nOf thunder and the sword of Michael\nWrought still within them; and no less desire\nTo found this nether empire, which might rise,\nBy policy and long process of time,\nIn emulation opposite to Heaven.\nWhich when Beelzebub perceived--than whom,\nSatan except, none higher sat--with grave\nAspect he rose, and in his rising seemed\nA pillar of state. Deep on his front engraven\nDeliberation sat, and public care;\nAnd princely counsel in his face yet shone,\nMajestic, though in ruin. Sage he stood\nWith Atlantean shoulders, fit to bear\nThe weight of mightiest monarchies; his look\nDrew audience and attention still as night\nOr summer's noontide air, while thus he spake:--\n  \"Thrones and Imperial Powers, Offspring of Heaven,\nEthereal Virtues! or these titles now\nMust we renounce, and, changing style, be called\nPrinces of Hell? for so the popular vote\nInclines--here to continue, and build up here\nA growing empire; doubtless! while we dream,\nAnd know not that the King of Heaven hath doomed\nThis place our dungeon, not our safe retreat\nBeyond his potent arm, to live exempt\nFrom Heaven's high jurisdiction, in new league\nBanded against his throne, but to remain\nIn strictest bondage, though thus far removed,\nUnder th' inevitable curb, reserved\nHis captive multitude. For he, to be sure,\nIn height or depth, still first and last will reign\nSole king, and of his kingdom lose no part\nBy our revolt, but over Hell extend\nHis empire, and with iron sceptre rule\nUs here, as with his golden those in Heaven.\nWhat sit we then projecting peace and war?\nWar hath determined us and foiled with loss\nIrreparable; terms of peace yet none\nVouchsafed or sought; for what peace will be given\nTo us enslaved, but custody severe,\nAnd stripes and arbitrary punishment\nInflicted? and what peace can we return,\nBut, to our power, hostility and hate,\nUntamed reluctance, and revenge, though slow,\nYet ever plotting how the Conqueror least\nMay reap his conquest, and may least rejoice\nIn doing what we most in suffering feel?\nNor will occasion want, nor shall we need\nWith dangerous expedition to invade\nHeaven, whose high walls fear no assault or siege,\nOr ambush from the Deep. What if we find\nSome easier enterprise? There is a place\n(If ancient and prophetic fame in Heaven\nErr not)--another World, the happy seat\nOf some new race, called Man, about this time\nTo be created like to us, though less\nIn power and excellence, but favoured more\nOf him who rules above; so was his will\nPronounced among the Gods, and by an oath\nThat shook Heaven's whole circumference confirmed.\nThither let us bend all our thoughts, to learn\nWhat creatures there inhabit, of what mould\nOr substance, how endued, and what their power\nAnd where their weakness: how attempted best,\nBy force of subtlety. Though Heaven be shut,\nAnd Heaven's high Arbitrator sit secure\nIn his own strength, this place may lie exposed,\nThe utmost border of his kingdom, left\nTo their defence who hold it: here, perhaps,\nSome advantageous act may be achieved\nBy sudden onset--either with Hell-fire\nTo waste his whole creation, or possess\nAll as our own, and drive, as we were driven,\nThe puny habitants; or, if not drive,\nSeduce them to our party, that their God\nMay prove their foe, and with repenting hand\nAbolish his own works. This would surpass\nCommon revenge, and interrupt his joy\nIn our confusion, and our joy upraise\nIn his disturbance; when his darling sons,\nHurled headlong to partake with us, shall curse\nTheir frail original, and faded bliss--\nFaded so soon! Advise if this be worth\nAttempting, or to sit in darkness here\nHatching vain empires.\" Thus beelzebub\nPleaded his devilish counsel--first devised\nBy Satan, and in part proposed: for whence,\nBut from the author of all ill, could spring\nSo deep a malice, to confound the race\nOf mankind in one root, and Earth with Hell\nTo mingle and involve, done all to spite\nThe great Creator? But their spite still serves\nHis glory to augment. The bold design\nPleased highly those infernal States, and joy\nSparkled in all their eyes: with full assent\nThey vote: whereat his speech he thus renews:--\n\"Well have ye judged, well ended long debate,\nSynod of Gods, and, like to what ye are,\nGreat things resolved, which from the lowest deep\nWill once more lift us up, in spite of fate,\nNearer our ancient seat--perhaps in view\nOf those bright confines, whence, with neighbouring arms,\nAnd opportune excursion, we may chance\nRe-enter Heaven; or else in some mild zone\nDwell, not unvisited of Heaven's fair light,\nSecure, and at the brightening orient beam\nPurge off this gloom: the soft delicious air,\nTo heal the scar of these corrosive fires,\nShall breathe her balm. But, first, whom shall we send\nIn search of this new World? whom shall we find\nSufficient? who shall tempt with wandering feet\nThe dark, unbottomed, infinite Abyss,\nAnd through the palpable obscure find out\nHis uncouth way, or spread his airy flight,\nUpborne with indefatigable wings\nOver the vast abrupt, ere he arrive\nThe happy Isle? What strength, what art, can then\nSuffice, or what evasion bear him safe,\nThrough the strict senteries and stations thick\nOf Angels watching round? Here he had need\nAll circumspection: and we now no less\nChoice in our suffrage; for on whom we send\nThe weight of all, and our last hope, relies.\"\n  This said, he sat; and expectation held\nHis look suspense, awaiting who appeared\nTo second, or oppose, or undertake\nThe perilous attempt. But all sat mute,\nPondering the danger with deep thoughts; and each\nIn other's countenance read his own dismay,\nAstonished. None among the choice and prime\nOf those Heaven-warring champions could be found\nSo hardy as to proffer or accept,\nAlone, the dreadful voyage; till, at last,\nSatan, whom now transcendent glory raised\nAbove his fellows, with monarchal pride\nConscious of highest worth, unmoved thus spake:--\n  \"O Progeny of Heaven! Empyreal Thrones!\nWith reason hath deep silence and demur\nSeized us, though undismayed. Long is the way\nAnd hard, that out of Hell leads up to light.\nOur prison strong, this huge convex of fire,\nOutrageous to devour, immures us round\nNinefold; and gates of burning adamant,\nBarred over us, prohibit all egress.\nThese passed, if any pass, the void profound\nOf unessential Night receives him next,\nWide-gaping, and with utter loss of being\nThreatens him, plunged in that abortive gulf.\nIf thence he scape, into whatever world,\nOr unknown region, what remains him less\nThan unknown dangers, and as hard escape?\nBut I should ill become this throne, O Peers,\nAnd this imperial sovereignty, adorned\nWith splendour, armed with power, if aught proposed\nAnd judged of public moment in the shape\nOf difficulty or danger, could deter\nMe from attempting. Wherefore do I assume\nThese royalties, and not refuse to reign,\nRefusing to accept as great a share\nOf hazard as of honour, due alike\nTo him who reigns, and so much to him due\nOf hazard more as he above the rest\nHigh honoured sits? Go, therefore, mighty Powers,\nTerror of Heaven, though fallen; intend at home,\nWhile here shall be our home, what best may ease\nThe present misery, and render Hell\nMore tolerable; if there be cure or charm\nTo respite, or deceive, or slack the pain\nOf this ill mansion: intermit no watch\nAgainst a wakeful foe, while I abroad\nThrough all the coasts of dark destruction seek\nDeliverance for us all. This enterprise\nNone shall partake with me.\" Thus saying, rose\nThe Monarch, and prevented all reply;\nPrudent lest, from his resolution raised,\nOthers among the chief might offer now,\nCertain to be refused, what erst they feared,\nAnd, so refused, might in opinion stand\nHis rivals, winning cheap the high repute\nWhich he through hazard huge must earn. But they\nDreaded not more th' adventure than his voice\nForbidding; and at once with him they rose.\nTheir rising all at once was as the sound\nOf thunder heard remote. Towards him they bend\nWith awful reverence prone, and as a God\nExtol him equal to the Highest in Heaven.\nNor failed they to express how much they praised\nThat for the general safety he despised\nHis own: for neither do the Spirits damned\nLose all their virtue; lest bad men should boast\nTheir specious deeds on earth, which glory excites,\nOr close ambition varnished o'er with zeal.\n  Thus they their doubtful consultations dark\nEnded, rejoicing in their matchless Chief:\nAs, when from mountain-tops the dusky clouds\nAscending, while the north wind sleeps, o'erspread\nHeaven's cheerful face, the louring element\nScowls o'er the darkened landscape snow or shower,\nIf chance the radiant sun, with farewell sweet,\nExtend his evening beam, the fields revive,\nThe birds their notes renew, and bleating herds\nAttest their joy, that hill and valley rings.\nO shame to men! Devil with devil damned\nFirm concord holds; men only disagree\nOf creatures rational, though under hope\nOf heavenly grace, and, God proclaiming peace,\nYet live in hatred, enmity, and strife\nAmong themselves, and levy cruel wars\nWasting the earth, each other to destroy:\nAs if (which might induce us to accord)\nMan had not hellish foes enow besides,\nThat day and night for his destruction wait!\n  The Stygian council thus dissolved; and forth\nIn order came the grand infernal Peers:\nMidst came their mighty Paramount, and seemed\nAlone th' antagonist of Heaven, nor less\nThan Hell's dread Emperor, with pomp supreme,\nAnd god-like imitated state: him round\nA globe of fiery Seraphim enclosed\nWith bright emblazonry, and horrent arms.\nThen of their session ended they bid cry\nWith trumpet's regal sound the great result:\nToward the four winds four speedy Cherubim\nPut to their mouths the sounding alchemy,\nBy herald's voice explained; the hollow Abyss\nHeard far adn wide, and all the host of Hell\nWith deafening shout returned them loud acclaim.\nThence more at ease their minds, and somewhat raised\nBy false presumptuous hope, the ranged Powers\nDisband; and, wandering, each his several way\nPursues, as inclination or sad choice\nLeads him perplexed, where he may likeliest find\nTruce to his restless thoughts, and entertain\nThe irksome hours, till his great Chief return.\nPart on the plain, or in the air sublime,\nUpon the wing or in swift race contend,\nAs at th' Olympian games or Pythian fields;\nPart curb their fiery steeds, or shun the goal\nWith rapid wheels, or fronted brigades form:\nAs when, to warn proud cities, war appears\nWaged in the troubled sky, and armies rush\nTo battle in the clouds; before each van\nPrick forth the airy knights, and couch their spears,\nTill thickest legions close; with feats of arms\nFrom either end of heaven the welkin burns.\nOthers, with vast Typhoean rage, more fell,\nRend up both rocks and hills, and ride the air\nIn whirlwind; Hell scarce holds the wild uproar:--\nAs when Alcides, from Oechalia crowned\nWith conquest, felt th' envenomed robe, and tore\nThrough pain up by the roots Thessalian pines,\nAnd Lichas from the top of Oeta threw\nInto th' Euboic sea. Others, more mild,\nRetreated in a silent valley, sing\nWith notes angelical to many a harp\nTheir own heroic deeds, and hapless fall\nBy doom of battle, and complain that Fate\nFree Virtue should enthrall to Force or Chance.\nTheir song was partial; but the harmony\n(What could it less when Spirits immortal sing?)\nSuspended Hell, and took with ravishment\nThe thronging audience. In discourse more sweet\n(For Eloquence the Soul, Song charms the Sense)\nOthers apart sat on a hill retired,\nIn thoughts more elevate, and reasoned high\nOf Providence, Foreknowledge, Will, and Fate--\nFixed fate, free will, foreknowledge absolute,\nAnd found no end, in wandering mazes lost.\nOf good and evil much they argued then,\nOf happiness and final misery,\nPassion and apathy, and glory and shame:\nVain wisdom all, and false philosophy!--\nYet, with a pleasing sorcery, could charm\nPain for a while or anguish, and excite\nFallacious hope, or arm th' obdured breast\nWith stubborn patience as with triple steel.\nAnother part, in squadrons and gross bands,\nOn bold adventure to discover wide\nThat dismal world, if any clime perhaps\nMight yield them easier habitation, bend\nFour ways their flying march, along the banks\nOf four infernal rivers, that disgorge\nInto the burning lake their baleful streams--\nAbhorred Styx, the flood of deadly hate;\nSad Acheron of sorrow, black and deep;\nCocytus, named of lamentation loud\nHeard on the rueful stream; fierce Phlegeton,\nWhose waves of torrent fire inflame with rage.\nFar off from these, a slow and silent stream,\nLethe, the river of oblivion, rolls\nHer watery labyrinth, whereof who drinks\nForthwith his former state and being forgets--\nForgets both joy and grief, pleasure and pain.\nBeyond this flood a frozen continent\nLies dark and wild, beat with perpetual storms\nOf whirlwind and dire hail, which on firm land\nThaws not, but gathers heap, and ruin seems\nOf ancient pile; all else deep snow and ice,\nA gulf profound as that Serbonian bog\nBetwixt Damiata and Mount Casius old,\nWhere armies whole have sunk: the parching air\nBurns frore, and cold performs th' effect of fire.\nThither, by harpy-footed Furies haled,\nAt certain revolutions all the damned\nAre brought; and feel by turns the bitter change\nOf fierce extremes, extremes by change more fierce,\nFrom beds of raging fire to starve in ice\nTheir soft ethereal warmth, and there to pine\nImmovable, infixed, and frozen round\nPeriods of time,--thence hurried back to fire.\nThey ferry over this Lethean sound\nBoth to and fro, their sorrow to augment,\nAnd wish and struggle, as they pass, to reach\nThe tempting stream, with one small drop to lose\nIn sweet forgetfulness all pain and woe,\nAll in one moment, and so near the brink;\nBut Fate withstands, and, to oppose th' attempt,\nMedusa with Gorgonian terror guards\nThe ford, and of itself the water flies\nAll taste of living wight, as once it fled\nThe lip of Tantalus. Thus roving on\nIn confused march forlorn, th' adventurous bands,\nWith shuddering horror pale, and eyes aghast,\nViewed first their lamentable lot, and found\nNo rest. Through many a dark and dreary vale\nThey passed, and many a region dolorous,\nO'er many a frozen, many a fiery alp,\nRocks, caves, lakes, fens, bogs, dens, and shades of death--\nA universe of death, which God by curse\nCreated evil, for evil only good;\nWhere all life dies, death lives, and Nature breeds,\nPerverse, all monstrous, all prodigious things,\nObominable, inutterable, and worse\nThan fables yet have feigned or fear conceived,\nGorgons, and Hydras, and Chimeras dire.\n  Meanwhile the Adversary of God and Man,\nSatan, with thoughts inflamed of highest design,\nPuts on swift wings, and toward the gates of Hell\nExplores his solitary flight: sometimes\nHe scours the right hand coast, sometimes the left;\nNow shaves with level wing the deep, then soars\nUp to the fiery concave towering high.\nAs when far off at sea a fleet descried\nHangs in the clouds, by equinoctial winds\nClose sailing from Bengala, or the isles\nOf Ternate and Tidore, whence merchants bring\nTheir spicy drugs; they on the trading flood,\nThrough the wide Ethiopian to the Cape,\nPly stemming nightly toward the pole: so seemed\nFar off the flying Fiend. At last appear\nHell-bounds, high reaching to the horrid roof,\nAnd thrice threefold the gates; three folds were brass,\nThree iron, three of adamantine rock,\nImpenetrable, impaled with circling fire,\nYet unconsumed. Before the gates there sat\nOn either side a formidable Shape.\nThe one seemed woman to the waist, and fair,\nBut ended foul in many a scaly fold,\nVoluminous and vast--a serpent armed\nWith mortal sting. About her middle round\nA cry of Hell-hounds never-ceasing barked\nWith wide Cerberean mouths full loud, and rung\nA hideous peal; yet, when they list, would creep,\nIf aught disturbed their noise, into her womb,\nAnd kennel there; yet there still barked and howled\nWithin unseen. Far less abhorred than these\nVexed Scylla, bathing in the sea that parts\nCalabria from the hoarse Trinacrian shore;\nNor uglier follow the night-hag, when, called\nIn secret, riding through the air she comes,\nLured with the smell of infant blood, to dance\nWith Lapland witches, while the labouring moon\nEclipses at their charms. The other Shape--\nIf shape it might be called that shape had none\nDistinguishable in member, joint, or limb;\nOr substance might be called that shadow seemed,\nFor each seemed either--black it stood as Night,\nFierce as ten Furies, terrible as Hell,\nAnd shook a dreadful dart: what seemed his head\nThe likeness of a kingly crown had on.\nSatan was now at hand, and from his seat\nThe monster moving onward came as fast\nWith horrid strides; Hell trembled as he strode.\nTh' undaunted Fiend what this might be admired--\nAdmired, not feared (God and his Son except,\nCreated thing naught valued he nor shunned),\nAnd with disdainful look thus first began:--\n  \"Whence and what art thou, execrable Shape,\nThat dar'st, though grim and terrible, advance\nThy miscreated front athwart my way\nTo yonder gates? Through them I mean to pass,\nThat be assured, without leave asked of thee.\nRetire; or taste thy folly, and learn by proof,\nHell-born, not to contend with Spirits of Heaven.\"\n  To whom the Goblin, full of wrath, replied:--\n\"Art thou that traitor Angel? art thou he,\nWho first broke peace in Heaven and faith, till then\nUnbroken, and in proud rebellious arms\nDrew after him the third part of Heaven's sons,\nConjured against the Highest--for which both thou\nAnd they, outcast from God, are here condemned\nTo waste eternal days in woe and pain?\nAnd reckon'st thou thyself with Spirits of Heaven\nHell-doomed, and breath'st defiance here and scorn,\nWhere I reign king, and, to enrage thee more,\nThy king and lord? Back to thy punishment,\nFalse fugitive; and to thy speed add wings,\nLest with a whip of scorpions I pursue\nThy lingering, or with one stroke of this dart\nStrange horror seize thee, and pangs unfelt before.\"\n  So spake the grisly Terror, and in shape,\nSo speaking and so threatening, grew tenfold,\nMore dreadful and deform. On th' other side,\nIncensed with indignation, Satan stood\nUnterrified, and like a comet burned,\nThat fires the length of Ophiuchus huge\nIn th' arctic sky, and from his horrid hair\nShakes pestilence and war. Each at the head\nLevelled his deadly aim; their fatal hands\nNo second stroke intend; and such a frown\nEach cast at th' other as when two black clouds,\nWith heaven's artillery fraught, came rattling on\nOver the Caspian,--then stand front to front\nHovering a space, till winds the signal blow\nTo join their dark encounter in mid-air.\nSo frowned the mighty combatants that Hell\nGrew darker at their frown; so matched they stood;\nFor never but once more was wither like\nTo meet so great a foe. And now great deeds\nHad been achieved, whereof all Hell had rung,\nHad not the snaky Sorceress, that sat\nFast by Hell-gate and kept the fatal key,\nRisen, and with hideous outcry rushed between.\n  \"O father, what intends thy hand,\" she cried,\n\"Against thy only son? What fury, O son,\nPossesses thee to bend that mortal dart\nAgainst thy father's head? And know'st for whom?\nFor him who sits above, and laughs the while\nAt thee, ordained his drudge to execute\nWhate'er his wrath, which he calls justice, bids--\nHis wrath, which one day will destroy ye both!\"\n  She spake, and at her words the hellish Pest\nForbore: then these to her Satan returned:--\n  \"So strange thy outcry, and thy words so strange\nThou interposest, that my sudden hand,\nPrevented, spares to tell thee yet by deeds\nWhat it intends, till first I know of thee\nWhat thing thou art, thus double-formed, and why,\nIn this infernal vale first met, thou call'st\nMe father, and that phantasm call'st my son.\nI know thee not, nor ever saw till now\nSight more detestable than him and thee.\"\n  T' whom thus the Portress of Hell-gate replied:--\n\"Hast thou forgot me, then; and do I seem\nNow in thine eye so foul?--once deemed so fair\nIn Heaven, when at th' assembly, and in sight\nOf all the Seraphim with thee combined\nIn bold conspiracy against Heaven's King,\nAll on a sudden miserable pain\nSurprised thee, dim thine eyes and dizzy swum\nIn darkness, while thy head flames thick and fast\nThrew forth, till on the left side opening wide,\nLikest to thee in shape and countenance bright,\nThen shining heavenly fair, a goddess armed,\nOut of thy head I sprung. Amazement seized\nAll th' host of Heaven; back they recoiled afraid\nAt first, and called me Sin, and for a sign\nPortentous held me; but, familiar grown,\nI pleased, and with attractive graces won\nThe most averse--thee chiefly, who, full oft\nThyself in me thy perfect image viewing,\nBecam'st enamoured; and such joy thou took'st\nWith me in secret that my womb conceived\nA growing burden. Meanwhile war arose,\nAnd fields were fought in Heaven: wherein remained\n(For what could else?) to our Almighty Foe\nClear victory; to our part loss and rout\nThrough all the Empyrean. Down they fell,\nDriven headlong from the pitch of Heaven, down\nInto this Deep; and in the general fall\nI also: at which time this powerful key\nInto my hands was given, with charge to keep\nThese gates for ever shut, which none can pass\nWithout my opening. Pensive here I sat\nAlone; but long I sat not, till my womb,\nPregnant by thee, and now excessive grown,\nProdigious motion felt and rueful throes.\nAt last this odious offspring whom thou seest,\nThine own begotten, breaking violent way,\nTore through my entrails, that, with fear and pain\nDistorted, all my nether shape thus grew\nTransformed: but he my inbred enemy\nForth issued, brandishing his fatal dart,\nMade to destroy. I fled, and cried out Death!\nHell trembled at the hideous name, and sighed\nFrom all her caves, and back resounded Death!\nI fled; but he pursued (though more, it seems,\nInflamed with lust than rage), and, swifter far,\nMe overtook, his mother, all dismayed,\nAnd, in embraces forcible and foul\nEngendering with me, of that rape begot\nThese yelling monsters, that with ceaseless cry\nSurround me, as thou saw'st--hourly conceived\nAnd hourly born, with sorrow infinite\nTo me; for, when they list, into the womb\nThat bred them they return, and howl, and gnaw\nMy bowels, their repast; then, bursting forth\nAfresh, with conscious terrors vex me round,\nThat rest or intermission none I find.\nBefore mine eyes in opposition sits\nGrim Death, my son and foe, who set them on,\nAnd me, his parent, would full soon devour\nFor want of other prey, but that he knows\nHis end with mine involved, and knows that I\nShould prove a bitter morsel, and his bane,\nWhenever that shall be: so Fate pronounced.\nBut thou, O father, I forewarn thee, shun\nHis deadly arrow; neither vainly hope\nTo be invulnerable in those bright arms,\nThrough tempered heavenly; for that mortal dint,\nSave he who reigns above, none can resist.\"\n  She finished; and the subtle Fiend his lore\nSoon learned, now milder, and thus answered smooth:--\n  \"Dear daughter--since thou claim'st me for thy sire,\nAnd my fair son here show'st me, the dear pledge\nOf dalliance had with thee in Heaven, and joys\nThen sweet, now sad to mention, through dire change\nBefallen us unforeseen, unthought-of--know,\nI come no enemy, but to set free\nFrom out this dark and dismal house of pain\nBoth him and thee, and all the heavenly host\nOf Spirits that, in our just pretences armed,\nFell with us from on high. From them I go\nThis uncouth errand sole, and one for all\nMyself expose, with lonely steps to tread\nTh' unfounded Deep, and through the void immense\nTo search, with wandering quest, a place foretold\nShould be--and, by concurring signs, ere now\nCreated vast and round--a place of bliss\nIn the purlieus of Heaven; and therein placed\nA race of upstart creatures, to supply\nPerhaps our vacant room, though more removed,\nLest Heaven, surcharged with potent multitude,\nMight hap to move new broils. Be this, or aught\nThan this more secret, now designed, I haste\nTo know; and, this once known, shall soon return,\nAnd bring ye to the place where thou and Death\nShall dwell at ease, and up and down unseen\nWing silently the buxom air, embalmed\nWith odours. There ye shall be fed and filled\nImmeasurably; all things shall be your prey.\"\n  He ceased; for both seemed highly pleased, and Death\nGrinned horrible a ghastly smile, to hear\nHis famine should be filled, and blessed his maw\nDestined to that good hour. No less rejoiced\nHis mother bad, and thus bespake her sire:--\n  \"The key of this infernal Pit, by due\nAnd by command of Heaven's all-powerful King,\nI keep, by him forbidden to unlock\nThese adamantine gates; against all force\nDeath ready stands to interpose his dart,\nFearless to be o'ermatched by living might.\nBut what owe I to his commands above,\nWho hates me, and hath hither thrust me down\nInto this gloom of Tartarus profound,\nTo sit in hateful office here confined,\nInhabitant of Heaven and heavenly born--\nHere in perpetual agony and pain,\nWith terrors and with clamours compassed round\nOf mine own brood, that on my bowels feed?\nThou art my father, thou my author, thou\nMy being gav'st me; whom should I obey\nBut thee? whom follow? Thou wilt bring me soon\nTo that new world of light and bliss, among\nThe gods who live at ease, where I shall reign\nAt thy right hand voluptuous, as beseems\nThy daughter and thy darling, without end.\"\n  Thus saying, from her side the fatal key,\nSad instrument of all our woe, she took;\nAnd, towards the gate rolling her bestial train,\nForthwith the huge portcullis high up-drew,\nWhich, but herself, not all the Stygian Powers\nCould once have moved; then in the key-hole turns\nTh' intricate wards, and every bolt and bar\nOf massy iron or solid rock with ease\nUnfastens. On a sudden open fly,\nWith impetuous recoil and jarring sound,\nTh' infernal doors, and on their hinges grate\nHarsh thunder, that the lowest bottom shook\nOf Erebus. She opened; but to shut\nExcelled her power: the gates wide open stood,\nThat with extended wings a bannered host,\nUnder spread ensigns marching, mibht pass through\nWith horse and chariots ranked in loose array;\nSo wide they stood, and like a furnace-mouth\nCast forth redounding smoke and ruddy flame.\nBefore their eyes in sudden view appear\nThe secrets of the hoary Deep--a dark\nIllimitable ocean, without bound,\nWithout dimension; where length, breadth, and height,\nAnd time, and place, are lost; where eldest Night\nAnd Chaos, ancestors of Nature, hold\nEternal anarchy, amidst the noise\nOf endless wars, and by confusion stand.\nFor Hot, Cold, Moist, and Dry, four champions fierce,\nStrive here for mastery, and to battle bring\nTheir embryon atoms: they around the flag\nOf each his faction, in their several clans,\nLight-armed or heavy, sharp, smooth, swift, or slow,\nSwarm populous, unnumbered as the sands\nOf Barca or Cyrene's torrid soil,\nLevied to side with warring winds, and poise\nTheir lighter wings. To whom these most adhere\nHe rules a moment: Chaos umpire sits,\nAnd by decision more embroils the fray\nBy which he reigns: next him, high arbiter,\nChance governs all. Into this wild Abyss,\nThe womb of Nature, and perhaps her grave,\nOf neither sea, nor shore, nor air, nor fire,\nBut all these in their pregnant causes mixed\nConfusedly, and which thus must ever fight,\nUnless th' Almighty Maker them ordain\nHis dark materials to create more worlds--\nInto this wild Abyss the wary Fiend\nStood on the brink of Hell and looked a while,\nPondering his voyage; for no narrow frith\nHe had to cross. Nor was his ear less pealed\nWith noises loud and ruinous (to compare\nGreat things with small) than when Bellona storms\nWith all her battering engines, bent to rase\nSome capital city; or less than if this frame\nOf Heaven were falling, and these elements\nIn mutiny had from her axle torn\nThe steadfast Earth. At last his sail-broad vans\nHe spread for flight, and, in the surging smoke\nUplifted, spurns the ground; thence many a league,\nAs in a cloudy chair, ascending rides\nAudacious; but, that seat soon failing, meets\nA vast vacuity. All unawares,\nFluttering his pennons vain, plumb-down he drops\nTen thousand fathom deep, and to this hour\nDown had been falling, had not, by ill chance,\nThe strong rebuff of some tumultuous cloud,\nInstinct with fire and nitre, hurried him\nAs many miles aloft. That fury stayed--\nQuenched in a boggy Syrtis, neither sea,\nNor good dry land--nigh foundered, on he fares,\nTreading the crude consistence, half on foot,\nHalf flying; behoves him now both oar and sail.\nAs when a gryphon through the wilderness\nWith winged course, o'er hill or moory dale,\nPursues the Arimaspian, who by stealth\nHad from his wakeful custody purloined\nThe guarded gold; so eagerly the Fiend\nO'er bog or steep, through strait, rough, dense, or rare,\nWith head, hands, wings, or feet, pursues his way,\nAnd swims, or sinks, or wades, or creeps, or flies.\nAt length a universal hubbub wild\nOf stunning sounds, and voices all confused,\nBorne through the hollow dark, assaults his ear\nWith loudest vehemence. Thither he plies\nUndaunted, to meet there whatever Power\nOr Spirit of the nethermost Abyss\nMight in that noise reside, of whom to ask\nWhich way the nearest coast of darkness lies\nBordering on light; when straight behold the throne\nOf Chaos, and his dark pavilion spread\nWide on the wasteful Deep! With him enthroned\nSat sable-vested Night, eldest of things,\nThe consort of his reign; and by them stood\nOrcus and Ades, and the dreaded name\nOf Demogorgon; Rumour next, and Chance,\nAnd Tumult, and Confusion, all embroiled,\nAnd Discord with a thousand various mouths.\n  T' whom Satan, turning boldly, thus:--\"Ye Powers\nAnd Spirtis of this nethermost Abyss,\nChaos and ancient Night, I come no spy\nWith purpose to explore or to disturb\nThe secrets of your realm; but, by constraint\nWandering this darksome desert, as my way\nLies through your spacious empire up to light,\nAlone and without guide, half lost, I seek,\nWhat readiest path leads where your gloomy bounds\nConfine with Heaven; or, if some other place,\nFrom your dominion won, th' Ethereal King\nPossesses lately, thither to arrive\nI travel this profound. Direct my course:\nDirected, no mean recompense it brings\nTo your behoof, if I that region lost,\nAll usurpation thence expelled, reduce\nTo her original darkness and your sway\n(Which is my present journey), and once more\nErect the standard there of ancient Night.\nYours be th' advantage all, mine the revenge!\"\n  Thus Satan; and him thus the Anarch old,\nWith faltering speech and visage incomposed,\nAnswered:  \"I know thee, stranger, who thou art--  ***\nThat mighty leading Angel, who of late\nMade head against Heaven's King, though overthrown.\nI saw and heard; for such a numerous host\nFled not in silence through the frighted Deep,\nWith ruin upon ruin, rout on rout,\nConfusion worse confounded; and Heaven-gates\nPoured out by millions her victorious bands,\nPursuing. I upon my frontiers here\nKeep residence; if all I can will serve\nThat little which is left so to defend,\nEncroached on still through our intestine broils\nWeakening the sceptre of old Night: first, Hell,\nYour dungeon, stretching far and wide beneath;\nNow lately Heaven and Earth, another world\nHung o'er my realm, linked in a golden chain\nTo that side Heaven from whence your legions fell!\nIf that way be your walk, you have not far;\nSo much the nearer danger. Go, and speed;\nHavoc, and spoil, and ruin, are my gain.\"\n  He ceased; and Satan stayed not to reply,\nBut, glad that now his sea should find a shore,\nWith fresh alacrity and force renewed\nSprings upward, like a pyramid of fire,\nInto the wild expanse, and through the shock\nOf fighting elements, on all sides round\nEnvironed, wins his way; harder beset\nAnd more endangered than when Argo passed\nThrough Bosporus betwixt the justling rocks,\nOr when Ulysses on the larboard shunned\nCharybdis, and by th' other whirlpool steered.\nSo he with difficulty and labour hard\nMoved on, with difficulty and labour he;\nBut, he once passed, soon after, when Man fell,\nStrange alteration! Sin and Death amain,\nFollowing his track (such was the will of Heaven)\nPaved after him a broad and beaten way\nOver the dark Abyss, whose boiling gulf\nTamely endured a bridge of wondrous length,\nFrom Hell continued, reaching th' utmost orb\nOf this frail World; by which the Spirits perverse\nWith easy intercourse pass to and fro\nTo tempt or punish mortals, except whom\nGod and good Angels guard by special grace.\n  But now at last the sacred influence\nOf light appears, and from the walls of Heaven\nShoots far into the bosom of dim Night\nA glimmering dawn. Here Nature first begins\nHer farthest verge, and Chaos to retire,\nAs from her outmost works, a broken foe,\nWith tumult less and with less hostile din;\nThat Satan with less toil, and now with ease,\nWafts on the calmer wave by dubious light,\nAnd, like a weather-beaten vessel, holds\nGladly the port, though shrouds and tackle torn;\nOr in the emptier waste, resembling air,\nWeighs his spread wings, at leisure to behold\nFar off th' empyreal Heaven, extended wide\nIn circuit, undetermined square or round,\nWith opal towers and battlements adorned\nOf living sapphire, once his native seat;\nAnd, fast by, hanging in a golden chain,\nThis pendent World, in bigness as a star\nOf smallest magnitude close by the moon.\nThither, full fraught with mischievous revenge,\nAccursed, and in a cursed hour, he hies.",
+      "source": {
+        "name": "John Milton · PoetryDB",
+        "url": "https://poetrydb.org/title/Paradise%20Lost%3A%20Book%20II",
+        "trustTier": "community",
+        "author": "John Milton"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:35:52.063Z",
+      "hash": "023c4717f0eb9b16"
+    },
+    {
+      "id": "poetry:3e61902ec1e6e1ec",
+      "type": "poem",
+      "title": "Lines to a Critic",
+      "summary": "Honey from silkworms who can gather,\nOr silk from the yellow bee?\nThe grass may grow in winter weather\nAs soon as hate in me.",
+      "body": "Honey from silkworms who can gather,\nOr silk from the yellow bee?\nThe grass may grow in winter weather\nAs soon as hate in me.\n\nHate men who cant, and men who pray,\nAnd men who rail like thee;\nAn equal passion to repay\nThey are not coy like me.\n\nOr seek some slave of power and gold\nTo be thy dear heart's mate;\nThy love will move that bigot cold\nSooner than me, thy hate.\n\nA passion like the one I prove\nCannot divided be;\nI hate thy want of truth and love--\nHow should I then hate thee?",
+      "source": {
+        "name": "Percy Bysshe Shelley · PoetryDB",
+        "url": "https://poetrydb.org/title/Lines%20to%20a%20Critic",
+        "trustTier": "community",
+        "author": "Percy Bysshe Shelley"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-12T17:35:52.063Z",
+      "hash": "3e61902ec1e6e1ec"
+    },
+    {
+      "id": "onthisday:10-12:1960:0b9c1c8e90c7e892",
+      "type": "history",
+      "title": "1960: Japan Socialist Party",
+      "summary": "Japan Socialist Party leader Inejirō Asanuma (pictured) was assassinated during a live television recording by a far-right ultra-nationalist using a short sword.",
+      "body": "Japan Socialist Party leader Inejirō Asanuma (pictured) was assassinated during a live television recording by a far-right ultra-nationalist using a short sword.",
+      "image": {
+        "src": "data/images/fa06b5722e2ec484.png",
+        "alt": "Japan Socialist Party",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Japan_Socialist_Party",
+        "trustTier": "encyclopedic",
+        "date": "10-12"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:34:41.038Z",
+      "hash": "4eebb946bd9e768c",
+      "expires": "2026-10-15T17:34:41.038Z"
+    },
+    {
+      "id": "onthisday:10-12:1798:f3f65f71d2fc504c",
+      "type": "history",
+      "title": "1798: Peasants' War (1798)",
+      "summary": "The Peasants' War began in Overmere, Southern Netherlands, with peasants taking up arms against the French occupiers.",
+      "body": "The Peasants' War began in Overmere, Southern Netherlands, with peasants taking up arms against the French occupiers.",
+      "image": {
+        "src": "data/images/cceb17a723828558.jpg",
+        "alt": "Peasants' War (1798)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Peasants'_War_(1798)",
+        "trustTier": "encyclopedic",
+        "date": "10-12"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:34:41.038Z",
+      "hash": "4d357bc8f259a7b4",
+      "expires": "2026-10-15T17:34:41.038Z"
+    },
+    {
+      "id": "onthisday:10-12:1898:3163a818668bca24",
+      "type": "history",
+      "title": "1898: Statue of Austin Blair",
+      "summary": "A statue of Austin Blair (pictured) was dedicated in a ceremony that attracted up to 30,000 people to Lansing, Michigan.",
+      "body": "A statue of Austin Blair (pictured) was dedicated in a ceremony that attracted up to 30,000 people to Lansing, Michigan.",
+      "image": {
+        "src": "data/images/f61c24d2970af4be.jpg",
+        "alt": "Statue of Austin Blair",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Statue_of_Austin_Blair",
+        "trustTier": "encyclopedic",
+        "date": "10-12"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:34:41.038Z",
+      "hash": "b8db931f76f6bc7d",
+      "expires": "2026-10-15T17:34:41.038Z"
+    },
+    {
+      "id": "wikipedia:27698375",
+      "type": "wiki",
+      "title": "George Albert Clough",
+      "summary": "George Albert Clough was an architect working in Boston in the late 19th century. He designed the Suffolk County Courthouse in Pemberton Square, and numerous other buildings in the city and around New England. Clough served as the first City Architect of Boston from 1876 to 1883.",
+      "body": "George Albert Clough was an architect working in Boston in the late 19th century. He designed the Suffolk County Courthouse in Pemberton Square, and numerous other buildings in the city and around New England. Clough served as the first City Architect of Boston from 1876 to 1883.",
+      "image": {
+        "src": "data/images/b41e1c312e4e50f1.png",
+        "alt": "George Albert Clough",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/George_Albert_Clough",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:34:41.028Z",
+      "hash": "5f49a6550449af11"
+    },
+    {
+      "id": "wikipedia:11778305",
+      "type": "wiki",
+      "title": "Binder, Khentii",
+      "summary": "Binder is a sum (district) of Khentii Province in eastern Mongolia. It is named after Binder Mountain, a prominent local peak that holds deep spiritual and cultural significance, featuring ancient sacred cairns tied to the region's nomadic heritage. In 2010, its population was 3,455.",
+      "body": "Binder is a sum (district) of Khentii Province in eastern Mongolia. It is named after Binder Mountain, a prominent local peak that holds deep spiritual and cultural significance, featuring ancient sacred cairns tied to the region's nomadic heritage. In 2010, its population was 3,455.",
+      "image": {
+        "src": "data/images/926e972510f8cf95.png",
+        "alt": "Binder, Khentii",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Binder%2C_Khentii",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:34:40.827Z",
+      "hash": "965e4d27cae166cc"
+    },
+    {
+      "id": "wikipedia:26923495",
+      "type": "wiki",
+      "title": "Planorbidella",
+      "summary": "Planorbidella is a genus of sea snails, marine gastropod molluscs in the family Neomphalidae.",
+      "body": "Planorbidella is a genus of sea snails, marine gastropod molluscs in the family Neomphalidae.",
+      "image": {
+        "src": "data/images/e5b967a68bc81c79.jpg",
+        "alt": "Planorbidella",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Planorbidella",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:34:40.482Z",
+      "hash": "4a72d3d04da228a6"
+    },
+    {
+      "id": "wikipedia:12864958",
+      "type": "wiki",
+      "title": "Hensley–Gusman House",
+      "summary": "Located in Bay City, Matagorda County, Texas, the Hensley–Gusman House was built by Alexander D. Hensley (1859–1947), who purchased land at this site in January 1898. With his wife Maggie (1875–1960), he asked his brother, architect Henry Hensley, to design this house to catch breezes from any direction. It was…",
+      "body": "Located in Bay City, Matagorda County, Texas, the Hensley–Gusman House was built by Alexander D. Hensley (1859–1947), who purchased land at this site in January 1898. With his wife Maggie (1875–1960), he asked his brother, architect Henry Hensley, to design this house to catch breezes from any direction. It was designated a Recorded Texas Historic Landmark in 1993.",
+      "image": {
+        "src": "data/images/d77330cb0e32922e.jpg",
+        "alt": "Hensley–Gusman House",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hensley%E2%80%93Gusman_House",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-12T17:34:40.275Z",
+      "hash": "8310b2695976bcc2"
+    },
     {
       "id": "chess:5lB9s",
       "type": "chess",
@@ -11549,877 +12414,6 @@
       "difficulty": 1,
       "fetchedAt": "2026-10-01T15:17:06.701Z",
       "hash": "468925ba1a4bcffd"
-    },
-    {
-      "id": "greek:28eef9c8344550c7",
-      "type": "greek",
-      "title": "κόσμος",
-      "summary": "κόσμος — “world” · noun",
-      "body": "Note: ὁ κόσμος; also \"universe, order\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:17:06.701Z",
-      "hash": "28eef9c8344550c7"
-    },
-    {
-      "id": "poetry:db4cdf34cf6509a9",
-      "type": "poem",
-      "title": "Ballade of an Omnibus",
-      "summary": "\"To see my love suffices me.\"\n--Ballades in Blue China.\nSome men to carriages aspire;\nOn some the costly hansoms wait;",
-      "body": "\"To see my love suffices me.\"\n--Ballades in Blue China.\n\n\nSome men to carriages aspire;\nOn some the costly hansoms wait;\nSome seek a fly, on job or hire;\nSome mount the trotting steed, elate.\nI envy not the rich and great,\nA wandering minstrel, poor and free,\nI am contented with my fate --\nAn omnibus suffices me.\n\nIn winter days of rain and mire\nI find within a corner strait;\nThe 'busmen know me and my lyre\nFrom Brompton to the Bull-and-Gate.\nWhen summer comes, I mount in state\nThe topmost summit, whence I see\nCrœsus look up, compassionate --\nAn omnibus suffices me.\n\nI mark, untroubled by desire,\nLucullus' phaeton and its freight.\nThe scene whereof I cannot tire,\nThe human tale of love and hate,\nThe city pageant, early and late\nUnfolds itself, rolls by, to be\nA pleasure deep and delicate.\nAn omnibus suffices me.\n\nPrincess, your splendour you require,\nI, my simplicity; agree\nNeither to rate lower nor higher.\nAn omnibus suffices me.",
-      "source": {
-        "name": "Amy Levy · PoetryDB",
-        "url": "https://poetrydb.org/title/Ballade%20of%20an%20Omnibus",
-        "trustTier": "community",
-        "author": "Amy Levy"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-01T15:17:06.700Z",
-      "hash": "db4cdf34cf6509a9"
-    },
-    {
-      "id": "poetry:eea5f372db03a249",
-      "type": "poem",
-      "title": "Summer",
-      "summary": "Summer looked for long am I:\nMuch shall change or e'er I die.\nPrithee take it not amiss\nThough I weary thee with bliss.",
-      "body": "Summer looked for long am I:\nMuch shall change or e'er I die.\nPrithee take it not amiss\nThough I weary thee with bliss.",
-      "source": {
-        "name": "William Morris · PoetryDB",
-        "url": "https://poetrydb.org/title/Summer",
-        "trustTier": "community",
-        "author": "William Morris"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-01T15:17:06.700Z",
-      "hash": "eea5f372db03a249"
-    },
-    {
-      "id": "art:si:ld1-1643398738600-1643398750754-0",
-      "type": "art",
-      "title": "Gas mask with filter canister worn at demonstrations in Ferguson, Missouri",
-      "summary": "National Museum of African American History and Culture · 2010s · gas masks",
-      "body": "National Museum of African American History and Culture\n2010s · gas masks",
-      "image": {
-        "src": "data/images/0f0b061a86131529.jpg",
-        "alt": "Gas mask with filter canister worn at demonstrations in Ferguson, Missouri",
-        "credit": "National Museum of African American History and Culture · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://nmaahc.si.edu/object/nmaahc_2016.122ab",
-        "trustTier": "encyclopedic",
-        "date": "2010s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "mask",
-        "gas masks"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-01T15:17:06.244Z",
-      "hash": "5ce2296a72260406"
-    },
-    {
-      "id": "apod:2011-03-12",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap110312.html",
-        "trustTier": "encyclopedic",
-        "date": "2011-03-12"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:17:02.180Z",
-      "hash": "deb52cb9ebc0a7d9"
-    },
-    {
-      "id": "apod:2014-09-24",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap140924.html",
-        "trustTier": "encyclopedic",
-        "date": "2014-09-24"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:17:02.180Z",
-      "hash": "af4f055220c1ec06"
-    },
-    {
-      "id": "apod:2021-03-30",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap210330.html",
-        "trustTier": "encyclopedic",
-        "date": "2021-03-30"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:17:02.180Z",
-      "hash": "61f389bcc229417b"
-    },
-    {
-      "id": "apod:2024-06-02",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap240602.html",
-        "trustTier": "encyclopedic",
-        "date": "2024-06-02"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:17:02.180Z",
-      "hash": "51b2339e7890b842"
-    },
-    {
-      "id": "apod:2013-06-13",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© Chris Kotsiopoulos"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap130613.html",
-        "trustTier": "encyclopedic",
-        "date": "2013-06-13"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:17:02.180Z",
-      "hash": "793a82df83b03324"
-    },
-    {
-      "id": "onthisday:10-01:1949:89437dbc8cdb7a0f",
-      "type": "history",
-      "title": "1949: Chinese Communist Party",
-      "summary": "Chinese Communist Party chairman Mao Zedong publicly proclaimed (pictured) the establishment of the People's Republic of China in Beijing's Tiananmen Square.",
-      "body": "Chinese Communist Party chairman Mao Zedong publicly proclaimed (pictured) the establishment of the People's Republic of China in Beijing's Tiananmen Square.",
-      "image": {
-        "src": "data/images/b870035315ab6e5b.png",
-        "alt": "Chinese Communist Party",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Chinese_Communist_Party",
-        "trustTier": "encyclopedic",
-        "date": "10-01"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:15:31.574Z",
-      "hash": "3bd3f5ed710672e2",
-      "expires": "2026-10-04T15:15:31.574Z"
-    },
-    {
-      "id": "onthisday:10-01:1964:6212cfe6081c752f",
-      "type": "history",
-      "title": "1964: Free Speech Movement",
-      "summary": "The Free Speech Movement was launched at the University of California, Berkeley, when a crowd of 3,000 students prevented police from transporting Jack Weinberg away after his arrest.",
-      "body": "The Free Speech Movement was launched at the University of California, Berkeley, when a crowd of 3,000 students prevented police from transporting Jack Weinberg away after his arrest.",
-      "image": {
-        "src": "data/images/58959e2fdaeb2f86.jpg",
-        "alt": "Free Speech Movement",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Free_Speech_Movement",
-        "trustTier": "encyclopedic",
-        "date": "10-01"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:15:31.574Z",
-      "hash": "88bb960f181bb4a1",
-      "expires": "2026-10-04T15:15:31.574Z"
-    },
-    {
-      "id": "onthisday:10-01:1965:9898ffafee43eef7",
-      "type": "history",
-      "title": "1965: Indonesian National Armed Forces",
-      "summary": "Seven Indonesian National Armed Forces officers, six of them generals, were murdered at dawn by a rebellious force in Jakarta; the Army then blamed the Communist Party, leading to a mass anti-communist purge that killed up to one million people.",
-      "body": "Seven Indonesian National Armed Forces officers, six of them generals, were murdered at dawn by a rebellious force in Jakarta; the Army then blamed the Communist Party, leading to a mass anti-communist purge that killed up to one million people.",
-      "image": {
-        "src": "data/images/fe98aef78cea5248.png",
-        "alt": "Indonesian National Armed Forces",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Indonesian_National_Armed_Forces",
-        "trustTier": "encyclopedic",
-        "date": "10-01"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:15:31.574Z",
-      "hash": "b1efc2dc40067cc8",
-      "expires": "2026-10-04T15:15:31.574Z"
-    },
-    {
-      "id": "wikipedia:44367434",
-      "type": "wiki",
-      "title": "Wanbhacharan railway station",
-      "summary": "Wanbhacharan Railway Station is located in Wan Bhachran, Pakistan.",
-      "body": "Wanbhacharan Railway Station is located in Wan Bhachran, Pakistan.",
-      "image": {
-        "src": "data/images/3dd07757dddf3fa7.jpg",
-        "alt": "Wanbhacharan railway station",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Wanbhacharan_railway_station",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:15:31.537Z",
-      "hash": "2838942d4f89ad6d"
-    },
-    {
-      "id": "wikipedia:31276464",
-      "type": "wiki",
-      "title": "Hryhoriy Veryovka",
-      "summary": "Hryhoriy Huriyovych Veryovka was a Soviet and Ukrainian composer and choir director.",
-      "body": "Hryhoriy Huriyovych Veryovka was a Soviet and Ukrainian composer and choir director.",
-      "image": {
-        "src": "data/images/a063a7d135d1a6c1.jpg",
-        "alt": "Hryhoriy Veryovka",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Hryhoriy_Veryovka",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:15:30.607Z",
-      "hash": "73f37b396ac990c4"
-    },
-    {
-      "id": "wikipedia:41110924",
-      "type": "wiki",
-      "title": "Borderline (2002 film)",
-      "summary": "Borderline is a 2002 American psychological thriller television film directed by Evelyn Maude Purcell, about borderline personality disorder. It was released to lukewarm reception.",
-      "body": "Borderline is a 2002 American psychological thriller television film directed by Evelyn Maude Purcell, about borderline personality disorder. It was released to lukewarm reception.",
-      "image": {
-        "src": "data/images/59bea0c2ea34079b.jpg",
-        "alt": "Borderline (2002 film)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Borderline_(2002_film)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:15:29.813Z",
-      "hash": "d258f724c6752587"
-    },
-    {
-      "id": "wikipedia:32656336",
-      "type": "wiki",
-      "title": "Pervomaysky District, Orenburg Oblast",
-      "summary": "Pervomaysky District is an administrative and municipal district (raion), one of the thirty-five in Orenburg Oblast, Russia. It is located in the southwest of the oblast. The area of the district is 5,055 square kilometers (1,952 sq mi). Its administrative center is the rural locality of Pervomaysky. Population:…",
-      "body": "Pervomaysky District is an administrative and municipal district (raion), one of the thirty-five in Orenburg Oblast, Russia. It is located in the southwest of the oblast. The area of the district is 5,055 square kilometers (1,952 sq mi). Its administrative center is the rural locality of Pervomaysky. Population: 25,626 ; 30,161 (2002 census); 25,153 (1989 Soviet census). The population of the administrative center accounts for 24.8% of the total district's population.",
-      "image": {
-        "src": "data/images/c42a3bda5d2c3368.jpg",
-        "alt": "Pervomaysky District, Orenburg Oblast",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Pervomaysky_District%2C_Orenburg_Oblast",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-01T15:15:29.475Z",
-      "hash": "612e3182b9b1ec25"
-    },
-    {
-      "id": "chess:toZHG",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 2020. Find the best line for white.",
-      "body": "Solution, from → to: e1→e5, e8→e5, f4→e5, d8→d5, h4→f6, d5→e5, f6→e5. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "r2qr1k1/pp3pp1/5n1p/2pNbP2/3p1Q1B/8/PPP3PP/R3R1K1 w - - 0 1",
-        "lastMove": "d6e5"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/toZHG",
-        "trustTier": "community",
-        "date": "Wed, 30 Sep 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "advantage",
-        "verylong"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-09-30T14:47:30.449Z",
-      "hash": "e17c1832f319ff1d"
-    },
-    {
-      "id": "game:4294c3660fd0e7fb",
-      "type": "game",
-      "title": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
-      "summary": "'If you’re a developer, studio, or creator working on something interesting in horror, give me a shout!'",
-      "body": "'If you’re a developer, studio, or creator working on something interesting in horror, give me a shout!'",
-      "image": {
-        "src": "data/images/4ffe1477f4b5c947.jpg",
-        "alt": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
-        "trustTier": "publication",
-        "author": "Nicole Carpenter",
-        "date": "Tue, 29 Sep 2026 20:00:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:30.167Z",
-      "hash": "4294c3660fd0e7fb",
-      "expires": "2026-12-29T14:47:30.167Z"
-    },
-    {
-      "id": "game:2f6f428bd8dfd0cd",
-      "type": "game",
-      "title": "Naughty Dog is working on new The Last Of Us 'projects'",
-      "summary": "Naughty Dog is signaling what comes next for the studio after it finishes Intergalactic.",
-      "body": "Naughty Dog is signaling what comes next for the studio after it finishes Intergalactic.",
-      "image": {
-        "src": "data/images/376fb36b3f646479.jpg",
-        "alt": "Naughty Dog is working on new The Last Of Us 'projects'",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-        "trustTier": "publication",
-        "author": "Nicole Carpenter",
-        "date": "Tue, 29 Sep 2026 17:52:4"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:30.167Z",
-      "hash": "2f6f428bd8dfd0cd",
-      "expires": "2026-12-29T14:47:30.167Z"
-    },
-    {
-      "id": "game:0fdc5b829ff2036f",
-      "type": "game",
-      "title": "Steam's discounts and events tab will soon be fully algorithm-driven",
-      "summary": "Steam announced a new set of changes for its discounts and events tab that will impact which games players see.",
-      "body": "Steam announced a new set of changes for its discounts and events tab that will impact which games players see.",
-      "image": {
-        "src": "data/images/b5a395e2f2a2facf.png",
-        "alt": "Steam's discounts and events tab will soon be fully algorithm-driven",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
-        "trustTier": "publication",
-        "author": "Nicole Carpenter",
-        "date": "Tue, 29 Sep 2026 21:30:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:30.167Z",
-      "hash": "0fdc5b829ff2036f",
-      "expires": "2026-12-29T14:47:30.167Z"
-    },
-    {
-      "id": "trivia:462181a2f726ac24",
-      "type": "trivia",
-      "title": "Which of these actors have NOT played Spiderman in the movies?",
-      "summary": "Is it: Michael Cera · Andrew Garfield · Tom Holland · Tobey Maguire?",
-      "body": "Answer: Michael Cera.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "film"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:47:27.848Z",
-      "hash": "462181a2f726ac24"
-    },
-    {
-      "id": "trivia:221ee5d3351f3b04",
-      "type": "trivia",
-      "title": "In the show Stranger Things, what is Eleven's favorite breakfast food?",
-      "summary": "Is it: Eggo Waffles · Toast · Bacon and Eggs · Captain Crunch?",
-      "body": "Answer: Eggo Waffles.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "television"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:47:27.848Z",
-      "hash": "221ee5d3351f3b04"
-    },
-    {
-      "id": "trivia:05774a8f91a1ad59",
-      "type": "trivia",
-      "title": "Who released the song \"Photograph\" in 2005?",
-      "summary": "Is it: Fall Out Boy · Coldplay · Nickelback · Green Day?",
-      "body": "Answer: Nickelback.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "music"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:47:27.848Z",
-      "hash": "05774a8f91a1ad59"
-    },
-    {
-      "id": "trivia:a4225a9f63b78fe8",
-      "type": "trivia",
-      "title": "Which of these is NOT a name of an album released by American rapper Pitbull?",
-      "summary": "Is it: Welcome to Miami · Dale · Global Warming · Armando?",
-      "body": "Answer: Welcome to Miami.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "music"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:27.848Z",
-      "hash": "a4225a9f63b78fe8"
-    },
-    {
-      "id": "comic:smbc:85d5b4de1da1b3c0",
-      "type": "comic",
-      "title": "Free",
-      "summary": "It's just a more full service lending program.",
-      "image": {
-        "src": "data/images/6fb5e0a7d9c572ca.png",
-        "alt": "It's just a more full service lending program.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/free-5",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Tue, 29 Sep 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-30T14:47:26.909Z",
-      "hash": "85d5b4de1da1b3c0"
-    },
-    {
-      "id": "comic:xkcd:2250",
-      "type": "comic",
-      "title": "OK/okay/ok",
-      "summary": "After changing it back and forth several times and consulting with internet linguist Gretchen McCulloch, I settled on \"ok\" in my book How To, but I'm still on the fence. Maybe I should just switch to \"oK.\"",
-      "image": {
-        "src": "data/images/3893c64a961f4e53.png",
-        "alt": "After changing it back and forth several times and consulting with internet linguist Gretchen McCulloch, I settled on \"ok\" in my book How To, but I'm still on the fence. Maybe I should just switch to \"oK.\"",
-        "credit": "xkcd #2250 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/2250/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2020-01-03"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-09-30T14:47:26.742Z",
-      "hash": "8576ffd27b536136"
-    },
-    {
-      "id": "craft:e63908bae73cda8f",
-      "type": "craft",
-      "title": "Fantastical, Elemental Hybrids Persevere in Jon Ching’s Metaphysical Paintings",
-      "summary": "Inspired by his island upbringing on O’ahu, Hawai’i, Ching turns to nature as a boundless source of wonder and solace.",
-      "body": "Inspired by his island upbringing on O’ahu, Hawai’i, Ching turns to nature as a boundless source of wonder and solace.",
-      "image": {
-        "src": "data/images/912e8d47a727843d.jpg",
-        "alt": "Fantastical, Elemental Hybrids Persevere in Jon Ching’s Metaphysical Paintings",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/09/jon-ching-path-of-least-resistance-paintings/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Tue, 29 Sep 2026 17:00:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "nature",
-        "animals",
-        "birds",
-        "fish",
-        "jon ching",
-        "plants",
-        "spirituality"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:26.404Z",
-      "hash": "e63908bae73cda8f"
-    },
-    {
-      "id": "word:0e8e6560b14acc0b",
-      "type": "word",
-      "title": "hubris",
-      "summary": "Noun: Excessive arrogance or pride, or presumption; originally toward the gods; a feeling of overwhelming and all-encompassing pride.",
-      "body": "1. Excessive arrogance or pride, or presumption; originally toward the gods; a feeling of overwhelming and all-encompassing pride.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/hubris",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:47:25.954Z",
-      "hash": "0e8e6560b14acc0b"
-    },
-    {
-      "id": "word:b1e57b21fb46da07",
-      "type": "word",
-      "title": "eudaimonia",
-      "summary": "Noun: Alternative form of Eudaimonia.",
-      "body": "1. Alternative form of Eudaimonia.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/eudaimonia",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:47:25.546Z",
-      "hash": "b1e57b21fb46da07"
-    },
-    {
-      "id": "quote:0f480cc309f87c7c",
-      "type": "quote",
-      "title": "“There is a difference between giving directions and giving direction.”",
-      "summary": "— Simon Sinek",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Simon_Sinek",
-        "trustTier": "community",
-        "author": "Simon Sinek"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:47:24.239Z",
-      "hash": "0f480cc309f87c7c"
-    },
-    {
-      "id": "quote:f2a41aba1e8205ad",
-      "type": "quote",
-      "title": "“Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.”",
-      "summary": "— Honore de Balzac",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Honore_de_Balzac",
-        "trustTier": "community",
-        "author": "Honore de Balzac"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:47:24.239Z",
-      "hash": "f2a41aba1e8205ad"
-    },
-    {
-      "id": "quote:febb56521e37650a",
-      "type": "quote",
-      "title": "“The universe doesn't allow perfection.”",
-      "summary": "— Stephen Hawking",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Stephen_Hawking",
-        "trustTier": "community",
-        "author": "Stephen Hawking"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-09-30T14:47:24.239Z",
-      "hash": "febb56521e37650a"
-    },
-    {
-      "id": "article:7263c49aeac5abde",
-      "type": "article",
-      "title": "Manchester City guilty over Premier League charges after...",
-      "summary": "Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts. The “financial doping” scheme allowed the club’s owners to pump large sums of money into the team without appearing to exceed the league’s spending limits.",
-      "body": "Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts. The “financial doping” scheme allowed the club’s owners to pump large sums of money into the team without appearing to exceed the league’s spending limits.",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/09/0049703-manchester-city-guilty-ov",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-09-30T13:03:00Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:16.762Z",
-      "hash": "7263c49aeac5abde"
-    },
-    {
-      "id": "article:4865c0092ff68aa3",
-      "type": "article",
-      "title": "Who Is Claude Trying to Kid?",
-      "summary": "Confessing to being mechanical is the most mechanical trick of all The post Who Is Claude Trying to Kid? appeared first on Nautilus.",
-      "body": "Confessing to being mechanical is the most mechanical trick of all The post Who Is Claude Trying to Kid? appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/8e54a746a7963a3e.jpg",
-        "alt": "Who Is Claude Trying to Kid?",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/who-is-claude-trying-to-kid-1285411/",
-        "trustTier": "publication",
-        "author": "Dariusz Jemielniak",
-        "date": "Wed, 30 Sep 2026 14:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "technology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-09-30T14:47:16.078Z",
-      "hash": "4865c0092ff68aa3"
     },
     {
       "id": "curated:handwriting-beats-typing",

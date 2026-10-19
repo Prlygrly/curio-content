@@ -1,7 +1,1158 @@
 {
-  "generatedAt": "2026-10-18T12:31:41.683Z",
+  "generatedAt": "2026-10-19T15:23:41.776Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:VlHF6",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1967. Find the best line for white.",
+      "body": "Solution, from → to: c5→a6, c7→b6, d1→d6, b6→a7, a3→b5. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "r3r3/1pk2pp1/p6p/2N2b2/1P6/N4P2/Pb4PP/2RR2K1 w - - 1 1",
+        "lastMove": "c3b2"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/VlHF6",
+        "trustTier": "community",
+        "date": "Mon, 19 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "middlegame",
+        "discoveredcheck",
+        "long",
+        "matein3"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-19T15:23:38.333Z",
+      "hash": "c302122be73db8f2"
+    },
+    {
+      "id": "trivia:b743338da6202666",
+      "type": "trivia",
+      "title": "Which British female singer and songwriter was sampled Eminem's hit single 'Stan'?",
+      "summary": "Is it: Lily Allen · Dido · Adele · Leona Lewis?",
+      "body": "Answer: Dido.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:34.792Z",
+      "hash": "b743338da6202666"
+    },
+    {
+      "id": "trivia:d1c9cc19d3826a6f",
+      "type": "trivia",
+      "title": "What do the video games No Man’s Sky and Mighty No. 9 have in common?",
+      "summary": "Is it: Both were crowdfunded. · Both were developed by indie studios. · Both were released for the PlayStation 3. · Both were announced in 2013.?",
+      "body": "Answer: Both were announced in 2013..",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-19T15:23:34.792Z",
+      "hash": "d1c9cc19d3826a6f"
+    },
+    {
+      "id": "trivia:b718b2598b2dc031",
+      "type": "trivia",
+      "title": "What year did the television company BBC officially launch the channel BBC One?",
+      "summary": "Is it: 1932 · 1955 · 1948 · 1936?",
+      "body": "Answer: 1936.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "television"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:34.792Z",
+      "hash": "b718b2598b2dc031"
+    },
+    {
+      "id": "trivia:3fc16755bdde5ec4",
+      "type": "trivia",
+      "title": "The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "general knowledge"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:34.791Z",
+      "hash": "3fc16755bdde5ec4"
+    },
+    {
+      "id": "comic:smbc:7b8f1c1873400b47",
+      "type": "comic",
+      "title": "Cells",
+      "summary": "Really should've gone for even more closeup on panel 2.",
+      "image": {
+        "src": "data/images/6876a60b3998ca5f.png",
+        "alt": "Really should've gone for even more closeup on panel 2.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/cells",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Mon, 19 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-19T15:23:33.691Z",
+      "hash": "7b8f1c1873400b47"
+    },
+    {
+      "id": "comic:smbc:97d876c281a74147",
+      "type": "comic",
+      "title": "Reactions",
+      "summary": "Meanwhile the Engineers are just lighting themselves on fire to see what happens.",
+      "image": {
+        "src": "data/images/41bf8b0756c17352.png",
+        "alt": "Meanwhile the Engineers are just lighting themselves on fire to see what happens.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/reactions",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sun, 18 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-19T15:23:33.691Z",
+      "hash": "97d876c281a74147"
+    },
+    {
+      "id": "comic:xkcd:1131",
+      "type": "comic",
+      "title": "Math",
+      "summary": "As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.",
+      "body": "[[A stacked bar chart representing the distribution of electoral votes for a US presidential election. The unusually darker-skinned, blessed, beautiful, twisted, Democratic candidate has 313 votes, while the much more pallid, glove-named Republican candidate has 225. The forecast of this result is noted, with the actual results being in the center of the predicted zone.]] Breaking: To surprise of pundits, numbers continue to be best system for determining which of two things is larger. {{Title text: As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.}}",
+      "image": {
+        "src": "data/images/62ca27bad0c90625.png",
+        "alt": "As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.",
+        "credit": "xkcd #1131 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/1131/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2012-11-07"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-19T15:23:33.574Z",
+      "hash": "b7a9f13c7dc9c2ed"
+    },
+    {
+      "id": "comic:xkcd:3313",
+      "type": "comic",
+      "title": "Fusion Device",
+      "summary": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
+      "image": {
+        "src": "data/images/d1fd71bd64184428.png",
+        "alt": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
+        "credit": "xkcd #3313 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3313/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-10-19"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-19T15:23:33.478Z",
+      "hash": "862c9f8febedb3ba"
+    },
+    {
+      "id": "craft:90a1df3d8657c92a",
+      "type": "craft",
+      "title": "Robin F. Williams Suspends the Allure and Horror of Technology in an Endless Loop",
+      "summary": "Robin F. Williams extrapolates on the ways humanity and machines could merge, capturing a strange techno-dystopia.",
+      "body": "Robin F. Williams extrapolates on the ways humanity and machines could merge, capturing a strange techno-dystopia.",
+      "image": {
+        "src": "data/images/e203e6b90af045e1.jpg",
+        "alt": "Robin F. Williams Suspends the Allure and Horror of Technology in an Endless Loop",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Fri, 16 Oct 2026 14:02:1"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "painting",
+        "pop culture",
+        "portraits",
+        "robin f. williams",
+        "surreal",
+        "technology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:33.355Z",
+      "hash": "90a1df3d8657c92a"
+    },
+    {
+      "id": "craft:0a137d0be30d4aae",
+      "type": "craft",
+      "title": "Come Face-to-Face with the Lion Nebula in the James Webb Space Telescope’s Portrait",
+      "summary": "The shape is formed by the remains of a dying star with a very dense stellar core that is shedding its outer layers.",
+      "body": "The shape is formed by the remains of a dying star with a very dense stellar core that is shedding its outer layers.",
+      "image": {
+        "src": "data/images/9621bb6d060f4165.jpg",
+        "alt": "Come Face-to-Face with the Lion Nebula in the James Webb Space Telescope’s Portrait",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Mon, 19 Oct 2026 13:39:5"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "photography",
+        "science",
+        "astronomy",
+        "james webb space telescope",
+        "nasa",
+        "space",
+        "stars"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:33.355Z",
+      "hash": "0a137d0be30d4aae"
+    },
+    {
+      "id": "craft:162dc7e0bab890a5",
+      "type": "craft",
+      "title": "Improving a Brain-Computer Interface",
+      "summary": "Young engineer Aarav Sharma is still at work developing better brain-computer interfaces. The post Improving a Brain-Computer Interface appeared first on Make: DIY Projects and Ideas for Makers.",
+      "body": "Young engineer Aarav Sharma is still at work developing better brain-computer interfaces. The post Improving a Brain-Computer Interface appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/c24b0e57b32707ef.jpg",
+        "alt": "Improving a Brain-Computer Interface",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/science/health-science/improving-a-brain-computer-interface/",
+        "trustTier": "publication",
+        "author": "Sam Freeman",
+        "date": "Mon, 19 Oct 2026 15:00:0"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "biohacking",
+        "science",
+        "brain-computer interface",
+        "controller",
+        "makers",
+        "young makers"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:33.080Z",
+      "hash": "162dc7e0bab890a5"
+    },
+    {
+      "id": "word:c2ff7fb2c6b82c2a",
+      "type": "word",
+      "title": "serendipity",
+      "summary": "Noun: The phenomenon of making an unplanned, fortunate discovery through a combination of unexpected circumstances and insightful recognition.",
+      "body": "1. The phenomenon of making an unplanned, fortunate discovery through a combination of unexpected circumstances and insightful recognition.\n2. An unsought, unintended or unexpected, but fortunate, discovery or learning experience that occurs by accident.\n3. The occurrence and development of events by chance in a happy or beneficial way.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/serendipity",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:32.959Z",
+      "hash": "c2ff7fb2c6b82c2a"
+    },
+    {
+      "id": "word:e7feed4c67ffa8fb",
+      "type": "word",
+      "title": "sophrosyne",
+      "summary": "Noun: The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
+      "body": "1. The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/sophrosyne",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:32.553Z",
+      "hash": "e7feed4c67ffa8fb"
+    },
+    {
+      "id": "word:5d40b1bdb1ee1e26",
+      "type": "word",
+      "title": "mellifluous",
+      "summary": "Adjective: Flowing like honey.",
+      "body": "1. Flowing like honey.\n2. Sweet, smooth and musical; pleasant to hear (generally used of a person's voice, tone or writing style).",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/mellifluous",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Adjective"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:31.643Z",
+      "hash": "5d40b1bdb1ee1e26"
+    },
+    {
+      "id": "quote:e4b2b1256eb55789",
+      "type": "quote",
+      "title": "“Always be a first rate version of yourself and not a second rate version of someone else.”",
+      "summary": "— Judy Garland",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Judy_Garland",
+        "trustTier": "community",
+        "author": "Judy Garland"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:31.520Z",
+      "hash": "e4b2b1256eb55789"
+    },
+    {
+      "id": "quote:cbc9b93cc4fedaa7",
+      "type": "quote",
+      "title": "“There is no significance in life without struggle.”",
+      "summary": "— Lolly Daskal",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Lolly_Daskal",
+        "trustTier": "community",
+        "author": "Lolly Daskal"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:31.520Z",
+      "hash": "cbc9b93cc4fedaa7"
+    },
+    {
+      "id": "quote:ef89fe37d6317468",
+      "type": "quote",
+      "title": "“Learn to value yourself, which means: fight for your happiness.”",
+      "summary": "— Ayn Rand",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Ayn_Rand",
+        "trustTier": "community",
+        "author": "Ayn Rand"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:31.520Z",
+      "hash": "ef89fe37d6317468"
+    },
+    {
+      "id": "article:de88cbb70bf4dac2",
+      "type": "article",
+      "title": "Singularities: von Neumann, Good, Vinge, …",
+      "summary": "The OED gives citations for singularity going back to the 14th century, e.g. this example from 1398 in the sense \"The fact or condition of being alone or apart from others; solitariness\": Men vsyd to ete togyders in open place, leest syngularite schuld brede lechery. A mathematical singularity, as…",
+      "body": "The OED gives citations for singularity going back to the 14th century, e.g. this example from 1398 in the sense \"The fact or condition of being alone or apart from others; solitariness\": Men vsyd to ete togyders in open place, leest syngularite schuld brede lechery. A mathematical singularity, as Wikipedia tells us,\"is a point at […]",
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74439&utm_source=rss&utm_medium=rss&utm_campaign=singularities-von-neumann-good-vinge",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Sat, 17 Oct 2026 14:48:2"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "artificial intelligence"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:27.669Z",
+      "hash": "de88cbb70bf4dac2"
+    },
+    {
+      "id": "article:c8a14a41cf384bca",
+      "type": "article",
+      "title": "The Best Way to Take Notes",
+      "summary": "The best way to take notes may be the method that uses the least technology. I'll explain why notes still matter and how to learn better with them. The post The Best Way to Take Notes appeared first on Scott H Young.",
+      "body": "The best way to take notes may be the method that uses the least technology. I'll explain why notes still matter and how to learn better with them. The post The Best Way to Take Notes appeared first on Scott H Young.",
+      "source": {
+        "name": "Scott H. Young",
+        "url": "https://www.scotthyoung.com/blog/2026/10/13/best-way-take-notes/",
+        "trustTier": "community",
+        "author": "Scott Young",
+        "date": "Tue, 13 Oct 2026 22:35:1"
+      },
+      "tags": [
+        "learning",
+        "productivity",
+        "ideas",
+        "general"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:24.279Z",
+      "hash": "c8a14a41cf384bca"
+    },
+    {
+      "id": "article:21a4e717ca339e2d",
+      "type": "article",
+      "title": "Nineteen Truths and One Beguiling Lie about Life from 20 Years of The Marginalian",
+      "summary": "It is an odd thing, looking back on your life, trying to recognize in the mirror of memory the people you used to be, finding them strangers: the person who kissed your first kiss, the person who drank your last drink, the person who had your best idea, the person who made your worst mistake, the…",
+      "body": "It is an odd thing, looking back on your life, trying to recognize in the mirror of memory the people you used to be, finding them strangers: the person who kissed your first kiss, the person who drank your last drink, the person who had your best idea, the person who made your worst mistake, the person who over and over mistook fear for love, the person who thought orange was a good idea. Somehow, you have to grow arms long enough to wrap them around all those people and a heart wide enough to hold each of them with… read article",
+      "image": {
+        "src": "data/images/883e21d71aa4711e.jpg",
+        "alt": "Nineteen Truths and One Beguiling Lie about Life from 20 Years of The Marginalian",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/10/18/refiguring/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sun, 18 Oct 2026 19:11:3"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "ceramics",
+        "figuring",
+        "poetry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:23.474Z",
+      "hash": "21a4e717ca339e2d"
+    },
+    {
+      "id": "article:d50917c45b68297f",
+      "type": "article",
+      "title": "I Turned Myself Into an AI Model",
+      "summary": "Arthur AI is designed to replicate my ideas, not replace me. But a conversation with my digital double left me wondering where the machine ends and the human begins, writes Arthur Brooks.",
+      "body": "Arthur AI is designed to replicate my ideas, not replace me. But a conversation with my digital double left me wondering where the machine ends and the human begins, writes Arthur Brooks.",
+      "image": {
+        "src": "data/images/e59be967cd1bd3e8.jpg",
+        "alt": "I Turned Myself Into an AI Model",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/i-turned-myself-into-an-ai-model",
+        "trustTier": "publication",
+        "author": "Arthur Brooks",
+        "date": "Mon, 19 Oct 2026 15:02:5"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:22.440Z",
+      "hash": "d50917c45b68297f",
+      "expires": "2026-11-18T15:23:22.440Z"
+    },
+    {
+      "id": "article:2d56991742dfcbae",
+      "type": "article",
+      "title": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+      "summary": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
+      "body": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/bc602d86d24ab83a.jpg",
+        "alt": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
+        "trustTier": "publication",
+        "author": "Henry Culvyhouse",
+        "date": "Mon, 19 Oct 2026 10:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "education"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:22.373Z",
+      "hash": "2d56991742dfcbae",
+      "expires": "2027-01-17T15:23:22.373Z"
+    },
+    {
+      "id": "article:2b56a2d95364dca9",
+      "type": "article",
+      "title": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
+      "summary": "The post Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica.",
+      "body": "The post Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/b9e36327f450d8c7.jpg",
+        "alt": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
+        "trustTier": "publication",
+        "author": "Cassandra Jaramillo",
+        "date": "Mon, 19 Oct 2026 09:30:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "abortion",
+        "health care",
+        "politics"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:22.373Z",
+      "hash": "2b56a2d95364dca9",
+      "expires": "2027-01-17T15:23:22.373Z"
+    },
+    {
+      "id": "article:58167159f49786a3",
+      "type": "article",
+      "title": "What I’ve been reading",
+      "summary": "David Stuart, The Four Heavens: A New History of the Ancient Maya. The best book about the ancient Maya that I know of, and also a book about how we keep on discovering more about them. “The model I advocate for here rejects the old idea of the rise and fall of the Maya in […] The post What I’ve…",
+      "body": "David Stuart, The Four Heavens: A New History of the Ancient Maya. The best book about the ancient Maya that I know of, and also a book about how we keep on discovering more about them. “The model I advocate for here rejects the old idea of the rise and fall of the Maya in […] The post What I’ve been reading appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-297",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Mon, 19 Oct 2026 04:29:2"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "books"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:21.589Z",
+      "hash": "58167159f49786a3"
+    },
+    {
+      "id": "greek:9e7f4017b4b6afed",
+      "type": "greek",
+      "title": "ἐν",
+      "summary": "ἐν — “in” · preposition",
+      "body": "Note: takes dative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%90%CE%BD#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "preposition",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-19T15:23:20.301Z",
+      "hash": "9e7f4017b4b6afed"
+    },
+    {
+      "id": "greek:1cbe93511fcb4ae9",
+      "type": "greek",
+      "title": "οὐ",
+      "summary": "οὐ / οὐκ / οὐχ — “not” · adverb",
+      "body": "Note: οὐ before consonants; οὐκ before smooth breathing; οὐχ before rough breathing\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BF%E1%BD%90#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "adverb",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-19T15:23:20.301Z",
+      "hash": "1cbe93511fcb4ae9"
+    },
+    {
+      "id": "poetry:f4a99b62f1953bb3",
+      "type": "poem",
+      "title": "The Bench-Legged Fyce",
+      "summary": "Speakin' of dorgs, my bench-legged fyce\nHed most o' the virtues, an' nary a vice.\nSome folks called him Sooner, a name that arose\nFrom his predisposition to chronic repose;",
+      "body": "Speakin' of dorgs, my bench-legged fyce\nHed most o' the virtues, an' nary a vice.\nSome folks called him Sooner, a name that arose\nFrom his predisposition to chronic repose;\nBut, rouse his ambition, he couldn't be beat -\nYer bet yer he got thar on all his four feet!\n\nMos' dorgs hez some forte - like huntin' an' such,\nBut the sports o' the field didn't bother him much;\nWuz just a plain dorg, an' contented to be\nOn peaceable terms with the neighbors an' me;\nUsed to fiddle an' squirm, and grunt \"Oh, how nice!\"\nWhen I tickled the back of that bench-legged fyce!\n\nHe wuz long in the bar'l, like a fyce oughter be;\nHis color wuz yaller as ever you see;\nHis tail, curlin' upward, wuz long, loose, an' slim -\nWhen he didn't wag it, why, the tail it wagged him!\nHis legs wuz so crooked, my bench-legged pup\nWuz as tall settin' down as he wuz standin' up!\n\nHe'd lie by the stove of a night an' regret\nThe various vittles an' things he had et;\nWhen a stranger, most likely a tramp, come along,\nHe'd lift up his voice in significant song -\nYou wondered, by gum! how there ever wuz space\nIn that bosom o' his'n to hold so much bass!\n\nOf daytimes he'd sneak to the road an' lie down,\nAn' tackle the country dorgs comin' to town;\nBy common consent he wuz boss in St. Joe,\nFor what he took hold of he never let go!\nAn' a dude that come courtin' our girl left a slice\nOf his white flannel suit with our bench-legged fyce!\n\nHe wuz good to us kids - when we pulled at his fur\nOr twisted his tail he would never demur;\nHe seemed to enjoy all our play an' our chaff,\nFor his tongue 'u'd hang out an' he'd laff an' he'd laff;\nAn' once, when the Hobart boy fell through the ice,\nHe wuz drug clean ashore by that bench-legged fyce!\n\nWe all hev our choice, an' you, like the rest,\nAllow that the dorg which you've got is the best;\nI wouldn't give much for the boy 'at grows up\nWith no friendship subsistin' 'tween him an' a pup!\nWhen a fellow gits old - I tell you it's nice\nTo think of his youth and his bench-legged fyce!\n\nTo think of the springtime 'way back in St. Joe -\nOf the peach-trees abloom an' the daisies ablow;\nTo think of the play in the medder an' grove,\nWhen little legs wrassled an' little han's strove;\nTo think of the loyalty, valor, an' truth\nOf the friendships that hallow the season of youth!",
+      "source": {
+        "name": "Eugene Field · PoetryDB",
+        "url": "https://poetrydb.org/title/The%20Bench-Legged%20Fyce",
+        "trustTier": "community",
+        "author": "Eugene Field"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:20.299Z",
+      "hash": "f4a99b62f1953bb3"
+    },
+    {
+      "id": "poetry:f452243b64b8d5db",
+      "type": "poem",
+      "title": "Peace after a Storm",
+      "summary": "When darkness long has veil'd my mind,\nAnd smiling day once more appears,\nThen, my Redeemer, then I find\nThe folly of my doubts and fears.",
+      "body": "When darkness long has veil'd my mind,\nAnd smiling day once more appears,\nThen, my Redeemer, then I find\nThe folly of my doubts and fears.\n\nStraight I upbraid my wandering heart,\nAnd blush that I should ever be\nThus prone to act so base a part,\nOr harbour one hard thought of Thee!\n\nOh! let me then at length be taught\nWhat I am still so slow to learn,\nThat God is love, and changes not,\nNor knows the shadow of a turn.\n\nSweet truth, and easy to repeat!\nBut when my faith is sharply tried,\nI find myself a learner yet,\nUnskilful, weak, and apt to slide.\n\nBut, O my Lord, one look from Thee\nSubdues the disobedient will,\nDrives doubt and discontent away,\nAnd Thy rebellious worm is still.\n\nThou art as ready to forgive\nAs I am ready to repine;\nThou, therefore, all the praise receive;\nBe shame and self-abhorrence mine.",
+      "source": {
+        "name": "William Cowper · PoetryDB",
+        "url": "https://poetrydb.org/title/Peace%20after%20a%20Storm",
+        "trustTier": "community",
+        "author": "William Cowper"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-19T15:23:20.299Z",
+      "hash": "f452243b64b8d5db"
+    },
+    {
+      "id": "art:si:ld1-1643399857816-1643399862399-0",
+      "type": "art",
+      "title": "Mask of the Man with a Broken Nose",
+      "summary": "Hirshhorn Museum and Sculpture Garden · 1860s · Sculpture",
+      "body": "Hirshhorn Museum and Sculpture Garden\n1860s · Sculpture",
+      "image": {
+        "src": "data/images/328d9a88b6bad985.jpg",
+        "alt": "Mask of the Man with a Broken Nose",
+        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.4334",
+        "trustTier": "encyclopedic",
+        "date": "1860s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-19T15:23:20.021Z",
+      "hash": "67d32775d0605bf5"
+    },
+    {
+      "id": "art:si:ld1-1643399857816-1643399860139-0",
+      "type": "art",
+      "title": "Thoroughbred Horse",
+      "summary": "Hirshhorn Museum and Sculpture Garden · 1880s · Sculpture",
+      "body": "Hirshhorn Museum and Sculpture Garden\n1880s · Sculpture",
+      "image": {
+        "src": "data/images/3f65240eda5b9d80.jpg",
+        "alt": "Thoroughbred Horse",
+        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_72.130",
+        "trustTier": "encyclopedic",
+        "date": "1880s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-19T15:23:20.021Z",
+      "hash": "9f56f430f2f8b39a"
+    },
+    {
+      "id": "art:si:ld1-1643399857816-1643399859487-0",
+      "type": "art",
+      "title": "Dancer Moving Forward, Arms Raised, Right Leg Forward",
+      "summary": "Hirshhorn Museum and Sculpture Garden · 1880s · Sculpture",
+      "body": "Hirshhorn Museum and Sculpture Garden\n1880s · Sculpture",
+      "image": {
+        "src": "data/images/cab0ff8804da5bf5.jpg",
+        "alt": "Dancer Moving Forward, Arms Raised, Right Leg Forward",
+        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.1298",
+        "trustTier": "encyclopedic",
+        "date": "1880s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-19T15:23:20.021Z",
+      "hash": "6e57cdb6499be4a1"
+    },
+    {
+      "id": "apod:2022-09-26",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap220926.html",
+        "trustTier": "encyclopedic",
+        "date": "2022-09-26"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:16.277Z",
+      "hash": "9c2d9e9dc35c6ed2"
+    },
+    {
+      "id": "apod:2021-03-26",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Josep Drudis"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap210326.html",
+        "trustTier": "encyclopedic",
+        "date": "2021-03-26"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:16.277Z",
+      "hash": "f4bb22c5ffe47e7e"
+    },
+    {
+      "id": "apod:2005-09-27",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap050927.html",
+        "trustTier": "encyclopedic",
+        "date": "2005-09-27"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:16.277Z",
+      "hash": "5e8ea158a5a64e1e"
+    },
+    {
+      "id": "apod:2014-06-17",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap140617.html",
+        "trustTier": "encyclopedic",
+        "date": "2014-06-17"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:16.277Z",
+      "hash": "06a9c3d73c0d948a"
+    },
+    {
+      "id": "apod:2014-12-14",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap141214.html",
+        "trustTier": "encyclopedic",
+        "date": "2014-12-14"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:16.276Z",
+      "hash": "452897491ed28e27"
+    },
+    {
+      "id": "onthisday:10-19:1752:2ad27f7fdda34a01",
+      "type": "history",
+      "title": "1752: The Pennsylvania Gazette",
+      "summary": "The Pennsylvania Gazette published a statement by Benjamin Franklin describing a kite experiment (depicted) to determine the electrical nature of lightning.",
+      "body": "The Pennsylvania Gazette published a statement by Benjamin Franklin describing a kite experiment (depicted) to determine the electrical nature of lightning.",
+      "image": {
+        "src": "data/images/5d3905d032f082dd.jpg",
+        "alt": "The Pennsylvania Gazette",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/The_Pennsylvania_Gazette",
+        "trustTier": "encyclopedic",
+        "date": "10-19"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:08.725Z",
+      "hash": "3aef873c9190aca1",
+      "expires": "2026-10-22T15:23:08.725Z"
+    },
+    {
+      "id": "onthisday:10-19:1987:eab4dfad59641cf6",
+      "type": "history",
+      "title": "1987: Dow Jones Industrial Average",
+      "summary": "The Dow Jones Industrial Average fell by 22.6 percent on Black Monday, the largest one-day percentage decline in the stock market index's history.",
+      "body": "The Dow Jones Industrial Average fell by 22.6 percent on Black Monday, the largest one-day percentage decline in the stock market index's history.",
+      "image": {
+        "src": "data/images/dd0b2201ef7d98db.png",
+        "alt": "Dow Jones Industrial Average",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+        "trustTier": "encyclopedic",
+        "date": "10-19"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:08.724Z",
+      "hash": "36ced16eaf4aa65c",
+      "expires": "2026-10-22T15:23:08.724Z"
+    },
+    {
+      "id": "onthisday:10-19:1988:3ba51d0bcb944b74",
+      "type": "history",
+      "title": "1988: 1988–1994 British broadcasting voice restrictions",
+      "summary": "The British government restricted the broadcast of the voices of representatives from Sinn Féin and several Irish republican and loyalist paramilitary groups on television and radio.",
+      "body": "The British government restricted the broadcast of the voices of representatives from Sinn Féin and several Irish republican and loyalist paramilitary groups on television and radio.",
+      "image": {
+        "src": "data/images/14c12692eb88f39b.jpg",
+        "alt": "1988–1994 British broadcasting voice restrictions",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/1988%E2%80%931994_British_broadcasting_voice_restrictions",
+        "trustTier": "encyclopedic",
+        "date": "10-19"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:08.724Z",
+      "hash": "abece2fab2286dec",
+      "expires": "2026-10-22T15:23:08.724Z"
+    },
+    {
+      "id": "wikipedia:6979070",
+      "type": "wiki",
+      "title": "I Lituani",
+      "summary": "I Lituani is an opera consisting of a prologue and three acts by Amilcare Ponchielli to an Italian libretto by Antonio Ghislanzoni, based on the historical poem Konrad Wallenrod written by Lithuanian-Polish poet Adam Mickiewicz. It premiered at La Scala in Milan on 7 March 1874.",
+      "body": "I Lituani is an opera consisting of a prologue and three acts by Amilcare Ponchielli to an Italian libretto by Antonio Ghislanzoni, based on the historical poem Konrad Wallenrod written by Lithuanian-Polish poet Adam Mickiewicz. It premiered at La Scala in Milan on 7 March 1874.",
+      "image": {
+        "src": "data/images/a97731e905867f3a.jpg",
+        "alt": "I Lituani",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/I_Lituani",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:08.714Z",
+      "hash": "808682f8acf11cd7"
+    },
+    {
+      "id": "wikipedia:50404159",
+      "type": "wiki",
+      "title": "Pietro Ferrero (anarchist)",
+      "summary": "Pietro Ferrero was an Italian anarchist and trade unionist. He was assassinated by fascist blackshirts during the 1922 Turin massacre.",
+      "body": "Pietro Ferrero was an Italian anarchist and trade unionist. He was assassinated by fascist blackshirts during the 1922 Turin massacre.",
+      "image": {
+        "src": "data/images/4e34e7bcf8fd4e24.jpg",
+        "alt": "Pietro Ferrero (anarchist)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pietro_Ferrero_(anarchist)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:08.650Z",
+      "hash": "77a62e1524e744f4"
+    },
+    {
+      "id": "wikipedia:12220303",
+      "type": "wiki",
+      "title": "Department for Continuing Education, University of Oxford",
+      "summary": "The Department for Continuing Education is a constituent department of the University of Oxford in Oxford, England, United Kingdom.",
+      "body": "The Department for Continuing Education is a constituent department of the University of Oxford in Oxford, England, United Kingdom.",
+      "image": {
+        "src": "data/images/6ef2e5a922c641ba.jpg",
+        "alt": "Department for Continuing Education, University of Oxford",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Department_for_Continuing_Education%2C_University_of_Oxford",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:08.549Z",
+      "hash": "b246851a56e1c119"
+    },
+    {
+      "id": "wikipedia:17417220",
+      "type": "wiki",
+      "title": "Kazakhstan at the 2008 Summer Olympics",
+      "summary": "Kazakhstan was represented at the 2008 Summer Olympics in Beijing, China by the National Olympic Committee of the Republic of Kazakhstan.",
+      "body": "Kazakhstan was represented at the 2008 Summer Olympics in Beijing, China by the National Olympic Committee of the Republic of Kazakhstan.",
+      "image": {
+        "src": "data/images/b22de028e77747e2.png",
+        "alt": "Kazakhstan at the 2008 Summer Olympics",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kazakhstan_at_the_2008_Summer_Olympics",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-19T15:23:08.469Z",
+      "hash": "97f2a4e14d0bf191"
+    },
     {
       "id": "chess:iUIdn",
       "type": "chess",
@@ -11289,1159 +12440,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-10-08T15:24:11.810Z",
       "hash": "e7a05a4815fbfaa4"
-    },
-    {
-      "id": "apod:1997-06-26",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap970626.html",
-        "trustTier": "encyclopedic",
-        "date": "1997-06-26"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-08T15:24:11.810Z",
-      "hash": "64bf7e599ff09da5"
-    },
-    {
-      "id": "apod:2011-04-19",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap110419.html",
-        "trustTier": "encyclopedic",
-        "date": "2011-04-19"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-08T15:24:11.810Z",
-      "hash": "3de0242b21c5b0a7"
-    },
-    {
-      "id": "onthisday:10-08:2016:72ddaf5cd86d69d6",
-      "type": "history",
-      "title": "2016: Saudi-led intervention in the Yemeni civil war",
-      "summary": "Yemen War: A funeral in Sanaa was hit by two consecutive airstrikes by a Saudi-led coalition, leaving 143–155 civilians dead and more than 525 injured.",
-      "body": "Yemen War: A funeral in Sanaa was hit by two consecutive airstrikes by a Saudi-led coalition, leaving 143–155 civilians dead and more than 525 injured.",
-      "image": {
-        "src": "data/images/c457ee5744b2110c.jpg",
-        "alt": "Saudi-led intervention in the Yemeni civil war",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Saudi-led_intervention_in_the_Yemeni_civil_war",
-        "trustTier": "encyclopedic",
-        "date": "10-08"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-08T15:24:04.780Z",
-      "hash": "b8520ba8c1143e7d",
-      "expires": "2026-10-11T15:24:04.780Z"
-    },
-    {
-      "id": "onthisday:10-08:1918:d37f151e5bede6e6",
-      "type": "history",
-      "title": "1918: World War I",
-      "summary": "World War I: After his platoon suffered heavy casualties during the Meuse–Argonne offensive in France's Forest of Argonne, American Corporal Alvin York led the 7 remaining men on an attack against a German machine gun nest; 25 German soldiers were killed and 132 captured.",
-      "body": "World War I: After his platoon suffered heavy casualties during the Meuse–Argonne offensive in France's Forest of Argonne, American Corporal Alvin York led the 7 remaining men on an attack against a German machine gun nest; 25 German soldiers were killed and 132 captured.",
-      "image": {
-        "src": "data/images/37fd173e52361e38.jpg",
-        "alt": "World War I",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/World_War_I",
-        "trustTier": "encyclopedic",
-        "date": "10-08"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-08T15:24:04.780Z",
-      "hash": "54efb0e17f5bda54",
-      "expires": "2026-10-11T15:24:04.780Z"
-    },
-    {
-      "id": "onthisday:10-08:1967:ac9ac0cd3a592d15",
-      "type": "history",
-      "title": "1967: Marxism",
-      "summary": "Marxist revolutionary and guerrilla leader Che Guevara was captured near La Higuera, Bolivia.",
-      "body": "Marxist revolutionary and guerrilla leader Che Guevara was captured near La Higuera, Bolivia.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Marxism",
-        "trustTier": "encyclopedic",
-        "date": "10-08"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-08T15:24:04.780Z",
-      "hash": "b3b8b0791fd30aa7",
-      "expires": "2026-10-11T15:24:04.780Z"
-    },
-    {
-      "id": "wikipedia:6874163",
-      "type": "wiki",
-      "title": "Nosivka",
-      "summary": "Nosivka is a city in Nizhyn Raion, Chernihiv Oblast (province) of Ukraine. It hosts the administration of Nosivka urban hromada, one of the hromadas of Ukraine. Population: 12,908.",
-      "body": "Nosivka is a city in Nizhyn Raion, Chernihiv Oblast (province) of Ukraine. It hosts the administration of Nosivka urban hromada, one of the hromadas of Ukraine. Population: 12,908.",
-      "image": {
-        "src": "data/images/1a96c01feeefe99a.jpg",
-        "alt": "Nosivka",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Nosivka",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-08T15:24:04.752Z",
-      "hash": "1ed9095b6c83c313"
-    },
-    {
-      "id": "wikipedia:79245313",
-      "type": "wiki",
-      "title": "KiiiKiii",
-      "summary": "KiiiKiii (Korean: 키키) is a South Korean girl group formed by Starship Entertainment. The group consists of five members: Leesol, Sui, Jiyu, Haum, and Kya. They debuted on March 24, 2025, with the extended play Uncut Gem.",
-      "body": "KiiiKiii (Korean: 키키) is a South Korean girl group formed by Starship Entertainment. The group consists of five members: Leesol, Sui, Jiyu, Haum, and Kya. They debuted on March 24, 2025, with the extended play Uncut Gem.",
-      "image": {
-        "src": "data/images/79af0a276a732a4c.jpg",
-        "alt": "KiiiKiii",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/KiiiKiii",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-08T15:24:03.580Z",
-      "hash": "d56f1dba17195c91"
-    },
-    {
-      "id": "wikipedia:12837468",
-      "type": "wiki",
-      "title": "Oaklands, Hertfordshire",
-      "summary": "Oaklands is a hamlet in the civil parish of Welwyn, in Hertfordshire, England. It is in the Haldens Ward of the Borough of Welwyn Hatfield. In 2020 it had an estimated population of 8077.",
-      "body": "Oaklands is a hamlet in the civil parish of Welwyn, in Hertfordshire, England. It is in the Haldens Ward of the Borough of Welwyn Hatfield. In 2020 it had an estimated population of 8077.",
-      "image": {
-        "src": "data/images/eae5ddba1e9f870f.jpg",
-        "alt": "Oaklands, Hertfordshire",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Oaklands%2C_Hertfordshire",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-08T15:24:03.461Z",
-      "hash": "caa7bd3d09a99fd9"
-    },
-    {
-      "id": "wikipedia:36518444",
-      "type": "wiki",
-      "title": "American Idol Season 11 Highlights (Jessica Sanchez EP)",
-      "summary": "American Idol Season 11 Highlights is a compilation extended play by Jessica Sanchez based on some of her American Idol performances. The EP was released exclusively through Walmart and consists of a few studio recordings made by Sanchez during season 11 of American Idol. It includes a duet with Joshua Ledet, her…",
-      "body": "American Idol Season 11 Highlights is a compilation extended play by Jessica Sanchez based on some of her American Idol performances. The EP was released exclusively through Walmart and consists of a few studio recordings made by Sanchez during season 11 of American Idol. It includes a duet with Joshua Ledet, her potential coronation song, \"Change Nothing\" and performances that were well received by the judges on the show. Similar EPs were also released through Walmart by fellow contestants from the Top 5, Phillip Phillips, Joshua Ledet, Hollie Cavanagh and Skylar Laine. As of August 2012, it has sold 15,000 copies.",
-      "image": {
-        "src": "data/images/d0317d520fc3d5ab.jpg",
-        "alt": "American Idol Season 11 Highlights (Jessica Sanchez EP)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/American_Idol_Season_11_Highlights_(Jessica_Sanchez_EP)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-08T15:24:03.126Z",
-      "hash": "5eaadc301b9b833d"
-    },
-    {
-      "id": "chess:9u5Ba",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1852. Find the best line for black.",
-      "body": "Solution, from → to: h3→g4, g1→h1, g4→c4. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "2kr1b1r/ppp1nppp/5n2/3P4/2B5/2N1BN1q/PP3P2/R2QR1K1 b - - 1 1",
-        "lastMove": "c1e3"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/9u5Ba",
-        "trustTier": "community",
-        "date": "Wed, 07 Oct 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "short",
-        "advantage",
-        "fork",
-        "opening"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-07T15:22:09.265Z",
-      "hash": "8b75de6fbb91988d"
-    },
-    {
-      "id": "game:0fdca7acf3e62561",
-      "type": "game",
-      "title": "Unity unveils Unity Spark, an prompt-based tool for Google's AI games platform",
-      "summary": "Unity's new tool allows prompt-based game development, working in collaboration with Google AI.",
-      "body": "Unity's new tool allows prompt-based game development, working in collaboration with Google AI.",
-      "image": {
-        "src": "data/images/f7704817216be0ab.png",
-        "alt": "Unity unveils Unity Spark, an prompt-based tool for Google's AI games platform",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-        "trustTier": "publication",
-        "author": "Imran Khan",
-        "date": "Wed, 07 Oct 2026 12:05:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:22:08.886Z",
-      "hash": "0fdca7acf3e62561",
-      "expires": "2027-01-05T15:22:08.886Z"
-    },
-    {
-      "id": "game:82f56cb7c0c15348",
-      "type": "game",
-      "title": "Electronic Arts' leveraged buyout faces a bondholder battle",
-      "summary": "The acquisition of Electronic Arts required taking on a lot of debt, and some bondholders are reportedly demanding more cash.",
-      "body": "The acquisition of Electronic Arts required taking on a lot of debt, and some bondholders are reportedly demanding more cash.",
-      "image": {
-        "src": "data/images/5e73ddbf327f95f3.png",
-        "alt": "Electronic Arts' leveraged buyout faces a bondholder battle",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
-        "trustTier": "publication",
-        "author": "Imran Khan",
-        "date": "Wed, 07 Oct 2026 15:13:1"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:22:08.886Z",
-      "hash": "82f56cb7c0c15348",
-      "expires": "2027-01-05T15:22:08.886Z"
-    },
-    {
-      "id": "game:29c555cbc4c81400",
-      "type": "game",
-      "title": "Google debuts new 'experimental' AI game platform named Google Playground",
-      "summary": "A platform for people who want to play games made by AI.",
-      "body": "A platform for people who want to play games made by AI.",
-      "image": {
-        "src": "data/images/a6c241ca47eeb4c2.jpg",
-        "alt": "Google debuts new 'experimental' AI game platform named Google Playground",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
-        "trustTier": "publication",
-        "author": "Bryant Francis",
-        "date": "Tue, 06 Oct 2026 20:14:4"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:22:08.886Z",
-      "hash": "29c555cbc4c81400",
-      "expires": "2027-01-05T15:22:08.886Z"
-    },
-    {
-      "id": "trivia:0db533375df21c4d",
-      "type": "trivia",
-      "title": "What national museum will you find in Cooperstown, New York?",
-      "summary": "Is it: Metropolitan Museum of Art · Museum of Modern Art · National Toy Hall of Fame · National Baseball Hall of Fame?",
-      "body": "Answer: National Baseball Hall of Fame.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "geography"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-07T15:22:06.471Z",
-      "hash": "0db533375df21c4d"
-    },
-    {
-      "id": "trivia:d3aa580e064204c7",
-      "type": "trivia",
-      "title": "The United States of America declared their independence from the British Empire on July 4th, 1776.",
-      "summary": "True — or false?",
-      "body": "Answer: True.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-07T15:22:06.471Z",
-      "hash": "d3aa580e064204c7"
-    },
-    {
-      "id": "trivia:9b561058630b5df1",
-      "type": "trivia",
-      "title": "In the Super Mario Bros. Series, what is Yoshi's scientific name?",
-      "summary": "Is it: Yossy · Yoshi · T. Yoshisaur Munchakoopas · T. Yoshisotop Munchakoopas?",
-      "body": "Answer: T. Yoshisaur Munchakoopas.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-07T15:22:06.471Z",
-      "hash": "9b561058630b5df1"
-    },
-    {
-      "id": "trivia:4481fc3422334497",
-      "type": "trivia",
-      "title": "A pencil's lead is typically made from graphite, not lead",
-      "summary": "True — or false?",
-      "body": "Answer: True.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:22:06.471Z",
-      "hash": "4481fc3422334497"
-    },
-    {
-      "id": "comic:smbc:91a55d21691a3557",
-      "type": "comic",
-      "title": "Cardamom",
-      "summary": "The secret ingredient is a half teaspoon of rosewater.",
-      "image": {
-        "src": "data/images/39050c118c929582.png",
-        "alt": "The secret ingredient is a half teaspoon of rosewater.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/cardamom",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Tue, 06 Oct 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-07T15:22:04.690Z",
-      "hash": "91a55d21691a3557"
-    },
-    {
-      "id": "comic:smbc:e4b11b2da88afffa",
-      "type": "comic",
-      "title": "Woops",
-      "summary": "It's not a topical comic in that I suspect I'll be posting it every few years for a long time.",
-      "image": {
-        "src": "data/images/f6d9c58b12ea3f3e.png",
-        "alt": "It's not a topical comic in that I suspect I'll be posting it every few years for a long time.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/woops",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Wed, 07 Oct 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-07T15:22:04.689Z",
-      "hash": "e4b11b2da88afffa"
-    },
-    {
-      "id": "comic:xkcd:1895",
-      "type": "comic",
-      "title": "Worrying Scientist Interviews",
-      "summary": "They always try to explain that they're called 'solar physicists', but the reporters interrupt with \"NEVER MIND THAT, TELL US WHAT'S WRONG WITH THE SUN!\"",
-      "image": {
-        "src": "data/images/f04d593957fb5fe7.png",
-        "alt": "They always try to explain that they're called 'solar physicists', but the reporters interrupt with \"NEVER MIND THAT, TELL US WHAT'S WRONG WITH THE SUN!\"",
-        "credit": "xkcd #1895 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1895/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2017-09-27"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-07T15:22:04.414Z",
-      "hash": "8bc5fd6a25f7904f"
-    },
-    {
-      "id": "craft:f6fa838883005a46",
-      "type": "craft",
-      "title": "Precarious Dwellings Perch Atop Rocks in Simon Laveuve’s 1/35-Scale Miniatures",
-      "summary": "See these works in person later this fall in the artist's solo exhibition at Loo & Lou Gallery in Paris.",
-      "body": "See these works in person later this fall in the artist's solo exhibition at Loo & Lou Gallery in Paris.",
-      "image": {
-        "src": "data/images/53d94a683cf9555d.jpg",
-        "alt": "Precarious Dwellings Perch Atop Rocks in Simon Laveuve’s 1/35-Scale Miniatures",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/10/simon-laveuve-miniature-dwellings-anchored-in-rock/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Wed, 07 Oct 2026 13:44:5"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "apocalypse",
-        "architecture",
-        "houses",
-        "miniature",
-        "mixed media",
-        "sculpture",
-        "simon laveuve"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:22:03.736Z",
-      "hash": "f6fa838883005a46"
-    },
-    {
-      "id": "craft:f644754abbabafae",
-      "type": "craft",
-      "title": "Photographer Elizaveta Porodina Turns Her Luminous Lens to Insects",
-      "summary": "A radiant series of portraits highlights beetles, butterflies, and mantises in Elizaveta Porodina's signature ethereal style and saturated color.",
-      "body": "A radiant series of portraits highlights beetles, butterflies, and mantises in Elizaveta Porodina's signature ethereal style and saturated color.",
-      "image": {
-        "src": "data/images/dffdd1f1ae8e5fe7.jpg",
-        "alt": "Photographer Elizaveta Porodina Turns Her Luminous Lens to Insects",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/10/elizaveta-porodina-photos-found-dreams/",
-        "trustTier": "publication",
-        "author": "Grace Ebert",
-        "date": "Tue, 06 Oct 2026 16:35:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "books",
-        "nature",
-        "photography",
-        "elizaveta porodina",
-        "insects"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:22:03.736Z",
-      "hash": "f644754abbabafae"
-    },
-    {
-      "id": "word:2db99f05a13a67ad",
-      "type": "word",
-      "title": "eloquence",
-      "summary": "Noun: The quality of artistry and persuasiveness in speech or writing.",
-      "body": "1. The quality of artistry and persuasiveness in speech or writing.\n2. An eloquent utterance.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/eloquence",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-07T15:22:03.154Z",
-      "hash": "2db99f05a13a67ad"
-    },
-    {
-      "id": "word:438a7727880f7b9b",
-      "type": "word",
-      "title": "etymology",
-      "summary": "Noun: The scientific study of the origin and evolution of a word's semantic meaning across time, including its constituent morphemes and phonemes.",
-      "body": "1. The scientific study of the origin and evolution of a word's semantic meaning across time, including its constituent morphemes and phonemes.\n2. The entire catalogue of meanings that a word, morpheme, or sign has carried throughout its history.\n3. An account of the origin and historical development of a word as presented in a dictionary or the like.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/etymology",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-07T15:22:01.633Z",
-      "hash": "438a7727880f7b9b"
-    },
-    {
-      "id": "quote:9a9f11559eeebe02",
-      "type": "quote",
-      "title": "“He who laughs at himself never runs out of things to laugh at.”",
-      "summary": "— Epictetus",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Epictetus",
-        "trustTier": "community",
-        "author": "Epictetus"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-07T15:22:01.152Z",
-      "hash": "9a9f11559eeebe02"
-    },
-    {
-      "id": "quote:263e71ecd86c7e37",
-      "type": "quote",
-      "title": "“There is no one giant step that does it. It's a lot of little steps.”",
-      "summary": "— Peter A. Cohen",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Peter_A._Cohen",
-        "trustTier": "community",
-        "author": "Peter A. Cohen"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-07T15:22:01.152Z",
-      "hash": "263e71ecd86c7e37"
-    },
-    {
-      "id": "quote:695036fd8a453015",
-      "type": "quote",
-      "title": "“Debt is the slavery of the free.”",
-      "summary": "— Publilius Syrus",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Publilius_Syrus",
-        "trustTier": "community",
-        "author": "Publilius Syrus"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-07T15:22:01.152Z",
-      "hash": "695036fd8a453015"
-    },
-    {
-      "id": "book-review:1df08166166729ca",
-      "type": "book-review",
-      "title": "American Metamorphoses",
-      "summary": "“That rivers and wild rice can now become legal persons discloses the precarity of previously entrenched definitions of nature, personhood, property, and law: that is, the terms that constitute a world.” The post American Metamorphoses appeared first on Public Books.",
-      "body": "“That rivers and wild rice can now become legal persons discloses the precarity of previously entrenched definitions of nature, personhood, property, and law: that is, the terms that constitute a world.” The post American Metamorphoses appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/american-metamorphoses/",
-        "trustTier": "publication",
-        "author": "Morgan Barry",
-        "date": "Tue, 06 Oct 2026 15:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "reviews",
-        "climate",
-        "colonialism",
-        "environmental justice",
-        "environmentalism",
-        "indigenous",
-        "latin america"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:22:00.880Z",
-      "hash": "1df08166166729ca"
-    },
-    {
-      "id": "book-review:978d76fb07b2358c",
-      "type": "book-review",
-      "title": "Can the River Debate the Suburb?",
-      "summary": "Firms like Philip Morris hold rights that exceed those of most humans. Estates speak for the dead. Trusts speak for the unborn. Legally, we can devise new ways for nature to be legally represented within our human world. The post Can the River Debate the Suburb? appeared first on Public Books.",
-      "body": "Firms like Philip Morris hold rights that exceed those of most humans. Estates speak for the dead. Trusts speak for the unborn. Legally, we can devise new ways for nature to be legally represented within our human world. The post Can the River Debate the Suburb? appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/can-the-river-debate-the-suburb/",
-        "trustTier": "publication",
-        "author": "Morgan Barry",
-        "date": "Wed, 07 Oct 2026 15:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "essays",
-        "capitalism",
-        "climate change",
-        "environment",
-        "environmental justice",
-        "nature",
-        "rights"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:22:00.879Z",
-      "hash": "978d76fb07b2358c"
-    },
-    {
-      "id": "article:6def8fe8f34bd66a",
-      "type": "article",
-      "title": "Some more things about Django I've been enjoying",
-      "summary": "Hello! I&rsquo;m on a funny journey right now where I&rsquo;m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It&rsquo;s kind of an interesting journey because it doesn&rsquo;t necessarily feel &ldquo;easy&rdquo; to me…",
-      "body": "Hello! I&rsquo;m on a funny journey right now where I&rsquo;m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It&rsquo;s kind of an interesting journey because it doesn&rsquo;t necessarily feel &ldquo;easy&rdquo; to me to make websites in this way: I never learned how to do it in the 2000s or 2010s, and there&rsquo;s a lot I need to learn. So here are some Django features that make building this kind of site feel more achievable than when I was trying and failing to use Go&rsquo;s standard library or Flask. And…",
-      "source": {
-        "name": "Julia Evans",
-        "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-        "trustTier": "community",
-        "date": "2026-07-21T00:00:00+00:0"
-      },
-      "tags": [
-        "programming",
-        "computers",
-        "technology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:21:52.783Z",
-      "hash": "6def8fe8f34bd66a"
-    },
-    {
-      "id": "article:f80e026012ce407b",
-      "type": "article",
-      "title": "Creating Fake People is a Terrible Idea",
-      "summary": "So why is a company pursuing digital avatars with such gusto? The post Creating Fake People is a Terrible Idea appeared first on Nautilus.",
-      "body": "So why is a company pursuing digital avatars with such gusto? The post Creating Fake People is a Terrible Idea appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/f3809374e58c7cc9.jpg",
-        "alt": "Creating Fake People is a Terrible Idea",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/creating-fake-people-is-a-terrible-idea-1285598/",
-        "trustTier": "publication",
-        "author": "Anil Seth",
-        "date": "Wed, 07 Oct 2026 12:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "technology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:21:51.593Z",
-      "hash": "f80e026012ce407b"
-    },
-    {
-      "id": "article:0931dc3e2b9b7bbb",
-      "type": "article",
-      "title": "Pinkie the Pink Elephant in Sun Prairie, Wisconsin",
-      "summary": "DeForest, Wisconsin, United States--A fiberglass giant pink elephant with glasses, also known as “Pinkie the Elephant” or “Pinky the Elephant” is a roadside attraction in DeForest, Wisconsin; situated near a Shell gas station and convenient store with fresh and local goods. at 4995 County Rd. V,…",
-      "body": "DeForest, Wisconsin, United States--A fiberglass giant pink elephant with glasses, also known as “Pinkie the Elephant” or “Pinky the Elephant” is a roadside attraction in DeForest, Wisconsin; situated near a Shell gas station and convenient store with fresh and local goods. at 4995 County Rd. V, it's the World's Largest Pink Elephant Statue, according to the WORLD RECORD ACADEMY. Life sized, wears giant eyeglasses. The adjacent gas station sells a variety of Pinkie souvenirs.",
-      "image": {
-        "src": "data/images/bb95d4b59e0556f1.jpg",
-        "alt": "Pinkie the Pink Elephant in Sun Prairie, Wisconsin",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/pinkie-the-pink-elephant",
-        "trustTier": "publication",
-        "date": "Tue, 06 Oct 2026 16:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "roadside attractions",
-        "elephants",
-        "world's largest"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:21:50.263Z",
-      "hash": "0931dc3e2b9b7bbb"
-    },
-    {
-      "id": "article:fddebf31434db2c6",
-      "type": "article",
-      "title": "William T. Vollmann's publisher insisted he shorten his novel. “I said, ‘I cut it, but I’m really sorry but unfortunately, it’s like 400 pages longer now”",
-      "summary": "William T. Vollmann's publisher insisted he shorten his novel. “I said, ‘I cut it, but I’m really sorry but unfortunately, it’s like 400 pages longer now”",
-      "body": "William T. Vollmann's publisher insisted he shorten his novel. “I said, ‘I cut it, but I’m really sorry but unfortunately, it’s like 400 pages longer now”",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://www.sacbee.com/news/local/article317168293.html",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:21:49.826Z",
-      "hash": "fddebf31434db2c6"
-    },
-    {
-      "id": "article:e47855f576c47f6a",
-      "type": "article",
-      "title": "The Rise of Democratic Socialism",
-      "summary": "Read the DSA’s 2026 manifesto, which has no time for nuance in laying out its overriding ambition: for the “working class” to rise up and create “a future without capitalism.” No one will have “bills,” because “food, education, energy, medicine, and transportation” will be “common goods and…",
-      "body": "Read the DSA’s 2026 manifesto, which has no time for nuance in laying out its overriding ambition: for the “working class” to rise up and create “a future without capitalism.” No one will have “bills,” because “food, education, energy, medicine, and transportation” will be “common goods and utilities.”",
-      "image": {
-        "src": "data/images/5f5312d3b07e9b9e.jpg",
-        "alt": "The Rise of Democratic Socialism",
-        "credit": "Imprimis"
-      },
-      "source": {
-        "name": "Imprimis",
-        "url": "https://imprimis.hillsdale.edu/the-rise-of-democratic-socialism/",
-        "trustTier": "publication",
-        "author": "Kimberley A. Strassel",
-        "date": "Mon, 05 Oct 2026 20:44:2"
-      },
-      "tags": [
-        "ideas",
-        "liberty",
-        "lecture",
-        "economics",
-        "education",
-        "elections",
-        "government",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:21:49.522Z",
-      "hash": "e47855f576c47f6a"
-    },
-    {
-      "id": "article:939470c0d7afe85f",
-      "type": "article",
-      "title": "Against Laissez-Faire Democracy",
-      "summary": "In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire…",
-      "body": "In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire democracy is widely accepted. All the typical market failure arguments–externalities, asymmetric information, principal-agent problems, behavioral […] The post Against Laissez-Faire Democracy appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=against-laissez-faire-democracy",
-        "trustTier": "community",
-        "author": "Alex Tabarrok",
-        "date": "Wed, 07 Oct 2026 11:18:3"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "education",
-        "law",
-        "philosophy",
-        "political science"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:21:49.051Z",
-      "hash": "939470c0d7afe85f"
-    },
-    {
-      "id": "article:9a83cf07c340d893",
-      "type": "article",
-      "title": "How to assemble science",
-      "summary": "Humanity produces a staggering amount of new knowledge every day. The question is how to make sense of it all- by Helen PearsonRead on Aeon",
-      "body": "Humanity produces a staggering amount of new knowledge every day. The question is how to make sense of it all- by Helen PearsonRead on Aeon",
-      "image": {
-        "src": "data/images/d3c6918997538ad4.jpg",
-        "alt": "How to assemble science",
-        "credit": "Aeon"
-      },
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
-        "trustTier": "publication",
-        "author": "Helen Pearson",
-        "date": "Tue, 06 Oct 2026 10:00:0"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "philosophy"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:21:47.848Z",
-      "hash": "9a83cf07c340d893"
-    },
-    {
-      "id": "article:85b9f8358c959dfa",
-      "type": "article",
-      "title": "I won’t remain alone",
-      "summary": "In the wake of tragedy, an elderly couple must make a choice: should they let their son go to save the lives of others?- by Aeon VideoWatch on Aeon",
-      "body": "In the wake of tragedy, an elderly couple must make a choice: should they let their son go to save the lives of others?- by Aeon VideoWatch on Aeon",
-      "image": {
-        "src": "data/images/e84c509440e0e6dc.jpg",
-        "alt": "I won’t remain alone",
-        "credit": "Aeon"
-      },
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/videos/an-iranian-couple-seek-out-the-recipient-of-their-late-sons-heart",
-        "trustTier": "publication",
-        "author": "Aeon Video",
-        "date": "Wed, 07 Oct 2026 10:01:0"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "philosophy"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:21:47.846Z",
-      "hash": "85b9f8358c959dfa"
-    },
-    {
-      "id": "greek:6886080b12b3ff94",
-      "type": "greek",
-      "title": "ἄγγελος",
-      "summary": "ἄγγελος — “angel, messenger” · noun",
-      "body": "Note: ὁ ἄγγελος; literal sense is \"messenger\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-07T15:21:47.671Z",
-      "hash": "6886080b12b3ff94"
-    },
-    {
-      "id": "greek:e9262ad7739dc565",
-      "type": "greek",
-      "title": "ἀπόστολος",
-      "summary": "ἀπόστολος — “apostle” · noun",
-      "body": "Note: ὁ ἀπόστολος; literally \"one sent out\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CF%80%CF%8C%CF%83%CF%84%CE%BF%CE%BB%CE%BF%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-07T15:21:47.671Z",
-      "hash": "e9262ad7739dc565"
-    },
-    {
-      "id": "poetry:a37423d89e09e789",
-      "type": "poem",
-      "title": "Epitaph. On Mr Gay, in Westminster Abbey, 1732.",
-      "summary": "Of manners gentle, of affections mild;\nIn wit, a man; simplicity, a child:\nWith native humour tempering virtuous rage,\nForm'd to delight at once and lash the age:",
-      "body": "Of manners gentle, of affections mild;\nIn wit, a man; simplicity, a child:\nWith native humour tempering virtuous rage,\nForm'd to delight at once and lash the age:\nAbove temptation in a low estate,\nAnd uncorrupted, even among the great:\nA safe companion, and an easy friend,\nUnblamed through life, lamented in thy end.\nThese are thy honours! not that here thy bust\nIs mix'd with heroes, or with kings thy dust;\nBut that the worthy and the good shall say,\nStriking their pensive bosoms--Here lies Gay.",
-      "source": {
-        "name": "Alexander Pope · PoetryDB",
-        "url": "https://poetrydb.org/title/Epitaph.%20On%20Mr%20Gay%2C%20in%20Westminster%20Abbey%2C%201732.",
-        "trustTier": "community",
-        "author": "Alexander Pope"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:21:47.669Z",
-      "hash": "a37423d89e09e789"
-    },
-    {
-      "id": "poetry:8579792b66490a7c",
-      "type": "poem",
-      "title": "Spring Greeting",
-      "summary": "From the German of Herder.\nAll faintly through my soul to-day,\nAs from a bell that far away\nIs tinkled by some frolic fay,",
-      "body": "From the German of Herder.\n\n\n\nAll faintly through my soul to-day,\nAs from a bell that far away\nIs tinkled by some frolic fay,\nFloateth a lovely chiming.\nThou magic bell, to many a fell\nAnd many a winter-saddened dell\nThy tongue a tale of Spring doth tell,\nToo passionate-sweet for rhyming.\n\nChime out, thou little song of Spring,\nFloat in the blue skies ravishing.\nThy song-of-life a joy doth bring\nThat's sweet, albeit fleeting.\nFloat on the Spring-winds e'en to my home:\nAnd when thou to a rose shalt come\nThat hath begun to show her bloom,\nSay, I send her greeting!",
-      "source": {
-        "name": "Sidney Lanier · PoetryDB",
-        "url": "https://poetrydb.org/title/Spring%20Greeting",
-        "trustTier": "community",
-        "author": "Sidney Lanier"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-07T15:21:47.669Z",
-      "hash": "8579792b66490a7c"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399781408-0",
-      "type": "art",
-      "title": "William Closson Self-Portrait",
-      "summary": "National Portrait Gallery · 1900s · Paintings",
-      "body": "National Portrait Gallery\n1900s · Paintings",
-      "image": {
-        "src": "data/images/83c203bd618e0147.jpg",
-        "alt": "William Closson Self-Portrait",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_S_NPG.85.4",
-        "trustTier": "encyclopedic",
-        "date": "1900s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "paintings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-07T15:21:47.165Z",
-      "hash": "28593a61010af4ab"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399809026-0",
-      "type": "art",
-      "title": "George Wesley Bellows Self-Portrait",
-      "summary": "National Portrait Gallery · 1920s · Prints",
-      "body": "National Portrait Gallery\n1920s · Prints",
-      "image": {
-        "src": "data/images/eb72f911fd870e1b.jpg",
-        "alt": "George Wesley Bellows Self-Portrait",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_NPG.2002.204",
-        "trustTier": "encyclopedic",
-        "date": "1920s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "prints"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-07T15:21:47.165Z",
-      "hash": "eed238475fab9a81"
-    },
-    {
-      "id": "art:si:ld1-1643399756728-1643399793421-0",
-      "type": "art",
-      "title": "James Barton Longacre Self-Portrait",
-      "summary": "National Portrait Gallery · 1810s · Drawings",
-      "body": "National Portrait Gallery\n1810s · Drawings",
-      "image": {
-        "src": "data/images/bb120129d37ca77b.jpg",
-        "alt": "James Barton Longacre Self-Portrait",
-        "credit": "National Portrait Gallery · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://npg.si.edu/object/npg_NPG.67.14",
-        "trustTier": "encyclopedic",
-        "date": "1810s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "portrait",
-        "drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-07T15:21:47.165Z",
-      "hash": "dfc13ef8ded6a8aa"
     },
     {
       "id": "curated:handwriting-beats-typing",

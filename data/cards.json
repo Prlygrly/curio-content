@@ -1,7 +1,1124 @@
 {
-  "generatedAt": "2026-10-20T13:27:19.149Z",
+  "generatedAt": "2026-10-21T13:36:20.443Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:kRapK",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1854. Find the best line for black.",
+      "body": "Solution, from → to: d6→e5, f1→f8, c5→f8. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "5r2/pp1k2p1/2np4/1Nq1N3/2B1P1b1/3P4/PPP3P1/R1B2R1K b - - 0 1",
+        "lastMove": "f7e5"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/kRapK",
+        "trustTier": "community",
+        "date": "Wed, 21 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "middlegame",
+        "advantage",
+        "short",
+        "hangingpiece"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-21T13:36:16.991Z",
+      "hash": "1cb641e186780a69"
+    },
+    {
+      "id": "game:6146f205651f798b",
+      "type": "game",
+      "title": "Innersloth co-founder warns devs: 'there are some very bad deals out there'",
+      "summary": "'There are some truly abysmal deals for games that do not deserve that.'",
+      "body": "'There are some truly abysmal deals for games that do not deserve that.'",
+      "image": {
+        "src": "data/images/07ef5b5f0d9e90fa.png",
+        "alt": "Innersloth co-founder warns devs: 'there are some very bad deals out there'",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/outersloth-co-founder-warns-devs-there-are-some-very-bad-deals-out-there-",
+        "trustTier": "publication",
+        "author": "Bryant Francis",
+        "date": "Tue, 20 Oct 2026 16:01:4"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:36:16.805Z",
+      "hash": "6146f205651f798b",
+      "expires": "2027-01-19T13:36:16.805Z"
+    },
+    {
+      "id": "game:a14f244654a0de9d",
+      "type": "game",
+      "title": "Griffin Gaming Partners, Entertainment 360 jointly unveil production company Hitpoint Entertainment",
+      "summary": "A prominent game industry fund and Hollywood talent agency are teaming up to adapt games for TV and film.",
+      "body": "A prominent game industry fund and Hollywood talent agency are teaming up to adapt games for TV and film.",
+      "image": {
+        "src": "data/images/9d11872c819a82c2.jpg",
+        "alt": "Griffin Gaming Partners, Entertainment 360 jointly unveil production company Hitpoint Entertainment",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/griffin-gaming-partners-entertainment-360-jointly-unveil-production-company-hitpoint-entertainment",
+        "trustTier": "publication",
+        "author": "Bryant Francis",
+        "date": "Tue, 20 Oct 2026 15:10:3"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:36:16.805Z",
+      "hash": "a14f244654a0de9d",
+      "expires": "2027-01-19T13:36:16.805Z"
+    },
+    {
+      "id": "game:0084c4e49dc38844",
+      "type": "game",
+      "title": "Fuse Games CEO breaks down codev framework for Star Wars: Galactic Racer",
+      "summary": "A model for making the most of distributed development.",
+      "body": "A model for making the most of distributed development.",
+      "image": {
+        "src": "data/images/1487850cf958f6fa.jpg",
+        "alt": "Fuse Games CEO breaks down codev framework for Star Wars: Galactic Racer",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer",
+        "trustTier": "publication",
+        "author": "Bryant Francis",
+        "date": "Tue, 20 Oct 2026 18:39:1"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:36:16.805Z",
+      "hash": "0084c4e49dc38844",
+      "expires": "2027-01-19T13:36:16.805Z"
+    },
+    {
+      "id": "trivia:7c9c370fa852b56b",
+      "type": "trivia",
+      "title": "Which of the following is NOT a god in Norse Mythology.",
+      "summary": "Is it: Tyr · Snotra · Jens · Loki?",
+      "body": "Answer: Jens.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "mythology"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-21T13:36:14.351Z",
+      "hash": "7c9c370fa852b56b"
+    },
+    {
+      "id": "trivia:d81d0a253c9da2c6",
+      "type": "trivia",
+      "title": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+      "summary": "Is it: Carry · Beamer · Bye · Duck?",
+      "body": "Answer: Duck.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "sports"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:36:14.351Z",
+      "hash": "d81d0a253c9da2c6"
+    },
+    {
+      "id": "trivia:06f74168f6efd4b2",
+      "type": "trivia",
+      "title": "In Greek Mythology, who was the daughter of King Minos?",
+      "summary": "Is it: Ariel · Athena · Ariadne · Alana?",
+      "body": "Answer: Ariadne.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "mythology"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-21T13:36:14.351Z",
+      "hash": "06f74168f6efd4b2"
+    },
+    {
+      "id": "trivia:87737bf23efd59f0",
+      "type": "trivia",
+      "title": "What is the Portuguese word for \"Brazil\"?",
+      "summary": "Is it: Brasil · Brasilia · Brazil · Brasíl?",
+      "body": "Answer: Brasil.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "general knowledge"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:36:14.351Z",
+      "hash": "87737bf23efd59f0"
+    },
+    {
+      "id": "comic:smbc:ecf4ecb54ca60d73",
+      "type": "comic",
+      "title": "Funeral",
+      "summary": "Actually for me you can get it down to an eyeroll and a tired sigh.",
+      "image": {
+        "src": "data/images/305796c8185ef962.png",
+        "alt": "Actually for me you can get it down to an eyeroll and a tired sigh.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/funeral",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Tue, 20 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-21T13:36:13.151Z",
+      "hash": "ecf4ecb54ca60d73"
+    },
+    {
+      "id": "comic:xkcd:1259",
+      "type": "comic",
+      "title": "Bee Orchid",
+      "summary": "In sixty million years aliens will know humans only by a fuzzy clip of a woman in an Axe commercial.",
+      "body": "[[Beret guy and a woman are walking through a wood.]] Woman: There are these orchids whose flowers look like female bees. When males try to mate with them, they transfer pollen. [[The woman kneels next to a flower.]] Woman: This orchid - Ophrys Apifera - makes flowers, but no bees land on them because the bee it mimics went extinct long ago. [[The woman stands.]] Woman: Without its partner, the orchid has resorted to self-pollinating, a last-ditch genetic strategy that only delays the inevitable. Nothing of the bee remains, but we know it existed from the shape of this flower. [[They walk on past the flower.]] Woman: It's an idea of what the female bee looked like to the male bee... ... as…",
+      "image": {
+        "src": "data/images/c54e438271aca804.png",
+        "alt": "In sixty million years aliens will know humans only by a fuzzy clip of a woman in an Axe commercial.",
+        "credit": "xkcd #1259 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/1259/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2013-09-02"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-21T13:36:13.002Z",
+      "hash": "3d09d4903e0f73f7"
+    },
+    {
+      "id": "comic:xkcd:3314",
+      "type": "comic",
+      "title": "Vulnerability",
+      "summary": "Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.",
+      "image": {
+        "src": "data/images/d751b1a65b627bdd.png",
+        "alt": "Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.",
+        "credit": "xkcd #3314 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3314/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-10-21"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-21T13:36:12.958Z",
+      "hash": "f09579b91feeaac8"
+    },
+    {
+      "id": "food:85e3a85fdad97b8a",
+      "type": "food",
+      "title": "Pie Recipes: Favorite Sweet & Savory Pies",
+      "summary": "A collection of my most loved pie recipes, the ones I can't stop baking. Sweet or savory, fruit-filled or hand-held, these pies come out of the oven beautiful and fragrant. Classic at heart, with just enough modern edge. Continue reading Pie Recipes: Favorite Sweet & Savory Pies on 101 Cookbooks",
+      "body": "A collection of my most loved pie recipes, the ones I can't stop baking. Sweet or savory, fruit-filled or hand-held, these pies come out of the oven beautiful and fragrant. Classic at heart, with just enough modern edge. Continue reading Pie Recipes: Favorite Sweet & Savory Pies on 101 Cookbooks",
+      "image": {
+        "src": "data/images/15abb5bf809af306.jpg",
+        "alt": "Pie Recipes: Favorite Sweet & Savory Pies",
+        "credit": "101 Cookbooks"
+      },
+      "source": {
+        "name": "101 Cookbooks",
+        "url": "https://www.101cookbooks.com/pie-recipes/",
+        "trustTier": "community",
+        "author": "Heidi Swanson",
+        "date": "Mon, 21 Sep 2026 17:27:5"
+      },
+      "tags": [
+        "cooking",
+        "recipe",
+        "food",
+        "baking recipes",
+        "dessert recipes",
+        "fall",
+        "holiday recipes",
+        "pies and tart recipes"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:36:12.899Z",
+      "hash": "85e3a85fdad97b8a"
+    },
+    {
+      "id": "craft:ffe91a2db4714cae",
+      "type": "craft",
+      "title": "Álvaro Urbano Honors the Lost Specimens of Mexico City’s Iconic Casa Cueva",
+      "summary": "Álvaro Urbano presents an homage to the innovations of Casa Cueva, an icon of modernist Mexican architecture.",
+      "body": "Álvaro Urbano presents an homage to the innovations of Casa Cueva, an icon of modernist Mexican architecture.",
+      "image": {
+        "src": "data/images/f1f5d24ba58519ee.jpg",
+        "alt": "Álvaro Urbano Honors the Lost Specimens of Mexico City’s Iconic Casa Cueva",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/alvaro-urbano-metal-sculptures-casa-cueva-helen/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Tue, 20 Oct 2026 22:15:3"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "nature",
+        "álvaro urbano",
+        "flowers",
+        "mexico city",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:36:12.802Z",
+      "hash": "ffe91a2db4714cae"
+    },
+    {
+      "id": "craft:feb7439845f67c1e",
+      "type": "craft",
+      "title": "Sunlu AMS Lite Filament Heater Review",
+      "summary": "Sunlu's AMS Lite Heater is simple to assemble, easy to use, and keeps your filament dry while you print. But it only works with Bambu’s AMS Lite. The post Sunlu AMS Lite Filament Heater Review appeared first on Make: DIY Projects and Ideas for Makers.",
+      "body": "Sunlu's AMS Lite Heater is simple to assemble, easy to use, and keeps your filament dry while you print. But it only works with Bambu’s AMS Lite. The post Sunlu AMS Lite Filament Heater Review appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/a8e4107df719750c.jpg",
+        "alt": "Sunlu AMS Lite Filament Heater Review",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/digital-fabrication/3d-printing-workshop/sunlu-ams-lite-filament-heater-review/",
+        "trustTier": "publication",
+        "author": "Craig Couden",
+        "date": "Tue, 20 Oct 2026 17:00:0"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "3d printing & imaging",
+        "digital fabrication",
+        "3d printing",
+        "filament",
+        "make99",
+        "tools"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:36:11.495Z",
+      "hash": "feb7439845f67c1e"
+    },
+    {
+      "id": "word:b1e57b21fb46da07",
+      "type": "word",
+      "title": "eudaimonia",
+      "summary": "Noun: Alternative form of Eudaimonia.",
+      "body": "1. Alternative form of Eudaimonia.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/eudaimonia",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:36:11.412Z",
+      "hash": "b1e57b21fb46da07"
+    },
+    {
+      "id": "quote:a76e944c29c80ac7",
+      "type": "quote",
+      "title": "“I am not proud, but I am happy; and happiness blinds, I think, more than pride.”",
+      "summary": "— Alexandre Dumas",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alexandre_Dumas",
+        "trustTier": "community",
+        "author": "Alexandre Dumas"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:36:08.215Z",
+      "hash": "a76e944c29c80ac7"
+    },
+    {
+      "id": "quote:6558efdaa2a80948",
+      "type": "quote",
+      "title": "“Give more than you think you can, trusting that you are richer than you think.”",
+      "summary": "— Jon Kabat-Zinn",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Jon_Kabat-Zinn",
+        "trustTier": "community",
+        "author": "Jon Kabat-Zinn"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:36:08.215Z",
+      "hash": "6558efdaa2a80948"
+    },
+    {
+      "id": "quote:24efaa583a635baf",
+      "type": "quote",
+      "title": "“It doesn't matter what you do, only how well you do it.”",
+      "summary": "— Dan Millman",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Dan_Millman",
+        "trustTier": "community",
+        "author": "Dan Millman"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:36:08.214Z",
+      "hash": "24efaa583a635baf"
+    },
+    {
+      "id": "book-review:28d5f2a9fe3dea0c",
+      "type": "book-review",
+      "title": "Necessary Villains: Explaining Cultural Marxism",
+      "summary": "“If Jews didn’t exist, the right would need to invent them, to act as the snake in the garden.” The post Necessary Villains: Explaining Cultural Marxism appeared first on Public Books.",
+      "body": "“If Jews didn’t exist, the right would need to invent them, to act as the snake in the garden.” The post Necessary Villains: Explaining Cultural Marxism appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/necessary-villains-explaining-cultural-marxism/",
+        "trustTier": "publication",
+        "author": "Morgan Barry",
+        "date": "Tue, 20 Oct 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "reviews",
+        "antisemitism",
+        "conservatism",
+        "conspiracies",
+        "culture",
+        "ideology",
+        "intellectuals"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:36:08.075Z",
+      "hash": "28d5f2a9fe3dea0c"
+    },
+    {
+      "id": "article:96260b0366a530fa",
+      "type": "article",
+      "title": "Christiane F.: Up Against the Wall",
+      "summary": "One of the great Berlin films, Uli Edel’s Christiane F. (1981) is also one of the grungiest. Based on the true story of teenage heroin user and sex worker Christiane Felscherinow and shot on location in and around West Berlin’s notorious Zoo Station, the film captures both the magnetic fascination…",
+      "body": "One of the great Berlin films, Uli Edel’s Christiane F. (1981) is also one of the grungiest. Based on the true story of teenage heroin user and sex worker Christiane Felscherinow and shot on location in and around West Berlin’s notorious Zoo Station, the film captures both the magnetic fascination of the divided city and its tarnished atmosphere of decadence and doom. Christiane F. interlaces raw scenes of youth rebellion with harrowing depictions of drug addiction in an indelible mix that has captivated audiences, stymied censors, and left an enduring aesthetic imprint on popular…",
+      "image": {
+        "src": "data/images/17105431828075f9.jpg",
+        "alt": "Christiane F.: Up Against the Wall",
+        "credit": "The Current (Criterion)"
+      },
+      "source": {
+        "name": "The Current (Criterion)",
+        "url": "https://www.criterion.com/current/posts/9313-christiane-f-up-against-the-wall",
+        "trustTier": "publication",
+        "author": "Hester Baer",
+        "date": "Mon, 19 Oct 2026 18:31:0"
+      },
+      "tags": [
+        "film",
+        "essay",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:36:05.721Z",
+      "hash": "96260b0366a530fa"
+    },
+    {
+      "id": "article:d8fefb231f876436",
+      "type": "article",
+      "title": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
+      "summary": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which involve receiving less. To make it worse, you’re dealing with the kind of person who’d happily disconnect an orphan’s ventilator to charge his phone. He asks for a concession.…",
+      "body": "You show up to the negotiation wanting to be reasonable. You’ve prepared several ways to demonstrate this, all of which involve receiving less. To make it worse, you’re dealing with the kind of person who’d happily disconnect an orphan’s ventilator to charge his phone. He asks for a concession. And another. He keeps pressing and […] The post How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory appeared first on Barking Up The Wrong Tree.",
+      "image": {
+        "src": "data/images/d2adac241f72ae11.jpg",
+        "alt": "How To Stop Getting Taken Advantage Of: 6 Secrets From Game Theory",
+        "credit": "Barking Up the Wrong Tree"
+      },
+      "source": {
+        "name": "Barking Up the Wrong Tree",
+        "url": "https://bakadesuyo.com/2026/09/game-theory/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory",
+        "trustTier": "community",
+        "author": "Eric Barker",
+        "date": "Sun, 27 Sep 2026 16:25:5"
+      },
+      "tags": [
+        "psychology",
+        "self-improvement",
+        "science",
+        "be a great negotiator"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:35:58.758Z",
+      "hash": "d8fefb231f876436"
+    },
+    {
+      "id": "article:44544cabe538d95d",
+      "type": "article",
+      "title": "Ryan Serhant: How to Get People to Say Yes",
+      "summary": "Ryan Serhant is a real estate broker, founder of SERHANT., and star of Bravo’s Million Dollar Listing New York and Netflix’s Owning Manhattan. He explains how to sell without making people feel sold to: build a connection, help first, and earn the right to ask. He also breaks down the psychology…",
+      "body": "Ryan Serhant is a real estate broker, founder of SERHANT., and star of Bravo’s Million Dollar Listing New York and Netflix’s Owning Manhattan. He explains how to sell without making people feel sold to: build a connection, help first, and earn the right to ask. He also breaks down the psychology of attention and persuasion, … The post Ryan Serhant: How to Get People to Say Yes appeared first on Farnam Street.",
+      "image": {
+        "src": "data/images/afa6a9f9786c45ba.png",
+        "alt": "Ryan Serhant: How to Get People to Say Yes",
+        "credit": "Farnam Street"
+      },
+      "source": {
+        "name": "Farnam Street",
+        "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
+        "trustTier": "community",
+        "author": "Vicky",
+        "date": "Thu, 08 Oct 2026 09:55:0"
+      },
+      "tags": [
+        "ideas",
+        "psychology",
+        "decision-making"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:35:57.408Z",
+      "hash": "44544cabe538d95d"
+    },
+    {
+      "id": "article:57dd540357a4c138",
+      "type": "article",
+      "title": "The Antigone Prize for Classical Philology 2026: Winners",
+      "summary": "ANTIGONE PHILOLOGISTS Compete for our inaugural prize Continue reading The Antigone Prize for Classical Philology 2026: Winners",
+      "body": "ANTIGONE PHILOLOGISTS Compete for our inaugural prize Continue reading The Antigone Prize for Classical Philology 2026: Winners",
+      "image": {
+        "src": "data/images/616443e89de965a3.png",
+        "alt": "The Antigone Prize for Classical Philology 2026: Winners",
+        "credit": "Antigone Journal"
+      },
+      "source": {
+        "name": "Antigone Journal",
+        "url": "https://antigonejournal.com/2026/09/antigone-prize-classical-philology-2026-winners/",
+        "trustTier": "publication",
+        "author": "Antigone",
+        "date": "Wed, 30 Sep 2026 19:58:1"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "history",
+        "competitions"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:35:57.174Z",
+      "hash": "57dd540357a4c138"
+    },
+    {
+      "id": "article:258db97f136dc0f0",
+      "type": "article",
+      "title": "One reason I do not love AI writing, or even AI-assisted writing",
+      "summary": "Of course I read to absorb the content, but I also am in a position to meet many authors, have contact with them, and spend time with them. So reading anything also is a potential option on those future connections. But when I am reading an AI piece, the value of that option comes pretty […] The…",
+      "body": "Of course I read to absorb the content, but I also am in a position to meet many authors, have contact with them, and spend time with them. So reading anything also is a potential option on those future connections. But when I am reading an AI piece, the value of that option comes pretty […] The post One reason I do not love AI writing, or even AI-assisted writing appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Wed, 21 Oct 2026 06:20:3"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "the arts",
+        "web/tech"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:35:55.171Z",
+      "hash": "258db97f136dc0f0"
+    },
+    {
+      "id": "article:110d7f29f73a8120",
+      "type": "article",
+      "title": "When it started to burn",
+      "summary": "Horrific violence, enduring terror and ceaseless solidarity: four years of war through the eyes of Ukrainian civilians- by Aeon VideoWatch on Aeon",
+      "body": "Horrific violence, enduring terror and ceaseless solidarity: four years of war through the eyes of Ukrainian civilians- by Aeon VideoWatch on Aeon",
+      "image": {
+        "src": "data/images/32f2da11a019e85d.jpg",
+        "alt": "When it started to burn",
+        "credit": "Aeon"
+      },
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/videos/what-four-years-of-ceaseless-war-looks-like-to-ukrainian-civilians",
+        "trustTier": "publication",
+        "author": "Aeon Video",
+        "date": "Wed, 21 Oct 2026 10:01:0"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "philosophy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:35:54.132Z",
+      "hash": "110d7f29f73a8120"
+    },
+    {
+      "id": "poetry:e87acd14b22601fd",
+      "type": "poem",
+      "title": "Paradise Lost: Book VI",
+      "summary": "All night the dreadless Angel, unpursued,\nThrough Heaven's wide champain held his way; till Morn,\nWaked by the circling Hours, with rosy hand\nUnbarred the gates of light.  There is a cave",
+      "body": "All night the dreadless Angel, unpursued,\nThrough Heaven's wide champain held his way; till Morn,\nWaked by the circling Hours, with rosy hand\nUnbarred the gates of light.  There is a cave\nWithin the mount of God, fast by his throne,\nWhere light and darkness in perpetual round\nLodge and dislodge by turns, which makes through Heaven\nGrateful vicissitude, like day and night;\nLight issues forth, and at the other door\nObsequious darkness enters, till her hour\nTo veil the Heaven, though darkness there might well\nSeem twilight here:  And now went forth the Morn\nSuch as in highest Heaven arrayed in gold\nEmpyreal; from before her vanished Night,\nShot through with orient beams; when all the plain\nCovered with thick embattled squadrons bright,\nChariots, and flaming arms, and fiery steeds,\nReflecting blaze on blaze, first met his view:\nWar he perceived, war in procinct; and found\nAlready known what he for news had thought\nTo have reported:  Gladly then he mixed\nAmong those friendly Powers, who him received\nWith joy and acclamations loud, that one,\nThat of so many myriads fallen, yet one\nReturned not lost.  On to the sacred hill\nThey led him high applauded, and present\nBefore the seat supreme; from whence a voice,\nFrom midst a golden cloud, thus mild was heard.\nServant of God. Well done; well hast thou fought\nThe better fight, who single hast maintained\nAgainst revolted multitudes the cause\nOf truth, in word mightier than they in arms;\nAnd for the testimony of truth hast borne\nUniversal reproach, far worse to bear\nThan violence; for this was all thy care\nTo stand approved in sight of God, though worlds\nJudged thee perverse:  The easier conquest now\nRemains thee, aided by this host of friends,\nBack on thy foes more glorious to return,\nThan scorned thou didst depart; and to subdue\nBy force, who reason for their law refuse,\nRight reason for their law, and for their King\nMessiah, who by right of merit reigns.\nGo, Michael, of celestial armies prince,\nAnd thou, in military prowess next,\nGabriel, lead forth to battle these my sons\nInvincible; lead forth my armed Saints,\nBy thousands and by millions, ranged for fight,\nEqual in number to that Godless crew\nRebellious:  Them with fire and hostile arms\nFearless assault; and, to the brow of Heaven\nPursuing, drive them out from God and bliss,\nInto their place of punishment, the gulf\nOf Tartarus, which ready opens wide\nHis fiery Chaos to receive their fall.\nSo spake the Sovran Voice, and clouds began\nTo darken all the hill, and smoke to roll\nIn dusky wreaths, reluctant flames, the sign\nOf wrath awaked; nor with less dread the loud\nEthereal trumpet from on high 'gan blow:\nAt which command the Powers militant,\nThat stood for Heaven, in mighty quadrate joined\nOf union irresistible, moved on\nIn silence their bright legions, to the sound\nOf instrumental harmony, that breathed\nHeroick ardour to adventurous deeds\nUnder their God-like leaders, in the cause\nOf God and his Messiah.  On they move\nIndissolubly firm; nor obvious hill,\nNor straitening vale, nor wood, nor stream, divides\nTheir perfect ranks; for high above the ground\nTheir march was, and the passive air upbore\nTheir nimble tread; as when the total kind\nOf birds, in orderly array on wing,\nCame summoned over Eden to receive\nTheir names of thee; so over many a tract\nOf Heaven they marched, and many a province wide,\nTenfold the length of this terrene:  At last,\nFar in the horizon to the north appeared\nFrom skirt to skirt a fiery region, stretched\nIn battailous aspect, and nearer view\nBristled with upright beams innumerable\nOf rigid spears, and helmets thronged, and shields\nVarious, with boastful argument portrayed,\nThe banded Powers of Satan hasting on\nWith furious expedition; for they weened\nThat self-same day, by fight or by surprise,\nTo win the mount of God, and on his throne\nTo set the Envier of his state, the proud\nAspirer; but their thoughts proved fond and vain\nIn the mid way:  Though strange to us it seemed\nAt first, that Angel should with Angel war,\nAnd in fierce hosting meet, who wont to meet\nSo oft in festivals of joy and love\nUnanimous, as sons of one great Sire,\nHymning the Eternal Father:  But the shout\nOf battle now began, and rushing sound\nOf onset ended soon each milder thought.\nHigh in the midst, exalted as a God,\nThe Apostate in his sun-bright chariot sat,\nIdol of majesty divine, enclosed\nWith flaming Cherubim, and golden shields;\nThen lighted from his gorgeous throne, for now\n\"twixt host and host but narrow space was left,\nA dreadful interval, and front to front\nPresented stood in terrible array\nOf hideous length:  Before the cloudy van,\nOn the rough edge of battle ere it joined,\nSatan, with vast and haughty strides advanced,\nCame towering, armed in adamant and gold;\nAbdiel that sight endured not, where he stood\nAmong the mightiest, bent on highest deeds,\nAnd thus his own undaunted heart explores.\nO Heaven! that such resemblance of the Highest\nShould yet remain, where faith and realty\nRemain not:  Wherefore should not strength and might\nThere fail where virtue fails, or weakest prove\nWhere boldest, though to fight unconquerable?\nHis puissance, trusting in the Almighty's aid,\nI mean to try, whose reason I have tried\nUnsound and false; nor is it aught but just,\nThat he, who in debate of truth hath won,\nShould win in arms, in both disputes alike\nVictor; though brutish that contest and foul,\nWhen reason hath to deal with force, yet so\nMost reason is that reason overcome.\nSo pondering, and from his armed peers\nForth stepping opposite, half-way he met\nHis daring foe, at this prevention more\nIncensed, and thus securely him defied.\nProud, art thou met? thy hope was to have reached\nThe highth of thy aspiring unopposed,\nThe throne of God unguarded, and his side\nAbandoned, at the terrour of thy power\nOr potent tongue:  Fool!not to think how vain\nAgainst the Omnipotent to rise in arms;\nWho out of smallest things could, without end,\nHave raised incessant armies to defeat\nThy folly; or with solitary hand\nReaching beyond all limit, at one blow,\nUnaided, could have finished thee, and whelmed\nThy legions under darkness:  But thou seest\nAll are not of thy train; there be, who faith\nPrefer, and piety to God, though then\nTo thee not visible, when I alone\nSeemed in thy world erroneous to dissent\nFrom all:  My sect thou seest;now learn too late\nHow few sometimes may know, when thousands err.\nWhom the grand foe, with scornful eye askance,\nThus answered.  Ill for thee, but in wished hour\nOf my revenge, first sought for, thou returnest\nFrom flight, seditious Angel! to receive\nThy merited reward, the first assay\nOf this right hand provoked, since first that tongue,\nInspired with contradiction, durst oppose\nA third part of the Gods, in synod met\nTheir deities to assert; who, while they feel\nVigour divine within them, can allow\nOmnipotence to none.  But well thou comest\nBefore thy fellows, ambitious to win\nFrom me some plume, that thy success may show\nDestruction to the rest:  This pause between,\n(Unanswered lest thou boast) to let thee know,\nAt first I thought that Liberty and Heaven\nTo heavenly souls had been all one; but now\nI see that most through sloth had rather serve,\nMinistring Spirits, trained up in feast and song!\nSuch hast thou armed, the minstrelsy of Heaven,\nServility with freedom to contend,\nAs both their deeds compared this day shall prove.\nTo whom in brief thus Abdiel stern replied.\nApostate! still thou errest, nor end wilt find\nOf erring, from the path of truth remote:\nUnjustly thou depravest it with the name\nOf servitude, to serve whom God ordains,\nOr Nature:  God and Nature bid the same,\nWhen he who rules is worthiest, and excels\nThem whom he governs.  This is servitude,\nTo serve the unwise, or him who hath rebelled\nAgainst his worthier, as thine now serve thee,\nThyself not free, but to thyself enthralled;\nYet lewdly darest our ministring upbraid.\nReign thou in Hell, thy kingdom; let me serve\nIn Heaven God ever blest, and his divine\nBehests obey, worthiest to be obeyed;\nYet chains in Hell, not realms, expect:  Mean while\nFrom me returned, as erst thou saidst, from flight,\nThis greeting on thy impious crest receive.\nSo saying, a noble stroke he lifted high,\nWhich hung not, but so swift with tempest fell\nOn the proud crest of Satan, that no sight,\nNor motion of swift thought, less could his shield,\nSuch ruin intercept:  Ten paces huge\nHe back recoiled; the tenth on bended knee\nHis massy spear upstaid; as if on earth\nWinds under ground, or waters forcing way,\nSidelong had pushed a mountain from his seat,\nHalf sunk with all his pines.  Amazement seised\nThe rebel Thrones, but greater rage, to see\nThus foiled their mightiest; ours joy filled, and shout,\nPresage of victory, and fierce desire\nOf battle:  Whereat Michael bid sound\nThe Arch-Angel trumpet; through the vast of Heaven\nIt sounded, and the faithful armies rung\nHosanna to the Highest:  Nor stood at gaze\nThe adverse legions, nor less hideous joined\nThe horrid shock.  Now storming fury rose,\nAnd clamour such as heard in Heaven till now\nWas never; arms on armour clashing brayed\nHorrible discord, and the madding wheels\nOf brazen chariots raged; dire was the noise\nOf conflict; over head the dismal hiss\nOf fiery darts in flaming vollies flew,\nAnd flying vaulted either host with fire.\nSo under fiery cope together rushed\nBoth battles main, with ruinous assault\nAnd inextinguishable rage.  All Heaven\nResounded; and had Earth been then, all Earth\nHad to her center shook.  What wonder? when\nMillions of fierce encountering Angels fought\nOn either side, the least of whom could wield\nThese elements, and arm him with the force\nOf all their regions:  How much more of power\nArmy against army numberless to raise\nDreadful combustion warring, and disturb,\nThough not destroy, their happy native seat;\nHad not the Eternal King Omnipotent,\nFrom his strong hold of Heaven, high over-ruled\nAnd limited their might; though numbered such\nAs each divided legion might have seemed\nA numerous host; in strength each armed hand\nA legion; led in fight, yet leader seemed\nEach warriour single as in chief, expert\nWhen to advance, or stand, or turn the sway\nOf battle, open when, and when to close\nThe ridges of grim war:  No thought of flight,\nNone of retreat, no unbecoming deed\nThat argued fear; each on himself relied,\nAs only in his arm the moment lay\nOf victory:  Deeds of eternal fame\nWere done, but infinite; for wide was spread\nThat war and various; sometimes on firm ground\nA standing fight, then, soaring on main wing,\nTormented all the air; all air seemed then\nConflicting fire.  Long time in even scale\nThe battle hung; till Satan, who that day\nProdigious power had shown, and met in arms\nNo equal, ranging through the dire attack\nOf fighting Seraphim confused, at length\nSaw where the sword of Michael smote, and felled\nSquadrons at once; with huge two-handed sway\nBrandished aloft, the horrid edge came down\nWide-wasting; such destruction to withstand\nHe hasted, and opposed the rocky orb\nOf tenfold adamant, his ample shield,\nA vast circumference.  At his approach\nThe great Arch-Angel from his warlike toil\nSurceased, and glad, as hoping here to end\nIntestine war in Heaven, the arch-foe subdued\nOr captive dragged in chains, with hostile frown\nAnd visage all inflamed first thus began.\nAuthor of evil, unknown till thy revolt,\nUnnamed in Heaven, now plenteous as thou seest\nThese acts of hateful strife, hateful to all,\nThough heaviest by just measure on thyself,\nAnd thy  adherents:  How hast thou disturbed\nHeaven's blessed peace, and into nature brought\nMisery, uncreated till the crime\nOf thy rebellion! how hast thou instilled\nThy malice into thousands, once upright\nAnd faithful, now proved false!  But think not here\nTo trouble holy rest; Heaven casts thee out\nFrom all her confines.  Heaven, the seat of bliss,\nBrooks not the works of violence and war.\nHence then, and evil go with thee along,\nThy offspring, to the place of evil, Hell;\nThou and thy wicked crew! there mingle broils,\nEre this avenging sword begin thy doom,\nOr some more sudden vengeance, winged from God,\nPrecipitate thee with augmented pain.\nSo spake the Prince of Angels; to whom thus\nThe Adversary.  Nor think thou with wind\nOf aery threats to awe whom yet with deeds\nThou canst not.  Hast thou turned the least of these\nTo flight, or if to fall, but that they rise\nUnvanquished, easier to transact with me\nThat thou shouldst hope, imperious, and with threats\nTo chase me hence? err not, that so shall end\nThe strife which thou callest evil, but we style\nThe strife of glory; which we mean to win,\nOr turn this Heaven itself into the Hell\nThou fablest; here however to dwell free,\nIf not to reign:  Mean while thy utmost force,\nAnd join him named Almighty to thy aid,\nI fly not, but have sought thee far and nigh.\nThey ended parle, and both addressed for fight\nUnspeakable; for who, though with the tongue\nOf Angels, can relate, or to what things\nLiken on earth conspicuous, that may lift\nHuman imagination to such highth\nOf Godlike power? for likest Gods they seemed,\nStood they or moved, in stature, motion, arms,\nFit to decide the empire of great Heaven.\nNow waved their fiery swords, and in the air\nMade horrid circles; two broad suns their shields\nBlazed opposite, while Expectation stood\nIn horrour:  From each hand with speed retired,\nWhere erst was thickest fight, the angelick throng,\nAnd left large field, unsafe within the wind\nOf such commotion; such as, to set forth\nGreat things by small, if, nature's concord broke,\nAmong the constellations war were sprung,\nTwo planets, rushing from aspect malign\nOf fiercest opposition, in mid sky\nShould combat, and their jarring spheres confound.\nTogether both with next to almighty arm\nUp-lifted imminent, one stroke they aimed\nThat might determine, and not need repeat,\nAs not of power at once; nor odds appeared\nIn might or swift prevention:  But the sword\nOf Michael from the armoury of God\nWas given him tempered so, that neither keen\nNor solid might resist that edge: it met\nThe sword of Satan, with steep force to smite\nDescending, and in half cut sheer; nor staid,\nBut with swift wheel reverse, deep entering, shared\nAll his right side:  Then Satan first knew pain,\nAnd writhed him to and fro convolved; so sore\nThe griding sword with discontinuous wound\nPassed through him:  But the ethereal substance closed,\nNot long divisible; and from the gash\nA stream of necturous humour issuing flowed\nSanguine, such as celestial Spirits may bleed,\nAnd all his armour stained, ere while so bright.\nForthwith on all sides to his aid was run\nBy Angels many and strong, who interposed\nDefence, while others bore him on their shields\nBack to his chariot, where it stood retired\nFrom off the files of war:  There they him laid\nGnashing for anguish, and despite, and shame,\nTo find himself not matchless, and his pride\nHumbled by such rebuke, so far beneath\nHis confidence to equal God in power.\nYet soon he healed; for Spirits that live throughout\nVital in every part, not as frail man\nIn entrails, heart of head, liver or reins,\nCannot but by annihilating die;\nNor in their liquid texture mortal wound\nReceive, no more than can the fluid air:\nAll heart they live, all head, all eye, all ear,\nAll intellect, all sense; and, as they please,\nThey limb themselves, and colour, shape, or size\nAssume, as?kikes them best, condense or rare.\nMean while in other parts like deeds deserved\nMemorial, where the might of Gabriel fought,\nAnd with fierce ensigns pierced the deep array\nOf Moloch, furious king; who him defied,\nAnd at his chariot-wheels to drag him bound\nThreatened, nor from the Holy One of Heaven\nRefrained his tongue blasphemous; but anon\nDown cloven to the waist, with shattered arms\nAnd uncouth pain fled bellowing.  On each wing\nUriel, and Raphael, his vaunting foe,\nThough huge, and in a rock of diamond armed,\nVanquished Adramelech, and Asmadai,\nTwo potent Thrones, that to be less than Gods\nDisdained, but meaner thoughts learned in their flight,\nMangled with ghastly wounds through plate and mail.\nNor stood unmindful Abdiel to annoy\nThe atheist crew, but with redoubled blow\nAriel, and Arioch, and the violence\nOf Ramiel scorched and blasted, overthrew.\nI might relate of thousands, and their names\nEternize here on earth; but those elect\nAngels, contented with their fame in Heaven,\nSeek not the praise of men:  The other sort,\nIn might though wonderous and in acts of war,\nNor of renown less eager, yet by doom\nCancelled from Heaven and sacred memory,\nNameless in dark oblivion let them dwell.\nFor strength from truth divided, and from just,\nIllaudable, nought merits but dispraise\nAnd ignominy; yet to glory aspires\nVain-glorious, and through infamy seeks fame:\nTherefore eternal silence be their doom.\nAnd now, their mightiest quelled, the battle swerved,\nWith many an inroad gored; deformed rout\nEntered, and foul disorder; all the ground\nWith shivered armour strown, and on a heap\nChariot and charioteer lay overturned,\nAnd fiery-foaming steeds; what stood, recoiled\nO'er-wearied, through the faint Satanick host\nDefensive scarce, or with pale fear surprised,\nThen first with fear surprised, and sense of pain,\nFled ignominious, to such evil brought\nBy sin of disobedience; till that hour\nNot liable to fear, or flight, or pain.\nFar otherwise the inviolable Saints,\nIn cubick phalanx firm, advanced entire,\nInvulnerable, impenetrably armed;\nSuch high advantages their innocence\nGave them above their foes; not to have sinned,\nNot to have disobeyed; in fight they stood\nUnwearied, unobnoxious to be pained\nBy wound, though from their place by violence moved,\nNow Night her course began, and, over Heaven\nInducing darkness, grateful truce imposed,\nAnd silence on the odious din of war:\nUnder her cloudy covert both retired,\nVictor and vanquished:  On the foughten field\nMichael and his Angels prevalent\nEncamping, placed in guard their watches round,\nCherubick waving fires:  On the other part,\nSatan with his rebellious disappeared,\nFar in the dark dislodged; and, void of rest,\nHis potentates to council called by night;\nAnd in the midst thus undismayed began.\nO now in danger tried, now known in arms\nNot to be overpowered, Companions dear,\nFound worthy not of liberty alone,\nToo mean pretence! but what we more affect,\nHonour, dominion, glory, and renown;\nWho have sustained one day in doubtful fight,\n(And if one day, why not eternal days?)\nWhat Heaven's Lord had powerfullest to send\nAgainst us from about his throne, and judged\nSufficient to subdue us to his will,\nBut proves not so:  Then fallible, it seems,\nOf future we may deem him, though till now\nOmniscient thought.  True is, less firmly armed,\nSome disadvantage we endured and pain,\nTill now not known, but, known, as soon contemned;\nSince now we find this our empyreal form\nIncapable of mortal injury,\nImperishable, and, though pierced with wound,\nSoon closing, and by native vigour healed.\nOf evil then so small as easy think\nThe remedy; perhaps more valid arms,\nWeapons more violent, when next we meet,\nMay serve to better us, and worse our foes,\nOr equal what between us made the odds,\nIn nature none:  If other hidden cause\nLeft them superiour, while we can preserve\nUnhurt our minds, and understanding sound,\nDue search and consultation will disclose.\nHe sat; and in the assembly next upstood\nNisroch, of Principalities the prime;\nAs one he stood escaped from cruel fight,\nSore toiled, his riven arms to havock hewn,\nAnd cloudy in aspect thus answering spake.\nDeliverer from new Lords, leader to free\nEnjoyment of our right as Gods; yet hard\nFor Gods, and too unequal work we find,\nAgainst unequal arms to fight in pain,\nAgainst unpained, impassive; from which evil\nRuin must needs ensue; for what avails\nValour or strength, though matchless, quelled with pain\nWhich all subdues, and makes remiss the hands\nOf mightiest?  Sense of pleasure we may well\nSpare out of life perhaps, and not repine,\nBut live content, which is the calmest life:\nBut pain is perfect misery, the worst\nOf evils, and, excessive, overturns\nAll patience.  He, who therefore can invent\nWith what more forcible we may offend\nOur yet unwounded enemies, or arm\nOurselves with like defence, to me deserves\nNo less than for deliverance what we owe.\nWhereto with look composed Satan replied.\nNot uninvented that, which thou aright\nBelievest so main to our success, I bring.\nWhich of us who beholds the bright surface\nOf this ethereous mould whereon we stand,\nThis continent of spacious Heaven, adorned\nWith plant, fruit, flower ambrosial, gems, and gold;\nWhose eye so superficially surveys\nThese things, as not to mind from whence they grow\nDeep under ground, materials dark and crude,\nOf spiritous and fiery spume, till touched\nWith Heaven's ray, and tempered, they shoot forth\nSo beauteous, opening to the ambient light?\nThese in their dark nativity the deep\nShall yield us, pregnant with infernal flame;\nWhich, into hollow engines, long and round,\nThick rammed, at the other bore with touch of fire\nDilated and infuriate, shall send forth\nFrom far, with thundering noise, among our foes\nSuch implements of mischief, as shall dash\nTo pieces, and o'erwhelm whatever stands\nAdverse, that they shall fear we have disarmed\nThe Thunderer of his only dreaded bolt.\nNor long shall be our labour; yet ere dawn,\nEffect shall end our wish.  Mean while revive;\nAbandon fear; to strength and counsel joined\nThink nothing hard, much less to be despaired.\nHe ended, and his words their drooping cheer\nEnlightened, and their languished hope revived.\nThe invention all admired, and each, how he\nTo be the inventer missed; so easy it seemed\nOnce found, which yet unfound most would have thought\nImpossible:  Yet, haply, of thy race\nIn future days, if malice should abound,\nSome one intent on mischief, or inspired\nWith devilish machination, might devise\nLike instrument to plague the sons of men\nFor sin, on war and mutual slaughter bent.\nForthwith from council to the work they flew;\nNone arguing stood; innumerable hands\nWere ready; in a moment up they turned\nWide the celestial soil, and saw beneath\nThe originals of nature in their crude\nConception; sulphurous and nitrous foam\nThey found, they mingled, and, with subtle art,\nConcocted and adusted they reduced\nTo blackest grain, and into store conveyed:\nPart hidden veins digged up (nor hath this earth\nEntrails unlike) of mineral and stone,\nWhereof to found their engines and their balls\nOf missive ruin; part incentive reed\nProvide, pernicious with one touch to fire.\nSo all ere day-spring, under conscious night,\nSecret they finished, and in order set,\nWith silent circumspection, unespied.\nNow when fair morn orient in Heaven appeared,\nUp rose the victor-Angels, and to arms\nThe matin trumpet sung:  In arms they stood\nOf golden panoply, refulgent host,\nSoon banded; others from the dawning hills\nLook round, and scouts each coast light-armed scour,\nEach quarter to descry the distant foe,\nWhere lodged, or whither fled, or if for fight,\nIn motion or in halt:  Him soon they met\nUnder spread ensigns moving nigh, in slow\nBut firm battalion; back with speediest sail\nZophiel, of Cherubim the swiftest wing,\nCame flying, and in mid air aloud thus cried.\nArm, Warriours, arm for fight; the foe at hand,\nWhom fled we thought, will save us long pursuit\nThis day; fear not his flight;so thick a cloud\nHe comes, and settled in his face I see\nSad resolution, and secure:  Let each\nHis adamantine coat gird well, and each\nFit well his helm, gripe fast his orbed shield,\nBorne even or high; for this day will pour down,\nIf I conjecture aught, no drizzling shower,\nBut rattling storm of arrows barbed with fire.\nSo warned he them, aware themselves, and soon\nIn order, quit of all impediment;\nInstant without disturb they took alarm,\nAnd onward moved embattled:  When behold!\nNot distant far with heavy pace the foe\nApproaching gross and huge, in hollow cube\nTraining his devilish enginery, impaled\nOn every side with shadowing squadrons deep,\nTo hide the fraud.  At interview both stood\nA while; but suddenly at head appeared\nSatan, and thus was heard commanding loud.\nVanguard, to right and left the front unfold;\nThat all may see who hate us, how we seek\nPeace and composure, and with open breast\nStand ready to receive them, if they like\nOur overture; and turn not back perverse:\nBut that I doubt; however witness, Heaven!\nHeaven, witness thou anon! while we discharge\nFreely our part: ye, who appointed stand\nDo as you have in charge, and briefly touch\nWhat we propound, and loud that all may hear!\nSo scoffing in ambiguous words, he scarce\nHad ended; when to right and left the front\nDivided, and to either flank retired:\nWhich to our eyes discovered, new and strange,\nA triple mounted row of pillars laid\nOn wheels (for like to pillars most they seemed,\nOr hollowed bodies made of oak or fir,\nWith branches lopt, in wood or mountain felled,)\nBrass, iron, stony mould, had not their mouths\nWith hideous orifice gaped on us wide,\nPortending hollow truce:  At each behind\nA Seraph stood, and in his hand a reed\nStood waving tipt with fire; while we, suspense,\nCollected stood within our thoughts amused,\nNot long; for sudden all at once their reeds\nPut forth, and to a narrow vent applied\nWith nicest touch.  Immediate in a flame,\nBut soon obscured with smoke, all Heaven appeared,\nFrom those deep-throated engines belched, whose roar\nEmbowelled with outrageous noise the air,\nAnd all her entrails tore, disgorging foul\nTheir devilish glut, chained thunderbolts and hail\nOf iron globes; which, on the victor host\nLevelled, with such impetuous fury smote,\nThat, whom they hit, none on their feet might stand,\nThough standing else as rocks, but down they fell\nBy thousands, Angel on Arch-Angel rolled;\nThe sooner for their arms; unarmed, they might\nHave easily, as Spirits, evaded swift\nBy quick contraction or remove; but now\nFoul dissipation followed, and forced rout;\nNor served it to relax their serried files.\nWhat should they do? if on they rushed, repulse\nRepeated, and indecent overthrow\nDoubled, would render them yet more despised,\nAnd to their foes a laughter; for in view\nStood ranked of Seraphim another row,\nIn posture to displode their second tire\nOf thunder:  Back defeated to return\nThey worse abhorred.  Satan beheld their plight,\nAnd to his mates thus in derision called.\nO Friends! why come not on these victors proud\nEre while they fierce were coming; and when we,\nTo entertain them fair with open front\nAnd breast, (what could we more?) propounded terms\nOf composition, straight they changed their minds,\nFlew off, and into strange vagaries fell,\nAs they would dance; yet for a dance they seemed\nSomewhat extravagant and wild; perhaps\nFor joy of offered peace:  But I suppose,\nIf our proposals once again were heard,\nWe should compel them to a quick result.\nTo whom thus Belial, in like gamesome mood.\nLeader! the terms we sent were terms of weight,\nOf hard contents, and full of force urged home;\nSuch as we might perceive amused them all,\nAnd stumbled many:  Who receives them right,\nHad need from head to foot well understand;\nNot understood, this gift they have besides,\nThey show us when our foes walk not upright.\nSo they among themselves in pleasant vein\nStood scoffing, hightened in their thoughts beyond\nAll doubt of victory:  Eternal Might\nTo match with their inventions they presumed\nSo easy, and of his thunder made a scorn,\nAnd all his host derided, while they stood\nA while in trouble:  But they stood not long;\nRage prompted them at length, and found them arms\nAgainst such hellish mischief fit to oppose.\nForthwith (behold the excellence, the power,\nWhich God hath in his mighty Angels placed!)\nTheir arms away they threw, and to the hills\n(For Earth hath this variety from Heaven\nOf pleasure situate in hill and dale,)\nLight as the lightning glimpse they ran, they flew;\nFrom their foundations loosening to and fro,\nThey plucked the seated hills, with all their load,\nRocks, waters, woods, and by the shaggy tops\nUp-lifting bore them in their hands:  Amaze,\nBe sure, and terrour, seized the rebel host,\nWhen coming towards them so dread they saw\nThe bottom of the mountains upward turned;\nTill on those cursed engines' triple-row\nThey saw them whelmed, and all their confidence\nUnder the weight of mountains buried deep;\nThemselves invaded next, and on their heads\nMain promontories flung, which in the air\nCame shadowing, and oppressed whole legions armed;\nTheir armour helped their harm, crushed in and bruised\nInto their substance pent, which wrought them pain\nImplacable, and many a dolorous groan;\nLong struggling underneath, ere they could wind\nOut of such prison, though Spirits of purest light,\nPurest at first, now gross by sinning grown.\nThe rest, in imitation, to like arms\nBetook them, and the neighbouring hills uptore:\nSo hills amid the air encountered hills,\nHurled to and fro with jaculation dire;\nThat under ground they fought in dismal shade;\nInfernal noise! war seemed a civil game\nTo this uproar; horrid confusion heaped\nUpon confusion rose:  And now all Heaven\nHad gone to wrack, with ruin overspread;\nHad not the Almighty Father, where he sits\nShrined in his sanctuary of Heaven secure,\nConsulting on the sum of things, foreseen\nThis tumult, and permitted all, advised:\nThat his great purpose he might so fulfil,\nTo honour his anointed Son avenged\nUpon his enemies, and to declare\nAll power on him transferred:  Whence to his Son,\nThe Assessour of his throne, he thus began.\nEffulgence of my glory, Son beloved,\nSon, in whose face invisible is beheld\nVisibly, what by Deity I am;\nAnd in whose hand what by decree I do,\nSecond Omnipotence! two days are past,\nTwo days, as we compute the days of Heaven,\nSince Michael and his Powers went forth to tame\nThese disobedient:  Sore hath been their fight,\nAs likeliest was, when two such foes met armed;\nFor to themselves I left them; and thou knowest,\nEqual in their creation they were formed,\nSave what sin hath impaired; which yet hath wrought\nInsensibly, for I suspend their doom;\nWhence in perpetual fight they needs must last\nEndless, and no solution will be found:\nWar wearied hath performed what war can do,\nAnd to disordered rage let loose the reins\nWith mountains, as with weapons, armed; which makes\nWild work in Heaven, and dangerous to the main.\nTwo days are therefore past, the third is thine;\nFor thee I have ordained it; and thus far\nHave suffered, that the glory may be thine\nOf ending this great war, since none but Thou\nCan end it.  Into thee such virtue and grace\nImmense I have transfused, that all may know\nIn Heaven and Hell thy power above compare;\nAnd, this perverse commotion governed thus,\nTo manifest thee worthiest to be Heir\nOf all things; to be Heir, and to be King\nBy sacred unction, thy deserved right.\nGo then, Thou Mightiest, in thy Father's might;\nAscend my chariot, guide the rapid wheels\nThat shake Heaven's basis, bring forth all my war,\nMy bow and thunder, my almighty arms\nGird on, and sword upon thy puissant thigh;\nPursue these sons of darkness, drive them out\nFrom all Heaven's bounds into the utter deep:\nThere let them learn, as likes them, to despise\nGod, and Messiah his anointed King.\nHe said, and on his Son with rays direct\nShone full; he all his Father full expressed\nIneffably into his face received;\nAnd thus the Filial Godhead answering spake.\nO Father, O Supreme of heavenly Thrones,\nFirst, Highest, Holiest, Best; thou always seek'st\nTo glorify thy Son, I always thee,\nAs is most just:  This I my glory account,\nMy exaltation, and my whole delight,\nThat thou, in me well pleased, declarest thy will\nFulfilled, which to fulfil is all my bliss.\nScepter and power, thy giving, I assume,\nAnd gladlier shall resign, when in the end\nThou shalt be all in all, and I in thee\nFor ever; and in me all whom thou lovest:\nBut whom thou hatest, I hate, and can put on\nThy terrours, as I put thy mildness on,\nImage of thee in all things; and shall soon,\nArmed with thy might, rid Heaven of these rebelled;\nTo their prepared ill mansion driven down,\nTo chains of darkness, and the undying worm;\nThat from thy just obedience could revolt,\nWhom to obey is happiness entire.\nThen shall thy Saints unmixed, and from the impure\nFar separate, circling thy holy mount,\nUnfeigned Halleluiahs to thee sing,\nHymns of high praise, and I among them Chief.\nSo said, he, o'er his scepter bowing, rose\nFrom the right hand of Glory where he sat;\nAnd the third sacred morn began to shine,\nDawning through Heaven.  Forth rushed with whirlwind sound\nThe chariot of Paternal Deity,\nFlashing thick flames, wheel within wheel undrawn,\nItself instinct with Spirit, but convoyed\nBy four Cherubick shapes; four faces each\nHad wonderous; as with stars, their bodies all\nAnd wings were set with eyes; with eyes the wheels\nOf beryl, and careering fires between;\nOver their heads a crystal firmament,\nWhereon a sapphire throne, inlaid with pure\nAmber, and colours of the showery arch.\nHe, in celestial panoply all armed\nOf radiant Urim, work divinely wrought,\nAscended; at his right hand Victory\nSat eagle-winged; beside him hung his bow\nAnd quiver with three-bolted thunder stored;\nAnd from about him fierce effusion rolled\nOf smoke, and bickering flame, and sparkles dire:\nAttended with ten thousand thousand Saints,\nHe onward came; far off his coming shone;\nAnd twenty thousand (I their number heard)\nChariots of God, half on each hand, were seen;\nHe on the wings of Cherub rode sublime\nOn the crystalline sky, in sapphire throned,\nIllustrious far and wide; but by his own\nFirst seen:  Them unexpected joy surprised,\nWhen the great ensign of Messiah blazed\nAloft by Angels borne, his sign in Heaven;\nUnder whose conduct Michael soon reduced\nHis army, circumfused on either wing,\nUnder their Head imbodied all in one.\nBefore him Power Divine his way prepared;\nAt his command the uprooted hills retired\nEach to his place; they heard his voice, and went\nObsequious; Heaven his wonted face renewed,\nAnd with fresh flowerets hill and valley smiled.\nThis saw his hapless foes, but stood obdured,\nAnd to rebellious fight rallied their Powers,\nInsensate, hope conceiving from despair.\nIn heavenly Spirits could such perverseness dwell?\nBut to convince the proud what signs avail,\nOr wonders move the obdurate to relent?\nThey, hardened more by what might most reclaim,\nGrieving to see his glory, at the sight\nTook envy; and, aspiring to his highth,\nStood re-embattled fierce, by force or fraud\nWeening to prosper, and at length prevail\nAgainst God and Messiah, or to fall\nIn universal ruin last; and now\nTo final battle drew, disdaining flight,\nOr faint retreat; when the great Son of God\nTo all his host on either hand thus spake.\nStand still in bright array, ye Saints; here stand,\nYe Angels armed; this day from battle rest:\nFaithful hath been your warfare, and of God\nAccepted, fearless in his righteous cause;\nAnd as ye have received, so have ye done,\nInvincibly:  But of this cursed crew\nThe punishment to other hand belongs;\nVengeance is his, or whose he sole appoints:\nNumber to this day's work is not ordained,\nNor multitude; stand only, and behold\nGod's indignation on these godless poured\nBy me; not you, but me, they have despised,\nYet envied; against me is all their rage,\nBecause the Father, to whom in Heaven s'preme\nKingdom, and power, and glory appertains,\nHath honoured me, according to his will.\nTherefore to me their doom he hath assigned;\nThat they may have their wish, to try with me\nIn battle which the stronger proves; they all,\nOr I alone against them; since by strength\nThey measure all, of other excellence\nNot emulous, nor care who them excels;\nNor other strife with them do I vouchsafe.\nSo spake the Son, and into terrour changed\nHis countenance too severe to be beheld,\nAnd full of wrath bent on his enemies.\nAt once the Four spread out their starry wings\nWith dreadful shade contiguous, and the orbs\nOf his fierce chariot rolled, as with the sound\nOf torrent floods, or of a numerous host.\nHe on his impious foes right onward drove,\nGloomy as night; under his burning wheels\nThe stedfast empyrean shook throughout,\nAll but the throne itself of God.  Full soon\nAmong them he arrived; in his right hand\nGrasping ten thousand thunders, which he sent\nBefore him, such as in their souls infixed\nPlagues:  They, astonished, all resistance lost,\nAll courage; down their idle weapons dropt:\nO'er shields, and helms, and helmed heads he rode\nOf Thrones and mighty Seraphim prostrate,\nThat wished the mountains now might be again\nThrown on them, as a shelter from his ire.\nNor less on either side tempestuous fell\nHis arrows, from the fourfold-visaged Four\nDistinct with eyes, and from the living wheels\nDistinct alike with multitude of eyes;\nOne Spirit in them ruled; and every eye\nGlared lightning, and shot forth pernicious fire\nAmong the accursed, that withered all their strength,\nAnd of their wonted vigour left them drained,\nExhausted, spiritless, afflicted, fallen.\nYet half his strength he put not forth, but checked\nHis thunder in mid volley; for he meant\nNot to destroy, but root them out of Heaven:\nThe overthrown he raised, and as a herd\nOf goats or timorous flock together thronged\nDrove them before him thunder-struck, pursued\nWith terrours, and with furies, to the bounds\nAnd crystal wall of Heaven; which, opening wide,\nRolled inward, and a spacious gap disclosed\nInto the wasteful deep:  The monstrous sight\nStruck them with horrour backward, but far worse\nUrged them behind:  Headlong themselves they threw\nDown from the verge of Heaven; eternal wrath\nBurnt after them to the bottomless pit.\nHell heard the unsufferable noise, Hell saw\nHeaven ruining from Heaven, and would have fled\nAffrighted; but strict Fate had cast too deep\nHer dark foundations, and too fast had bound.\nNine days they fell:  Confounded Chaos roared,\nAnd felt tenfold confusion in their fall\nThrough his wild anarchy, so huge a rout\nIncumbered him with ruin:  Hell at last\nYawning received them whole, and on them closed;\nHell, their fit habitation, fraught with fire\nUnquenchable, the house of woe and pain.\nDisburdened Heaven rejoiced, and soon repaired\nHer mural breach, returning whence it rolled.\nSole victor, from the expulsion of his foes,\nMessiah his triumphal chariot turned:\nTo meet him all his Saints, who silent stood\nEye-witnesses of his almighty acts,\nWith jubilee advanced; and, as they went,\nShaded with branching palm, each Order bright,\nSung triumph, and him sung victorious King,\nSon, Heir, and Lord, to him dominion given,\nWorthiest to reign:  He, celebrated, rode\nTriumphant through mid Heaven, into the courts\nAnd temple of his Mighty Father throned\nOn high; who into glory him received,\nWhere now he sits at the right hand of bliss.\nThus, measuring things in Heaven by things on Earth,\nAt thy request, and that thou mayest beware\nBy what is past, to thee I have revealed\nWhat might have else to human race been hid;\nThe discord which befel, and war in Heaven\nAmong the angelick Powers, and the deep fall\nOf those too high aspiring, who rebelled\nWith Satan; he who envies now thy state,\nWho now is plotting how he may seduce\nThee also from obedience, that, with him\nBereaved of happiness, thou mayest partake\nHis punishment, eternal misery;\nWhich would be all his solace and revenge,\nAs a despite done against the Most High,\nThee once to gain companion of his woe.\nBut listen not to his temptations, warn\nThy weaker; let it profit thee to have heard,\nBy terrible example, the reward\nOf disobedience; firm they might have stood,\nYet fell; remember, and fear to transgress.",
+      "source": {
+        "name": "John Milton · PoetryDB",
+        "url": "https://poetrydb.org/title/Paradise%20Lost%3A%20Book%20VI",
+        "trustTier": "community",
+        "author": "John Milton"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:35:54.039Z",
+      "hash": "e87acd14b22601fd"
+    },
+    {
+      "id": "poetry:9456fed7df01ad80",
+      "type": "poem",
+      "title": "Ugolino",
+      "summary": "INFERNO 33, 22-75.\nNow had the loophole of that dungeon, still\nWhich bears the name of Famine's Tower from me,\nAnd where 'tis fit that many another will",
+      "body": "INFERNO 33, 22-75.\n\nNow had the loophole of that dungeon, still\nWhich bears the name of Famine's Tower from me,\nAnd where 'tis fit that many another will\n\nBe doomed to linger in captivity,\nShown through its narrow opening in my cell\n'Moon after moon slow waning', when a sleep,\n\n'That of the future burst the veil, in dream\nVisited me. It was a slumber deep\nAnd evil; for I saw, or I did seem'\n\nTo see, 'that' tyrant Lord his revels keep\nThe leader of the cruel hunt to them,\nChasing the wolf and wolf-cubs up the steep\n\nAscent, that from 'the Pisan is the screen'\nOf 'Lucca'; with him Gualandi came,\nSismondi, and Lanfranchi, 'bloodhounds lean,\n\nTrained to the sport and eager for the game\nWide ranging in his front;' but soon were seen\nThough by so short a course, with 'spirits tame,'\n\nThe father and 'his whelps' to flag at once,\nAnd then the sharp fangs gored their bosoms deep.\nEre morn I roused myself, and heard my sons,\n\nFor they were with me, moaning in their sleep,\nAnd begging bread. Ah, for those darling ones!\nRight cruel art thou, if thou dost not weep\n\nIn thinking of my soul's sad augury;\nAnd if thou weepest not now, weep never more!\nThey were already waked, as wont drew nigh\n\nThe allotted hour for food, and in that hour\nEach drew a presage from his dream. When I\n'Heard locked beneath me of that horrible tower\n\nThe outlet; then into their eyes alone\nI looked to read myself,' without a sign\nOr word. I wept not--turned within to stone.\n\nThey wept aloud, and little Anselm mine,\nSaid--'twas my youngest, dearest little one,--\n\"What ails thee, father? Why look so at thine?\"\n\nIn all that day, and all the following night,\nI wept not, nor replied; but when to shine\nUpon the world, not us, came forth the light\n\nOf the new sun, and thwart my prison thrown\nGleamed through its narrow chink, a doleful sight,\n'Three faces, each the reflex of my own,\n\nWere imaged by its faint and ghastly ray;'\nThen I, of either hand unto the bone,\nGnawed, in my agony; and thinking they\n\nTwas done from sudden pangs, in their excess,\nAll of a sudden raise themselves, and say,\n\"Father! our woes, so great, were yet the less\n\nWould you but eat of us,--twas 'you who clad\nOur bodies in these weeds of wretchedness;\nDespoil them'.\" Not to make their hearts more sad,\n\nI 'hushed' myself. That day is at its close,--\nAnother--still we were all mute. Oh, had\nThe obdurate earth opened to end our woes!\n\nThe fourth day dawned, and when the new sun shone,\nOutstretched himself before me as it rose\nMy Gaddo, saying, \"Help, father! hast thou none\n\nFor thine own child--is there no help from thee?\"\nHe died--there at my feet--and one by one,\nI saw them fall, plainly as you see me.\n\nBetween the fifth and sixth day, ere twas dawn,\nI found 'myself blind-groping o'er the three.'\nThree days I called them after they were gone.\n\nFamine of grief can get the mastery.",
+      "source": {
+        "name": "Percy Bysshe Shelley · PoetryDB",
+        "url": "https://poetrydb.org/title/Ugolino",
+        "trustTier": "community",
+        "author": "Percy Bysshe Shelley"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-21T13:35:54.039Z",
+      "hash": "9456fed7df01ad80"
+    },
+    {
+      "id": "art:si:ld1-1643399857816-1643399858433-0",
+      "type": "art",
+      "title": "Ape Riding a Gnu",
+      "summary": "Hirshhorn Museum and Sculpture Garden · 1830s · Sculpture",
+      "body": "Hirshhorn Museum and Sculpture Garden\n1830s · Sculpture",
+      "image": {
+        "src": "data/images/3b7b07b006d7a616.jpg",
+        "alt": "Ape Riding a Gnu",
+        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.382",
+        "trustTier": "encyclopedic",
+        "date": "1830s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-21T13:35:53.568Z",
+      "hash": "5d8f0ac20fa15138"
+    },
+    {
+      "id": "art:si:ld1-1643399857816-1643399862407-0",
+      "type": "art",
+      "title": "Crouching Woman",
+      "summary": "Hirshhorn Museum and Sculpture Garden · 1880s · Sculpture",
+      "body": "Hirshhorn Museum and Sculpture Garden\n1880s · Sculpture",
+      "image": {
+        "src": "data/images/8970835628c8cc77.jpg",
+        "alt": "Crouching Woman",
+        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.4342",
+        "trustTier": "encyclopedic",
+        "date": "1880s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-21T13:35:53.568Z",
+      "hash": "b106fa37b119cfb1"
+    },
+    {
+      "id": "art:si:ld1-1643399857816-1643399859683-1",
+      "type": "art",
+      "title": "A Youth Playing the Pipes",
+      "summary": "Hirshhorn Museum and Sculpture Garden · 1880s · Reliefs (sculptures)",
+      "body": "Hirshhorn Museum and Sculpture Garden\n1880s · Reliefs (sculptures)",
+      "image": {
+        "src": "data/images/19b1c6e81eaa78c7.jpg",
+        "alt": "A Youth Playing the Pipes",
+        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.1582",
+        "trustTier": "encyclopedic",
+        "date": "1880s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "sculpture",
+        "reliefs (sculptures)"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-21T13:35:53.568Z",
+      "hash": "3d057ff1b612c31e"
+    },
+    {
+      "id": "apod:2002-11-07",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap021107.html",
+        "trustTier": "encyclopedic",
+        "date": "2002-11-07"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:50.355Z",
+      "hash": "5b2feeb2394c7965"
+    },
+    {
+      "id": "apod:2000-07-23",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap000723.html",
+        "trustTier": "encyclopedic",
+        "date": "2000-07-23"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:50.355Z",
+      "hash": "bec1efa5d57d8bcf"
+    },
+    {
+      "id": "apod:2003-10-06",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap031006.html",
+        "trustTier": "encyclopedic",
+        "date": "2003-10-06"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:50.355Z",
+      "hash": "8ebbb2488199e20f"
+    },
+    {
+      "id": "apod:2005-06-13",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap050613.html",
+        "trustTier": "encyclopedic",
+        "date": "2005-06-13"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:50.355Z",
+      "hash": "5b97752a59d123ab"
+    },
+    {
+      "id": "apod:2013-03-07",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© CXIELO Observatory"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap130307.html",
+        "trustTier": "encyclopedic",
+        "date": "2013-03-07"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:50.354Z",
+      "hash": "85f95af11029bb63"
+    },
+    {
+      "id": "onthisday:10-21:1854:e9371d2002a0cf80",
+      "type": "history",
+      "title": "1854: Florence Nightingale",
+      "summary": "Florence Nightingale and a staff of 38 nurses and 15 nuns were sent to the Ottoman Empire to help treat wounded British soldiers fighting in the Crimean War.",
+      "body": "Florence Nightingale and a staff of 38 nurses and 15 nuns were sent to the Ottoman Empire to help treat wounded British soldiers fighting in the Crimean War.",
+      "image": {
+        "src": "data/images/0f9811092855458d.jpg",
+        "alt": "Florence Nightingale",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+        "trustTier": "encyclopedic",
+        "date": "10-21"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:42.755Z",
+      "hash": "9cf8cbb2043c1b2c",
+      "expires": "2026-10-24T13:35:42.755Z"
+    },
+    {
+      "id": "onthisday:10-21:1959:bf1a740f53bb361a",
+      "type": "history",
+      "title": "1959: Solomon R. Guggenheim Museum",
+      "summary": "The Solomon R. Guggenheim Museum, designed by American architect Frank Lloyd Wright, opened in New York City.",
+      "body": "The Solomon R. Guggenheim Museum, designed by American architect Frank Lloyd Wright, opened in New York City.",
+      "image": {
+        "src": "data/images/f67bac49c99009e1.jpg",
+        "alt": "Solomon R. Guggenheim Museum",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum",
+        "trustTier": "encyclopedic",
+        "date": "10-21"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:42.755Z",
+      "hash": "f28d082b84b620b3",
+      "expires": "2026-10-24T13:35:42.755Z"
+    },
+    {
+      "id": "onthisday:10-21:1966:ed740c93f5269c8f",
+      "type": "history",
+      "title": "1966: Spoil tip",
+      "summary": "A coal tip fell on the village of Aberfan, Wales, killing 144 people, mostly schoolchildren.",
+      "body": "A coal tip fell on the village of Aberfan, Wales, killing 144 people, mostly schoolchildren.",
+      "image": {
+        "src": "data/images/560fcce34acb67f9.jpg",
+        "alt": "Spoil tip",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Spoil_tip",
+        "trustTier": "encyclopedic",
+        "date": "10-21"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:42.755Z",
+      "hash": "b17a08b4f6037ca3",
+      "expires": "2026-10-24T13:35:42.755Z"
+    },
+    {
+      "id": "wikipedia:17906718",
+      "type": "wiki",
+      "title": "Jamestown Ironmen",
+      "summary": "The Jamestown Ironmen were a Tier II junior ice hockey team in the North American Hockey League. The Ironmen played their home games at the Jamestown Savings Bank Ice Arena in Jamestown, New York.",
+      "body": "The Jamestown Ironmen were a Tier II junior ice hockey team in the North American Hockey League. The Ironmen played their home games at the Jamestown Savings Bank Ice Arena in Jamestown, New York.",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jamestown_Ironmen",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:42.724Z",
+      "hash": "2c40fb32648ee481"
+    },
+    {
+      "id": "wikipedia:31543226",
+      "type": "wiki",
+      "title": "Bindu Basini Govt. Boys' High School",
+      "summary": "Bindu Basini Government Boys' High School is a secondary school in Tangail, Bangladesh. It was established in 1880. The school was patronized and endowed by Bindubasini Chowdhurany.",
+      "body": "Bindu Basini Government Boys' High School is a secondary school in Tangail, Bangladesh. It was established in 1880. The school was patronized and endowed by Bindubasini Chowdhurany.",
+      "image": {
+        "src": "data/images/38e13a3ee5989ebb.png",
+        "alt": "Bindu Basini Govt. Boys' High School",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bindu_Basini_Govt._Boys'_High_School",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:42.617Z",
+      "hash": "4cfa6815dcef4221"
+    },
+    {
+      "id": "wikipedia:71016009",
+      "type": "wiki",
+      "title": "Altercatio Hadriani Augusti et Epicteti philosophi",
+      "summary": "The Altercatio Hadriani Augusti et Epicteti philosophi is a Latin language question-and-answer dialogue composed by an anonymous author in the 2nd or 3rd century. It consists of a short, fictional conversation between Emperor Hadrian and the Stoic philosopher Epictetus. In its earliest form it consists of…",
+      "body": "The Altercatio Hadriani Augusti et Epicteti philosophi is a Latin language question-and-answer dialogue composed by an anonymous author in the 2nd or 3rd century. It consists of a short, fictional conversation between Emperor Hadrian and the Stoic philosopher Epictetus. In its earliest form it consists of seventy-three questions on matters of wisdom and natural phenomena posed by Hadrian and answered by Epictetus. The emphasis throughout is on witty, riddle-like answers rather than philosophical ones.",
+      "image": {
+        "src": "data/images/aee36b7645ea7817.jpg",
+        "alt": "Altercatio Hadriani Augusti et Epicteti philosophi",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Altercatio_Hadriani_Augusti_et_Epicteti_philosophi",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:42.497Z",
+      "hash": "4513cbdc066a1cfe"
+    },
+    {
+      "id": "wikipedia:36932776",
+      "type": "wiki",
+      "title": "Spool (software company)",
+      "summary": "Spool was a free social bookmarking program and social network that was launched in October 2011 at TechCrunch Disrupt. The service allowed users to cache a webpage, including any media on the page, for offline consumption on any mobile device. Spool raised over $1 million from angel investors in January 2012.…",
+      "body": "Spool was a free social bookmarking program and social network that was launched in October 2011 at TechCrunch Disrupt. The service allowed users to cache a webpage, including any media on the page, for offline consumption on any mobile device. Spool raised over $1 million from angel investors in January 2012. Facebook, Inc. acquired Spool in July 2012, in what was rumored to be a very competitive process.",
+      "image": {
+        "src": "data/images/31dafc54a653408e.png",
+        "alt": "Spool (software company)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Spool_(software_company)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-21T13:35:42.376Z",
+      "hash": "fa08d89a7262e7be"
+    },
     {
       "id": "chess:85dvN",
       "type": "chess",
@@ -11312,1130 +12429,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-10-09T15:07:03.743Z",
       "hash": "8773d3179e1c38a8"
-    },
-    {
-      "id": "passage:gutenberg:2701",
-      "type": "passage",
-      "title": "Moby-Dick",
-      "summary": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth;…",
-      "body": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/2701",
-        "trustTier": "publication",
-        "author": "Herman Melville",
-        "date": "1851"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "sea",
-        "adventure"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:07:03.474Z",
-      "hash": "8e8c699abb4bca4a"
-    },
-    {
-      "id": "passage:gutenberg:55",
-      "type": "passage",
-      "title": "The Wonderful Wizard of Oz",
-      "summary": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the…",
-      "body": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the dishes, a table, three or four chairs, and the beds. Uncle Henry and Aunt Em had a big bed in one corner, and Dorothy a little bed in another corner. There was no garret at all, and no cellar—except a small hole dug in the ground, called a cyclone cellar, where the family could go in case one of those great whirlwinds arose, mighty enough…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/55",
-        "trustTier": "publication",
-        "author": "L. Frank Baum",
-        "date": "1900"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "fantasy",
-        "childrens",
-        "adventure"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:07:03.285Z",
-      "hash": "7baef76d70f6712b"
-    },
-    {
-      "id": "passage:gutenberg:84",
-      "type": "passage",
-      "title": "Frankenstein",
-      "summary": "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday, and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking. I am already far north of London, and as I walk in the streets of…",
-      "body": "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday, and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking. I am already far north of London, and as I walk in the streets of Petersburgh, I feel a cold northern breeze play upon my cheeks, which braces my nerves and fills me with delight. Do you understand this feeling? This breeze, which has travelled from the regions towards which I am advancing, gives me a foretaste of those icy climes. Inspirited by this wind of promise, my daydreams become more fervent and…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/84",
-        "trustTier": "publication",
-        "author": "Mary Shelley",
-        "date": "1818"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "gothic",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:07:03.227Z",
-      "hash": "6cad170a13629ac3"
-    },
-    {
-      "id": "comic:xkcd:2109",
-      "type": "comic",
-      "title": "Invisible Formatting",
-      "summary": "To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.",
-      "image": {
-        "src": "data/images/e6546e8dfc0b256c.png",
-        "alt": "To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.",
-        "credit": "xkcd #2109 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/2109/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2019-02-08"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-09T15:07:02.453Z",
-      "hash": "525a6b83b8309b0d"
-    },
-    {
-      "id": "food:bd1ce85fbfc5eba0",
-      "type": "food",
-      "title": "Lemon Roasted Potatoes",
-      "summary": "These lemon roasted potatoes are made extra-special with very little effort, thanks to crushed garlic, lemon juice, herbs, and olive oil. For when you want to level up your roasted potatoes, but aren’t game for anything too wild. Continue reading Lemon Roasted Potatoes on 101 Cookbooks",
-      "body": "These lemon roasted potatoes are made extra-special with very little effort, thanks to crushed garlic, lemon juice, herbs, and olive oil. For when you want to level up your roasted potatoes, but aren’t game for anything too wild. Continue reading Lemon Roasted Potatoes on 101 Cookbooks",
-      "image": {
-        "src": "data/images/16414f77076ce5e9.jpg",
-        "alt": "Lemon Roasted Potatoes",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/lemon-roasted-potatoes/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Thu, 08 Oct 2026 17:30:4"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "260+ vegan recipes",
-        "baking recipes",
-        "fall",
-        "gluten free recipes",
-        "holiday recipes",
-        "side dish recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:07:02.320Z",
-      "hash": "bd1ce85fbfc5eba0"
-    },
-    {
-      "id": "craft:18578e372b394663",
-      "type": "craft",
-      "title": "Psychedelic Paintings by Rafael Silveira Explore a World of ‘Visual Synonymies’",
-      "summary": "Silveira juxtaposes objects and organisms in unlikely scenarios to challenge how we perceive the world around us.",
-      "body": "Silveira juxtaposes objects and organisms in unlikely scenarios to challenge how we perceive the world around us.",
-      "image": {
-        "src": "data/images/1515a286322db4fa.jpg",
-        "alt": "Psychedelic Paintings by Rafael Silveira Explore a World of ‘Visual Synonymies’",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/10/rafael-silveira-paintings-surreal-popsicledelic-trip/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Thu, 08 Oct 2026 14:37:5"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "humor",
-        "painting",
-        "psychedelic",
-        "rafael silveira",
-        "surreal"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:07:02.241Z",
-      "hash": "18578e372b394663"
-    },
-    {
-      "id": "craft:653d947230bdfc51",
-      "type": "craft",
-      "title": "BedazzLED Jean Jacket",
-      "summary": "Make some 21st-century flower power — with powered flowers, with this LED jean jacket. The post BedazzLED Jean Jacket appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "Make some 21st-century flower power — with powered flowers, with this LED jean jacket. The post BedazzLED Jean Jacket appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/5267aad5eec8e1aa.jpg",
-        "alt": "BedazzLED Jean Jacket",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/projects/bedazzled-jean-jacket/",
-        "trustTier": "publication",
-        "author": "Debra Ansell",
-        "date": "Thu, 08 Oct 2026 15:00:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "costumes, cosplay, and props",
-        "craft & design",
-        "denim",
-        "diy projects",
-        "jacket",
-        "leds",
-        "make97"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:07:01.731Z",
-      "hash": "653d947230bdfc51"
-    },
-    {
-      "id": "word:92b7cdbb8ce6c8d2",
-      "type": "word",
-      "title": "melancholy",
-      "summary": "Noun: Black bile, formerly thought to be one of the four \"cardinal humours\" of animal bodies.",
-      "body": "1. Black bile, formerly thought to be one of the four \"cardinal humours\" of animal bodies.\n2. Great sadness or depression, especially of a thoughtful or introspective nature.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/melancholy",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:07:01.591Z",
-      "hash": "92b7cdbb8ce6c8d2"
-    },
-    {
-      "id": "word:928725f8e871e731",
-      "type": "word",
-      "title": "idyllic",
-      "summary": "Adjective: Of or pertaining to idylls.",
-      "body": "1. Of or pertaining to idylls.\n2. Extremely happy, peaceful, or picturesque.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/idyllic",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Adjective"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:07:00.559Z",
-      "hash": "928725f8e871e731"
-    },
-    {
-      "id": "quote:72fc0abcb7234ffe",
-      "type": "quote",
-      "title": "“Help others and give something back.”",
-      "summary": "— Arnold Schwarzenegger",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Arnold_Schwarzenegger",
-        "trustTier": "community",
-        "author": "Arnold Schwarzenegger"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:07:00.413Z",
-      "hash": "72fc0abcb7234ffe"
-    },
-    {
-      "id": "quote:7b6c65e1a8fc50aa",
-      "type": "quote",
-      "title": "“Once you choose hope, anything's possible.”",
-      "summary": "— Christopher Reeve",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Christopher_Reeve",
-        "trustTier": "community",
-        "author": "Christopher Reeve"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:07:00.413Z",
-      "hash": "7b6c65e1a8fc50aa"
-    },
-    {
-      "id": "quote:23a20178a824b39f",
-      "type": "quote",
-      "title": "“It is ignorance that causes most mistakes.”",
-      "summary": "— Harry S. Truman",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Harry_S._Truman",
-        "trustTier": "community",
-        "author": "Harry S. Truman"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:07:00.413Z",
-      "hash": "23a20178a824b39f"
-    },
-    {
-      "id": "article:c0f5d115962fb1ce",
-      "type": "article",
-      "title": "Welcome II the Terrordome: The Future Is Furious",
-      "summary": "The first theatrically distributed British feature directed by a Black woman was perhaps always destined to be labeled as angry, no matter what it was about. All the same, that adjective is wholly accurate, and one Ngozi Onwurah has used herself to describe her 1995 feature debut, Welcome II the…",
-      "body": "The first theatrically distributed British feature directed by a Black woman was perhaps always destined to be labeled as angry, no matter what it was about. All the same, that adjective is wholly accurate, and one Ngozi Onwurah has used herself to describe her 1995 feature debut, Welcome II the Terrordome, which confronts the lived experience of racial violence, police brutality, and mass incarceration. However, there is a crucial distinction between Onwurah’s use of the word and that of her critics. As Audre Lorde wrote in 1981, anger is “loaded with information and energy,” and when that…",
-      "image": {
-        "src": "data/images/b342e05e794d3463.jpg",
-        "alt": "Welcome II the Terrordome: The Future Is Furious",
-        "credit": "The Current (Criterion)"
-      },
-      "source": {
-        "name": "The Current (Criterion)",
-        "url": "https://www.criterion.com/current/posts/9300-welcome-ii-the-terrordome-the-future-is-furious",
-        "trustTier": "publication",
-        "author": "Kadish Morris",
-        "date": "Tue, 06 Oct 2026 14:20:0"
-      },
-      "tags": [
-        "film",
-        "essay",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:06:57.902Z",
-      "hash": "c0f5d115962fb1ce"
-    },
-    {
-      "id": "article:44a7529ae4ab5969",
-      "type": "article",
-      "title": "A Possible Future",
-      "summary": "Current donations: $21,146 of $40,000 goal Alan Bellows here, founder of Damn Interesting. For the better part of twenty years, I kept this project afloat by working part-time engineering jobs to pay the bills, and spending the other halves of my work days researching, writing, editing, and…",
-      "body": "Current donations: $21,146 of $40,000 goal Alan Bellows here, founder of Damn Interesting. For the better part of twenty years, I kept this project afloat by working part-time engineering jobs to pay the bills, and spending the other halves of my work days researching, writing, editing, and podcasting. But in recent years, the landscape has […]",
-      "source": {
-        "name": "Damn Interesting",
-        "url": "https://www.damninteresting.com/a-possible-future/",
-        "trustTier": "publication",
-        "author": "Alan Bellows",
-        "date": "Wed, 08 Jul 2026 16:36:1"
-      },
-      "tags": [
-        "curiosities",
-        "history",
-        "science",
-        "announcements",
-        "future",
-        "innovation",
-        "whimsy"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:06:53.180Z",
-      "hash": "44a7529ae4ab5969"
-    },
-    {
-      "id": "article:d680811e9ee0ec8e",
-      "type": "article",
-      "title": "Adults Are Regressing",
-      "summary": "Adults who do not have children are taking over Disneyland, purchasing the majority of Toys“R”Us products, and sleeping with stuffed bears, writes Kat Rosenfield. Why can’t they put childish things away?",
-      "body": "Adults who do not have children are taking over Disneyland, purchasing the majority of Toys“R”Us products, and sleeping with stuffed bears, writes Kat Rosenfield. Why can’t they put childish things away?",
-      "image": {
-        "src": "data/images/1d5ef96ea0e3fdd8.jpg",
-        "alt": "Adults Are Regressing",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/adults-are-regressing-disney-toys-comic-con-funko-pop",
-        "trustTier": "publication",
-        "author": "Kat Rosenfield",
-        "date": "Fri, 09 Oct 2026 14:56:5"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:06:49.745Z",
-      "hash": "d680811e9ee0ec8e",
-      "expires": "2026-11-08T15:06:49.745Z"
-    },
-    {
-      "id": "article:0f4a09ba1caeaaac",
-      "type": "article",
-      "title": "Silicon Valley’s self-styled futurists build marvelous machines. Their politics, though, recycle discredited ideas. Jill Lepore explains",
-      "summary": "Silicon Valley’s self-styled futurists build marvelous machines. Their politics, though, recycle discredited ideas. Jill Lepore explains",
-      "body": "Silicon Valley’s self-styled futurists build marvelous machines. Their politics, though, recycle discredited ideas. Jill Lepore explains",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://www.chronicle.com/article/has-harvard-indeed-lost-its-mind",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:06:49.138Z",
-      "hash": "0f4a09ba1caeaaac"
-    },
-    {
-      "id": "article:dd4baf29e6aa09fc",
-      "type": "article",
-      "title": "Robert Frost was both a skeptical believer and a believing skeptic. Yet his letters reveal a soul closer to despair",
-      "summary": "Robert Frost was both a skeptical believer and a believing skeptic. Yet his letters reveal a soul closer to despair",
-      "body": "Robert Frost was both a skeptical believer and a believing skeptic. Yet his letters reveal a soul closer to despair",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://porticoquarterly.com/book/did-robert-frost-despair-for-his-soul",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:06:49.138Z",
-      "hash": "dd4baf29e6aa09fc"
-    },
-    {
-      "id": "article:c97c0909ab8175d5",
-      "type": "article",
-      "title": "Paul Carus’ The History of the Devil and the Idea of Evil (1899)",
-      "summary": "A history of the Evil One, from the earliest times to the present.",
-      "body": "A history of the Evil One, from the earliest times to the present.",
-      "image": {
-        "src": "data/images/30d32084911c0c5a.jpg",
-        "alt": "Paul Carus’ The History of the Devil and the Idea of Evil (1899)",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/collection/history-of-the-devil",
-        "trustTier": "publication",
-        "date": "Wed, 07 Oct 2026 13:34:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:06:48.239Z",
-      "hash": "c97c0909ab8175d5"
-    },
-    {
-      "id": "article:03128b2e62b7a863",
-      "type": "article",
-      "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
-      "summary": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result. The post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine",
-      "body": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result. The post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine",
-      "image": {
-        "src": "data/images/0b9f2598d714770c.webp",
-        "alt": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
-        "credit": "Quanta Magazine"
-      },
-      "source": {
-        "name": "Quanta Magazine",
-        "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
-        "trustTier": "publication",
-        "author": "Ben Brubaker",
-        "date": "Wed, 07 Oct 2026 15:08:4"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "mathematics",
-        "computer science"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:06:47.250Z",
-      "hash": "03128b2e62b7a863"
-    },
-    {
-      "id": "article:6a765750d6316db1",
-      "type": "article",
-      "title": "Barbara Ward’s vision",
-      "summary": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals- by Or RosenboimRead on Aeon",
-      "body": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals- by Or RosenboimRead on Aeon",
-      "image": {
-        "src": "data/images/4d1d296dced288f7.jpg",
-        "alt": "Barbara Ward’s vision",
-        "credit": "Aeon"
-      },
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
-        "trustTier": "publication",
-        "author": "Or Rosenboim",
-        "date": "Fri, 09 Oct 2026 10:00:0"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "philosophy"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:06:46.882Z",
-      "hash": "6a765750d6316db1"
-    },
-    {
-      "id": "greek:ec392a324cacf7b1",
-      "type": "greek",
-      "title": "καί",
-      "summary": "καί — “and, also” · conjunction",
-      "body": "Note: can also mean \"even\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%BA%CE%B1%CE%AF#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "conjunction",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-09T15:06:46.781Z",
-      "hash": "ec392a324cacf7b1"
-    },
-    {
-      "id": "poetry:115a93e79aa86867",
-      "type": "poem",
-      "title": "Fragment: May the Limner",
-      "summary": "When May is painting with her colours gay\nThe landscape sketched by April her sweet twin...",
-      "body": "When May is painting with her colours gay\nThe landscape sketched by April her sweet twin...",
-      "source": {
-        "name": "Percy Bysshe Shelley · PoetryDB",
-        "url": "https://poetrydb.org/title/Fragment%3A%20May%20the%20Limner",
-        "trustTier": "community",
-        "author": "Percy Bysshe Shelley"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:06:46.779Z",
-      "hash": "115a93e79aa86867"
-    },
-    {
-      "id": "poetry:fd35bea6456018f1",
-      "type": "poem",
-      "title": "To Thomas Moore",
-      "summary": "What are you doing now,\n  Oh Thomas Moore?\nWhat are you doing now,\n  Oh Thomas Moore?",
-      "body": "What are you doing now,\n  Oh Thomas Moore?\nWhat are you doing now,\n  Oh Thomas Moore?\nSighing or suing now,\nRhyming or wooing now,\nBilling or cooing now,\n  Which, Thomas Moore?\n\nBut the Carnival's coming,\n  Oh Thomas Moore!\nThe Carnival's coming,\n  Oh Thomas Moore!\nMasking and humming,\nFifing and drumming,\nGuitarring and strumming,\n  Oh Thomas Moore!",
-      "source": {
-        "name": "George Gordon, Lord Byron · PoetryDB",
-        "url": "https://poetrydb.org/title/To%20Thomas%20Moore",
-        "trustTier": "community",
-        "author": "George Gordon, Lord Byron"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-09T15:06:46.779Z",
-      "hash": "fd35bea6456018f1"
-    },
-    {
-      "id": "art:si:ld1-1729331898832-1729331901609-0",
-      "type": "art",
-      "title": "Plastic straw hat with net and fabric flowers",
-      "summary": "National Museum of African American History and Culture · 1960s · Hats",
-      "body": "National Museum of African American History and Culture\n1960s · Hats",
-      "image": {
-        "src": "data/images/75705f9ce41aec94.jpg",
-        "alt": "Plastic straw hat with net and fabric flowers",
-        "credit": "National Museum of African American History and Culture · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://nmaahc.si.edu/object/nmaahc_2007.3.572",
-        "trustTier": "encyclopedic",
-        "date": "1960s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "flower",
-        "hats"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-09T15:06:46.504Z",
-      "hash": "6d2d429a810439ab"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399896624-0",
-      "type": "art",
-      "title": "Designs for Chinoiserie Flowers",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1760s · Bound print",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1760s · Bound print",
-      "image": {
-        "src": "data/images/d3c95aed96739bd7.jpg",
-        "alt": "Designs for Chinoiserie Flowers",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/26895",
-        "trustTier": "encyclopedic",
-        "date": "1760s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "flower",
-        "bound print"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-09T15:06:46.504Z",
-      "hash": "3cd2f0d18049b082"
-    },
-    {
-      "id": "art:si:ld1-1756975001566-1756975004504-0",
-      "type": "art",
-      "title": "Wedding veil with cream flowers",
-      "summary": "National Museum of African American History and Culture · 1930s · Veils (headcloths)",
-      "body": "National Museum of African American History and Culture\n1930s · Veils (headcloths)",
-      "image": {
-        "src": "data/images/dffdb31598d2e42f.jpg",
-        "alt": "Wedding veil with cream flowers",
-        "credit": "National Museum of African American History and Culture · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://nmaahc.si.edu/object/nmaahc_2007.3.764",
-        "trustTier": "encyclopedic",
-        "date": "1930s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "flower",
-        "veils (headcloths)"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-09T15:06:46.504Z",
-      "hash": "e79eb3a660d22dca"
-    },
-    {
-      "id": "apod:2018-10-27",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© Yuri Beletsky"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap181027.html",
-        "trustTier": "encyclopedic",
-        "date": "2018-10-27"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:43.056Z",
-      "hash": "5ef6521885f2150b"
-    },
-    {
-      "id": "apod:2026-06-23",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap260623.html",
-        "trustTier": "encyclopedic",
-        "date": "2026-06-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:43.056Z",
-      "hash": "8f347010eb4232d4"
-    },
-    {
-      "id": "apod:2011-01-24",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap110124.html",
-        "trustTier": "encyclopedic",
-        "date": "2011-01-24"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:43.056Z",
-      "hash": "835d84e264c1494e"
-    },
-    {
-      "id": "apod:2006-03-28",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap060328.html",
-        "trustTier": "encyclopedic",
-        "date": "2006-03-28"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:43.056Z",
-      "hash": "b3c37cc81fcaa41b"
-    },
-    {
-      "id": "apod:1996-03-27",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap960327.html",
-        "trustTier": "encyclopedic",
-        "date": "1996-03-27"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:43.056Z",
-      "hash": "0386d38f0aea6760"
-    },
-    {
-      "id": "onthisday:10-09:1793:9c557f83ff08dc7b",
-      "type": "history",
-      "title": "1793: French Revolution",
-      "summary": "French Revolution: After a month-long siege, the leaders of Lyon surrendered, ending their revolt against the National Convention.",
-      "body": "French Revolution: After a month-long siege, the leaders of Lyon surrendered, ending their revolt against the National Convention.",
-      "image": {
-        "src": "data/images/119d2b70797f1a75.jpg",
-        "alt": "French Revolution",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/French_Revolution",
-        "trustTier": "encyclopedic",
-        "date": "10-09"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:35.440Z",
-      "hash": "30d65607225467ff",
-      "expires": "2026-10-12T15:06:35.440Z"
-    },
-    {
-      "id": "onthisday:10-09:2019:300084ccb91ee765",
-      "type": "history",
-      "title": "2019: Syrian civil war",
-      "summary": "Syrian civil war: Turkish forces began an offensive into north-eastern Syria following the withdrawal of U.S. troops from the region.",
-      "body": "Syrian civil war: Turkish forces began an offensive into north-eastern Syria following the withdrawal of U.S. troops from the region.",
-      "image": {
-        "src": "data/images/42f038e002c66454.jpg",
-        "alt": "Syrian civil war",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Syrian_civil_war",
-        "trustTier": "encyclopedic",
-        "date": "10-09"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:35.440Z",
-      "hash": "0ca1bdaed1db1448",
-      "expires": "2026-10-12T15:06:35.440Z"
-    },
-    {
-      "id": "onthisday:10-09:1780:aa67c7bb80d53dc0",
-      "type": "history",
-      "title": "1780: Great Hurricane of 1780",
-      "summary": "The deadliest Atlantic hurricane on record began to impact the Caribbean, killing at least 20,000 people across the Antilles over the subsequent days.",
-      "body": "The deadliest Atlantic hurricane on record began to impact the Caribbean, killing at least 20,000 people across the Antilles over the subsequent days.",
-      "image": {
-        "src": "data/images/6855c2dfcc3bf14e.png",
-        "alt": "Great Hurricane of 1780",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Great_Hurricane_of_1780",
-        "trustTier": "encyclopedic",
-        "date": "10-09"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:35.440Z",
-      "hash": "8b8f5876b2082514",
-      "expires": "2026-10-12T15:06:35.440Z"
-    },
-    {
-      "id": "wikipedia:95529",
-      "type": "wiki",
-      "title": "Rowan County, Kentucky",
-      "summary": "Rowan County is a county located in the northeastern part of the U.S. state of Kentucky, in the Eastern Kentucky Coalfield region. As of the 2020 census, the population was 24,662. Its county seat is Morehead.",
-      "body": "Rowan County is a county located in the northeastern part of the U.S. state of Kentucky, in the Eastern Kentucky Coalfield region. As of the 2020 census, the population was 24,662. Its county seat is Morehead.",
-      "image": {
-        "src": "data/images/13a5ed0111128e77.jpg",
-        "alt": "Rowan County, Kentucky",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Rowan_County%2C_Kentucky",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:35.404Z",
-      "hash": "42e649c97974ee6d"
-    },
-    {
-      "id": "wikipedia:8671644",
-      "type": "wiki",
-      "title": "1982 World Rally Championship",
-      "summary": "The 1982 World Rally Championship was the tenth season of the Fédération Internationale de l'Automobile (FIA) World Rally Championship (WRC). The season consisted of 12 rallies. By this time, the schedule format had become generally stable with only one or two changes to venues year to year. 1982 marked the return of…",
-      "body": "The 1982 World Rally Championship was the tenth season of the Fédération Internationale de l'Automobile (FIA) World Rally Championship (WRC). The season consisted of 12 rallies. By this time, the schedule format had become generally stable with only one or two changes to venues year to year. 1982 marked the return of New Zealand to the schedule in place of Argentina's Rally Codasur.",
-      "image": {
-        "src": "data/images/e11d5a594479b2e0.jpg",
-        "alt": "1982 World Rally Championship",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/1982_World_Rally_Championship",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:34.980Z",
-      "hash": "2565efa28df02453"
-    },
-    {
-      "id": "wikipedia:54090032",
-      "type": "wiki",
-      "title": "Carmanor of Crete",
-      "summary": "In Greek mythology, Carmanor or Karmanor was a Cretan priest who purified Apollo after he killed the Delphic dragon Python. He was the father of two children: Eubuleus and Chrysothemis, possibly by Demeter. According to Walter Burkert, the name Carmanor \"does not appear to be Greek\".",
-      "body": "In Greek mythology, Carmanor or Karmanor was a Cretan priest who purified Apollo after he killed the Delphic dragon Python. He was the father of two children: Eubuleus and Chrysothemis, possibly by Demeter. According to Walter Burkert, the name Carmanor \"does not appear to be Greek\".",
-      "image": {
-        "src": "data/images/369a3c50e0ce468b.jpg",
-        "alt": "Carmanor of Crete",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Carmanor_of_Crete",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:34.856Z",
-      "hash": "46c0c38fe3d1998f"
-    },
-    {
-      "id": "wikipedia:25080990",
-      "type": "wiki",
-      "title": "The Spy in the Green Hat",
-      "summary": "The Spy in the Green Hat is a 1967 feature-length film version of The Man from U.N.C.L.E.'s third season two-part episode \"The Concrete Overcoat Affair\". The episodes were originally broadcast in the United States on November 25, 1966 and December 2, 1966 on NBC. The film was directed by Joseph Sargent and written by…",
-      "body": "The Spy in the Green Hat is a 1967 feature-length film version of The Man from U.N.C.L.E.'s third season two-part episode \"The Concrete Overcoat Affair\". The episodes were originally broadcast in the United States on November 25, 1966 and December 2, 1966 on NBC. The film was directed by Joseph Sargent and written by Peter Allan Fields with the story by David Victor. Robert Vaughn and David McCallum star in the film as they did in the television series, supported by co-stars Jack Palance and Janet Leigh. It is the fifth such feature film composed of a reedited version of one or more episodes from the series.",
-      "image": {
-        "src": "data/images/c147f62d97d258b3.jpg",
-        "alt": "The Spy in the Green Hat",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Spy_in_the_Green_Hat",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-09T15:06:34.004Z",
-      "hash": "8f58fa6a2e269140"
-    },
-    {
-      "id": "chess:jrOAZ",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1986. Find the best line for black.",
-      "body": "Solution, from → to: f2→f1, g1→f1, e4→g3, f1→e1, c5→e3. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "8/8/Q2pk1p1/2q1p2p/4n3/2PN3P/PP3rP1/3R2K1 b - - 1 1",
-        "lastMove": "b4d3"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/jrOAZ",
-        "trustTier": "community",
-        "date": "Thu, 08 Oct 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "endgame",
-        "discoveredcheck",
-        "attraction",
-        "long"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-08T15:24:51.935Z",
-      "hash": "0307988a716b1acd"
-    },
-    {
-      "id": "game:b59aad393573d7b7",
-      "type": "game",
-      "title": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff",
-      "summary": "The studio suspended the majority of its staff ahead of the tactical Star Wars title's launch. Now it's bringing back many suspended employees.",
-      "body": "The studio suspended the majority of its staff ahead of the tactical Star Wars title's launch. Now it's bringing back many suspended employees.",
-      "image": {
-        "src": "data/images/80b295b106934ac3.png",
-        "alt": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
-        "trustTier": "publication",
-        "author": "Imran Khan",
-        "date": "Wed, 07 Oct 2026 18:00:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-08T15:24:51.575Z",
-      "hash": "b59aad393573d7b7",
-      "expires": "2027-01-06T15:24:51.575Z"
-    },
-    {
-      "id": "game:a68d083928fc277e",
-      "type": "game",
-      "title": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance",
-      "summary": "From the convergence of Paramount and WB comes a newly-formed company that has tapped Kotick to sit on its board.",
-      "body": "From the convergence of Paramount and WB comes a newly-formed company that has tapped Kotick to sit on its board.",
-      "image": {
-        "src": "data/images/fca7f7688278851c.png",
-        "alt": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
-        "trustTier": "publication",
-        "author": "Imran Khan",
-        "date": "Wed, 07 Oct 2026 17:19:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-08T15:24:51.575Z",
-      "hash": "a68d083928fc277e",
-      "expires": "2027-01-06T15:24:51.575Z"
-    },
-    {
-      "id": "game:f7eecc55c93ac510",
-      "type": "game",
-      "title": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker",
-      "summary": "After numerous and consistent cracks over the last year, Denuvo wants to find the hacker that has compromised its security through other online platforms.",
-      "body": "After numerous and consistent cracks over the last year, Denuvo wants to find the hacker that has compromised its security through other online platforms.",
-      "image": {
-        "src": "data/images/0007080385933615.jpg",
-        "alt": "Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
-        "trustTier": "publication",
-        "author": "Imran Khan",
-        "date": "Thu, 08 Oct 2026 15:13:4"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-08T15:24:51.574Z",
-      "hash": "f7eecc55c93ac510",
-      "expires": "2027-01-06T15:24:51.574Z"
     },
     {
       "id": "curated:handwriting-beats-typing",

@@ -1,7 +1,917 @@
 {
-  "generatedAt": "2026-10-24T12:31:43.137Z",
+  "generatedAt": "2026-10-25T13:04:18.966Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:wX7Ch",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1888. Find the best line for black.",
+      "body": "Solution, from → to: d4→f2, g1→f2, h3→g3. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "7k/1p2RQ2/2p4p/p7/3b1p2/3b3q/P2N1R2/6K1 b - - 1 1",
+        "lastMove": "g2f2"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/wX7Ch",
+        "trustTier": "community",
+        "date": "Sun, 25 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "matein2",
+        "middlegame",
+        "short",
+        "attraction"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-25T13:04:16.920Z",
+      "hash": "1476455bdb8bab37"
+    },
+    {
+      "id": "trivia:868c17a896f850bb",
+      "type": "trivia",
+      "title": "Tony Hawk's extreme sports videogames revolve around performing professional BMX tricks.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:04:14.499Z",
+      "hash": "868c17a896f850bb"
+    },
+    {
+      "id": "trivia:51f2dd40dc928239",
+      "type": "trivia",
+      "title": "The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?",
+      "summary": "Is it: 150 Megatons · 100 Megatons · 200 Megatons · 75 Megatons?",
+      "body": "Answer: 100 Megatons.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:04:14.499Z",
+      "hash": "51f2dd40dc928239"
+    },
+    {
+      "id": "trivia:c15ab354a4041f9c",
+      "type": "trivia",
+      "title": "Phil Fish was the designer of which game?",
+      "summary": "Is it: Hotline Miami · Fez · Super Meat Boy · FTL?",
+      "body": "Answer: Fez.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:04:14.499Z",
+      "hash": "c15ab354a4041f9c"
+    },
+    {
+      "id": "trivia:dc866fe99f9c80fa",
+      "type": "trivia",
+      "title": "Which ocean borders the west coast of the United States?",
+      "summary": "Is it: Indian · Pacific · Atlantic · Arctic?",
+      "body": "Answer: Pacific.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "geography"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:04:14.499Z",
+      "hash": "dc866fe99f9c80fa"
+    },
+    {
+      "id": "passage:gutenberg:174",
+      "type": "passage",
+      "title": "The Picture of Dorian Gray",
+      "summary": "The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn. From the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable…",
+      "body": "The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn. From the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable cigarettes, Lord Henry Wotton could just catch the gleam of the honey-sweet and honey-coloured blossoms of a laburnum, whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/174",
+        "trustTier": "publication",
+        "author": "Oscar Wilde",
+        "date": "1890"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "gothic",
+        "aesthetics"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:04:14.292Z",
+      "hash": "617160afbde68505"
+    },
+    {
+      "id": "comic:smbc:b84ef77b015a6461",
+      "type": "comic",
+      "title": "Watch",
+      "summary": "Hope this insight ruins you as much as it ruined me.",
+      "image": {
+        "src": "data/images/20fe20463416c4e3.png",
+        "alt": "Hope this insight ruins you as much as it ruined me.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/watch-2",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 24 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-25T13:04:13.610Z",
+      "hash": "b84ef77b015a6461"
+    },
+    {
+      "id": "comic:xkcd:2493",
+      "type": "comic",
+      "title": "Dual USB-C",
+      "summary": "Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.",
+      "image": {
+        "src": "data/images/29f5e25c978d45c0.png",
+        "alt": "Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.",
+        "credit": "xkcd #2493 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/2493/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2021-07-23"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-25T13:04:13.467Z",
+      "hash": "d5ff7eb25ab23d80"
+    },
+    {
+      "id": "craft:03face0380ffad1e",
+      "type": "craft",
+      "title": "‘Street Photography Africa’ is a Colorful and Energetic Survey Across the Continent",
+      "summary": "The street becomes a stage.",
+      "body": "The street becomes a stage.",
+      "image": {
+        "src": "data/images/212c8d0311503589.jpg",
+        "alt": "‘Street Photography Africa’ is a Colorful and Energetic Survey Across the Continent",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/street-photography-africa-book/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Fri, 23 Oct 2026 15:15:2"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "books",
+        "photography",
+        "africa",
+        "dance",
+        "fashion",
+        "street photography"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:04:13.072Z",
+      "hash": "03face0380ffad1e"
+    },
+    {
+      "id": "word:2498fe925ce2ca11",
+      "type": "word",
+      "title": "solitude",
+      "summary": "Noun: Aloneness; the state of being alone, solitary, or by oneself.",
+      "body": "1. Aloneness; the state of being alone, solitary, or by oneself.\n2. A lonely or deserted place.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/solitude",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:04:12.755Z",
+      "hash": "2498fe925ce2ca11"
+    },
+    {
+      "id": "word:2db99f05a13a67ad",
+      "type": "word",
+      "title": "eloquence",
+      "summary": "Noun: The quality of artistry and persuasiveness in speech or writing.",
+      "body": "1. The quality of artistry and persuasiveness in speech or writing.\n2. An eloquent utterance.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/eloquence",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:04:12.212Z",
+      "hash": "2db99f05a13a67ad"
+    },
+    {
+      "id": "quote:6da83fdb2ede5a82",
+      "type": "quote",
+      "title": "“The more we value things, the less we value ourselves.”",
+      "summary": "— Bruce Lee",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Bruce_Lee",
+        "trustTier": "community",
+        "author": "Bruce Lee"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:04:09.854Z",
+      "hash": "6da83fdb2ede5a82"
+    },
+    {
+      "id": "quote:345451c241227754",
+      "type": "quote",
+      "title": "“When asked, how do you write? I invariably answer, one word at a time.”",
+      "summary": "— Stephen King",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Stephen_King",
+        "trustTier": "community",
+        "author": "Stephen King"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:04:09.854Z",
+      "hash": "345451c241227754"
+    },
+    {
+      "id": "quote:46186f2cc85f8bc3",
+      "type": "quote",
+      "title": "“Don't learn to do, but learn in doing.”",
+      "summary": "— Samuel Butler",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Samuel_Butler",
+        "trustTier": "community",
+        "author": "Samuel Butler"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:04:09.854Z",
+      "hash": "46186f2cc85f8bc3"
+    },
+    {
+      "id": "article:73379a1c861c2410",
+      "type": "article",
+      "title": "Death Is a Highway",
+      "summary": "Some of horror’s most memorable monsters travel by road. As seen in the Highway Horror collection I have programmed for the Criterion Channel, automobiles can function as death traps, murder weapons, and, in some cases, even sentient killers. In many ways, the films in this lineup represent the…",
+      "body": "Some of horror’s most memorable monsters travel by road. As seen in the Highway Horror collection I have programmed for the Criterion Channel, automobiles can function as death traps, murder weapons, and, in some cases, even sentient killers. In many ways, the films in this lineup represent the road movie’s evil twin. If that latter genre stands for the promise of what can be found on the open highway, these movies represent the threat of what’s barreling down the other side of the road.In tracing the evolution of this subgenre, there is perhaps no film more important than Steven Spielberg’s…",
+      "image": {
+        "src": "data/images/fc0aedf5eadc0112.jpg",
+        "alt": "Death Is a Highway",
+        "credit": "The Current (Criterion)"
+      },
+      "source": {
+        "name": "The Current (Criterion)",
+        "url": "https://www.criterion.com/current/posts/9312-death-is-a-highway",
+        "trustTier": "publication",
+        "author": "Clyde Folley",
+        "date": "Fri, 23 Oct 2026 12:55:0"
+      },
+      "tags": [
+        "film",
+        "essay",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:04:05.868Z",
+      "hash": "73379a1c861c2410"
+    },
+    {
+      "id": "article:af3030f0d89fdc4f",
+      "type": "article",
+      "title": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
+      "summary": "We’d all like to think we’re deliberately steering our lives. Yet a heck of a lot of adulthood consists of continuing whatever we were already doing because stopping would require change. You took a job because you needed money, stayed because you knew where the toilets were, and now, apparently,…",
+      "body": "We’d all like to think we’re deliberately steering our lives. Yet a heck of a lot of adulthood consists of continuing whatever we were already doing because stopping would require change. You took a job because you needed money, stayed because you knew where the toilets were, and now, apparently, this is your destiny. If […] The post This Is How To Get What You Want In Life: 6 Secrets To High-Agency appeared first on Barking Up The Wrong Tree.",
+      "image": {
+        "src": "data/images/8f3b1cc42239cc69.jpg",
+        "alt": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
+        "credit": "Barking Up the Wrong Tree"
+      },
+      "source": {
+        "name": "Barking Up the Wrong Tree",
+        "url": "https://bakadesuyo.com/2026/10/agency/?utm_source=rss&utm_medium=rss&utm_campaign=agency",
+        "trustTier": "community",
+        "author": "Eric Barker",
+        "date": "Sun, 11 Oct 2026 14:59:5"
+      },
+      "tags": [
+        "psychology",
+        "self-improvement",
+        "science",
+        "be more productive",
+        "live the good life",
+        "master the workplace"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:04:01.505Z",
+      "hash": "af3030f0d89fdc4f"
+    },
+    {
+      "id": "article:897d047843fdff49",
+      "type": "article",
+      "title": "The One Question I Can’t Stand at Restaurants. “The idea...",
+      "summary": "The One Question I Can’t Stand at Restaurants. “The idea of a restaurant I’d never been to using a dossier on me to decide, say, where I should sit, what I was likely to order, even whether I should be given a reservation at all, gave me chills.”",
+      "body": "The One Question I Can’t Stand at Restaurants. “The idea of a restaurant I’d never been to using a dossier on me to decide, say, where I should sit, what I was likely to order, even whether I should be given a reservation at all, gave me chills.”",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/10/0049855-the-one-question-i-cant-s",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-10-23T17:44:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:04:01.159Z",
+      "hash": "897d047843fdff49"
+    },
+    {
+      "id": "article:6d4802c3c2acd006",
+      "type": "article",
+      "title": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
+      "summary": "\"To be a human being among people and to remain one forever, no matter in what circumstances, not to grow despondent and not to lose heart — that’s what life is all about, that's its task.\"",
+      "body": "\"To be a human being among people and to remain one forever, no matter in what circumstances, not to grow despondent and not to lose heart — that’s what life is all about, that's its task.\"",
+      "image": {
+        "src": "data/images/2d4eef5d3936b727.jpg",
+        "alt": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/10/24/dostoyevsky-execution-life/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sat, 24 Oct 2026 11:12:5"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "politics",
+        "psychology",
+        "books",
+        "fyodor dostoyevsky",
+        "letters"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:03:59.896Z",
+      "hash": "6d4802c3c2acd006"
+    },
+    {
+      "id": "article:5faffb8956884fdd",
+      "type": "article",
+      "title": "How to Be Transformed When Things Fall Apart",
+      "summary": "\"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible be found in us.\"",
+      "body": "\"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible be found in us.\"",
+      "image": {
+        "src": "data/images/dbe961bc8fc51840.jpg",
+        "alt": "How to Be Transformed When Things Fall Apart",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/10/23/when-things-fall-apart-pema-chodron/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Fri, 23 Oct 2026 12:15:0"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "psychology",
+        "books",
+        "buddhism",
+        "pema chödrön",
+        "zen"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:03:59.896Z",
+      "hash": "5faffb8956884fdd"
+    },
+    {
+      "id": "article:616168320211fa63",
+      "type": "article",
+      "title": "Indian Arts Center in Laguna, New Mexico",
+      "summary": "Just outside Albuquerque along historic Route 66, sits an unassuming, albeit colorful little building. Adorned with paintings of Native women and traditional pottery, the Indian Arts Center offers an array of local pottery, textiles, jewelry, and other handcrafted goods from Laguna Pueblo artists.…",
+      "body": "Just outside Albuquerque along historic Route 66, sits an unassuming, albeit colorful little building. Adorned with paintings of Native women and traditional pottery, the Indian Arts Center offers an array of local pottery, textiles, jewelry, and other handcrafted goods from Laguna Pueblo artists. For a taste of traditional Native American fare, ask owner Dominick Quiroz to serve up a freshly made Indian taco or an order of fluffy Fry Bread with a choice of sugary toppings. The center was established in 1999 by Quiroz’s father with a mission to preserve and celebrate the rich culture of the…",
+      "image": {
+        "src": "data/images/23897211148433a8.jpg",
+        "alt": "Indian Arts Center in Laguna, New Mexico",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/indian-arts-center",
+        "trustTier": "publication",
+        "date": "Fri, 23 Oct 2026 16:00:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history",
+        "route 66",
+        "native american cuisine",
+        "native americans"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:03:59.342Z",
+      "hash": "616168320211fa63"
+    },
+    {
+      "id": "greek:0333963034ce697f",
+      "type": "greek",
+      "title": "ἀγάπη",
+      "summary": "ἀγάπη — “love” · noun",
+      "body": "Note: ἡ ἀγάπη\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%AC%CF%80%CE%B7#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_fem_1st"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:57.766Z",
+      "hash": "0333963034ce697f"
+    },
+    {
+      "id": "poetry:2363329710156fd2",
+      "type": "poem",
+      "title": "The Canterbury Tales: The Man of Law's Tale",
+      "summary": "THE PROLOGUE.\nOur Hoste saw well that the brighte sun\nTh' arc of his artificial day had run\nThe fourthe part, and half an houre more;",
+      "body": "THE PROLOGUE.\n\nOur Hoste saw well that the brighte sun\nTh' arc of his artificial day had run\nThe fourthe part, and half an houre more;\nAnd, though he were not deep expert in lore,\nHe wist it was the eight-and-twenty day\nOf April, that is messenger to May;\nAnd saw well that the shadow of every tree\nWas in its length of the same quantity\nThat was the body erect that caused it;\nAnd therefore by the shadow he took his wit,\nThat Phoebus, which that shone so clear and bright,\nDegrees was five-and-forty clomb on height;\nAnd for that day, as in that latitude,\nIt was ten of the clock, he gan conclude;\nAnd suddenly he plight his horse about.\n\n\"Lordings,\" quoth he, \"I warn you all this rout,\nThe fourthe partie of this day is gone.\nNow for the love of God and of Saint John\nLose no time, as farforth as ye may.\nLordings, the time wasteth night and day,\nAnd steals from us, what privily sleeping,\nAnd what through negligence in our waking,\nAs doth the stream, that turneth never again,\nDescending from the mountain to the plain.\nWell might Senec, and many a philosopher,\nBewaile time more than gold in coffer.\nFor loss of chattels may recover'd be,\nBut loss of time shendeth us, quoth he.\n\nIt will not come again, withoute dread,\nNo more than will Malkin's maidenhead,\nWhen she hath lost it in her wantonness.\nLet us not moulde thus in idleness.\n\"Sir Man of Law,\" quoth he, \"so have ye bliss,\nTell us a tale anon, as forword is.\nYe be submitted through your free assent\nTo stand in this case at my judgement.\nAcquit you now, and holde your behest;\nThen have ye done your devoir at the least.\"\n\"Hoste,\" quoth he, \"de par dieux jeo asente;\nTo breake forword is not mine intent.\nBehest is debt, and I would hold it fain,\nAll my behest; I can no better sayn.\nFor such law as a man gives another wight,\nHe should himselfe usen it by right.\nThus will our text: but natheless certain\nI can right now no thrifty tale sayn,\nBut Chaucer (though he can but lewedly\nOn metres and on rhyming craftily)\nHath said them, in such English as he can,\nOf olde time, as knoweth many a man.\nAnd if he have not said them, leve brother,\nIn one book, he hath said them in another\nFor he hath told of lovers up and down,\nMore than Ovide made of mentioun\nIn his Epistolae, that be full old.\nWhy should I telle them, since they he told?\nIn youth he made of Ceyx and Alcyon,\nAnd since then he hath spoke of every one\nThese noble wives, and these lovers eke.\nWhoso that will his large volume seek\nCalled the Saintes' Legend of Cupid:\nThere may he see the large woundes wide\nOf Lucrece, and of Babylon Thisbe;\nThe sword of Dido for the false Enee;\nThe tree of Phillis for her Demophon;\nThe plaint of Diane, and of Hermion,\nOf Ariadne, and Hypsipile;\nThe barren isle standing in the sea;\nThe drown'd Leander for his fair Hero;\nThe teares of Helene, and eke the woe\nOf Briseis, and Laodamia;\nThe cruelty of thee, Queen Medea,\nThy little children hanging by the halse,\nFor thy Jason, that was of love so false.\nHypermnestra, Penelop', Alcest',\nYour wifehood he commendeth with the best.\nBut certainly no worde writeth he\nOf thilke wick' example of Canace,\nThat loved her own brother sinfully;\n(Of all such cursed stories I say, Fy),\nOr else of Tyrius Apollonius,\nHow that the cursed king Antiochus\nBereft his daughter of her maidenhead;\nThat is so horrible a tale to read,\nWhen he her threw upon the pavement.\nAnd therefore he, of full avisement,\nWould never write in none of his sermons\nOf such unkind abominations;\nNor I will none rehearse, if that I may.\nBut of my tale how shall I do this day?\nMe were loth to be liken'd doubteless\nTo Muses, that men call Pierides\n(Metamorphoseos  wot what I mean),\nBut natheless I recke not a bean,\nThough I come after him with hawebake;\nI speak in prose, and let him rhymes make.\"\nAnd with that word, he with a sober cheer\nBegan his tale, and said as ye shall hear.\n\nTHE TALE.\n\nO scatheful harm, condition of poverty,\nWith thirst, with cold, with hunger so confounded;\nTo aske help thee shameth in thine hearte;\nIf thou none ask, so sore art thou y-wounded,\nThat very need unwrappeth all thy wound hid.\nMaugre thine head thou must for indigence\nOr steal, or beg, or borrow thy dispence.\n\nThou blamest Christ, and sayst full bitterly,\nHe misdeparteth riches temporal;\nThy neighebour thou witest sinfully,\nAnd sayst, thou hast too little, and he hath all:\n\"Parfay (sayst thou) sometime he reckon shall,\nWhen that his tail shall brennen in the glede,\nFor he not help'd the needful in their need.\"\n\nHearken what is the sentence of the wise:\nBetter to die than to have indigence.\nThy selve neighebour will thee despise,\nIf thou be poor, farewell thy reverence.\nYet of the wise man take this sentence,\nAlle the days of poore men be wick',\nBeware therefore ere thou come to that prick.\n\nIf thou be poor, thy brother hateth thee,\nAnd all thy friendes flee from thee, alas!\nO riche merchants, full of wealth be ye,\nO noble, prudent folk, as in this case,\nYour bagges be not fill'd with ambes ace,\nBut with six-cinque, that runneth for your chance;\nAt Christenmass well merry may ye dance.\n\nYe seeke land and sea for your winnings,\nAs wise folk ye knowen all th' estate\nOf regnes; ye be fathers of tidings,\nAnd tales, both of peace and of debate:\nI were right now of tales desolate,\nBut that a merchant, gone in many a year,\nMe taught a tale, which ye shall after hear.\n\nIn Syria whilom dwelt a company\nOf chapmen rich, and thereto sad and true,\nClothes of gold, and satins rich of hue.\nThat widewhere sent their spicery,\nTheir chaffare was so thriftly and so new,\nThat every wight had dainty to chaffare\nWith them, and eke to selle them their ware.\n\nNow fell it, that the masters of that sort\nHave shapen them to Rome for to wend,\nWere it for chapmanhood or for disport,\nNone other message would they thither send,\nBut come themselves to Rome, this is the end:\nAnd in such place as thought them a vantage\nFor their intent, they took their herbergage.\n\nSojourned have these merchants in that town\nA certain time as fell to their pleasance:\nAnd so befell, that th' excellent renown\nOf th' emperore's daughter, Dame Constance,\nReported was, with every circumstance,\nUnto these Syrian merchants in such wise,\nFrom day to day, as I shall you devise\n\nThis was the common voice of every man\n\"Our emperor of Rome, God him see,\nA daughter hath, that since the the world began,\nTo reckon as well her goodness and beauty,\nWas never such another as is she:\nI pray to God in honour her sustene,\nAnd would she were of all Europe the queen.\n\n\"In her is highe beauty without pride,\nAnd youth withoute greenhood or folly:\nTo all her workes virtue is her guide;\nHumbless hath slain in her all tyranny:\nShe is the mirror of all courtesy,\nHer heart a very chamber of holiness,\nHer hand minister of freedom for almess.\"\n\nAnd all this voice was sooth, as God is true;\nBut now to purpose let us turn again.\nThese merchants have done freight their shippes new,\nAnd when they have this blissful maiden seen,\nHome to Syria then they went full fain,\nAnd did their needes, as they have done yore,\nAnd liv'd in weal; I can you say no more.\n\nNow fell it, that these merchants stood in grace\nOf him that was the Soudan of Syrie:\nFor when they came from any strange place\nHe would of his benigne courtesy\nMake them good cheer, and busily espy\nTidings of sundry regnes, for to lear\nThe wonders that they mighte see or hear.\n\nAmonges other thinges, specially\nThese merchants have him told of Dame Constance\nSo great nobless, in earnest so royally,\nThat this Soudan hath caught so great pleasance\nTo have her figure in his remembrance,\nThat all his lust, and all his busy cure,\nWas for to love her while his life may dure.\n\nParaventure in thilke large book,\nWhich that men call the heaven, y-written was\nWith starres, when that he his birthe took,\nThat he for love should have his death, alas!\nFor in the starres, clearer than is glass,\nIs written, God wot, whoso could it read,\nThe death of every man withoute dread.\n\nIn starres many a winter therebeforn\nWas writ the death of Hector, Achilles,\nOf Pompey, Julius, ere they were born;\nThe strife of Thebes; and of Hercules,\nOf Samson, Turnus, and of Socrates\nThe death; but mennes wittes be so dull,\nThat no wight can well read it at the full.\n\nThis Soudan for his privy council sent,\nAnd, shortly of this matter for to pace,\nHe hath to them declared his intent,\nAnd told them certain, but he might have grace\nTo have Constance, within a little space,\nHe was but dead; and charged them in hie\nTo shape for his life some remedy.\n\nDiverse men diverse thinges said;\nAnd arguments they casten up and down;\nMany a subtle reason forth they laid;\nThey speak of magic, and abusion;\nBut finally, as in conclusion,\nThey cannot see in that none avantage,\nNor in no other way, save marriage.\n\nThen saw they therein such difficulty\nBy way of reason, for to speak all plain,\nBecause that there was such diversity\nBetween their bothe lawes, that they sayn,\nThey trowe that no Christian prince would fain\nWedden his child under our lawe sweet,\nThat us was given by Mahound our prophete.\n\nAnd he answered: \"Rather than I lose\nConstance, I will be christen'd doubteless\nI must be hers, I may none other choose,\nI pray you hold your arguments in peace,\nSave my life, and be not reckeless\nTo gette her that hath my life in cure,\nFor in this woe I may not long endure.\"\n\nWhat needeth greater dilatation?\nI say, by treaty and ambassadry,\nAnd by the Pope's mediation,\nAnd all the Church, and all the chivalry,\nThat in destruction of Mah'metry,\nAnd in increase of Christe's lawe dear,\nThey be accorded so as ye may hear;\n\nHow that the Soudan, and his baronage,\nAnd all his lieges, shall y-christen'd be,\nAnd he shall have Constance in marriage,\nAnd certain gold, I n'ot what quantity,\nAnd hereto find they suffisant surety.\nThe same accord is sworn on either side;\nNow, fair Constance, Almighty God thee guide!\n\nNow woulde some men waiten, as I guess,\nThat I should tellen all the purveyance,\nThe which the emperor of his noblesse\nHath shapen for his daughter, Dame Constance.\nWell may men know that so great ordinance\nMay no man tellen in a little clause,\nAs was arrayed for so high a cause.\n\nBishops be shapen with her for to wend,\nLordes, ladies, and knightes of renown,\nAnd other folk enough, this is the end.\nAnd notified is throughout all the town,\nThat every wight with great devotioun\nShould pray to Christ, that he this marriage\nReceive in gree, and speede this voyage.\n\nThe day is comen of her departing, --\nI say the woful fatal day is come,\nThat there may be no longer tarrying,\nBut forward they them dressen all and some.\nConstance, that was with sorrow all o'ercome,\nFull pale arose, and dressed her to wend,\nFor well she saw there was no other end.\n\nAlas! what wonder is it though she wept,\nThat shall be sent to a strange nation\nFrom friendes, that so tenderly her kept,\nAnd to be bound under subjection\nof one, she knew not his condition?\nHusbands be all good, and have been of yore,\nThat knowe wives; I dare say no more.\n\n\"Father,\" she said, \"thy wretched child Constance,\nThy younge daughter, foster'd up so soft,\nAnd you, my mother, my sov'reign pleasance\nOver all thing, out-taken Christ on loft,\nConstance your child her recommendeth oft\nUnto your grace; for I shall to Syrie,\nNor shall I ever see you more with eye.\n\n\"Alas! unto the barbarous nation\nI must anon, since that it is your will:\nBut Christ, that starf for our redemption,\nSo give me grace his hestes to fulfil.\nI, wretched woman, no force though I spill!\nWomen are born to thraldom and penance,\nAnd to be under mannes governance.\"\n\nI trow at Troy when Pyrrhus brake the wall,\nOr Ilion burnt, or Thebes the city,\nNor at Rome for the harm through Hannibal,\nThat Romans hath y-vanquish'd times three,\nWas heard such tender weeping for pity,\nAs in the chamber was for her parting;\nBut forth she must, whether she weep or sing.\n\nO firste moving cruel Firmament,\nWith thy diurnal sway that crowdest aye,\nAnd hurtlest all from East till Occident\nThat naturally would hold another way;\nThy crowding set the heav'n in such array\nAt the beginning of this fierce voyage,\nThat cruel Mars hath slain this marriage.\n\nUnfortunate ascendant tortuous,\nOf which the lord is helpless fall'n, alas!\nOut of his angle into the darkest house;\nO Mars, O Atyzar, as in this case;\nO feeble Moon, unhappy is thy pace.\nThou knittest thee where thou art not receiv'd,\nWhere thou wert well, from thennes art thou weiv'd.\n\nImprudent emperor of Rome, alas!\nWas there no philosopher in all thy town?\nIs no time bet than other in such case?\nOf voyage is there none election,\nNamely to folk of high condition,\nNot when a root is of a birth y-know?\nAlas! we be too lewed, or too slow.\n\nTo ship was brought this woeful faire maid\nSolemnely, with every circumstance:\n\"Now Jesus Christ be with you all,\" she said.\nThere is no more,but \"Farewell, fair Constance.\"\nShe pained her to make good countenance.\nAnd forth I let her sail in this manner,\nAnd turn I will again to my matter.\n\nThe mother of the Soudan, well of vices,\nEspied hath her sone's plain intent,\nHow he will leave his olde sacrifices:\nAnd right anon she for her council sent,\nAnd they be come, to knowe what she meant,\nAnd when assembled was this folk in fere,\nShe sat her down, and said as ye shall hear.\n\n\"Lordes,\" she said, \"ye knowen every one,\nHow that my son in point is for to lete\nThe holy lawes of our Alkaron,\nGiven by God's messenger Mahomete:\nBut one avow to greate God I hete,\nLife shall rather out of my body start,\nThan Mahomet's law go out of mine heart.\n\n\"What should us tiden of this newe law,\nBut thraldom to our bodies, and penance,\nAnd afterward in hell to be y-draw,\nFor we renied Mahound our creance?\nBut, lordes, will ye maken assurance,\nAs I shall say, assenting to my lore?\nAnd I shall make us safe for evermore.\"\n\nThey sworen and assented every man\nTo live with her and die, and by her stand:\nAnd every one, in the best wise he can,\nTo strengthen her shall all his friendes fand.\nAnd she hath this emprise taken in hand,\nWhich ye shall heare that I shall devise;\nAnd to them all she spake right in this wise.\n\n\"We shall first feign us Christendom to take;\nCold water shall not grieve us but a lite:\nAnd I shall such a feast and revel make,\nThat, as I trow, I shall the Soudan quite.\nFor though his wife be christen'd ne'er so white,\nShe shall have need to wash away the red,\nThough she a fount of water with her led.\"\n\nO Soudaness, root of iniquity,\nVirago thou, Semiramis the second!\nO serpent under femininity,\nLike to the serpent deep in hell y-bound!\nO feigned woman, all that may confound\nVirtue and innocence, through thy malice,\nIs bred in thee, as nest of every vice!\n\nO Satan envious! since thilke day\nThat thou wert chased from our heritage,\nWell knowest thou to woman th' olde way.\nThou madest Eve to bring us in servage:\nThou wilt fordo this Christian marriage:\nThine instrument so (well-away the while!)\nMak'st thou of women when thou wilt beguile.\n\nThis Soudaness, whom I thus blame and warray,\nLet privily her council go their way:\nWhy should I in this tale longer tarry?\nShe rode unto the Soudan on a day,\nAnd said him, that she would reny her lay,\nAnd Christendom of priestes' handes fong,\nRepenting her she heathen was so long;\n\nBeseeching him to do her that honour,\nThat she might have the Christian folk to feast:\n\"To please them I will do my labour.\"\nThe Soudan said, \"I will do at your hest,\"\nAnd kneeling, thanked her for that request;\nSo glad he was, he wist not what to say.\nShe kiss'd her son, and home she went her way.\n\nArrived be these Christian folk to land\nIn Syria, with a great solemne rout,\nAnd hastily this Soudan sent his sond,\nFirst to his mother, and all the realm about,\nAnd said, his wife was comen out of doubt,\nAnd pray'd them for to ride again the queen,\nThe honour of his regne to sustene.\n\nGreat was the press, and rich was the array\nOf Syrians and Romans met in fere.\nThe mother of the Soudan rich and gay\nReceived her with all so glad a cheer\nAs any mother might her daughter dear\nAnd to the nexte city there beside\nA softe pace solemnely they ride.\n\nNought, trow I, the triumph of Julius\nOf which that Lucan maketh such a boast,\nWas royaller, or more curious,\nThan was th' assembly of this blissful host\nBut O this scorpion, this wicked ghost,\nThe Soudaness, for all her flattering\nCast under this full mortally to sting.\n\nThe Soudan came himself soon after this,\nSo royally, that wonder is to tell,\nAnd welcomed her with all joy and bliss.\nAnd thus in mirth and joy I let them dwell.\nThe fruit of his matter is that I tell;\nWhen the time came, men thought it for the best\nThat revel stint, and men go to their rest.\n\nThe time is come that this old Soudaness\nOrdained hath the feast of which I told,\nAnd to the feast the Christian folk them dress\nIn general, yea, bothe young and old.\nThere may men feast and royalty behold,\nAnd dainties more than I can you devise;\nBut all too dear they bought it ere they rise.\n\nO sudden woe, that ev'r art successour\nTo worldly bliss! sprent is with bitterness\nTh' end of our joy, of our worldly labour;\nWoe occupies the fine of our gladness.\nHearken this counsel, for thy sickerness:\nUpon thy glade days have in thy mind\nThe unware woe of harm, that comes behind.\n\nFor, shortly for to tell it at a word,\nThe Soudan and the Christians every one\nWere all to-hewn and sticked at the board,\nBut it were only Dame Constance alone.\nThis olde Soudaness, this cursed crone,\nHad with her friendes done this cursed deed,\nFor she herself would all the country lead.\n\nNor there was Syrian that was converted,\nThat of the counsel of the Soudan wot,\nThat was not all to-hewn, ere he asterted:\nAnd Constance have they ta'en anon foot-hot,\nAnd in a ship all steereless, God wot,\nThey have her set, and bid her learn to sail\nOut of Syria again-ward to Itale.\n\nA certain treasure that she thither lad,\nAnd, sooth to say, of victual great plenty,\nThey have her giv'n, and clothes eke she had\nAnd forth she sailed in the salte sea:\nO my Constance, full of benignity,\nO emperores younge daughter dear,\nHe that is lord of fortune be thy steer!\n\nShe bless'd herself, and with full piteous voice\nUnto the cross of Christ thus saide she;\n\"O dear, O wealful altar, holy cross,\nRed of the Lambes blood, full of pity,\nThat wash'd the world from old iniquity,\nMe from the fiend and from his clawes keep,\nThat day that I shall drenchen in the deepe.\n\n\"Victorious tree, protection of the true,\nThat only worthy were for to bear\nThe King of Heaven, with his woundes new,\nThe white Lamb, that hurt was with a spear;\nFlemer of fiendes out of him and her\nOn which thy limbes faithfully extend,\nMe keep, and give me might my life to mend.\"\n\nYeares and days floated this creature\nThroughout the sea of Greece, unto the strait\nOf Maroc, as it was her a venture:\nOn many a sorry meal now may she bait,\nAfter her death full often may she wait,\nEre that the wilde waves will her drive\nUnto the place there as she shall arrive.\n\nMen mighten aske, why she was not slain?\nEke at the feast who might her body save?\nAnd I answer to that demand again,\nWho saved Daniel in the horrible cave,\nWhere every wight, save he, master or knave,\nWas with the lion frett, ere he astart?\nNo wight but God, that he bare in his heart.\n\nGod list to shew his wonderful miracle\nIn her, that we should see his mighty workes:\nChrist, which that is to every harm triacle,\nBy certain meanes oft, as knowe clerkes,\nDoth thing for certain ende, that full derk is\nTo manne's wit, that for our, ignorance\nNe cannot know his prudent purveyance.\n\nNow since she was not at the feast y-slaw,\nWho kepte her from drowning in the sea?\nWho kepte Jonas in the fish's maw,\nTill he was spouted up at Nineveh?\nWell may men know, it was no wight but he\nThat kept the Hebrew people from drowning,\nWith drye feet throughout the sea passing.\n\nWho bade the foure spirits of tempest,\nThat power have t' annoye land and sea,\nBoth north and south, and also west and east,\nAnnoye neither sea, nor land, nor tree?\nSoothly the commander of that was he\nThat from the tempest aye this woman kept,\nAs well when she awoke as when she slept.\n\nWhere might this woman meat and drinke have?\nThree year and more how lasted her vitaille?\nWho fed the Egyptian Mary in the cave\nOr in desert? no wight but Christ sans faille.\nFive thousand folk it was as great marvaille\nWith loaves five and fishes two to feed\nGod sent his foison at her greate need.\n\nShe drived forth into our ocean\nThroughout our wilde sea, till at the last\nUnder an hold, that nempnen I not can,\nFar in Northumberland, the wave her cast\nAnd in the sand her ship sticked so fast\nThat thennes would it not in all a tide:\nThe will of Christ was that she should abide.\n\nThe Constable of the castle down did fare\nTo see this wreck, and all the ship he sought,\nAnd found this weary woman full of care;\nHe found also the treasure that she brought:\nIn her language mercy she besought,\nThe life out of her body for to twin,\nHer to deliver of woe that she was in.\n\nA manner Latin corrupt  was her speech,\nBut algate thereby was she understond.\nThe Constable, when him list no longer seech,\nThis woeful woman brought he to the lond.\nShe kneeled down, and thanked Godde's sond;\nBut what she was she would to no man say\nFor foul nor fair, although that she should dey.\n\nShe said, she was so mazed in the sea,\nThat she forgot her minde, by her truth.\nThe Constable had of her so great pity\nAnd eke his wife, that they wept for ruth:\nShe was so diligent withoute slouth\nTo serve and please every one in that place,\nThat all her lov'd, that looked in her face.\n\nThe Constable and Dame Hermegild his wife\nWere Pagans, and that country every where;\nBut Hermegild lov'd Constance as her life;\nAnd Constance had so long sojourned there\nIn orisons, with many a bitter tear,\nTill Jesus had converted through His grace\nDame Hermegild, Constabless of that place.\n\nIn all that land no Christians durste rout;\nAll Christian folk had fled from that country\nThrough Pagans, that conquered all about\nThe plages of the North by land and sea.\nTo Wales had fled the Christianity\nOf olde Britons, dwelling in this isle;\nThere was their refuge for the meanewhile.\n\nBut yet n'ere Christian Britons so exiled,\nThat there n'ere some which in their privity\nHonoured Christ, and heathen folk beguiled;\nAnd nigh the castle such there dwelled three:\nAnd one of them was blind, and might not see,\nBut it were with thilk eyen of his mind,\nWith which men maye see when they be blind.\n\nBright was the sun, as in a summer's day,\nFor which the Constable, and his wife also,\nAnd Constance, have y-take the righte way\nToward the sea a furlong way or two,\nTo playen, and to roame to and fro;\nAnd in their walk this blinde man they met,\nCrooked and old, with eyen fast y-shet.\n\n\"In the name of Christ,\" cried this blind Briton,\n\"Dame Hermegild, give me my sight again!\"\nThis lady wax'd afrayed of that soun',\nLest that her husband, shortly for to sayn,\nWould her for Jesus Christe's love have slain,\nTill Constance made her hold, and bade her wirch\nThe will of Christ, as daughter of holy Church\n\nThe Constable wax'd abashed of that sight,\nAnd saide; \"What amounteth all this fare?\"\nConstance answered; \"Sir, it is Christ's might,\nThat helpeth folk out of the fiendes snare:\"\nAnd so farforth she gan our law declare,\nThat she the Constable, ere that it were eve,\nConverted, and on Christ made him believe.\n\nThis Constable was not lord of the place\nOf which I speak, there as he Constance fand,\nBut kept it strongly many a winter space,\nUnder Alla, king of Northumberland,\nThat was full wise, and worthy of his hand\nAgainst the Scotes, as men may well hear;\nBut turn I will again to my mattere.\n\nSatan, that ever us waiteth to beguile,\nSaw of Constance all her perfectioun,\nAnd cast anon how he might quite her while;\nAnd made a young knight, that dwelt in that town,\nLove her so hot of foul affectioun,\nThat verily him thought that he should spill\nBut he of her might ones have his will.\n\nHe wooed her, but it availed nought;\nShe woulde do no sinne by no way:\nAnd for despite, he compassed his thought\nTo make her a shameful death to dey;\nHe waiteth when the Constable is away,\nAnd privily upon a night he crept\nIn Hermegilda's chamber while she slept.\n\nWeary, forwaked in her orisons,\nSleepeth Constance, and Hermegild also.\nThis knight, through Satanas' temptation;\nAll softetly is to the bed y-go,\nAnd cut the throat of Hermegild in two,\nAnd laid the bloody knife by Dame Constance,\nAnd went his way, there God give him mischance.\n\nSoon after came the Constable home again,\nAnd eke Alla that king was of that land,\nAnd saw his wife dispiteously slain,\nFor which full oft he wept and wrung his hand;\nAnd ill the bed the bloody knife he fand\nBy Dame Constance: Alas! what might she say?\nFor very woe her wit was all away.\n\nTo King Alla was told all this mischance\nAnd eke the time, and where, and in what wise\nThat in a ship was founden this Constance,\nAs here before ye have me heard devise:\nThe kinges heart for pity gan agrise,\nWhen he saw so benign a creature\nFall in disease and in misaventure.\n\nFor as the lamb toward his death is brought,\nSo stood this innocent before the king:\nThis false knight, that had this treason wrought,\nBore her in hand that she had done this thing:\nBut natheless there was great murmuring\nAmong the people, that say they cannot guess\nThat she had done so great a wickedness.\n\nFor they had seen her ever virtuous,\nAnd loving Hermegild right as her life:\nOf this bare witness each one in that house,\nSave he that Hermegild slew with his knife:\nThis gentle king had caught a great motife\nOf this witness, and thought he would inquere\nDeeper into this case, the truth to lear.\n\nAlas! Constance, thou has no champion,\nNor fighte canst thou not, so well-away!\nBut he that starf for our redemption,\nAnd bound Satan, and yet li'th where he lay,\nSo be thy stronge champion this day:\nFor, but Christ upon thee miracle kithe,\nWithoute guilt thou shalt be slain as swithe.\n\nShe set her down on knees, and thus she said;\n\"Immortal God, that savedest Susanne\nFrom false blame; and thou merciful maid,\nMary I mean, the daughter to Saint Anne,\nBefore whose child the angels sing Osanne,\nIf I be guiltless of this felony,\nMy succour be, or elles shall I die.\"\n\nHave ye not seen sometime a pale face\n(Among a press) of him that hath been lad\nToward his death, where he getteth no grace,\nAnd such a colour in his face hath had,\nMen mighte know him that was so bestad\nAmonges all the faces in that rout?\nSo stood Constance, and looked her about.\n\nO queenes living in prosperity,\nDuchesses, and ye ladies every one,\nHave some ruth on her adversity!\nAn emperor's daughter, she stood alone;\nShe had no wight to whom to make her moan.\nO blood royal, that standest in this drede,\nFar be thy friendes in thy greate need!\n\nThis king Alla had such compassioun,\nAs gentle heart is full filled of pity,\nThat from his eyen ran the water down\n\"Now hastily do fetch a book,\" quoth he;\n\"And if this knight will sweare, how that she\nThis woman slew, yet will we us advise\nWhom that we will that shall be our justice.\"\n\nA Briton book, written with Evangiles,\nWas  fetched, and on this book he swore anon\nShe guilty was; and, in the meanewhiles,\nAn hand him smote upon the necke bone,\nThat down he fell at once right as a stone:\nAnd both his eyen burst out of his face\nIn sight of ev'rybody in that place.\n\nA voice was heard, in general audience,\nThat said; \"Thou hast deslander'd guilteless\nThe daughter of holy Church in high presence;\nThus hast thou done, and yet hold I my peace?\"\nOf this marvel aghast was all the press,\nAs mazed folk they stood every one\nFor dread of wreake, save Constance alone.\n\nGreat was the dread and eke the repentance\nOf them that hadde wrong suspicion\nUpon this sely innocent Constance;\nAnd for this miracle, in conclusion,\nAnd by Constance's mediation,\nThe king, and many another in that place,\nConverted was, thanked be Christe's grace!\n\nThis false knight was slain for his untruth\nBy judgement of Alla hastily;\nAnd yet Constance had of his death great ruth;\nAnd after this Jesus of his mercy\nMade Alla wedde full solemnely\nThis holy woman, that is so bright and sheen,\nAnd thus hath Christ y-made Constance a queen.\n\nBut who was woeful, if I shall not lie,\nOf this wedding but Donegild, and no mo',\nThe kinge's mother, full of tyranny?\nHer thought her cursed heart would burst in two;\nShe would not that her son had done so;\nHer thought it a despite that he should take\nSo strange a creature unto his make.\n\nMe list not of the chaff nor of the stre\nMake so long a tale, as of the corn.\nWhat should I tellen of the royalty\nOf this marriage, or which course goes beforn,\nWho bloweth in a trump or in an horn?\nThe fruit of every tale is for to say;\nThey eat and drink, and dance, and sing, and play.\n\nThey go to bed, as it was skill and right;\nFor though that wives be full holy things,\nThey muste take in patience at night\nSuch manner necessaries as be pleasings\nTo folk that have y-wedded them with rings,\nAnd lay a lite their holiness aside\nAs for the time, it may no better betide.\n\nOn her he got a knave child anon,\nAnd to a Bishop and to his Constable eke\nHe took his wife to keep, when he is gone\nTo Scotland-ward, his foemen for to seek.\nNow fair Constance, that is so humble and meek,\nSo long is gone with childe till that still\nShe held her chamb'r, abiding Christe's will\n\nThe time is come, a knave child she bare;\nMauricius at the font-stone they him call.\nThis Constable doth forth come a messenger,\nAnd wrote unto his king that clep'd was All',\nHow that this blissful tiding is befall,\nAnd other tidings speedful for to say\nHe hath the letter, and forth he go'th his way.\n\nThis messenger, to do his avantage,\nUnto the kinge's mother rideth swithe,\nAnd saluteth her full fair in his language.\n\"Madame,\" quoth he, \"ye may be glad and blithe,\nAnd thanke God an hundred thousand sithe;\nMy lady queen hath child, withoute doubt,\nTo joy and bliss of all this realm about.\n\n\"Lo, here the letter sealed of this thing,\nThat I must bear with all the haste I may:\nIf ye will aught unto your son the king,\nI am your servant both by night and day.\"\nDonegild answer'd, \"As now at this time, nay;\nBut here I will all night thou take thy rest,\nTo-morrow will I say thee what me lest.\"\n\nThis messenger drank sadly ale and wine,\nAnd stolen were his letters privily\nOut of his box, while he slept as a swine;\nAnd counterfeited was full subtilly\nAnother letter, wrote full sinfully,\nUnto the king, direct of this mattere\nFrom his Constable, as ye shall after hear.\n\nThis letter said, the queen deliver'd was\nOf so horrible a fiendlike creature,\nThat in the castle none so hardy was\nThat any while he durst therein endure:\nThe mother was an elf by aventure\nBecome, by charmes or by sorcery,\nAnd every man hated her company.\n\nWoe was this king when he this letter had seen,\nBut to no wight he told his sorrows sore,\nBut with his owen hand he wrote again,\n\"Welcome the sond of Christ for evermore\nTo me, that am now learned in this lore:\nLord, welcome be thy lust and thy pleasance,\nMy lust I put all in thine ordinance.\n\n\"Keepe this child, albeit foul or fair,\nAnd eke my wife, unto mine homecoming:\nChrist when him list may send to me an heir\nMore agreeable than this to my liking.\"\nThis letter he sealed, privily weeping.\nWhich to the messenger was taken soon,\nAnd forth he went, there is no more to do'n.\n\nO messenger full fill'd of drunkenness,\nStrong is thy breath, thy limbes falter aye,\nAnd thou betrayest alle secretness;\nThy mind is lorn, thou janglest as a jay;\nThy face is turned in a new array;\nWhere drunkenness reigneth in any rout,\nThere is no counsel hid, withoute doubt.\n\nO Donegild, I have no English dign\nUnto thy malice, and thy tyranny:\nAnd therefore to the fiend I thee resign,\nLet him indite of all thy treachery\n'Fy, mannish, fy! O nay, by God I lie;\nFy, fiendlike spirit! for I dare well tell,\nThough thou here walk, thy spirit is in hell.\n\nThis messenger came from the king again,\nAnd at the kinge's mother's court he light,\nAnd she was of this messenger full fain,\nAnd pleased him in all that e'er she might.\nHe drank, and well his girdle underpight;\nHe slept, and eke he snored in his guise\nAll night, until the sun began to rise.\n\nEft were his letters stolen every one,\nAnd counterfeited letters in this wise:\nThe king commanded his Constable anon,\nOn pain of hanging and of high jewise,\nThat he should suffer in no manner wise\nConstance within his regne for to abide\nThree dayes, and a quarter of a tide;\n\nBut in the same ship as he her fand,\nHer and her younge son, and all her gear,\nHe shoulde put, and crowd her from the land,\nAnd charge her, that she never eft come there.\nO my Constance, well may thy ghost have fear,\nAnd sleeping in thy dream be in penance,\nWhen Donegild cast all this ordinance.\n\nThis messenger, on morrow when he woke,\nUnto the castle held the nexte way,\nAnd to the constable the letter took;\nAnd when he this dispiteous letter sey,\nFull oft he said, \"Alas, and well-away!\nLord Christ,\" quoth he, \"how may this world endure?\nSo full of sin is many a creature.\n\n\"O mighty God, if that it be thy will,\nSince thou art rightful judge, how may it be\nThat thou wilt suffer innocence to spill,\nAnd wicked folk reign in prosperity?\nAh! good Constance, alas! so woe is me,\nThat I must be thy tormentor, or dey\nA shameful death, there is no other way.\n\nWept bothe young and old in all that place,\nWhen that the king this cursed letter sent;\nAnd Constance, with a deadly pale face,\nThe fourthe day toward her ship she went.\nBut natheless she took in good intent\nThe will of Christ, and kneeling on the strond\nShe saide, \"Lord, aye welcome be thy sond\n\n\"He that me kepte from the false blame,\nWhile I was in the land amonges you,\nHe can me keep from harm and eke from shame\nIn the salt sea, although I see not how\nAs strong as ever he was, he is yet now,\nIn him trust I, and in his mother dere,\nThat is to me my sail and eke my stere.\"\n\nHer little child lay weeping in her arm\nAnd, kneeling, piteously to him she said\n\"Peace, little son, I will do thee no harm:\"\nWith that her kerchief off her head she braid,\nAnd over his little eyen she it laid,\nAnd in her arm she lulled it full fast,\nAnd unto heav'n her eyen up she cast.\n\n\"Mother,\" quoth she, \"and maiden bright, Mary,\nSooth is, that through a woman's eggement\nMankind was lorn, and damned aye to die;\nFor which thy child was on a cross y-rent:\nThy blissful eyen saw all his torment,\nThen is there no comparison between\nThy woe, and any woe man may sustene.\n\n\"Thou saw'st thy child y-slain before thine eyen,\nAnd yet now lives my little child, parfay:\nNow, lady bright, to whom the woeful cryen,\nThou glory of womanhood, thou faire may,\nThou haven of refuge, bright star of day,\nRue on my child, that of thy gentleness\nRuest on every rueful in distress.\n\n\"O little child, alas! what is thy guilt,\nThat never wroughtest sin as yet, pardie?\nWhy will thine harde father have thee spilt?\nO mercy, deare Constable,\" quoth she,\n\"And let my little child here dwell with thee:\nAnd if thou dar'st not save him from blame,\nSo kiss him ones in his father's name.\"\n\nTherewith she looked backward to the land,\nAnd saide, \"Farewell, husband rutheless!\"\nAnd up she rose, and walked down the strand\nToward the ship, her following all the press:\nAnd ever she pray'd her child to hold his peace,\nAnd took her leave, and with an holy intent\nShe blessed her, and to the ship she went.\n\nVictualed was the ship, it is no drede,\nAbundantly for her a full long space:\nAnd other necessaries that should need\nShe had enough, heried be Godde's grace:\nFor wind and weather, Almighty God purchase,\nAnd bring her home; I can no better say;\nBut in the sea she drived forth her way.\n\nAlla the king came home soon after this\nUnto the castle, of the which I told,\nAnd asked where his wife and his child is;\nThe Constable gan about his heart feel cold,\nAnd plainly all the matter he him told\nAs ye have heard; I can tell it no better;\nAnd shew'd the king his seal, and eke his letter\n\nAnd saide; \"Lord, as ye commanded me\nOn pain of death, so have I done certain.\"\nThe messenger tormented was, till he\nMuste beknow, and tell it flat and plain,\nFrom night to night in what place he had lain;\nAnd thus, by wit and subtle inquiring,\nImagin'd was by whom this harm gan spring.\n\nThe hand was known that had the letter wrote,\nAnd all the venom of the cursed deed;\nBut in what wise, certainly I know not.\nTh' effect is this, that Alla, out of drede,\nHis mother slew, that may men plainly read,\nFor that she traitor was to her liegeance:\nThus ended olde Donegild with mischance.\n\nThe sorrow that this Alla night and day\nMade for his wife, and for his child also,\nThere is no tongue that it telle may.\nBut now will I again to Constance go,\nThat floated in the sea in pain and woe\nFive year and more, as liked Christe's sond,\nEre that her ship approached to the lond.\n\nUnder an heathen castle, at the last,\nOf which the name in my text I not find,\nConstance and eke her child the sea upcast.\nAlmighty God, that saved all mankind,\nHave on Constance and on her child some mind,\nThat fallen is in heathen hand eftsoon\nIn point to spill, as I shall tell you soon!\n\nDown from the castle came there many a wight\nTo gauren on this ship, and on Constance:\nBut shortly from the castle, on a night,\nThe lorde's steward, -- God give him mischance, --\nA thief that had renied our creance,\nCame to the ship alone, and said he would\nHer leman be, whether she would or n'ould.\n\nWoe was this wretched woman then begone;\nHer child cri'd, and she cried piteously:\nBut blissful Mary help'd her right anon,\nFor, with her struggling well and mightily,\nThe thief fell overboard all suddenly,\nAnd in the sea he drenched for vengeance,\nAnd thus hath Christ unwemmed kept Constance.\n\nO foul lust of luxury! lo thine end!\nNot only that thou faintest manne's mind,\nBut verily thou wilt his body shend.\nTh' end of thy work, or of thy lustes blind,\nIs complaining: how many may men find,\nThat not for work, sometimes, but for th' intent\nTo do this sin, be either slain or shent?\n\nHow may this weake woman have the strength\nHer to defend against this renegate?\nO Goliath, unmeasurable of length,\nHow mighte David make thee so mate?\nSo young, and of armour so desolate,\nHow durst he look upon thy dreadful face?\nWell may men see it was but Godde's grace.\n\nWho gave Judith courage or hardiness\nTo slay him, Holofernes, in his tent,\nAnd to deliver out of wretchedness\nThe people of God? I say for this intent\nThat right as God spirit of vigour sent\nTo them, and saved them out of mischance,\nSo sent he might and vigour to Constance.\n\nForth went her ship throughout the narrow mouth\nOf Jubaltare and Septe, driving alway,\nSometime west, and sometime north and south,\nAnd sometime east, full many a weary day:\nTill Christe's mother (blessed be she aye)\nHad shaped through her endeless goodness\nTo make an end of all her heaviness.\n\nNow let us stint of Constance but a throw,\nAnd speak we of the Roman emperor,\nThat out of Syria had by letters know\nThe slaughter of Christian folk, and dishonor\nDone to his daughter by a false traitor,\nI mean the cursed wicked Soudaness,\nThat at the feast let slay both more and less.\n\nFor which this emperor had sent anon\nHis senator, with royal ordinance,\nAnd other lordes, God wot, many a one,\nOn Syrians to take high vengeance:\nThey burn and slay, and bring them to mischance\nFull many a day: but shortly this is th' end,\nHomeward to Rome they shaped them to wend.\n\nThis senator repaired with victory\nTo Rome-ward, sailing full royally,\nAnd met the ship driving, as saith the story,\nIn which Constance sat full piteously:\nAnd nothing knew he what she was, nor why\nShe was in such array; nor she will say\nOf her estate, although that she should dey.\n\nHe brought her unto Rome, and to his wife\nHe gave her, and her younge son also:\nAnd with the senator she led her life.\nThus can our Lady bringen out of woe\nWoeful Constance, and many another mo':\nAnd longe time she dwelled in that place,\nIn holy works ever, as was her grace.\n\nThe senatores wife her aunte was,\nBut for all that she knew her ne'er the more:\nI will no longer tarry in this case,\nBut to King Alla, whom I spake of yore,\nThat for his wife wept and sighed sore,\nI will return, and leave I will Constance\nUnder the senatores governance.\n\nKing Alla, which that had his mother slain,\nUpon a day fell in such repentance;\nThat, if I shortly tell it shall and plain,\nTo Rome he came to receive his penitance,\nAnd put him in the Pope's ordinance\nIn high and low, and Jesus Christ besought\nForgive his wicked works that he had wrought.\n\nThe fame anon throughout the town is borne,\nHow Alla king shall come on pilgrimage,\nBy harbingers that wente him beforn,\nFor which the senator, as was usage,\nRode him again, and many of his lineage,\nAs well to show his high magnificence,\nAs to do any king a reverence.\n\nGreat cheere did this noble senator\nTo King Alla and he to him also;\nEach of them did the other great honor;\nAnd so befell, that in a day or two\nThis senator did to King Alla go\nTo feast, and shortly, if I shall not lie,\nConstance's son went in his company.\n\nSome men would say, at request of Constance\nThis senator had led this child to feast:\nI may not tellen every circumstance,\nBe as be may, there was he at the least:\nBut sooth is this, that at his mother's hest\nBefore Alla during the meates space,\nThe child stood, looking in the kinges face.\n\nThis Alla king had of this child great wonder,\nAnd to the senator he said anon,\n\"Whose is that faire child that standeth yonder?\"\n\"I n'ot,\" quoth he, \"by God and by Saint John;\nA mother he hath, but father hath he none,\nThat I of wot:\" and shortly in a stound\nHe told to Alla how this child was found.\n\n\"But God wot,\" quoth this senator also,\n\"So virtuous a liver in all my life\nI never saw, as she, nor heard of mo'\nOf worldly woman, maiden, widow or wife:\nI dare well say she hadde lever a knife\nThroughout her breast, than be a woman wick',\nThere is no man could bring her to that prick.\n\nNow was this child as like unto Constance\nAs possible is a creature to be:\nThis Alla had the face in remembrance\nOf Dame Constance, and thereon mused he,\nIf that the childe's mother were aught she\nThat was his wife; and privily he sight,\nAnd sped him from the table that he might.\n\n\"Parfay,\" thought he, \"phantom is in mine head.\nI ought to deem, of skilful judgement,\nThat in the salte sea my wife is dead.\"\nAnd afterward he made his argument,\n\"What wot I, if that Christ have hither sent\nMy wife by sea, as well as he her sent\nTo my country, from thennes that she went?\"\n\nAnd, after noon, home with the senator.\nWent Alla, for to see this wondrous chance.\nThis senator did Alla great honor,\nAnd hastily he sent after Constance:\nBut truste well, her liste not to dance.\nWhen that she wiste wherefore was that sond,\nUnneth upon her feet she mighte stand.\n\nWhen Alla saw his wife, fair he her gret,\nAnd wept, that it was ruthe for to see,\nFor at the firste look he on her set\nHe knew well verily that it was she:\nAnd she, for sorrow, as dumb stood as a tree:\nSo was her hearte shut in her distress,\nWhen she remember'd his unkindeness.\n\nTwice she swooned in his owen sight,\nHe wept and him excused piteously:\n\"Now God,\" quoth he, \"and all his hallows bright\nSo wisly on my soule have mercy,\nThat of your harm as guilteless am I,\nAs is Maurice my son, so like your face,\nElse may the fiend me fetch out of this place.\"\n\nLong was the sobbing and the bitter pain,\nEre that their woeful heartes mighte cease;\nGreat was the pity for to hear them plain,\nThrough whiche plaintes gan their woe increase.\nI pray you all my labour to release,\nI may not tell all their woe till to-morrow,\nI am so weary for to speak of sorrow.\n\nBut finally, when that the sooth is wist,\nThat Alla guiltless was of all her woe,\nI trow an hundred times have they kiss'd,\nAnd such a bliss is there betwixt them two,\nThat, save the joy that lasteth evermo',\nThere is none like, that any creature\nHath seen, or shall see, while the world may dure.\n\nThen prayed she her husband meekely\nIn the relief of her long piteous pine,\nThat he would pray her father specially,\nThat of his majesty he would incline\nTo vouchesafe some day with him to dine:\nShe pray'd him eke, that he should by no way\nUnto her father no word of her say.\n\nSome men would say, how that the child Maurice\nDid this message unto the emperor:\nBut, as I guess, Alla was not so nice,\nTo him that is so sovereign of honor\nAs he that is of Christian folk the flow'r,\nSend any child, but better 'tis to deem\nHe went himself; and so it may well seem.\n\nThis emperor hath granted gentilly\nTo come to dinner, as he him besought:\nAnd well rede I, he looked busily\nUpon this child, and on his daughter thought.\nAlla went to his inn, and as him ought\nArrayed for this feast in every wise,\nAs farforth as his cunning may suffice.\n\nThe morrow came, and Alla gan him dress,\nAnd eke his wife, the emperor to meet:\nAnd forth they rode in joy and in gladness,\nAnd when she saw her father in the street,\nShe lighted down and fell before his feet.\n\"Father,\" quoth she, \"your younge child Constance\nIs now full clean out of your remembrance.\n\n\"I am your daughter, your Constance,\" quoth she,\n\"That whilom ye have sent into Syrie;\nIt am I, father, that in the salt sea\nWas put alone, and damned for to die.\nNow, goode father, I you mercy cry,\nSend me no more into none heatheness,\nBut thank my lord here of his kindeness.\"\n\nWho can the piteous joye tellen all,\nBetwixt them three, since they be thus y-met?\nBut of my tale make an end I shall,\nThe day goes fast, I will no longer let.\nThese gladde folk to dinner be y-set;\nIn joy and bliss at meat I let them dwell,\nA thousand fold well more than I can tell.\n\nThis child Maurice was since then emperor\nMade by the Pope, and lived Christianly,\nTo Christe's Churche did he great honor:\nBut I let all his story passe by,\nOf Constance is my tale especially,\nIn the olde Roman gestes men may find\nMaurice's life, I bear it not in mind.\n\nThis King Alla, when he his time sey,\nWith his Constance, his holy wife so sweet,\nTo England are they come the righte way,\nWhere they did live in joy and in quiet.\nBut little while it lasted, I you hete,\nJoy of this world for time will not abide,\nFrom day to night it changeth as the tide.\n\nWho liv'd ever in such delight one day,\nThat him not moved either conscience,\nOr ire, or talent, or some kind affray,\nEnvy, or pride, or passion, or offence?\nI say but for this ende this sentence,\nThat little while in joy or in pleasance\nLasted the bliss of Alla with Constance.\n\nFor death, that takes of high and low his rent,\nWhen passed was a year, even as I guess,\nOut of this world this King Alla he hent,\nFor whom Constance had full great heaviness.\nNow let us pray that God his soule bless:\nAnd Dame Constance, finally to say,\nToward the town of Rome went her way.\n\nTo Rome is come this holy creature,\nAnd findeth there her friendes whole and sound:\nNow is she scaped all her aventure:\nAnd when that she her father hath y-found,\nDown on her knees falleth she to ground,\nWeeping for tenderness in hearte blithe\nShe herieth God an hundred thousand sithe.\n\nIn virtue and in holy almes-deed\nThey liven all, and ne'er asunder wend;\nTill death departeth them, this life they lead:\nAnd fare now well, my tale is at an end\nNow Jesus Christ, that of his might may send\nJoy after woe, govern us in his grace\nAnd keep us alle that be in this place.",
+      "source": {
+        "name": "Geoffrey Chaucer · PoetryDB",
+        "url": "https://poetrydb.org/title/The%20Canterbury%20Tales%3A%20The%20Man%20of%20Law's%20Tale",
+        "trustTier": "community",
+        "author": "Geoffrey Chaucer"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:03:57.765Z",
+      "hash": "2363329710156fd2"
+    },
+    {
+      "id": "poetry:f27f68638468ed1b",
+      "type": "poem",
+      "title": "Book IV. Ode I. to Venus.",
+      "summary": "Again? new tumults in my breast?\n  Ah, spare me, Venus! let me, let me rest!\nI am not now, alas! the man\n  As in the gentle reign of my Queen Anne.",
+      "body": "Again? new tumults in my breast?\n  Ah, spare me, Venus! let me, let me rest!\nI am not now, alas! the man\n  As in the gentle reign of my Queen Anne.\nAh, sound no more thy soft alarms,\n  Nor circle sober fifty with thy charms.\nMother too fierce of dear desires!\n  Turn, turn to willing hearts your wanton fires,\nTo Number Five direct your doves,\n  There spread round Murray all your blooming loves\nNoble and young, who strikes the heart\n  With every sprightly, every decent part;\nEqual, the injured to defend,\n  To charm the mistress, or to fix the friend.\nHe, with a hundred arts refined,\n  Shall stretch thy conquests over half the kind;\nTo him each rival shall submit,\n  Make but his riches equal to his wit.\nThen shall thy form the marble grace,\n  (Thy Grecian form) and Chloe lend the face:\nHis house, embosom'd in the grove,\n  Sacred to social life and social love,\nShall glitter o'er the pendant green,\n  Where Thames reflects the visionary scene:\nThither, the silver-sounding lyres\n  Shall call the smiling Loves, and young Desires;\nThere, every Grace and Muse shall throng,\n  Exalt the dance, or animate the song;\nThere, youths and nymphs, in consort gay,\n  Shall hail the rising, close the parting day.\nWith me, alas! those joys are o'er;\n  For me, the vernal garlands bloom no more.\nAdieu! fond hope of mutual fire,\n  The still believing, still-renew'd desire;\nAdieu! the heart-expanding bowl,\n  And all the kind deceivers of the soul!\nBut why? ah, tell me, ah, too dear!\n  Steals down my cheek th' involuntary tear?\nWhy words so flowing, thoughts so free,\n  Stop, or turn nonsense, at one glance of thee?\nThee, dress'd in fancy's airy beam,\n  Absent I follow through th' extended dream;\nNow, now I seize, I clasp thy charms,\n  And now you burst (ah, cruel!) from my arms;\nAnd swiftly shoot along the Mall,\n  Or softly glide by the canal,\nNow shown by Cynthia's silver ray,\n  And now on rolling waters snatch'd away.",
+      "source": {
+        "name": "Alexander Pope · PoetryDB",
+        "url": "https://poetrydb.org/title/Book%20IV.%20Ode%20I.%20to%20Venus.",
+        "trustTier": "community",
+        "author": "Alexander Pope"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-25T13:03:57.765Z",
+      "hash": "f27f68638468ed1b"
+    },
+    {
+      "id": "apod:2016-03-09",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap160309.html",
+        "trustTier": "encyclopedic",
+        "date": "2016-03-09"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:53.371Z",
+      "hash": "7ac62f05b364b530"
+    },
+    {
+      "id": "apod:2004-01-27",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap040127.html",
+        "trustTier": "encyclopedic",
+        "date": "2004-01-27"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:53.371Z",
+      "hash": "0917ac0346e085a1"
+    },
+    {
+      "id": "apod:2021-09-05",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap210905.html",
+        "trustTier": "encyclopedic",
+        "date": "2021-09-05"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:53.371Z",
+      "hash": "f8ad579d87678821"
+    },
+    {
+      "id": "apod:2018-05-15",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Astronomical Society of Linz"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap180515.html",
+        "trustTier": "encyclopedic",
+        "date": "2018-05-15"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:53.371Z",
+      "hash": "77fe63f43fc7c990"
+    },
+    {
+      "id": "apod:2001-06-09",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap010609.html",
+        "trustTier": "encyclopedic",
+        "date": "2001-06-09"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:53.371Z",
+      "hash": "039a459f7b6c9b36"
+    },
+    {
+      "id": "onthisday:10-25:1854:eab5f848ab746000",
+      "type": "history",
+      "title": "1854: Crimean War",
+      "summary": "Crimean War: The ill-fated Charge of the Light Brigade was decisively repelled by Russian forces during the Battle of Balaclava.",
+      "body": "Crimean War: The ill-fated Charge of the Light Brigade was decisively repelled by Russian forces during the Battle of Balaclava.",
+      "image": {
+        "src": "data/images/17dc4167dbf38b88.jpg",
+        "alt": "Crimean War",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Crimean_War",
+        "trustTier": "encyclopedic",
+        "date": "10-25"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:46.130Z",
+      "hash": "9f051e6235022d10",
+      "expires": "2026-10-28T13:03:46.130Z"
+    },
+    {
+      "id": "onthisday:10-25:2010:2c62ef9f8ecd712a",
+      "type": "history",
+      "title": "2010: Mount Merapi",
+      "summary": "Mount Merapi in Central Java, Indonesia, began an increasingly violent series of eruptions that lasted over a month.",
+      "body": "Mount Merapi in Central Java, Indonesia, began an increasingly violent series of eruptions that lasted over a month.",
+      "image": {
+        "src": "data/images/34c6fe682bac2bd2.jpg",
+        "alt": "Mount Merapi",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Mount_Merapi",
+        "trustTier": "encyclopedic",
+        "date": "10-25"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:46.130Z",
+      "hash": "71a00a1e8bb3e46e",
+      "expires": "2026-10-28T13:03:46.130Z"
+    },
+    {
+      "id": "onthisday:10-25:1616:2dcc9fd668e8f18c",
+      "type": "history",
+      "title": "1616: Dirk Hartog",
+      "summary": "Dutch explorer Dirk Hartog left a plate on an island in Shark Bay, the oldest-known artefact of European exploration in Australia still in existence.",
+      "body": "Dutch explorer Dirk Hartog left a plate on an island in Shark Bay, the oldest-known artefact of European exploration in Australia still in existence.",
+      "image": {
+        "src": "data/images/815a85f8c50d7d91.jpg",
+        "alt": "Dirk Hartog",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Dirk_Hartog",
+        "trustTier": "encyclopedic",
+        "date": "10-25"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:46.130Z",
+      "hash": "6da2815bc2ce1189",
+      "expires": "2026-10-28T13:03:46.130Z"
+    },
+    {
+      "id": "wikipedia:6666899",
+      "type": "wiki",
+      "title": "Marriott Brosius",
+      "summary": "Marriott Henry Brosius was a Republican member of the U.S. House of Representatives from Pennsylvania.",
+      "body": "Marriott Henry Brosius was a Republican member of the U.S. House of Representatives from Pennsylvania.",
+      "image": {
+        "src": "data/images/fdc6063a588809f7.jpg",
+        "alt": "Marriott Brosius",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marriott_Brosius",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:46.120Z",
+      "hash": "725bf717a0b11e3a"
+    },
+    {
+      "id": "wikipedia:23414766",
+      "type": "wiki",
+      "title": "I Sure Can Smell the Rain",
+      "summary": "\"I Sure Can Smell the Rain\" is a song written by Walt Aldridge and John Jarrard, and recorded by American country music band Blackhawk. It was released in August 1994 as the third single from their self-titled debut album. It peaked at number 9 on both the United States Billboard Hot Country Singles & Tracks and the…",
+      "body": "\"I Sure Can Smell the Rain\" is a song written by Walt Aldridge and John Jarrard, and recorded by American country music band Blackhawk. It was released in August 1994 as the third single from their self-titled debut album. It peaked at number 9 on both the United States Billboard Hot Country Singles & Tracks and the Canadian RPM Country Tracks charts.",
+      "image": {
+        "src": "data/images/7e3dc8901d8b0335.png",
+        "alt": "I Sure Can Smell the Rain",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/I_Sure_Can_Smell_the_Rain",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:46.054Z",
+      "hash": "e3b658ce4a5bd989"
+    },
+    {
+      "id": "wikipedia:28494933",
+      "type": "wiki",
+      "title": "Mike Mattison",
+      "summary": "Mike Mattison is an American musician and singer of the blues rock/soul group the Tedeschi Trucks Band, as well as lead vocalist and co-founder of the blues rock trio Scrapomatic. Mattison's vocal sound has been described as \"strong\", with an \"expressive blues voice\" who values authenticity in his performances. As…",
+      "body": "Mike Mattison is an American musician and singer of the blues rock/soul group the Tedeschi Trucks Band, as well as lead vocalist and co-founder of the blues rock trio Scrapomatic. Mattison's vocal sound has been described as \"strong\", with an \"expressive blues voice\" who values authenticity in his performances. As lead vocalist of Scrapomatic, he picked up a nomination for Minnesota Music Awards best male vocalist, and both he and co-founder Paul Olsen were also nominated for Best R&B Group. Mattison was previously the lead vocalist of the Derek Trucks Band and has been a main songwriter of all three bands. He is also an active essayist who publishes on music and poetry. Since 2013, Mattison and Ernest Suarez have edited Hot Rocks: Songs and Verse, an ongoing feature in Five Points: A Journal of Literature and Art. He serves on the Council of the Association of Literary Critics, Scholars, and Writers. With both the Derek Trucks Band and Tedeschi Trucks Band, he has won a Grammy for Best Blues Album. Tedeschi Trucks Band has also won five Blues Music Awards from the Blues Music Foundation and two Canadian Maple Blues Awards.",
+      "image": {
+        "src": "data/images/e686a4a0d435404d.jpg",
+        "alt": "Mike Mattison",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mike_Mattison",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:45.980Z",
+      "hash": "03284871502c431b"
+    },
+    {
+      "id": "wikipedia:22632263",
+      "type": "wiki",
+      "title": "Kosovo–Peru relations",
+      "summary": "Kosovo–Peru relations are foreign relations between Kosovo and Peru. Peru recognised Kosovo as a sovereign state in 2008 after its declaration of independence from Serbia, although formal diplomatic relations have yet to be established.",
+      "body": "Kosovo–Peru relations are foreign relations between Kosovo and Peru. Peru recognised Kosovo as a sovereign state in 2008 after its declaration of independence from Serbia, although formal diplomatic relations have yet to be established.",
+      "image": {
+        "src": "data/images/aeb5ec13bad89156.png",
+        "alt": "Kosovo–Peru relations",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kosovo%E2%80%93Peru_relations",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-25T13:03:45.908Z",
+      "hash": "de3fa4dbab8b2b0b"
+    },
     {
       "id": "chess:Mk8wu",
       "type": "chess",
@@ -11637,889 +12547,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-10-14T13:27:09.713Z",
       "hash": "67368875c9a9e2d2"
-    },
-    {
-      "id": "wikipedia:21667026",
-      "type": "wiki",
-      "title": "Sycowa Huta",
-      "summary": "Sycowa Huta is a village in the administrative district of Gmina Kościerzyna, within Kościerzyna County, Pomeranian Voivodeship, in northern Poland.",
-      "body": "Sycowa Huta is a village in the administrative district of Gmina Kościerzyna, within Kościerzyna County, Pomeranian Voivodeship, in northern Poland.",
-      "image": {
-        "src": "data/images/6060d46d32d67a71.jpg",
-        "alt": "Sycowa Huta",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Sycowa_Huta",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-14T13:27:09.580Z",
-      "hash": "263504ce17c427ef"
-    },
-    {
-      "id": "wikipedia:21882805",
-      "type": "wiki",
-      "title": "Dr. Charles Jordan House",
-      "summary": "The Dr. Charles Jordan House is a historic house at 9 Jordan Avenue in Wakefield, Massachusetts. Built c. 1885, it is one Wakefield's most elaborate Queen Anne Victorian houses. The 2+1⁄2-story wood-frame house is unusual for having a hipped roof; it also has a tower in the northwest corner, and a porch with…",
-      "body": "The Dr. Charles Jordan House is a historic house at 9 Jordan Avenue in Wakefield, Massachusetts. Built c. 1885, it is one Wakefield's most elaborate Queen Anne Victorian houses. The 2+1⁄2-story wood-frame house is unusual for having a hipped roof; it also has a tower in the northwest corner, and a porch with Italianate pillars brackets. The house was built by Dr. Charles Jordan, a local physician and pharmacist with extensive land holdings in the area.",
-      "image": {
-        "src": "data/images/1c2d822356c45bfc.jpg",
-        "alt": "Dr. Charles Jordan House",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Dr._Charles_Jordan_House",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-14T13:27:07.745Z",
-      "hash": "4211446f643ad356"
-    },
-    {
-      "id": "wikipedia:74261648",
-      "type": "wiki",
-      "title": "Native State",
-      "summary": "Native State is the debut studio album by American indie folk singer-songwriter Jess Williamson, released on her vanity label Brutal Honest. The album has received positive reviews.",
-      "body": "Native State is the debut studio album by American indie folk singer-songwriter Jess Williamson, released on her vanity label Brutal Honest. The album has received positive reviews.",
-      "image": {
-        "src": "data/images/5b1073782d6b4793.png",
-        "alt": "Native State",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Native_State",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-14T13:27:07.417Z",
-      "hash": "86139117b709a51c"
-    },
-    {
-      "id": "chess:p99h5",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1942. Find the best line for black.",
-      "body": "Solution, from → to: d8→b8, d6→d7, b3→b2, d3→e2, b2→b1=Q. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "3r4/8/3Pp3/5kPp/3R1P1P/1p1K1P2/8/8 b - - 1 1",
-        "lastMove": "e3d3"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/p99h5",
-        "trustTier": "community",
-        "date": "Tue, 13 Oct 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "endgame",
-        "advancedpawn",
-        "advantage",
-        "rookendgame"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-13T15:45:10.401Z",
-      "hash": "ce45c9bf35ac9f87"
-    },
-    {
-      "id": "game:04f48efc9978bb52",
-      "type": "game",
-      "title": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'",
-      "summary": "Andrew Eiche also claims layoffs are becoming commonplace within the VR industry because some companies refuse to meet audiences with what they want.",
-      "body": "Andrew Eiche also claims layoffs are becoming commonplace within the VR industry because some companies refuse to meet audiences with what they want.",
-      "image": {
-        "src": "data/images/f4ebc2ce35278513.png",
-        "alt": "Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
-        "trustTier": "publication",
-        "author": "Chris Kerr",
-        "date": "Tue, 13 Oct 2026 13:15:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-13T15:45:09.896Z",
-      "hash": "04f48efc9978bb52",
-      "expires": "2027-01-11T15:45:09.896Z"
-    },
-    {
-      "id": "trivia:ef3cd4af19532eeb",
-      "type": "trivia",
-      "title": "TF2: What code does Soldier put into the door keypad in \"Meet the Spy\"?",
-      "summary": "Is it: No code · 1337 · 1432 · 1111?",
-      "body": "Answer: 1111.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:45:06.318Z",
-      "hash": "ef3cd4af19532eeb"
-    },
-    {
-      "id": "trivia:6f7fbeeb6858f9ab",
-      "type": "trivia",
-      "title": "How many values can a single byte represent?",
-      "summary": "Is it: 1024 · 8 · 256 · 1?",
-      "body": "Answer: 256.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "computers"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:45:06.318Z",
-      "hash": "6f7fbeeb6858f9ab"
-    },
-    {
-      "id": "trivia:ca9ae061f05bc905",
-      "type": "trivia",
-      "title": "Which of these is NOT a possible drink to be made in the game \"VA-11 HALL-A: Cyberpunk Bartender Action\"?",
-      "summary": "Is it: Sour Appletini · Piano Man · Fringe Weaver · Bad Touch?",
-      "body": "Answer: Sour Appletini.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-13T15:45:06.318Z",
-      "hash": "ca9ae061f05bc905"
-    },
-    {
-      "id": "trivia:d7c1f4a3bddf6081",
-      "type": "trivia",
-      "title": "Did Michael Jackson invent the moonwalk?",
-      "summary": "True — or false?",
-      "body": "Answer: False.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:45:06.318Z",
-      "hash": "d7c1f4a3bddf6081"
-    },
-    {
-      "id": "passage:gutenberg:1342",
-      "type": "passage",
-      "title": "Pride and Prejudice",
-      "summary": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other…",
-      "body": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters. “My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?” Mr. Bennet replied that he had not. “But it is,” returned she; “for Mrs. Long has just been here, and she told me all about it.” Mr. Bennet made no answer. “Do not you want to know who has taken it?” cried his…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1342",
-        "trustTier": "publication",
-        "author": "Jane Austen",
-        "date": "1813"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "romance",
-        "regency"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:45:05.998Z",
-      "hash": "2c77190f0de913e9"
-    },
-    {
-      "id": "passage:gutenberg:1232",
-      "type": "passage",
-      "title": "The Prince",
-      "summary": "All states, all powers, that have held and hold rule over men have been and are either republics or principalities. Principalities are either hereditary, in which the family has been long established; or they are new. The new are either entirely new, as was Milan to Francesco Sforza, or they are, as it were, members annexed to the hereditary state of the…",
-      "body": "All states, all powers, that have held and hold rule over men have been and are either republics or principalities. Principalities are either hereditary, in which the family has been long established; or they are new. The new are either entirely new, as was Milan to Francesco Sforza, or they are, as it were, members annexed to the hereditary state of the prince who has acquired them, as was the kingdom of Naples to that of the King of Spain. Such dominions thus acquired are either accustomed to live under a prince, or to live in freedom; and are acquired either by the arms of the prince himself, or of others, or else by fortune or by ability. CHAPTER II. CONCERNING HEREDITARY…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1232",
-        "trustTier": "publication",
-        "author": "Niccolò Machiavelli",
-        "date": "1532"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "philosophy",
-        "politics",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:45:05.625Z",
-      "hash": "493aa7cd7a7a847b"
-    },
-    {
-      "id": "comic:smbc:60fc6a07c348953b",
-      "type": "comic",
-      "title": "Long",
-      "summary": "Also I have very revealing undergarments but not in an attractive way.",
-      "image": {
-        "src": "data/images/7be29d65b5174e08.png",
-        "alt": "Also I have very revealing undergarments but not in an attractive way.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/long-2",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Tue, 13 Oct 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-13T15:45:03.672Z",
-      "hash": "60fc6a07c348953b"
-    },
-    {
-      "id": "comic:xkcd:1294",
-      "type": "comic",
-      "title": "Telescope Names",
-      "summary": "The Thirty Meter Telescope will be renamed The Flesh-Searing Eye on the Volcano.",
-      "body": "[[A checklist, with the boxes lined up on the right-hand side and the names going down to their left.]] The Very Large Telescope [ ] The Extremely Large Telescope [ ] The Overwhelmingly Lare Telescome [ ] (canceled) The Oppressively Colossal Telescope [ ] The Mind-numbingly Vast Telescope [ ] The Despair Telescope [ ] The Cataclysmic Telescope [ ] The Telescope of Devastation [ ] The Nightmare Scope [ ] The Infinite Telescope [ ] The Final Telescope [ ] {{Title text: The Thirty Meter Telescope will be renamed The Flesh-Searing Eye on the Volcano.}}",
-      "image": {
-        "src": "data/images/b619a48a679fb377.png",
-        "alt": "The Thirty Meter Telescope will be renamed The Flesh-Searing Eye on the Volcano.",
-        "credit": "xkcd #1294 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1294/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2013-11-22"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-13T15:45:03.096Z",
-      "hash": "4db4575ce497c211"
-    },
-    {
-      "id": "comic:xkcd:3310",
-      "type": "comic",
-      "title": "Rejected Space Mission Profiles",
-      "summary": "Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.",
-      "image": {
-        "src": "data/images/effee7a242439ee8.png",
-        "alt": "Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.",
-        "credit": "xkcd #3310 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3310/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2026-10-12"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-13T15:45:03.047Z",
-      "hash": "87b033b2c716610e"
-    },
-    {
-      "id": "food:ad09d5c122338ae7",
-      "type": "food",
-      "title": "Roasted Vegetable Recipes",
-      "summary": "A collection of roasted vegetables rooted in a favorite cooking technique. Roasting is one of the easiest ways to coax great flavor and tender textures from a wide range of ingredients. Nail the basics, then play around from there. Continue reading Roasted Vegetable Recipes on 101 Cookbooks",
-      "body": "A collection of roasted vegetables rooted in a favorite cooking technique. Roasting is one of the easiest ways to coax great flavor and tender textures from a wide range of ingredients. Nail the basics, then play around from there. Continue reading Roasted Vegetable Recipes on 101 Cookbooks",
-      "image": {
-        "src": "data/images/97e31656037ed91a.jpg",
-        "alt": "Roasted Vegetable Recipes",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/roasted-vegetable-recipes/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Tue, 13 Oct 2026 02:57:5"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "baking recipes",
-        "fall",
-        "side dish recipes",
-        "winter"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-13T15:45:02.876Z",
-      "hash": "ad09d5c122338ae7"
-    },
-    {
-      "id": "craft:85d84789c748e100",
-      "type": "craft",
-      "title": "Meet the Lap Easel, a Portable Companion for Taking Creativity Anywhere",
-      "summary": "The ingenious device is an adjustable support that sits comfortably on your lap or tabletop.",
-      "body": "The ingenious device is an adjustable support that sits comfortably on your lap or tabletop.",
-      "image": {
-        "src": "data/images/4a1ec51d7a38c0b9.jpg",
-        "alt": "Meet the Lap Easel, a Portable Companion for Taking Creativity Anywhere",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/10/bill-groot-lap-easel/",
-        "trustTier": "publication",
-        "author": "Jackie Andres",
-        "date": "Tue, 13 Oct 2026 14:02:2"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "bill groot",
-        "drawing",
-        "tools"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-13T15:45:02.725Z",
-      "hash": "85d84789c748e100"
-    },
-    {
-      "id": "word:9cba55b6449cccb2",
-      "type": "word",
-      "title": "kairos",
-      "summary": "Noun: A time when conditions are right for the accomplishment of a crucial action; the opportune and decisive moment.",
-      "body": "1. A time when conditions are right for the accomplishment of a crucial action; the opportune and decisive moment.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/kairos",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:45:01.472Z",
-      "hash": "9cba55b6449cccb2"
-    },
-    {
-      "id": "word:1a6a5d9201c71efe",
-      "type": "word",
-      "title": "oblivion",
-      "summary": "Noun: The state of forgetting completely, of being oblivious, unconscious, unaware, as when sleeping, drunk, or dead.",
-      "body": "1. The state of forgetting completely, of being oblivious, unconscious, unaware, as when sleeping, drunk, or dead.\n2. The state of being completely forgotten, of being reduced to a state of non-existence, extinction, or nothingness, including through war and destruction. for an area like hell, a wasteland.\n3. A form of purgatory.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/oblivion",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:45:00.818Z",
-      "hash": "1a6a5d9201c71efe"
-    },
-    {
-      "id": "word:9446ae7742ed7ca7",
-      "type": "word",
-      "title": "anagnorisis",
-      "summary": "Noun: The moment in the plot of a drama in which the hero makes a discovery that explains previously unexplained events or situations; a denouement.",
-      "body": "1. The moment in the plot of a drama in which the hero makes a discovery that explains previously unexplained events or situations; a denouement.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/anagnorisis",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:44:44.016Z",
-      "hash": "9446ae7742ed7ca7"
-    },
-    {
-      "id": "quote:4aaca5ce9f5e215f",
-      "type": "quote",
-      "title": "“Nothing has more strength than dire necessity.”",
-      "summary": "— Euripides",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Euripides",
-        "trustTier": "community",
-        "author": "Euripides"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:44:43.091Z",
-      "hash": "4aaca5ce9f5e215f"
-    },
-    {
-      "id": "quote:7f91829b27859d96",
-      "type": "quote",
-      "title": "“Rest and be kind, you don't have to prove anything.”",
-      "summary": "— Jack Kerouac",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Jack_Kerouac",
-        "trustTier": "community",
-        "author": "Jack Kerouac"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:44:43.091Z",
-      "hash": "7f91829b27859d96"
-    },
-    {
-      "id": "quote:68cc6b9aaa1a3c11",
-      "type": "quote",
-      "title": "“Make your stand today. On this spot. On this day.”",
-      "summary": "— Ming-Dao Deng",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Ming-Dao_Deng",
-        "trustTier": "community",
-        "author": "Ming-Dao Deng"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:44:43.091Z",
-      "hash": "68cc6b9aaa1a3c11"
-    },
-    {
-      "id": "article:e63bc7c9a1524ac1",
-      "type": "article",
-      "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net...",
-      "summary": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive. “Every death on my corner is offset, with a third of a toddler left over, and I’d like that number in the conversation the next time somebody calls me a murderer…”",
-      "body": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive. “Every death on my corner is offset, with a third of a toddler left over, and I’d like that number in the conversation the next time somebody calls me a murderer…”",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/10/0049780-overdose-offsets-why-ever",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-10-13T15:10:00Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-13T15:44:33.635Z",
-      "hash": "e63bc7c9a1524ac1"
-    },
-    {
-      "id": "article:cb0ea7224deaa4b9",
-      "type": "article",
-      "title": "Hermann Hesse on How to Read a Book and How to Read Yourself",
-      "summary": "Books show us what it is like to be another and at the same time return us to ourselves. We read to learn how to live — how to love and how to suffer, how to grieve and how to be glad. We read to clarify ourselves and to anneal our values. We read for the assurance that others have lived through…",
-      "body": "Books show us what it is like to be another and at the same time return us to ourselves. We read to learn how to live — how to love and how to suffer, how to grieve and how to be glad. We read to clarify ourselves and to anneal our values. We read for the assurance that others have lived through what we are living through. “You think your pain and your heartbreak are unprecedented in the history of the world, but then you read,” James Baldwin reflected in his most personal interview. And yet while books may give… read article",
-      "image": {
-        "src": "data/images/31111941f435ee95.jpg",
-        "alt": "Hermann Hesse on How to Read a Book and How to Read Yourself",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/10/12/hermann-hesse-books-poem/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Tue, 13 Oct 2026 03:26:2"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "books",
-        "hermann hesse",
-        "poetry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-13T15:44:30.889Z",
-      "hash": "cb0ea7224deaa4b9"
-    },
-    {
-      "id": "article:0691fffae26318b8",
-      "type": "article",
-      "title": "Is Your Agent a Double Agent?",
-      "summary": "In the Manchurian Candidate a sleeper agent who has been brain-trained appears normal until a secret phrase–“Why don’t you pass the time by playing a little solitaire?”–triggers a state of hypnosis and control by the attackers. Connor Tabarrok, now with the AI safety firm Equistamp, has an…",
-      "body": "In the Manchurian Candidate a sleeper agent who has been brain-trained appears normal until a secret phrase–“Why don’t you pass the time by playing a little solitaire?”–triggers a state of hypnosis and control by the attackers. Connor Tabarrok, now with the AI safety firm Equistamp, has an excellent post on how this same technique can […] The post Is Your Agent a Double Agent? appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-manchurian-candidate-or-is-your-agent-a-double-agent.html?utm_source=rss&utm_medium=rss&utm_campaign=the-manchurian-candidate-or-is-your-agent-a-double-agent",
-        "trustTier": "community",
-        "author": "Alex Tabarrok",
-        "date": "Tue, 13 Oct 2026 11:18:2"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "current affairs",
-        "data source",
-        "law",
-        "web/tech"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-13T15:44:26.279Z",
-      "hash": "0691fffae26318b8"
-    },
-    {
-      "id": "article:a7a101bc89642d0d",
-      "type": "article",
-      "title": "Rudolf Kalvach’s Wiener Werkstätte Postcards (1907)",
-      "summary": "Postcards that summon medieval grotesques and brightly coloured folk art, but also feel distinctly modern.",
-      "body": "Postcards that summon medieval grotesques and brightly coloured folk art, but also feel distinctly modern.",
-      "image": {
-        "src": "data/images/99283a2ff23fd3d8.jpg",
-        "alt": "Rudolf Kalvach’s Wiener Werkstätte Postcards (1907)",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/collection/kalvach-postcards",
-        "trustTier": "publication",
-        "date": "Tue, 13 Oct 2026 13:10:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-13T15:44:25.999Z",
-      "hash": "a7a101bc89642d0d"
-    },
-    {
-      "id": "article:9f35cbb37d5aa872",
-      "type": "article",
-      "title": "Africa’s cultural landmarks: tombs of Buganda kings",
-      "summary": "Built from vegetal materials, these majestic tombs housing Buganda kings bridge the realms of living and dead in Uganda- by Aeon VideoWatch on Aeon",
-      "body": "Built from vegetal materials, these majestic tombs housing Buganda kings bridge the realms of living and dead in Uganda- by Aeon VideoWatch on Aeon",
-      "image": {
-        "src": "data/images/cec35d36ab828a6c.jpg",
-        "alt": "Africa’s cultural landmarks: tombs of Buganda kings",
-        "credit": "Aeon"
-      },
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/videos/the-fragile-majesty-of-the-buganda-royal-tombs-in-uganda",
-        "trustTier": "publication",
-        "author": "Aeon Video",
-        "date": "Mon, 12 Oct 2026 10:01:0"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "philosophy"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-13T15:44:24.493Z",
-      "hash": "9f35cbb37d5aa872"
-    },
-    {
-      "id": "greek:76e1efe45624191c",
-      "type": "greek",
-      "title": "ἀρχή",
-      "summary": "ἀρχή — “beginning” · noun",
-      "body": "Note: ἡ ἀρχή; also \"ruler, authority\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CF%81%CF%87%CE%AE#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_fem_1st"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:44:24.339Z",
-      "hash": "76e1efe45624191c"
-    },
-    {
-      "id": "greek:df0658eeb68d3dc4",
-      "type": "greek",
-      "title": "πιστεύω",
-      "summary": "πιστεύω — “I believe, trust” · verb",
-      "body": "Note: often with εἰς + acc. (\"believe in\")\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CF%80%CE%B9%CF%83%CF%84%CE%B5%CF%8D%CF%89#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "verb"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:44:24.339Z",
-      "hash": "df0658eeb68d3dc4"
-    },
-    {
-      "id": "greek:d9c132ab1aa46f39",
-      "type": "greek",
-      "title": "ὁ",
-      "summary": "ὁ, ἡ, τό — “the” · article",
-      "body": "Note: masc/fem/neut forms; declines fully\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BD%81#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "article",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-13T15:44:24.339Z",
-      "hash": "d9c132ab1aa46f39"
-    },
-    {
-      "id": "poetry:e6dfed1c8ae78208",
-      "type": "poem",
-      "title": "Nature rarer uses yellow",
-      "summary": "Nature rarer uses yellow\nThan another hue;\nSaves she all of that for sunsets, --\nProdigal of blue,",
-      "body": "Nature rarer uses yellow\nThan another hue;\nSaves she all of that for sunsets, --\nProdigal of blue,\n\nSpending scarlet like a woman,\nYellow she affords\nOnly scantly and selectly,\nLike a lover's words.",
-      "source": {
-        "name": "Emily Dickinson · PoetryDB",
-        "url": "https://poetrydb.org/title/Nature%20rarer%20uses%20yellow",
-        "trustTier": "community",
-        "author": "Emily Dickinson"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-13T15:44:24.338Z",
-      "hash": "e6dfed1c8ae78208"
-    },
-    {
-      "id": "poetry:841599b99d26eac0",
-      "type": "poem",
-      "title": "Heaven and Earth",
-      "summary": "PART I.\nSCENE I.--_A woody and mountainous district near Mount\n                    Ararat.--Time, midnight_.\n               _Enter_ ANAH _and_ AHOLIBAMAH.",
-      "body": "PART I.\n\nSCENE I.--_A woody and mountainous district near Mount\n                    Ararat.--Time, midnight_.\n\n               _Enter_ ANAH _and_ AHOLIBAMAH.\n\n_Anah_. OUR father sleeps: it is the hour when they\nWho love us are accustomed to descend\nThrough the deep clouds o'er rocky Ararat:--\nHow my heart beats!\n\n_Aho._               Let us proceed upon\nOur invocation.\n\n_Anah_.         But the stars are hidden.\nI tremble.\n\n_Aho._     So do I, but not with fear\nOf aught save their delay.\n\n_Anah_.                    My sister, though\nI love Azaziel more than----oh, too much!\nWhat was I going to say? my heart grows impious.\n\n_Aho._ And where is the impiety of loving\nCelestial natures?\n\n_Anah_.            But, Aholibamah,\nI love our God less since his angel loved me:\nThis cannot be of good; and though I know not\nThat I do wrong, I feel a thousand fears\nWhich are not ominous of right.\n\n_Aho._                          Then wed thee\nUnto some son of clay, and toil and spin!\nThere's Japhet loves thee well, hath loved thee long:\nMarry, and bring forth dust!\n\n_Anah_.                      I should have loved\nAzaziel not less were he mortal; yet\nI am glad he is not. I cannot outlive him.\nAnd when I think that his immortal wings\nWill one day hover o'er the sepulchre\nOf the poor child of clay which so adored him,\nAs he adores the Highest, death becomes\nLess terrible; but yet I pity him:\nHis grief will be of ages, or at least\nMine would be such for him, were I the Seraph,\nAnd he the perishable.\n\n_Aho._                 Rather say,\nThat he will single forth some other daughter\nOf earth, and love her as he once loved Anah.\n\n_Anah_. And if it should be so, and she loved him,\nBetter thus than that he should weep for me.\n\n_Aho._ If I thought thus of Samiasa's love,\nAll Seraph as he is, I'd spurn him from me.\nBut to our invocation!--'Tis the hour.\n\n_Anah_.\n                Seraph!\n             From thy sphere!\n  Whatever star contain thy glory;\n    In the eternal depths of heaven\n    Albeit thou watchest with \"the seven,\"\n  Though through space infinite and hoary\n    Before thy bright wings worlds be driven,\n                   Yet hear!\n  Oh! think of her who holds thee dear!\n    And though she nothing is to thee,\n  Yet think that thou art all to her.\n    Thou canst not tell,--and never be\n    Such pangs decreed to aught save me,--\n      The bitterness of tears.\n      Eternity is in thine years,\n  Unborn, undying beauty in thine eyes;\n  With me thou canst not sympathise,\n    Except in love, and there thou must\n    Acknowledge that more loving dust\n  Ne'er wept beneath the skies.\n  Thou walk'st thy many worlds, thou see'st\n    The face of him who made thee great,\n  As he hath made me of the least\n    Of those cast out from Eden's gate:\n              Yet, Seraph dear!\n                  Oh hear!\n  For thou hast loved me, and I would not die\n    Until I know what I must die in knowing,\n  That thou forget'st in thine eternity\n    Her whose heart Death could not keep from o'er-flowing\n  For thee, immortal essence as thou art!\n    Great is their love who love in sin and fear;\n  And such, I feel, are waging in my heart\n  A war unworthy: to an Adamite\n    Forgive, my Seraph! that such thoughts appear,\n      For sorrow is our element;\n                 Delight\n  An Eden kept afar from sight,\n      Though sometimes with our visions blent.\n              The hour is near\n  Which tells me we are not abandoned quite.--\n               Appear! Appear!\n                  Seraph!\n      My own Azaziel! be but here,\n  And leave the stars to their own light!\n\n_Aho._\n               Samiasa!\n               Wheresoe'er\n      Thou rulest in the upper air--\n      Or warring with the spirits who may dare\n              Dispute with him\n    Who made all empires, empire; or recalling\n  Some wandering star, which shoots through the abyss,\n    Whose tenants dying, while their world is falling,\n  Share the dim destiny of clay in this;\n    Or joining with the inferior cherubim,\n    Thou deignest to partake their hymn--\n               Samiasa!\n  I call thee, I await thee, and I love thee.\n    Many may worship thee, that will I not:\n  If that thy spirit down to mine may move thee,\n    Descend and share my lot!\n    Though I be formed of clay,\n      And thou of beams\n    More bright than those of day\n      On Eden's streams,\n    Thine immortality can not repay\n      With love more warm than mine\n    My love. There is a ray\n      In me, which, though forbidden yet to shine,\n      I feel was lighted at thy God's and thine.\n    It may be hidden long: death and decay\n      Our mother Eve bequeathed us--but my heart\n    Defies it: though this life must pass away,\n      Is _that_ a cause for thee and me to part?\n    Thou art immortal--so am I: I feel--\n      I feel my immortality o'ersweep\n    All pains, all tears, all fears, and peal,\n      Like the eternal thunders of the deep,\n    Into my ears this truth--\"Thou liv'st for ever!\"\n        But if it be in joy\n    I know not, nor would know;\n  That secret rests with the Almighty giver,\n    Who folds in clouds the fonts of bliss and woe.\n        But thee and me he never can destroy;\n    Change us he may, but not o'erwhelm; we are\n    Of as eternal essence, and must war\n    With him if he will war with us; with _thee_\n      I can share all things, even immortal sorrow;\n    For thou hast ventured to share life with _me_,\n    And shall _I_ shrink from thine eternity?\n      No! though the serpent's sting should pierce me thorough,\n    And thou thyself wert like the serpent, coil\n      Around me still! and I will smile,\n            And curse thee not; but hold\n          Thee in as warm a fold\n          As----but descend, and prove\n          A mortal's love\n  For an immortal. If the skies contain\n  More joy than thou canst give and take, remain!\n\n_Anah_. Sister! sister! I view them winging\nTheir bright way through the parted night.\n\n_Aho._ The clouds from off their pinions flinging,\nAs though they bore to-morrow's light.\n\n_Anah_. But if our father see the sight!\n\n_Aho._ He would but deem it was the moon\nRising unto some sorcerer's tune\nAn hour too soon.\n\n_Anah_. They come! _he_ comes!--Azaziel!\n\n_Aho._                                   Haste\nTo meet them! Oh! for wings to bear\nMy spirit, while they hover there,\n        To Samiasa's breast!\n\n_Anah_. Lo! they have kindled all the west,\nLike a returning sunset;--lo!\n        On Ararat's late secret crest\nA mild and many-coloured bow,\nThe remnant of their flashing path,\nNow shines! and now, behold! it hath\nReturned to night, as rippling foam,\n  Which the Leviathan hath lashed\nFrom his unfathomable home,\nWhen sporting on the face of the calm deep,\n  Subsides soon after he again hath dashed\nDown, down, to where the Ocean's fountains sleep.\n\n_Aho._ They have touched earth! Samiasa!\n\n_Anah_.                                 My Azaziel!\n                                                            [_Exeunt_.\n\nSCENE II.--_Enter_ IRAD _and_ JAPHET.\n\n_Irad_. Despond not: wherefore wilt thou wander thus\nTo add thy silence to the silent night,\nAnd lift thy tearful eye unto the stars?\nThey cannot aid thee.\n\n_Japh._               But they soothe me--now\nPerhaps she looks upon them as I look.\nMethinks a being that is beautiful\nBecometh more so as it looks on beauty,\nThe eternal beauty of undying things.\nOh, Anah!\n\n_Irad_.    But she loves thee not.\n\n_Japh._                           Alas!\n\n_Irad_. And proud Aholibamah spurns me also.\n\n_Japh._ I feel for thee too.\n\n_Irad_.                      Let her keep her pride,\nMine hath enabled me to bear her scorn:\nIt may be, time too will avenge it.\n\n_Japh._                            Canst thou\nFind joy in such a thought?\n\n_Irad_.                     Nor joy nor sorrow.\nI loved her well; I would have loved her better,\nHad love been met with love: as 'tis, I leave her\nTo brighter destinies, if so she deems them.\n\n_Japh._ What destinies?\n\n_Irad_.                 I have some cause to think\nShe loves another.\n\n_Japh._             Anah!\n\n_Irad_.                  No; her sister.\n\n_Japh._ What other?\n\n_Irad_.             That I know not; but her air,\nIf not her words, tells me she loves another.\n\n_Japh._ Aye, but not Anah: she but loves her God.\n\n_Irad_. Whate'er she loveth, so she loves thee not,\nWhat can it profit thee?\n\n_Japh._                  True, nothing; but\nI love.\n\n_Irad_. And so did I.\n\n_Japh._               And now thou lov'st not,\nOr think'st thou lov'st not, art thou happier?\n\n_Irad_.                                       Yes.\n\n_Japh._ I pity thee.\n\n_Irad_.              Me! why?\n\n_Japh._                      For being happy,\nDeprived of that which makes my misery.\n\n_Irad_. I take thy taunt as part of thy distemper,\nAnd would not feel as thou dost for more shekels\nThan all our father's herds would bring, if weighed\nAgainst the metal of the sons of Cain--\nThe yellow dust they try to barter with us,\nAs if such useless and discoloured trash,\nThe refuse of the earth, could be received\nFor milk, and wool, and flesh, and fruits, and all\nOur flocks and wilderness afford.--Go, Japhet,\nSigh to the stars, as wolves howl to the moon--\nI must back to my rest.\n\n_Japh._                  And so would I\nIf I could rest.\n\n_Irad_.          Thou wilt not to our tents then?\n\n_Japh._ No, Irad; I will to the cavern, whose\nMouth they say opens from the internal world,\nTo let the inner spirits of the earth\nForth when they walk its surface.\n\n_Irad_.                            Wherefore so?\nWhat wouldst thou there?\n\n_Japh._                   Soothe further my sad spirit\nWith gloom as sad: it is a hopeless spot,\nAnd I am hopeless.\n\n_Irad_.            But 'tis dangerous;\nStrange sounds and sights have peopled it with terrors.\nI must go with thee.\n\n_Japh._               Irad, no; believe me\nI feel no evil thought, and fear no evil.\n\n_Irad_. But evil things will be thy foe the more\nAs not being of them: turn thy steps aside,\nOr let mine be with thine.\n\n_Japh._                    No, neither, Irad;\nI must proceed alone.\n\n_Irad_.                Then peace be with thee!\n                                                         [_Exit_ IRAD.\n\n_Japh._ (_solus_).\nPeace! I have sought it where it should be found,\nIn love--with love, too, which perhaps deserved it;\nAnd, in its stead, a heaviness of heart,\nA weakness of the spirit, listless days,\nAnd nights inexorable to sweet sleep\nHave come upon me. Peace! what peace? the calm\nOf desolation, and the stillness of\nThe untrodden forest, only broken by\nThe sweeping tempest through its groaning boughs;\nSuch is the sullen or the fitful state\nOf my mind overworn. The Earth's grown wicked,\nAnd many signs and portents have proclaimed\nA change at hand, and an o'erwhelming doom\nTo perishable beings. Oh, my Anah!\nWhen the dread hour denounced shall open wide\nThe fountains of the deep, how mightest thou\nHave lain within this bosom, folded from\nThe elements; this bosom, which in vain\nHath beat for thee, and then will beat more vainly,\nWhile thine--Oh, God! at least remit to her\nThy wrath! for she is pure amidst the failing\nAs a star in the clouds, which cannot quench,\nAlthough they obscure it for an hour. My Anah!\nHow would I have adored thee, but thou wouldst not;\nAnd still would I redeem thee--see thee live\nWhen Ocean is earth's grave, and, unopposed\nBy rock or shallow, the Leviathan,\nLord of the shoreless sea and watery world,\nShall wonder at his boundlessness of realm.            [_Exit_ JAPHET.\n\n                      _Enter_ NOAH _and_ SHEM.\n\n_Noah_. Where is thy brother Japhet?\n\n_Shem_.                              He went forth,\nAccording to his wont, to meet with Irad,\nHe said; but, as I fear, to bend his steps\nTowards Anah's tents, round which he hovers nightly,\nLike a dove round and round its pillaged nest;\nOr else he walks the wild up to the cavern\nWhich opens to the heart of Ararat.\n\n_Noah_. What doth he there? It is an evil spot\nUpon an earth all evil; for things worse\nThan even wicked men resort there: he\nStill loves this daughter of a fated race,\nAlthough he could not wed her if she loved him,\nAnd that she doth not. Oh, the unhappy hearts\nOf men! that one of my blood, knowing well\nThe destiny and evil of these days,\nAnd that the hour approacheth, should indulge\nIn such forbidden yearnings! Lead the way;\nHe must be sought for!\n\n_Shem_.                 Go not forward, father:\nI will seek Japhet.\n\n_Noah_.              Do not fear for me:\nAll evil things are powerless on the man\nSelected by Jehovah.--Let us on.\n\n_Shem_. To the tents of the father of the sisters?\n\n_Noah_. No; to the cavern of the Caucasus.\n                                           [_Exeunt_ NOAH _and_ SHEM.\n\nSCENE III.--_The mountains.--A cavern, and the rocks\n                 of Caucasus_.\n\n_Japh._ (_solus_). Ye wilds, that look eternal; and thou cave,\nWhich seem'st unfathomable; and ye mountains,\nSo varied and so terrible in beauty;\nHere, in your rugged majesty of rocks\nAnd toppling trees that twine their roots with stone\nIn perpendicular places, where the foot\nOf man would tremble, could he reach them--yes,\nYe look eternal! Yet, in a few days,\nPerhaps even hours, ye will be changed, rent, hurled\nBefore the mass of waters; and yon cave,\nWhich seems to lead into a lower world,\nShall have its depths searched by the sweeping wave,\nAnd dolphins gambol in the lion's den!\nAnd man----Oh, men! my fellow-beings! Who\nShall weep above your universal grave,\nSave I? Who shall be left to weep? My kinsmen,\nAlas! what am I better than ye are,\nThat I must live beyond ye? Where shall be\nThe pleasant places where I thought of Anah\nWhile I had hope? or the more savage haunts,\nScarce less beloved, where I despaired for her?\nAnd can it be!--Shall yon exulting peak,\nWhose glittering top is like a distant star,\nLie low beneath the boiling of the deep?\nNo more to have the morning sun break forth,\nAnd scatter back the mists in floating folds\nFrom its tremendous brow? no more to have\nDay's broad orb drop behind its head at even,\nLeaving it with a crown of many hues?\nNo more to be the beacon of the world,\nFor angels to alight on, as the spot\nNearest the stars? And can those words \"_no more_\"\nBe meant for thee, for all things, save for us,\nAnd the predestined creeping things reserved\nBy my sire to Jehovah's bidding? May\n_He_ preserve _them_, and I _not_ have the power\nTo snatch the loveliest of earth's daughters from\nA doom which even some serpent, with his mate,\nShall 'scape to save his kind to be prolonged,\nTo hiss and sting through some emerging world,\nReeking and dank from out the slime, whose ooze\nShall slumber o'er the wreck of this, until\nThe salt morass subside into a sphere\nBeneath the sun, and be the monument,\nThe sole and undistinguished sepulchre,\nOf yet quick myriads of all life? How much\nBreath will be stilled at once! All beauteous world!\nSo young, so marked out for destruction, I\nWith a cleft heart look on thee day by day,\nAnd night by night, thy numbered days and nights.\nI cannot save thee, cannot save even her\nWhose love had made me love thee more; but as\nA portion of thy dust, I cannot think\nUpon thy coming doom without a feeling\nSuch as--Oh God! and canst thou--                        [_He pauses_.\n\n               [_A rushing sound from the cavern is heard, and shouts\n                      of laughter--afterwards a Spirit passes_.\n\n_Japh._                             In the name\nOf the Most High, what art thou?\n\n_Spirit_ (_laughs_).             Ha! ha! ha!\n\n_Japh._ By all that earth holds holiest, speak!\n\n_Spirit_ (_laughs_).                           Ha! ha!\n\n_Japh._ By the approaching deluge! by the earth\nWhich will be strangled by the ocean! by\nThe deep which will lay open all her fountains!\nThe heaven which will convert her clouds to seas,\nAnd the Omnipotent who makes and crushes!\nThou unknown, terrible, and indistinct,\nYet awful Thing of Shadows, speak to me!\nWhy dost thou laugh that horrid laugh?\n\n_Spirit_.                             Why weep'st thou?\n\n_Japh._ For earth and all her children.\n\n_Spirit_.                              Ha! ha! ha!\n                                                   [_Spirit vanishes_.\n\n_Japh._ How the fiend mocks the tortures of a world,\nThe coming desolation of an orb,\nOn which the sun shall rise and warm no life!\nHow the earth sleeps! and all that in it is\nSleep too upon the very eve of death!\nWhy should they wake to meet it? What are here,\nWhich look like death in life, and speak like things\nBorn ere this dying world? They come like clouds!\n                              [_Various Spirits pass from the cavern_.\n\n_Spirit_.\n            Rejoice!\n        The abhorréd race\n  Which could not keep in Eden their high place,\n        But listened to the voice\n  Of knowledge without power,\n        Are nigh the hour,\n            Of Death!\n  Not slow, not single, not by sword, nor sorrow,\n    Nor years, nor heart-break, nor Time's sapping motion,\n  Shall they drop off. Behold their last to-morrow!\n        Earth shall be Ocean!\n            And no breath,\n  Save of the winds, be on the unbounded wave!\n        Angels shall tire their wings, but find no spot:\n  Not even a rock from out the liquid grave\n        Shall lift its point to save,\n  Or show the place where strong Despair hath died,\n  After long looking o'er the ocean wide\n        For the expected ebb which cometh not:\n            All shall be void,\n                Destroyed!\n  Another element shall be the lord\n    Of life, and the abhorred\n  Children of dust be quenched; and of each hue\n  Of earth nought left but the unbroken blue;\n  And of the variegated mountain\n        Shall nought remain\n        Unchanged, or of the level plain;\n        Cedar and pine shall lift their tops in vain:\n  All merged within the universal fountain,\n        Man, earth, and fire, shall die,\n            And sea and sky\n  Look vast and lifeless in the eternal eye.\n            Upon the foam\n                Who shall erect a home?\n\n_Japh._ (_coming forward_).\n                My sire!\n            Earth's seed shall not expire;\n            Only the evil shall be put away\n                From day.\n        Avaunt! ye exulting demons of the waste!\n  Who howl your hideous joy\n  When God destroys whom you dare not destroy:\n            Hence! haste!\n      Back to your inner caves!\n      Until the waves\n  Shall search you in your secret place,\n        And drive your sullen race\n  Forth, to be rolled upon the tossing winds,\n      In restless wretchedness along all space!\n\n_Spirit_.\n            Son of the saved!\n      When thou and thine have braved\n        The wide and warring element;\n    When the great barrier of the deep is rent,\n  Shall thou and thine be good or happy?--No!\n  Thy new world and new race shall be of woe--\n    Less goodly in their aspect, in their years\n          Less than the glorious giants, who\n        Yet walk the world in pride,\n  The Sons of Heaven by many a mortal bride.\n    Thine shall be nothing of the past, save tears!\n          And art thou not ashamed\n              Thus to survive,\n          And eat, and drink, and wive?\n  With a base heart so far subdued and tamed,\n  As even to hear this wide destruction named,\n  Without such grief and courage, as should rather\n    Bid thee await the world-dissolving wave,\n  Than seek a shelter with thy favoured father,\n    And build thy city o'er the drowned earth's grave?\n          Who would outlive their kind,\n          Except the base and blind?\n                     Mine\n                 Hateth thine\n    As of a different order in the sphere,\n                But not our own.\n  There is not one who hath not left a throne\n    Vacant in heaven to dwell in darkness here,\n  Rather than see his mates endure alone.\n                Go, wretch! and give\n  A life like thine to other wretches--live!\n    And when the annihilating waters roar\n                Above what they have done,\n    Envy the giant patriarchs then no more,\n  And scorn thy sire as the surviving one!\n                Thyself for being his son!\n\n           _Chorus of Spirits issuing from the cavern_.\n\n                Rejoice!\n        No more the human voice\n        Shall vex our joys in middle air\n              With prayer;\n            No more\n            Shall they adore;\n  And we, who ne'er for ages have adored\n          The prayer-exacting Lord,\n  To whom the omission of a sacrifice\n               Is vice;\n  We, we shall view the deep's salt sources poured\n  Until one element shall do the work\n        Of all in chaos; until they,\n        The creatures proud of their poor clay,\n  Shall perish, and their bleached bones shall lurk\n        In caves, in dens, in clefts of mountains, where\n  The deep shall follow to their latest lair;\n        Where even the brutes, in their despair,\n  Shall cease to prey on man and on each other,\n    And the striped tiger shall lie down to die\n  Beside the lamb, as though he were his brother;\n             Till all things shall be as they were,\n         Silent and uncreated, save the sky:\n                While a brief truce\n         Is made with Death, who shall forbear\n       The little remnant of the past creation,\n     To generate new nations for his use;\n       This remnant, floating o'er the undulation\n         Of the subsiding deluge, from its slime,\n     When the hot sun hath baked the reeking soil\n         Into a world, shall give again to Time\n         New beings--years, diseases, sorrow, crime--\n     With all companionship of hate and toil,\n                   Until----\n\n_Japh._ (_Interrupting them_).\n                    The eternal Will\n            Shall deign to expound this dream\n            Of good and evil; and redeem\n                Unto himself all times, all things;\n                And, gathered under his almighty wings,\n                    Abolish Hell!\n            And to the expiated Earth\n            Restore the beauty of her birth,\n              Her Eden in an endless paradise,\n            Where man no more can fall as once he fell,\n            And even the very demons shall do well!\n\n_Spirits_. And when shall take effect this wondrous spell?\n\n_Japh._ When the Redeemer cometh; first in pain,\n                    And then in glory.\n\n_Spirit_. Meantime still struggle in the mortal chain,\n           Till Earth wax hoary;\n  War with yourselves, and Hell, and Heaven, in vain,\n           Until the clouds look gory\n  With the blood reeking from each battle-plain;\n  New times, new climes, new arts, new men; but still,\n  The same old tears, old crimes, and oldest ill,\n  Shall be amongst your race in different forms;\n           But the same moral storms\n    Shall oversweep the future, as the waves\n    In a few hours the glorious giants' graves.\n\n                       _Chorus of Spirits_.\n\n               Brethren, rejoice!\n               Mortal, farewell!\nHark! hark! already we can hear the voice\n      Of growing Ocean's gloomy swell;\n    The winds, too, plume their piercing wings;\n    The clouds have nearly filled their springs;\nThe fountains of the great deep shall be broken,\n  And heaven set wide her windows; while mankind\nView, unacknowledged, each tremendous token--\n  Still, as they were from the beginning, blind.\n    We hear the sound they cannot hear,\n    The mustering thunders of the threatening sphere;\n      Yet a few hours their coming is delayed;\n    Their flashing banners, folded still on high,\n              Yet undisplayed,\n    Save to the Spirit's all-pervading eye.\n              Howl! howl! oh Earth!\nThy death is nearer than thy recent birth;\nTremble, ye mountains, soon to shrink below\n          The Ocean's overflow!\nThe wave shall break upon your cliffs; and shells,\n  The little shells, of ocean's least things be\nDeposed where now the eagle's offspring dwells--\n  How shall he shriek o'er the remorseless sea!\nAnd call his nestlings up with fruitless yell,\nUnanswered, save by the encroaching swell;--\nWhile man shall long in vain for his broad wings,\n  The wings which could not save:--\nWhere could he rest them, while the whole space brings\n  Nought to his eye beyond the deep, his grave?\n           Brethren, rejoice!\n  And loudly lift each superhuman voice--\n                 All die,\n  Save the slight remnant of Seth's seed--\n           The seed of Seth,\n  Exempt for future sorrow's sake from death.\n        But of the sons of Cain\n           None shall remain;\n      And all his goodly daughters\n  Must lie beneath the desolating waters;\n  Or, floating upward, with their long hair laid\n  Along the wave, the cruel heaven upbraid,\n           Which would not spare\n         Beings even in death so fair.\n             It is decreed,\n                All die!\n    And to the universal human cry\n  The universal silence shall succeed!\n           Fly, brethren, fly!\n           But still rejoice!\n                We fell!\n               They fall!\n                 So perish all\nThese petty foes of Heaven who shrink from Hell!\n                            [_The Spirits disappear, soaring upwards_.\n\n_Japh._ (_solus_).\nGod hath proclaimed the destiny of earth;\nMy father's ark of safety hath announced it;\nThe very demons shriek it from their caves;\nThe scroll of Enoch prophesied it long\nIn silent books, which, in their silence, say\nMore to the mind than thunder to the ear:\nAnd yet men listened not, nor listen; but\nWalk darkling to their doom: which, though so nigh,\nShakes them no more in their dim disbelief,\nThan their last cries shall shake the Almighty purpose,\nOr deaf obedient Ocean, which fulfils it.\nNo sign yet hangs its banner in the air;\nThe clouds are few, and of their wonted texture;\nThe Sun will rise upon the Earth's last day\nAs on the fourth day of creation, when\nGod said unto him, \"Shine!\" and he broke forth\nInto the dawn, which lighted not the yet\nUnformed forefather of mankind--but roused\nBefore the human orison the earlier\nMade and far sweeter voices of the birds,\nWhich in the open firmament of heaven\nHave wings like angels, and like them salute\nHeaven first each day before the Adamites:\nTheir matins now draw nigh--the east is kindling--\nAnd they will sing! and day will break! Both near,\nSo near the awful close! For these must drop\nTheir outworn pinions on the deep; and day,\nAfter the bright course of a few brief morrows,--\nAye, day will rise; but upon what?--a chaos,\nWhich was ere day; and which, renewed, makes Time\nNothing! for, without life, what are the hours?\nNo more to dust than is Eternity\nUnto Jehovah, who created both.\nWithout him, even Eternity would be\nA void: without man, Time, as made for man,\nDies with man, and is swallowed in that deep\nWhich has no fountain; as his race will be\nDevoured by that which drowns his infant world.--\nWhat have we here? Shapes of both earth and air?\nNo--_all_ of heaven, they are so beautiful.\nI cannot trace their features; but their forms,\nHow lovelily they move along the side\nOf the grey mountain, scattering its mist!\nAnd after the swart savage spirits, whose\nInfernal immortality poured forth\nTheir impious hymn of triumph, they shall be\nWelcome as Eden. It may be they come\nTo tell me the reprieve of our young world,\nFor which I have so often prayed.--They come!\nAnah! oh, God! and with her----\n\n        _Enter_ SAMIASA, AZAZIEL, ANAH, _and_ AHOLIBAMAH.\n\n_Anah_.                         Japhet!\n\n_Sam._                                 Lo!\nA son of Adam!\n\n_Aza._        What doth the earth-born here,\nWhile all his race are slumbering?\n\n_Japh._                           Angel! what\nDost thou on earth when thou should'st be on high?\n\n_Aza._ Know'st thou not, or forget'st thou, that a part\nOf our great function is to guard thine earth?\n\n_Japh._ But all good angels have forsaken earth,\nWhich is condemned; nay, even the evil fly\nThe approaching chaos. Anah! Anah! my\nIn vain, and long, and still to be, beloved!\nWhy walk'st thou with this Spirit, in those hours\nWhen no good Spirit longer lights below?\n\n_Anah_. Japhet, I cannot answer thee; yet, yet\nForgive me----\n\n_Japh._       May the Heaven, which soon no more\nWill pardon, do so! for thou art greatly tempted.\n\n_Aho._ Back to thy tents, insulting son of Noah!\nWe know thee not.\n\n_Japh._          The hour may come when thou\nMay'st know me better; and thy sister know\nMe still the same which I have ever been.\n\n_Sam._ Son of the patriarch, who hath ever been\nUpright before his God, whate'er thy gifts,\nAnd thy words seem of sorrow, mixed with wrath,\nHow have Azaziel, or myself, brought on thee\nWrong?\n\n_Japh._ Wrong! the greatest of all wrongs! but, thou\nSay'st well, though she be dust--I did not, could not,\nDeserve her. Farewell, Anah! I have said\nThat word so often! but now say it, ne'er\nTo be repeated. Angel! or whate'er\nThou art, or must be soon, hast thou the power\nTo save this beautiful--_these_ beautiful\nChildren of Cain?\n\n_Aza._           From what?\n\n_Japh._                    And is it so,\nThat ye too know not? Angels! angels! ye\nHave shared man's sin, and, it may be, now must\nPartake his punishment; or, at the least,\nMy sorrow.\n\n_Sam._ Sorrow! I ne'er thought till now\nTo hear an Adamite speak riddles to me.\n\n_Japh._ And hath not the Most High expounded them?\nThen ye are lost as they are lost.\n\n_Aho._                            So be it!\nIf they love as they are loved, they will not shrink\nMore to be mortal, than I would to dare\nAn immortality of agonies\nWith Samiasa!\n\n_Anah_.      Sister! sister! speak not\nThus.\n\n_Aza._ Fearest thou, my Anah?\n\n_Anah_.                       Yes, for thee:\nI would resign the greater remnant of\nThis little life of mine, before one hour\nOf thine eternity should know a pang.\n\n_Japh._ It is for _him_, then! for the Seraph thou\nHast left me! That is nothing, if thou hast not\nLeft thy God too! for unions like to these,\nBetween a mortal and an immortal, cannot\nBe happy or be hallowed. We are sent\nUpon the earth to toil and die; and they\nAre made to minister on high unto\nThe Highest: but if he can _save_ thee, soon\nThe hour will come in which celestial aid\nAlone can do so.\n\n_Anah_.         Ah! he speaks of Death.\n\n_Sam._ Of death to _us_! and those who are with us!\nBut that the man seems full of sorrow, I\nCould smile.\n\n_Japh._      I grieve not for myself, nor fear.\nI am safe, not for my own deserts, but those\nOf a well-doing sire, who hath been found\nRighteous enough to save his children. Would\nHis power was greater of redemption! or\nThat by exchanging my own life for hers,\nWho could alone have made mine happy, she,\nThe last and loveliest of Cain's race, could share\nThe ark which shall receive a remnant of\nThe seed of Seth!\n\n_Aho._            And dost thou think that we,\nWith Cain's, the eldest born of Adam's, blood\nWarm in our veins,--strong Cain! who was begotten\nIn Paradise,--would mingle with Seth's children?\nSeth, the last offspring of old Adam's dotage?\nNo, not to save all Earth, were Earth in peril!\nOur race hath always dwelt apart from thine\nFrom the beginning, and shall do so ever.\n\n_Japh._ I did not speak to thee, Aholibamah!\nToo much of the forefather whom thou vauntest\nHas come down in that haughty blood which springs\nFrom him who shed the first, and that a brother's!\nBut thou, my Anah! let me call thee mine,\nAlbeit thou art not; 'tis a word I cannot\nPart with, although I must from thee. My Anah!\nThou who dost rather make me dream that Abel\nHad left a daughter, whose pure pious race\nSurvived in thee, so much unlike thou art\nThe rest of the stem Cainites, save in beauty,\nFor all of them are fairest in their favour----\n\n_Aho._ (_interrupting him_).\nAnd would'st thou have her like our father's foe\nIn mind, in soul? If _I_ partook thy thought,\nAnd dreamed that aught of _Abel_ was in _her_!--\nGet thee hence, son of Noah; thou makest strife.\n\n_Japh._ Offspring of Cain, thy father did so!\n\n_Aho._                                        But\nHe slew not Seth: and what hast thou to do\nWith other deeds between his God and him?\n\n_Japh._ Thou speakest well: his God hath judged him, and\nI had not named his deed, but that thyself\nDidst seem to glory in him, nor to shrink\nFrom what he had done.\n\n_Aho._                 He was our father's father;\nThe eldest born of man, the strongest, bravest,\nAnd most enduring:--Shall I blush for him\nFrom whom we had our being? Look upon\nOur race; behold their stature and their beauty,\nTheir courage, strength, and length of days----\n\n_Japh._                                        They are numbered.\n\n_Aho._ Be it so! but while yet their hours endure,\nI glory in my brethren and our fathers.\n\n_Japh._ My sire and race but glory in their God,\nAnah! and thou?----\n\n_Anah_.             Whate'er our God decrees,\nThe God of Seth as Cain, I must obey,\nAnd will endeavour patiently to obey.\nBut could I dare to pray in his dread hour\nOf universal vengeance (if such should be),\nIt would not be to live, alone exempt\nOf all my house. My sister! oh, my sister!\nWhat were the world, or other worlds, or all\nThe brightest future, without the sweet past--\nThy love, my father's, all the life, and all\nThe things which sprang up with me, like the stars,\nMaking my dim existence radiant with\nSoft lights which were not mine? Aholibamah!\nOh! if there should be mercy--seek it, find it:\nI abhor Death, because that thou must die.\n\n_Aho._ What, hath this dreamer, with his father's ark,\nThe bugbear he hath built to scare the world,\nShaken _my_ sister? Are _we_ not the loved\nOf Seraphs? and if we were not, must we\nCling to a son of Noah for our lives?\nRather than thus----But the enthusiast dreams\nThe worst of dreams, the fantasies engendered\nBy hopeless love and heated vigils. Who\nShall shake these solid mountains, this firm earth,\nAnd bid those clouds and waters take a shape\nDistinct from that which we and all our sires\nHave seen them wear on their eternal way?\nWho shall do this?\n\n_Japh._           He whose one word produced them.\n\n_Aho._ Who _heard_ that word?\n\n_Japh._                      The universe, which leaped\nTo life before it. Ah! smilest thou still in scorn?\nTurn to thy Seraphs: if they attest it not,\nThey are none.\n\n_Sam._        Aholibamah, own thy God!\n\n_Aho._ I have ever hailed our Maker, Samiasa,\nAs thine, and mine: a God of Love, not Sorrow.\n\n_Japh._ Alas! what else is Love but Sorrow? Even\nHe who made earth in love had soon to grieve\nAbove its first and best inhabitants.\n\n_Aho._ 'Tis said so.\n\n_Japh._              It is even so.\n\n                     _Enter_ NOAH _and_ SHEM.\n\n_Noah_.                             Japhet! What\nDost thou here with these children of the wicked?\nDread'st thou not to partake their coming doom?\n\n_Japh._ Father, it cannot be a sin to seek\nTo save an earth-born being; and behold,\nThese are not of the sinful, since they have\nThe fellowship of angels.\n\n_Noah_.                   These are they, then,\nWho leave the throne of God, to take them wives\nFrom out the race of Cain; the sons of Heaven,\nWho seek Earth's daughters for their beauty?\n\n_Aza._                                      Patriarch!\nThou hast said it.\n\n_Noah_.            Woe, woe, woe to such communion!\nHas not God made a barrier between Earth\nAnd Heaven, and limited each, kind to kind?\n\n_Sam._ Was not man made in high Jehovah's image?\nDid God not love what he had made? And what\nDo we but imitate and emulate\nHis love unto created love?\n\n_Noah_.                    I am\nBut man, and was not made to judge mankind,\nFar less the sons of God; but as our God\nHas deigned to commune with me, and reveal\n_His_ judgments, I reply, that the descent\nOf Seraphs from their everlasting seat\nUnto a perishable and perishing,\nEven on the very _eve_ of _perishing_?--world,\nCannot be good.\n\n_Aza._          What! though it were to save?\n\n_Noah_. Not ye in all your glory can redeem\nWhat he who made you glorious hath condemned.\nWere your immortal mission safety, 'twould\nBe general, not for two, though beautiful;\nAnd beautiful they are, but not the less\nCondemned.\n\n_Japh._    Oh, father! say it not.\n\n_Noah_.                            Son! son!\nIf that thou wouldst avoid their doom, forget\nThat they exist: they soon shall cease to be,\nWhile thou shalt be the sire of a new world,\nAnd better.\n\n_Japh._     Let me die with _this_, and _them_!\n\n_Noah_. Thou _shouldst_ for such a thought, but shalt not: he\nWho _can_, redeems thee.\n\n_Sam._                    And why him and thee,\nMore than what he, thy son, prefers to both?\n\n_Noah_. Ask him who made thee greater than myself\nAnd mine, but not less subject to his own\nAlmightiness. And lo! his mildest and\nLeast to be tempted messenger appears!\n\n              _Enter_ RAPHAEL _the Archangel_.\n\n_Raph._\n                Spirits!\n        Whose seat is near the throne,\n            What do ye here?\n    Is thus a Seraph's duty to be shown,\n           Now that the hour is near\n       When Earth must be alone?\n                Return!\n            Adore and burn,\n  In glorious homage with the elected \"Seven.\"\n            Your place is Heaven.\n\n_Sam._\n                 Raphael!\n  The first and fairest of the sons of God,\n            How long hath this been law,\n  That Earth by angels must be left untrod?\n            Earth! which oft saw\n  Jehovah's footsteps not disdain her sod!\n      The world he loved, and made\n      For love; and oft have we obeyed\n  His frequent mission with delighted pinions:\n      Adoring him in his least works displayed;\n  Watching this youngest star of his dominions;\n      And, as the latest birth of his great word,\n      Eager to keep it worthy of our Lord.\n            Why is thy brow severe?\n  And wherefore speak'st thou of destruction near?\n\n_Raph._\n        Had Samiasa and Azaziel been\n    In their true place, with the angelic choir,\n                Written in fire\n              They would have seen\n              Jehovah's late decree,\n  And not enquired their Maker's breath of me:\n              But ignorance must ever be\n                A part of sin;\n  And even the Spirits' knowledge shall grow less\n              As they wax proud within;\n  For Blindness is the first-born of Excess.\n    When all good angels left the world, ye stayed,\n  Stung with strange passions, and debased\n    By mortal feelings for a mortal maid:\n  But ye are pardoned thus far, and replaced\n  With your pure equals. Hence! away! away!\n                 Or stay,\n  And lose Eternity by that delay!\n\n_Aza._\n        And thou! if Earth be thus forbidden\n                In the decree\n          To us until this moment hidden,\n                Dost thou not err as we\n                  In being here?\n\n_Raph._\n  I came to call ye back to your fit sphere,\n    In the great name and at the word of God,\n  Dear, dearest in themselves, and scarce less dear--\n    That which I came to do: till now we trod\n  Together the eternal space; together\n    Let us still walk the stars. True, Earth must die!\n  Her race, returned into her womb, must wither,\n    And much which she inherits: but oh! why\n    Cannot this Earth be made, or be destroyed,\n    Without involving ever some vast void\n  In the immortal ranks? immortal still\n    In their immeasurable forfeiture.\n  Our brother Satan fell; his burning will\n    Rather than longer worship dared endure!\n    But ye who still are pure!\n  Seraphs! less mighty than that mightiest one,--\n    Think how he was undone!\n  And think if tempting man can compensate\n    For Heaven desired too late?\n          Long have I warred,\n          Long must I war\n      With him who deemed it hard\n  To be created, and to acknowledge him\n  Who midst the cherubim\n    Made him as suns to a dependent star,\n  Leaving the archangels at his right hand dim.\n      I loved him--beautiful he was: oh, Heaven!\n  Save _his_ who made, what beauty and what power\n  Was ever like to Satan's! Would the hour\n      In which he fell could ever be forgiven!\n  The wish is impious: but, oh ye!\n  Yet undestroyed, be warned! Eternity\n    With him, or with his God, is in your choice:\n  He hath not tempted you; he cannot tempt\n  The angels, from his further snares exempt:\n    But man hath listened to his voice,\n  And ye to woman's--beautiful she is,\n  The serpent's voice less subtle than her kiss.\n  The snake but vanquished dust; but she will draw\n  A second host from heaven, to break Heaven's law.\n                Yet, yet, oh fly!\n                Ye cannot die;\n                But they\n                Shall pass away,\n  While ye shall fill with shrieks the upper sky\n      For perishable clay,\n  Whose memory in your immortality\n      Shall long outlast the Sun which gave them day.\n  Think how your essence differeth from theirs\n  In all but suffering! why partake\n  The agony to which they must be heirs--\n  Born to be ploughed with years, and sown with cares,\n    And reaped by Death, lord of the human soil?\n  Even had their days been left to toil their path\n  Through time to dust, unshortened by God's wrath,\n    Still they are Evil's prey, and Sorrow's spoil.\n\n_Aho._\n                Let them fly!\n  I hear the voice which says that all must die,\n  Sooner than our white-bearded patriarchs died;\n                And that on high\n              An ocean is prepared,\n                While from below\n  The deep shall rise to meet Heaven's overflow--\n              Few shall be spared,\n  It seems; and, of that few, the race of Cain\n  Must lift their eyes to Adam's God in vain.\n              Sister! since it is so,\n            And the eternal Lord\n          In vain would be implored\n      For the remission of one hour of woe,\n  Let us resign even what we have adored,\n  And meet the wave, as we would meet the sword,\n      If not unmoved, yet undismayed,\n  And wailing less for us than those who shall\n  Survive in mortal or immortal thrall,\n      And, when the fatal waters are allayed,\n  Weep for the myriads who can weep no more.\n  Fly, Seraphs! to your own eternal shore,\n  Where winds nor howl, nor waters roar.\n        Our portion is to die,\n      And yours to live for ever:\n    But which is best, a dead Eternity,\n  Or living, is but known to the great Giver.\n        Obey him, as we shall obey;\n    I would not keep this life of mine in clay\n        An hour beyond his will;\n  Nor see ye lose a portion of his grace,\n  For all the mercy which Seth's race\n              Find still.\n                  Fly!\n    And as your pinions bear ye back to Heaven,\n  Think that my love still mounts with thee on high,\n                Samiasa!\n  And if I look up with a tearless eye,\n    'Tis that an angel's bride disdains to weep,--\n    Farewell! Now rise, inexorable deep!\n\n_Anah_.\n                And must we die?\n              And must I lose thee too,\n                  Azaziel?\n            Oh, my heart! my heart!\n              Thy prophecies were true!\n            And yet thou wert so happy too!\n    The blow, though not unlocked for, falls as new:\n                But yet depart!\n                    Ah! why?\n        Yet let me not retain thee--fly!\n     My pangs can be but brief; but thine would be\n     Eternal, if repulsed from Heaven for me.\n         Too much already hast thou deigned\n             To one of Adam's race!\n  Our doom is sorrow: not to us alone,\n    But to the Spirits who have not disdained\n  To love us, cometh anguish with disgrace.\n  The first who taught us knowledge hath been hurled\n    From his once archangelic throne\n    Into some unknown world:\n         And thou, Azaziel! No--\n         Thou shall not suffer woe\n  For me. Away! nor weep!\n    Thou canst not weep; but yet\n    May'st suffer more, not weeping: then forget\n  Her, whom the surges of the all-strangling deep\n  Can bring no pang like this. Fly! fly!\n  Being gone, 'twill be less difficult to die.\n\n_Japh._\n            Oh say not so!\n          Father! and thou, archangel, thou!\n    Surely celestial mercy lurks below\n  That pure severe serenity of brow:\n    Let them not meet this sea without a shore,\n    Save in our ark, or let me be no more!\n\n_Noah_.\n      Peace, child of passion, peace!\n  If not within thy heart, yet with thy tongue\n      Do God no wrong!\n  Live as he wills it--die, when he ordains,\n  A righteous death, unlike the seed of Cain's.\n    Cease, or be sorrowful in silence; cease\n  To weary Heaven's ear with thy selfish plaint.\n    Wouldst thou have God commit a sin for thee?\n            Such would it be\n         To alter his intent\n  For a mere mortal sorrow. Be a man!\n  And bear what Adam's race must bear, and can.\n\n_Japh._\n      Aye, father! but when they are gone,\n        And we are all alone,\n  Floating upon the azure desert, and\n  The depth beneath us hides our own dear land,\n    And dearer, silent friends and brethren, all\n    Buried in its immeasurable breast,\n  Who, who, our tears, our shrieks, shall then command?\n    Can we in Desolation's peace have rest?\n      Oh God! be thou a God, and spare\n        Yet while 'tis time!\n      Renew not Adam's fall:\n    Mankind were then but twain,\n  But they are numerous now as are the waves\n        And the tremendous rain,\n  Whose drops shall be less thick than would their graves,\n    Were graves permitted to the seed of Cain.\n\n_Noah_. Silence, vain boy! each word of thine's a crime.\nAngel! forgive this stripling's fond despair.\n\n_Raph._ Seraphs! these mortals speak in passion: Ye!\nWho are, or should be, passionless and pure,\nMay now return with me.\n\n_Sam._                  It may not be:\nWe have chosen, and will endure.\n\n_Raph._ Say'st thou?\n\n_Aza._               He hath said it, and I say, Amen!\n\n_Raph._\n            Again!\n      Then from this hour,\n      Shorn as ye are of all celestial power,\n  And aliens from your God,\n            Farewell!\n\n_Japh._             Alas! where shall they dwell?\nHark, hark! Deep sounds, and deeper still,\n  Are howling from the mountain's bosom:\nThere's not a breath of wind upon the hill,\n  Yet quivers every leaf, and drops each blossom:\nEarth groans as if beneath a heavy load.\n\n_Noah_. Hark, hark! the sea-birds cry!\n  In clouds they overspread the lurid sky,\nAnd hover round the mountain, where before\n  Never a white wing, wetted by the wave,\n      Yet dared to soar,\n  Even when the waters waxed too fierce to brave.\n      Soon it shall be their only shore,\n      And then, no more!\n\n_Japh._ The sun! the sun!\nHe riseth, but his better light is gone;\n        And a black circle, bound\n        His glaring disk around,\nProclaims Earth's last of summer days hath shone!\n      The clouds return into the hues of night,\nSave where their brazen-coloured edges streak\nThe verge where brighter morns were wont to break.\n\n_Noah_. And lo! yon flash of light,\nThe distant thunder's harbinger, appears!\n      It cometh! hence, away!\nLeave to the elements their evil prey!\nHence to where our all-hallowed ark uprears\n          Its safe and wreckless sides!\n\n_Japh._ Oh, father, stay!\nLeave not my Anah to the swallowing tides!\n\n_Noah_. Must we not leave all life to such? Begone!\n\n_Japh._                 Not I.\n\n_Noah_.                 Then die\n                       With them!\nHow darest thou look on that prophetic sky,\nAnd seek to save what all things now condemn,\n        In overwhelming unison\n              With just Jehovah's wrath!\n\n_Japh._ Can rage and justice join in the same path?\n\n_Noah_. Blasphemer! darest thou murmur even now!\n\n_Raph._ Patriarch, be still a father! smooth thy brow:\nThy son, despite his folly, shall not sink:\nHe knows not what he says, yet shall not drink\n  With sobs the salt foam of the swelling waters;\nBut be, when passion passeth, good as thou,\n  Nor perish like Heaven's children with man's daughters.\n\n_Aho._ The tempest cometh; heaven and earth unite\n    For the annihilation of all life.\n    Unequal is the strife\nBetween our strength and the Eternal Might!\n\n_Sam._ But ours is with thee; we will bear ye far\n  To some untroubled star,\nWhere thou, and Anah, shalt partake our lot:\n  And if thou dost not weep for thy lost earth,\nOur forfeit Heaven shall also be forgot.\n\n_Anah_. Oh! my dear father's tents, my place of birth,\nAnd mountains, land, and woods! when ye are not,\nWho shall dry up my tears?\n\n_Aza._                    Thy spirit-lord.\nFear not; though we are shut from Heaven,\nYet much is ours, whence we can not be driven.\n\n_Raph._ Rebel! thy words are wicked, as thy deeds\nShall henceforth be but weak: the flaming sword,\nWhich chased the first-born out of Paradise,\nStill flashes in the angelic hands.\n\n_Aza._ It cannot slay us: threaten dust with death,\nAnd talk of weapons unto that which bleeds.\nWhat are thy swords in our immortal eyes?\n\n_Raph._ The moment cometh to approve thy strength;\n          And learn at length\nHow vain to war with what thy God commands:\nThy former force was in thy faith.\n\n               _Enter Mortals, flying for refuge_.\n\n                       _Chorus of Mortals_.\n\nThe heavens and earth are mingling--God! oh God!\nWhat have we done? Yet spare!\nHark! even the forest beasts howl forth their prayer!\n  The dragon crawls from out his den,\n  To herd, in terror, innocent with men;\nAnd the birds scream their agony through air.\nYet, yet, Jehovah! yet withdraw thy rod\nOf wrath, and pity thine own world's despair!\nHear not man only but all nature plead!\n\n_Raph._ Farewell, thou earth! ye wretched sons of clay,\nI cannot, must not, aid you. 'Tis decreed!\n                                                      [_Exit_ RAPHAEL.\n\n_Japh._ Some clouds sweep on as vultures for their prey,\nWhile others, fixed as rocks, await the word\nAt which their wrathful vials shall be poured.\nNo azure more shall robe the firmament,\n  Nor spangled stars be glorious: Death hath risen:\nIn the Sun's place a pale and ghastly glare\nHath wound itself around the dying air.\n\n_Aza._ Come, Anah! quit this chaos-founded prison,\nTo which the elements again repair,\nTo turn it into what it was: beneath\nThe shelter of these wings thou shall be safe,\nAs was the eagle's nestling once within\nIts mother's.--Let the coming chaos chafe\nWith all its elements! Heed not their din!\nA brighter world than this, where thou shalt breathe\nEthereal life, will we explore:\nThese darkened clouds are not the only skies.\n\n                        [AZAZIEL _and_ SAMIASA _fly off, and disappear\n                             with_ ANAH _and_ AHOLIBAMAH.\n\n_Japh._ They are gone! They have disappeared amidst the roar\nOf the forsaken world; and never more,\nWhether they live, or die with all Earth's life,\nNow near its last, can aught restore\nAnah unto these eyes.\n\n                       _Chorus of Mortals_.\n\nOh son of Noah! mercy on thy kind!\nWhat! wilt thou leave us all--all--_all_ behind?\nWhile safe amidst the elemental strife,\nThou sitt'st within thy guarded ark?\n\n_A Mother_ (_offering her infant to_ JAPHET).\n      Oh, let this child embark!\n      I brought him forth in woe,\n           But thought it joy\n   To see him to my bosom clinging so.\n           Why was he born?\n           What hath he done--\n           My unweaned son--\n    To move Jehovah's wrath or scorn?\n    What is there in this milk of mine, that Death\n      Should stir all Heaven and Earth up to destroy\n               My boy,\n    And roll the waters o'er his placid breath?\n    Save him, thou seed of Seth!\n    Or curséd be--with him who made\n    Thee and thy race, for which we are betrayed!\n\n_Japh._ Peace! 'tis no hour for curses, but for prayer!\n\n                       _Chorus of Mortals_.\n\n                For prayer!!!\n                And where\n            Shall prayer ascend,\nWhen the swoln clouds unto the mountains bend\n                And burst,\nAnd gushing oceans every barrier rend,\n  Until the very deserts know no thirst?\n                Accursed\nBe he who made thee and thy sire!\nWe deem our curses vain; we must expire;\n        But as we know the worst,\nWhy should our hymns be raised, our knees be bent\nBefore the implacable Omnipotent,\nSince we must fall the same?\nIf he hath made Earth, let it be his shame,\n  To make a world for torture.--Lo! they come,\nThe loathsome waters, in their rage!\n  And with their roar make wholesome nature dumb!\n  The forest's trees (coeval with the hour\nWhen Paradise upsprung,\n  Ere Eve gave Adam knowledge for her dower,\nOr Adam his first hymn of slavery sung),\n  So massy, vast, yet green in their old age,\n          Are overtopped,\nTheir summer blossoms by the surges lopped,\nWhich rise, and rise, and rise.\nVainly we look up to the lowering skies--\n  They meet the seas,\nAnd shut out God from our beseeching eyes.\n  Fly, son of Noah, fly! and take thine ease,\nIn thine allotted ocean-tent;\nAnd view, all floating o'er the element,\nThe corpses of the world of thy young days:\n        Then to Jehovah raise\n        Thy song of praise!\n\n_A Mortal_.\n            Blesséd are the dead\n            Who die in the Lord!\nAnd though the waters be o'er earth outspread,\n            Yet, as _his_ word,\n            Be the decree adored!\nHe gave me life--he taketh but\n  The breath which is his own:\nAnd though these eyes should be for ever shut,\n  Nor longer this weak voice before his throne\n  Be heard in supplicating tone,\n          Still blessed be the Lord,\n            For what is past,\n            For that which is:\n            For all are his,\n            From first to last--\nTime--Space--Eternity--Life--Death--\n  The vast known and immeasurable unknown.\nHe made, and can unmake;\n  And shall I, for a little gasp of breath,\nBlaspheme and groan?\n  No; let me die, as I have lived, in faith,\nNor quiver, though the Universe may quake!\n\n                       _Chorus of Mortals_.\n\n            Where shall we fly?\n            Not to the mountains high;\nFor now their torrents rush, with double roar,\n  To meet the Ocean, which, advancing still,\n  Already grasps each drowning hill,\nNor leaves an unsearched cave.\n\n                         _Enter a Woman_.\n\n_Woman_.\n      Oh, save me, save!\nOur valley is no more:\n  My father and my father's tent,\nMy brethren and my brethren's herds,\n  The pleasant trees that o'er our noonday bent,\nAnd sent forth evening songs from sweetest birds,\nThe little rivulet which freshened all\n      Our pastures green,\n      No more are to be seen.\nWhen to the mountain cliff I climbed this morn,\n  I turned to bless the spot,\n  And not a leaf appeared about to fall;--\n  And now they are not!--\nWhy was I born?\n\n_Japh._\n              To die! in youth to die!\n    And happier in that doom,\n    Than to behold the universal tomb,\n              Which I\n    Am thus condemned to weep above in vain.\n    Why, when all perish, why must I remain?\n\n                [_The waters rise; Men fly in every direction; many\n                    are overtaken by the waves: the Chorus of\n                    Mortals disperses in search of safety up the\n                    mountains:_ JAPHET _remains upon a rock, while\n                    the Ark floats towards him in the distance_.",
-      "source": {
-        "name": "George Gordon, Lord Byron · PoetryDB",
-        "url": "https://poetrydb.org/title/Heaven%20and%20Earth",
-        "trustTier": "community",
-        "author": "George Gordon, Lord Byron"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-13T15:44:24.338Z",
-      "hash": "841599b99d26eac0"
-    },
-    {
-      "id": "art:si:ld1-1643398738600-1643398750754-0",
-      "type": "art",
-      "title": "Gas mask with filter canister worn at demonstrations in Ferguson, Missouri",
-      "summary": "National Museum of African American History and Culture · 2010s · gas masks",
-      "body": "National Museum of African American History and Culture\n2010s · gas masks",
-      "image": {
-        "src": "data/images/0f0b061a86131529.jpg",
-        "alt": "Gas mask with filter canister worn at demonstrations in Ferguson, Missouri",
-        "credit": "National Museum of African American History and Culture · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://nmaahc.si.edu/object/nmaahc_2016.122ab",
-        "trustTier": "encyclopedic",
-        "date": "2010s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "mask",
-        "gas masks"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-13T15:44:22.724Z",
-      "hash": "5ce2296a72260406"
-    },
-    {
-      "id": "apod:2021-08-29",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap210829.html",
-        "trustTier": "encyclopedic",
-        "date": "2021-08-29"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:44:19.080Z",
-      "hash": "feab16e91941de46"
-    },
-    {
-      "id": "apod:2018-12-23",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap181223.html",
-        "trustTier": "encyclopedic",
-        "date": "2018-12-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-13T15:44:19.080Z",
-      "hash": "d1b963851721ffea"
     },
     {
       "id": "curated:handwriting-beats-typing",

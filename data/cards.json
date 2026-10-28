@@ -1,7 +1,1261 @@
 {
-  "generatedAt": "2026-10-27T14:12:35.833Z",
+  "generatedAt": "2026-10-28T14:58:03.644Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:VTLk5",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1862. Find the best line for white.",
+      "body": "Solution, from → to: b3→b4, c5→b4, c4→c5, b6→c5, d7→d8=Q. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "4K3/3P4/pb6/2p3p1/2P3k1/1P6/P7/8 w - - 1 1",
+        "lastMove": "d8b6"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/VTLk5",
+        "trustTier": "community",
+        "date": "Wed, 28 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "deflection",
+        "endgame",
+        "advancedpawn",
+        "advantage"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-28T14:57:59.289Z",
+      "hash": "d09bb2aea8372c34"
+    },
+    {
+      "id": "game:3a82b93f3b4369e8",
+      "type": "game",
+      "title": "Warhorse Studios hit by an undetailed cybersecurity incident",
+      "summary": "The developer behind the Kingdom Come: Deliverance games has revealed that it has been hit by a 'serious' cybersecurity attack and is taking steps to assess the full impact.",
+      "body": "The developer behind the Kingdom Come: Deliverance games has revealed that it has been hit by a 'serious' cybersecurity attack and is taking steps to assess the full impact.",
+      "image": {
+        "src": "data/images/0d419e7c696a9a02.jpg",
+        "alt": "Warhorse Studios hit by an undetailed cybersecurity incident",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident",
+        "trustTier": "publication",
+        "author": "Imran Khan",
+        "date": "Tue, 27 Oct 2026 19:15:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:59.078Z",
+      "hash": "3a82b93f3b4369e8",
+      "expires": "2027-01-26T14:57:59.078Z"
+    },
+    {
+      "id": "game:465ecdc5dc01a5e5",
+      "type": "game",
+      "title": "Crossy Road creator Matt Hall named Atari's EVP of Mobile",
+      "summary": "One of the mobile game industry's most well-known pioneers will spearhead Atari's own foray into mobile.",
+      "body": "One of the mobile game industry's most well-known pioneers will spearhead Atari's own foray into mobile.",
+      "image": {
+        "src": "data/images/e24524154af59ec5.png",
+        "alt": "Crossy Road creator Matt Hall named Atari's EVP of Mobile",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
+        "trustTier": "publication",
+        "author": "Imran Khan",
+        "date": "Tue, 27 Oct 2026 18:45:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:59.078Z",
+      "hash": "465ecdc5dc01a5e5",
+      "expires": "2027-01-26T14:57:59.078Z"
+    },
+    {
+      "id": "game:367f8094e6ef510b",
+      "type": "game",
+      "title": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+      "summary": "Rockstar employees will have two weeks to decide if they want to recognize the IWGB Rockstar Game Workers Union.",
+      "body": "Rockstar employees will have two weeks to decide if they want to recognize the IWGB Rockstar Game Workers Union.",
+      "image": {
+        "src": "data/images/8933108f14f5794c.jpg",
+        "alt": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+        "trustTier": "publication",
+        "author": "Bryant Francis",
+        "date": "Tue, 27 Oct 2026 19:34:1"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:59.077Z",
+      "hash": "367f8094e6ef510b",
+      "expires": "2027-01-26T14:57:59.077Z"
+    },
+    {
+      "id": "trivia:827792a9c830071b",
+      "type": "trivia",
+      "title": "Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "science & nature"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:56.277Z",
+      "hash": "827792a9c830071b"
+    },
+    {
+      "id": "trivia:05b34d128051229c",
+      "type": "trivia",
+      "title": "When was Cadillac founded?",
+      "summary": "Is it: 1985 · 1964 · 1902 · 1898?",
+      "body": "Answer: 1902.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "vehicles"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:56.277Z",
+      "hash": "05b34d128051229c"
+    },
+    {
+      "id": "trivia:1f1498d2da72b899",
+      "type": "trivia",
+      "title": "Assyrian king Sennacherib's destruction of Babylon in 689 BCE was viewed as a triumph by other Assyrian citizens.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:56.277Z",
+      "hash": "1f1498d2da72b899"
+    },
+    {
+      "id": "trivia:21b071b8b06c7a5c",
+      "type": "trivia",
+      "title": "Marvel vs Capcom 2: New age of Heroes was released in what year?",
+      "summary": "Is it: 2003 · 2001 · 2000 · 1998?",
+      "body": "Answer: 2000.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:56.277Z",
+      "hash": "21b071b8b06c7a5c"
+    },
+    {
+      "id": "passage:gutenberg:43",
+      "type": "passage",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "summary": "Mr. Utterson the lawyer was a man of a rugged countenance that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable. At friendly meetings, and when the wine was to his taste, something eminently human beaconed from his eye; something indeed which never found its…",
+      "body": "Mr. Utterson the lawyer was a man of a rugged countenance that was never lighted by a smile; cold, scanty and embarrassed in discourse; backward in sentiment; lean, long, dusty, dreary and yet somehow lovable. At friendly meetings, and when the wine was to his taste, something eminently human beaconed from his eye; something indeed which never found its way into his talk, but which spoke not only in these silent symbols of the after-dinner face, but more often and loudly in the acts of his life. He was austere with himself; drank gin when he was alone, to mortify a taste for vintages; and though he enjoyed the theatre, had not crossed the doors of one for twenty years. But he had an…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/43",
+        "trustTier": "publication",
+        "author": "Robert Louis Stevenson",
+        "date": "1886"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "gothic",
+        "mystery"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:56.022Z",
+      "hash": "70558e6170fa769a"
+    },
+    {
+      "id": "comic:smbc:fd1ab9527f9e23c3",
+      "type": "comic",
+      "title": "Clankor",
+      "summary": "Turns out the combination of sycophancy and lack of persistent experience of reality is irresistible.",
+      "image": {
+        "src": "data/images/25055ca8ae12f9e6.png",
+        "alt": "Turns out the combination of sycophancy and lack of persistent experience of reality is irresistible.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/clankor",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Tue, 27 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-28T14:57:54.329Z",
+      "hash": "fd1ab9527f9e23c3"
+    },
+    {
+      "id": "comic:xkcd:2659",
+      "type": "comic",
+      "title": "Unreliable Connection",
+      "summary": "NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.",
+      "image": {
+        "src": "data/images/9c86da66d20310ba.png",
+        "alt": "NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.",
+        "credit": "xkcd #2659 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/2659/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2022-08-15"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-28T14:57:54.187Z",
+      "hash": "8443030137aff8a1"
+    },
+    {
+      "id": "craft:47f9b48db766270f",
+      "type": "craft",
+      "title": "Tom Hegen’s ‘The Mineral Age’ Documents the Indelible Effects of the Green Transition",
+      "summary": "There's no question we need to move away from fossil fuels. But who bears the cost of the green transition?",
+      "body": "There's no question we need to move away from fossil fuels. But who bears the cost of the green transition?",
+      "image": {
+        "src": "data/images/4002e256a2e64c42.jpg",
+        "alt": "Tom Hegen’s ‘The Mineral Age’ Documents the Indelible Effects of the Green Transition",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/tom-hegen-the-mineral-age-photo-book/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Tue, 27 Oct 2026 17:53:0"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "books",
+        "climate",
+        "nature",
+        "photography",
+        "social issues",
+        "aerial",
+        "environment"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:53.345Z",
+      "hash": "47f9b48db766270f"
+    },
+    {
+      "id": "craft:4dd2f35a3bc1a015",
+      "type": "craft",
+      "title": "A Macro Journey Underwater Reveals the Radiant Geometries of Coral",
+      "summary": "Filmmaker Sandro Bocci brings us up close with coral reefs and their striking array of color, texture, and pattern.",
+      "body": "Filmmaker Sandro Bocci brings us up close with coral reefs and their striking array of color, texture, and pattern.",
+      "image": {
+        "src": "data/images/67c74cc871107b9f.jpg",
+        "alt": "A Macro Journey Underwater Reveals the Radiant Geometries of Coral",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/iteration-coral-reef-film/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Wed, 28 Oct 2026 14:12:5"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "film",
+        "nature",
+        "photography",
+        "science",
+        "coral",
+        "julie set lab",
+        "macro"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:53.344Z",
+      "hash": "4dd2f35a3bc1a015"
+    },
+    {
+      "id": "craft:f556f24fb3cfa0cc",
+      "type": "craft",
+      "title": "Playfully Vibrant Abstract Murals by Zebu Enliven Urban Walls",
+      "summary": "The Berlin-based duo draw on their background in illustration and graphic design to create eye-popping compositions.",
+      "body": "The Berlin-based duo draw on their background in illustration and graphic design to create eye-popping compositions.",
+      "image": {
+        "src": "data/images/841b12e3e8bf5746.jpg",
+        "alt": "Playfully Vibrant Abstract Murals by Zebu Enliven Urban Walls",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/zebu-vibrant-abstract-murals/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Tue, 27 Oct 2026 19:00:0"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "illustration",
+        "abstract",
+        "murals",
+        "painting",
+        "public art",
+        "zebu"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:53.344Z",
+      "hash": "f556f24fb3cfa0cc"
+    },
+    {
+      "id": "word:fce4bc957b4963e7",
+      "type": "word",
+      "title": "pathos",
+      "summary": "Noun: The quality or property of anything which touches the feelings or excites emotions and passions, especially that which awakens tender emotions, such as pity, sorrow, and the like; contagious warmth of feeling, action, or expression; pathetic quality.",
+      "body": "1. The quality or property of anything which touches the feelings or excites emotions and passions, especially that which awakens tender emotions, such as pity, sorrow, and the like; contagious warmth of feeling, action, or expression; pathetic quality.\n2. A form of rhetoric in which the writer or speaker uses emotional appeals to the audience as the main form of persuasion.\n3. An author's attempt to evoke a feeling of pity or sympathetic sorrow for a character.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/pathos",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:52.896Z",
+      "hash": "fce4bc957b4963e7"
+    },
+    {
+      "id": "word:27613a753857af67",
+      "type": "word",
+      "title": "enigma",
+      "summary": "Noun: Something or someone puzzling, mysterious or inexplicable.",
+      "body": "1. Something or someone puzzling, mysterious or inexplicable.\n2. A riddle, or a difficult problem.\n3. Riddles and puzzles, collectively.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/enigma",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:51.673Z",
+      "hash": "27613a753857af67"
+    },
+    {
+      "id": "quote:af97be4445e3cbf7",
+      "type": "quote",
+      "title": "“Things turn out best for the people who make the best of the way things turn out.”",
+      "summary": "— John Wooden",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/John_Wooden",
+        "trustTier": "community",
+        "author": "John Wooden"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:46.657Z",
+      "hash": "af97be4445e3cbf7"
+    },
+    {
+      "id": "quote:23356f358bc92257",
+      "type": "quote",
+      "title": "“A dream doesn't become reality through magic it takes sweat, determination and hard work.”",
+      "summary": "— Colin Powell",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Colin_Powell",
+        "trustTier": "community",
+        "author": "Colin Powell"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:46.657Z",
+      "hash": "23356f358bc92257"
+    },
+    {
+      "id": "quote:4084284eee5201a9",
+      "type": "quote",
+      "title": "“Looking after my health today gives me a better hope for tomorrow.”",
+      "summary": "— Anne Wilson Schaef",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Anne_Wilson_Schaef",
+        "trustTier": "community",
+        "author": "Anne Wilson Schaef"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:46.657Z",
+      "hash": "4084284eee5201a9"
+    },
+    {
+      "id": "book-review:b96cf2a137913c6e",
+      "type": "book-review",
+      "title": "Who Were Chile’s Disappeared?",
+      "summary": "Mila Burns’s “Dictatorship Across Borders” offers a new history of surveillance, repression, and exile in Pinochet’s Chile and the Fifth Brazilian Republic. The post Who Were Chile’s Disappeared? appeared first on Public Books.",
+      "body": "Mila Burns’s “Dictatorship Across Borders” offers a new history of surveillance, repression, and exile in Pinochet’s Chile and the Fifth Brazilian Republic. The post Who Were Chile’s Disappeared? appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/who-were-chiles-disappeared/",
+        "trustTier": "publication",
+        "author": "Morgan Barry",
+        "date": "Tue, 27 Oct 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "reviews",
+        "authoritarianism",
+        "borders",
+        "brazil",
+        "chile",
+        "cia",
+        "cold war"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:46.548Z",
+      "hash": "b96cf2a137913c6e"
+    },
+    {
+      "id": "article:28b68c2df3e4ea59",
+      "type": "article",
+      "title": "Paleovirology: How HIV Started a Century Before Anyone Noticed",
+      "summary": "I’ve been vaguely aware for awhile that researchers had traced the origins of HIV/AIDS back to Sub-Saharan Africa. But I didn’t know the whole story, which turns out to be really fascinating. For decades, one man was blamed for bringing AIDS to America. But the “Patient Zero” story was wrong. This…",
+      "body": "I’ve been vaguely aware for awhile that researchers had traced the origins of HIV/AIDS back to Sub-Saharan Africa. But I didn’t know the whole story, which turns out to be really fascinating. For decades, one man was blamed for bringing AIDS to America. But the “Patient Zero” story was wrong. This is the story of how genetic detective work traced HIV’s true origins — from chimpanzees in Central Africa to a global pandemic — and how science unraveled one of the biggest myths in modern medicine. Disappointingly, they didn’t list any of their sources for the video. I poked around a little and…",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/10/paleovirology-how-hiv-started-a-century-before-anyone-noticed",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-10-28T14:42:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:38.703Z",
+      "hash": "28b68c2df3e4ea59"
+    },
+    {
+      "id": "article:11370eb62727fd5d",
+      "type": "article",
+      "title": "How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement",
+      "summary": "The post How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement appeared first on ProPublica.",
+      "body": "The post How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/587ba656a89dc57b.jpg",
+        "alt": "How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+        "trustTier": "publication",
+        "author": "Doug Bock Clark",
+        "date": "Wed, 28 Oct 2026 09:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "politics",
+        "trump administration"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:35.846Z",
+      "hash": "11370eb62727fd5d",
+      "expires": "2027-01-26T14:57:35.846Z"
+    },
+    {
+      "id": "article:00cf3b1142a54877",
+      "type": "article",
+      "title": "Extraordinary, but Ordinary: Reading Homeric Ideology Through Disney’s “Zombies”",
+      "summary": "How do we know what a work of art like the Iliad wants us to believe? Pour a cup of coffee (or maybe something stronger), because the answer’s not a simple one. Iliad 2.203-6 “There’s no way all of us Achaeans here can rule!The rule of many isn’t a good thing. Let there be one … Continue reading…",
+      "body": "How do we know what a work of art like the Iliad wants us to believe? Pour a cup of coffee (or maybe something stronger), because the answer’s not a simple one. Iliad 2.203-6 “There’s no way all of us Achaeans here can rule!The rule of many isn’t a good thing. Let there be one … Continue reading Extraordinary, but Ordinary: Reading Homeric Ideology Through Disney’s “Zombies”",
+      "image": {
+        "src": "data/images/bca0e2b9fbe840bf.jpg",
+        "alt": "Extraordinary, but Ordinary: Reading Homeric Ideology Through Disney’s “Zombies”",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/10/09/extraordinary-but-ordinary-reading-homeric-ideology-through-disneys-zombies/",
+        "trustTier": "community",
+        "author": "Joel",
+        "date": "Fri, 09 Oct 2026 18:37:4"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "homer",
+        "ideology",
+        "painful signs"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:35.659Z",
+      "hash": "00cf3b1142a54877"
+    },
+    {
+      "id": "article:13efda544e6eeb39",
+      "type": "article",
+      "title": "Heroic Actions, Divine Choices? On Double Motivation in Homer",
+      "summary": "Do we really know why or how we make decisions? Do we want steak for dinner because of its social and cultural value or because of the evolutionary advantage of high protein diets or because of our body’s need for iron or because we just like the taste? (Ask a Homeric hero that one: they ……",
+      "body": "Do we really know why or how we make decisions? Do we want steak for dinner because of its social and cultural value or because of the evolutionary advantage of high protein diets or because of our body’s need for iron or because we just like the taste? (Ask a Homeric hero that one: they … Continue reading Heroic Actions, Divine Choices? On Double Motivation in Homer",
+      "image": {
+        "src": "data/images/b5072bf7595efc18.png",
+        "alt": "Heroic Actions, Divine Choices? On Double Motivation in Homer",
+        "credit": "Sententiae Antiquae"
+      },
+      "source": {
+        "name": "Sententiae Antiquae",
+        "url": "https://sententiaeantiquae.com/2026/10/23/heroic-actions-divine-choices-on-double-motivation-in-homer/",
+        "trustTier": "community",
+        "author": "Joel",
+        "date": "Fri, 23 Oct 2026 15:31:4"
+      },
+      "tags": [
+        "classics",
+        "greek",
+        "antiquity",
+        "agency",
+        "determinism",
+        "free will",
+        "painful signs"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:35.658Z",
+      "hash": "13efda544e6eeb39"
+    },
+    {
+      "id": "article:6ab92c9714c16d99",
+      "type": "article",
+      "title": "Quang Trung Museum in Tây Sơn, Vietnam",
+      "summary": "Set against the rural backdrop of Tay Son district, the Quang Trung Museum rises as a powerful monument to one of the most brilliant military commanders in Vietnamese history, Emperor Quang Trung (Nguyen Hue). Erected directly upon the ancestral soil of the legendary Tay Son brothers, the museum…",
+      "body": "Set against the rural backdrop of Tay Son district, the Quang Trung Museum rises as a powerful monument to one of the most brilliant military commanders in Vietnamese history, Emperor Quang Trung (Nguyen Hue). Erected directly upon the ancestral soil of the legendary Tay Son brothers, the museum grounds shelter deeply sacred living relics, including an ancient tamarind tree and a stone well dating back to the family's childhood. Inside the exhibition halls, an extensive collection of rare weaponry, battle flags, and historical documents trace the meteoric rise of the 18th-century peasant…",
+      "image": {
+        "src": "data/images/094b207ae7aec2b0.png",
+        "alt": "Quang Trung Museum in Tây Sơn, Vietnam",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/quang-trung-museum",
+        "trustTier": "publication",
+        "date": "Tue, 27 Oct 2026 16:00:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history",
+        "military history",
+        "museums"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:35.581Z",
+      "hash": "6ab92c9714c16d99"
+    },
+    {
+      "id": "article:72c4f67d1c332321",
+      "type": "article",
+      "title": "AI hacking risks",
+      "summary": "That is the topic of my latest Free Press column (now there are gift links!), here is one excerpt, noting this is a worst-case scenario not a prediction: Yet current systems are likely to prove more robust than that suggests. For one thing, they use a variety of different methods of protection,…",
+      "body": "That is the topic of my latest Free Press column (now there are gift links!), here is one excerpt, noting this is a worst-case scenario not a prediction: Yet current systems are likely to prove more robust than that suggests. For one thing, they use a variety of different methods of protection, including public key […] The post AI hacking risks appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Wed, 28 Oct 2026 04:38:2"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "web/tech"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:34.590Z",
+      "hash": "72c4f67d1c332321"
+    },
+    {
+      "id": "article:d27f75de01e0b62e",
+      "type": "article",
+      "title": "Inequality in Equal Land",
+      "summary": "Adam Nash has a good post on wealth inequality: …Every year, we pull the most recent data from the US Census on household wealth, cut by age. …invariably, the students’ initial response is a reaction to the apparent disparity in wealth between households based on age. For many students, it just…",
+      "body": "Adam Nash has a good post on wealth inequality: …Every year, we pull the most recent data from the US Census on household wealth, cut by age. …invariably, the students’ initial response is a reaction to the apparent disparity in wealth between households based on age. For many students, it just doesn’t seem fair at […] The post Inequality in Equal Land appeared first on Marginal REVOLUTION.",
+      "image": {
+        "src": "data/images/9b7c788a443c999e.webp",
+        "alt": "Inequality in Equal Land",
+        "credit": "Marginal Revolution"
+      },
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land",
+        "trustTier": "community",
+        "author": "Alex Tabarrok",
+        "date": "Wed, 28 Oct 2026 11:18:2"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "data source",
+        "law",
+        "media"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:34.590Z",
+      "hash": "d27f75de01e0b62e"
+    },
+    {
+      "id": "article:cf426b55093fd7e4",
+      "type": "article",
+      "title": "How Voting Is Like a Klein Bottle",
+      "summary": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine",
+      "body": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine",
+      "image": {
+        "src": "data/images/555f45e50dd21480.webp",
+        "alt": "How Voting Is Like a Klein Bottle",
+        "credit": "Quanta Magazine"
+      },
+      "source": {
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+        "trustTier": "publication",
+        "author": "Alex Stone",
+        "date": "Mon, 26 Oct 2026 14:54:2"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "mathematics"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:33.886Z",
+      "hash": "cf426b55093fd7e4"
+    },
+    {
+      "id": "greek:514725f5fd86f09f",
+      "type": "greek",
+      "title": "ἐγώ",
+      "summary": "ἐγώ — “I” · pronoun",
+      "body": "Note: 1st person singular nominative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%90%CE%B3%CF%8E#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "pronoun",
+        "function_word"
+      ],
+      "lang": "grc",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-28T14:57:33.478Z",
+      "hash": "514725f5fd86f09f"
+    },
+    {
+      "id": "greek:76e1efe45624191c",
+      "type": "greek",
+      "title": "ἀρχή",
+      "summary": "ἀρχή — “beginning” · noun",
+      "body": "Note: ἡ ἀρχή; also \"ruler, authority\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CF%81%CF%87%CE%AE#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_fem_1st"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:33.478Z",
+      "hash": "76e1efe45624191c"
+    },
+    {
+      "id": "poetry:458da900cbde97d0",
+      "type": "poem",
+      "title": "Lines Written during the Castlereagh Administration",
+      "summary": "Corpses are cold in the tomb;\nStones on the pavement are dumb;\nAbortions are dead in the womb,\nAnd their mothers look pale--like the death-white shore",
+      "body": "Corpses are cold in the tomb;\nStones on the pavement are dumb;\nAbortions are dead in the womb,\nAnd their mothers look pale--like the death-white shore\nOf Albion, free no more.\n\nHer sons are as stones in the way--\nThey are masses of senseless clay--\nThey are trodden, and move not away,--\nThe abortion with which SHE travaileth\nIs Liberty, smitten to death.\n\nThen trample and dance, thou Oppressor!\nFor thy victim is no redresser;\nThou art sole lord and possessor\nOf her corpses, and clods, and abortions--they pave\nThy path to the grave.\n\nHearest thou the festival din\nOf Death, and Destruction, and Sin,\nAnd Wealth crying \"Havoc!\" within?\n'Tis the bacchanal triumph that makes Truth dumb,\nThine Epithalamium.\n\nAy, marry thy ghastly wife!\nLet Fear and Disquiet and Strife\nSpread thy couch in the chamber of Life!\nMarry Ruin, thou Tyrant! and Hell be thy guide\nTo the bed of the bride!",
+      "source": {
+        "name": "Percy Bysshe Shelley · PoetryDB",
+        "url": "https://poetrydb.org/title/Lines%20Written%20during%20the%20Castlereagh%20Administration",
+        "trustTier": "community",
+        "author": "Percy Bysshe Shelley"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:33.477Z",
+      "hash": "458da900cbde97d0"
+    },
+    {
+      "id": "poetry:985edddbf4d20cae",
+      "type": "poem",
+      "title": "Song of the Broad-Axe",
+      "summary": "1\nWEAPON, shapely, naked, wan!\nHead from the mother’s bowels drawn!\nWooded flesh and metal bone! limb only one, and lip only one!",
+      "body": "1\nWEAPON, shapely, naked, wan!\nHead from the mother’s bowels drawn!\nWooded flesh and metal bone! limb only one, and lip only one!\nGray-blue leaf by red-heat grown! helve produced from a little seed sown!\nResting the grass amid and upon,\nTo be lean’d, and to lean on.\n\nStrong shapes, and attributes of strong shapes—masculine trades, sights and sounds;\nLong varied train of an emblem, dabs of music;\nFingers of the organist skipping staccato over the keys of the great organ.\n\n2\nWelcome are all earth’s lands, each for its kind;\nWelcome are lands of pine and oak;\nWelcome are lands of the lemon and fig;\nWelcome are lands of gold;\nWelcome are lands of wheat and maize—welcome those of the grape;\nWelcome are lands of sugar and rice;\nWelcome the cotton-lands—welcome those of the white potato and sweet potato;\nWelcome are mountains, flats, sands, forests, prairies;\nWelcome the rich borders of rivers, table-lands, openings;\nWelcome the measureless grazing-lands—welcome the teeming soil of orchards, flax, honey,\n    hemp;\n\nWelcome just as much the other more hard-faced lands;\nLands rich as lands of gold, or wheat and fruit lands;\nLands of mines, lands of the manly and rugged ores;\nLands of coal, copper, lead, tin, zinc;\nLANDS OF IRON! lands of the make of the axe!\n\n3\nThe log at the wood-pile, the axe supported by it;\nThe sylvan hut, the vine over the doorway, the space clear’d for a garden,\nThe irregular tapping of rain down on the leaves, after the storm is lull’d,\nThe wailing and moaning at intervals, the thought of the sea,\nThe thought of ships struck in the storm, and put on their beam ends, and the cutting away\n    of\n  masts;\n\nThe sentiment of the huge timbers of old-fashion’d houses and barns;\nThe remember’d print or narrative, the voyage at a venture of men, families, goods,\nThe disembarkation, the founding of a new city,\nThe voyage of those who sought a New England and found it—the outset anywhere,\nThe settlements of the Arkansas, Colorado, Ottawa, Willamette,\nThe slow progress, the scant fare, the axe, rifle, saddle-bags;\nThe beauty of all adventurous and daring persons,\nThe beauty of wood-boys and wood-men, with their clear untrimm’d faces,\nThe beauty of independence, departure, actions that rely on themselves,\nThe American contempt for statutes and ceremonies, the boundless impatience of restraint,\n\nThe loose drift of character, the inkling through random types, the solidification;\nThe butcher in the slaughter-house, the hands aboard schooners and sloops, the raftsman,\n    the\n  pioneer,\nLumbermen in their winter camp, day-break in the woods, stripes of snow on the limbs of\n    trees,\n  the\n  occasional snapping,\nThe glad clear sound of one’s own voice, the merry song, the natural life of the woods,\n    the\n  strong\n  day’s work,\nThe blazing fire at night, the sweet taste of supper, the talk, the bed of hemlock boughs,\n    and\n  the\n  bear-skin;\n—The house-builder at work in cities or anywhere,\nThe preparatory jointing, squaring, sawing, mortising,\nThe hoist-up of beams, the push of them in their places, laying them regular,\nSetting the studs by their tenons in the mortises, according as they were prepared,\nThe blows of mallets and hammers, the attitudes of the men, their curv’d limbs,\nBending, standing, astride the beams, driving in pins, holding on by posts and braces,\nThe hook’d arm over the plate, the other arm wielding the axe,\nThe floor-men forcing the planks close, to be nail’d,\nTheir postures bringing their weapons downward on the bearers,\nThe echoes resounding through the vacant building;\nThe huge store-house carried up in the city, well under way,\nThe six framing-men, two in the middle, and two at each end, carefully bearing on their\n  shoulders a\n  heavy stick for a cross-beam,\nThe crowded line of masons with trowels in their right hands, rapidly laying the long\n  side-wall, two\n  hundred feet from front to rear,\nThe flexible rise and fall of backs, the continual click of the trowels striking the\n    bricks,\nThe bricks, one after another, each laid so workmanlike in its place, and set with a knock\n    of\n  the\n  trowel-handle,\nThe piles of materials, the mortar on the mortar-boards, and the steady replenishing by\n    the\n  hod-men;\n—Spar-makers in the spar-yard, the swarming row of well-grown apprentices,\nThe swing of their axes on the square-hew’d log, shaping it toward the shape of a mast,\nThe brisk short crackle of the steel driven slantingly into the pine,\nThe butter-color’d chips flying off in great flakes and slivers,\nThe limber motion of brawny young arms and hips in easy costumes;\nThe constructor of wharves, bridges, piers, bulk-heads, floats, stays against the sea;\n—The city fireman—the fire that suddenly bursts forth in the close-pack’d square,\nThe arriving engines, the hoarse shouts, the nimble stepping and daring,\nThe strong command through the fire-trumpets, the falling in line, the rise and fall of\n    the\n  arms\n  forcing the water,\nThe slender, spasmic, blue-white jets—the bringing to bear of the hooks and ladders, and\n    their\n  execution,\nThe crash and cut away of connecting wood-work, or through floors, if the fire smoulders\n    under\n  them,\n\nThe crowd with their lit faces, watching—the glare and dense shadows;\n—The forger at his forge-furnace, and the user of iron after him,\nThe maker of the axe large and small, and the welder and temperer,\nThe chooser breathing his breath on the cold steel, and trying the edge with his thumb,\nThe one who clean-shapes the handle, and sets it firmly in the socket;\nThe shadowy processions of the portraits of the past users also,\nThe primal patient mechanics, the architects and engineers,\nThe far-off Assyrian edifice and Mizra edifice,\nThe Roman lictors preceding the consuls,\nThe antique European warrior with his axe in combat,\nThe uplifted arm, the clatter of blows on the helmeted head,\nThe death-howl, the limpsey tumbling body, the rush of friend and foe thither,\nThe siege of revolted lieges determin’d for liberty,\nThe summons to surrender, the battering at castle gates, the truce and parley;\nThe sack of an old city in its time,\nThe bursting in of mercenaries and bigots tumultuously and disorderly,\nRoar, flames, blood, drunkenness, madness,\nGoods freely rifled from houses and temples, screams of women in the gripe of brigands,\nCraft and thievery of camp-followers, men running, old persons despairing,\nThe hell of war, the cruelties of creeds,\nThe list of all executive deeds and words, just or unjust,\nThe power of personality, just or unjust.\n\n4\nMuscle and pluck forever!\nWhat invigorates life, invigorates death,\nAnd the dead advance as much as the living advance,\nAnd the future is no more uncertain than the present,\nAnd the roughness of the earth and of man encloses as much as the delicatesse of the earth\n    and\n  of\n  man,\nAnd nothing endures but personal qualities.\nWhat do you think endures?\nDo you think the great city endures?\nOr a teeming manufacturing state? or a prepared constitution? or the best-built\n    steamships?\nOr hotels of granite and iron? or any chef-d’oeuvres of engineering, forts, armaments?\n\nAway! These are not to be cherish’d for themselves;\nThey fill their hour, the dancers dance, the musicians play for them;\nThe show passes, all does well enough of course,\nAll does very well till one flash of defiance.\n\nThe great city is that which has the greatest man or woman;\nIf it be a few ragged huts, it is still the greatest city in the whole world.\n\n5\nThe place where the great city stands is not the place of stretch’d wharves, docks,\n  manufactures,\n  deposits of produce,\nNor the place of ceaseless salutes of new comers, or the anchor-lifters of the departing,\n\nNor the place of the tallest and costliest buildings, or shops selling goods from the rest\n    of\n  the\n  earth,\nNor the place of the best libraries and schools—nor the place where money is plentiest,\nNor the place of the most numerous population.\n\nWhere the city stands with the brawniest breed of orators and bards;\nWhere the city stands that is beloved by these, and loves them in return, and understands\n    them;\n\nWhere no monuments exist to heroes, but in the common words and deeds;\nWhere thrift is in its place, and prudence is in its place;\nWhere the men and women think lightly of the laws;\nWhere the slave ceases, and the master of slaves ceases;\nWhere the populace rise at once against the never-ending audacity of elected persons;\nWhere fierce men and women pour forth, as the sea to the whistle of death pours its\n    sweeping\n  and\n  unript waves;\nWhere outside authority enters always after the precedence of inside authority;\nWhere the citizen is always the head and ideal—and President, Mayor, Governor, and what\n    not,\n  are\n  agents for pay;\nWhere children are taught to be laws to themselves, and to depend on themselves;\nWhere equanimity is illustrated in affairs;\nWhere speculations on the Soul are encouraged;\nWhere women walk in public processions in the streets, the same as the men,\nWhere they enter the public assembly and take places the same as the men;\nWhere the city of the faithfulest friends stands;\nWhere the city of the cleanliness of the sexes stands;\nWhere the city of the healthiest fathers stands;\nWhere the city of the best-bodied mothers stands,\nThere the great city stands.\n\n6\nHow beggarly appear arguments before a defiant deed!\nHow the floridness of the materials of cities shrivels before a man’s or woman’s look!\n\nAll waits, or goes by default, till a strong being appears;\nA strong being is the proof of the race, and of the ability of the universe;\nWhen he or she appears, materials are overaw’d,\nThe dispute on the Soul stops,\nThe old customs and phrases are confronted, turn’d back, or laid away.\n\nWhat is your money-making now? what can it do now?\nWhat is your respectability now?\nWhat are your theology, tuition, society, traditions, statute-books, now?\nWhere are your jibes of being now?\nWhere are your cavils about the Soul now?\n\n7\nA sterile landscape covers the ore—there is as good as the best, for all the forbidding\n  appearance;\nThere is the mine, there are the miners;\nThe forge-furnace is there, the melt is accomplish’d; the hammers-men are at hand with\n    their\n  tongs\n  and hammers;\nWhat always served, and always serves, is at hand.\n\nThan this, nothing has better served—it has served all:\nServed the fluent-tongued and subtle-sensed Greek, and long ere the Greek:\nServed in building the buildings that last longer than any;\nServed the Hebrew, the Persian, the most ancient Hindostanee;\nServed the mound-raiser on the Mississippi—served those whose relics remain in Central\n  America;\nServed Albic temples in woods or on plains, with unhewn pillars, and the druids;\nServed the artificial clefts, vast, high, silent, on the snow-cover’d hills of\n    Scandinavia;\nServed those who, time out of mind, made on the granite walls rough sketches of the sun,\n    moon,\n  stars, ships, ocean-waves;\nServed the paths of the irruptions of the Goths—served the pastoral tribes and nomads;\nServed the long, long distant Kelt—served the hardy pirates of the Baltic;\nServed before any of those, the venerable and harmless men of Ethiopia;\nServed the making of helms for the galleys of pleasure, and the making of those for war;\nServed all great works on land, and all great works on the sea;\nFor the mediÃ¦val ages, and before the mediÃ¦val ages;\nServed not the living only, then as now, but served the dead.\n\n8\nI see the European headsman;\nHe stands mask’d, clothed in red, with huge legs, and strong naked arms,\nAnd leans on a ponderous axe.\n\n(Whom have you slaughter’d lately, European headsman?\nWhose is that blood upon you, so wet and sticky?)\n\nI see the clear sunsets of the martyrs;\nI see from the scaffolds the descending ghosts,\nGhosts of dead lords, uncrown’d ladies, impeach’d ministers, rejected kings,\nRivals, traitors, poisoners, disgraced chieftains, and the rest.\n\nI see those who in any land have died for the good cause;\nThe seed is spare, nevertheless the crop shall never run out;\n(Mind you, O foreign kings, O priests, the crop shall never run out.)\n\nI see the blood wash’d entirely away from the axe;\nBoth blade and helve are clean;\nThey spirt no more the blood of European nobles—they clasp no more the necks of queens.\n\nI see the headsman withdraw and become useless;\nI see the scaffold untrodden and mouldy—I see no longer any axe upon it;\nI see the mighty and friendly emblem of the power of my own race—the newest, largest race.\n\n\n9\n(America! I do not vaunt my love for you;\nI have what I have.)\n\nThe axe leaps!\nThe solid forest gives fluid utterances;\nThey tumble forth, they rise and form,\nHut, tent, landing, survey,\nFlail, plough, pick, crowbar, spade,\nShingle, rail, prop, wainscot, jamb, lath, panel, gable,\nCitadel, ceiling, saloon, academy, organ, exhibition-house, library,\nCornice, trellis, pilaster, balcony, window, shutter, turret, porch,\nHoe, rake, pitch-fork, pencil, wagon, staff, saw, jack-plane, mallet, wedge, rounce,\nChair, tub, hoop, table, wicket, vane, sash, floor,\nWork-box, chest, string’d instrument, boat, frame, and what not,\nCapitols of States, and capitol of the nation of States,\nLong stately rows in avenues, hospitals for orphans, or for the poor or sick,\nManhattan steamboats and clippers, taking the measure of all seas.\n\nThe shapes arise!\nShapes of the using of axes anyhow, and the users, and all that neighbors them,\nCutters down of wood, and haulers of it to the Penobscot or Kennebec,\nDwellers in cabins among the California mountains, or by the little lakes, or on the\n    Columbia,\n\nDwellers south on the banks of the Gila or Rio Grande—friendly gatherings, the characters\n    and\n  fun,\n\nDwellers up north in Minnesota and by the Yellowstone river—dwellers on coasts and off\n    coasts,\nSeal-fishers, whalers, arctic seamen breaking passages through the ice.\n\nThe shapes arise!\nShapes of factories, arsenals, foundries, markets;\nShapes of the two-threaded tracks of railroads;\nShapes of the sleepers of bridges, vast frameworks, girders, arches;\nShapes of the fleets of barges, towns, lake and canal craft, river craft.\n\nThe shapes arise!\nShip-yards and dry-docks along the Eastern and Western Seas, and in many a bay and\n    by-place,\nThe live-oak kelsons, the pine planks, the spars, the hackmatack-roots for knees,\nThe ships themselves on their ways, the tiers of scaffolds, the workmen busy outside and\n  inside,\nThe tools lying around, the great auger and little auger, the adze, bolt, line, square,\n    gouge,\n  and\n  bead-plane.\n\n10\nThe shapes arise!\nThe shape measur’d, saw’d, jack’d, join’d, stain’d,\nThe coffin-shape for the dead to lie within in his shroud;\nThe shape got out in posts, in the bedstead posts, in the posts of the bride’s bed;\nThe shape of the little trough, the shape of the rockers beneath, the shape of the babe’s\n  cradle;\n\nThe shape of the floor-planks, the floor-planks for dancers’ feet;\nThe shape of the planks of the family home, the home of the friendly parents and children,\n\nThe shape of the roof of the home of the happy young man and woman—the roof over the\n  well-married\n  young man and woman,\nThe roof over the supper joyously cook’d by the chaste wife, and joyously eaten by the\n    chaste\n  husband, content after his day’s work.\n\nThe shapes arise!\nThe shape of the prisoner’s place in the court-room, and of him or her seated in the\n    place;\nThe shape of the liquor-bar lean’d against by the young rum-drinker and the old\n    rum-drinker;\nThe shape of the shamed and angry stairs, trod by sneaking footsteps;\nThe shape of the sly settee, and the adulterous unwholesome couple;\nThe shape of the gambling-board with its devilish winnings and losings;\nThe shape of the step-ladder for the convicted and sentenced murderer, the murderer with\n  haggard\n  face and pinion’d arms,\nThe sheriff at hand with his deputies, the silent and white-lipp’d crowd, the dangling of\n    the\n  rope.\n\nThe shapes arise!\nShapes of doors giving many exits and entrances;\nThe door passing the dissever’d friend, flush’d and in haste;\nThe door that admits good news and bad news;\nThe door whence the son left home, confident and puff’d up;\nThe door he enter’d again from a long and scandalous absence, diseas’d, broken down,\n    without\n  innocence, without means.\n\n11\nHer shape arises,\nShe, less guarded than ever, yet more guarded than ever;\nThe gross and soil’d she moves among do not make her gross and soil’d;\nShe knows the thoughts as she passes—nothing is conceal’d from her;\nShe is none the less considerate or friendly therefor;\nShe is the best belov’d—it is without exception—she has no reason to fear, and she does\n    not\n  fear;\nOaths, quarrels, hiccupp’d songs, smutty expressions, are idle to her as she passes;\nShe is silent—she is possess’d of herself—they do not offend her;\nShe receives them as the laws of nature receive them—she is strong,\nShe too is a law of nature—there is no law stronger than she is.\n\n12\nThe main shapes arise!\nShapes of Democracy, total—result of centuries;\nShapes, ever projecting other shapes;\nShapes of turbulent manly cities;\nShapes of the friends and home-givers of the whole earth,\nShapes bracing the earth, and braced with the whole earth.",
+      "source": {
+        "name": "Walt Whitman · PoetryDB",
+        "url": "https://poetrydb.org/title/Song%20of%20the%20Broad-Axe",
+        "trustTier": "community",
+        "author": "Walt Whitman"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-28T14:57:33.477Z",
+      "hash": "985edddbf4d20cae"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399901614-0",
+      "type": "art",
+      "title": "Design for Embroidery, Gentleman's Waistcoat Pocket",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1770s · Embroidery (visual works)",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1770s · Embroidery (visual works)",
+      "image": {
+        "src": "data/images/6641ce7f98e36c54.jpg",
+        "alt": "Design for Embroidery, Gentleman's Waistcoat Pocket",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/41265",
+        "trustTier": "encyclopedic",
+        "date": "1770s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "flower",
+        "embroidery (visual works)"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-28T14:57:32.402Z",
+      "hash": "ba5cbf91e110bd74"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399940078-0",
+      "type": "art",
+      "title": "Designs for Wallpaper and Textiles: Flowers",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1800s · Design drawings",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1800s · Design drawings",
+      "image": {
+        "src": "data/images/302b81e666f3ee37.jpg",
+        "alt": "Designs for Wallpaper and Textiles: Flowers",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/141156",
+        "trustTier": "encyclopedic",
+        "date": "1800s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "flower",
+        "design drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-28T14:57:32.402Z",
+      "hash": "f467d9c37fc1ac85"
+    },
+    {
+      "id": "art:si:ld1-1759311857404-1759311860093-0",
+      "type": "art",
+      "title": "Cream hat with cream and pink fabric flowers",
+      "summary": "National Museum of African American History and Culture · 1940s · Hats",
+      "body": "National Museum of African American History and Culture\n1940s · Hats",
+      "image": {
+        "src": "data/images/c0a8202ba6d48ef9.jpg",
+        "alt": "Cream hat with cream and pink fabric flowers",
+        "credit": "National Museum of African American History and Culture · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://nmaahc.si.edu/object/nmaahc_2007.3.777",
+        "trustTier": "encyclopedic",
+        "date": "1940s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "flower",
+        "hats"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-28T14:57:32.402Z",
+      "hash": "a02d0187a961a795"
+    },
+    {
+      "id": "apod:1998-07-04",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap980704.html",
+        "trustTier": "encyclopedic",
+        "date": "1998-07-04"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:28.576Z",
+      "hash": "f46b0cd63b4f1b24"
+    },
+    {
+      "id": "apod:2003-02-04",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Astropix.com"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap030204.html",
+        "trustTier": "encyclopedic",
+        "date": "2003-02-04"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:28.576Z",
+      "hash": "c3564ec640a2651c"
+    },
+    {
+      "id": "apod:2017-03-11",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Adam Block"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap170311.html",
+        "trustTier": "encyclopedic",
+        "date": "2017-03-11"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:28.575Z",
+      "hash": "7744593362166d29"
+    },
+    {
+      "id": "apod:2017-07-26",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap170726.html",
+        "trustTier": "encyclopedic",
+        "date": "2017-07-26"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:28.575Z",
+      "hash": "8f34d62e1ce49976"
+    },
+    {
+      "id": "apod:2016-02-24",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap160224.html",
+        "trustTier": "encyclopedic",
+        "date": "2016-02-24"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:28.575Z",
+      "hash": "a750d2b63cf3fb3f"
+    },
+    {
+      "id": "onthisday:10-28:1640:64eb296b74414e7d",
+      "type": "history",
+      "title": "1640: Treaty of Ripon",
+      "summary": "The Treaty of Ripon was agreed, ending the Second Bishops' War and forcing Charles I to summon the Long Parliament, ultimately leading to the First English Civil War.",
+      "body": "The Treaty of Ripon was agreed, ending the Second Bishops' War and forcing Charles I to summon the Long Parliament, ultimately leading to the First English Civil War.",
+      "image": {
+        "src": "data/images/f9ea0f8fc9be4ab9.jpg",
+        "alt": "Treaty of Ripon",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Ripon",
+        "trustTier": "encyclopedic",
+        "date": "10-28"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:20.762Z",
+      "hash": "015e4bebf4f006d4",
+      "expires": "2026-10-31T14:57:20.762Z"
+    },
+    {
+      "id": "onthisday:10-28:1919:b6752f3c9406691b",
+      "type": "history",
+      "title": "1919: United States Congress",
+      "summary": "The U.S. Congress passed the Volstead Act over president Woodrow Wilson's veto, reinforcing Prohibition in the United States.",
+      "body": "The U.S. Congress passed the Volstead Act over president Woodrow Wilson's veto, reinforcing Prohibition in the United States.",
+      "image": {
+        "src": "data/images/a9a65ada304c06e9.png",
+        "alt": "United States Congress",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/United_States_Congress",
+        "trustTier": "encyclopedic",
+        "date": "10-28"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:20.762Z",
+      "hash": "72d277269e1bb345",
+      "expires": "2026-10-31T14:57:20.762Z"
+    },
+    {
+      "id": "onthisday:10-28:312:73ae8493ca3854c3",
+      "type": "history",
+      "title": "312: Civil wars of the Tetrarchy",
+      "summary": "Civil wars of the Tetrarchy: Constantine the Great defeated Maxentius at the Battle of the Milvian Bridge in Rome.",
+      "body": "Civil wars of the Tetrarchy: Constantine the Great defeated Maxentius at the Battle of the Milvian Bridge in Rome.",
+      "image": {
+        "src": "data/images/307240294d9acbd9.jpg",
+        "alt": "Civil wars of the Tetrarchy",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy",
+        "trustTier": "encyclopedic",
+        "date": "10-28"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:20.762Z",
+      "hash": "d4ab15d9b022e7df",
+      "expires": "2026-10-31T14:57:20.762Z"
+    },
+    {
+      "id": "wikipedia:82754416",
+      "type": "wiki",
+      "title": "Box Hill (novel)",
+      "summary": "Box Hill, subtitled A Story of Low Self-Esteem, is a 2020 novella by Adam Mars-Jones. It follows the story of then 18-year-old Colin who meets an older leather-clad biker, Ray, and enters into a BDSM relationship with him. The novella deals with topics like homophobia, consent, and self-esteem.",
+      "body": "Box Hill, subtitled A Story of Low Self-Esteem, is a 2020 novella by Adam Mars-Jones. It follows the story of then 18-year-old Colin who meets an older leather-clad biker, Ray, and enters into a BDSM relationship with him. The novella deals with topics like homophobia, consent, and self-esteem.",
+      "image": {
+        "src": "data/images/4a6dbdfced31ad1f.jpg",
+        "alt": "Box Hill (novel)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Box_Hill_(novel)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:20.693Z",
+      "hash": "9a6cfbbb3777032a"
+    },
+    {
+      "id": "wikipedia:31609472",
+      "type": "wiki",
+      "title": "Northbridge University",
+      "summary": "Northbridge University is the largest for-profit private university in Puerto Rico with its main campus in Bayamón, Puerto Rico. The university was founded in 1982 as the National College, and offers undergraduate studies and graduate studies in health, business administration, education, information technology, and…",
+      "body": "Northbridge University is the largest for-profit private university in Puerto Rico with its main campus in Bayamón, Puerto Rico. The university was founded in 1982 as the National College, and offers undergraduate studies and graduate studies in health, business administration, education, information technology, and criminal justice.",
+      "image": {
+        "src": "data/images/91e1f58871e47fd0.png",
+        "alt": "Northbridge University",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Northbridge_University",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:20.434Z",
+      "hash": "fe1e2647cc92411f"
+    },
+    {
+      "id": "wikipedia:78420851",
+      "type": "wiki",
+      "title": "Richard Chambers (police officer)",
+      "summary": "Richard Preston Chambers is a New Zealand police officer who has been the Commissioner of Police having succeeded Andrew Coster on 25 November 2024.",
+      "body": "Richard Preston Chambers is a New Zealand police officer who has been the Commissioner of Police having succeeded Andrew Coster on 25 November 2024.",
+      "image": {
+        "src": "data/images/4dcb73fd07f5ef07.jpg",
+        "alt": "Richard Chambers (police officer)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Richard_Chambers_(police_officer)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:20.285Z",
+      "hash": "d8e3e6a58c6ecd1a"
+    },
+    {
+      "id": "wikipedia:5029606",
+      "type": "wiki",
+      "title": "Memil-muk",
+      "summary": "Memil-muk (Korean: 메밀묵) or buckwheat jelly is a light gray-brown muk (jelly) made from buckwheat starch. It is commonly served as banchan as well as anju.",
+      "body": "Memil-muk (Korean: 메밀묵) or buckwheat jelly is a light gray-brown muk (jelly) made from buckwheat starch. It is commonly served as banchan as well as anju.",
+      "image": {
+        "src": "data/images/85c5757cb1262149.jpg",
+        "alt": "Memil-muk",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Memil-muk",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-28T14:57:20.134Z",
+      "hash": "9596b331ca61069a"
+    },
     {
       "id": "chess:1vLfK",
       "type": "chess",
@@ -11293,1223 +12547,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-10-17T12:02:56.354Z",
       "hash": "4d2b0c31d07e555b"
-    },
-    {
-      "id": "onthisday:10-17:1346:470d24800d82c337",
-      "type": "history",
-      "title": "1346: Hundred Years' War",
-      "summary": "Hundred Years' War: Under the terms of Scotland's Auld Alliance with France, King David II of Scotland (pictured) was captured at the Battle of Neville's Cross following his invasion of England.",
-      "body": "Hundred Years' War: Under the terms of Scotland's Auld Alliance with France, King David II of Scotland (pictured) was captured at the Battle of Neville's Cross following his invasion of England.",
-      "image": {
-        "src": "data/images/93ef29b29bb68564.jpg",
-        "alt": "Hundred Years' War",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
-        "trustTier": "encyclopedic",
-        "date": "10-17"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:49.061Z",
-      "hash": "3645c53aafe543eb",
-      "expires": "2026-10-20T12:02:49.061Z"
-    },
-    {
-      "id": "onthisday:10-17:1992:d1165310349e7194",
-      "type": "history",
-      "title": "1992: Baton Rouge, Louisiana",
-      "summary": "Having gone to the wrong house in Baton Rouge, Louisiana, for a Halloween party, Japanese exchange student Yoshihiro Hattori was shot and killed by the homeowner.",
-      "body": "Having gone to the wrong house in Baton Rouge, Louisiana, for a Halloween party, Japanese exchange student Yoshihiro Hattori was shot and killed by the homeowner.",
-      "image": {
-        "src": "data/images/9b418ab569fa55cd.jpg",
-        "alt": "Baton Rouge, Louisiana",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Baton_Rouge%2C_Louisiana",
-        "trustTier": "encyclopedic",
-        "date": "10-17"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:49.061Z",
-      "hash": "61a47eed05c33ffd",
-      "expires": "2026-10-20T12:02:49.061Z"
-    },
-    {
-      "id": "onthisday:10-17:2001:9ed191989ac79804",
-      "type": "history",
-      "title": "2001: Rehavam Ze'evi",
-      "summary": "Rehavam Ze'evi, the Israeli minister of tourism, was assassinated in revenge for the killing of PFLP leader Abu Ali Mustafa.",
-      "body": "Rehavam Ze'evi, the Israeli minister of tourism, was assassinated in revenge for the killing of PFLP leader Abu Ali Mustafa.",
-      "image": {
-        "src": "data/images/3628c51176ffda33.jpg",
-        "alt": "Rehavam Ze'evi",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Rehavam_Ze'evi",
-        "trustTier": "encyclopedic",
-        "date": "10-17"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:49.061Z",
-      "hash": "8435d35c2f316594",
-      "expires": "2026-10-20T12:02:49.061Z"
-    },
-    {
-      "id": "wikipedia:16691988",
-      "type": "wiki",
-      "title": "NaTran",
-      "summary": "NaTran is a French natural gas transmission system operator headquartered in Bois-Colombes, France. It operates a high-pressure gas transmission network and has a public-service mission to ensure the continuity and security of gas transport. In 2025, GRTgaz changed its name to NaTran as part of a strategy focused on…",
-      "body": "NaTran is a French natural gas transmission system operator headquartered in Bois-Colombes, France. It operates a high-pressure gas transmission network and has a public-service mission to ensure the continuity and security of gas transport. In 2025, GRTgaz changed its name to NaTran as part of a strategy focused on the energy transition, including renewable and low-carbon gases, hydrogen and carbon dioxide.",
-      "image": {
-        "src": "data/images/acb361a0df4d1cda.png",
-        "alt": "NaTran",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/NaTran",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:48.996Z",
-      "hash": "3b55968ed966cfcf"
-    },
-    {
-      "id": "wikipedia:63996673",
-      "type": "wiki",
-      "title": "Leonard Krumov",
-      "summary": "Leonard Krumov is a professional Italian rugby union player. His usual position is lock and he currently plays for Zebre in United Rugby Championship.",
-      "body": "Leonard Krumov is a professional Italian rugby union player. His usual position is lock and he currently plays for Zebre in United Rugby Championship.",
-      "image": {
-        "src": "data/images/8306a3078f9391a3.jpg",
-        "alt": "Leonard Krumov",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Leonard_Krumov",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:48.735Z",
-      "hash": "a83de83e60b47758"
-    },
-    {
-      "id": "wikipedia:495823",
-      "type": "wiki",
-      "title": "Edward Needles Hallowell",
-      "summary": "Edward \"Ned\" Needles Hallowell was an officer in the Union Army in the duration of the American Civil War, commanding the 54th Massachusetts Volunteer Infantry following the death of Colonel Robert Gould Shaw at the Second Battle of Fort Wagner in 1863.",
-      "body": "Edward \"Ned\" Needles Hallowell was an officer in the Union Army in the duration of the American Civil War, commanding the 54th Massachusetts Volunteer Infantry following the death of Colonel Robert Gould Shaw at the Second Battle of Fort Wagner in 1863.",
-      "image": {
-        "src": "data/images/2aada395507502a4.png",
-        "alt": "Edward Needles Hallowell",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Edward_Needles_Hallowell",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:48.521Z",
-      "hash": "fc4677af69fe4ffa"
-    },
-    {
-      "id": "wikipedia:7719476",
-      "type": "wiki",
-      "title": "Robert Cawdrey",
-      "summary": "Robert Cawdrey was an English clergyman and author who produced one of the earliest dictionaries of the English language, the Table Alphabeticall, in 1604.",
-      "body": "Robert Cawdrey was an English clergyman and author who produced one of the earliest dictionaries of the English language, the Table Alphabeticall, in 1604.",
-      "image": {
-        "src": "data/images/b6f61ed9192e249e.jpg",
-        "alt": "Robert Cawdrey",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Robert_Cawdrey",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:48.262Z",
-      "hash": "a78baf656f574594"
-    },
-    {
-      "id": "chess:ql5b2",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 2040. Find the best line for white.",
-      "body": "Solution, from → to: e5→c4, b2→c3, d3→c3. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "rn3rk1/1pp1bppp/p3pn2/4N1B1/8/P1NQ4/1qP2PPP/3R1RK1 w - - 0 1",
-        "lastMove": "b4b2"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/ql5b2",
-        "trustTier": "community",
-        "date": "Fri, 16 Oct 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "short",
-        "trappedpiece",
-        "advantage"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-16T13:06:23.653Z",
-      "hash": "797c3c4d04341519"
-    },
-    {
-      "id": "game:2128e23b4e50418f",
-      "type": "game",
-      "title": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam",
-      "summary": "The roguelike RPG is no longer in Steam Early Access, but its upcoming DLC Diaspora will be, marking untrodden ground for the in-development program.",
-      "body": "The roguelike RPG is no longer in Steam Early Access, but its upcoming DLC Diaspora will be, marking untrodden ground for the in-development program.",
-      "image": {
-        "src": "data/images/715f878bd6cb6c4e.png",
-        "alt": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
-        "trustTier": "publication",
-        "author": "Imran Khan",
-        "date": "Thu, 15 Oct 2026 14:00:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:23.328Z",
-      "hash": "2128e23b4e50418f",
-      "expires": "2027-01-14T13:06:23.328Z"
-    },
-    {
-      "id": "trivia:bdbd5965dd13fc3d",
-      "type": "trivia",
-      "title": "Who assassinated President James A. Garfield?",
-      "summary": "Is it: Leon Czolgosz · John Wilkes Booth · Sirhan Sirhan · Charles Guiteau?",
-      "body": "Answer: Charles Guiteau.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-16T13:06:21.036Z",
-      "hash": "bdbd5965dd13fc3d"
-    },
-    {
-      "id": "trivia:ec6a946e520d50f6",
-      "type": "trivia",
-      "title": "Out of the 3 Tots in Tots TV, who speaks French in the UK Version and Spanish in the US Version?",
-      "summary": "Is it: Tilly · Tom · None of the Above · Tiny?",
-      "body": "Answer: Tilly.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "television"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:21.036Z",
-      "hash": "ec6a946e520d50f6"
-    },
-    {
-      "id": "trivia:71fbc2837053e4bd",
-      "type": "trivia",
-      "title": "Who is the main character in the VHS tape included in the board game Nightmare?",
-      "summary": "Is it: The Monster · The Nightmare · The Kryptkeeper · The Gatekeeper?",
-      "body": "Answer: The Gatekeeper.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "board games"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:21.036Z",
-      "hash": "71fbc2837053e4bd"
-    },
-    {
-      "id": "trivia:4c8184b5414972c7",
-      "type": "trivia",
-      "title": "Which animated movie was first to feature a celebrity as a voice actor?",
-      "summary": "Is it: The Hunchback of Notre Dame · James and the Giant Peach · Aladdin · Toy Story?",
-      "body": "Answer: Aladdin.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "film"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:21.036Z",
-      "hash": "4c8184b5414972c7"
-    },
-    {
-      "id": "passage:gutenberg:35",
-      "type": "passage",
-      "title": "The Time Machine",
-      "summary": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burnt brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses. Our…",
-      "body": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burnt brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses. Our chairs, being his patents, embraced and caressed us rather than submitted to be sat upon, and there was that luxurious after-dinner atmosphere, when thought runs gracefully free of the trammels of precision. And he put it to us in this way—marking the points with a lean forefinger—as we sat and lazily admired his earnestness over this new…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/35",
-        "trustTier": "publication",
-        "author": "H. G. Wells",
-        "date": "1895"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "science-fiction",
-        "novel"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:20.789Z",
-      "hash": "6730091402608289"
-    },
-    {
-      "id": "comic:smbc:c3bedec5ea378933",
-      "type": "comic",
-      "title": "Toad",
-      "summary": "Pretty pleased with panel 2.",
-      "image": {
-        "src": "data/images/c1aac720de449f18.png",
-        "alt": "Pretty pleased with panel 2.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/toad",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Thu, 15 Oct 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-16T13:06:19.971Z",
-      "hash": "c3bedec5ea378933"
-    },
-    {
-      "id": "comic:xkcd:693",
-      "type": "comic",
-      "title": "Children's Fantasy",
-      "summary": "I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.",
-      "body": "[[Kid is sitting on the ground with his chin in his hand.]] Kid: I'm such a loser-- > [[Princess sticks her head through a portal.]] Princess: Come quickly, young one! Kid: Holy crap, a portal! Princess: My kingdom needs you! [[He falls through.]] Kid: AAAAAA [[We see him on horseback, helmeted wielding a sword. There's a castle on the horizon and two moons in the sky.]] [[Kid, with helmet and sword, stands before King, Princess, and another warrior. Princess is holding out a ring.]] King: You've saved our kingdom and found your self-confidence. Now it's time to return home. Goodbye, young hero! Princess: Take this ring to remember us! [[Kid stands alone, holding the ring.]] Kid: Well, I…",
-      "image": {
-        "src": "data/images/510c44b13f6ac3c7.png",
-        "alt": "I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.",
-        "credit": "xkcd #693 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/693/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2010-01-25"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-16T13:06:19.812Z",
-      "hash": "9560c9095565cb6d"
-    },
-    {
-      "id": "comic:xkcd:3312",
-      "type": "comic",
-      "title": "Momentum Demonstration",
-      "summary": "\"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other.\"",
-      "image": {
-        "src": "data/images/cdbd0ed3e8282be6.png",
-        "alt": "\"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other.\"",
-        "credit": "xkcd #3312 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3312/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2026-10-16"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-16T13:06:19.537Z",
-      "hash": "2599b365a31b49cb"
-    },
-    {
-      "id": "food:720376c3d701f887",
-      "type": "food",
-      "title": "Macro Bowls",
-      "summary": "The macro bowls featured in Joe Yonan's Mastering the Art of Plant-Based Cooking - nutty brown rice, a rainbow of vegetables, and a miso-tahini dressing you'll want to put on everything. Continue reading Macro Bowls on 101 Cookbooks",
-      "body": "The macro bowls featured in Joe Yonan's Mastering the Art of Plant-Based Cooking - nutty brown rice, a rainbow of vegetables, and a miso-tahini dressing you'll want to put on everything. Continue reading Macro Bowls on 101 Cookbooks",
-      "image": {
-        "src": "data/images/fc2a96d7de8bc6a8.jpg",
-        "alt": "Macro Bowls",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/macro-bowls/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Fri, 18 Sep 2026 20:56:4"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "260+ vegan recipes",
-        "dinner ideas",
-        "fall",
-        "gluten free recipes",
-        "main course recipes",
-        "spring"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:19.401Z",
-      "hash": "720376c3d701f887"
-    },
-    {
-      "id": "craft:481fd5318430fc06",
-      "type": "craft",
-      "title": "The Wildlife Photographer of the Year 2026 Winners Showcase Nature’s Power and Vulnerability",
-      "summary": "\"This year's winning photographs demonstrate the extraordinary power of wildlife photography to help us see nature differently,\" says Dr. Doug Gurr, Director of the Natural History Museum.",
-      "body": "\"This year's winning photographs demonstrate the extraordinary power of wildlife photography to help us see nature differently,\" says Dr. Doug Gurr, Director of the Natural History Museum.",
-      "image": {
-        "src": "data/images/bfa662e91f873904.jpg",
-        "alt": "The Wildlife Photographer of the Year 2026 Winners Showcase Nature’s Power and Vulnerability",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/10/wildlife-photographer-of-the-year-2026-winners/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Thu, 15 Oct 2026 15:35:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "nature",
-        "photography",
-        "animals",
-        "contests",
-        "wildlife"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:19.253Z",
-      "hash": "481fd5318430fc06"
-    },
-    {
-      "id": "craft:4014e405032772fe",
-      "type": "craft",
-      "title": "Surprise Visitors With a Trick & Treat Scare Box",
-      "summary": "This Halloween, build a spring snake scare box and your trick-or-treaters with a spring-loaded surprise! The post Surprise Visitors With a Trick & Treat Scare Box appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "This Halloween, build a spring snake scare box and your trick-or-treaters with a spring-loaded surprise! The post Surprise Visitors With a Trick & Treat Scare Box appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/7be4616f59923c0a.jpg",
-        "alt": "Surprise Visitors With a Trick & Treat Scare Box",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/projects/surprise-visitors-with-a-trick-treat-scare-box/",
-        "trustTier": "publication",
-        "author": "Bizzaro",
-        "date": "Thu, 15 Oct 2026 15:00:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "costumes, cosplay, and props",
-        "craft & design",
-        "diy projects",
-        "escape room",
-        "halloween",
-        "halloween decorations",
-        "make98"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:18.950Z",
-      "hash": "4014e405032772fe"
-    },
-    {
-      "id": "craft:444a58aff6883415",
-      "type": "craft",
-      "title": "Building Community Through Making In Louisville",
-      "summary": "“We want visitors to see the range of creativity in our community and leave with anidea they are interested in exploring, whether that involves art, technology orsomething they can build at home. Maker Faire gives people a chance to meet the person behind a project, ask questions and try something…",
-      "body": "“We want visitors to see the range of creativity in our community and leave with anidea they are interested in exploring, whether that involves art, technology orsomething they can build at home. Maker Faire gives people a chance to meet the person behind a project, ask questions and try something themselves.” Maker Faire Louisville 2026 […] The post Building Community Through Making In Louisville appeared first on Make: DIY Projects and Ideas for Makers.",
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/maker-news/building-community-through-making-in-louisville/",
-        "trustTier": "publication",
-        "author": "Jennifer Blakeslee",
-        "date": "Thu, 15 Oct 2026 21:57:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "maker faire",
-        "maker news",
-        "maker faire louisville"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:18.950Z",
-      "hash": "444a58aff6883415"
-    },
-    {
-      "id": "word:0e8e6560b14acc0b",
-      "type": "word",
-      "title": "hubris",
-      "summary": "Noun: Excessive arrogance or pride, or presumption; originally toward the gods; a feeling of overwhelming and all-encompassing pride.",
-      "body": "1. Excessive arrogance or pride, or presumption; originally toward the gods; a feeling of overwhelming and all-encompassing pride.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/hubris",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:18.296Z",
-      "hash": "0e8e6560b14acc0b"
-    },
-    {
-      "id": "word:8d66c2538c4cfa37",
-      "type": "word",
-      "title": "threnody",
-      "summary": "Noun: A song or poem of lamentation or mourning for a dead person; a dirge; an elegy.",
-      "body": "1. A song or poem of lamentation or mourning for a dead person; a dirge; an elegy.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/threnody",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:17.734Z",
-      "hash": "8d66c2538c4cfa37"
-    },
-    {
-      "id": "quote:aca489c2c2e28807",
-      "type": "quote",
-      "title": "“The older you get, the better you get. Unless you're a banana.”",
-      "summary": "— Betty White",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Betty_White",
-        "trustTier": "community",
-        "author": "Betty White"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:17.566Z",
-      "hash": "aca489c2c2e28807"
-    },
-    {
-      "id": "quote:397c92900f38da48",
-      "type": "quote",
-      "title": "“Hardly anybody recognizes the most significant moments of their life at the time they happen.”",
-      "summary": "— W.P. Kinsella",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/W.P._Kinsella",
-        "trustTier": "community",
-        "author": "W.P. Kinsella"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:17.566Z",
-      "hash": "397c92900f38da48"
-    },
-    {
-      "id": "quote:981d01feb5e0a023",
-      "type": "quote",
-      "title": "“The dream is free, but the hustle is sold separately.”",
-      "summary": "— Steve Harvey",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Steve_Harvey",
-        "trustTier": "community",
-        "author": "Steve Harvey"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:17.566Z",
-      "hash": "981d01feb5e0a023"
-    },
-    {
-      "id": "article:8ef9693de5405dca",
-      "type": "article",
-      "title": "Skit hits back at AI job interviews",
-      "summary": "\"AI is doing job interviews now—but candidates say they’d rather risk staying unemployed than talk to another robot\", Fortune 8/2/2025: AI is replacing human hiring managers in job interviews—and candidates are pushing back. Despite being unemployed, professionals told Fortune they’re refusing to…",
-      "body": "\"AI is doing job interviews now—but candidates say they’d rather risk staying unemployed than talk to another robot\", Fortune 8/2/2025: AI is replacing human hiring managers in job interviews—and candidates are pushing back. Despite being unemployed, professionals told Fortune they’re refusing to take calls with bots, calling it an “added indignity” and a red flag […]",
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74427&utm_source=rss&utm_medium=rss&utm_campaign=skit-hits-back-at-ai-job-interviews",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Fri, 16 Oct 2026 11:29:5"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "artificial intelligence"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:13.657Z",
-      "hash": "8ef9693de5405dca"
-    },
-    {
-      "id": "article:10481cf82b1c6012",
-      "type": "article",
-      "title": "The Knife’s Edge",
-      "summary": "By 1945, Hannah Arendt believed Zionism had lost its way. The publication of “Zionism Reconsidered” threatened to exile her anew, this time from the “homeland” of friendship.",
-      "body": "By 1945, Hannah Arendt believed Zionism had lost its way. The publication of “Zionism Reconsidered” threatened to exile her anew, this time from the “homeland” of friendship.",
-      "source": {
-        "name": "Lapham's Quarterly",
-        "url": "https://www.laphamsquarterly.org/roundtable/knifes-edge",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "literature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:10.654Z",
-      "hash": "10481cf82b1c6012"
-    },
-    {
-      "id": "article:88a5eca6f8cdd2e5",
-      "type": "article",
-      "title": "Even Dogs Seem to Experience the Mysterious Bouba/Kiki Effect",
-      "summary": "But why? The post Even Dogs Seem to Experience the Mysterious Bouba/Kiki Effect appeared first on Nautilus.",
-      "body": "But why? The post Even Dogs Seem to Experience the Mysterious Bouba/Kiki Effect appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/88e11c2afd61b9e8.jpg",
-        "alt": "Even Dogs Seem to Experience the Mysterious Bouba/Kiki Effect",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/even-dogs-seem-to-experience-the-mysterious-bouba-kiki-effect-1285842/",
-        "trustTier": "publication",
-        "author": "Jake Currie",
-        "date": "Thu, 15 Oct 2026 22:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "psychology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:09.561Z",
-      "hash": "88a5eca6f8cdd2e5"
-    },
-    {
-      "id": "article:81b3d2fedd7572f6",
-      "type": "article",
-      "title": "TGIF: The New School of American Diplomacy",
-      "summary": "Today in TGIF: The newest evil merger, Greta Thunberg’s latest cause, two Kelly controversies, and more!",
-      "body": "Today in TGIF: The newest evil merger, Greta Thunberg’s latest cause, two Kelly controversies, and more!",
-      "image": {
-        "src": "data/images/9e1ee781e0ea15c5.jpg",
-        "alt": "TGIF: The New School of American Diplomacy",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/tgif-the-new-school-of-american-diplomacy-press-secretary-kelly-clarkson",
-        "trustTier": "publication",
-        "author": "Nellie Bowles",
-        "date": "Fri, 16 Oct 2026 10:01:5"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:08.899Z",
-      "hash": "81b3d2fedd7572f6",
-      "expires": "2026-11-15T13:06:08.899Z"
-    },
-    {
-      "id": "article:cda2eeeb2b526564",
-      "type": "article",
-      "title": "Most authors have little cash. Scammers target them anyway. Why? Their egos make them good marks",
-      "summary": "Most authors have little cash. Scammers target them anyway. Why? Their egos make them good marks",
-      "body": "Most authors have little cash. Scammers target them anyway. Why? Their egos make them good marks",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://www.thedial.world/articles/news/ai-book-scams",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:08.420Z",
-      "hash": "cda2eeeb2b526564"
-    },
-    {
-      "id": "article:8d7d955cfd04891e",
-      "type": "article",
-      "title": "“Men with Queer Nerves”: The Jumping Frenchmen of Maine",
-      "summary": "In the late nineteenth century, visitors to Maine observed something strange: French-Canadian lumberjacks who, at the slightest stimulus, seemed to jump, strike out with their limbs, or mimic languages they could not speak. Ross Bullen introduces us to these so-called “Jumping Frenchmen” and to…",
-      "body": "In the late nineteenth century, visitors to Maine observed something strange: French-Canadian lumberjacks who, at the slightest stimulus, seemed to jump, strike out with their limbs, or mimic languages they could not speak. Ross Bullen introduces us to these so-called “Jumping Frenchmen” and to their greatest investigator, George M. Beard, who saw a link in their behavior between religious frenzy and neurasthenia.",
-      "image": {
-        "src": "data/images/77ca6917cbfe04ef.jpg",
-        "alt": "“Men with Queer Nerves”: The Jumping Frenchmen of Maine",
-        "credit": "The Public Domain Review"
-      },
-      "source": {
-        "name": "The Public Domain Review",
-        "url": "https://publicdomainreview.org/essay/the-jumping-frenchmen-of-maine",
-        "trustTier": "publication",
-        "date": "Wed, 14 Oct 2026 11:56:0"
-      },
-      "tags": [
-        "essay",
-        "history",
-        "culture"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:07.717Z",
-      "hash": "8d7d955cfd04891e"
-    },
-    {
-      "id": "greek:dd29813e8594af34",
-      "type": "greek",
-      "title": "ἄνθρωπος",
-      "summary": "ἄνθρωπος — “human, man” · noun",
-      "body": "Note: ὁ ἄνθρωπος; generic \"person\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%84%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%BF%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:06.957Z",
-      "hash": "dd29813e8594af34"
-    },
-    {
-      "id": "poetry:4a2955dc1f02fcaa",
-      "type": "poem",
-      "title": "Al Aaraaf",
-      "summary": "PART I\nO! nothing earthly save the ray\n(Thrown back from flowers) of Beauty's eye,\nAs in those gardens where the day",
-      "body": "PART I\n\nO! nothing earthly save the ray\n(Thrown back from flowers) of Beauty's eye,\nAs in those gardens where the day\nSprings from the gems of Circassy--\nO! nothing earthly save the thrill\nOf melody in woodland rill--\nOr (music of the passion-hearted)\nJoy's voice so peacefully departed\nThat like the murmur in the shell,\nIts echo dwelleth and will dwell--\nO! nothing of the dross of ours--\nYet all the beauty--all the flowers\nThat list our Love, and deck our bowers--\nAdorn yon world afar, afar--\nThe wandering star.\n\n'Twas a sweet time for Nesace--for there\nHer world lay lolling on the golden air,\nNear four bright suns--a temporary rest--\nAn oasis in desert of the blest.\nAway away--'mid seas of rays that roll\nEmpyrean splendor o'er th' unchained soul--\nThe soul that scarce (the billows are so dense)\nCan struggle to its destin'd eminence--\nTo distant spheres, from time to time, she rode,\nAnd late to ours, the favour'd one of God--\nBut, now, the ruler of an anchor'd realm,\nShe throws aside the sceptre--leaves the helm,\nAnd, amid incense and high spiritual hymns,\nLaves in quadruple light her angel limbs.\n\nNow happiest, loveliest in yon lovely Earth,\nWhence sprang the \"Idea of Beauty\" into birth,\n(Falling in wreaths thro' many a startled star,\nLike woman's hair 'mid pearls, until, afar,\nIt lit on hills Achaian, and there dwelt),\nShe look'd into Infinity--and knelt.\nRich clouds, for canopies, about her curled--\nFit emblems of the model of her world--\nSeen but in beauty--not impeding sight--\nOf other beauty glittering thro' the light--\nA wreath that twined each starry form around,\nAnd all the opal'd air in color bound.\n\nAll hurriedly she knelt upon a bed\nOf flowers: of lilies such as rear'd the head\nOn the fair Capo Deucato, and sprang\nSo eagerly around about to hang\nUpon the flying footsteps of--deep pride--\nOf her who lov'd a mortal--and so died.\nThe Sephalica, budding with young bees,\nUprear'd its purple stem around her knees:\nAnd gemmy flower, of Trebizond misnam'd--\nInmate of highest stars, where erst it sham'd\nAll other loveliness: its honied dew\n(The fabled nectar that the heathen knew)\nDeliriously sweet, was dropp'd from Heaven,\nAnd fell on gardens of the unforgiven\nIn Trebizond--and on a sunny flower\nSo like its own above that, to this hour,\nIt still remaineth, torturing the bee\nWith madness, and unwonted reverie:\nIn Heaven, and all its environs, the leaf\nAnd blossom of the fairy plant, in grief\nDisconsolate linger--grief that hangs her head,\nRepenting follies that full long have fled,\nHeaving her white breast to the balmy air,\nLike guilty beauty, chasten'd, and more fair:\nNyctanthes too, as sacred as the light\nShe fears to perfume, perfuming the night:\nAnd Clytia pondering between many a sun,\nWhile pettish tears adown her petals run:\nAnd that aspiring flower that sprang on Earth--\nAnd died, ere scarce exalted into birth,\nBursting its odorous heart in spirit to wing\nIts way to Heaven, from garden of a king:\nAnd Valisnerian lotus thither flown\nFrom struggling with the waters of the Rhone:\nAnd thy most lovely purple perfume, Zante!\nIsola d'oro!--Fior di Levante!\nAnd the Nelumbo bud that floats for ever\nWith Indian Cupid down the holy river--\nFair flowers, and fairy! to whose care is given\nTo bear the Goddess' song, in odors, up to Heaven:\n\n  \"Spirit! that dwellest where,\n    In the deep sky,\n  The terrible and fair,\n    In beauty vie!\n  Beyond the line of blue--\n    The boundary of the star\n  Which turneth at the view\n    Of thy barrier and thy bar--\n  Of the barrier overgone\n    By the comets who were cast\n  From their pride, and from their throne\n    To be drudges till the last--\n  To be carriers of fire\n    (The red fire of their heart)\n  With speed that may not tire\n    And with pain that shall not part--\n  Who livest--_that_ we know--\n    In Eternity--we feel--\n  But the shadow of whose brow\n    What spirit shall reveal?\n  Tho' the beings whom thy Nesace,\n    Thy messenger hath known\n  Have dream'd for thy Infinity\n    A model of their own--\n  Thy will is done, O God!\n    The star hath ridden high\n  Thro' many a tempest, but she rode\n    Beneath thy burning eye;\n  And here, in thought, to thee--\n    In thought that can alone\n  Ascend thy empire and so be\n    A partner of thy throne--\n  By winged Fantasy,\n     My embassy is given,\n  Till secrecy shall knowledge be\n    In the environs of Heaven.\"\n\nShe ceas'd--and buried then her burning cheek\nAbash'd, amid the lilies there, to seek\nA shelter from the fervor of His eye;\nFor the stars trembled at the Deity.\nShe stirr'd not--breath'd not--for a voice was there\nHow solemnly pervading the calm air!\nA sound of silence on the startled ear\nWhich dreamy poets name \"the music of the sphere.\"\nOurs is a world of words: Quiet we call\n\"Silence\"--which is the merest word of all.\n\nAll Nature speaks, and ev'n ideal things\nFlap shadowy sounds from the visionary wings--\nBut ah! not so when, thus, in realms on high\nThe eternal voice of God is passing by,\nAnd the red winds are withering in the sky!\n\"What tho' in worlds which sightless cycles run,\nLink'd to a little system, and one sun--\nWhere all my love is folly, and the crowd\nStill think my terrors but the thunder cloud,\nThe storm, the earthquake, and the ocean-wrath\n(Ah! will they cross me in my angrier path?)\nWhat tho' in worlds which own a single sun\nThe sands of time grow dimmer as they run,\nYet thine is my resplendency, so given\nTo bear my secrets thro' the upper Heaven.\nLeave tenantless thy crystal home, and fly,\nWith all thy train, athwart the moony sky--\nApart--like fire-flies in Sicilian night,\nAnd wing to other worlds another light!\nDivulge the secrets of thy embassy\nTo the proud orbs that twinkle--and so be\nTo ev'ry heart a barrier and a ban\nLest the stars totter in the guilt of man!\"\n\n Up rose the maiden in the yellow night,\nThe single-mooned eve!-on earth we plight\nOur faith to one love--and one moon adore--\nThe birth-place of young Beauty had no more.\nAs sprang that yellow star from downy hours,\nUp rose the maiden from her shrine of flowers,\nAnd bent o'er sheeny mountain and dim plain\nHer way--but left not yet her Therasæan reign.\n\nPART II\n\nHigh on a mountain of enamell'd head--\nSuch as the drowsy shepherd on his bed\nOf giant pasturage lying at his ease,\nRaising his heavy eyelid, starts and sees\nWith many a mutter'd \"hope to be forgiven\"\nWhat time the moon is quadrated in Heaven--\nOf rosy head, that towering far away\nInto the sunlit ether, caught the ray\nOf sunken suns at eve--at noon of night,\nWhile the moon danc'd with the fair stranger light--\nUprear'd upon such height arose a pile\nOf gorgeous columns on th' uuburthen'd air,\nFlashing from Parian marble that twin smile\nFar down upon the wave that sparkled there,\nAnd nursled the young mountain in its lair.\nOf molten stars their pavement, such as fall\nThro' the ebon air, besilvering the pall\nOf their own dissolution, while they die--\nAdorning then the dwellings of the sky.\nA dome, by linked light from Heaven let down,\nSat gently on these columns as a crown--\nA window of one circular diamond, there,\nLook'd out above into the purple air\nAnd rays from God shot down that meteor chain\nAnd hallow'd all the beauty twice again,\nSave when, between th' Empyrean and that ring,\nSome eager spirit flapp'd his dusky wing.\nBut on the pillars Seraph eyes have seen\nThe dimness of this world: that grayish green\nThat Nature loves the best for Beauty's grave\nLurk'd in each cornice, round each architrave--\nAnd every sculptured cherub thereabout\nThat from his marble dwelling peered out,\nSeem'd earthly in the shadow of his niche--\nAchaian statues in a world so rich?\nFriezes from Tadmor and Persepolis--\nFrom Balbec, and the stilly, clear abyss\nOf beautiful Gomorrah! Oh, the wave\nIs now upon thee--but too late to save!\nSound loves to revel in a summer night:\nWitness the murmur of the gray twilight\nThat stole upon the ear, in Eyraco,\nOf many a wild star-gazer long ago--\nThat stealeth ever on the ear of him\nWho, musing, gazeth on the distance dim,\nAnd sees the darkness coming as a cloud--\nIs not its form--its voice--most palpable and loud?\n But what is this?--it cometh--and it brings\nA music with it--'tis the rush of wings--\nA pause--and then a sweeping, falling strain,\nAnd Nesace is in her halls again.\nFrom the wild energy of wanton haste\nHer cheeks were flushing, and her lips apart;\nThe zone that clung around her gentle waist\nHad burst beneath the heaving of her heart.\nWithin the centre of that hall to breathe\nShe paus'd and panted, Zanthe! all beneath,\nThe fairy light that kiss'd her golden hair\nAnd long'd to rest, yet could but sparkle there!\n\nYoung flowers were whispering in melody\nTo happy flowers that night--and tree to tree;\nFountains were gushing music as they fell\nIn many a star-lit grove, or moon-light dell;\nYet silence came upon material things--\nFair flowers, bright waterfalls and angel wings--\nAnd sound alone that from the spirit sprang\nBore burthen to the charm the maiden sang:\n\n  \"Neath blue-bell or streamer--\n    Or tufted wild spray\n  That keeps, from the dreamer,\n    The moonbeam away--\n  Bright beings! that ponder,\n    With half-closing eyes,\n  On the stars which your wonder\n    Hath drawn from the skies,\n  Till they glance thro' the shade, and\n    Come down to your brow\n  Like--eyes of the maiden\n    Who calls on you now--\n  Arise! from your dreaming\n    In violet bowers,\n  To duty beseeming\n    These star-litten hours--\n  And shake from your tresses\n    Encumber'd with dew\n\n  The breath of those kisses\n    That cumber them too--\n  (O! how, without you, Love!\n    Could angels be blest?)\n  Those kisses of true love\n    That lull'd ye to rest!\n  Up! shake from your wing\n    Each hindering thing:\n  The dew of the night--\n    It would weigh down your flight;\n  And true love caresses--\n    O! leave them apart!\n  They are light on the tresses,\n    But lead on the heart.\n\n  Ligeia! Ligeia!\n    My beautiful one!\n  Whose harshest idea\n    Will to melody run,\n  O! is it thy will\n    On the breezes to toss?\n  Or, capriciously still,\n    Like the lone Albatross,\n  Incumbent on night\n    (As she on the air)\n  To keep watch with delight\n    On the harmony there?\n\n  Ligeia! wherever\n    Thy image may be,\n  No magic shall sever\n    Thy music from thee.\n  Thou hast bound many eyes\n    In a dreamy sleep--\n  But the strains still arise\n    Which _thy_ vigilance keep--\n\n  The sound of the rain\n    Which leaps down to the flower,\n  And dances again\n    In the rhythm of the shower--\n  The murmur that springs\n    From the growing of grass\n  Are the music of things--\n    But are modell'd, alas!\n  Away, then, my dearest,\n    O! hie thee away\n  To springs that lie clearest\n    Beneath the moon-ray--\n  To lone lake that smiles,\n    In its dream of deep rest,\n  At the many star-isles\n  That enjewel its breast--\n  Where wild flowers, creeping,\n    Have mingled their shade,\n  On its margin is sleeping\n    Full many a maid--\n  Some have left the cool glade, and\n    Have slept with the bee--\n  Arouse them, my maiden,\n    On moorland and lea--\n\n  Go! breathe on their slumber,\n    All softly in ear,\n  The musical number\n    They slumber'd to hear--\n  For what can awaken\n    An angel so soon\n  Whose sleep hath been taken\n    Beneath the cold moon,\n  As the spell which no slumber\n    Of witchery may test,\n  The rhythmical number\n    Which lull'd him to rest?\"\n\nSpirits in wing, and angels to the view,\nA thousand seraphs burst th' Empyrean thro',\nYoung dreams still hovering on their drowsy flight--\nSeraphs in all but \"Knowledge,\" the keen light\nThat fell, refracted, thro' thy bounds afar,\nO death! from eye of God upon that star;\nSweet was that error--sweeter still that death--\nSweet was that error--ev'n with _us_ the breath\nOf Science dims the mirror of our joy--\nTo them 'twere the Simoom, and would destroy--\nFor what (to them) availeth it to know\nThat Truth is Falsehood--or that Bliss is Woe?\nSweet was their death--with them to die was rife\nWith the last ecstasy of satiate life--\nBeyond that death no immortality--\nBut sleep that pondereth and is not \"to be\"--\nAnd there--oh! may my weary spirit dwell--\nApart from Heaven's Eternity--and yet how far from Hell!\n\nWhat guilty spirit, in what shrubbery dim\nHeard not the stirring summons of that hymn?\nBut two: they fell: for heaven no grace imparts\nTo those who hear not for their beating hearts.\nA maiden-angel and her seraph-lover--\nO! where (and ye may seek the wide skies over)\nWas Love, the blind, near sober Duty known?\nUnguided Love hath fallen--'mid \"tears of perfect moan.\"\n\nHe was a goodly spirit--he who fell:\nA wanderer by mossy-mantled well--\nA gazer on the lights that shine above--\nA dreamer in the moonbeam by his love:\nWhat wonder? for each star is eye-like there,\nAnd looks so sweetly down on Beauty's hair--\nAnd they, and ev'ry mossy spring were holy\nTo his love-haunted heart and melancholy.\nThe night had found (to him a night of wo)\nUpon a mountain crag, young Angelo--\nBeetling it bends athwart the solemn sky,\nAnd scowls on starry worlds that down beneath it lie.\nHere sate he with his love--his dark eye bent\nWith eagle gaze along the firmament:\nNow turn'd it upon her--but ever then\nIt trembled to the orb of EARTH again.\n\n\"Ianthe, dearest, see! how dim that ray!\nHow lovely 'tis to look so far away!\nShe seemed not thus upon that autumn eve\nI left her gorgeous halls--nor mourned to leave,\nThat eve--that eve--I should remember well--\nThe sun-ray dropped, in Lemnos with a spell\nOn th' Arabesque carving of a gilded hall\nWherein I sate, and on the draperied wall--\nAnd on my eyelids--O, the heavy light!\nHow drowsily it weighed them into night!\nOn flowers, before, and mist, and love they ran\nWith Persian Saadi in his Gulistan:\nBut O, that light!--I slumbered--Death, the while,\nStole o'er my senses in that lovely isle\nSo softly that no single silken hair\nAwoke that slept--or knew that he was there.\n\n\"The last spot of Earth's orb I trod upon\nWas a proud temple called the Parthenon;\nMore beauty clung around her columned wall\nThen even thy glowing bosom beats withal,\nAnd when old Time my wing did disenthral\nThence sprang I--as the eagle from his tower,\nAnd years I left behind me in an hour.\nWhat time upon her airy bounds I hung,\nOne half the garden of her globe was flung\nUnrolling as a chart unto my view--\nTenantless cities of the desert too!\nIanthe, beauty crowded on me then,\nAnd half I wished to be again of men.\"\n\n\"My Angelo! and why of them to be?\nA brighter dwelling-place is here for thee--\nAnd greener fields than in yon world above,\nAnd woman's loveliness--and passionate love.\"\n\"But list, Ianthe! when the air so soft\nFailed, as my pennoned spirit leapt aloft,\nPerhaps my brain grew dizzy--but the world\nI left so late was into chaos hurled,\nSprang from her station, on the winds apart,\nAnd rolled a flame, the fiery Heaven athwart.\nMethought, my sweet one, then I ceased to soar,\nAnd fell--not swiftly as I rose before,\nBut with a downward, tremulous motion thro'\nLight, brazen rays, this golden star unto!\nNor long the measure of my falling hours,\nFor nearest of all stars was thine to ours--\nDread star! that came, amid a night of mirth,\nA red Daedalion on the timid Earth.\"\n\n\"We came--and to thy Earth--but not to us\nBe given our lady's bidding to discuss:\nWe came, my love; around, above, below,\nGay fire-fly of the night we come and go,\nNor ask a reason save the angel-nod\n_She_ grants to us as granted by her God--\nBut, Angelo, than thine gray Time unfurled\nNever his fairy wing o'er fairer world!\nDim was its little disk, and angel eyes\nAlone could see the phantom in the skies,\nWhen first Al Aaraaf knew her course to be\nHeadlong thitherward o'er the starry sea--\nBut when its glory swelled upon the sky,\nAs glowing Beauty's bust beneath man's eye,\nWe paused before the heritage of men,\nAnd thy star trembled--as doth Beauty then!\"\n\nThus in discourse, the lovers whiled away\nThe night that waned and waned and brought no day.\nThey fell: for Heaven to them no hope imparts\nWho hear not for the beating of their hearts.",
-      "source": {
-        "name": "Edgar Allan Poe · PoetryDB",
-        "url": "https://poetrydb.org/title/Al%20Aaraaf",
-        "trustTier": "community",
-        "author": "Edgar Allan Poe"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:06.954Z",
-      "hash": "4a2955dc1f02fcaa"
-    },
-    {
-      "id": "poetry:8e9a26cce1a5b614",
-      "type": "poem",
-      "title": "The Barefoot Boy",
-      "summary": "Blessings on thee, little man,\nBarefoot boy, with cheek of tan!\nWith thy turned-up pantaloons,\nAnd thy merry whistled tunes;",
-      "body": "Blessings on thee, little man,\nBarefoot boy, with cheek of tan!\nWith thy turned-up pantaloons,\nAnd thy merry whistled tunes;\nWith thy red lip, redder still\nKissed by strawberries on the hill;\nWith the sunshine on thy face,\nThrough thy torn brim's jaunty grace;\nFrom my heart I give thee joy, -\nI was once a barefoot boy!\nPrince thou art, - the grown-up man\nOnly is republican.\nLet the million-dollared ride!\nBarefoot, trudging at his side,\nThou hast more than he can buy\nIn the reach of ear and eye, -\nOutward sunshine, inward joy:\nBlessings on thee, barefoot boy!\n\nOh for boyhood's painless play,\nSleep that wakes in laughing day,\nHealth that mocks the doctor's rules,\nKnowledge never learned of schools,\nOf the wild bee's morning chase,\nOf the wild-flower's time and place,\nFlight of fowl and habitude\nOf the tenants of the wood;\nHow the tortoise bears his shell,\nHow the woodchuck digs his cell,\nAnd the ground-mole sinks his well;\nHow the robin feeds her young,\nHow the oriole's nest is hung;\nWhere the whitest lilies blow,\nWhere the freshest berries grow,\nWhere the ground-nut trails its vine,\nWhere the wood-grape's clusters shine;\nOf the black wasp's cunning way,\nMason of his walls of clay,\nAnd the architectural plans\nOf gray hornet artisans!\nFor, eschewing books and tasks,\nNature answers all he asks;\nHand in hand with her he walks,\nFace to face with her he talks,\nPart and parcel of her joy, -\nBlessings on the barefoot boy!\n\nOh for boyhood's time of June,\nCrowding years in one brief moon,\nWhen all things I heard or saw,\nMe, their master, waited for.\nI was rich in flowers and trees,\nHumming-birds and honey-bees;\nFor my sport the squirrel played,\nPlied the snouted mole his spade;\nFor my taste the blackberry cone\nPurpled over hedge and stone;\nLaughed the brook for my delight\nThrough the day and through the night,\nWhispering at the garden wall,\nTalked with me from fall to fall;\nMine the sand-rimmed pickerel pond,\nMine the walnut slopes beyond,\nMine, on bending orchard trees,\nApples of Hesperides!\nStill as my horizon grew,\nLarger grew my riches too;\nAll the world I saw or knew\nSeemed a complex Chinese toy,\nFashioned for a barefoot boy!\n\nOh for festal dainties spread,\nLike my bowl of milk and bread;\nPewter spoon and bowl of wood,\nOn the door-stone, gray and rude!\nO'er me, like a regal tent,\nCloudy-ribbed, the sunset bent,\nPurple-curtained, fringed with gold,\nLooped in many a wind-swung fold;\nWhile for music came the play\nOf the pied frogs' orchestra;\nAnd, to light the noisy choir,\nLit the fly his lamp of fire.\nI was monarch: pomp and joy\nWaited on the barefoot boy!\n\nCheerily, then, my little man,\nLive and laugh, as boyhood can!\nThough the flinty slopes be hard,\nStubble-speared the new-mown sward,\nEvery morn shall lead thee through\nFresh baptisms of the dew;\nEvery evening from thy feet\nShall the cool wind kiss the heat:\nAll too soon these feet must hide\nIn the prison cells of pride,\nLose the freedom of the sod,\nLike a colt's for work be shod,\nMade to tread the mills of toil,\nUp and down in ceaseless moil:\nHappy if their track be found\nNever on forbidden ground;\nHappy if they sink not in\nQuick and treacherous sands of sin.\nAh! that thou couldst know thy joy,\nEre it passes, barefoot boy!",
-      "source": {
-        "name": "John Greenleaf Whittier · PoetryDB",
-        "url": "https://poetrydb.org/title/The%20Barefoot%20Boy",
-        "trustTier": "community",
-        "author": "John Greenleaf Whittier"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-16T13:06:06.954Z",
-      "hash": "8e9a26cce1a5b614"
-    },
-    {
-      "id": "apod:2001-05-10",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap010510.html",
-        "trustTier": "encyclopedic",
-        "date": "2001-05-10"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:03.320Z",
-      "hash": "060f9646a6a5d228"
-    },
-    {
-      "id": "apod:2016-06-08",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap160608.html",
-        "trustTier": "encyclopedic",
-        "date": "2016-06-08"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:03.320Z",
-      "hash": "3d7dcc3cfbaf8908"
-    },
-    {
-      "id": "apod:2014-08-14",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© Catching the Light"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap140814.html",
-        "trustTier": "encyclopedic",
-        "date": "2014-08-14"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:03.320Z",
-      "hash": "b16703e764a77a42"
-    },
-    {
-      "id": "apod:2004-05-27",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap040527.html",
-        "trustTier": "encyclopedic",
-        "date": "2004-05-27"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:03.320Z",
-      "hash": "b8a6e2a671d408ee"
-    },
-    {
-      "id": "apod:1996-11-26",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap961126.html",
-        "trustTier": "encyclopedic",
-        "date": "1996-11-26"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:06:03.319Z",
-      "hash": "cafbff381df07625"
-    },
-    {
-      "id": "onthisday:10-16:1793:2e8f4e7e5912d4d8",
-      "type": "history",
-      "title": "1793: War of the First Coalition",
-      "summary": "War of the First Coalition: The two-day Battle of Wattignies concluded with Jean-Baptiste Jourdan leading French forces to victory over Prince Josias of Saxe-Coburg-Saalfeld.",
-      "body": "War of the First Coalition: The two-day Battle of Wattignies concluded with Jean-Baptiste Jourdan leading French forces to victory over Prince Josias of Saxe-Coburg-Saalfeld.",
-      "image": {
-        "src": "data/images/88dbe8c9695d9776.jpg",
-        "alt": "War of the First Coalition",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/War_of_the_First_Coalition",
-        "trustTier": "encyclopedic",
-        "date": "10-16"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:05:55.120Z",
-      "hash": "f83aa3597ccf5811",
-      "expires": "2026-10-19T13:05:55.120Z"
-    },
-    {
-      "id": "onthisday:10-16:1991:0a6df06c8c263b49",
-      "type": "history",
-      "title": "1991: Luby's",
-      "summary": "A man drove his vehicle through the window of a Luby's Cafeteria in Killeen, Texas, and opened fire, killing 23 people before fatally shooting himself.",
-      "body": "A man drove his vehicle through the window of a Luby's Cafeteria in Killeen, Texas, and opened fire, killing 23 people before fatally shooting himself.",
-      "image": {
-        "src": "data/images/6ce79e6c48eec8af.png",
-        "alt": "Luby's",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Luby's",
-        "trustTier": "encyclopedic",
-        "date": "10-16"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:05:55.120Z",
-      "hash": "617318362a1207de",
-      "expires": "2026-10-19T13:05:55.120Z"
-    },
-    {
-      "id": "onthisday:10-16:1841:08e7448ddb5b9124",
-      "type": "history",
-      "title": "1841: Church of Scotland",
-      "summary": "The Church of Scotland established Queen's College in Kingston, Ontario, in Canada.",
-      "body": "The Church of Scotland established Queen's College in Kingston, Ontario, in Canada.",
-      "image": {
-        "src": "data/images/60e46a80c1778858.png",
-        "alt": "Church of Scotland",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Church_of_Scotland",
-        "trustTier": "encyclopedic",
-        "date": "10-16"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:05:55.120Z",
-      "hash": "71da34ddf0f8b115",
-      "expires": "2026-10-19T13:05:55.120Z"
-    },
-    {
-      "id": "wikipedia:64140699",
-      "type": "wiki",
-      "title": "Ruben Kluivert",
-      "summary": "Ruben Caine Kluivert is a Dutch professional footballer who plays as a centre-back or left-back for Ligue 1 club Lyon.",
-      "body": "Ruben Caine Kluivert is a Dutch professional footballer who plays as a centre-back or left-back for Ligue 1 club Lyon.",
-      "image": {
-        "src": "data/images/f0a6474610011319.jpg",
-        "alt": "Ruben Kluivert",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ruben_Kluivert",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:05:55.105Z",
-      "hash": "d1211155ce1ef367"
-    },
-    {
-      "id": "wikipedia:58075697",
-      "type": "wiki",
-      "title": "Marcia Moore (actress)",
-      "summary": "Marcia Moore was an American film and theatre actress in the early 1900s. She had leading roles in multiple productions, including early silent films and vaudeville theatre. Despite the wishes of her father for her to study piano and become a music teacher, Moore's early interest in the stage led her to gather enough…",
-      "body": "Marcia Moore was an American film and theatre actress in the early 1900s. She had leading roles in multiple productions, including early silent films and vaudeville theatre. Despite the wishes of her father for her to study piano and become a music teacher, Moore's early interest in the stage led her to gather enough money to move to Chicago in order to study the arts at a conservatory there and then join the theatre. She moved between film and stage roles several times throughout her career, including later joining performances in burlesque shows.",
-      "image": {
-        "src": "data/images/f3d24197704e5ff1.jpg",
-        "alt": "Marcia Moore (actress)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Marcia_Moore_(actress)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:05:55.016Z",
-      "hash": "58440925287c29eb"
-    },
-    {
-      "id": "wikipedia:51374447",
-      "type": "wiki",
-      "title": "Francisca Ashietey-Odunton",
-      "summary": "Francisca Ashietey-Odunton is a Ghanaian journalist, broadcaster and diplomat. She was the Acting Director-General of the Ghana Broadcasting Corporation. She served as Ghana's ambassador to Turkey from 2021 -2024. Before that, she served as Ghana's High Commissioner to Kenya from 2017 to 2021.",
-      "body": "Francisca Ashietey-Odunton is a Ghanaian journalist, broadcaster and diplomat. She was the Acting Director-General of the Ghana Broadcasting Corporation. She served as Ghana's ambassador to Turkey from 2021 -2024. Before that, she served as Ghana's High Commissioner to Kenya from 2017 to 2021.",
-      "image": {
-        "src": "data/images/d01090c04a832c15.jpg",
-        "alt": "Francisca Ashietey-Odunton",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Francisca_Ashietey-Odunton",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:05:54.436Z",
-      "hash": "0e6956d66a7786aa"
-    },
-    {
-      "id": "wikipedia:67665066",
-      "type": "wiki",
-      "title": "Acid Maria",
-      "summary": "DJ Acid Maria, born Angelika Lepper, is a German DJ and music producer of electronic music. Her musical style is between techno and Chicago house. She became famous as the house DJ of the Munich clubs Ultraschall and Harry Klein.",
-      "body": "DJ Acid Maria, born Angelika Lepper, is a German DJ and music producer of electronic music. Her musical style is between techno and Chicago house. She became famous as the house DJ of the Munich clubs Ultraschall and Harry Klein.",
-      "image": {
-        "src": "data/images/de0e33fea4727fae.jpg",
-        "alt": "Acid Maria",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Acid_Maria",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-16T13:05:54.202Z",
-      "hash": "12241e7b67371935"
     },
     {
       "id": "curated:handwriting-beats-typing",

@@ -1,7 +1,1226 @@
 {
-  "generatedAt": "2026-10-28T14:58:03.644Z",
+  "generatedAt": "2026-10-29T15:04:14.189Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:Ba42D",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1734. Find the best line for white.",
+      "body": "Solution, from → to: c4→a5, c6→b5, e6→c4, b5→a5, c4→a4. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "rn5r/ppp3pp/2kbQn2/8/2N1p3/1P2B3/P1P2PPP/qN2K2R w K - 0 1",
+        "lastMove": "d4a1"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/Ba42D",
+        "trustTier": "community",
+        "date": "Thu, 29 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "exposedking",
+        "middlegame",
+        "long",
+        "matein3"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:04:07.668Z",
+      "hash": "57d3dbcf9e7aab0e"
+    },
+    {
+      "id": "game:45b325b5edc7a8bc",
+      "type": "game",
+      "title": "Roblox confirms no adult content used in AI training after scraping Open3DLab data",
+      "summary": "Roblox says an AI agent failed to operate 'as intended' when it mass-downloaded adult content from Open3DLab, Smutlab, and SFMLab.",
+      "body": "Roblox says an AI agent failed to operate 'as intended' when it mass-downloaded adult content from Open3DLab, Smutlab, and SFMLab.",
+      "image": {
+        "src": "data/images/5f57e5d79bb04653.jpg",
+        "alt": "Roblox confirms no adult content used in AI training after scraping Open3DLab data",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
+        "trustTier": "publication",
+        "author": "Bryant Francis",
+        "date": "Wed, 28 Oct 2026 15:45:5"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:04:07.432Z",
+      "hash": "45b325b5edc7a8bc",
+      "expires": "2027-01-27T15:04:07.432Z"
+    },
+    {
+      "id": "game:eb126d2eb25a0cb5",
+      "type": "game",
+      "title": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine",
+      "summary": "After an AI-first pivot, Epic has confirmed that AI is shaping the Unreal Engine in the near future.",
+      "body": "After an AI-first pivot, Epic has confirmed that AI is shaping the Unreal Engine in the near future.",
+      "image": {
+        "src": "data/images/e004f5fd4ea26dc7.png",
+        "alt": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
+        "trustTier": "publication",
+        "author": "Imran Khan",
+        "date": "Wed, 28 Oct 2026 16:28:5"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:04:07.432Z",
+      "hash": "eb126d2eb25a0cb5",
+      "expires": "2027-01-27T15:04:07.432Z"
+    },
+    {
+      "id": "game:e910dcf032f5e275",
+      "type": "game",
+      "title": "Valve weighs in on Next Fest AI cloning phenomenon",
+      "summary": "The worrying trend of games on Steam getting quick clones for the same storefront has been acknowledged by store owner Valve — and the onus placed on developers to prevent it themselves.",
+      "body": "The worrying trend of games on Steam getting quick clones for the same storefront has been acknowledged by store owner Valve — and the onus placed on developers to prevent it themselves.",
+      "image": {
+        "src": "data/images/14d8aa43653343f8.png",
+        "alt": "Valve weighs in on Next Fest AI cloning phenomenon",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
+        "trustTier": "publication",
+        "author": "Imran Khan",
+        "date": "Wed, 28 Oct 2026 14:42:2"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:04:07.432Z",
+      "hash": "e910dcf032f5e275",
+      "expires": "2027-01-27T15:04:07.432Z"
+    },
+    {
+      "id": "trivia:aa89ad1c8551857c",
+      "type": "trivia",
+      "title": "\"Gimmick!\" is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
+      "summary": "Is it: VRC7 · FME-7 · VRC6 · MMC5?",
+      "body": "Answer: FME-7.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-29T15:04:04.731Z",
+      "hash": "aa89ad1c8551857c"
+    },
+    {
+      "id": "trivia:e8e73fcb36bf1265",
+      "type": "trivia",
+      "title": "A flock of crows is known as a homicide.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "animals"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:04:04.731Z",
+      "hash": "e8e73fcb36bf1265"
+    },
+    {
+      "id": "trivia:bec80b52f2fc43c8",
+      "type": "trivia",
+      "title": "After how many years would you celebrate your crystal anniversary?",
+      "summary": "Is it: 20 · 25 · 10 · 15?",
+      "body": "Answer: 15.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "general knowledge"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:04:04.731Z",
+      "hash": "bec80b52f2fc43c8"
+    },
+    {
+      "id": "trivia:9dac395649edd011",
+      "type": "trivia",
+      "title": "The assassination of which royal led to the start of World War I?",
+      "summary": "Is it: Archduke Franz Ferdinand · Nicholas II · Louis Mountbatten · King Charles I?",
+      "body": "Answer: Archduke Franz Ferdinand.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-29T15:04:04.731Z",
+      "hash": "9dac395649edd011"
+    },
+    {
+      "id": "comic:smbc:53c5470ff3da6679",
+      "type": "comic",
+      "title": "Signal",
+      "summary": "This way avoids violence.",
+      "image": {
+        "src": "data/images/fc9f4b3d414fecd5.png",
+        "alt": "This way avoids violence.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/signal-5",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Wed, 28 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-29T15:04:03.186Z",
+      "hash": "53c5470ff3da6679"
+    },
+    {
+      "id": "comic:xkcd:3168",
+      "type": "comic",
+      "title": "Beam Dump",
+      "summary": "We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.",
+      "image": {
+        "src": "data/images/734b6d1a2859945b.png",
+        "alt": "We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.",
+        "credit": "xkcd #3168 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3168/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2025-11-14"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-29T15:04:01.791Z",
+      "hash": "69c2c37bf8825959"
+    },
+    {
+      "id": "comic:xkcd:3317",
+      "type": "comic",
+      "title": "Gravitational Square Wave",
+      "summary": "Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.",
+      "image": {
+        "src": "data/images/4a25c7fcf9b484fc.png",
+        "alt": "Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.",
+        "credit": "xkcd #3317 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3317/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-10-28"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-29T15:04:01.469Z",
+      "hash": "80dbc905dbbf188c"
+    },
+    {
+      "id": "craft:a39d9562ebb9bac3",
+      "type": "craft",
+      "title": "Found Object Masks by Romuald Hazoumè Counter Sorrow with Sympathy",
+      "summary": "Romuald Hazoumé encircles plastic jugs with feathers, netting, paintbrushes, and other found materials.",
+      "body": "Romuald Hazoumé encircles plastic jugs with feathers, netting, paintbrushes, and other found materials.",
+      "image": {
+        "src": "data/images/28e24e72990c6c62.jpg",
+        "alt": "Found Object Masks by Romuald Hazoumè Counter Sorrow with Sympathy",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/romuald-hazoume-plastic-jug-mask-sculptures/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Wed, 28 Oct 2026 19:44:3"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "feathers",
+        "found objects",
+        "masks",
+        "romuald hazoumé",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:04:01.198Z",
+      "hash": "a39d9562ebb9bac3"
+    },
+    {
+      "id": "craft:16491fd136675485",
+      "type": "craft",
+      "title": "‘The Encyclopedia of Movie Cats’ Is an Exhaustive Index of Every Feline to Prowl on Screen",
+      "summary": "700+ cats. 1900+ film stills.",
+      "body": "700+ cats. 1900+ film stills.",
+      "image": {
+        "src": "data/images/25bebcdafc380d11.jpg",
+        "alt": "‘The Encyclopedia of Movie Cats’ Is an Exhaustive Index of Every Feline to Prowl on Screen",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/the-encyclopedia-of-movie-cats-a24/",
+        "trustTier": "publication",
+        "author": "Grace Ebert",
+        "date": "Thu, 29 Oct 2026 14:14:3"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "books",
+        "film",
+        "a24",
+        "cats",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:04:01.197Z",
+      "hash": "16491fd136675485"
+    },
+    {
+      "id": "craft:f9fe72248fe76575",
+      "type": "craft",
+      "title": "Omnibot Reborn: Giving a 1984 Robot Butler the Brain It Was Promised",
+      "summary": "In 1984, Tomy sold a toy robot that promised a domestic future it couldn’t quite deliver. Forty years later, a maker in Miami gave it vision, a voice, and just enough intelligence to finally pull it off. The post Omnibot Reborn: Giving a 1984 Robot Butler the Brain It Was Promised appeared first…",
+      "body": "In 1984, Tomy sold a toy robot that promised a domestic future it couldn’t quite deliver. Forty years later, a maker in Miami gave it vision, a voice, and just enough intelligence to finally pull it off. The post Omnibot Reborn: Giving a 1984 Robot Butler the Brain It Was Promised appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/b9467c158399bd07.jpg",
+        "alt": "Omnibot Reborn: Giving a 1984 Robot Butler the Brain It Was Promised",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/technology/robotics/omnibot-reborn-giving-a-1984-robot-butler-the-brain-it-was-promised/",
+        "trustTier": "publication",
+        "author": "Mario Cruz",
+        "date": "Mon, 26 Oct 2026 23:50:0"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "robotics",
+        "technology",
+        "computer vision",
+        "make99",
+        "robot",
+        "toys"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:04:00.807Z",
+      "hash": "f9fe72248fe76575"
+    },
+    {
+      "id": "word:2a6fe5aa979245a4",
+      "type": "word",
+      "title": "epiphany",
+      "summary": "Noun: An illuminating realization or discovery, often resulting in a personal feeling of elation, awe, or wonder.",
+      "body": "1. An illuminating realization or discovery, often resulting in a personal feeling of elation, awe, or wonder.\n2. A manifestation or appearance of a divine or superhuman being.\n3. Alternative letter-case form of Epiphany.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/epiphany",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:55.159Z",
+      "hash": "2a6fe5aa979245a4"
+    },
+    {
+      "id": "quote:b800922e52953bbb",
+      "type": "quote",
+      "title": "“All has not been said and never will be.”",
+      "summary": "— Samuel Beckett",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Samuel_Beckett",
+        "trustTier": "community",
+        "author": "Samuel Beckett"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:54.185Z",
+      "hash": "b800922e52953bbb"
+    },
+    {
+      "id": "quote:8e333123f2371cb8",
+      "type": "quote",
+      "title": "“Repetition does not transform a lie into a truth.”",
+      "summary": "— Franklin D. Roosevelt",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Franklin_D._Roosevelt",
+        "trustTier": "community",
+        "author": "Franklin D. Roosevelt"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:54.185Z",
+      "hash": "8e333123f2371cb8"
+    },
+    {
+      "id": "quote:9de5009fc1ad902f",
+      "type": "quote",
+      "title": "“Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.”",
+      "summary": "— Richard Bach",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Richard_Bach",
+        "trustTier": "community",
+        "author": "Richard Bach"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:54.185Z",
+      "hash": "9de5009fc1ad902f"
+    },
+    {
+      "id": "book-review:2c54c252c75854c4",
+      "type": "book-review",
+      "title": "“My Starting Point Was Wrong”: Talking with Gil Hochberg about Writing, Mental Illness and Queer Survival",
+      "summary": "“He was ill independently of course; but nationally, a psychotic illness was brewing.” The post “My Starting Point Was Wrong”: Talking with Gil Hochberg about Writing, Mental Illness and Queer Survival appeared first on Public Books.",
+      "body": "“He was ill independently of course; but nationally, a psychotic illness was brewing.” The post “My Starting Point Was Wrong”: Talking with Gil Hochberg about Writing, Mental Illness and Queer Survival appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/gil-hochberg-writing-mental-illness-and-queer-survival/",
+        "trustTier": "publication",
+        "author": "Imani Radney",
+        "date": "Wed, 28 Oct 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "interviews",
+        "duke university press",
+        "interview",
+        "israel",
+        "memoir",
+        "mental illness",
+        "psychoanalysis"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:53.930Z",
+      "hash": "2c54c252c75854c4"
+    },
+    {
+      "id": "book-review:33f81410344c89f5",
+      "type": "book-review",
+      "title": "Game of Your Life",
+      "summary": "A dystopian future told through a police report, the novel is centered on a game humans have designed from a rulebook found inside an ancient spaceship belonging to an alien culture, unearthed in Antarctica when Earth’s polar caps melted. The post Game of Your Life appeared first on Public Books.",
+      "body": "A dystopian future told through a police report, the novel is centered on a game humans have designed from a rulebook found inside an ancient spaceship belonging to an alien culture, unearthed in Antarctica when Earth’s polar caps melted. The post Game of Your Life appeared first on Public Books.",
+      "source": {
+        "name": "Public Books",
+        "url": "https://www.publicbooks.org/game-of-your-life/",
+        "trustTier": "publication",
+        "author": "Morgan Barry",
+        "date": "Thu, 29 Oct 2026 15:00:0"
+      },
+      "tags": [
+        "books",
+        "review",
+        "ideas",
+        "reviews",
+        "dystopia",
+        "experimental",
+        "fiction",
+        "games",
+        "literature",
+        "mystery"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:53.930Z",
+      "hash": "33f81410344c89f5"
+    },
+    {
+      "id": "article:61547b46428dba51",
+      "type": "article",
+      "title": "Number line vulnerability?",
+      "summary": "Today's xkcd: Mouseover title: \"Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.\" This obviously echoes the recent panic about vulnerabilities in PHP. The joke works because PHP was just about as much of the assumed ontological…",
+      "body": "Today's xkcd: Mouseover title: \"Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.\" This obviously echoes the recent panic about vulnerabilities in PHP. The joke works because PHP was just about as much of the assumed ontological background as the number line, even for the […]",
+      "image": {
+        "src": "data/images/c2a1f3e6cd9f7e27.png",
+        "alt": "Number line vulnerability?",
+        "credit": "Language Log"
+      },
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74472&utm_source=rss&utm_medium=rss&utm_campaign=number-line-vulnerability",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Fri, 23 Oct 2026 12:37:0"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "linguistics in the comics"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:47.948Z",
+      "hash": "61547b46428dba51"
+    },
+    {
+      "id": "article:aee6f0efd40b461c",
+      "type": "article",
+      "title": "I made a small tweak to Prometheus (gift link discovery...",
+      "summary": "I made a small tweak to Prometheus (gift link discovery site) that kinda kicks ass: NYT Cooking is now a separate source (which you can filter by). The Rigatoni With White Bolognese recipe is a favorite of mine. 🤌",
+      "body": "I made a small tweak to Prometheus (gift link discovery site) that kinda kicks ass: NYT Cooking is now a separate source (which you can filter by). The Rigatoni With White Bolognese recipe is a favorite of mine. 🤌",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/10/0049903-prometheus",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-10-29T12:55:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:43.794Z",
+      "hash": "aee6f0efd40b461c"
+    },
+    {
+      "id": "article:88f6158806b729fa",
+      "type": "article",
+      "title": "[Outliers] K.C. Irving: How to Build an Empire on Your Own Terms",
+      "summary": "K.C. Irving refused to be stopped. When a railway raised his shipping costs, he bought a ship. When oil suppliers tried to squeeze him, he built a refinery. When a plant went on strike he pulled up to the picket line, took off his coat, and challenged the much larger union boss to a fight. … The…",
+      "body": "K.C. Irving refused to be stopped. When a railway raised his shipping costs, he bought a ship. When oil suppliers tried to squeeze him, he built a refinery. When a plant went on strike he pulled up to the picket line, took off his coat, and challenged the much larger union boss to a fight. … The post [Outliers] K.C. Irving: How to Build an Empire on Your Own Terms appeared first on Farnam Street.",
+      "source": {
+        "name": "Farnam Street",
+        "url": "https://fs.blog/knowledge-project-podcast/outliers-kc-irving/",
+        "trustTier": "community",
+        "author": "Craig",
+        "date": "Thu, 29 Oct 2026 09:50:0"
+      },
+      "tags": [
+        "ideas",
+        "psychology",
+        "decision-making"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:43.044Z",
+      "hash": "88f6158806b729fa"
+    },
+    {
+      "id": "article:b52c542268613ae0",
+      "type": "article",
+      "title": "Behold a Prehistoric Lizard Tail Trapped in Amber",
+      "summary": "Proof the defense tactic has been used for at least 99 million years The post Behold a Prehistoric Lizard Tail Trapped in Amber appeared first on Nautilus.",
+      "body": "Proof the defense tactic has been used for at least 99 million years The post Behold a Prehistoric Lizard Tail Trapped in Amber appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/3b20a30b2efba16e.jpg",
+        "alt": "Behold a Prehistoric Lizard Tail Trapped in Amber",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/behold-a-prehistoric-lizard-tail-trapped-in-amber-1286168/",
+        "trustTier": "publication",
+        "author": "David Nield",
+        "date": "Thu, 29 Oct 2026 12:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "paleontology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:42.674Z",
+      "hash": "b52c542268613ae0"
+    },
+    {
+      "id": "article:503bbe276a1f41bb",
+      "type": "article",
+      "title": "The Most Important Thing to Remember About Your Mother",
+      "summary": "\"It is not easy to give closeness and freedom, safety plus danger.\"",
+      "body": "\"It is not easy to give closeness and freedom, safety plus danger.\"",
+      "image": {
+        "src": "data/images/12b232eba915fee9.jpg",
+        "alt": "The Most Important Thing to Remember About Your Mother",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/10/28/florida-scott-maxwell-mother/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Thu, 29 Oct 2026 00:06:0"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "books",
+        "florida scott-maxwell"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:42.453Z",
+      "hash": "503bbe276a1f41bb"
+    },
+    {
+      "id": "article:3c86e11764478c77",
+      "type": "article",
+      "title": "Top U.S. Health Official Backed a Medication Policy Shift That Benefited a Company She Has Stock In",
+      "summary": "The post Top U.S. Health Official Backed a Medication Policy Shift That Benefited a Company She Has Stock In appeared first on ProPublica.",
+      "body": "The post Top U.S. Health Official Backed a Medication Policy Shift That Benefited a Company She Has Stock In appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/0c234ec32fe933e8.jpg",
+        "alt": "Top U.S. Health Official Backed a Medication Policy Shift That Benefited a Company She Has Stock In",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+        "trustTier": "publication",
+        "author": "Corey G. Johnson",
+        "date": "Thu, 29 Oct 2026 09:30:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "trump administration"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:41.936Z",
+      "hash": "3c86e11764478c77",
+      "expires": "2027-01-27T15:03:41.936Z"
+    },
+    {
+      "id": "article:9f9bc60f006c12a0",
+      "type": "article",
+      "title": "AI dominates human peer reviews",
+      "summary": "We show that AI-generated article reviews are now better, by every measure we could construct, than reviews written by well-compensated human experts and judged to be of unusually high quality by journal editors and authors. We then discuss how this result may inform journal policy choices, with…",
+      "body": "We show that AI-generated article reviews are now better, by every measure we could construct, than reviews written by well-compensated human experts and judged to be of unusually high quality by journal editors and authors. We then discuss how this result may inform journal policy choices, with concerning downsides as well as potential paths to […] The post AI dominates human peer reviews appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-dominates-human-peer-reviews",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Thu, 29 Oct 2026 07:13:0"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "data source",
+        "science",
+        "web/tech"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:40.003Z",
+      "hash": "9f9bc60f006c12a0"
+    },
+    {
+      "id": "greek:d6ec919479d8a208",
+      "type": "greek",
+      "title": "λέγω",
+      "summary": "λέγω — “I say, speak” · verb",
+      "body": "Note: regular -ω verb; 3sg λέγει\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BB%CE%AD%CE%B3%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:38.458Z",
+      "hash": "d6ec919479d8a208"
+    },
+    {
+      "id": "greek:a5f8b3654d7a8c5e",
+      "type": "greek",
+      "title": "Χριστός",
+      "summary": "Χριστός — “Christ, Messiah” · noun",
+      "body": "Note: ὁ Χριστός; literally \"anointed one\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%A7%CF%81%CE%B9%CF%83%CF%84%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:38.458Z",
+      "hash": "a5f8b3654d7a8c5e"
+    },
+    {
+      "id": "poetry:f0f88b7f1d18af01",
+      "type": "poem",
+      "title": "Alastor: Or, the Spirit of Solitude",
+      "summary": "'The good die first,\nAnd those whose hearts are dry as summer dust,\nBurn to the socket!'\nEarth, Ocean, Air, beloved brotherhood!",
+      "body": "'The good die first,\nAnd those whose hearts are dry as summer dust,\nBurn to the socket!'\n\nEarth, Ocean, Air, beloved brotherhood!\nIf our great Mother has imbued my soul\nWith aught of natural piety to feel\nYour love, and recompense the boon with mine;\nIf dewy morn, and odorous noon, and even,\nWith sunset and its gorgeous ministers,\nAnd solemn midnight's tingling silentness;\nIf autumn's hollow sighs in the sere wood,\nAnd winter robing with pure snow and crowns\nOf starry ice the grey grass and bare boughs;\nIf spring's voluptuous pantings when she breathes\nHer first sweet kisses, have been dear to me;\nIf no bright bird, insect, or gentle beast\nI consciously have injured, but still loved\nAnd cherished these my kindred; then forgive\nThis boast, beloved brethren, and withdraw\nNo portion of your wonted favour now!\n\nMother of this unfathomable world!\nFavour my solemn song, for I have loved\nThee ever, and thee only; I have watched\nThy shadow, and the darkness of thy steps,\nAnd my heart ever gazes on the depth\nOf thy deep mysteries. I have made my bed\nIn charnels and on coffins, where black death\nKeeps record of the trophies won from thee,\nHoping to still these obstinate questionings\nOf thee and thine, by forcing some lone ghost,\nThy messenger, to render up the tale\nOf what we are. In lone and silent hours,\nWhen night makes a weird sound of its own stillness,\nLike an inspired and desperate alchymist\nStaking his very life on some dark hope,\nHave I mixed awful talk and asking looks\nWith my most innocent love, until strange tears,\nUniting with those breathless kisses, made\nSuch magic as compels the charmed night\nTo render up thy charge:...and, though ne'er yet\nThou hast unveiled thy inmost sanctuary,\nEnough from incommunicable dream,\nAnd twilight phantasms, and deep noon-day thought,\nHas shone within me, that serenely now\nAnd moveless, as a long-forgotten lyre\nSuspended in the solitary dome\nOf some mysterious and deserted fane,\nI wait thy breath, Great Parent, that my strain\nMay modulate with murmurs of the air,\nAnd motions of the forests and the sea,\nAnd voice of living beings, and woven hymns\nOf night and day, and the deep heart of man.\n\nThere was a Poet whose untimely tomb\nNo human hands with pious reverence reared,\nBut the charmed eddies of autumnal winds\nBuilt o'er his mouldering bones a pyramid\nOf mouldering leaves in the waste wilderness:--\nA lovely youth,--no mourning maiden decked\nWith weeping flowers, or votive cypress wreath,\nThe lone couch of his everlasting sleep:--\nGentle, and brave, and generous,--no lorn bard\nBreathed o'er his dark fate one melodious sigh:\nHe lived, he died, he sung in solitude.\nStrangers have wept to hear his passionate notes,\nAnd virgins, as unknown he passed, have pined\nAnd wasted for fond love of his wild eyes.\nThe fire of those soft orbs has ceased to burn,\nAnd Silence, too enamoured of that voice,\nLocks its mute music in her rugged cell.\n\nBy solemn vision, and bright silver dream\nHis infancy was nurtured. Every sight\nAnd sound from the vast earth and ambient air,\nSent to his heart its choicest impulses.\nThe fountains of divine philosophy\nFled not his thirsting lips, and all of great,\nOr good, or lovely, which the sacred past\nIn truth or fable consecrates, he felt\nAnd knew. When early youth had passed, he left\nHis cold fireside and alienated home\nTo seek strange truths in undiscovered lands.\nMany a wide waste and tangled wilderness\nHas lured his fearless steps; and he has bought\nWith his sweet voice and eyes, from savage men,\nHis rest and food. Nature's most secret steps\nHe like her shadow has pursued, where'er\nThe red volcano overcanopies\nIts fields of snow and pinnacles of ice\nWith burning smoke, or where bitumen lakes\nOn black bare pointed islets ever beat\nWith sluggish surge, or where the secret caves,\nRugged and dark, winding among the springs\nOf fire and poison, inaccessible\nTo avarice or pride, their starry domes\nOf diamond and of gold expand above\nNumberless and immeasurable halls,\nFrequent with crystal column, and clear shrines\nOf pearl, and thrones radiant with chrysolite.\nNor had that scene of ampler majesty\nThan gems or gold, the varying roof of heaven\nAnd the green earth lost in his heart its claims\nTo love and wonder; he would linger long\nIn lonesome vales, making the wild his home,\nUntil the doves and squirrels would partake\nFrom his innocuous hand his bloodless food,\nLured by the gentle meaning of his looks,\nAnd the wild antelope, that starts whene'er\nThe dry leaf rustles in the brake, suspend\nHer timid steps, to gaze upon a form\nMore graceful than her own.\nHis wandering step,\nObedient to high thoughts, has visited\nThe awful ruins of the days of old:\nAthens, and Tyre, and Balbec, and the waste\nWhere stood Jerusalem, the fallen towers\nOf Babylon, the eternal pyramids,\nMemphis and Thebes, and whatsoe'er of strange,\nSculptured on alabaster obelisk,\nOr jasper tomb, or mutilated sphynx,\nDark Aethiopia in her desert hills\nConceals. Among the ruined temples there,\nStupendous columns, and wild images\nOf more than man, where marble daemons watch\nThe Zodiac's brazen mystery, and dead men\nHang their mute thoughts on the mute walls around,\nHe lingered, poring on memorials\nOf the world's youth: through the long burning day\nGazed on those speechless shapes; nor, when the moon\nFilled the mysterious halls with floating shades\nSuspended he that task, but ever gazed\nAnd gazed, till meaning on his vacant mind\nFlashed like strong inspiration, and he saw\nThe thrilling secrets of the birth of time.\n\nMeanwhile an Arab maiden brought his food,\nHer daily portion, from her father's tent,\nAnd spread her matting for his couch, and stole\nFrom duties and repose to tend his steps,\nEnamoured, yet not daring for deep awe\nTo speak her love:--and watched his nightly sleep,\nSleepless herself, to gaze upon his lips\nParted in slumber, whence the regular breath\nOf innocent dreams arose; then, when red morn\nMade paler the pale moon, to her cold home\nWildered, and wan, and panting, she returned.\n\nThe Poet, wandering on, through Arabie,\nAnd Persia, and the wild Carmanian waste,\nAnd o'er the aerial mountains which pour down\nIndus and Oxus from their icy caves,\nIn joy and exultation held his way;\nTill in the vale of Cashmire, far within\nIts loneliest dell, where odorous plants entwine\nBeneath the hollow rocks a natural bower,\nBeside a sparkling rivulet he stretched\nHis languid limbs. A vision on his sleep\nThere came, a dream of hopes that never yet\nHad flushed his cheek. He dreamed a veiled maid\nSate near him, talking in low solemn tones.\nHer voice was like the voice of his own soul\nHeard in the calm of thought; its music long,\nLike woven sounds of streams and breezes, held\nHis inmost sense suspended in its web\nOf many-coloured woof and shifting hues.\nKnowledge and truth and virtue were her theme,\nAnd lofty hopes of divine liberty,\nThoughts the most dear to him, and poesy,\nHerself a poet. Soon the solemn mood\nOf her pure mind kindled through all her frame\nA permeating fire; wild numbers then\nShe raised, with voice stifled in tremulous sobs\nSubdued by its own pathos; her fair hands\nWere bare alone, sweeping from some strange harp\nStrange symphony, and in their branching veins\nThe eloquent blood told an ineffable tale.\nThe beating of her heart was heard to fill\nThe pauses of her music, and her breath\nTumultuously accorded with those fits\nOf intermitted song. Sudden she rose,\nAs if her heart impatiently endured\nIts bursting burthen: at the sound he turned,\nAnd saw by the warm light of their own life\nHer glowing limbs beneath the sinuous veil\nOf woven wind, her outspread arms now bare,\nHer dark locks floating in the breath of night,\nHer beamy bending eyes, her parted lips\nOutstretched, and pale, and quivering eagerly.\nHis strong heart sunk and sickened with excess\nOf love. He reared his shuddering limbs and quelled\nHis gasping breath, and spread his arms to meet\nHer panting bosom:...she drew back a while,\nThen, yielding to the irresistible joy,\nWith frantic gesture and short breathless cry\nFolded his frame in her dissolving arms.\nNow blackness veiled his dizzy eyes, and night\nInvolved and swallowed up the vision; sleep,\nLike a dark flood suspended in its course,\nRolled back its impulse on his vacant brain.\n\nRoused by the shock he started from his trance--\nThe cold white light of morning, the blue moon\nLow in the west, the clear and garish hills,\nThe distinct valley and the vacant woods,\nSpread round him where he stood. Whither have fled\nThe hues of heaven that canopied his bower\nOf yesternight? The sounds that soothed his sleep,\nThe mystery and the majesty of Earth,\nThe joy, the exultation? His wan eyes\nGaze on the empty scene as vacantly\nAs ocean's moon looks on the moon in heaven.\nThe spirit of sweet human love has sent\nA vision to the sleep of him who spurned\nHer choicest gifts. He eagerly pursues\nBeyond the realms of dream that fleeting shade;\nHe overleaps the bounds. Alas! Alas!\nWere limbs, and breath, and being intertwined\nThus treacherously? Lost, lost, for ever lost\nIn the wide pathless desert of dim sleep,\nThat beautiful shape! Does the dark gate of death\nConduct to thy mysterious paradise,\nO Sleep? Does the bright arch of rainbow clouds\nAnd pendent mountains seen in the calm lake,\nLead only to a black and watery depth,\nWhile death's blue vault, with loathliest vapours hung,\nWhere every shade which the foul grave exhales\nHides its dead eye from the detested day,\nConducts, O Sleep, to thy delightful realms?\nThis doubt with sudden tide flowed on his heart;\nThe insatiate hope which it awakened, stung\nHis brain even like despair.\nWhile daylight held\nThe sky, the Poet kept mute conference\nWith his still soul. At night the passion came,\nLike the fierce fiend of a distempered dream,\nAnd shook him from his rest, and led him forth\nInto the darkness.--As an eagle, grasped\nIn folds of the green serpent, feels her breast\nBurn with the poison, and precipitates\nThrough night and day, tempest, and calm, and cloud,\nFrantic with dizzying anguish, her blind flight\nO'er the wide aery wilderness: thus driven\nBy the bright shadow of that lovely dream,\nBeneath the cold glare of the desolate night,\nThrough tangled swamps and deep precipitous dells,\nStartling with careless step the moonlight snake,\nHe fled. Red morning dawned upon his flight,\nShedding the mockery of its vital hues\nUpon his cheek of death. He wandered on\nTill vast Aornos seen from Petra's steep\nHung o'er the low horizon like a cloud;\nThrough Balk, and where the desolated tombs\nOf Parthian kings scatter to every wind\nTheir wasting dust, wildly he wandered on,\nDay after day a weary waste of hours,\nBearing within his life the brooding care\nThat ever fed on its decaying flame.\nAnd now his limbs were lean; his scattered hair,\nSered by the autumn of strange suffering\nSung dirges in the wind; his listless hand\nHung like dead bone within its withered skin;\nLife, and the lustre that consumed it, shone\nAs in a furnace burning secretly\nFrom his dark eyes alone. The cottagers,\nWho ministered with human charity\nHis human wants, beheld with wondering awe\nTheir fleeting visitant. The mountaineer,\nEncountering on some dizzy precipice\nThat spectral form, deemed that the Spirit of wind\nWith lightning eyes, and eager breath, and feet\nDisturbing not the drifted snow, had paused\nIn its career: the infant would conceal\nHis troubled visage in his mother's robe\nIn terror at the glare of those wild eyes,\nTo remember their strange light in many a dream\nOf after-times; but youthful maidens, taught\nBy nature, would interpret half the woe\nThat wasted him, would call him with false names\nBrother and friend, would press his pallid hand\nAt parting, and watch, dim through tears, the path\nOf his departure from their father's door.\n\nAt length upon the lone Chorasmian shore\nHe paused, a wide and melancholy waste\nOf putrid marshes. A strong impulse urged\nHis steps to the sea-shore. A swan was there,\nBeside a sluggish stream among the reeds.\nIt rose as he approached, and, with strong wings\nScaling the upward sky, bent its bright course\nHigh over the immeasurable main.\nHis eyes pursued its flight:--'Thou hast a home,\nBeautiful bird; thou voyagest to thine home,\nWhere thy sweet mate will twine her downy neck\nWith thine, and welcome thy return with eyes\nBright in the lustre of their own fond joy.\nAnd what am I that I should linger here,\nWith voice far sweeter than thy dying notes,\nSpirit more vast than thine, frame more attuned\nTo beauty, wasting these surpassing powers\nIn the deaf air, to the blind earth, and heaven\nThat echoes not my thoughts?' A gloomy smile\nOf desperate hope wrinkled his quivering lips.\nFor sleep, he knew, kept most relentlessly\nIts precious charge, and silent death exposed,\nFaithless perhaps as sleep, a shadowy lure,\nWith doubtful smile mocking its own strange charms.\n\nStartled by his own thoughts he looked around.\nThere was no fair fiend near him, not a sight\nOr sound of awe but in his own deep mind.\nA little shallop floating near the shore\nCaught the impatient wandering of his gaze.\nIt had been long abandoned, for its sides\nGaped wide with many a rift, and its frail joints\nSwayed with the undulations of the tide.\nA restless impulse urged him to embark\nAnd meet lone Death on the drear ocean's waste;\nFor well he knew that mighty Shadow loves\nThe slimy caverns of the populous deep.\n\nThe day was fair and sunny; sea and sky\nDrank its inspiring radiance, and the wind\nSwept strongly from the shore, blackening the waves.\nFollowing his eager soul, the wanderer\nLeaped in the boat, he spread his cloak aloft\nOn the bare mast, and took his lonely seat,\nAnd felt the boat speed o'er the tranquil sea\nLike a torn cloud before the hurricane.\n\nAs one that in a silver vision floats\nObedient to the sweep of odorous winds\nUpon resplendent clouds, so rapidly\nAlong the dark and ruffled waters fled\nThe straining boat.--A whirlwind swept it on,\nWith fierce gusts and precipitating force,\nThrough the white ridges of the chafed sea.\nThe waves arose. Higher and higher still\nTheir fierce necks writhed beneath the tempest's scourge\nLike serpents struggling in a vulture's grasp.\nCalm and rejoicing in the fearful war\nOf wave ruining on wave, and blast on blast\nDescending, and black flood on whirlpool driven\nWith dark obliterating course, he sate:\nAs if their genii were the ministers\nAppointed to conduct him to the light\nOf those beloved eyes, the Poet sate,\nHolding the steady helm. Evening came on,\nThe beams of sunset hung their rainbow hues\nHigh 'mid the shifting domes of sheeted spray\nThat canopied his path o'er the waste deep;\nTwilight, ascending slowly from the east,\nEntwined in duskier wreaths her braided locks\nO'er the fair front and radiant eyes of day;\nNight followed, clad with stars. On every side\nMore horribly the multitudinous streams\nOf ocean's mountainous waste to mutual war\nRushed in dark tumult thundering, as to mock\nThe calm and spangled sky. The little boat\nStill fled before the storm; still fled, like foam\nDown the steep cataract of a wintry river;\nNow pausing on the edge of the riven wave;\nNow leaving far behind the bursting mass\nThat fell, convulsing ocean: safely fled--\nAs if that frail and wasted human form,\nHad been an elemental god.\n\nAt midnight\nThe moon arose; and lo! the ethereal cliffs\nOf Caucasus, whose icy summits shone\nAmong the stars like sunlight, and around\nWhose caverned base the whirlpools and the waves\nBursting and eddying irresistibly\nRage and resound forever.--Who shall save?--\nThe boat fled on,--the boiling torrent drove,--\nThe crags closed round with black and jagged arms,\nThe shattered mountain overhung the sea,\nAnd faster still, beyond all human speed,\nSuspended on the sweep of the smooth wave,\nThe little boat was driven. A cavern there\nYawned, and amid its slant and winding depths\nIngulfed the rushing sea. The boat fled on\nWith unrelaxing speed.--'Vision and Love!'\nThe Poet cried aloud, 'I have beheld\nThe path of thy departure. Sleep and death\nShall not divide us long.'\n\nThe boat pursued\nThe windings of the cavern. Daylight shone\nAt length upon that gloomy river's flow;\nNow, where the fiercest war among the waves\nIs calm, on the unfathomable stream\nThe boat moved slowly. Where the mountain, riven,\nExposed those black depths to the azure sky,\nEre yet the flood's enormous volume fell\nEven to the base of Caucasus, with sound\nThat shook the everlasting rocks, the mass\nFilled with one whirlpool all that ample chasm:\nStair above stair the eddying waters rose,\nCircling immeasurably fast, and laved\nWith alternating dash the gnarled roots\nOf mighty trees, that stretched their giant arms\nIn darkness over it. I' the midst was left,\nReflecting, yet distorting every cloud,\nA pool of treacherous and tremendous calm.\nSeized by the sway of the ascending stream,\nWith dizzy swiftness, round, and round, and round,\nRidge after ridge the straining boat arose,\nTill on the verge of the extremest curve,\nWhere, through an opening of the rocky bank,\nThe waters overflow, and a smooth spot\nOf glassy quiet mid those battling tides\nIs left, the boat paused shuddering.--Shall it sink\nDown the abyss? Shall the reverting stress\nOf that resistless gulf embosom it?\nNow shall it fall?--A wandering stream of wind,\nBreathed from the west, has caught the expanded sail,\nAnd, lo! with gentle motion, between banks\nOf mossy slope, and on a placid stream,\nBeneath a woven grove it sails, and, hark!\nThe ghastly torrent mingles its far roar,\nWith the breeze murmuring in the musical woods.\nWhere the embowering trees recede, and leave\nA little space of green expanse, the cove\nIs closed by meeting banks, whose yellow flowers\nFor ever gaze on their own drooping eyes,\nReflected in the crystal calm. The wave\nOf the boat's motion marred their pensive task,\nWhich naught but vagrant bird, or wanton wind,\nOr falling spear-grass, or their own decay\nHad e'er disturbed before. The Poet longed\nTo deck with their bright hues his withered hair,\nBut on his heart its solitude returned,\nAnd he forbore. Not the strong impulse hid\nIn those flushed cheeks, bent eyes, and shadowy frame\nHad yet performed its ministry: it hung\nUpon his life, as lightning in a cloud\nGleams, hovering ere it vanish, ere the floods\nOf night close over it.\nThe noonday sun\nNow shone upon the forest, one vast mass\nOf mingling shade, whose brown magnificence\nA narrow vale embosoms. There, huge caves,\nScooped in the dark base of their aery rocks,\nMocking its moans, respond and roar for ever.\nThe meeting boughs and implicated leaves\nWove twilight o'er the Poet's path, as led\nBy love, or dream, or god, or mightier Death,\nHe sought in Nature's dearest haunt some bank,\nHer cradle, and his sepulchre. More dark\nAnd dark the shades accumulate. The oak,\nExpanding its immense and knotty arms,\nEmbraces the light beech. The pyramids\nOf the tall cedar overarching frame\nMost solemn domes within, and far below,\nLike clouds suspended in an emerald sky,\nThe ash and the acacia floating hang\nTremulous and pale. Like restless serpents, clothed\nIn rainbow and in fire, the parasites,\nStarred with ten thousand blossoms, flow around\nThe grey trunks, and, as gamesome infants' eyes,\nWith gentle meanings, and most innocent wiles,\nFold their beams round the hearts of those that love,\nThese twine their tendrils with the wedded boughs\nUniting their close union; the woven leaves\nMake net-work of the dark blue light of day,\nAnd the night's noontide clearness, mutable\nAs shapes in the weird clouds. Soft mossy lawns\nBeneath these canopies extend their swells,\nFragrant with perfumed herbs, and eyed with blooms\nMinute yet beautiful. One darkest glen\nSends from its woods of musk-rose, twined with jasmine,\nA soul-dissolving odour to invite\nTo some more lovely mystery. Through the dell,\nSilence and Twilight here, twin-sisters, keep\nTheir noonday watch, and sail among the shades,\nLike vaporous shapes half-seen; beyond, a well,\nDark, gleaming, and of most translucent wave,\nImages all the woven boughs above,\nAnd each depending leaf, and every speck\nOf azure sky, darting between their chasms;\nNor aught else in the liquid mirror laves\nIts portraiture, but some inconstant star\nBetween one foliaged lattice twinkling fair,\nOr painted bird, sleeping beneath the moon,\nOr gorgeous insect floating motionless,\nUnconscious of the day, ere yet his wings\nHave spread their glories to the gaze of noon.\n\nHither the Poet came. His eyes beheld\nTheir own wan light through the reflected lines\nOf his thin hair, distinct in the dark depth\nOf that still fountain; as the human heart,\nGazing in dreams over the gloomy grave,\nSees its own treacherous likeness there. He heard\nThe motion of the leaves, the grass that sprung\nStartled and glanced and trembled even to feel\nAn unaccustomed presence, and the sound\nOf the sweet brook that from the secret springs\nOf that dark fountain rose. A Spirit seemed\nTo stand beside him--clothed in no bright robes\nOf shadowy silver or enshrining light,\nBorrowed from aught the visible world affords\nOf grace, or majesty, or mystery;--\nBut, undulating woods, and silent well,\nAnd leaping rivulet, and evening gloom\nNow deepening the dark shades, for speech assuming,\nHeld commune with him, as if he and it\nWere all that was,--only...when his regard\nWas raised by intense pensiveness,...two eyes,\nTwo starry eyes, hung in the gloom of thought,\nAnd seemed with their serene and azure smiles\nTo beckon him.\n\nObedient to the light\nThat shone within his soul, he went, pursuing\nThe windings of the dell.--The rivulet,\nWanton and wild, through many a green ravine\nBeneath the forest flowed. Sometimes it fell\nAmong the moss with hollow harmony\nDark and profound. Now on the polished stones\nIt danced; like childhood laughing as it went:\nThen, through the plain in tranquil wanderings crept,\nReflecting every herb and drooping bud\nThat overhung its quietness.--'O stream!\nWhose source is inaccessibly profound,\nWhither do thy mysterious waters tend?\nThou imagest my life. Thy darksome stillness,\nThy dazzling waves, thy loud and hollow gulfs,\nThy searchless fountain, and invisible course\nHave each their type in me; and the wide sky.\nAnd measureless ocean may declare as soon\nWhat oozy cavern or what wandering cloud\nContains thy waters, as the universe\nTell where these living thoughts reside, when stretched\nUpon thy flowers my bloodless limbs shall waste\nI' the passing wind!'\n\nBeside the grassy shore\nOf the small stream he went; he did impress\nOn the green moss his tremulous step, that caught\nStrong shuddering from his burning limbs. As one\nRoused by some joyous madness from the couch\nOf fever, he did move; yet, not like him,\nForgetful of the grave, where, when the flame\nOf his frail exultation shall be spent,\nHe must descend. With rapid steps he went\nBeneath the shade of trees, beside the flow\nOf the wild babbling rivulet; and now\nThe forest's solemn canopies were changed\nFor the uniform and lightsome evening sky.\nGrey rocks did peep from the spare moss, and stemmed\nThe struggling brook; tall spires of windlestrae\nThrew their thin shadows down the rugged slope,\nAnd nought but gnarled roots of ancient pines\nBranchless and blasted, clenched with grasping roots\nThe unwilling soil. A gradual change was here,\nYet ghastly. For, as fast years flow away,\nThe smooth brow gathers, and the hair grows thin\nAnd white, and where irradiate dewy eyes\nHad shone, gleam stony orbs:--so from his steps\nBright flowers departed, and the beautiful shade\nOf the green groves, with all their odorous winds\nAnd musical motions. Calm, he still pursued\nThe stream, that with a larger volume now\nRolled through the labyrinthine dell; and there\nFretted a path through its descending curves\nWith its wintry speed. On every side now rose\nRocks, which, in unimaginable forms,\nLifted their black and barren pinnacles\nIn the light of evening, and its precipice\nObscuring the ravine, disclosed above,\nMid toppling stones, black gulfs and yawning caves,\nWhose windings gave ten thousand various tongues\nTo the loud stream. Lo! where the pass expands\nIts stony jaws, the abrupt mountain breaks,\nAnd seems, with its accumulated crags,\nTo overhang the world: for wide expand\nBeneath the wan stars and descending moon\nIslanded seas, blue mountains, mighty streams,\nDim tracts and vast, robed in the lustrous gloom\nOf leaden-coloured even, and fiery hills\nMingling their flames with twilight, on the verge\nOf the remote horizon. The near scene,\nIn naked and severe simplicity,\nMade contrast with the universe. A pine,\nRock-rooted, stretched athwart the vacancy\nIts swinging boughs, to each inconstant blast\nYielding one only response, at each pause\nIn most familiar cadence, with the howl\nThe thunder and the hiss of homeless streams\nMingling its solemn song, whilst the broad river\nFoaming and hurrying o'er its rugged path,\nFell into that immeasurable void\nScattering its waters to the passing winds.\n\nYet the grey precipice and solemn pine\nAnd torrent were not all;--one silent nook\nWas there. Even on the edge of that vast mountain,\nUpheld by knotty roots and fallen rocks,\nIt overlooked in its serenity\nThe dark earth, and the bending vault of stars.\nIt was a tranquil spot, that seemed to smile\nEven in the lap of horror. Ivy clasped\nThe fissured stones with its entwining arms,\nAnd did embower with leaves for ever green,\nAnd berries dark, the smooth and even space\nOf its inviolated floor, and here\nThe children of the autumnal whirlwind bore,\nIn wanton sport, those bright leaves, whose decay,\nRed, yellow, or ethereally pale,\nRivals the pride of summer. 'Tis the haunt\nOf every gentle wind, whose breath can teach\nThe wilds to love tranquillity. One step,\nOne human step alone, has ever broken\nThe stillness of its solitude:--one voice\nAlone inspired its echoes;--even that voice\nWhich hither came, floating among the winds,\nAnd led the loveliest among human forms\nTo make their wild haunts the depository\nOf all the grace and beauty that endued\nIts motions, render up its majesty,\nScatter its music on the unfeeling storm,\nAnd to the damp leaves and blue cavern mould,\nNurses of rainbow flowers and branching moss,\nCommit the colours of that varying cheek,\nThat snowy breast, those dark and drooping eyes.\n\nThe dim and horned moon hung low, and poured\nA sea of lustre on the horizon's verge\nThat overflowed its mountains. Yellow mist\nFilled the unbounded atmosphere, and drank\nWan moonlight even to fulness; not a star\nShone, not a sound was heard; the very winds,\nDanger's grim playmates, on that precipice\nSlept, clasped in his embrace.--O, storm of death!\nWhose sightless speed divides this sullen night: 610\nAnd thou, colossal Skeleton, that, still\nGuiding its irresistible career\nIn thy devastating omnipotence,\nArt king of this frail world, from the red field\nOf slaughter, from the reeking hospital,\nThe patriot's sacred couch, the snowy bed\nOf innocence, the scaffold and the throne,\nA mighty voice invokes thee. Ruin calls\nHis brother Death. A rare and regal prey\nHe hath prepared, prowling around the world;\nGlutted with which thou mayst repose, and men\nGo to their graves like flowers or creeping worms,\nNor ever more offer at thy dark shrine\nThe unheeded tribute of a broken heart.\n\nWhen on the threshold of the green recess\nThe wanderer's footsteps fell, he knew that death\nWas on him. Yet a little, ere it fled,\nDid he resign his high and holy soul\nTo images of the majestic past,\nThat paused within his passive being now,\nLike winds that bear sweet music, when they breathe\nThrough some dim latticed chamber. He did place\nHis pale lean hand upon the rugged trunk\nOf the old pine. Upon an ivied stone\nReclined his languid head, his limbs did rest,\nDiffused and motionless, on the smooth brink\nOf that obscurest chasm;--and thus he lay,\nSurrendering to their final impulses\nThe hovering powers of life. Hope and despair,\nThe torturers, slept; no mortal pain or fear\nMarred his repose; the influxes of sense,\nAnd his own being unalloyed by pain,\nYet feebler and more feeble, calmly fed\nThe stream of thought, till he lay breathing there\nAt peace, and faintly smiling:--his last sight\nWas the great moon, which o'er the western line\nOf the wide world her mighty horn suspended,\nWith whose dun beams inwoven darkness seemed\nTo mingle. Now upon the jagged hills\nIt rests; and still as the divided frame\nOf the vast meteor sunk, the Poet's blood,\nThat ever beat in mystic sympathy\nWith nature's ebb and flow, grew feebler still:\nAnd when two lessening points of light alone\nGleamed through the darkness, the alternate gasp\nOf his faint respiration scarce did stir\nThe stagnate night:--till the minutest ray\nWas quenched, the pulse yet lingered in his heart.\nIt paused--it fluttered. But when heaven remained\nUtterly black, the murky shades involved\nAn image, silent, cold, and motionless,\nAs their own voiceless earth and vacant air.\nEven as a vapour fed with golden beams\nThat ministered on sunlight, ere the west\nEclipses it, was now that wondrous frame--\nNo sense, no motion, no divinity--\nA fragile lute, on whose harmonious strings\nThe breath of heaven did wander--a bright stream\nOnce fed with many-voiced waves--a dream\nOf youth, which night and time have quenched for ever,\nStill, dark, and dry, and unremembered now.\n\nOh, for Medea's wondrous alchemy,\nWhich wheresoe'er it fell made the earth gleam\nWith bright flowers, and the wintry boughs exhale\nFrom vernal blooms fresh fragrance! O, that God,\nProfuse of poisons, would concede the chalice\nWhich but one living man has drained, who now,\nVessel of deathless wrath, a slave that feels\nNo proud exemption in the blighting curse\nHe bears, over the world wanders for ever,\nLone as incarnate death! O, that the dream\nOf dark magician in his visioned cave,\nRaking the cinders of a crucible\nFor life and power, even when his feeble hand\nShakes in its last decay, were the true law\nOf this so lovely world! But thou art fled,\nLike some frail exhalation; which the dawn\nRobes in its golden beams,--ah! thou hast fled!\nThe brave, the gentle and the beautiful,\nThe child of grace and genius. Heartless things\nAre done and said i' the world, and many worms\nAnd beasts and men live on, and mighty Earth\nFrom sea and mountain, city and wilderness,\nIn vesper low or joyous orison,\nLifts still its solemn voice:--but thou art fled--\nThou canst no longer know or love the shapes\nOf this phantasmal scene, who have to thee\nBeen purest ministers, who are, alas!\nNow thou art not. Upon those pallid lips\nSo sweet even in their silence, on those eyes\nThat image sleep in death, upon that form\nYet safe from the worm's outrage, let no tear\nBe shed--not even in thought. Nor, when those hues\nAre gone, and those divinest lineaments,\nWorn by the senseless wind, shall live alone\nIn the frail pauses of this simple strain,\nLet not high verse, mourning the memory\nOf that which is no more, or painting's woe\nOr sculpture, speak in feeble imagery\nTheir own cold powers. Art and eloquence,\nAnd all the shows o' the world are frail and vain\nTo weep a loss that turns their lights to shade.\nIt is a woe \"too deep for tears,\" when all\nIs reft at once, when some surpassing Spirit,\nWhose light adorned the world around it, leaves\nThose who remain behind, not sobs or groans,\nThe passionate tumult of a clinging hope;\nBut pale despair and cold tranquillity,\nNature's vast frame, the web of human things,\nBirth and the grave, that are not as they were.",
+      "source": {
+        "name": "Percy Bysshe Shelley · PoetryDB",
+        "url": "https://poetrydb.org/title/Alastor%3A%20Or%2C%20the%20Spirit%20of%20Solitude",
+        "trustTier": "community",
+        "author": "Percy Bysshe Shelley"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:38.457Z",
+      "hash": "f0f88b7f1d18af01"
+    },
+    {
+      "id": "poetry:1ac1354a89e56285",
+      "type": "poem",
+      "title": "The Worship of Nature",
+      "summary": "The harp at Nature's advent strung\nHas never ceased to play;\nThe song the stars of morning sung\nHas never died away.",
+      "body": "The harp at Nature's advent strung\nHas never ceased to play;\nThe song the stars of morning sung\nHas never died away.\n\nAnd prayer is made, and praise is given,\nBy all things near and far;\nThe ocean looketh up to heaven,\nAnd mirrors every star.\n\nIts waves are kneeling on the strand,\nAs kneels the human knee,\nTheir white locks bowing to the sand,\nThe priesthood of the sea!\n\nThey pour their glittering treasures forth,\nTheir gifts of pearl they bring,\nAnd all the listening hills of earth\nTake up the song they sing.\n\nThe green earth sends its incense up\nFrom many a mountain shrine;\nFrom folded leaf and dewy cup\nShe pours her sacred wine.\n\nThe mists above the morning rills\nRise white as wings of prayer;\nThe altar-curtains of the hills\nAre sunset's purple air.\n\nThe winds with hymns of praise are loud,\nOr low with sobs of pain, --\nThe thunder-organ of the cloud,\nThe dropping tears of rain.\n\nWith drooping head and branches crossed\nThe twilight forest grieves,\nOr speaks with tongues of Pentecost\nFrom all its sunlit leaves.\n\nThe blue sky is the temple's arch,\nIts transept earth and air,\nThe music of its starry march\nThe chorus of a prayer.\n\nSo Nature keeps the reverent frame\nWith which her years began,\nAnd all her signs and voices shame\nThe prayerless heart of man.",
+      "source": {
+        "name": "John Greenleaf Whittier · PoetryDB",
+        "url": "https://poetrydb.org/title/The%20Worship%20of%20Nature",
+        "trustTier": "community",
+        "author": "John Greenleaf Whittier"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-29T15:03:38.456Z",
+      "hash": "1ac1354a89e56285"
+    },
+    {
+      "id": "art:si:ld1-1643381040022-1643381056510-0",
+      "type": "art",
+      "title": "Meadow Beauty (Rhexia virginica), Rattlesnake Roat (Nabalus albus), Pitcherplant (Sarracenia purpurea)",
+      "summary": "Smithsonian American Art Museum · 1880s · Paintings",
+      "body": "Smithsonian American Art Museum\n1880s · Paintings",
+      "image": {
+        "src": "data/images/f2552d3749ca1f1b.jpg",
+        "alt": "Meadow Beauty (Rhexia virginica), Rattlesnake Roat (Nabalus albus), Pitcherplant (Sarracenia purpurea)",
+        "credit": "Smithsonian American Art Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://americanart.si.edu/collections/search/artwork/?id=26120",
+        "trustTier": "encyclopedic",
+        "date": "1880s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "botanical",
+        "paintings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-29T15:03:37.671Z",
+      "hash": "b90b8c6a3d04d343"
+    },
+    {
+      "id": "art:si:ld1-1643381040022-1643381042413-1",
+      "type": "art",
+      "title": "Untitled (Botanical Study)",
+      "summary": "Smithsonian American Art Museum · 1880s · Drawings",
+      "body": "Smithsonian American Art Museum\n1880s · Drawings",
+      "image": {
+        "src": "data/images/f275adcf9323753c.jpg",
+        "alt": "Untitled (Botanical Study)",
+        "credit": "Smithsonian American Art Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://americanart.si.edu/collections/search/artwork/?id=3368",
+        "trustTier": "encyclopedic",
+        "date": "1880s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "botanical",
+        "drawings"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-29T15:03:37.671Z",
+      "hash": "24464b8c300502c7"
+    },
+    {
+      "id": "art:si:ld1-1643409295870-1643409362198-0",
+      "type": "art",
+      "title": "Dendrobium orchid (Botanical illustration)",
+      "summary": "NMNH - Botany Dept.",
+      "body": "NMNH - Botany Dept.",
+      "image": {
+        "src": "data/images/f6811e5366b82df5.jpg",
+        "alt": "Dendrobium orchid (Botanical illustration)",
+        "credit": "NMNH - Botany Dept. · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "http://n2t.net/ark:/65665/3618931f7-d954-466d-9c3b-db7568b97bda",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "botanical"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-29T15:03:37.671Z",
+      "hash": "d9d941dc568f2ef3"
+    },
+    {
+      "id": "apod:2023-10-02",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap231002.html",
+        "trustTier": "encyclopedic",
+        "date": "2023-10-02"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:33.955Z",
+      "hash": "24520ce9ccc6572d"
+    },
+    {
+      "id": "apod:2012-03-13",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap120313.html",
+        "trustTier": "encyclopedic",
+        "date": "2012-03-13"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:33.955Z",
+      "hash": "12ecf89a45063eae"
+    },
+    {
+      "id": "apod:1996-12-15",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap961215.html",
+        "trustTier": "encyclopedic",
+        "date": "1996-12-15"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:33.955Z",
+      "hash": "33ac3879ed425d2e"
+    },
+    {
+      "id": "apod:2000-04-21",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap000421.html",
+        "trustTier": "encyclopedic",
+        "date": "2000-04-21"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:33.954Z",
+      "hash": "dfe7451e581e0ee4"
+    },
+    {
+      "id": "apod:1997-01-22",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap970122.html",
+        "trustTier": "encyclopedic",
+        "date": "1997-01-22"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:33.954Z",
+      "hash": "677155b47322c060"
+    },
+    {
+      "id": "onthisday:10-29:1831:1ce9967b987ce832",
+      "type": "history",
+      "title": "1831: 1831 Bristol riots",
+      "summary": "Rioting broke out in Bristol, England, after the Second Reform Bill failed during its passage through Parliament, causing 250 casualties and £300,000 of damage (pictured).",
+      "body": "Rioting broke out in Bristol, England, after the Second Reform Bill failed during its passage through Parliament, causing 250 casualties and £300,000 of damage (pictured).",
+      "image": {
+        "src": "data/images/0a0ddbf9bb895f3c.jpg",
+        "alt": "1831 Bristol riots",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/1831_Bristol_riots",
+        "trustTier": "encyclopedic",
+        "date": "10-29"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:25.404Z",
+      "hash": "916fcbc89325251f",
+      "expires": "2026-11-01T15:03:25.404Z"
+    },
+    {
+      "id": "onthisday:10-29:1999:0d8e5f83e43ad0fb",
+      "type": "history",
+      "title": "1999: 1999 Odisha cyclone",
+      "summary": "About 10,000 people died when the most intense tropical cyclone ever recorded in the North Indian Ocean made landfall in the Indian state of Odisha near Bhubaneswar.",
+      "body": "About 10,000 people died when the most intense tropical cyclone ever recorded in the North Indian Ocean made landfall in the Indian state of Odisha near Bhubaneswar.",
+      "image": {
+        "src": "data/images/92361f1ac989db3c.png",
+        "alt": "1999 Odisha cyclone",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/1999_Odisha_cyclone",
+        "trustTier": "encyclopedic",
+        "date": "10-29"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:25.404Z",
+      "hash": "8a94c5b1c7879ab4",
+      "expires": "2026-11-01T15:03:25.404Z"
+    },
+    {
+      "id": "onthisday:10-29:1863:e5b7188886d37cbe",
+      "type": "history",
+      "title": "1863: American Civil War",
+      "summary": "American Civil War: The Battle of Wauhatchie, one of the few night battles of the war, concluded with the Union Army opening a supply line to troops in Chattanooga, Tennessee.",
+      "body": "American Civil War: The Battle of Wauhatchie, one of the few night battles of the war, concluded with the Union Army opening a supply line to troops in Chattanooga, Tennessee.",
+      "image": {
+        "src": "data/images/41309e32a43708f5.png",
+        "alt": "American Civil War",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+        "trustTier": "encyclopedic",
+        "date": "10-29"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:25.404Z",
+      "hash": "546766397e469965",
+      "expires": "2026-11-01T15:03:25.404Z"
+    },
+    {
+      "id": "wikipedia:14277403",
+      "type": "wiki",
+      "title": "Pumla Gobodo-Madikizela",
+      "summary": "Pumla Gobodo-Madikizela is the Research Chair in Studies in Historical Trauma and Transformation at Stellenbosch University in South Africa. She graduated from Fort Hare University with a bachelor's degree and an Honours degree in psychology. She obtained her master's degree in Clinical Psychology at Rhodes…",
+      "body": "Pumla Gobodo-Madikizela is the Research Chair in Studies in Historical Trauma and Transformation at Stellenbosch University in South Africa. She graduated from Fort Hare University with a bachelor's degree and an Honours degree in psychology. She obtained her master's degree in Clinical Psychology at Rhodes University. She received her PhD in psychology from the University of Cape Town. Her doctoral thesis, entitled \"Legacies of violence: An in-depth analysis of two case studies based on interviews with perpetrators of a 'necklace' murder and with Eugene de Kock\", offers a perspective that integrates psychoanalytic and social psychological concepts to understand extreme forms of violence committed during the apartheid era. Her main interests are traumatic memories in the aftermath of political conflict, post-conflict reconciliation, empathy, forgiveness, psychoanalysis and intersubjectivity. She served on the Truth and Reconciliation Commission (TRC). She currently works at the University of the Free State in Bloemfontein as a senior research professor.",
+      "image": {
+        "src": "data/images/4acda4eba78461e0.png",
+        "alt": "Pumla Gobodo-Madikizela",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pumla_Gobodo-Madikizela",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:25.364Z",
+      "hash": "1cf7898dfecc2650"
+    },
+    {
+      "id": "wikipedia:40959159",
+      "type": "wiki",
+      "title": "René Arce Islas",
+      "summary": "René Arce Islas is a Mexican politician affiliated with the PVEM. He served as Deputy of the LIX Legislature of the Mexican Congress representing the Federal District and as Senator during the LX and LXI Legislatures, then with the PRD.",
+      "body": "René Arce Islas is a Mexican politician affiliated with the PVEM. He served as Deputy of the LIX Legislature of the Mexican Congress representing the Federal District and as Senator during the LX and LXI Legislatures, then with the PRD.",
+      "image": {
+        "src": "data/images/0ea71e0ac971e030.jpg",
+        "alt": "René Arce Islas",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Arce_Islas",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:25.006Z",
+      "hash": "c0786cc32c16f44a"
+    },
+    {
+      "id": "wikipedia:51736327",
+      "type": "wiki",
+      "title": "KRC Genk Ladies",
+      "summary": "KRC Genk Ladies is a Belgian women's football club based in Genk. It is the women's section of KRC Genk.",
+      "body": "KRC Genk Ladies is a Belgian women's football club based in Genk. It is the women's section of KRC Genk.",
+      "image": {
+        "src": "data/images/08108b2f1c8afb8b.png",
+        "alt": "KRC Genk Ladies",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/KRC_Genk_Ladies",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:24.440Z",
+      "hash": "414b5721d58ee5d4"
+    },
+    {
+      "id": "wikipedia:20830954",
+      "type": "wiki",
+      "title": "2006 Ballon d'Or",
+      "summary": "The 2006 Ballon d'Or, given to the best football player in Europe as judged by a panel of sports journalists from UEFA member countries, was awarded to the Italian defender Fabio Cannavaro on 27 November 2006.",
+      "body": "The 2006 Ballon d'Or, given to the best football player in Europe as judged by a panel of sports journalists from UEFA member countries, was awarded to the Italian defender Fabio Cannavaro on 27 November 2006.",
+      "image": {
+        "src": "data/images/e6dfc120521ab3b3.jpg",
+        "alt": "2006 Ballon d'Or",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2006_Ballon_d'Or",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-29T15:03:24.158Z",
+      "hash": "c1c5fe41d31edf2f"
+    },
     {
       "id": "chess:VTLk5",
       "type": "chess",
@@ -11368,1185 +12587,6 @@
       "difficulty": 2,
       "fetchedAt": "2026-10-18T12:31:12.443Z",
       "hash": "13dacb465838174e"
-    },
-    {
-      "id": "greek:f34cc1f630b7ffb3",
-      "type": "greek",
-      "title": "ζωή",
-      "summary": "ζωή — “life” · noun",
-      "body": "Note: ἡ ζωή\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%B6%CF%89%CE%AE#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_fem_1st"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:31:12.443Z",
-      "hash": "f34cc1f630b7ffb3"
-    },
-    {
-      "id": "poetry:23bb91d599f2d256",
-      "type": "poem",
-      "title": "Life and Art",
-      "summary": "Not while the fever of the blood is strong,\nThe heart throbs loud, the eyes are veiled, no less\nWith passion than with tears, the Muse shall bless\nThe poet-sould to help and soothe with song.",
-      "body": "Not while the fever of the blood is strong,\nThe heart throbs loud, the eyes are veiled, no less\nWith passion than with tears, the Muse shall bless\nThe poet-sould to help and soothe with song.\nNot then she bids his trembling lips express\nThe aching gladness, the voluptuous pain.\nLife is his poem then; flesh, sense, and brain\nOne full-stringed lyre attuned to happiness.\nBut when the dream is done, the pulses fail,\nThe day's illusion, with the day's sun set,\nHe, lonely in the twilight, sees the pale\nDivine Consoler, featured like Regret,\nEnter and clasp his hand and kiss his brow.\nThen his lips ope to sing--as mine do now.",
-      "source": {
-        "name": "Emma Lazarus · PoetryDB",
-        "url": "https://poetrydb.org/title/Life%20and%20Art",
-        "trustTier": "community",
-        "author": "Emma Lazarus"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-18T12:31:12.442Z",
-      "hash": "23bb91d599f2d256"
-    },
-    {
-      "id": "poetry:41aa09c02fa65264",
-      "type": "poem",
-      "title": "The Canterbury Tales: The Parson's Tale",
-      "summary": "THE PROLOGUE.\nBy that the Manciple his tale had ended,\nThe sunne from the south line was descended\nSo lowe, that it was not to my sight",
-      "body": "THE PROLOGUE.\n\nBy that the Manciple his tale had ended,\nThe sunne from the south line was descended\nSo lowe, that it was not to my sight\nDegrees nine-and-twenty as in height.\nFour of the clock it was then, as I guess,\nFor eleven foot, a little more or less,\nMy shadow was at thilke time, as there,\nOf such feet as my lengthe parted were\nIn six feet equal of proportion.\nTherewith the moone's exaltation,\nIn meane Libra, gan alway ascend,\nAs we were ent'ring at a thorpe's end.\nFor which our Host, as he was wont to gie,\nAs in this case, our jolly company,\nSaid in this wise; \"Lordings every one,\nNow lacketh us no more tales than one.\nFulfill'd is my sentence and my decree;\nI trow that we have heard of each degree.\nAlmost fulfilled is mine ordinance;\nI pray to God so give him right good chance\nThat telleth us this tale lustily.\nSir Priest,\" quoth he, \"art thou a vicary?\nOr art thou a Parson? say sooth by thy fay.\nBe what thou be, breake thou not our play;\nFor every man, save thou, hath told his tale.\nUnbuckle, and shew us what is in thy mail.\nFor truely me thinketh by thy cheer\nThou shouldest knit up well a great mattere.\nTell us a fable anon, for cocke's bones.\"\n\nThis Parson him answered all at ones;\n\"Thou gettest fable none y-told for me,\nFor Paul, that writeth unto Timothy,\nReproveth them that weive soothfastness,\nAnd telle fables, and such wretchedness.\nWhy should I sowe draff out of my fist,\nWhen I may sowe wheat, if that me list?\nFor which I say, if that you list to hear\nMorality and virtuous mattere,\nAnd then that ye will give me audience,\nI would full fain at Christe's reverence\nDo you pleasance lawful, as I can.\nBut, truste well, I am a southern man,\nI cannot gest, rom, ram, ruf,  by my letter;\nAnd, God wot, rhyme hold I but little better.\nAnd therefore if you list, I will not glose,\nI will you tell a little tale in prose,\nTo knit up all this feast, and make an end.\nAnd Jesus for his grace wit me send\nTo shewe you the way, in this voyage,\nOf thilke perfect glorious pilgrimage,\nThat hight Jerusalem celestial.\nAnd if ye vouchesafe, anon I shall\nBegin upon my tale, for which I pray\nTell your advice, I can no better say.\nBut natheless this meditation\nI put it aye under correction\nOf clerkes, for I am not textuel;\nI take but the sentence, trust me well.\nTherefore I make a protestation,\nThat I will stande to correction.\"\nUpon this word we have assented soon;\nFor, as us seemed, it was for to do'n,\nTo enden in some virtuous sentence,\nAnd for to give him space and audience;\nAnd bade our Host he shoulde to him say\nThat alle we to tell his tale him pray.\nOur Hoste had. the wordes for us all:\n\"Sir Priest,\" quoth he, \"now faire you befall;\nSay what you list, and we shall gladly hear.\"\nAnd with that word he said in this mannere;\n\"Telle,\" quoth he, \"your meditatioun,\nBut hasten you, the sunne will adown.\nBe fructuous, and that in little space;\nAnd to do well God sende you his grace.\"",
-      "source": {
-        "name": "Geoffrey Chaucer · PoetryDB",
-        "url": "https://poetrydb.org/title/The%20Canterbury%20Tales%3A%20The%20Parson's%20Tale",
-        "trustTier": "community",
-        "author": "Geoffrey Chaucer"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-18T12:31:12.442Z",
-      "hash": "41aa09c02fa65264"
-    },
-    {
-      "id": "art:si:ld1-1643413457031-1643413478981-0",
-      "type": "art",
-      "title": "Lepidopyga goudoti luminosa",
-      "summary": "NMNH - Vertebrate Zoology - Birds Division",
-      "body": "NMNH - Vertebrate Zoology - Birds Division",
-      "image": {
-        "src": "data/images/f97ac49b560f17a5.jpg",
-        "alt": "Lepidopyga goudoti luminosa",
-        "credit": "NMNH - Vertebrate Zoology - Birds Division · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/39346f73e-9677-41b3-becc-873e90257153",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "bird"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-18T12:31:12.062Z",
-      "hash": "4da1b64c8df04026"
-    },
-    {
-      "id": "art:si:ld1-1643413142180-1643413171861-0",
-      "type": "art",
-      "title": "Phaethornis yaruqui",
-      "summary": "NMNH - Vertebrate Zoology - Birds Division · 1910s",
-      "body": "NMNH - Vertebrate Zoology - Birds Division\n1910s",
-      "image": {
-        "src": "data/images/764a41f04e49ce76.jpg",
-        "alt": "Phaethornis yaruqui",
-        "credit": "NMNH - Vertebrate Zoology - Birds Division · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/3c3259ef0-2f49-42e9-86c6-12b55f6331b7",
-        "trustTier": "encyclopedic",
-        "date": "1910s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "bird"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-18T12:31:12.062Z",
-      "hash": "0cb84c4c2ef73fc1"
-    },
-    {
-      "id": "art:si:ld1-1643413457031-1643413479372-0",
-      "type": "art",
-      "title": "Hylocharis eliciae eliciae",
-      "summary": "NMNH - Vertebrate Zoology - Birds Division",
-      "body": "NMNH - Vertebrate Zoology - Birds Division",
-      "image": {
-        "src": "data/images/b2d2ac8975ad5fd3.jpg",
-        "alt": "Hylocharis eliciae eliciae",
-        "credit": "NMNH - Vertebrate Zoology - Birds Division · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "http://n2t.net/ark:/65665/3e90f240f-d5b4-4d83-9d88-062221710adc",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "bird"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-18T12:31:12.062Z",
-      "hash": "6f4c33e315a7d133"
-    },
-    {
-      "id": "apod:2016-10-22",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© TWAN"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap161022.html",
-        "trustTier": "encyclopedic",
-        "date": "2016-10-22"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:31:07.809Z",
-      "hash": "974e4e776ecb5d38"
-    },
-    {
-      "id": "apod:2008-08-27",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© Ken Crawford"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap080827.html",
-        "trustTier": "encyclopedic",
-        "date": "2008-08-27"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:31:07.809Z",
-      "hash": "4171131cfa0b2391"
-    },
-    {
-      "id": "apod:2023-05-09",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap230509.html",
-        "trustTier": "encyclopedic",
-        "date": "2023-05-09"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:31:07.809Z",
-      "hash": "bf56cb80b73580a5"
-    },
-    {
-      "id": "apod:2019-07-11",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© CHART32 Team"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap190711.html",
-        "trustTier": "encyclopedic",
-        "date": "2019-07-11"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:31:07.809Z",
-      "hash": "989af1f529c65082"
-    },
-    {
-      "id": "apod:2002-08-20",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap020820.html",
-        "trustTier": "encyclopedic",
-        "date": "2002-08-20"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:31:07.809Z",
-      "hash": "72750be3be38f9c7"
-    },
-    {
-      "id": "onthisday:10-18:1565:b4ad97f3ad1b5f60",
-      "type": "history",
-      "title": "1565: Samurai",
-      "summary": "The first recorded naval battle between Europeans and the Japanese occurred when a flotilla of samurai attacked two Portuguese trade vessels at the Battle of Fukuda Bay in Nagasaki.",
-      "body": "The first recorded naval battle between Europeans and the Japanese occurred when a flotilla of samurai attacked two Portuguese trade vessels at the Battle of Fukuda Bay in Nagasaki.",
-      "image": {
-        "src": "data/images/0fa77011473662b6.jpg",
-        "alt": "Samurai",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Samurai",
-        "trustTier": "encyclopedic",
-        "date": "10-18"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:31:00.276Z",
-      "hash": "39bb2ecffcd70f90",
-      "expires": "2026-10-21T12:31:00.276Z"
-    },
-    {
-      "id": "onthisday:10-18:1748:cabfede873959f78",
-      "type": "history",
-      "title": "1748: War of the Austrian Succession",
-      "summary": "The War of the Austrian Succession ended with the signing of the Treaty of Aix-la-Chapelle.",
-      "body": "The War of the Austrian Succession ended with the signing of the Treaty of Aix-la-Chapelle.",
-      "image": {
-        "src": "data/images/a3f48c7250cea3f5.jpg",
-        "alt": "War of the Austrian Succession",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession",
-        "trustTier": "encyclopedic",
-        "date": "10-18"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:31:00.275Z",
-      "hash": "e160af9687e2a7d5",
-      "expires": "2026-10-21T12:31:00.275Z"
-    },
-    {
-      "id": "onthisday:10-18:1587:56637a798e94806a",
-      "type": "history",
-      "title": "1587: Filipinos",
-      "summary": "Filipino sailors disembarked from the Manila galleon Nuestra Señora de Buena Esperanza in what is now Morro Bay, California, the first documented instance of Asians in the Americas.",
-      "body": "Filipino sailors disembarked from the Manila galleon Nuestra Señora de Buena Esperanza in what is now Morro Bay, California, the first documented instance of Asians in the Americas.",
-      "image": {
-        "src": "data/images/418e262b392a9b53.png",
-        "alt": "Filipinos",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Filipinos",
-        "trustTier": "encyclopedic",
-        "date": "10-18"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:31:00.275Z",
-      "hash": "d17cb50db85e60b6",
-      "expires": "2026-10-21T12:31:00.276Z"
-    },
-    {
-      "id": "wikipedia:25666358",
-      "type": "wiki",
-      "title": "Antler Peak (Wyoming)",
-      "summary": "Antler Peak, el. 10,063 feet (3,067 m) is a prominent mountain peak in the Gallatin Range in Yellowstone National Park. The peak was originally named Bell's Peak in honor of an Assistant Secretary of the Interior by either Philetus Norris, the second park superintendent or W.H.Holmes, a U.S. Geological Survey…",
-      "body": "Antler Peak, el. 10,063 feet (3,067 m) is a prominent mountain peak in the Gallatin Range in Yellowstone National Park. The peak was originally named Bell's Peak in honor of an Assistant Secretary of the Interior by either Philetus Norris, the second park superintendent or W.H.Holmes, a U.S. Geological Survey geologist in 1878. However, in 1885, Arnold Hague of the U.S. Geological Survey renamed the peak Antler Peak because of the numerous shed elk and deer antlers found on its slopes.",
-      "image": {
-        "src": "data/images/b968ee6825101df9.jpg",
-        "alt": "Antler Peak (Wyoming)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Antler_Peak_(Wyoming)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:31:00.265Z",
-      "hash": "e12d99a4737974c8"
-    },
-    {
-      "id": "wikipedia:57054577",
-      "type": "wiki",
-      "title": "Pimpla turionellae",
-      "summary": "Pimpla turionellae is a species of parasitoid wasp in the family Ichneumonidae. It attacks the larvae and pupae of various moths.",
-      "body": "Pimpla turionellae is a species of parasitoid wasp in the family Ichneumonidae. It attacks the larvae and pupae of various moths.",
-      "image": {
-        "src": "data/images/e245818e28f2f4f5.jpg",
-        "alt": "Pimpla turionellae",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Pimpla_turionellae",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:30:59.931Z",
-      "hash": "0a751209f099608d"
-    },
-    {
-      "id": "wikipedia:47630745",
-      "type": "wiki",
-      "title": "Robin Erewa",
-      "summary": "Robin Erewa is a German sprinter specialising in the 200 metres. He competed at the 2015 World Championships in Beijing without advancing from the first round. Born of a Nigerian father, he first played football before switching to athletics at the age of 12.",
-      "body": "Robin Erewa is a German sprinter specialising in the 200 metres. He competed at the 2015 World Championships in Beijing without advancing from the first round. Born of a Nigerian father, he first played football before switching to athletics at the age of 12.",
-      "image": {
-        "src": "data/images/19162def717c4d07.jpg",
-        "alt": "Robin Erewa",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Robin_Erewa",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:30:59.426Z",
-      "hash": "1c2168ed083e1a8a"
-    },
-    {
-      "id": "wikipedia:2129",
-      "type": "wiki",
-      "title": "Arizona Diamondbacks",
-      "summary": "The Arizona Diamondbacks are an American professional baseball team based in Phoenix, Arizona. The Diamondbacks compete in Major League Baseball (MLB) as a member club of the National League (NL) West Division. The franchise was established on March 9, 1995 and began play in 1998 as an expansion team. The team plays…",
-      "body": "The Arizona Diamondbacks are an American professional baseball team based in Phoenix, Arizona. The Diamondbacks compete in Major League Baseball (MLB) as a member club of the National League (NL) West Division. The franchise was established on March 9, 1995 and began play in 1998 as an expansion team. The team plays its home games at Chase Field. Along with the Tampa Bay Rays, the Diamondbacks are one of the newest teams in MLB and are the youngest team to win a World Series, doing so in only their fourth season of existence in 2001.",
-      "image": {
-        "src": "data/images/f16a3a198c2080e8.png",
-        "alt": "Arizona Diamondbacks",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Arizona_Diamondbacks",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-18T12:30:58.627Z",
-      "hash": "09daedbb110cefaa"
-    },
-    {
-      "id": "trivia:6e36c463f06b2f9a",
-      "type": "trivia",
-      "title": "How many moons does Pluto have?",
-      "summary": "Is it: Two · One · Five · Three?",
-      "body": "Answer: Five.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "science & nature"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:04:07.525Z",
-      "hash": "6e36c463f06b2f9a"
-    },
-    {
-      "id": "trivia:1d1b3ff49b731829",
-      "type": "trivia",
-      "title": "The USS Missouri (BB-63) last served in the Korean War.",
-      "summary": "True — or false?",
-      "body": "Answer: False.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-17T12:04:07.525Z",
-      "hash": "1d1b3ff49b731829"
-    },
-    {
-      "id": "trivia:6635eca4121bb14f",
-      "type": "trivia",
-      "title": "Which song in rapper Kanye West's album \"The Life of Pablo\" features Rihanna?",
-      "summary": "Is it: Ultralight Beam · Highlights · Famous · Wolves?",
-      "body": "Answer: Famous.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "music"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-17T12:04:07.525Z",
-      "hash": "6635eca4121bb14f"
-    },
-    {
-      "id": "trivia:91c51eecc59d0d1a",
-      "type": "trivia",
-      "title": "Of which 90s boy band was Justin Timberlake a member?",
-      "summary": "Is it: Boyzone · Backstreet Boys · Westlife · *NSYNC?",
-      "body": "Answer: *NSYNC.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "music"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:04:07.525Z",
-      "hash": "91c51eecc59d0d1a"
-    },
-    {
-      "id": "passage:gutenberg:1400",
-      "type": "passage",
-      "title": "Great Expectations",
-      "summary": "My father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip. I give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my…",
-      "body": "My father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip. I give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my father or my mother, and never saw any likeness of either of them (for their days were long before the days of photographs), my first fancies regarding what they were like were unreasonably derived from their tombstones. The shape of the letters on my father’s, gave me an odd idea that he was a square, stout, dark man, with curly black…",
-      "source": {
-        "name": "Project Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/1400",
-        "trustTier": "publication",
-        "author": "Charles Dickens",
-        "date": "1861"
-      },
-      "tags": [
-        "classic",
-        "literature",
-        "novel",
-        "coming-of-age"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:04:07.267Z",
-      "hash": "95492efefd75aec9"
-    },
-    {
-      "id": "comic:smbc:6363cf200b2d5af0",
-      "type": "comic",
-      "title": "Hun",
-      "summary": "I believe this comic is making fun of naive objections to consequentialism, but I am not 100% certain.",
-      "image": {
-        "src": "data/images/e3776313cb888e37.png",
-        "alt": "I believe this comic is making fun of naive objections to consequentialism, but I am not 100% certain.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/hun",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Fri, 16 Oct 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-17T12:04:01.724Z",
-      "hash": "6363cf200b2d5af0"
-    },
-    {
-      "id": "comic:xkcd:882",
-      "type": "comic",
-      "title": "Significant",
-      "summary": "'So, uh, we did the green study again and got no link. It was probably a--' 'RESEARCH CONFLICTED ON GREEN JELLY BEAN/ACNE LINK; MORE STUDY RECOMMENDED!'",
-      "body": "[[Person with a pony tail runs up to another person, who subsequently points off-panel where there are presumably scientists.]] Ponytail: Jelly beans cause acne! Another: Scientists! Investigate! Scientists: But we're playing Minecraft! Scientists: ... Fine. [[Two scientists. One has safety goggles, the other has a sheet of notes.]] Goggles: We found no link between jelly beans and acne (p > 0.05). [[Back to the original two.]] Another: That settles that. Ponytail: I hear it's only a certain color that causes it. Another: Scientists! Scientists: But Miiiinecraft! [[20 near identical small panels follow, 4 rows 5 columns.]] Goggles: We found no link between purple jelly beans and acne (p >…",
-      "image": {
-        "src": "data/images/5d1ced5c4e4c0de0.png",
-        "alt": "'So, uh, we did the green study again and got no link. It was probably a--' 'RESEARCH CONFLICTED ON GREEN JELLY BEAN/ACNE LINK; MORE STUDY RECOMMENDED!'",
-        "credit": "xkcd #882 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/882/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2011-04-06"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-17T12:04:01.520Z",
-      "hash": "8db189bf24e056f8"
-    },
-    {
-      "id": "word:d8157b09fd7c5f66",
-      "type": "word",
-      "title": "palimpsest",
-      "summary": "Noun: A manuscript or document that has been erased or scraped clean, for reuse of the paper, parchment, vellum, or other medium on which it was written.",
-      "body": "1. A manuscript or document that has been erased or scraped clean, for reuse of the paper, parchment, vellum, or other medium on which it was written.\n2. Monumental brasses that have been reused by engraving of the blank back side.\n3. Circular features believed to be lunar craters that have been obliterated by later volcanic activity.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/palimpsest",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:04:00.448Z",
-      "hash": "d8157b09fd7c5f66"
-    },
-    {
-      "id": "quote:ef3dead9ab7dcb6f",
-      "type": "quote",
-      "title": "“Only when one allows themself the right to die, do they then give yourself the permission to live.”",
-      "summary": "— C. Sean McGee",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/C._Sean_McGee",
-        "trustTier": "community",
-        "author": "C. Sean McGee"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:03:53.016Z",
-      "hash": "ef3dead9ab7dcb6f"
-    },
-    {
-      "id": "quote:f56316916e252a32",
-      "type": "quote",
-      "title": "“I want the fishing rod, not the fish.”",
-      "summary": "— Yanni",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Yanni",
-        "trustTier": "community",
-        "author": "Yanni"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:03:53.016Z",
-      "hash": "f56316916e252a32"
-    },
-    {
-      "id": "quote:06fceca1bad93134",
-      "type": "quote",
-      "title": "“If you chase two rabbits, you catch none.”",
-      "summary": "— Confucius",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Confucius",
-        "trustTier": "community",
-        "author": "Confucius"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:03:53.016Z",
-      "hash": "06fceca1bad93134"
-    },
-    {
-      "id": "article:2d4dbe27aaf8649e",
-      "type": "article",
-      "title": "LingDuels?",
-      "summary": "Mayur Naik has invented \"MathDuels: A Self-Play Benchmark That Grows\": … in which models occupy dual roles: each authors math problems under adversarial prompting and solves problems authored by every other participant. A generation pipeline produces and filters the problems, and a psychometric…",
-      "body": "Mayur Naik has invented \"MathDuels: A Self-Play Benchmark That Grows\": … in which models occupy dual roles: each authors math problems under adversarial prompting and solves problems authored by every other participant. A generation pipeline produces and filters the problems, and a psychometric model jointly estimates solver abilities and problem difficulties, from which author quality […]",
-      "image": {
-        "src": "data/images/2b4a74abfda85f14.jpg",
-        "alt": "LingDuels?",
-        "credit": "Language Log"
-      },
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74422&utm_source=rss&utm_medium=rss&utm_campaign=lingduels",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Tue, 13 Oct 2026 16:24:3"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "artificial intelligence"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:35.457Z",
-      "hash": "2d4dbe27aaf8649e"
-    },
-    {
-      "id": "article:b8bc1866ea7229b5",
-      "type": "article",
-      "title": "Twenty",
-      "summary": "Twenty: In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants. Google, working under the motto “Don’t Be Evil,” had just dethroned Yahoo! as the planet’s most popular Internet search engine (AskJeeves was not available for comment). Nickelback was at the height of its…",
-      "body": "Twenty: In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants. Google, working under the motto “Don’t Be Evil,” had just dethroned Yahoo! as the planet’s most popular Internet search engine (AskJeeves was not available for comment). Nickelback was at the height of its fame. Internet Explorer was the most used web browser, […]",
-      "source": {
-        "name": "Damn Interesting",
-        "url": "https://www.damninteresting.com/twenty/",
-        "trustTier": "publication",
-        "author": "Alan Bellows",
-        "date": "Fri, 19 Sep 2025 13:32:2"
-      },
-      "tags": [
-        "curiosities",
-        "history",
-        "science",
-        "announcements",
-        "adventure",
-        "disaster",
-        "discovery",
-        "disorders",
-        "dubious claims",
-        "engineering"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:32.808Z",
-      "hash": "b8bc1866ea7229b5"
-    },
-    {
-      "id": "article:c48ced02fe4345eb",
-      "type": "article",
-      "title": "Charles Harley on Subway Takes: “I don’t think Black...",
-      "summary": "Charles Harley on Subway Takes: “I don’t think Black people should have to pay for ancestry.com. Why do I have to pay you to figure out where you stole me from?”",
-      "body": "Charles Harley on Subway Takes: “I don’t think Black people should have to pay for ancestry.com. Why do I have to pay you to figure out where you stole me from?”",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/10/0049816-charles-harley-on-subway-",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-10-16T22:01:00Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:28.470Z",
-      "hash": "c48ced02fe4345eb"
-    },
-    {
-      "id": "article:76ff1fbc6bc38d1f",
-      "type": "article",
-      "title": "How Our Skin Reveals the Link Between Insomnia and Fear",
-      "summary": "It’s an exhausting cycle The post How Our Skin Reveals the Link Between Insomnia and Fear appeared first on Nautilus.",
-      "body": "It’s an exhausting cycle The post How Our Skin Reveals the Link Between Insomnia and Fear appeared first on Nautilus.",
-      "image": {
-        "src": "data/images/3890ee0ce4454a1a.jpg",
-        "alt": "How Our Skin Reveals the Link Between Insomnia and Fear",
-        "credit": "Nautilus"
-      },
-      "source": {
-        "name": "Nautilus",
-        "url": "https://nautil.us/how-our-skin-reveals-the-link-between-insomnia-and-fear-1285862/",
-        "trustTier": "publication",
-        "author": "Jake Currie",
-        "date": "Fri, 16 Oct 2026 18:00:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "nature",
-        "health"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:24.117Z",
-      "hash": "76ff1fbc6bc38d1f"
-    },
-    {
-      "id": "article:9c9bf624d1f785ec",
-      "type": "article",
-      "title": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
-      "summary": "\"And it is so simple... You will instantly find how to live.\"",
-      "body": "\"And it is so simple... You will instantly find how to live.\"",
-      "image": {
-        "src": "data/images/5ec7fa3415fc57fe.jpg",
-        "alt": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/10/16/dostoyevsky-dream/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Fri, 16 Oct 2026 22:39:0"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "books",
-        "diaries",
-        "fiction",
-        "fyodor dostoyevsky"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:23.785Z",
-      "hash": "9c9bf624d1f785ec"
-    },
-    {
-      "id": "article:972896a0cd3d6d25",
-      "type": "article",
-      "title": "Commercial Signage on the Façade of Gruta 77 in Madrid, Spain",
-      "summary": "For nearly three decades, Gruta 77 has been a haven for Madrid’s rock and roll faithful. Right in the heart of Carabanchel, this legendary concert venue and rehearsal space has given punk rockers, and other musical misfits a place to gather, play loud, and keep the underground alive. But its days…",
-      "body": "For nearly three decades, Gruta 77 has been a haven for Madrid’s rock and roll faithful. Right in the heart of Carabanchel, this legendary concert venue and rehearsal space has given punk rockers, and other musical misfits a place to gather, play loud, and keep the underground alive. But its days may be numbered: Gruta 77 is expected to close for good at the end of 2026. Its façade has also served as a temporary archive of Madrid’s disappearing commercial landscape. In 2022, Gruta 77 became home to Hijas de Rojas, an installation of rescued vintage shop signs recovered from businesses that…",
-      "image": {
-        "src": "data/images/816738799c89876e.jpg",
-        "alt": "Commercial Signage on the Façade of Gruta 77 in Madrid, Spain",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/commercial-signage-on-the-facade-of-gruta-77",
-        "trustTier": "publication",
-        "date": "Fri, 16 Oct 2026 14:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "music",
-        "rock and roll",
-        "signs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:16.857Z",
-      "hash": "972896a0cd3d6d25"
-    },
-    {
-      "id": "article:d00a30d7c4ff896a",
-      "type": "article",
-      "title": "Smygehuk Fyr in Smygehuk, Sweden",
-      "summary": "This pot-riveted iron lighthouse served as a light beacon for the Swedish coast from 1883 until 1973, to be later restored and re-lit in April 2001. It's tower is open to visitors and has a beautiful view from the top. The lighthouse keeper service spaces have been converted into a boutique…",
-      "body": "This pot-riveted iron lighthouse served as a light beacon for the Swedish coast from 1883 until 1973, to be later restored and re-lit in April 2001. It's tower is open to visitors and has a beautiful view from the top. The lighthouse keeper service spaces have been converted into a boutique restaurant and hostel. The Smygehuk Lighthouse takes part in the annual International Lightship Weekend during which amateur radio operators gather at various lighthouses and engage in radio communication.",
-      "image": {
-        "src": "data/images/bda8f19adf552638.jpg",
-        "alt": "Smygehuk Fyr in Smygehuk, Sweden",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/smygehuk-fyr",
-        "trustTier": "publication",
-        "date": "Fri, 16 Oct 2026 16:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "lighthouses"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:16.857Z",
-      "hash": "d00a30d7c4ff896a"
-    },
-    {
-      "id": "article:afe4032aee972ba4",
-      "type": "article",
-      "title": "The elites of Victorian Britain woke up late, drank and feasted excessively, and were obsessed with rugby. How to explain their vast accomplishments?",
-      "summary": "The elites of Victorian Britain woke up late, drank and feasted excessively, and were obsessed with rugby. How to explain their vast accomplishments?",
-      "body": "The elites of Victorian Britain woke up late, drank and feasted excessively, and were obsessed with rugby. How to explain their vast accomplishments?",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://www.worksinprogress.news/p/why-were-victorian-elites-so-effective",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:16.537Z",
-      "hash": "afe4032aee972ba4"
-    },
-    {
-      "id": "article:8d4656f002b606a2",
-      "type": "article",
-      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-      "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
-      "body": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
-      "image": {
-        "src": "data/images/2919be7c16633061.webp",
-        "alt": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-        "credit": "Quanta Magazine"
-      },
-      "source": {
-        "name": "Quanta Magazine",
-        "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-        "trustTier": "publication",
-        "author": "John Pavlus",
-        "date": "Fri, 16 Oct 2026 13:25:0"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "mathematics",
-        "computer science"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:11.293Z",
-      "hash": "8d4656f002b606a2"
-    },
-    {
-      "id": "greek:46649385866cc949",
-      "type": "greek",
-      "title": "ἀδελφός",
-      "summary": "ἀδελφός — “brother” · noun",
-      "body": "Note: ὁ ἀδελφός; plural can mean \"brothers and sisters\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B4%CE%B5%CE%BB%CF%86%CF%8C%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_2nd"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:03:07.345Z",
-      "hash": "46649385866cc949"
-    },
-    {
-      "id": "poetry:0d9cd0543bc1d4bb",
-      "type": "poem",
-      "title": "Christmas Antiphones",
-      "summary": "I -- In Church\nThou whose birth on earth\nAngels sang to men,\nWhile thy stars made mirth,",
-      "body": "I -- In Church\n\nThou whose birth on earth\nAngels sang to men,\nWhile thy stars made mirth,\nSaviour, at thy birth,\nThis day born again;\n\nAs this night was bright\nWith thy cradle-ray,\nVery light of light,\nTurn the wild world's night\nTo thy perfect day.\n\nGod whose feet made sweet\nThose wild ways they trod,\nFrom thy fragrant feet\nStaining field and street\nWith the blood of God;\n\nGod whose breast is rest\nIn the time of strife,\nIn thy secret breast\nSheltering souls opprest\nFrom the heat of life;\n\nGod whose eyes are skies\nLove-lit as with spheres\nBy the lights that rise\nTo thy watching eyes,\nOrbed lights of tears;\n\nGod whose heart hath part\nIn all grief that is,\nWas not man's the dart\nThat went through thine heart,\nAnd the wound not his?\n\nWhere the pale souls wail,\nHeld in bonds of death,\nWhere all spirits quail,\nCame thy Godhead pale\nStill from human breath -\n\nPale from life and strife,\nWan with manhood, came\nForth of mortal life,\nPierced as with a knife,\nScarred as with a flame.\n\nThou the Word and Lord\nIn all time and space\nHeard, beheld, adored,\nWith all ages poured\nForth before thy face,\n\nLord, what worth in earth\nDrew thee down to die?\nWhat therein was worth,\nLord, thy death and birth?\nWhat beneath thy sky?\n\nLight above all love\nBy thy love was lit,\nAnd brought down the Dove\nFeathered from above\nWith the wings of it.\n\nFrom the height of night,\nWas not thine the star\nThat led forth with might\nBy no worldly light\nWise men from afar?\n\nYet the wise men's eyes\nSaw thee not more clear\nThan they saw thee rise\nWho in shepherd's guise\nDrew as poor men near.\n\nYet thy poor endure,\nAnd are with us yet;\nBe thy name a sure\nRefuge for thy poor\nWhom men's eyes forget.\n\nThou whose ways we praised,\nClear alike and dark,\nKeep our works and ways\nThis and all thy days\nSafe inside thine ark.\n\nWho shall keep thy sheep,\nLord, and lose not one?\nWho save one shall keep,\nLest the shepherds sleep?\nWho beside the Son?\n\nFrom the grave-deep wave,\nFrom the sword and flame,\nThou, even thou, shalt save\nSouls of king and slave\nOnly by thy Name.\n\nLight not born with morn\nOr her fires above,\nJesus virgin-born,\nHeld of men in scorn,\nTurn their scorn to love.\n\nThou whose face gives grace\nAs the sun's doth heat,\nLet thy sunbright face\nLighten time and space\nHere beneath thy feet.\n\nBid our peace increase,\nThou that madest morn;\nBid oppressions cease;\nBid the night be peace;\nBid the day be born.\n\nII--OUTSIDE CHURCH\n\nWe whose days and ways\nAll the night makes dark,\nWhat day shall we praise\nOf these weary days\nThat our life-drops mark?\n\nWe whose mind is blind,\nFed with hope of nought;\nWastes of worn mankind,\nWithout heart or mind,\nWithout meat or thought;\n\nWe with strife of life\nWorn till all life cease,\nWant, a whetted knife,\nSharpening strife on strife,\nHow should we love peace?\n\nYe whose meat is sweet\nAnd your wine-cup red,\nUs beneath your feet\nHunger grinds as wheat,\nGrinds to make you bread.\n\nYe whose night is bright\nWith soft rest and heat,\nClothed like day with light,\nUs the naked night\nSlays from street to street.\n\nHath your God no rod,\nThat ye tread so light?\nMan on us as God,\nGod as man hath trod,\nTrod us down with might.\n\nWe that one by one\nBleed from either's rod.\nWhat for us hath done\nMan beneath the sun,\nWhat for us hath God?\n\nWe whose blood is food\nGiven your wealth to feed,\nFrom the Christless rood\nRed with no God's blood,\nBut with man's indeed;\n\nHow shall we that see\nNightlong overhead\nLife, the flowerless tree,\nNailed whereon as we\nWere our fathers dead -\n\nWe whose ear can hear,\nNot whose tongue can name,\nFamine, ignorance, fear,\nBleeding tear by tear\nYear by year of shame,\n\nTill the dry life die\nOut of bloodless breast,\nOut of beamless eye,\nOut of mouths that cry\nTill death feed with rest -\n\nHow shall we as ye,\nThough ye bid us, pray?\nThough ye call, can we\nHear you call, or see,\nThough ye show us day?\n\nWe whose name is shame,\nWe whose souls walk bare,\nShall we call the same\nGod as ye by name,\nTeach our lips your prayer?\n\nGod, forgive and give,\nFor His sake who died?\nNay, for ours who live,\nHow shall we forgive\nThee, then, on our side?\n\nWe whose right to light\nHeaven's high noon denies,\nWhom the blind beams smite\nThat for you shine bright,\nAnd but burn our eyes,\n\nWith what dreams of beams\nShall we build up day,\nAt what sourceless streams\nSeek to drink in dreams\nEre they pass away?\n\nIn what street shall meet,\nAt what market-place,\nYour feet and our feet,\nWith one goal to greet,\nHaving run one race?\n\nWhat one hope shall ope\nFor us all as one\nOne same horoscope,\nWhere the soul sees hope\nThat outburns the sun?\n\nAt what shrine what wine,\nAt what board what bread,\nSalt as blood or brine,\nShall we share in sign\nHow we poor were fed?\n\nIn what hour what power\nShall we pray for morn,\nIf your perfect hour,\nWhen all day bears flower,\nNot for us is born?\n\nIII--BEYOND CHURCH\n\nYe that weep in sleep,\nSouls and bodies bound,\nYe that all night keep\nWatch for change, and weep\nThat no change is found;\n\nYe that cry and die,\nAnd the world goes on\nWithout ear or eye,\nAnd the days go by\nTill all days are gone;\n\nMan shall do for you,\nMen the sons of man,\nWhat no God would do\nThat they sought unto\nWhile the blind years ran.\n\nBrotherhood of good,\nEqual laws and rights,\nFreedom, whose sweet food\nFeeds the multitude\nAll their days and nights\n\nWith the bread full-fed\nOf her body blest\nAnd the soul's wine shed\nFrom her table spread\nWhere the world is guest,\n\nMingling me and thee,\nWhen like light of eyes\nFlashed through thee and me\nTruth shall make us free,\nLiberty make wise;\n\nThese are they whom day\nFollows and gives light\nWhence they see to slay\nNight, and burn away\nAll the seed of night.\n\nWhat of thine and mine,\nWhat of want and wealth,\nWhen one faith is wine\nFor my heart and thine\nAnd one draught is health?\n\nFor no sect elect\nIs the soul's wine poured\nAnd her table decked;\nWhom should man reject\nFrom man's common board?\n\nGods refuse and choose,\nGrudge and sell and spare;\nNone shall man refuse,\nNone of all men lose,\nNone leave out of care.\n\nNo man's might of sight\nKnows that hour before;\nNo man's hand hath might\nTo put back that light\nFor one hour the more.\n\nNot though all men call,\nKneeling with void hands,\nShall they see light fall\nTill it come for all\nTribes of men and lands.\n\nNo desire brings fire\nDown from heaven by prayer,\nThough man's vain desire\nHang faith's wind-struck lyre\nOut in tuneless air.\n\nOne hath breath and saith\nWhat the tune shall be -\nTime, who puts his breath\nInto life and death,\nInto earth and sea.\n\nTo and fro years flow,\nFill their tides and ebb,\nAs his fingers go\nWeaving to and fro\nOne unfinished web.\n\nAll the range of change\nHath its bounds therein,\nAll the lives that range\nAll the byways strange\nNamed of death or sin.\n\nStar from far to star\nSpeaks, and white moons wake,\nWatchful from afar\nWhat the night's ways are\nFor the morning's sake.\n\nMany names and flames\nPass and flash and fall,\nNight-begotten names,\nAnd the night reclaims,\nAs she bare them, all.\n\nBut the sun is one,\nAnd the sun's name Right;\nAnd when light is none\nSaving of the sun,\nAll men shall have light.\n\nAll shall see and be\nParcel of the morn;\nAy, though blind were we,\nNone shall choose but see\nWhen that day is born.",
-      "source": {
-        "name": "Algernon Charles Swinburne · PoetryDB",
-        "url": "https://poetrydb.org/title/Christmas%20Antiphones",
-        "trustTier": "community",
-        "author": "Algernon Charles Swinburne"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:07.344Z",
-      "hash": "0d9cd0543bc1d4bb"
-    },
-    {
-      "id": "poetry:5f7415beac24c25e",
-      "type": "poem",
-      "title": "To Mr C., St James's Place",
-      "summary": "Few words are best; I wish you well:\n    Bethel, I'm told, will soon be here;\n  Some morning walks along the Mall,\n  And evening friends, will end the year.",
-      "body": "  Few words are best; I wish you well:\n    Bethel, I'm told, will soon be here;\n  Some morning walks along the Mall,\n  And evening friends, will end the year.\n\n  If in this interval, between\n    The falling leaf and coming frost,\n  You please to see, on Twit'nam green,\n    Your friend, your poet, and your host:\n\n  For three whole days you here may rest\n    From office business, news, and strife;\n  And (what most folks would think a jest)\n   Want nothing else except your wife.",
-      "source": {
-        "name": "Alexander Pope · PoetryDB",
-        "url": "https://poetrydb.org/title/To%20Mr%20C.%2C%20St%20James's%20Place",
-        "trustTier": "community",
-        "author": "Alexander Pope"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-17T12:03:07.344Z",
-      "hash": "5f7415beac24c25e"
-    },
-    {
-      "id": "apod:2020-01-11",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap200111.html",
-        "trustTier": "encyclopedic",
-        "date": "2020-01-11"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:56.354Z",
-      "hash": "95e548f42170a7ed"
-    },
-    {
-      "id": "apod:2000-03-30",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap000330.html",
-        "trustTier": "encyclopedic",
-        "date": "2000-03-30"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:56.354Z",
-      "hash": "a14cc877a63d2618"
-    },
-    {
-      "id": "apod:2014-11-08",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap141108.html",
-        "trustTier": "encyclopedic",
-        "date": "2014-11-08"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:56.354Z",
-      "hash": "ecea2dd7c94c4158"
-    },
-    {
-      "id": "apod:2020-06-17",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap200617.html",
-        "trustTier": "encyclopedic",
-        "date": "2020-06-17"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:56.354Z",
-      "hash": "9e1a3c1e8b1af4d7"
-    },
-    {
-      "id": "apod:2026-04-04",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap260404.html",
-        "trustTier": "encyclopedic",
-        "date": "2026-04-04"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-17T12:02:56.354Z",
-      "hash": "4d2b0c31d07e555b"
     },
     {
       "id": "curated:handwriting-beats-typing",

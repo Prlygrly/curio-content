@@ -1,7 +1,1112 @@
 {
-  "generatedAt": "2026-10-30T14:56:20.282Z",
+  "generatedAt": "2026-10-31T14:25:14.722Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:7i6QO",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 2077. Find the best line for black.",
+      "body": "Solution, from → to: d4→c5, b4→c5, d8→d3, d2→d3, e6→c4, d3→e3, c4→f1. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "3r4/5p2/p3b1pk/1pN5/1P1b4/P2B3P/3K2P1/5R2 b - - 1 1",
+        "lastMove": "e4c5"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/7i6QO",
+        "trustTier": "community",
+        "date": "Sat, 31 Oct 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "verylong",
+        "endgame",
+        "crushing",
+        "sacrifice"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-31T14:25:11.237Z",
+      "hash": "5aeb9b6eb7c74ed7"
+    },
+    {
+      "id": "game:7637c2807c48fcfb",
+      "type": "game",
+      "title": "Roblox growth slumps, but the company is betting big on AI to compensate",
+      "summary": "Roblox's quarterly financial results missed their daily active user goals, but the company plans to make up for it somehow with AI.",
+      "body": "Roblox's quarterly financial results missed their daily active user goals, but the company plans to make up for it somehow with AI.",
+      "image": {
+        "src": "data/images/83c3ef51f88dcf65.jpg",
+        "alt": "Roblox growth slumps, but the company is betting big on AI to compensate",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
+        "trustTier": "publication",
+        "author": "Imran Khan",
+        "date": "Fri, 30 Oct 2026 18:30:0"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:25:10.938Z",
+      "hash": "7637c2807c48fcfb",
+      "expires": "2027-01-29T14:25:10.938Z"
+    },
+    {
+      "id": "game:2fa15f7dd5d6290b",
+      "type": "game",
+      "title": "Anthropic orders AI tool Claude to stop remaking video games",
+      "summary": "Update: Anthropic has confirmed it's released an update to Opus 5.5 to \"steer\" Claude Code away from \"recreating someone else's specific game.\"",
+      "body": "Update: Anthropic has confirmed it's released an update to Opus 5.5 to \"steer\" Claude Code away from \"recreating someone else's specific game.\"",
+      "image": {
+        "src": "data/images/57dc60338be88301.jpg",
+        "alt": "Anthropic orders AI tool Claude to stop remaking video games",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+        "trustTier": "publication",
+        "author": "Bryant Francis",
+        "date": "Fri, 30 Oct 2026 18:52:2"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:25:10.938Z",
+      "hash": "2fa15f7dd5d6290b",
+      "expires": "2027-01-29T14:25:10.938Z"
+    },
+    {
+      "id": "game:46ffc516652c1b3e",
+      "type": "game",
+      "title": "John Romero's canceled game finds a new publisher amidst an overall scope change",
+      "summary": "John Romero's game was canceled by Xbox and his studio was on the verge of total collapse, but a new publisher has picked it up and Romero has managed to retain some of his team.",
+      "body": "John Romero's game was canceled by Xbox and his studio was on the verge of total collapse, but a new publisher has picked it up and Romero has managed to retain some of his team.",
+      "image": {
+        "src": "data/images/d347bfe0d67be6fa.png",
+        "alt": "John Romero's canceled game finds a new publisher amidst an overall scope change",
+        "credit": "Game Developer"
+      },
+      "source": {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change",
+        "trustTier": "publication",
+        "author": "Imran Khan",
+        "date": "Fri, 30 Oct 2026 15:33:2"
+      },
+      "tags": [
+        "game design",
+        "games",
+        "industry"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:25:10.938Z",
+      "hash": "46ffc516652c1b3e",
+      "expires": "2027-01-29T14:25:10.938Z"
+    },
+    {
+      "id": "trivia:7d28997e6bd6189f",
+      "type": "trivia",
+      "title": "How many zeptometres are inside one femtometre?",
+      "summary": "Is it: 1000 · 1,000,000,000 · 10 · 1,000,000?",
+      "body": "Answer: 1,000,000.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "mathematics"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-31T14:25:08.417Z",
+      "hash": "7d28997e6bd6189f"
+    },
+    {
+      "id": "trivia:93b2314b7afbcd14",
+      "type": "trivia",
+      "title": "The Nike apparel and footwear brand takes it's name from the Greek goddess of what?",
+      "summary": "Is it: Honor · Victory · Strength · Courage?",
+      "body": "Answer: Victory.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "mythology"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:25:08.417Z",
+      "hash": "93b2314b7afbcd14"
+    },
+    {
+      "id": "trivia:c796048579709d54",
+      "type": "trivia",
+      "title": "Which of these artists did NOT remix the song \"Faded\" by Alan Walker?",
+      "summary": "Is it: Slushii · Tiësto · Skrillex · Dash Berlin?",
+      "body": "Answer: Skrillex.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-10-31T14:25:08.417Z",
+      "hash": "c796048579709d54"
+    },
+    {
+      "id": "trivia:faf2057b2fbda2f5",
+      "type": "trivia",
+      "title": "The protagonist of the hit game, Half-Life 2 is called:",
+      "summary": "Is it: Alyx Vance · Wallace Breen · Isaac Kleiner · Gordon Freeman?",
+      "body": "Answer: Gordon Freeman.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:25:08.417Z",
+      "hash": "faf2057b2fbda2f5"
+    },
+    {
+      "id": "passage:gutenberg:2701",
+      "type": "passage",
+      "title": "Moby-Dick",
+      "summary": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth;…",
+      "body": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/2701",
+        "trustTier": "publication",
+        "author": "Herman Melville",
+        "date": "1851"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "sea",
+        "adventure"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:25:08.205Z",
+      "hash": "8e8c699abb4bca4a"
+    },
+    {
+      "id": "passage:gutenberg:1400",
+      "type": "passage",
+      "title": "Great Expectations",
+      "summary": "My father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip. I give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my…",
+      "body": "My father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip. I give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my father or my mother, and never saw any likeness of either of them (for their days were long before the days of photographs), my first fancies regarding what they were like were unreasonably derived from their tombstones. The shape of the letters on my father’s, gave me an odd idea that he was a square, stout, dark man, with curly black…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/1400",
+        "trustTier": "publication",
+        "author": "Charles Dickens",
+        "date": "1861"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "novel",
+        "coming-of-age"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:25:08.012Z",
+      "hash": "95492efefd75aec9"
+    },
+    {
+      "id": "comic:smbc:6225e2c79336bed6",
+      "type": "comic",
+      "title": "Dead",
+      "summary": "I heard you like relatable slice of life humor?",
+      "image": {
+        "src": "data/images/e61d4e6b3ae7c692.png",
+        "alt": "I heard you like relatable slice of life humor?",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/dead-3",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Fri, 30 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-31T14:25:06.822Z",
+      "hash": "6225e2c79336bed6"
+    },
+    {
+      "id": "comic:xkcd:3249",
+      "type": "comic",
+      "title": "Neutrino Project",
+      "summary": "We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.",
+      "image": {
+        "src": "data/images/c4693d95699c6690.png",
+        "alt": "We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.",
+        "credit": "xkcd #3249 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3249/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-05-22"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-31T14:25:06.584Z",
+      "hash": "acbbb13d981f3a6e"
+    },
+    {
+      "id": "comic:xkcd:3318",
+      "type": "comic",
+      "title": "Earth Sized Planets",
+      "summary": "It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.",
+      "image": {
+        "src": "data/images/18b7428077748a8f.png",
+        "alt": "It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.",
+        "credit": "xkcd #3318 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/3318/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2026-10-30"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-10-31T14:25:06.288Z",
+      "hash": "657c57258a9ed55e"
+    },
+    {
+      "id": "craft:bdcc9eabaef11947",
+      "type": "craft",
+      "title": "Timothy Boomer Captures the Uncanny World of Insect Galls",
+      "summary": "Gall wasps produce some of the remarkable natural \"nurseries.\"",
+      "body": "Gall wasps produce some of the remarkable natural \"nurseries.\"",
+      "image": {
+        "src": "data/images/9b4fd0f9a0aee5bb.jpg",
+        "alt": "Timothy Boomer Captures the Uncanny World of Insect Galls",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/timothy-boomer-photographs-plant-galls/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Fri, 30 Oct 2026 18:46:0"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "nature",
+        "photography",
+        "insects",
+        "plants",
+        "timothy boomer"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:25:06.051Z",
+      "hash": "bdcc9eabaef11947"
+    },
+    {
+      "id": "craft:a89a19336d4abda5",
+      "type": "craft",
+      "title": "Halloween Spirit from the Make: Editorial Slack Archives",
+      "summary": "Every October, the Make: editorial Slack fills up with links. Someone posts a skeleton that carves pumpkins, someone else answers with a 30-foot marionette, and by Halloween we have a full haunted house worth of inspiration. Here are some of the builds that keep resurfacing in the channel, from…",
+      "body": "Every October, the Make: editorial Slack fills up with links. Someone posts a skeleton that carves pumpkins, someone else answers with a 30-foot marionette, and by Halloween we have a full haunted house worth of inspiration. Here are some of the builds that keep resurfacing in the channel, from animatronics and yard-scale puppets to costumes […] The post Halloween Spirit from the Make: Editorial Slack Archives appeared first on Make: DIY Projects and Ideas for Makers.",
+      "image": {
+        "src": "data/images/72912398933cb826.jpg",
+        "alt": "Halloween Spirit from the Make: Editorial Slack Archives",
+        "credit": "Make:"
+      },
+      "source": {
+        "name": "Make:",
+        "url": "https://makezine.com/article/craft/cosplay-props/halloween-spirit-from-the-make-editorial-slack-archives/",
+        "trustTier": "publication",
+        "author": "Gillian Mutti",
+        "date": "Fri, 30 Oct 2026 19:15:2"
+      },
+      "tags": [
+        "making",
+        "diy",
+        "craft",
+        "costumes, cosplay, and props",
+        "cosplay",
+        "halloween"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:25:05.735Z",
+      "hash": "a89a19336d4abda5"
+    },
+    {
+      "id": "word:784de39a42676941",
+      "type": "word",
+      "title": "quintessence",
+      "summary": "Noun: A thing that is the most perfect example of its type; the most perfect embodiment of something; epitome, prototype.",
+      "body": "1. A thing that is the most perfect example of its type; the most perfect embodiment of something; epitome, prototype.\n2. A pure substance.\n3. The essence of a thing in its purest and most concentrated form.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/quintessence",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:25:05.643Z",
+      "hash": "784de39a42676941"
+    },
+    {
+      "id": "quote:5bb8811bcb1bb183",
+      "type": "quote",
+      "title": "“Create with the heart; build with the mind.”",
+      "summary": "— Criss Jami",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Criss_Jami",
+        "trustTier": "community",
+        "author": "Criss Jami"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:25:04.484Z",
+      "hash": "5bb8811bcb1bb183"
+    },
+    {
+      "id": "quote:8b4087b9a622d34b",
+      "type": "quote",
+      "title": "“If you do not tell the truth about yourself you cannot tell it about other people.”",
+      "summary": "— Virginia Woolf",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Virginia_Woolf",
+        "trustTier": "community",
+        "author": "Virginia Woolf"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:25:04.484Z",
+      "hash": "8b4087b9a622d34b"
+    },
+    {
+      "id": "quote:df97474b2117a189",
+      "type": "quote",
+      "title": "“The only way to make sense out of change is to plunge into it, move with it, and join the dance.”",
+      "summary": "— Alan Watts",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts",
+        "trustTier": "community",
+        "author": "Alan Watts"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:25:04.484Z",
+      "hash": "df97474b2117a189"
+    },
+    {
+      "id": "article:0b8ac0e2412b5d02",
+      "type": "article",
+      "title": "Gendering duct tape again",
+      "summary": "The Weather Channel recently published a story about the value of duct tape in keeping out flood water: \"Duct tape kept out more flood water than sandbags in laboratory tests\". Its newletter advertised that story as \"A victory for dads everywhere\": The Wikipedia article on duct tape tells us about…",
+      "body": "The Weather Channel recently published a story about the value of duct tape in keeping out flood water: \"Duct tape kept out more flood water than sandbags in laboratory tests\". Its newletter advertised that story as \"A victory for dads everywhere\": The Wikipedia article on duct tape tells us about the history, in which the […]",
+      "image": {
+        "src": "data/images/992026be2ced6eeb.jpg",
+        "alt": "Gendering duct tape again",
+        "credit": "Language Log"
+      },
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74468&utm_source=rss&utm_medium=rss&utm_campaign=gendering-duct-tape-again",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Tue, 20 Oct 2026 19:55:0"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "language and gender"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:24:58.354Z",
+      "hash": "0b8ac0e2412b5d02"
+    },
+    {
+      "id": "article:b8bc1866ea7229b5",
+      "type": "article",
+      "title": "Twenty",
+      "summary": "Twenty: In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants. Google, working under the motto “Don’t Be Evil,” had just dethroned Yahoo! as the planet’s most popular Internet search engine (AskJeeves was not available for comment). Nickelback was at the height of its…",
+      "body": "Twenty: In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants. Google, working under the motto “Don’t Be Evil,” had just dethroned Yahoo! as the planet’s most popular Internet search engine (AskJeeves was not available for comment). Nickelback was at the height of its fame. Internet Explorer was the most used web browser, […]",
+      "source": {
+        "name": "Damn Interesting",
+        "url": "https://www.damninteresting.com/twenty/",
+        "trustTier": "publication",
+        "author": "Alan Bellows",
+        "date": "Fri, 19 Sep 2025 13:32:2"
+      },
+      "tags": [
+        "curiosities",
+        "history",
+        "science",
+        "announcements",
+        "adventure",
+        "disaster",
+        "discovery",
+        "disorders",
+        "dubious claims",
+        "engineering"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:24:55.669Z",
+      "hash": "b8bc1866ea7229b5"
+    },
+    {
+      "id": "article:3f82b2161382d115",
+      "type": "article",
+      "title": "The Conscious Pariah",
+      "summary": "Hannah Arendt never defined herself as a Zionist. Or as an anti-Zionist. About Israel, what did she believe?",
+      "body": "Hannah Arendt never defined herself as a Zionist. Or as an anti-Zionist. About Israel, what did she believe?",
+      "source": {
+        "name": "Lapham's Quarterly",
+        "url": "https://www.laphamsquarterly.org/roundtable/conscious-pariah",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "history",
+        "culture",
+        "literature"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:24:55.332Z",
+      "hash": "3f82b2161382d115"
+    },
+    {
+      "id": "article:281b23be81707e0c",
+      "type": "article",
+      "title": "The top 10 paintings of Judith beheading Holofernes. “I...",
+      "summary": "The top 10 paintings of Judith beheading Holofernes. “I feel like Artemisia has actually thought through the logistics of overpowering a grown man and hacking his head off.”",
+      "body": "The top 10 paintings of Judith beheading Holofernes. “I feel like Artemisia has actually thought through the logistics of overpowering a grown man and hacking his head off.”",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/10/0049883-the-top-10-paintings-of-j",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-10-30T19:11:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:24:54.691Z",
+      "hash": "281b23be81707e0c"
+    },
+    {
+      "id": "article:5a8e12291dea02bd",
+      "type": "article",
+      "title": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
+      "summary": "The post Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting. appeared first on ProPublica.",
+      "body": "The post Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting. appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/07725bf152aaf30a.jpg",
+        "alt": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
+        "trustTier": "publication",
+        "date": "Fri, 30 Oct 2026 15:10:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "democracy",
+        "trump administration"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:24:52.868Z",
+      "hash": "5a8e12291dea02bd",
+      "expires": "2027-01-29T14:24:52.868Z"
+    },
+    {
+      "id": "article:a0c79815aa7238e4",
+      "type": "article",
+      "title": "Albrecht Dürer’s Monument to the Vanquished Peasants (1525)",
+      "summary": "The design for a difficult-to-interpret monument that was never intended to be built.",
+      "body": "The design for a difficult-to-interpret monument that was never intended to be built.",
+      "image": {
+        "src": "data/images/4308cf57009e1e17.jpg",
+        "alt": "Albrecht Dürer’s Monument to the Vanquished Peasants (1525)",
+        "credit": "The Public Domain Review"
+      },
+      "source": {
+        "name": "The Public Domain Review",
+        "url": "https://publicdomainreview.org/collection/monument-to-the-vanquished-peasants",
+        "trustTier": "publication",
+        "date": "Tue, 27 Oct 2026 13:40:0"
+      },
+      "tags": [
+        "essay",
+        "history",
+        "culture"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:24:51.441Z",
+      "hash": "a0c79815aa7238e4"
+    },
+    {
+      "id": "article:4a8fe907f9a35765",
+      "type": "article",
+      "title": "Hills and mountains",
+      "summary": "A girl’s story of forced marriage reveals how the Soviet invasion of 1979 transformed life in Afghanistan- by Aeon VideoWatch on Aeon",
+      "body": "A girl’s story of forced marriage reveals how the Soviet invasion of 1979 transformed life in Afghanistan- by Aeon VideoWatch on Aeon",
+      "image": {
+        "src": "data/images/caae49ee686bd309.jpg",
+        "alt": "Hills and mountains",
+        "credit": "Aeon"
+      },
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
+        "trustTier": "publication",
+        "author": "Aeon Video",
+        "date": "Thu, 29 Oct 2026 10:01:0"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "philosophy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:24:50.411Z",
+      "hash": "4a8fe907f9a35765"
+    },
+    {
+      "id": "greek:074bd106f5f7a96a",
+      "type": "greek",
+      "title": "ἔχω",
+      "summary": "ἔχω — “I have” · verb",
+      "body": "Note: regular -ω verb; 3sg ἔχει\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%94%CF%87%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:50.240Z",
+      "hash": "074bd106f5f7a96a"
+    },
+    {
+      "id": "greek:69ec86320445e935",
+      "type": "greek",
+      "title": "ἅγιος",
+      "summary": "ἅγιος, -α, -ον — “holy” · adjective",
+      "body": "Note: declines like 2-1-2; substantive use \"saint, holy one\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%85%CE%B3%CE%B9%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "adjective"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:50.240Z",
+      "hash": "69ec86320445e935"
+    },
+    {
+      "id": "poetry:e813b167d13eedf6",
+      "type": "poem",
+      "title": "Comus",
+      "summary": "A Masque Presented At Ludlow Castle, 1634, Before\nThe Earl Of Bridgewater, Then President Of Wales.\nThe Persons\n        The ATTENDANT SPIRIT, afterwards in the habit of THYRSIS.",
+      "body": "A Masque Presented At Ludlow Castle, 1634, Before\n\nThe Earl Of Bridgewater, Then President Of Wales.\n\nThe Persons\n\n        The ATTENDANT SPIRIT, afterwards in the habit of THYRSIS.\nCOMUS, with his Crew.\nThe LADY.\nFIRST BROTHER.\nSECOND BROTHER.\nSABRINA, the Nymph.\n\nThe Chief Persons which presented were:—\n\nThe Lord Brackley;\nMr. Thomas Egerton, his Brother;\nThe Lady Alice Egerton.\n\n\nThe first Scene discovers a wild wood.\nThe ATTENDANT SPIRIT descends or enters.\n\n\nBEFORE the starry threshold of Jove's court\nMy mansion is, where those immortal shapes\nOf bright aerial spirits live insphered\nIn regions mild of calm and serene air,\nAbove the smoke and stir of this dim spot\nWhich men call Earth, and, with low-thoughted care,\nConfined and pestered in this pinfold here,\nStrive to keep up a frail and feverish being,\nUnmindful of the crown that Virtue gives,\nAfter this mortal change, to her true servants\nAmongst the enthroned gods on sainted seats.\nYet some there be that by due steps aspire\nTo lay their just hands on that golden key\nThat opes the palace of eternity.\nTo Such my errand is; and, but for such,\nI would not soil these pure ambrosial weeds\nWith the rank vapours of this sin-worn mould.\n         But to my task. Neptune, besides the sway\nOf every salt flood and each ebbing stream,\nTook in by lot, 'twixt high and nether Jove,\nImperial rule of all the sea-girt isles\nThat, like to rich and various gems, inlay\nThe unadorned bosom of the deep;\nWhich he, to grace his tributary gods,\nBy course commits to several government,\nAnd gives them leave to wear their sapphire crowns\nAnd wield their little tridents. But this Isle,\nThe greatest and the best of all the main,\nHe quarters to his blue-haired deities;\nAnd all this tract that fronts the falling sun\nA noble Peer of mickle trust and power\nHas in his charge, with tempered awe to guide\nAn old and haughty nation, proud in arms:\nWhere his fair offspring, nursed in princely lore,\nAre coming to attend their father's state,\nAnd new-intrusted sceptre. But their way\nLies through the perplexed paths of this drear wood,\nThe nodding horror of whose shady brows\nThreats the forlorn and wandering passenger;\nAnd here their tender age might suffer peril,\nBut that, by quick command from sovran Jove,\nI was despatched for their defence and guard:\nAnd listen why; for I will tell you now\nWhat never yet was heard in tale or song,\nFrom old or modern bard, in hall or bower.\n         Bacchus, that first from out the purple grape\nCrushed the sweet poison of misused wine,\nAfter the Tuscan mariners transformed,\nCoasting the Tyrrhene shore, as the winds listed,\nOn Circe's island fell. (Who knows not Circe,\nThe daughter of the Sun, whose charmed cup\nWhoever tasted lost his upright shape,\nAnd downward fell into a grovelling swine?)\nThis Nymph, that gazed upon his clustering locks,\nWith ivy berries wreathed, and his blithe youth,\nHad by him, ere he parted thence, a son\nMuch like his father, but his mother more,\nWhom therefore she brought up, and Comus named:\nWho, ripe and frolic of his full-grown age,\nRoving the Celtic and Iberian fields,\nAt last betakes him to this ominous wood,\nAnd, in thick shelter of black shades imbowered,\nExcels his mother at her mighty art;\nOffering to every weary traveller\nHis orient liquor in a crystal glass,\nTo quench the drouth of Phoebus; which as they taste\n(For most do taste through fond intemperate thirst),\nSoon as the potion works, their human count'nance,\nThe express resemblance of the gods, is changed\nInto some brutish form of wolf or bear,\nOr ounce or tiger, hog, or bearded goat,\nAll other parts remaining as they were.\nAnd they, so perfect is their misery,\nNot once perceive their foul disfigurement,\nBut boast themselves more comely than before,\nAnd all their friends and native home forget,\nTo roll with pleasure in a sensual sty.\nTherefore, when any favoured of high Jove\nChances to pass through this adventurous glade,\nSwift as the sparkle of a glancing star\nI shoot from heaven, to give him safe convoy,\nAs now I do. But first I must put off\nThese my sky-robes, spun out of Iris' woof,\nAnd take the weeds and likeness of a swain\nThat to the service of this house belongs,\nWho, with his soft pipe and smooth-dittied song,\nWell knows to still the wild winds when they roar,\nAnd hush the waving woods; nor of less faith\nAnd in this office of his mountain watch\nLikeliest, and nearest to the present aid\nOf this occasion. But I hear the tread\nOf hateful steps; I must be viewless now.\n\n\nCOMUS enters, with a charming-rod in one hand, his glass in the\nother: with him a rout of monsters, headed like sundry sorts of\nwild\nbeasts, but otherwise like men and women, their apparel\nglistering.\nThey come in making a riotous and unruly noise, with torches in\ntheir hands.\n\n\n         COMUS. The star that bids the shepherd fold\nNow the top of heaven doth hold;\nAnd the gilded car of day\nHis glowing axle doth allay\nIn the steep Atlantic stream;\nAnd the slope sun his upward beam\nShoots against the dusky pole,\nPacing toward the other goal\nOf his chamber in the east.\nMeanwhile, welcome joy and feast,\nMidnight shout and revelry,\nTipsy dance and jollity.\nBraid your locks with rosy twine,\nDropping odours, dropping wine.\nRigour now is gone to bed;\nAnd Advice with scrupulous head,\nStrict Age, and sour Severity,\nWith their grave saws, in slumber lie.\nWe, that are of purer fire,\nImitate the starry quire,\nWho, in their nightly watchful spheres,\nLead in swift round the months and years.\nThe sounds and seas, with all their finny drove,\nNow to the moon in wavering morrice move;\nAnd on the tawny sands and shelves\nTrip the pert fairies and the dapper elves.\nBy dimpled brook and fountain-brim,\nThe wood-nymphs, decked with daisies trim,\nTheir merry wakes and pastimes keep:\nWhat hath night to do with sleep?\nNight hath better sweets to prove;\nVenus now wakes, and wakens Love.\nCome, let us our rights begin;\n'T is only daylight that makes sin,\nWhich these dun shades will ne'er report.\nHail, goddess of nocturnal sport,\nDark-veiled Cotytto, to whom the secret flame\nOf midnight torches burns! mysterious dame,\nThat ne'er art called but when the dragon womb\nOf Stygian darkness spets her thickest gloom,\nAnd makes one blot of all the air!\nStay thy cloudy ebon chair,\nWherein thou ridest with Hecat', and befriend\nUs thy vowed priests, till utmost end\nOf all thy dues be done, and none left out,\nEre the blabbing eastern scout,\nThe nice Morn on the Indian steep,\nFrom her cabined loop-hole peep,\nAnd to the tell-tale Sun descry\nOur concealed solemnity.\nCome, knit hands, and beat the ground\nIn a light fantastic round.\n\n                              The Measure.\n\n         Break off, break off! I feel the different pace\nOf some chaste footing near about this ground.\nRun to your shrouds within these brakes and trees;\nOur number may affright. Some virgin sure\n(For so I can distinguish by mine art)\nBenighted in these woods! Now to my charms,\nAnd to my wily trains: I shall ere long\nBe well stocked with as fair a herd as grazed\nAbout my mother Circe. Thus I hurl\nMy dazzling spells into the spongy air,\nOf power to cheat the eye with blear illusion,\nAnd give it false presentments, lest the place\nAnd my quaint habits breed astonishment,\nAnd put the damsel to suspicious flight;\nWhich must not be, for that's against my course.\nI, under fair pretence of friendly ends,\nAnd well-placed words of glozing courtesy,\nBaited with reasons not unplausible,\nWind me into the easy-hearted man,\nAnd hug him into snares. When once her eye\nHath met the virtue of this magic dust,\nI shall appear some harmless villager\nWhom thrift keeps up about his country gear.\nBut here she comes; I fairly step aside,\nAnd hearken, if I may her business hear.\n\nThe LADY enters.\n\n         LADY. This way the noise was, if mine ear be true,\nMy best guide now. Methought it was the sound\nOf riot and ill-managed merriment,\nSuch as the jocund flute or gamesome pipe\nStirs up among the loose unlettered hinds,\nWhen, for their teeming flocks and granges full,\nIn wanton dance they praise the bounteous Pan,\nAnd thank the gods amiss. I should be loth\nTo meet the rudeness and swilled insolence\nOf such late wassailers; yet, oh! where else\nShall I inform my unacquainted feet\nIn the blind mazes of this tangled wood?\nMy brothers, when they saw me wearied out\nWith this long way, resolving here to lodge\nUnder the spreading favour of these pines,\nStepped, as they said, to the next thicket-side\nTo bring me berries, or such cooling fruit\nAs the kind hospitable woods provide.\nThey left me then when the grey-hooded Even,\nLike a sad votarist in palmer's weed,\nRose from the hindmost wheels of Phoebus' wain.\nBut where they are, and why they came not back,\nIs now the labour of my thoughts. TTis likeliest\nThey had engaged their wandering steps too far;\nAnd envious darkness, ere they could return,\nHad stole them from me. Else, O thievish Night,\nWhy shouldst thou, but for some felonious end,\nIn thy dark lantern thus close up the stars\nThat Nature hung in heaven, and filled their lamps\nWith everlasting oil to give due light\nTo the misled and lonely traveller?\nThis is the place, as well as I may guess,\nWhence even now the tumult of loud mirth\nWas rife, and perfect in my listening ear;\nYet nought but single darkness do I find.\nWhat might this be ? A thousand fantasies\nBegin to throng into my memory,\nOf calling shapes, and beckoning shadows dire,\nAnd airy tongues that syllable men's names\nOn sands and shores and desert wildernesses.\nThese thoughts may startle well, but not astound\nThe virtuous mind, that ever walks attended\nBy a strong siding champion, Conscience.\nO, welcome, pure-eyed Faith, white-handed Hope,\nThou hovering angel girt with golden wings,\nAnd thou unblemished form of Chastity!\nI see ye visibly, and now believe\nThat He, the Supreme Good, to whom all things ill\nAre but as slavish officers of vengeance,\nWould send a glistering guardian, if need were,\nTo keep my life and honour unassailed. . . .\nWas I deceived, or did a sable cloud\nTurn forth her silver lining on the night?\nI did not err: there does a sable cloud\nTurn forth her silver lining on the night,\nAnd casts a gleam over this tufted grove.\nI cannot hallo to my brothers, but\nSuch noise as I can make to be heard farthest\nI'll venture; for my new-enlivened spirits\nPrompt me, and they perhaps are not far off.\n\nSong.\n\nSweet Echo, sweetest nymph, that liv'st unseen\n                 Within thy airy shell\n         By slow Meander's margent green,\nAnd in the violet-embroidered vale\n         Where the love-lorn nightingale\nNightly to thee her sad song mourneth well:\nCanst thou not tell me of a gentle pair\n         That likest thy Narcissus are?\n                  O, if thou have\n         Hid them in some flowery cave,\n                  Tell me but where,\n         Sweet Queen of Parley, Daughter of the Sphere!\n         So may'st thou be translated to the skies,\nAnd give resounding grace to all Heaven's harmonies!\n\n\n         COMUS. Can any mortal mixture of earthUs mould\nBreathe such divine enchanting ravishment?\nSure something holy lodges in that breast,\nAnd with these raptures moves the vocal air\nTo testify his hidden residence.\nHow sweetly did they float upon the wings\nOf silence, through the empty-vaulted night,\nAt every fall smoothing the raven down\nOf darkness till it smiled! I have oft heard\nMy mother Circe with the Sirens three,\nAmidst the flowery-kirtled Naiades,\nCulling their potent herbs and baleful drugs,\nWho, as they sung, would take the prisoned soul,\nAnd lap it in Elysium: Scylla wept,\nAnd chid her barking waves into attention,\nAnd fell Charybdis murmured soft applause.\nYet they in pleasing slumber lulled the sense,\nAnd in sweet madness robbed it of itself;\nBut such a sacred and home-felt delight,\nSuch sober certainty of waking bliss,\nI never heard till now. I'll speak to her,\nAnd she shall be my queen.QHail, foreign wonder!\nWhom certain these rough shades did never breed,\nUnless the goddess that in rural shrine\nDwell'st here with Pan or Sylvan, by blest song\nForbidding every bleak unkindly fog\nTo touch the prosperous growth of this tall wood.\n         LADY. Nay, gentle shepherd, ill is lost that praise\nThat is addressed to unattending ears.\nNot any boast of skill, but extreme shift\nHow to regain my severed company,\nCompelled me to awake the courteous Echo\nTo give me answer from her mossy couch.\n         COMUS: What chance, good lady, hath bereft you thus?\n         LADY. Dim darkness and this leafy labyrinth.\n         COMUS. Could that divide you from near-ushering guides?\n         LADY. They left me weary on a grassy turf.\n         COMUS. By falsehood, or discourtesy, or why?\n         LADY. To seek i' the valley some cool friendly spring.\n         COMUS. And left your fair side all unguarded, Lady?\n         LADY. They were but twain, and purposed quick return.\n         COMUS. Perhaps forestalling night prevented them.\n         LADY. How easy my misfortune is to hit!\n         COMUS. Imports their loss, beside the present need?\n         LADY. No less than if I should my brothers lose.\n         COMUS. Were they of manly prime, or youthful bloom?\n         LADY. As smooth as Hebe's their unrazored lips.\n         COMUS. Two such I saw, what time the laboured ox\nIn his loose traces from the furrow came,\nAnd the swinked hedger at his supper sat.\nI saw them under a green mantling vine,\nThat crawls along the side of yon small hill,\nPlucking ripe clusters from the tender shoots;\nTheir port was more than human, as they stood.\nI took it for a faery vision\nOf some gay creatures of the element,\nThat in the colours of the rainbow live,\nAnd play i' the plighted clouds. I was awe-strook,\nAnd, as I passed, I worshiped. If those you seek,\nIt were a journey like the path to Heaven\nTo help you find them.\n         LADY.                          Gentle villager,\nWhat readiest way would bring me to that place?\n         COMUS. Due west it rises from this shrubby point.\n         LADY. To find out that, good shepherd, I suppose,\nIn such a scant allowance of star-light,\nWould overtask the best land-pilot's art,\nWithout the sure guess of well-practised feet.\n        COMUS. I know each lane, and every alley green,\nDingle, or bushy dell, of this wild wood,\nAnd every bosky bourn from side to side,\nMy daily walks and ancient neighbourhood;\nAnd, if your stray attendance be yet lodged,\nOr shroud within these limits, I shall know\nEre morrow wake, or the low-roosted lark\nFrom her thatched pallet rouse. If otherwise,\nI can conduct you, Lady, to a low\nBut loyal cottage, where you may be safe\nTill further quest.\n         LADY.        Shepherd, I take thy word,\nAnd trust thy honest-offered courtesy,\nWhich oft is sooner found in lowly sheds,\nWith smoky rafters, than in tapestry halls\nAnd courts of princes, where it first was named,\nAnd yet is most pretended. In a place\nLess warranted than this, or less secure,\nI cannot be, that I should fear to change it.\nEye me, blest Providence, and square my trial\nTo my proportioned strength! Shepherd, lead on.\n\nThe TWO BROTHERS.\n\n         ELD. BRO. Unmuffle, ye faint stars; and thou, fair moon,\nThat wont'st to love the traveller's benison,\nStoop thy pale visage through an amber cloud,\nAnd disinherit Chaos, that reigns here\nIn double night of darkness and of shades;\nOr, if your influence be quite dammed up\nWith black usurping mists, some gentle taper,\nThough a rush-candle from the wicker hole\nOf some clay habitation, visit us\nWith thy long levelled rule of streaming light,\nAnd thou shalt be our star of Arcady,\nOr Tyrian Cynosure.\n         SEC. BRO.                    Or, if our eyes\nBe barred that happiness, might we but hear\nThe folded flocks, penned in their wattled cotes,\nOr sound of pastoral reed with oaten stops,\nOr whistle from the lodge, or village cock\nCount the night-watches to his feathery dames,\n'T would be some solace yet, some little cheering,\nIn this close dungeon of innumerous boughs.\nBut, oh, that hapless virgin, our lost sister!\nWhere may she wander now, whither betake her\nFrom the chill dew, amongst rude burs and thistles\nPerhaps some cold bank is her bolster now,\nOr 'gainst the rugged bark of some broad elm\nLeans her unpillowed head, fraught with sad fears.\nWhat if in wild amazement and affright,\nOr, while we speak, within the direful grasp\nOf savage hunger, or of savage heat!\n         ELD. BRO. Peace, brother: be not over-exquisite\nTo cast the fashion of uncertain evils;\nFor, grant they be so, while they rest unknown,\nWhat need a man forestall his date of grief,\nAnd run to meet what he would most avoid?\nOr, if they be but false alarms of fear,\nHow bitter is such self-delusion!\nI do not think my sister so to seek,\nOr so unprincipled in virtue's book,\nAnd the sweet peace that goodness bosoms ever,\nAs that the single want of light and noise\n(Not being in danger, as I trust she is not)\nCould stir the constant mood of her calm thoughts,\nAnd put them into misbecoming plight.\nVirtue could see to do what Virtue would\nBy her own radiant light, though sun and moon\nWere in the flat sea sunk. And Wisdom's self\nOft seeks to sweet retired solitude,\nWhere, with her best nurse, Contemplation,\nShe plumes her feathers, and lets grow her wings,\nThat, in the various bustle of resort,\nWere all to-ruffled, and sometimes impaired.\nHe that has light within his own clear breast\nMay sit i' the centre, and enjoy bright day:\nBut he that hides a dark soul and foul thoughts\nBenighted walks under the mid-day sun;\nHimself is his own dungeon.\n         SEC. BRO.                             'Tis most true\nThat musing meditation most affects\nThe pensive secrecy of desert cell,\nFar from the cheerful haunt of men and herds,\nAnd sits as safe as in a senate house\nFor who would rob a hermit of his weeds,\nHis few books, or his beads, or maple dish,\nOr do his grey hairs any violence?\nBut Beauty, like the fair Hesperian tree\nLaden with blooming gold, had need the guard\nOf dragon-watch with unenchanted eye\nTo save her blossoms, and defend her fruit,\nFrom the rash hand of bold Incontinence.\nYou may as well spread out the unsunned heaps\nOf miser's treasure by an outlaw's den,\nAnd tell me it is safe, as bid me hope\nDanger will wink on Opportunity,\nAnd let a single helpless maiden pass\nUninjured in this wild surrounding waste.\nOf night or loneliness it recks me not;\nI fear the dread events that dog them both,\nLest some ill-greeting touch attempt the person\nOf our unowned sister.\n         ELD. BRO.            I do not, brother,\nInfer as if I thought my sister's state\nSecure without all doubt or controversy;\nYet, where an equal poise of hope and fear\nDoes arbitrate the event, my nature is\nThat I incline to hope rather than fear,\nAnd gladly banish squint suspicion.\nMy sister is not so defenceless left\nAs you imagine; she has a hidden strength,\nWhich you remember not.\n         SEC. BRO..                         What hidden strength,\nUnless the strength of Heaven, if you mean that?\n         ELD. BRO. I mean that too, but yet a hidden strength,\nWhich, if Heaven gave it, may be termed her own.\n'Tis chastity, my brother, chastity:\nShe that has that is clad in complete steel,\nAnd, like a quivered nymph with arrows keen,\nMay trace huge forests, and unharboured heaths,\nInfamous hills, and sandy perilous wilds;\nWhere, through the sacred rays of chastity,\nNo savage fierce, bandite, or mountaineer,\nWill dare to soil her virgin purity.\nYea, there where very desolation dwells,\nBy grots and caverns shagged with horrid shades,\nShe may pass on with unblenched majesty,\nBe it not done in pride, or in presumption.\nSome say no evil thing that walks by night,\nIn fog or fire, by lake or moorish fen,\nBlue meagre hag, or stubborn unlaid ghost,\nThat breaks his magic chains at curfew time,\nNo goblin or swart faery of the mine,\nHath hurtful power o'er true virginity.\nDo ye believe me yet, or shall I call\nAntiquity from the old schools of Greece\nTo testify the arms of chastity?\nHence had the huntress Dian her dread bow\nFair silver-shafted queen for ever chaste,\nWherewith she tamed the brinded lioness\nAnd spotted mountain-pard, but set at nought\nThe frivolous bolt of Cupid; gods and men\nFeared her stern frown, and she was queen o' the woods.\nWhat was that snaky-headed Gorgon shield\nThat wise Minerva wore, unconquered virgin,\nWherewith she freezed her foes to congealed stone,\nBut rigid looks of chaste austerity,\nAnd noble grace that dashed brute violence\nWith sudden adoration and blank awe?\nSo dear to Heaven is saintly chastity\nThat, when a soul is found sincerely so,\nA thousand liveried angels lackey her,\nDriving far off each thing of sin and guilt,\nAnd in clear dream and solemn vision\nTell her of things that no gross ear can hear;\nTill oft converse with heavenly habitants\nBegin to cast a beam on the outward shape,\nThe unpolluted temple of the mind,\nAnd turns it by degrees to the soul's essence,\nTill all be made immortal. But, when lust,\nBy unchaste looks, loose gestures, and foul talk,\nBut most by lewd and lavish act of sin,\nLets ill defilement to the inward parts,\nThe soul grows clotted by contagion,\nImbodies, and imbrutes, till she quite loose\nThe divine property of her first being.\nSuch are those thick and gloomy shadows damp\nOft seen in charnel-vaults and sepulchres,\nLingering and sitting by a new-made grave,\nAs loth to leave the body that it loved,\nAnd linked itself by carnal sensualty\nTo a degenerate and degraded state.\n         SEC. BRO. How charming is divine Philosophy!\nNot harsh and crabbed, as dull fools suppose,\nBut musical as is Apollo's lute,\nAnd a perpetual feast of nectared sweets,\nWhere no crude surfeit reigns.\n         Eld. Bro.                                        List!\nlist! I hear\nSome far-off hallo break the silent air.\n         SEC. BRO. Methought so too; what should it be?\n         ELD. BRO.                                      For\ncertain.\nEither some one, like us, night-foundered here,\nOr else some neighbour woodman, or, at worst,\nSome roving robber calling to his fellows.\nSEC. BRO. Heaven keep my sister! Again, again, and near!\nBest draw, and stand upon our guard.\n         ELD. BRO.                                   I'll hallo!\nIf he be friendly, he comes well: if not,\nDefence is a good cause, and Heaven be for us!\n\n           The ATTENDANT SPIRIT, habited like a shepherd.\n\nThat hallo I should know. What are you? speak.\nCome not too near; you fall on iron stakes else.\n         SPIR. What voice is that? my young Lord? speak again.\n         SEC. BRO. O brother, Tt is my father's Shepherd, sure.\n         ELD. BRO. Thyrsis! whose artful strains have of delayed\nThe huddling brook to hear his madrigal,\nAnd sweetened every musk-rose of the dale.\nHow camest thou here, good swain? Hath any ram\nSlipped from the fold, or young kid lost his dam,\nOr straggling wether the pent flock forsook?\nHow couldst thou find this dark sequestered nook?\n         SPIR. O my loved master's heir, and his next joy,\nI came not here on such a trivial toy\nAs a strayed ewe, or to pursue the stealth\nOf pilfering wolf; not all the fleecy wealth\nThat doth enrich these downs is worth a thought\nTo this my errand, and the care it brought.\nBut, oh ! my virgin Lady, where is she?\nHow chance she is not in your company?\n         ELD. BRO. To tell thee sadly, Shepherd, without blame\nOr our neglect, we lost her as we came.\n         SPIR. Ay me unhappy! then my fears are true.\n         ELD. BRO. What fears, good Thyrsis? Prithee briefly\nshew.\n         SPIR. I'll tell ye. 'T is not vain or fabulous\n(Though so esteemed by shallow igrlorance)\nWhat the sage poets, taught by the heavenly Muse,\nStoried of old in high immortal verse\nOf dire Chimeras and enchanted isles,\nAnd rifted rocks whose entrance leads to Hell;\nFor such there be, but unbelief is blind.\n         Within the navel of this hideous wood,\nImmured in cypress shades, a sorcerer dwells,\nOf Bacchus and of Circe born, great Comus,\nDeep skilled in all his mother's witcheries,\nAnd here to every thirsty wanderer\nBy sly enticement gives his baneful cup,\nWith many murmurs mixed, whose pleasing poison\nThe visage quite transforms of him that drinks,\nAnd the inglorious likeness of a beast\nFixes instead, unmoulding reason's mintage\nCharactered in the face. This have I learnt\nTending my flocks hard by i' the hilly crofts\nThat brow this bottom glade; whence night by night\nHe and his monstrous rout are heard to howl\nLike stabled wolves, or tigers at their prey,\nDoing abhorred rites to Hecate\nIn their obscured haunts of inmost bowers.\nYet have they many baits and guileful spells\nTo inveigle and invite the unwary sense\nOf them that pass unweeting by the way.\nThis evening late, by then the chewing flocks\nHad ta'en their supper on the savoury herb\nOf knot-grass dew-besprent, and were in fold,\nI sat me down to watch upon a bank\nWith ivy canopied, and interwove\nWith flaunting honeysuckle, and began,\nWrapt in a pleasing fit of melancholy,\nTo meditate my rural minstrelsy,\nTill fancy had her fill. But ere a close\nThe wonted roar was up amidst the woods,\nAnd filled the air with barbarous dissonance;\nAt which I ceased, and listened them awhile,\nTill an unusual stop of sudden silence\nGave respite to the drowsy-flighted steeds\nThat draw the litter of close-curtained Sleep.\nAt last a soft and solemn-breathing sound\nRose like a steam of rich distilled perfumes,\nAnd stole upon the air, that even Silence\nWas took ere she was ware, and wished she might\nDeny her nature, and be never more,\nStill to be so displaced. I was all ear,\nAnd took in strains that might create a soul\nUnder the ribs of Death. But, oh! ere long\nToo well I did perceive it was the voice\nOf my most honoured Lady, your dear sister.\nAmazed I stood, harrowed with grief and fear;\nAnd RO poor hapless nightingale,\" thought I,\nHow sweet thou sing'st, how near the deadly snare!\"\nThen down the lawns I ran with headlong haste,\nThrough paths and turnings often trod by day,\nTill, guided by mine ear, I found the place\nWhere that damned wizard, hid in sly disguise\n(For so by certain signs I knew), had met\nAlready, ere my best speed could prevent,\nThe aidless innocent lady, his wished prey;\nWho gently asked if he had seen such two,\nSupposing him some neighbour villager.\nLonger I durst not stay, but soon I guessed\nYe were the two she meant; with that I sprung\nInto swift flight, till I had found you here;\nBut further know I not.\n         SEC. BRO.                   O night and shades,\nHow are ye joined with hell in triple knot\nAgainst the unarmed weakness of one virgin,\nAlone and helpless! Is this the confidence\nYou gave me, brother?\n         ELD. BRO.                   Yes, and keep it still;\nLean on it safely; not a period\nShall be unsaid for me. Against the threats\nOf malice or of sorcery, or that power\nWhich erring men call Chance, this I hold firm:\nVirtue may be assailed, but never hurt,\nSurprised by unjust force, but not enthralled;\nYea, even that which Mischief meant most harm\nShall in the happy trial prove most glory.\nBut evil on itself shall back recoil,\nAnd mix no more with goodness, when at last,\nGathered like scum, and settled to itself,\nIt shall be in eternal restless change\nSelf-fed and self-consumed. If this fail,\nThe pillared firmament is rottenness,\nAnd earth's base built on stubble. But come, let's on!\nAgainst the opposing will and arm of heaven\nMay never this just sword be lifted up;\nBut, for that damned magician, let him be girt\nWith all the griesly legions that troop\nUnder the sooty flag of Acheron,\nHarpies and Hydras, or all the monstrous forms\n'Twixt Africa and Ind, I'll find him out,\nAnd force him to return his purchase back,\nOr drag him by the curls to a foul death,\nCursed as his life.\n         SPIR.         Alas! good venturous youth,\nI love thy courage yet, and bold emprise;\nBut here thy sword can do thee little stead.\nFar other arms and other weapons must\nBe those that quell the might of hellish charms.\nHe with his bare wand can unthread thy joints,\nAnd crumble all thy sinews.\n         ELD. BRO.                            Why, prithee,\nShepherd,\nHow durst thou then thyself approach so near\nAs to make this relation?\n         SPIR.                                   Care and utmost\nshifts\nHow to secure the Lady from surprisal\nBrought to my mind a certain shepherd lad,\nOf small regard to see to, yet well skilled\nIn every virtuous plant and healing herb\nThat spreads her verdant leaf to the morning ray.\nHe loved me well, and oft would beg me sing;\nWhich when I did, he on the tender grass\nWould sit, and hearken even to ecstasy,\nAnd in requital ope his leathern scrip,\nAnd show me simples of a thousand names,\nTelling their strange and vigorous faculties.\nAmongst the rest a small unsightly root,\nBut of divine effect, he culled me out.\nThe leaf was darkish, and had prickles on it,\nBut in another country, as he said,\nBore a bright golden flower, but not in this soil:\nUnknown, and like esteemed, and the dull swain\nTreads on it daily with his clouted shoon;\nAnd yet more med'cinal is it than that Moly\nThat Hermes once to wise Ulysses gave.\nHe called it Haemony, and gave it me,\nAnd bade me keep it as of sovran use\n'Gainst all enchantments, mildew blast, or damp,\nOr ghastly Furies' apparition.\nI pursed it up, but little reckoning made,\nTill now that this extremity compelled.\nBut now I find it true; for by this means\nI knew the foul enchanter, though disguised,\nEntered the very lime-twigs of his spells,\nAnd yet came off. If you have this about you\n(As I will give you when we go), you may\nBoldly assault the necromancer's hall;\nWhere if he be, with dauntless hardihood\nAnd brandished blade rush on him: break his glass,\nAnd shed the luscious liquor on the ground;\nBut seize his wand. Though he and his curst crew\nFierce sign of battle make, and menace high,\nOr, like the sons of Vulcan, vomit smoke,\nYet will they soon retire, if he but shrink.\n         ELD. BRO. Thyrsis, lead on apace; I'll follow thee;\nAnd some good angel bear a shield before us!\n\nThe Scene changes to a stately palace, set out with all manner of\ndeliciousness: soft music, tables spread with all dainties. Comus\nappears with his rabble, and the LADY set in an enchanted chair;\nto\nwhom he offers his glass; which she puts by, and goes about to\nrise.\n\n         COMUS. Nay, Lady, sit. If I but wave this wand,\nYour nerves are all chained up in alabaster,\nAnd you a statue, or as Daphne was,\nRoot-bound, that fled Apollo.\n         LADY.                            Fool, do not boast.\nThou canst not touch the freedom of my mind\nWith all thy charms, although this corporal rind\nThou hast immanacled while Heaven sees good.\n         COMUS. Why are you vexed, Lady? why do you frown?\nHere dwell no frowns, nor anger; from these gates\nSorrow flies far. See, here be all the pleasures\nThat fancy can beget on youthful thoughts,\nWhen the fresh blood grows lively, and returns\nBrisk as the April buds in primrose season.\nAnd first behold this cordial julep here,\nThat flames and dances in his crystal bounds,\nWith spirits of balm and fragrant syrups mixed.\nNot that Nepenthes which the wife of Thone\nIn Egypt gave to Jove-born Helena\nIs of such power to stir up joy as this,\nTo life so friendly, or so cool to thirst.\nWhy should you be so cruel to yourself,\nAnd to those dainty limbs, which Nature lent\nFor gentle usage and soft delicacy?\nBut you invert the covenants of her trust,\nAnd harshly deal, like an ill borrower,\nWith that which you received on other terms,\nScorning the unexempt condition\nBy which all mortal frailty must subsist,\nRefreshment after toil, ease after pain,\nThat have been tired all day without repast,\nAnd timely rest have wanted. But, fair virgin,\nThis will restore all soon.\n         LADY.                         'T will not, false\ntraitor!\n'T will not restore the truth and honesty\nThat thou hast banished from thy tongue with lies.\nWas this the cottage and the safe abode\nThou told'st me of? What grim aspects are these,\nThese oughly-headed monsters? Mercy guard me!\nHence with thy brewed enchantments, foul deceiver!\nHast thou betrayed my credulous innocence\nWith vizored falsehood and base forgery?\nAnd would'st thou seek again to trap me here\nWith liquorish baits, fit to ensnare a brute?\nWere it a draught for Juno when she banquets,\nI would not taste thy treasonous offer. None\nBut such as are good men can give good things;\nAnd that which is not good is not delicious\nTo a well-governed and wise appetite.\n         COMUS. 0 foolishness of men! that lend their ears\nTo those budge doctors of the Stoic fur,\nAnd fetch their precepts from the Cynic tub,\nPraising the lean and sallow Abstinence!\nWherefore did Nature pour her bounties forth\nWith such a full and unwithdrawing hand,\nCovering the earth with odours, fruits, and flocks,\nThronging the seas with spawn innumerable,\nBut all to please and sate the curious taste?\nAnd set to work millions of spinning worms,\nThat in their green shops weave the smooth-haired silk,\nTo deck her sons; and, that no corner might\nBe vacant of her plenty, in her own loins\nShe hutched the all-worshipped ore and precious gems,\nTo store her children with. If all the world\nShould, in a pet of temperance, feed on pulse,\nDrink the clear stream, and nothing wear but frieze,\nThe All-giver would be unthanked, would be unpraised,\nNot half his riches known and yet despised;\nAnd we should serve him as a grudging master,\nAs a penurious niggard of his wealth,\nAnd live like Nature's bastards, not her sons,\nWho would be quite surcharged with her own weight,\nAnd strangled with her waste fertility:\nThe earth cumbered, and the winged air darked with plumes,\nThe herds would over-multitude their lords;\nThe sea o'erfraught would swell, and the unsought diamonds\nWould so emblaze the forehead of the deep,\nAnd so bestud with stars, that they below\nWould grow inured to light, and come at last\nTo gaze upon the sun with shameless brows.\nList, Lady; be not coy, and be not cozened\nWith that same vaunted name, Virginity.\nBeauty is Nature's coin; must not be hoarded,\nBut must be current; and the good thereof\nConsists in mutual and partaken bliss,\nUnsavoury in the enjoyment of itself.\nIf you let slip time, like a neglected rose\nIt withers on the stalk with languished head.\nBeauty is Nature's brag, and must be shown\nIn courts, at feasts, and high solemnities,\nWhere most may wonder at the workmanship.\nIt is for homely features to keep home;\nThey had their name thence: coarse complexions\nAnd cheeks of sorry grain will serve to ply\nThe sampler, and to tease the huswife's wool.\nWhat need a vermeil-tinctured lip for that,\nLove-darting eyes, or tresses like the morn?\nThere was another meaning in these gifts;\nThink what, and be advised; you are but young yet.\n        LADY. I had not thought to have unlocked my lips\nIn this unhallowed air, but that this juggler\nWould think to charm my judgment, as mine eyes,\nObtruding false rules pranked in reason's garb.\nI hate when vice can bolt her arguments\nAnd virtue has no tongue to check her pride.\nImpostor! do not charge most innocent Nature,\nAs if she would her children should be riotous\nWith her abundance. She, good cateress,\nMeans her provision only to the good,\nThat live according to her sober laws,\nAnd holy dictate of spare Temperance.\nIf every just man that now pines with want\nHad but a moderate and beseeming share\nOf that which lewdly-pampered Luxury\nNow heaps upon some few with vast excess,\nNature's full blessings would be well dispensed\nIn unsuperfluous even proportion,\nAnd she no whit encumbered with her store;\nAnd then the Giver would be better thanked,\nHis praise due paid: for swinish gluttony\nNe'er looks to Heaven amidst his gorgeous feast,\nBut with besotted base ingratitude\nCrams, and blasphemes his Feeder. Shall I go on\nOr have I said enow? To him that dares\nArm his profane tongue with contemptuous words\nAgainst the sun-clad power of chastity\nFain would I something say;—yet to what end?\nThou hast nor ear, nor soul, to apprehend\nThe sublime notion and high mystery\nThat must be uttered to unfold the sage\nAnd serious doctrine of Virginity;\nAnd thou art worthy that thou shouldst not know\nMore happiness than this thy present lot.\nEnjoy your dear wit, and gay rhetoric,\nThat hath so well been taught her dazzling fence;\nThou art not fit to hear thyself convinced.\nYet, should I try, the uncontrolled worth\nOf this pure cause would kindle my rapt spirits\nTo such a flame of sacred vehemence\nThat dumb things would be moved to sympathise,\nAnd the brute Earth would lend her nerves, and shake,\nTill all thy magic structures, reared so high,\nWere shattered into heaps o'er thy false head.\n        COMUS. She fables not. I feel that I do fear\nHer words set off by some superior power;\nAnd, though not mortal, yet a cold shuddering dew\nDips me all o'er, as when the wrath of Jove\nSpeaks thunder and the chains of Erebus\nTo some of Saturn's crew. I must dissemble,\nAnd try her yet more strongly.—Come, no more !\nThis is mere moral babble, and direct\nAgainst the canon laws of our foundation.\nI must not suffer this; yet 't is but the lees\nAnd settlings of a melancholy blood.\nBut this will cure all straight; one sip of this\nWill bathe the drooping spirits in delight\nBeyond the bliss of dreams. Be wise, and taste.\n\nThe BROTHERS rush in with swords drawn, wrest his glass out of\nhis\nhand, and break it against the ground: his rout make sign of\nresistance, but are all driven in. The ATTENDANT SPIRIT comes in.\n\n         SPIR . What! have you let the false enchanter scape?\nO ye mistook; ye should have snatched his wand,\nAnd bound him fast. Without his rod reversed,\nAnd backward mutters of dissevering power,\nWe cannot free the Lady that sits here\nIn stony fetters fixed and motionless.\nYet stay: be not disturbed; now I bethink me,\nSome other means I have which may be used,\nWhich once of Meliboeus old I learnt,\nThe soothest shepherd that e'er piped on plains.\n         There is a gentle Nymph not far from hence,\nThat with moist curb sways the smooth Severn stream:\nSabrina is her name: a virgin pure;\nWhilom she was the daughter of Locrine,\nThat had the sceptre from his father Brute.\nShe, guiltless damsel, flying the mad pursuit\nOf her enraged stepdame, Guendolen,\nCommended her fair innocence to the flood\nThat stayed her flight with his cross-flowing course.\nThe water-nymphs, that in the bottom played,\nHeld up their pearled wrists, and took her in,\nBearing her straight to aged Nereus' hall;\nWho, piteous of her woes, reared her lank head,\nAnd gave her to his daughters to imbathe\nIn nectared lavers strewed with asphodil,\nAnd through the porch and inlet of each sense\nDropt in ambrosial oils, till she revived,\nAnd underwent a quick immortal change,\nMade Goddess of the river. Still she retains\nHer maiden gentleness, and oft at eve\nVisits the herds along the twilight meadows,\nHelping all urchin blasts, and ill-luck signs\nThat the shrewd meddling elf delights to make,\nWhich she with precious vialed liquors heals:\nFor which the shepherds, at their festivals,\nCarol her goodness loud in rustic lays,\nAnd throw sweet garland wreaths into her stream\nOf pansies, pinks, and gaudy daffodils.\nAnd, as the old swain said, she can unlock\nThe clasping charm, and thaw the numbing spell,\nIf she be right invoked in warbled song;\nFor maidenhood she loves, and will be swift\nTo aid a virgin, such as was herself,\nIn hard-besetting need. This will I try,\nAnd add the power of some adjuring verse.\n\n\nSONG.\n\n         Sabrina fair,\n                  Listen where thou art sitting\n         Under the glassy, cool, translucent wave,\n                  In twisted braids of lilies knitting\n         The loose train of thy amber-dropping hair;\n                  Listen for dear honour's sake,\n         Goddess of the silver lake,\n                  Listen and save!\n\nListen, and appear to us,\nIn name of great Oceanus.\nBy the earth-shaking Neptune's mace,\nAnd Tethys' grave majestic pace;\nBy hoary Nereus' wrinkled look,\nAnd the Carpathian wizard's hook;\nBy scaly Triton's winding shell,\nAnd old soothsaying Glaucus' spell;\nBy Leucothea's lovely hands,\nAnd her son that rules the strands;\nBy Thetis' tinsel-slippered feet,\nAnd the songs of Sirens sweet;\nBy dead Parthenope's dear tomb,\nAnd fair Ligea's golden comb,\nWherewith she sits on diamond rocks\nSleeking her soft alluring locks;\nBy all the Nymphs that nightly dance\nUpon thy streams with wily glance;\nRise, rise, and heave thy rosy head\nFrom thy coral-paven bed,\nAnd bridle in thy headlong wave,\nTill thou our summons answered have.\n                                Listen and save!\n\nSABRINA rises, attended by water-nymphs, and sings.\n\nBy the rushy-fringed bank,\nWhere grows the willow and the osier dank,\n         My sliding chariot stays,\nThick set with agate, and the azurn sheen\nOf turkis blue, and emerald green,\n         That in the channel strays;\nWhilst from off the waters fleet\nThus I set my printless feet\nO'er the cowslip's velvet head,\n         That bends not as I tread.\nGentle swain, at thy request\n         I am here!\n\n         SPIR. Goddess dear,\nWe implore thy powerful hand\nTo undo the charmed band\nOf true virgin here distressed\nThrough the force and through the wile\nOf unblessed enchanter vile.\n         SABR. Shepherd, 't is my office best\nTo help ensnared chastity.\nBrightest Lady, look on me.\nThus I sprinkle on thy breast\nDrops that from my fountain pure\nI have kept of precious cure;\nThrice upon thy finger's tip,\nThrice upon thy rubied lip:\nNext this marble venomed seat,\nSmeared with gums of glutinous heat,\nI touch with chaste palms moist and cold.\nNow the spell hath lost his hold;\nAnd I must haste ere morning hour\nTo wait in Amphitrite's bower.\n\nSABRINA descends, and the LADY rises out of her seat.\n\n         SPIR. Virgin, daughter of Locrine,\nSprung of old Anchises' line,\nMay thy brimmed waves for this\nTheir full tribute never miss\nFrom a thousand petty rills,\nThat tumble down the snowy hills:\nSummer drouth or singed air\nNever scorch thy tresses fair,\nNor wet October's torrent flood\nThy molten crystal fill with mud;\nMay thy billows roll ashore\nThe beryl and the golden ore;\nMay thy lofty head be crowned\nWith many a tower and terrace round,\nAnd here and there thy banks Upon\nWith groves of myrrh and cinnamon.\n         Come, Lady; while Heaven lends us grace,\nLet us fly this cursed place,\nLest the sorcerer us entice\nWith some other new device.\nNot a waste or needless sound\nTill we come to holier ground.\nI shall be your faithful guide\nThrough this gloomy covert wide;\nAnd not many furlongs thence\nIs your Father's residence,\nWhere this night are met in state\nMany a friend to gratulate\nHis wished presence, and beside\nAll the swains that there abide\nWith jigs and rural dance resort.\nWe shall catch them at their sport,\nAnd our sudden coming there\nWill double all their mirth and cheer.\nCome, let us haste; the stars grow high,\nBut Night sits monarch yet in the mid sky.\n\nThe Scene changes,presenting Ludlow Town, and the PresidentUs\nCastle: then come in Country Dancers; after them the ATTENDANT\nSPIRIT, with the two BROTHERS and the LADY.\n\n                      SONG.\n\n         SPIR. Back, shepherds, back! Enough your play\nTill next sun-shine holiday.\nHere be, without duck or nod,\nOther trippings to be trod\nOf lighter toes, and such court guise\nAs Mercury did first devise\nWith the mincing Dryades\nOn the lawns and on the leas.\n\nThe second Song presents them to their Father and Mother.\n\n         Noble Lord and Lady bright,\nI have brought ye new delight.\nHere behold so goodly grown\nThree fair branches of your own.\nHeaven hath timely tried their youth,\nTheir faith, their patience, and their truth,\nAnd sent them here through hard assays\nWith a crown of deathless praise,\nTo triumph in victorious dance\nO'er sensual folly and intemperance.\n\nThe dances ended, the SPIRIT epiloguizes.\n\n         SPIR. To the ocean now I fly,\nAnd those happy climes that lie\nWhere day never shuts his eye,\nUp in the broad fields of the sky.\nThere I suck the liquid air,\nAll amidst the gardens fair\nOf Hesperus, and his daughters three\nThat sing about the golden tree.\nAlong the crisped shades and bowers\nRevels the spruce and jocund Spring;\nThe Graces and the rosy-bosomed Hours\nThither all their bounties bring.\nThere eternal Summer dwells;\nAnd west winds with musky wing\nAbout the cedarn alleys fling\nNard and cassia's balmy smells.\nIris there with humid bow\nWaters the odorous banks, that blow\nFlowers of more mingled hue\nThan her purfled scarf can shew,\nAnd drenches with Elysian dew\n(List, mortals, if your ears be true)\nBeds of hyacinth and roses,\nWhere young Adonis oft reposes,\nWaxing well of his deep wound,\nIn slumber soft, and on the ground\nSadly sits the Assyrian queen.\nBut far above, in spangled sheen,\nCelestial Cupid, her famed son, advanced\nHolds his dear Psyche, sweet entranced\nAfter her wandering labours long,\nTill free consent the gods among\nMake her his eternal bride,\nAnd from her fair unspotted side\nTwo blissful twins are to be born,\nYouth and Joy; so Jove hath sworn.\n         But now my task is smoothly done:\nI can fly, or I can run,\nQuickly to the green earth's end,\nWhere the bowed welkin slow doth bend,\nAnd from thence can soar as soon\nTo the corners of the moon.\nMortals, that would follow me,\nLove virtue; she alone is free.\nShe can teach ye how to climb\nHigher than the sphery chime;\nOr, if Virtue feeble were,\nHeaven itself would stoop to her.",
+      "source": {
+        "name": "John Milton · PoetryDB",
+        "url": "https://poetrydb.org/title/Comus",
+        "trustTier": "community",
+        "author": "John Milton"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:24:50.239Z",
+      "hash": "e813b167d13eedf6"
+    },
+    {
+      "id": "poetry:66889eeb4dd2dcaa",
+      "type": "poem",
+      "title": "To Time",
+      "summary": "Time! on whose arbitrary wing\n  The varying hours must flag or fly,\nWhose tardy winter, fleeting spring,\n  But drag or drive us on to die--",
+      "body": "Time! on whose arbitrary wing\n  The varying hours must flag or fly,\nWhose tardy winter, fleeting spring,\n  But drag or drive us on to die--\nHail thou! who on my birth bestowed\n  Those boons to all that know thee known;\nYet better I sustain thy load,\n  For now I bear the weight alone.\nI would not one fond heart should share\n  The bitter moments thou hast given;\nAnd pardon thee--since thou couldst spare\n  All that I loved, to peace or Heaven.\nTo them be joy or rest--on me\n  Thy future ills shall press in vain;\nI nothing owe but years to thee,\n  A debt already paid in pain.\nYet even that pain was some relief;\n  It felt, but still forgot thy power:\nThe active agony of grief\n  Retards, but never counts the hour.\nIn joy I've sighed to think thy flight\n  Would soon subside from swift to slow;\nThy cloud could overcast the light,\n  But could not add a night to Woe;\nFor then, however drear and dark,\n  My soul was suited to thy sky;\nOne star alone shot forth a spark\n  To prove thee--not Eternity.\nThat beam hath sunk--and now thou art\n  A blank--a thing to count and curse\nThrough each dull tedious trifling part,\n  Which all regret, yet all rehearse.\nOne scene even thou canst not deform--\n  The limit of thy sloth or speed\nWhen future wanderers bear the storm\n  Which we shall sleep too sound to heed.\nAnd I can smile to think how weak\n  Thine efforts shortly shall be shown,\nWhen all the vengeance thou canst wreak\n  Must fall upon--a nameless stone.",
+      "source": {
+        "name": "George Gordon, Lord Byron · PoetryDB",
+        "url": "https://poetrydb.org/title/To%20Time",
+        "trustTier": "community",
+        "author": "George Gordon, Lord Byron"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-10-31T14:24:50.239Z",
+      "hash": "66889eeb4dd2dcaa"
+    },
+    {
+      "id": "greek:fd18039c95c245aa",
+      "type": "greek",
+      "title": "λόγος",
+      "summary": "λόγος — “word” · noun",
+      "body": "Note: ὁ λόγος; also \"message, reason, account\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:50.239Z",
+      "hash": "fd18039c95c245aa"
+    },
+    {
+      "id": "apod:2023-01-06",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Niveth Kumar"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap230106.html",
+        "trustTier": "encyclopedic",
+        "date": "2023-01-06"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:45.958Z",
+      "hash": "b568a1a3f0cb3a4b"
+    },
+    {
+      "id": "apod:2017-01-09",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap170109.html",
+        "trustTier": "encyclopedic",
+        "date": "2017-01-09"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:45.958Z",
+      "hash": "701630640fb78bba"
+    },
+    {
+      "id": "apod:2009-06-14",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap090614.html",
+        "trustTier": "encyclopedic",
+        "date": "2009-06-14"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:45.958Z",
+      "hash": "52abe1d3b334ff54"
+    },
+    {
+      "id": "apod:2007-04-02",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© JAXA"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap070402.html",
+        "trustTier": "encyclopedic",
+        "date": "2007-04-02"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:45.958Z",
+      "hash": "decf607b3a275565"
+    },
+    {
+      "id": "apod:2019-03-27",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Steve Milne"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap190327.html",
+        "trustTier": "encyclopedic",
+        "date": "2019-03-27"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:45.958Z",
+      "hash": "88574d8d39122946"
+    },
+    {
+      "id": "onthisday:10-31:475:f2bba61c8b637047",
+      "type": "history",
+      "title": "475: Romulus Augustulus",
+      "summary": "Romulus Augustulus took the throne as the last emperor of the Western Roman Empire.",
+      "body": "Romulus Augustulus took the throne as the last emperor of the Western Roman Empire.",
+      "image": {
+        "src": "data/images/f6bf60f241d4147b.jpg",
+        "alt": "Romulus Augustulus",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Romulus_Augustulus",
+        "trustTier": "encyclopedic",
+        "date": "10-31"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:38.140Z",
+      "hash": "7154b0ec9344abdc",
+      "expires": "2026-11-03T14:24:38.140Z"
+    },
+    {
+      "id": "onthisday:10-31:1941:8f9b6bdb948a3802",
+      "type": "history",
+      "title": "1941: Bust (sculpture)",
+      "summary": "Approximately 400 workers completed the 60-foot (18 m) busts of U.S. presidents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln at Mount Rushmore in South Dakota.",
+      "body": "Approximately 400 workers completed the 60-foot (18 m) busts of U.S. presidents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln at Mount Rushmore in South Dakota.",
+      "image": {
+        "src": "data/images/4b156d9f298b4d03.jpg",
+        "alt": "Bust (sculpture)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Bust_(sculpture)",
+        "trustTier": "encyclopedic",
+        "date": "10-31"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:38.140Z",
+      "hash": "b1ed0ea6b60b60e4",
+      "expires": "2026-11-03T14:24:38.140Z"
+    },
+    {
+      "id": "onthisday:10-31:1517:f9cd7f8aaf4d93bf",
+      "type": "history",
+      "title": "1517: Martin Luther",
+      "summary": "Martin Luther posted his Ninety-five Theses onto the door of All Saints' Church in Wittenberg, marking the beginning of the Protestant Reformation.",
+      "body": "Martin Luther posted his Ninety-five Theses onto the door of All Saints' Church in Wittenberg, marking the beginning of the Protestant Reformation.",
+      "image": {
+        "src": "data/images/77202161ae7d2c1d.jpg",
+        "alt": "Martin Luther",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Martin_Luther",
+        "trustTier": "encyclopedic",
+        "date": "10-31"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:38.140Z",
+      "hash": "97da079ab264e158",
+      "expires": "2026-11-03T14:24:38.140Z"
+    },
+    {
+      "id": "wikipedia:54988896",
+      "type": "wiki",
+      "title": "River Bain Hydro",
+      "summary": "The River Bain Hydro is a hydroelectric generator on the River Bain in the village of Bainbridge, North Yorkshire, England. Its screw turbine powers most of the properties in the village, with excess electricity being sold off to the National Grid. It was opened in 2011 with an installed capacity of 45 kW and is…",
+      "body": "The River Bain Hydro is a hydroelectric generator on the River Bain in the village of Bainbridge, North Yorkshire, England. Its screw turbine powers most of the properties in the village, with excess electricity being sold off to the National Grid. It was opened in 2011 with an installed capacity of 45 kW and is expected to last 40 years. It is a low-demand ecofriendly scheme.",
+      "image": {
+        "src": "data/images/6214c8afe01835a5.jpg",
+        "alt": "River Bain Hydro",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/River_Bain_Hydro",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:38.108Z",
+      "hash": "120a3e2be9addb38"
+    },
+    {
+      "id": "wikipedia:62773398",
+      "type": "wiki",
+      "title": "Liberty Building (Casablanca)",
+      "summary": "The Liberty Building, also known as \"17 Stories\", is a 17-story residential tower in Casablanca, Morocco. It was designed by Léonard Morandi and built between 1949 and 1951. At the time of its construction, it was one of the tallest buildings on the African continent.",
+      "body": "The Liberty Building, also known as \"17 Stories\", is a 17-story residential tower in Casablanca, Morocco. It was designed by Léonard Morandi and built between 1949 and 1951. At the time of its construction, it was one of the tallest buildings on the African continent.",
+      "image": {
+        "src": "data/images/ccd5c2d03f2c66cc.jpg",
+        "alt": "Liberty Building (Casablanca)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Liberty_Building_(Casablanca)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:37.902Z",
+      "hash": "d3d86cf53d1c04a2"
+    },
+    {
+      "id": "wikipedia:21354194",
+      "type": "wiki",
+      "title": "Cabinet of Tonga",
+      "summary": "The Cabinet of Tonga is the cabinet of the government of the Kingdom of Tonga. It is composed primarily of the ministers of government. The latter, including the prime minister, are appointed by the monarch. The governor of Ha'apai and the governor of Vava'u also serve on the Cabinet ex officio. When in session and…",
+      "body": "The Cabinet of Tonga is the cabinet of the government of the Kingdom of Tonga. It is composed primarily of the ministers of government. The latter, including the prime minister, are appointed by the monarch. The governor of Ha'apai and the governor of Vava'u also serve on the Cabinet ex officio. When in session and presided over by the monarch, the Cabinet is known as the Privy Council.",
+      "image": {
+        "src": "data/images/51453390c6d281be.png",
+        "alt": "Cabinet of Tonga",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cabinet_of_Tonga",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:37.195Z",
+      "hash": "9fe9223fed24cdec"
+    },
+    {
+      "id": "wikipedia:23528756",
+      "type": "wiki",
+      "title": "Profitis Ilias Greek Orthodox Church",
+      "summary": "Profitis Ilias Greek Orthodox Church is a Greek Orthodox church located outside Endeavour, Saskatchewan, Canada, and dedicated to the Prophet Elias. It was built in 2008 on the private property of Ilias Barlas.",
+      "body": "Profitis Ilias Greek Orthodox Church is a Greek Orthodox church located outside Endeavour, Saskatchewan, Canada, and dedicated to the Prophet Elias. It was built in 2008 on the private property of Ilias Barlas.",
+      "image": {
+        "src": "data/images/b8452e2e6f759546.jpg",
+        "alt": "Profitis Ilias Greek Orthodox Church",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Profitis_Ilias_Greek_Orthodox_Church",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-10-31T14:24:37.084Z",
+      "hash": "310e6e377fb082f4"
+    },
     {
       "id": "chess:UQyjd",
       "type": "chess",
@@ -11456,1118 +12561,6 @@
       "fetchedAt": "2026-10-20T13:26:24.241Z",
       "hash": "fb98dcce3635a841",
       "expires": "2027-01-18T13:26:24.241Z"
-    },
-    {
-      "id": "article:46f3f44249e41e22",
-      "type": "article",
-      "title": "Riga Ghetto and Latvian Holocaust Museum in Rīga, Latvia",
-      "summary": "Established and opened in 2010 by the Shamir religious community with assistance from the Riga City Council, the Riga Ghetto and Latvian Holocaust Museum is located in the district of Spīķeri, close to its border with Latgale district, the site of the former Jewish ghetto. Immediately noticeable…",
-      "body": "Established and opened in 2010 by the Shamir religious community with assistance from the Riga City Council, the Riga Ghetto and Latvian Holocaust Museum is located in the district of Spīķeri, close to its border with Latgale district, the site of the former Jewish ghetto. Immediately noticeable upon approaching the site is the reconstruction of the ghetto's barbed wire fencing and cobbled stone streets. Next to this is a memorial wall, inscribed with the names of close to 70,000 Jewish casualties, both native and foreign, who perished in Latvia during World War II. The railway carriage in…",
-      "image": {
-        "src": "data/images/d2492ac77f64b496.jpg",
-        "alt": "Riga Ghetto and Latvian Holocaust Museum in Rīga, Latvia",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/riga-ghetto-and-latvian-holocaust-museum",
-        "trustTier": "publication",
-        "date": "Mon, 19 Oct 2026 14:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "memorials",
-        "holocaust"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:26:23.852Z",
-      "hash": "46f3f44249e41e22"
-    },
-    {
-      "id": "article:02693ec387c1e50c",
-      "type": "article",
-      "title": "Panpsychism holds that everything is conscious to some degree. To make sense of this elusive theory, consider the principle of sufficient reason",
-      "summary": "Panpsychism holds that everything is conscious to some degree. To make sense of this elusive theory, consider the principle of sufficient reason",
-      "body": "Panpsychism holds that everything is conscious to some degree. To make sense of this elusive theory, consider the principle of sufficient reason",
-      "source": {
-        "name": "Arts & Letters Daily",
-        "url": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:26:23.342Z",
-      "hash": "02693ec387c1e50c"
-    },
-    {
-      "id": "poetry:9067562dee1dc8d1",
-      "type": "poem",
-      "title": "Fill the Goblet Again. A Song",
-      "summary": "Fill the goblet again! for I never before\nFelt the glow which now gladdens my heart to its core;\nLet us drink!--who would not?--since, through life's varied round,\nIn the goblet alone no deception is found.",
-      "body": "Fill the goblet again! for I never before\nFelt the glow which now gladdens my heart to its core;\nLet us drink!--who would not?--since, through life's varied round,\nIn the goblet alone no deception is found.\n\nI have tried in its turn all that life can supply;\nI have bask'd in the beam of a dark rolling eye;\nI have lov'd!--who has not?--but what heart can declare\nThat Pleasure existed while Passion was there?\n\nIn the days of my youth, when the heart's in its spring,\nAnd dreams that Affection can never take wing,\nI had friends!--who has not?--but what tongue will avow,\nThat friends, rosy wine! are so faithful as thou?\n\nThe heart of a mistress some boy may estrange,\nFriendship shifts with the sunbeam--thou never canst change;\nThou grow'st old--who does not?--but on earth what appears,\nWhose virtues, like thine, still increase with its years?\n\nYet if blest to the utmost that Love can bestow,\nShould a rival bow down to our idol below,\nWe are jealous!--who's not?--thou hast no such alloy;\nFor the more that enjoy thee, the more we enjoy.\n\nThen the season of youth and its vanities past,\nFor refuge we fly to the goblet at last;\nThere we find--do we not?--in the flow of the soul,\nThat truth, as of yore, is confined to the bowl.\n\nWhen the box of Pandora was open'd on earth,\nAnd Misery's triumph commenc'd over Mirth,\nHope was left,--was she not?--but the goblet we kiss,\nAnd care not for Hope, who are certain of bliss.\n\nLong life to the grape! for when summer is flown,\nThe age of our nectar shall gladden our own:\nWe must die--who shall not?--May our sins be forgiven,\nAnd Hebe shall never be idle in Heaven.",
-      "source": {
-        "name": "George Gordon, Lord Byron · PoetryDB",
-        "url": "https://poetrydb.org/title/Fill%20the%20Goblet%20Again.%20A%20Song",
-        "trustTier": "community",
-        "author": "George Gordon, Lord Byron"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:26:20.364Z",
-      "hash": "9067562dee1dc8d1"
-    },
-    {
-      "id": "poetry:4ddf76f472ff406b",
-      "type": "poem",
-      "title": "Holy-Cross Day",
-      "summary": "Fee, faw, fum! bubble and squeak!\nBlessedest Thursday's the fat of the week.\nRumble and tumble, sleek and rough,\nStinking and savoury, smug and gruff,",
-      "body": "Fee, faw, fum! bubble and squeak!\nBlessedest Thursday's the fat of the week.\nRumble and tumble, sleek and rough,\nStinking and savoury, smug and gruff,\nTake the church-road, for the bell's due chime\nGives us the summons--'tis sermon-time!\n\nBoh, here's Barnabas! Job, that's you?\nUp stumps Solomon--bustling too?\nShame, man! greedy beyond your years\nTo handsel the bishop's shaving-shears?\nFair play's a jewel! Leave friends in the lurch?\nStand on a line ere you start for the church!\n\nHiggledy piggledy, packed we lie,\nRats in a hamper, swine in a stye,\nWasps in a bottle, frogs in a sieve,\nWorms in a carcase, fleas in a sleeve.\nHist! square shoulders, settle your thumbs\nAnd buzz for the bishop--here he comes.\n\nBow, wow, wow--a bone for the dog!\nI liken his Grace to an acorned hog.\nWhat, a boy at his side, with the bloom of a lass,\nTo help and handle my lord's hour-glass!\nDidst ever behold so lithe a chine?\nHis cheek hath laps like a fresh-singed swine.\n\nAaron's asleep--shove hip to haunch,\nOr somebody deal him a dig in the paunch!\nLook at the purse with the tassel and knob\nAnd the gown with the angel and thingumbob!\nWhat's he at, quotha? reading his text!\nNow you've his curtsey--and what comes next?\n\nSee to our converts--you doomed black dozen--\nNo stealing away--nor cog nor cozen!\nYou five, that were thieves, deserve it fairly;\nYou seven, that were beggars, will live less sparely;\nYou took your turn and dipped in the hat,\nGot fortune--and fortune gets you; mind that!\n\nGive your first groan--compunction's at work\nAnd soft! from a Jew you mount to a Turk.\nLo, Micah,--the selfsame beard on chin\nHe was four times already converted in!\nHere's a knife, clip quick--it's a sign of grace--\nOr he ruins us all with his hanging-face.\n\nWhom now is the bishop a-leering at?\nI know a point where his text falls pat.\nI'll tell him to-morrow, a word just now\nWent to my heart and made me vow\nI meddle no more with the worst of trades--\nLet somebody else pay his serenades.\n\nGroan all together now, whee-hee-hee!\nIt's a-work, it's a-work, ah, woe is me!\nIt began, when a herd of us, picked and placed,\nWere spurred through the Corso, stripped to the waist;\nJew brutes, with sweat and blood well spent\nTo usher in worthily Christian Lent.\n\nIt grew, when the hangman entered our bounds,\nYelled, pricked us out to his church like hounds:\nIt got to a pitch, when the hand indeed\nWhich gutted my purse would throttle my creed:\nAnd it overflows when, to even the odd,\nMen I helped to their sins help me to their God.\n\nBut now, while the scapegoats leave our flock,\nAnd the rest sit silent and count the clock,\nSince forced to muse the appointed time\nOn these precious facts and truths sublime,\nLet us fitly employ it, under our breath,\nIn saying Ben Ezra's Song of Death.\n\nFor Rabbi Ben Ezra, the night he died,\nCalled sons and sons' sons to his side,\nAnd spoke, \"This world has been harsh and strange;\nSomething is wrong: there needeth change.\nBut what, or where? at the last or first?\nIn one point only we sinned, at worst.\n\n\"The Lord will have mercy on Jacob yet,\nAnd again in his border see Israel set.\nWhen Judah beholds Jerusalem,\nThe stranger-seed shall be joined to them:\nTo Jacob's House shall the Gentiles cleave.\nSo the Prophet saith and his sons believe.\n\n\"Ay, the children of the chosen race\nShall carry and bring them to their place:\nIn the land of the Lord shall lead the same\nBondsmen and handmaids. Who shall blame,\nWhen the slaves enslave, the oppressed ones o'er\nThe oppressor triumph for evermore?\n\n\"God spoke, and gave us the word to keep,\nBade never fold the hands nor sleep\n'Mid a faithless world, at watch and ward,\nTill Christ at the end relieve our guard.\nBy His servant Moses the watch was set:\nThough near upon cock-crow, we keep it yet.\n\n\"Thou! if thou wast He, who at mid-watch came,\nBy the starlight, naming a dubious name!\nAnd if, too heavy with sleep--too rash\nWith fear--O Thou, if that martyr-gash\nFell on Thee coming to take thine own,\nAnd we gave the Cross, when we owed the Throne--\n\n\"Thou art the Judge. We are bruised thus.\nBut, the Judgment over,  join sides with us!\nThine too is the cause! and not more thine\nThan ours, is the work of these dogs and swine,\nWhose life laughs through and spits at their creed!\nWho maintain Thee in word, and defy Thee in deed!\n\n\"We withstood Christ then? Be mindful how\nAt least we withstand Barabbas now!\nWas our outrage sore? But the worst we spared,\nTo have called these--Christians, had we dared!\nLet defiance to them pay mistrust of Thee,\nAnd Rome make amends for Calvary!\n\n\"By the torture, prolonged from age to age,\nBy the infamy, Israel's heritage,\nBy the Ghetto's plague, by the garb's disgrace,\nBy the badge of shame, by the felon's place,\nBy the branding-tool, the bloody whip,\nAnd the summons to Christian fellowship,--\n\n\"We boast our proof that at least the Jew\nWould wrest Christ's name from the Devil's crew.\nThy face took never so deep a shade\nBut we fought them in it, God our aid!\nA trophy to bear, as we march, thy band,\nSouth, East, and on to the Pleasant Land!\"",
-      "source": {
-        "name": "Robert Browning · PoetryDB",
-        "url": "https://poetrydb.org/title/Holy-Cross%20Day",
-        "trustTier": "community",
-        "author": "Robert Browning"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:26:20.364Z",
-      "hash": "4ddf76f472ff406b"
-    },
-    {
-      "id": "apod:2011-06-01",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap110601.html",
-        "trustTier": "encyclopedic",
-        "date": "2011-06-01"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:16.704Z",
-      "hash": "f8c6399bf261bc71"
-    },
-    {
-      "id": "apod:2025-07-11",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© Clear Skies"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap250711.html",
-        "trustTier": "encyclopedic",
-        "date": "2025-07-11"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:16.704Z",
-      "hash": "d3b776c794027bdc"
-    },
-    {
-      "id": "apod:2023-10-23",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap231023.html",
-        "trustTier": "encyclopedic",
-        "date": "2023-10-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:16.704Z",
-      "hash": "e5a4fe5782bf8d8a"
-    },
-    {
-      "id": "apod:1995-10-09",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap951009.html",
-        "trustTier": "encyclopedic",
-        "date": "1995-10-09"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:16.704Z",
-      "hash": "869cd872ae0c674d"
-    },
-    {
-      "id": "apod:2000-03-11",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap000311.html",
-        "trustTier": "encyclopedic",
-        "date": "2000-03-11"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:16.704Z",
-      "hash": "74cdb5c65557e9ea"
-    },
-    {
-      "id": "onthisday:10-20:1969:27383eba09d0ac00",
-      "type": "history",
-      "title": "1969: SLAC National Accelerator Laboratory",
-      "summary": "Experimental results from the Stanford Linear Accelerator Center were published showing that protons were composed of smaller particles, the first evidence of quarks.",
-      "body": "Experimental results from the Stanford Linear Accelerator Center were published showing that protons were composed of smaller particles, the first evidence of quarks.",
-      "image": {
-        "src": "data/images/7592b274ade688eb.jpg",
-        "alt": "SLAC National Accelerator Laboratory",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory",
-        "trustTier": "encyclopedic",
-        "date": "10-20"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:08.314Z",
-      "hash": "412bdd220bda80f3",
-      "expires": "2026-10-23T13:26:08.314Z"
-    },
-    {
-      "id": "onthisday:10-20:1967:26eeaf6d32fbde51",
-      "type": "history",
-      "title": "1967: Patterson–Gimlin film",
-      "summary": "Roger Patterson and Robert Gimlin filmed an unidentified subject, which they claimed was Bigfoot, at Six Rivers National Forest in California.",
-      "body": "Roger Patterson and Robert Gimlin filmed an unidentified subject, which they claimed was Bigfoot, at Six Rivers National Forest in California.",
-      "image": {
-        "src": "data/images/6347325d32d3b83d.jpg",
-        "alt": "Patterson–Gimlin film",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film",
-        "trustTier": "encyclopedic",
-        "date": "10-20"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:08.314Z",
-      "hash": "f5b0726794f2b898",
-      "expires": "2026-10-23T13:26:08.314Z"
-    },
-    {
-      "id": "onthisday:10-20:2022:2448aee74962f2a2",
-      "type": "history",
-      "title": "2022: 2022 Chadian protests",
-      "summary": "Protests broke out across Chad after President Mahamat Déby (pictured) declared his intentions to extend his rule by another two years.",
-      "body": "Protests broke out across Chad after President Mahamat Déby (pictured) declared his intentions to extend his rule by another two years.",
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/2022_Chadian_protests",
-        "trustTier": "encyclopedic",
-        "date": "10-20"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:08.314Z",
-      "hash": "540f78799549a32c",
-      "expires": "2026-10-23T13:26:08.314Z"
-    },
-    {
-      "id": "wikipedia:17163853",
-      "type": "wiki",
-      "title": "Huancan District",
-      "summary": "Huancan District is one of twenty-eight districts of the province Huancayo in Peru.",
-      "body": "Huancan District is one of twenty-eight districts of the province Huancayo in Peru.",
-      "image": {
-        "src": "data/images/3cc1807aa937bfa1.jpg",
-        "alt": "Huancan District",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Huancan_District",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:08.272Z",
-      "hash": "f77a3690e0986bd5"
-    },
-    {
-      "id": "wikipedia:26144360",
-      "type": "wiki",
-      "title": "Oxnard Oil Field",
-      "summary": "The Oxnard Oil Field is a large and productive oil field in and adjacent to the city of Oxnard, in Ventura County, California, in the United States. Its conventional oil reserves are close to exhaustion, with only an estimated one percent of the original oil recoverable with current technology remaining: 434,000…",
-      "body": "The Oxnard Oil Field is a large and productive oil field in and adjacent to the city of Oxnard, in Ventura County, California, in the United States. Its conventional oil reserves are close to exhaustion, with only an estimated one percent of the original oil recoverable with current technology remaining: 434,000 barrels (69,000 m3) out of an original 43.5 million. However, the reservoir includes an enormous deposit of tar sands, ultra-heavy oil classed as an unconventional petroleum reserve, and potentially containing 600 million barrels (95,000,000 m3) of oil equivalent, should it become economically feasible to extract. Present operators on the field include Tri-Valley Oil & Gas Co., Anterra Energy Services, Inc., Chase Production Co., and Occidental Petroleum through its Vintage Production subsidiary. As of the beginning of 2009, there were 34 active wells on the field.",
-      "image": {
-        "src": "data/images/9903d91d124bb7cd.jpg",
-        "alt": "Oxnard Oil Field",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Oxnard_Oil_Field",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:07.478Z",
-      "hash": "6a42d986f72d4eec"
-    },
-    {
-      "id": "wikipedia:37366510",
-      "type": "wiki",
-      "title": "1998 Metro Manila Film Festival",
-      "summary": "The 24th Metro Manila Film Festival was held in 1998.",
-      "body": "The 24th Metro Manila Film Festival was held in 1998.",
-      "image": {
-        "src": "data/images/7ace0901c3c8a529.jpg",
-        "alt": "1998 Metro Manila Film Festival",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/1998_Metro_Manila_Film_Festival",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:07.139Z",
-      "hash": "51c814536eb8b12c"
-    },
-    {
-      "id": "wikipedia:37353",
-      "type": "wiki",
-      "title": "Etruscan civilization",
-      "summary": "The Etruscans created a civilization in Etruria, in ancient Italy, with a common language and culture, and formed a federation of city-states. After adjacent lands had been conquered, its territory covered, at its greatest extent, roughly what is now Tuscany, western Umbria and northern Lazio, as well as what are now…",
-      "body": "The Etruscans created a civilization in Etruria, in ancient Italy, with a common language and culture, and formed a federation of city-states. After adjacent lands had been conquered, its territory covered, at its greatest extent, roughly what is now Tuscany, western Umbria and northern Lazio, as well as what are now the Po Valley, Emilia-Romagna, south-eastern Lombardy, southern Veneto and western Campania.",
-      "image": {
-        "src": "data/images/059b1939071d6b05.png",
-        "alt": "Etruscan civilization",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Etruscan_civilization",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:26:06.777Z",
-      "hash": "a039f0d681f528d5"
-    },
-    {
-      "id": "chess:VlHF6",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1967. Find the best line for white.",
-      "body": "Solution, from → to: c5→a6, c7→b6, d1→d6, b6→a7, a3→b5. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "r3r3/1pk2pp1/p6p/2N2b2/1P6/N4P2/Pb4PP/2RR2K1 w - - 1 1",
-        "lastMove": "c3b2"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/VlHF6",
-        "trustTier": "community",
-        "date": "Mon, 19 Oct 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "discoveredcheck",
-        "long",
-        "matein3"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-19T15:23:38.333Z",
-      "hash": "c302122be73db8f2"
-    },
-    {
-      "id": "trivia:b743338da6202666",
-      "type": "trivia",
-      "title": "Which British female singer and songwriter was sampled Eminem's hit single 'Stan'?",
-      "summary": "Is it: Lily Allen · Dido · Adele · Leona Lewis?",
-      "body": "Answer: Dido.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "music"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:34.792Z",
-      "hash": "b743338da6202666"
-    },
-    {
-      "id": "trivia:d1c9cc19d3826a6f",
-      "type": "trivia",
-      "title": "What do the video games No Man’s Sky and Mighty No. 9 have in common?",
-      "summary": "Is it: Both were crowdfunded. · Both were developed by indie studios. · Both were released for the PlayStation 3. · Both were announced in 2013.?",
-      "body": "Answer: Both were announced in 2013..",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-19T15:23:34.792Z",
-      "hash": "d1c9cc19d3826a6f"
-    },
-    {
-      "id": "trivia:b718b2598b2dc031",
-      "type": "trivia",
-      "title": "What year did the television company BBC officially launch the channel BBC One?",
-      "summary": "Is it: 1932 · 1955 · 1948 · 1936?",
-      "body": "Answer: 1936.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "television"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:34.792Z",
-      "hash": "b718b2598b2dc031"
-    },
-    {
-      "id": "trivia:3fc16755bdde5ec4",
-      "type": "trivia",
-      "title": "The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.",
-      "summary": "True — or false?",
-      "body": "Answer: False.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:34.791Z",
-      "hash": "3fc16755bdde5ec4"
-    },
-    {
-      "id": "comic:smbc:7b8f1c1873400b47",
-      "type": "comic",
-      "title": "Cells",
-      "summary": "Really should've gone for even more closeup on panel 2.",
-      "image": {
-        "src": "data/images/6876a60b3998ca5f.png",
-        "alt": "Really should've gone for even more closeup on panel 2.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/cells",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Mon, 19 Oct 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-19T15:23:33.691Z",
-      "hash": "7b8f1c1873400b47"
-    },
-    {
-      "id": "comic:smbc:97d876c281a74147",
-      "type": "comic",
-      "title": "Reactions",
-      "summary": "Meanwhile the Engineers are just lighting themselves on fire to see what happens.",
-      "image": {
-        "src": "data/images/41bf8b0756c17352.png",
-        "alt": "Meanwhile the Engineers are just lighting themselves on fire to see what happens.",
-        "credit": "SMBC · Zach Weinersmith"
-      },
-      "source": {
-        "name": "Saturday Morning Breakfast Cereal",
-        "url": "https://www.smbc-comics.com/comic/reactions",
-        "trustTier": "community",
-        "author": "Zach Weinersmith",
-        "date": "Sun, 18 Oct 2026"
-      },
-      "tags": [
-        "comic",
-        "smbc",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-19T15:23:33.691Z",
-      "hash": "97d876c281a74147"
-    },
-    {
-      "id": "comic:xkcd:1131",
-      "type": "comic",
-      "title": "Math",
-      "summary": "As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.",
-      "body": "[[A stacked bar chart representing the distribution of electoral votes for a US presidential election. The unusually darker-skinned, blessed, beautiful, twisted, Democratic candidate has 313 votes, while the much more pallid, glove-named Republican candidate has 225. The forecast of this result is noted, with the actual results being in the center of the predicted zone.]] Breaking: To surprise of pundits, numbers continue to be best system for determining which of two things is larger. {{Title text: As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.}}",
-      "image": {
-        "src": "data/images/62ca27bad0c90625.png",
-        "alt": "As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.",
-        "credit": "xkcd #1131 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/1131/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2012-11-07"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-19T15:23:33.574Z",
-      "hash": "b7a9f13c7dc9c2ed"
-    },
-    {
-      "id": "comic:xkcd:3313",
-      "type": "comic",
-      "title": "Fusion Device",
-      "summary": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
-      "image": {
-        "src": "data/images/d1fd71bd64184428.png",
-        "alt": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
-        "credit": "xkcd #3313 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/3313/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2026-10-19"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-19T15:23:33.478Z",
-      "hash": "862c9f8febedb3ba"
-    },
-    {
-      "id": "craft:90a1df3d8657c92a",
-      "type": "craft",
-      "title": "Robin F. Williams Suspends the Allure and Horror of Technology in an Endless Loop",
-      "summary": "Robin F. Williams extrapolates on the ways humanity and machines could merge, capturing a strange techno-dystopia.",
-      "body": "Robin F. Williams extrapolates on the ways humanity and machines could merge, capturing a strange techno-dystopia.",
-      "image": {
-        "src": "data/images/e203e6b90af045e1.jpg",
-        "alt": "Robin F. Williams Suspends the Allure and Horror of Technology in an Endless Loop",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/",
-        "trustTier": "publication",
-        "author": "Grace Ebert",
-        "date": "Fri, 16 Oct 2026 14:02:1"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "painting",
-        "pop culture",
-        "portraits",
-        "robin f. williams",
-        "surreal",
-        "technology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:33.355Z",
-      "hash": "90a1df3d8657c92a"
-    },
-    {
-      "id": "craft:0a137d0be30d4aae",
-      "type": "craft",
-      "title": "Come Face-to-Face with the Lion Nebula in the James Webb Space Telescope’s Portrait",
-      "summary": "The shape is formed by the remains of a dying star with a very dense stellar core that is shedding its outer layers.",
-      "body": "The shape is formed by the remains of a dying star with a very dense stellar core that is shedding its outer layers.",
-      "image": {
-        "src": "data/images/9621bb6d060f4165.jpg",
-        "alt": "Come Face-to-Face with the Lion Nebula in the James Webb Space Telescope’s Portrait",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Mon, 19 Oct 2026 13:39:5"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "photography",
-        "science",
-        "astronomy",
-        "james webb space telescope",
-        "nasa",
-        "space",
-        "stars"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:33.355Z",
-      "hash": "0a137d0be30d4aae"
-    },
-    {
-      "id": "craft:162dc7e0bab890a5",
-      "type": "craft",
-      "title": "Improving a Brain-Computer Interface",
-      "summary": "Young engineer Aarav Sharma is still at work developing better brain-computer interfaces. The post Improving a Brain-Computer Interface appeared first on Make: DIY Projects and Ideas for Makers.",
-      "body": "Young engineer Aarav Sharma is still at work developing better brain-computer interfaces. The post Improving a Brain-Computer Interface appeared first on Make: DIY Projects and Ideas for Makers.",
-      "image": {
-        "src": "data/images/c24b0e57b32707ef.jpg",
-        "alt": "Improving a Brain-Computer Interface",
-        "credit": "Make:"
-      },
-      "source": {
-        "name": "Make:",
-        "url": "https://makezine.com/article/science/health-science/improving-a-brain-computer-interface/",
-        "trustTier": "publication",
-        "author": "Sam Freeman",
-        "date": "Mon, 19 Oct 2026 15:00:0"
-      },
-      "tags": [
-        "making",
-        "diy",
-        "craft",
-        "biohacking",
-        "science",
-        "brain-computer interface",
-        "controller",
-        "makers",
-        "young makers"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:33.080Z",
-      "hash": "162dc7e0bab890a5"
-    },
-    {
-      "id": "word:c2ff7fb2c6b82c2a",
-      "type": "word",
-      "title": "serendipity",
-      "summary": "Noun: The phenomenon of making an unplanned, fortunate discovery through a combination of unexpected circumstances and insightful recognition.",
-      "body": "1. The phenomenon of making an unplanned, fortunate discovery through a combination of unexpected circumstances and insightful recognition.\n2. An unsought, unintended or unexpected, but fortunate, discovery or learning experience that occurs by accident.\n3. The occurrence and development of events by chance in a happy or beneficial way.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/serendipity",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-19T15:23:32.959Z",
-      "hash": "c2ff7fb2c6b82c2a"
-    },
-    {
-      "id": "word:e7feed4c67ffa8fb",
-      "type": "word",
-      "title": "sophrosyne",
-      "summary": "Noun: The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "body": "1. The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/sophrosyne",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-19T15:23:32.553Z",
-      "hash": "e7feed4c67ffa8fb"
-    },
-    {
-      "id": "word:5d40b1bdb1ee1e26",
-      "type": "word",
-      "title": "mellifluous",
-      "summary": "Adjective: Flowing like honey.",
-      "body": "1. Flowing like honey.\n2. Sweet, smooth and musical; pleasant to hear (generally used of a person's voice, tone or writing style).",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/mellifluous",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Adjective"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-19T15:23:31.643Z",
-      "hash": "5d40b1bdb1ee1e26"
-    },
-    {
-      "id": "quote:e4b2b1256eb55789",
-      "type": "quote",
-      "title": "“Always be a first rate version of yourself and not a second rate version of someone else.”",
-      "summary": "— Judy Garland",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Judy_Garland",
-        "trustTier": "community",
-        "author": "Judy Garland"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-19T15:23:31.520Z",
-      "hash": "e4b2b1256eb55789"
-    },
-    {
-      "id": "quote:cbc9b93cc4fedaa7",
-      "type": "quote",
-      "title": "“There is no significance in life without struggle.”",
-      "summary": "— Lolly Daskal",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Lolly_Daskal",
-        "trustTier": "community",
-        "author": "Lolly Daskal"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-19T15:23:31.520Z",
-      "hash": "cbc9b93cc4fedaa7"
-    },
-    {
-      "id": "quote:ef89fe37d6317468",
-      "type": "quote",
-      "title": "“Learn to value yourself, which means: fight for your happiness.”",
-      "summary": "— Ayn Rand",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Ayn_Rand",
-        "trustTier": "community",
-        "author": "Ayn Rand"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-19T15:23:31.520Z",
-      "hash": "ef89fe37d6317468"
-    },
-    {
-      "id": "article:de88cbb70bf4dac2",
-      "type": "article",
-      "title": "Singularities: von Neumann, Good, Vinge, …",
-      "summary": "The OED gives citations for singularity going back to the 14th century, e.g. this example from 1398 in the sense \"The fact or condition of being alone or apart from others; solitariness\": Men vsyd to ete togyders in open place, leest syngularite schuld brede lechery. A mathematical singularity, as…",
-      "body": "The OED gives citations for singularity going back to the 14th century, e.g. this example from 1398 in the sense \"The fact or condition of being alone or apart from others; solitariness\": Men vsyd to ete togyders in open place, leest syngularite schuld brede lechery. A mathematical singularity, as Wikipedia tells us,\"is a point at […]",
-      "source": {
-        "name": "Language Log",
-        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74439&utm_source=rss&utm_medium=rss&utm_campaign=singularities-von-neumann-good-vinge",
-        "trustTier": "community",
-        "author": "Mark Liberman",
-        "date": "Sat, 17 Oct 2026 14:48:2"
-      },
-      "tags": [
-        "linguistics",
-        "language",
-        "artificial intelligence"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:27.669Z",
-      "hash": "de88cbb70bf4dac2"
-    },
-    {
-      "id": "article:c8a14a41cf384bca",
-      "type": "article",
-      "title": "The Best Way to Take Notes",
-      "summary": "The best way to take notes may be the method that uses the least technology. I'll explain why notes still matter and how to learn better with them. The post The Best Way to Take Notes appeared first on Scott H Young.",
-      "body": "The best way to take notes may be the method that uses the least technology. I'll explain why notes still matter and how to learn better with them. The post The Best Way to Take Notes appeared first on Scott H Young.",
-      "source": {
-        "name": "Scott H. Young",
-        "url": "https://www.scotthyoung.com/blog/2026/10/13/best-way-take-notes/",
-        "trustTier": "community",
-        "author": "Scott Young",
-        "date": "Tue, 13 Oct 2026 22:35:1"
-      },
-      "tags": [
-        "learning",
-        "productivity",
-        "ideas",
-        "general"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:24.279Z",
-      "hash": "c8a14a41cf384bca"
-    },
-    {
-      "id": "article:21a4e717ca339e2d",
-      "type": "article",
-      "title": "Nineteen Truths and One Beguiling Lie about Life from 20 Years of The Marginalian",
-      "summary": "It is an odd thing, looking back on your life, trying to recognize in the mirror of memory the people you used to be, finding them strangers: the person who kissed your first kiss, the person who drank your last drink, the person who had your best idea, the person who made your worst mistake, the…",
-      "body": "It is an odd thing, looking back on your life, trying to recognize in the mirror of memory the people you used to be, finding them strangers: the person who kissed your first kiss, the person who drank your last drink, the person who had your best idea, the person who made your worst mistake, the person who over and over mistook fear for love, the person who thought orange was a good idea. Somehow, you have to grow arms long enough to wrap them around all those people and a heart wide enough to hold each of them with… read article",
-      "image": {
-        "src": "data/images/883e21d71aa4711e.jpg",
-        "alt": "Nineteen Truths and One Beguiling Lie about Life from 20 Years of The Marginalian",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/10/18/refiguring/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Sun, 18 Oct 2026 19:11:3"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "ceramics",
-        "figuring",
-        "poetry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:23.474Z",
-      "hash": "21a4e717ca339e2d"
-    },
-    {
-      "id": "article:d50917c45b68297f",
-      "type": "article",
-      "title": "I Turned Myself Into an AI Model",
-      "summary": "Arthur AI is designed to replicate my ideas, not replace me. But a conversation with my digital double left me wondering where the machine ends and the human begins, writes Arthur Brooks.",
-      "body": "Arthur AI is designed to replicate my ideas, not replace me. But a conversation with my digital double left me wondering where the machine ends and the human begins, writes Arthur Brooks.",
-      "image": {
-        "src": "data/images/e59be967cd1bd3e8.jpg",
-        "alt": "I Turned Myself Into an AI Model",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/i-turned-myself-into-an-ai-model",
-        "trustTier": "publication",
-        "author": "Arthur Brooks",
-        "date": "Mon, 19 Oct 2026 15:02:5"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:22.440Z",
-      "hash": "d50917c45b68297f",
-      "expires": "2026-11-18T15:23:22.440Z"
-    },
-    {
-      "id": "article:2d56991742dfcbae",
-      "type": "article",
-      "title": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
-      "summary": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
-      "body": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/bc602d86d24ab83a.jpg",
-        "alt": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
-        "trustTier": "publication",
-        "author": "Henry Culvyhouse",
-        "date": "Mon, 19 Oct 2026 10:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "education"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:22.373Z",
-      "hash": "2d56991742dfcbae",
-      "expires": "2027-01-17T15:23:22.373Z"
-    },
-    {
-      "id": "article:2b56a2d95364dca9",
-      "type": "article",
-      "title": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
-      "summary": "The post Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica.",
-      "body": "The post Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/b9e36327f450d8c7.jpg",
-        "alt": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
-        "trustTier": "publication",
-        "author": "Cassandra Jaramillo",
-        "date": "Mon, 19 Oct 2026 09:30:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "abortion",
-        "health care",
-        "politics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:22.373Z",
-      "hash": "2b56a2d95364dca9",
-      "expires": "2027-01-17T15:23:22.373Z"
-    },
-    {
-      "id": "article:58167159f49786a3",
-      "type": "article",
-      "title": "What I’ve been reading",
-      "summary": "David Stuart, The Four Heavens: A New History of the Ancient Maya. The best book about the ancient Maya that I know of, and also a book about how we keep on discovering more about them. “The model I advocate for here rejects the old idea of the rise and fall of the Maya in […] The post What I’ve…",
-      "body": "David Stuart, The Four Heavens: A New History of the Ancient Maya. The best book about the ancient Maya that I know of, and also a book about how we keep on discovering more about them. “The model I advocate for here rejects the old idea of the rise and fall of the Maya in […] The post What I’ve been reading appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-297",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Mon, 19 Oct 2026 04:29:2"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "books"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-19T15:23:21.589Z",
-      "hash": "58167159f49786a3"
-    },
-    {
-      "id": "greek:9e7f4017b4b6afed",
-      "type": "greek",
-      "title": "ἐν",
-      "summary": "ἐν — “in” · preposition",
-      "body": "Note: takes dative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%90%CE%BD#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "preposition",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-19T15:23:20.301Z",
-      "hash": "9e7f4017b4b6afed"
-    },
-    {
-      "id": "greek:1cbe93511fcb4ae9",
-      "type": "greek",
-      "title": "οὐ",
-      "summary": "οὐ / οὐκ / οὐχ — “not” · adverb",
-      "body": "Note: οὐ before consonants; οὐκ before smooth breathing; οὐχ before rough breathing\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%BF%E1%BD%90#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "adverb",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-19T15:23:20.301Z",
-      "hash": "1cbe93511fcb4ae9"
     },
     {
       "id": "curated:handwriting-beats-typing",

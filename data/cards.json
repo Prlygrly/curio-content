@@ -1,7 +1,876 @@
 {
-  "generatedAt": "2026-10-31T14:25:14.722Z",
+  "generatedAt": "2026-11-01T14:52:12.838Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:fWQJU",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1847. Find the best line for white.",
+      "body": "Solution, from → to: f8→h8, h6→g5, h8→h5, g5→g4, f2→f3. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "5R2/5Bp1/5b1k/4p2p/5p2/6P1/P2rrP1P/5RK1 w - - 0 1",
+        "lastMove": "f5f4"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/fWQJU",
+        "trustTier": "community",
+        "date": "Sun, 01 Nov 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "endgame",
+        "long",
+        "matein3"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-11-01T14:52:06.582Z",
+      "hash": "bf9e74e10f3cd84d"
+    },
+    {
+      "id": "trivia:7e1373fb32a220e5",
+      "type": "trivia",
+      "title": "You can tell the age of a ladybird by counting the spots on his back.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "animals"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-01T14:52:03.608Z",
+      "hash": "7e1373fb32a220e5"
+    },
+    {
+      "id": "trivia:bf063893da1a1ac6",
+      "type": "trivia",
+      "title": "In the movie \"Blade Runner\", what is the term used for human-like androids ?",
+      "summary": "Is it: Skinjobs · Synthetics · Replicants · Cylons?",
+      "body": "Answer: Replicants.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "film"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:52:03.608Z",
+      "hash": "bf063893da1a1ac6"
+    },
+    {
+      "id": "trivia:ac657e081e8b8518",
+      "type": "trivia",
+      "title": "In the \"Archie\" comics, who was Jughead's first girlfriend?",
+      "summary": "Is it: Debbi · Ethel · Margret · Joani?",
+      "body": "Answer: Joani.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "comics"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-11-01T14:52:03.608Z",
+      "hash": "ac657e081e8b8518"
+    },
+    {
+      "id": "trivia:d7a23a20612477da",
+      "type": "trivia",
+      "title": "What is the largest animal currently on Earth?",
+      "summary": "Is it: Colossal Squid · Orca · Blue Whale · Giraffe?",
+      "body": "Answer: Blue Whale.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "science & nature"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:52:03.608Z",
+      "hash": "d7a23a20612477da"
+    },
+    {
+      "id": "comic:smbc:bf0b43acb670855c",
+      "type": "comic",
+      "title": "Help",
+      "summary": "Also how come you never just get a neutral mob?",
+      "image": {
+        "src": "data/images/e6f34044e72c5bd3.png",
+        "alt": "Also how come you never just get a neutral mob?",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/help-4",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 31 Oct 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-01T14:52:02.171Z",
+      "hash": "bf0b43acb670855c"
+    },
+    {
+      "id": "comic:xkcd:2621",
+      "type": "comic",
+      "title": "Mainly Known For",
+      "summary": "Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd's mom?",
+      "image": {
+        "src": "data/images/01f4a69be9aa5333.png",
+        "alt": "Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd's mom?",
+        "credit": "xkcd #2621 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/2621/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2022-05-18"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-01T14:52:01.969Z",
+      "hash": "eb22517c4884cf9c"
+    },
+    {
+      "id": "craft:7ee227b3467fda35",
+      "type": "craft",
+      "title": "17th-Century Embroidery Meets Hand-Carved Wooden Vessels by Aspen Golann",
+      "summary": "Golann creates uniquely sculptural, contemporary iterations of furniture and vessels in a nod to early American craft traditions.",
+      "body": "Golann creates uniquely sculptural, contemporary iterations of furniture and vessels in a nod to early American craft traditions.",
+      "image": {
+        "src": "data/images/b77b64d5a444edcd.jpg",
+        "alt": "17th-Century Embroidery Meets Hand-Carved Wooden Vessels by Aspen Golann",
+        "credit": "Colossal"
+      },
+      "source": {
+        "name": "Colossal",
+        "url": "https://www.thisiscolossal.com/2026/10/aspen-golann-woodworking-embroidery-vessels-sculpture/",
+        "trustTier": "publication",
+        "author": "Kate Mothes",
+        "date": "Fri, 30 Oct 2026 15:09:4"
+      },
+      "tags": [
+        "art",
+        "design",
+        "craft",
+        "art history",
+        "aspen golann",
+        "carving",
+        "embroidery",
+        "furniture",
+        "sculpture",
+        "wood"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-01T14:52:01.534Z",
+      "hash": "7ee227b3467fda35"
+    },
+    {
+      "id": "word:1a5813dc6043406b",
+      "type": "word",
+      "title": "sublime",
+      "summary": "Verb: Synonym of sublimate. To heat (a substance) in a container so as to convert it into a gas which then condenses in solid form on cooler parts of the container; to change (a solid substance) into a gas without breaking down or passing through the liquid state by heating it gently. To obtain or…",
+      "body": "1. Synonym of sublimate. To heat (a substance) in a container so as to convert it into a gas which then condenses in solid form on cooler parts of the container; to change (a solid substance) into a gas without breaking down or passing through the liquid state by heating it gently. To obtain or purify (a substance) in this manner. To raise (someone or an intangible thing) to a state of (especially moral or spiritual) excellence; to exalt.\n2. Synonym of sublimate. To heat (a substance) in a container so as to convert it into a gas which then condenses in solid form on cooler parts of the container; to change (a solid substance) into a gas without breaking down or passing through the liquid state by heating it gently. To obtain or purify (a substance) in this manner.\n3. To heat (a substance) in a container so as to convert it into a gas which then condenses in solid form on cooler parts of the container; to change (a solid substance) into a gas without breaking down or passing through the liquid state by heating it gently.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/sublime",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Verb"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:52:00.982Z",
+      "hash": "1a5813dc6043406b"
+    },
+    {
+      "id": "word:93a66f4a0b17ece4",
+      "type": "word",
+      "title": "paradox",
+      "summary": "Noun: An apparently self-contradictory statement, which can only be true if it is false, and vice versa.",
+      "body": "1. An apparently self-contradictory statement, which can only be true if it is false, and vice versa.\n2. A counterintuitive conclusion or outcome.\n3. A claim that two apparently contradictory ideas are true.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/paradox",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:42.225Z",
+      "hash": "93a66f4a0b17ece4"
+    },
+    {
+      "id": "quote:59eebd0650125c18",
+      "type": "quote",
+      "title": "“Difficult roads often lead to beautiful destinations.”",
+      "summary": "— Unknown",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:41.846Z",
+      "hash": "59eebd0650125c18"
+    },
+    {
+      "id": "quote:033572ebc4822340",
+      "type": "quote",
+      "title": "“Be patient and calm; no one can catch fish in anger.”",
+      "summary": "— Herbert Hoover",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Herbert_Hoover",
+        "trustTier": "community",
+        "author": "Herbert Hoover"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:41.846Z",
+      "hash": "033572ebc4822340"
+    },
+    {
+      "id": "quote:864a653c5b8bc265",
+      "type": "quote",
+      "title": "“Never do to others what you would not like them to do to you.”",
+      "summary": "— Confucius",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Confucius",
+        "trustTier": "community",
+        "author": "Confucius"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:41.846Z",
+      "hash": "864a653c5b8bc265"
+    },
+    {
+      "id": "article:d5d120c581a1d873",
+      "type": "article",
+      "title": "The Mystery of Why Some Drugs Vanish",
+      "summary": "Disappearing versions of pharmaceutical molecules mean scientists can lose the ability to create some drugs, but why? The post The Mystery of Why Some Drugs Vanish appeared first on Nautilus.",
+      "body": "Disappearing versions of pharmaceutical molecules mean scientists can lose the ability to create some drugs, but why? The post The Mystery of Why Some Drugs Vanish appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/e0533827c6fad691.jpg",
+        "alt": "The Mystery of Why Some Drugs Vanish",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/the-mystery-of-why-some-drugs-vanish-1286249/",
+        "trustTier": "publication",
+        "author": "Jake Currie",
+        "date": "Fri, 30 Oct 2026 20:15:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "health"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-01T14:51:30.065Z",
+      "hash": "d5d120c581a1d873"
+    },
+    {
+      "id": "article:4ee1ac3dcd6d6bd3",
+      "type": "article",
+      "title": "“Zombie Bacteria” Might One Day Lurk in the Sewers",
+      "summary": "But they’ll be there to help The post “Zombie Bacteria” Might One Day Lurk in the Sewers appeared first on Nautilus.",
+      "body": "But they’ll be there to help The post “Zombie Bacteria” Might One Day Lurk in the Sewers appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/b301d2d54d94db4c.png",
+        "alt": "“Zombie Bacteria” Might One Day Lurk in the Sewers",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/zombie-bacteria-might-one-day-lurk-in-the-sewers-1286253/",
+        "trustTier": "publication",
+        "author": "Jake Currie",
+        "date": "Fri, 30 Oct 2026 21:30:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "microbiology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-01T14:51:30.065Z",
+      "hash": "4ee1ac3dcd6d6bd3"
+    },
+    {
+      "id": "article:07ce823e59ae089f",
+      "type": "article",
+      "title": "Meteor of Joy: The Young People’s Chorus of New York City Sings Bird Divinations",
+      "summary": "Children know the deepest truths about life, the elemental knowledge we unlearn in the act of living, those inarticulable truths music alone helps us remember. To hear children sing the secret wisdom of the heart is to be in the presence of something truer and more transcendent than any of our…",
+      "body": "Children know the deepest truths about life, the elemental knowledge we unlearn in the act of living, those inarticulable truths music alone helps us remember. To hear children sing the secret wisdom of the heart is to be in the presence of something truer and more transcendent than any of our poems and postulates can touch — the ultimate affirmation of our aliveness, emanating Richard Powers’s beautiful and bittersweet assertion that “the use of music is to remind us how short a time we have a body.” To celebrate twenty years of The Marginalian, composer extraordinaire Paola Prestini set…",
+      "image": {
+        "src": "data/images/70112548547f3572.jpg",
+        "alt": "Meteor of Joy: The Young People’s Chorus of New York City Sings Bird Divinations",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/10/31/meteor-of-joy-paola-prestini/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sat, 31 Oct 2026 18:01:0"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-01T14:51:29.732Z",
+      "hash": "07ce823e59ae089f"
+    },
+    {
+      "id": "article:dbf98f7f2ce4a484",
+      "type": "article",
+      "title": "What My Exorcist Friends Tell Me About Halloween. Plus. . .",
+      "summary": "In today’s Weekend Press: Rod Dreher doesn’t celebrate Halloween. Lenore Skenazy says carve the pumpkins. Suzy Weiss on whether Nicki Minaj is the next press secretary. The Mossad chief makes a rare on-camera appearance. The greatness of early ‘Glee.’ And more!",
+      "body": "In today’s Weekend Press: Rod Dreher doesn’t celebrate Halloween. Lenore Skenazy says carve the pumpkins. Suzy Weiss on whether Nicki Minaj is the next press secretary. The Mossad chief makes a rare on-camera appearance. The greatness of early ‘Glee.’ And more!",
+      "image": {
+        "src": "data/images/0757fbfeaf477cd1.jpg",
+        "alt": "What My Exorcist Friends Tell Me About Halloween. Plus. . .",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/why-i-dont-celebrate-halloween-plus-glee-wicker-nicki-minaj",
+        "trustTier": "publication",
+        "author": "The Free Press",
+        "date": "Sat, 31 Oct 2026 10:01:3"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-01T14:51:29.238Z",
+      "hash": "dbf98f7f2ce4a484",
+      "expires": "2026-12-01T14:51:29.238Z"
+    },
+    {
+      "id": "article:cef9a3cefd809a06",
+      "type": "article",
+      "title": "Disgust and desire. In the 16th century, a woman might carry a peeled apple in her armpit until it absorbed her scent, then give it to her lover",
+      "summary": "Disgust and desire. In the 16th century, a woman might carry a peeled apple in her armpit until it absorbed her scent, then give it to her lover",
+      "body": "Disgust and desire. In the 16th century, a woman might carry a peeled apple in her armpit until it absorbed her scent, then give it to her lover",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://www.wsj.com/arts-culture/books/sniff-and-smell-making-sense-of-scent-f31ead7a?st=xcx29a&reflink=desktopwebshare_permalink",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-01T14:51:28.621Z",
+      "hash": "cef9a3cefd809a06"
+    },
+    {
+      "id": "greek:f34cc1f630b7ffb3",
+      "type": "greek",
+      "title": "ζωή",
+      "summary": "ζωή — “life” · noun",
+      "body": "Note: ἡ ζωή\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B6%CF%89%CE%AE#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_fem_1st"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:26.653Z",
+      "hash": "f34cc1f630b7ffb3"
+    },
+    {
+      "id": "poetry:76cc6d08123e5dba",
+      "type": "poem",
+      "title": "A Private",
+      "summary": "THIS ploughman dead in battle slept out of doors\nMany a frozen night, and merrily\nAnswered staid drinkers, good bedmen, and all\n    bores:",
+      "body": "THIS ploughman dead in battle slept out of doors\nMany a frozen night, and merrily\nAnswered staid drinkers, good bedmen, and all\n    bores:\n\"At Mrs. Greenland's Hawthorn Bush,\" said he,\n\"I slept.\" None knew which bush. Above the\n    town,\nBeyond \"The Drover,\" a hundred spot the down\nIn Wiltshire. And where now at last he sleeps\nMore sound in France--that, too, he secret keeps.",
+      "source": {
+        "name": "Edward Thomas · PoetryDB",
+        "url": "https://poetrydb.org/title/A%20Private",
+        "trustTier": "community",
+        "author": "Edward Thomas"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-01T14:51:26.652Z",
+      "hash": "76cc6d08123e5dba"
+    },
+    {
+      "id": "poetry:6cd9912be608728b",
+      "type": "poem",
+      "title": "Picnic-time",
+      "summary": "It's June ag'in, an' in my soul I feel the fillin' joy\nThat's sure to come this time o' year to every little boy;\nFor, every June, the Sunday-schools at picnics may be seen,\nWhere \"fields beyont the swellin' floods stand dressed in livin'…",
+      "body": "It's June ag'in, an' in my soul I feel the fillin' joy\nThat's sure to come this time o' year to every little boy;\nFor, every June, the Sunday-schools at picnics may be seen,\nWhere \"fields beyont the swellin' floods stand dressed in livin' green\";\nWhere little girls are skeered to death with spiders, bugs, and ants,\nAn' little boys get grass-stains on their go-to meetin' pants.\nIt's June ag'in, an' with it all what happiness is mine -\nThere's goin' to be a picnic, an' I'm goin' to jine!\n\nOne year I jined the Baptists, an' goodness! how it rained!\n(But grampa says that that's the way \"baptizo\" is explained.)\nAnd once I jined the 'Piscopils an' had a heap o' fun -\nBut the boss of all the picnics was the Presbyteriun!\nThey had so many puddin's, sallids, sandwidges, an' pies,\nThat a feller wisht his stummick was as hungry as his eyes!\nOh, yes, the eatin' Presbyteriuns give yer is so fine\nThat when they have a picnic, you bet I'm goin' to jine!\n\nBut at this time the Methodists have special claims on me,\nFor they're goin' to give a picnic on the 21st, D. V.;\nWhy should a liberal universalist like me object\nTo share the joys of fellowship with every friendly sect?\nHowever het'rodox their articles of faith elsewise may be,\nTheir doctrine of fried chick'n is a savin' grace to me!\nSo on the 21st of June, the weather bein' fine,\nThey're goin' to give a picnic, and I'm goin' to jine!",
+      "source": {
+        "name": "Eugene Field · PoetryDB",
+        "url": "https://poetrydb.org/title/Picnic-time",
+        "trustTier": "community",
+        "author": "Eugene Field"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-01T14:51:26.652Z",
+      "hash": "6cd9912be608728b"
+    },
+    {
+      "id": "art:si:ld1-1643399857816-1643399861690-0",
+      "type": "art",
+      "title": "Standing Figure of Thomas Eakins",
+      "summary": "Hirshhorn Museum and Sculpture Garden · 1890s · Sculpture",
+      "body": "Hirshhorn Museum and Sculpture Garden\n1890s · Sculpture",
+      "image": {
+        "src": "data/images/cdf0a4410a51a671.jpg",
+        "alt": "Standing Figure of Thomas Eakins",
+        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.3723",
+        "trustTier": "encyclopedic",
+        "date": "1890s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "sculpture"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-01T14:51:26.352Z",
+      "hash": "33073c6e7de63356"
+    },
+    {
+      "id": "apod:2007-12-04",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap071204.html",
+        "trustTier": "encyclopedic",
+        "date": "2007-12-04"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:23.384Z",
+      "hash": "26578c8c58c4459a"
+    },
+    {
+      "id": "apod:2022-09-01",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Peter Kohlmann"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap220901.html",
+        "trustTier": "encyclopedic",
+        "date": "2022-09-01"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:23.384Z",
+      "hash": "1b21cb2a4265ea83"
+    },
+    {
+      "id": "apod:1997-03-11",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap970311.html",
+        "trustTier": "encyclopedic",
+        "date": "1997-03-11"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:23.384Z",
+      "hash": "53a28237a476a514"
+    },
+    {
+      "id": "apod:2002-05-19",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap020519.html",
+        "trustTier": "encyclopedic",
+        "date": "2002-05-19"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:23.384Z",
+      "hash": "bc7b3c369e044dce"
+    },
+    {
+      "id": "apod:2009-06-03",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap090603.html",
+        "trustTier": "encyclopedic",
+        "date": "2009-06-03"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:23.384Z",
+      "hash": "42fe3a0e852f7bf8"
+    },
+    {
+      "id": "onthisday:11-01:1921:50864a3e2e4f2aad",
+      "type": "history",
+      "title": "1921: Frances Kyle",
+      "summary": "Frances Kyle and Averil Deverell were called to the Bar of Ireland, becoming the first female barristers in Ireland or Great Britain.",
+      "body": "Frances Kyle and Averil Deverell were called to the Bar of Ireland, becoming the first female barristers in Ireland or Great Britain.",
+      "image": {
+        "src": "data/images/1fe0a261f2400483.jpg",
+        "alt": "Frances Kyle",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Frances_Kyle",
+        "trustTier": "encyclopedic",
+        "date": "11-01"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:16.743Z",
+      "hash": "c414736e87514861",
+      "expires": "2026-11-04T14:51:16.743Z"
+    },
+    {
+      "id": "onthisday:11-01:1944:74b92267b391157b",
+      "type": "history",
+      "title": "1944: World War II",
+      "summary": "World War II: An American F-13 Superfortress made the first flight by an Allied aircraft over Tokyo since the Doolittle Raid in April 1942.",
+      "body": "World War II: An American F-13 Superfortress made the first flight by an Allied aircraft over Tokyo since the Doolittle Raid in April 1942.",
+      "image": {
+        "src": "data/images/70964c7afc601aa9.jpg",
+        "alt": "World War II",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/World_War_II",
+        "trustTier": "encyclopedic",
+        "date": "11-01"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:16.743Z",
+      "hash": "0efb716e41e8715d",
+      "expires": "2026-11-04T14:51:16.743Z"
+    },
+    {
+      "id": "onthisday:11-01:1956:e4acd7dd3995bf6d",
+      "type": "history",
+      "title": "1956: Kerala",
+      "summary": "The Indian states Kerala, Andhra Pradesh, and Karnataka were formally created under the States Reorganisation Act.",
+      "body": "The Indian states Kerala, Andhra Pradesh, and Karnataka were formally created under the States Reorganisation Act.",
+      "image": {
+        "src": "data/images/4f83bfc8a8d31f13.jpg",
+        "alt": "Kerala",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Kerala",
+        "trustTier": "encyclopedic",
+        "date": "11-01"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:16.743Z",
+      "hash": "1491336a8ec8319e",
+      "expires": "2026-11-04T14:51:16.743Z"
+    },
+    {
+      "id": "wikipedia:69523499",
+      "type": "wiki",
+      "title": "Rajarshi Bhagyachandra of Manipur",
+      "summary": "Rajarshi Bhagyachandra of Manipur is a 2007 Manipuri documentary film directed by Aribam Syam Sharma. It was produced by Films Division of India. The film was selected in the non-feature section of the Indian Panorama at the 38th International Film Festival of India 2007.",
+      "body": "Rajarshi Bhagyachandra of Manipur is a 2007 Manipuri documentary film directed by Aribam Syam Sharma. It was produced by Films Division of India. The film was selected in the non-feature section of the Indian Panorama at the 38th International Film Festival of India 2007.",
+      "image": {
+        "src": "data/images/9ded7fd6530b79c0.jpg",
+        "alt": "Rajarshi Bhagyachandra of Manipur",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rajarshi_Bhagyachandra_of_Manipur",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:16.716Z",
+      "hash": "8b23666c8687d745"
+    },
+    {
+      "id": "wikipedia:10896766",
+      "type": "wiki",
+      "title": "La Convención province",
+      "summary": "La Convención is the largest of thirteen provinces in the Cusco Region in the southern highlands of Peru.",
+      "body": "La Convención is the largest of thirteen provinces in the Cusco Region in the southern highlands of Peru.",
+      "image": {
+        "src": "data/images/367853da4128f157.jpg",
+        "alt": "La Convención province",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/La_Convenci%C3%B3n_province",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:16.563Z",
+      "hash": "e2f1ae57cff84cc1"
+    },
+    {
+      "id": "wikipedia:48735680",
+      "type": "wiki",
+      "title": "Ramona Siebenhofer",
+      "summary": "Ramona Siebenhofer is a World Cup alpine ski racer from Austria.",
+      "body": "Ramona Siebenhofer is a World Cup alpine ski racer from Austria.",
+      "image": {
+        "src": "data/images/89b29e97a3f00425.jpg",
+        "alt": "Ramona Siebenhofer",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ramona_Siebenhofer",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:16.445Z",
+      "hash": "60529a17a8d3fb87"
+    },
+    {
+      "id": "wikipedia:22009380",
+      "type": "wiki",
+      "title": "Anarpia",
+      "summary": "Anarpia is a genus of moths of the family Crambidae.",
+      "body": "Anarpia is a genus of moths of the family Crambidae.",
+      "image": {
+        "src": "data/images/85e95c5467ef107d.jpg",
+        "alt": "Anarpia",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anarpia",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-01T14:51:12.995Z",
+      "hash": "4447765199da43a5"
+    },
     {
       "id": "chess:7i6QO",
       "type": "chess",
@@ -11671,896 +12540,6 @@
       "difficulty": 3,
       "fetchedAt": "2026-10-21T13:35:54.039Z",
       "hash": "e87acd14b22601fd"
-    },
-    {
-      "id": "poetry:9456fed7df01ad80",
-      "type": "poem",
-      "title": "Ugolino",
-      "summary": "INFERNO 33, 22-75.\nNow had the loophole of that dungeon, still\nWhich bears the name of Famine's Tower from me,\nAnd where 'tis fit that many another will",
-      "body": "INFERNO 33, 22-75.\n\nNow had the loophole of that dungeon, still\nWhich bears the name of Famine's Tower from me,\nAnd where 'tis fit that many another will\n\nBe doomed to linger in captivity,\nShown through its narrow opening in my cell\n'Moon after moon slow waning', when a sleep,\n\n'That of the future burst the veil, in dream\nVisited me. It was a slumber deep\nAnd evil; for I saw, or I did seem'\n\nTo see, 'that' tyrant Lord his revels keep\nThe leader of the cruel hunt to them,\nChasing the wolf and wolf-cubs up the steep\n\nAscent, that from 'the Pisan is the screen'\nOf 'Lucca'; with him Gualandi came,\nSismondi, and Lanfranchi, 'bloodhounds lean,\n\nTrained to the sport and eager for the game\nWide ranging in his front;' but soon were seen\nThough by so short a course, with 'spirits tame,'\n\nThe father and 'his whelps' to flag at once,\nAnd then the sharp fangs gored their bosoms deep.\nEre morn I roused myself, and heard my sons,\n\nFor they were with me, moaning in their sleep,\nAnd begging bread. Ah, for those darling ones!\nRight cruel art thou, if thou dost not weep\n\nIn thinking of my soul's sad augury;\nAnd if thou weepest not now, weep never more!\nThey were already waked, as wont drew nigh\n\nThe allotted hour for food, and in that hour\nEach drew a presage from his dream. When I\n'Heard locked beneath me of that horrible tower\n\nThe outlet; then into their eyes alone\nI looked to read myself,' without a sign\nOr word. I wept not--turned within to stone.\n\nThey wept aloud, and little Anselm mine,\nSaid--'twas my youngest, dearest little one,--\n\"What ails thee, father? Why look so at thine?\"\n\nIn all that day, and all the following night,\nI wept not, nor replied; but when to shine\nUpon the world, not us, came forth the light\n\nOf the new sun, and thwart my prison thrown\nGleamed through its narrow chink, a doleful sight,\n'Three faces, each the reflex of my own,\n\nWere imaged by its faint and ghastly ray;'\nThen I, of either hand unto the bone,\nGnawed, in my agony; and thinking they\n\nTwas done from sudden pangs, in their excess,\nAll of a sudden raise themselves, and say,\n\"Father! our woes, so great, were yet the less\n\nWould you but eat of us,--twas 'you who clad\nOur bodies in these weeds of wretchedness;\nDespoil them'.\" Not to make their hearts more sad,\n\nI 'hushed' myself. That day is at its close,--\nAnother--still we were all mute. Oh, had\nThe obdurate earth opened to end our woes!\n\nThe fourth day dawned, and when the new sun shone,\nOutstretched himself before me as it rose\nMy Gaddo, saying, \"Help, father! hast thou none\n\nFor thine own child--is there no help from thee?\"\nHe died--there at my feet--and one by one,\nI saw them fall, plainly as you see me.\n\nBetween the fifth and sixth day, ere twas dawn,\nI found 'myself blind-groping o'er the three.'\nThree days I called them after they were gone.\n\nFamine of grief can get the mastery.",
-      "source": {
-        "name": "Percy Bysshe Shelley · PoetryDB",
-        "url": "https://poetrydb.org/title/Ugolino",
-        "trustTier": "community",
-        "author": "Percy Bysshe Shelley"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-21T13:35:54.039Z",
-      "hash": "9456fed7df01ad80"
-    },
-    {
-      "id": "art:si:ld1-1643399857816-1643399858433-0",
-      "type": "art",
-      "title": "Ape Riding a Gnu",
-      "summary": "Hirshhorn Museum and Sculpture Garden · 1830s · Sculpture",
-      "body": "Hirshhorn Museum and Sculpture Garden\n1830s · Sculpture",
-      "image": {
-        "src": "data/images/3b7b07b006d7a616.jpg",
-        "alt": "Ape Riding a Gnu",
-        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.382",
-        "trustTier": "encyclopedic",
-        "date": "1830s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "sculpture"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-21T13:35:53.568Z",
-      "hash": "5d8f0ac20fa15138"
-    },
-    {
-      "id": "art:si:ld1-1643399857816-1643399862407-0",
-      "type": "art",
-      "title": "Crouching Woman",
-      "summary": "Hirshhorn Museum and Sculpture Garden · 1880s · Sculpture",
-      "body": "Hirshhorn Museum and Sculpture Garden\n1880s · Sculpture",
-      "image": {
-        "src": "data/images/8970835628c8cc77.jpg",
-        "alt": "Crouching Woman",
-        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.4342",
-        "trustTier": "encyclopedic",
-        "date": "1880s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "sculpture"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-21T13:35:53.568Z",
-      "hash": "b106fa37b119cfb1"
-    },
-    {
-      "id": "art:si:ld1-1643399857816-1643399859683-1",
-      "type": "art",
-      "title": "A Youth Playing the Pipes",
-      "summary": "Hirshhorn Museum and Sculpture Garden · 1880s · Reliefs (sculptures)",
-      "body": "Hirshhorn Museum and Sculpture Garden\n1880s · Reliefs (sculptures)",
-      "image": {
-        "src": "data/images/19b1c6e81eaa78c7.jpg",
-        "alt": "A Youth Playing the Pipes",
-        "credit": "Hirshhorn Museum and Sculpture Garden · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://hirshhorn.si.edu/collection/artwork/?edanUrl=edanmdm:hmsg_66.1582",
-        "trustTier": "encyclopedic",
-        "date": "1880s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "sculpture",
-        "reliefs (sculptures)"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-21T13:35:53.568Z",
-      "hash": "3d057ff1b612c31e"
-    },
-    {
-      "id": "apod:2002-11-07",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap021107.html",
-        "trustTier": "encyclopedic",
-        "date": "2002-11-07"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:50.355Z",
-      "hash": "5b2feeb2394c7965"
-    },
-    {
-      "id": "apod:2000-07-23",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap000723.html",
-        "trustTier": "encyclopedic",
-        "date": "2000-07-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:50.355Z",
-      "hash": "bec1efa5d57d8bcf"
-    },
-    {
-      "id": "apod:2003-10-06",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap031006.html",
-        "trustTier": "encyclopedic",
-        "date": "2003-10-06"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:50.355Z",
-      "hash": "8ebbb2488199e20f"
-    },
-    {
-      "id": "apod:2005-06-13",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap050613.html",
-        "trustTier": "encyclopedic",
-        "date": "2005-06-13"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:50.355Z",
-      "hash": "5b97752a59d123ab"
-    },
-    {
-      "id": "apod:2013-03-07",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© CXIELO Observatory"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap130307.html",
-        "trustTier": "encyclopedic",
-        "date": "2013-03-07"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:50.354Z",
-      "hash": "85f95af11029bb63"
-    },
-    {
-      "id": "onthisday:10-21:1854:e9371d2002a0cf80",
-      "type": "history",
-      "title": "1854: Florence Nightingale",
-      "summary": "Florence Nightingale and a staff of 38 nurses and 15 nuns were sent to the Ottoman Empire to help treat wounded British soldiers fighting in the Crimean War.",
-      "body": "Florence Nightingale and a staff of 38 nurses and 15 nuns were sent to the Ottoman Empire to help treat wounded British soldiers fighting in the Crimean War.",
-      "image": {
-        "src": "data/images/0f9811092855458d.jpg",
-        "alt": "Florence Nightingale",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Florence_Nightingale",
-        "trustTier": "encyclopedic",
-        "date": "10-21"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:42.755Z",
-      "hash": "9cf8cbb2043c1b2c",
-      "expires": "2026-10-24T13:35:42.755Z"
-    },
-    {
-      "id": "onthisday:10-21:1959:bf1a740f53bb361a",
-      "type": "history",
-      "title": "1959: Solomon R. Guggenheim Museum",
-      "summary": "The Solomon R. Guggenheim Museum, designed by American architect Frank Lloyd Wright, opened in New York City.",
-      "body": "The Solomon R. Guggenheim Museum, designed by American architect Frank Lloyd Wright, opened in New York City.",
-      "image": {
-        "src": "data/images/f67bac49c99009e1.jpg",
-        "alt": "Solomon R. Guggenheim Museum",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum",
-        "trustTier": "encyclopedic",
-        "date": "10-21"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:42.755Z",
-      "hash": "f28d082b84b620b3",
-      "expires": "2026-10-24T13:35:42.755Z"
-    },
-    {
-      "id": "onthisday:10-21:1966:ed740c93f5269c8f",
-      "type": "history",
-      "title": "1966: Spoil tip",
-      "summary": "A coal tip fell on the village of Aberfan, Wales, killing 144 people, mostly schoolchildren.",
-      "body": "A coal tip fell on the village of Aberfan, Wales, killing 144 people, mostly schoolchildren.",
-      "image": {
-        "src": "data/images/560fcce34acb67f9.jpg",
-        "alt": "Spoil tip",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Spoil_tip",
-        "trustTier": "encyclopedic",
-        "date": "10-21"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:42.755Z",
-      "hash": "b17a08b4f6037ca3",
-      "expires": "2026-10-24T13:35:42.755Z"
-    },
-    {
-      "id": "wikipedia:17906718",
-      "type": "wiki",
-      "title": "Jamestown Ironmen",
-      "summary": "The Jamestown Ironmen were a Tier II junior ice hockey team in the North American Hockey League. The Ironmen played their home games at the Jamestown Savings Bank Ice Arena in Jamestown, New York.",
-      "body": "The Jamestown Ironmen were a Tier II junior ice hockey team in the North American Hockey League. The Ironmen played their home games at the Jamestown Savings Bank Ice Arena in Jamestown, New York.",
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Jamestown_Ironmen",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:42.724Z",
-      "hash": "2c40fb32648ee481"
-    },
-    {
-      "id": "wikipedia:31543226",
-      "type": "wiki",
-      "title": "Bindu Basini Govt. Boys' High School",
-      "summary": "Bindu Basini Government Boys' High School is a secondary school in Tangail, Bangladesh. It was established in 1880. The school was patronized and endowed by Bindubasini Chowdhurany.",
-      "body": "Bindu Basini Government Boys' High School is a secondary school in Tangail, Bangladesh. It was established in 1880. The school was patronized and endowed by Bindubasini Chowdhurany.",
-      "image": {
-        "src": "data/images/38e13a3ee5989ebb.png",
-        "alt": "Bindu Basini Govt. Boys' High School",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Bindu_Basini_Govt._Boys'_High_School",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:42.617Z",
-      "hash": "4cfa6815dcef4221"
-    },
-    {
-      "id": "wikipedia:71016009",
-      "type": "wiki",
-      "title": "Altercatio Hadriani Augusti et Epicteti philosophi",
-      "summary": "The Altercatio Hadriani Augusti et Epicteti philosophi is a Latin language question-and-answer dialogue composed by an anonymous author in the 2nd or 3rd century. It consists of a short, fictional conversation between Emperor Hadrian and the Stoic philosopher Epictetus. In its earliest form it consists of…",
-      "body": "The Altercatio Hadriani Augusti et Epicteti philosophi is a Latin language question-and-answer dialogue composed by an anonymous author in the 2nd or 3rd century. It consists of a short, fictional conversation between Emperor Hadrian and the Stoic philosopher Epictetus. In its earliest form it consists of seventy-three questions on matters of wisdom and natural phenomena posed by Hadrian and answered by Epictetus. The emphasis throughout is on witty, riddle-like answers rather than philosophical ones.",
-      "image": {
-        "src": "data/images/aee36b7645ea7817.jpg",
-        "alt": "Altercatio Hadriani Augusti et Epicteti philosophi",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Altercatio_Hadriani_Augusti_et_Epicteti_philosophi",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:42.497Z",
-      "hash": "4513cbdc066a1cfe"
-    },
-    {
-      "id": "wikipedia:36932776",
-      "type": "wiki",
-      "title": "Spool (software company)",
-      "summary": "Spool was a free social bookmarking program and social network that was launched in October 2011 at TechCrunch Disrupt. The service allowed users to cache a webpage, including any media on the page, for offline consumption on any mobile device. Spool raised over $1 million from angel investors in January 2012.…",
-      "body": "Spool was a free social bookmarking program and social network that was launched in October 2011 at TechCrunch Disrupt. The service allowed users to cache a webpage, including any media on the page, for offline consumption on any mobile device. Spool raised over $1 million from angel investors in January 2012. Facebook, Inc. acquired Spool in July 2012, in what was rumored to be a very competitive process.",
-      "image": {
-        "src": "data/images/31dafc54a653408e.png",
-        "alt": "Spool (software company)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Spool_(software_company)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-21T13:35:42.376Z",
-      "hash": "fa08d89a7262e7be"
-    },
-    {
-      "id": "chess:85dvN",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1962. Find the best line for white.",
-      "body": "Solution, from → to: e3→h3, h7→g8, h3→h8, g8→h8, d2→h6, h8→g8, h6→g7. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "r1b2r2/1p1n1ppk/4p3/b2pB3/p2P4/q1P1R3/P2Q1PPP/R5K1 w - - 0 1",
-        "lastMove": "g8h7"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/85dvN",
-        "trustTier": "community",
-        "date": "Tue, 20 Oct 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "verylong",
-        "middlegame",
-        "attraction",
-        "sacrifice"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-20T13:27:15.049Z",
-      "hash": "86e38b87b334aa32"
-    },
-    {
-      "id": "game:c2b9b757c881211e",
-      "type": "game",
-      "title": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers",
-      "summary": "Developers who want to complete control over their game's code have a new framework to lean on.",
-      "body": "Developers who want to complete control over their game's code have a new framework to lean on.",
-      "image": {
-        "src": "data/images/661d3f69a663e002.jpg",
-        "alt": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
-        "trustTier": "publication",
-        "author": "Bryant Francis",
-        "date": "Mon, 19 Oct 2026 20:57:3"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:27:14.582Z",
-      "hash": "c2b9b757c881211e",
-      "expires": "2027-01-18T13:27:14.582Z"
-    },
-    {
-      "id": "game:c18028d7883ab9ac",
-      "type": "game",
-      "title": "Moonlighter developer delays public playtest of next game over concerns of AI cloning",
-      "summary": "Digital Sun Games is narrowing its early testing of ReVamp to its Discord community following fears of generative AI-enabled cloning.",
-      "body": "Digital Sun Games is narrowing its early testing of ReVamp to its Discord community following fears of generative AI-enabled cloning.",
-      "image": {
-        "src": "data/images/2b7236f3a9dda278.jpg",
-        "alt": "Moonlighter developer delays public playtest of next game over concerns of AI cloning",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
-        "trustTier": "publication",
-        "author": "Bryant Francis",
-        "date": "Mon, 19 Oct 2026 17:08:1"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:27:14.582Z",
-      "hash": "c18028d7883ab9ac",
-      "expires": "2027-01-18T13:27:14.582Z"
-    },
-    {
-      "id": "trivia:1a45dffd37ffeb7e",
-      "type": "trivia",
-      "title": "Who serves as the speaker of the prologue in Shakespeare's Romeo and Juliet?",
-      "summary": "Is it: Montague · Capulet · Chorus · Refrain?",
-      "body": "Answer: Chorus.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "musicals & theatres"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-20T13:27:12.276Z",
-      "hash": "1a45dffd37ffeb7e"
-    },
-    {
-      "id": "trivia:7f4ab1d5331aba00",
-      "type": "trivia",
-      "title": "In \"Sonic the Hedgehog 2\" for the Sega Genesis, what do you input in the sound test screen to access the secret level select?",
-      "summary": "Is it: The first release date of \"Sonic the Hedgehog 2\" · The Lead Programmer's birthday · The date Sonic Team was founded · The first release date of \"Sonic the Hedgehog\"?",
-      "body": "Answer: The Lead Programmer's birthday.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-20T13:27:12.276Z",
-      "hash": "7f4ab1d5331aba00"
-    },
-    {
-      "id": "trivia:0c04c9c71094c18b",
-      "type": "trivia",
-      "title": "What is the romanized Russian word for \"winter\"?",
-      "summary": "Is it: Zima · Vesna · Leto · Osen'?",
-      "body": "Answer: Zima.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:27:12.276Z",
-      "hash": "0c04c9c71094c18b"
-    },
-    {
-      "id": "trivia:b9b88d5e5d9c284c",
-      "type": "trivia",
-      "title": "A pasodoble is a type of Italian pasta sauce.",
-      "summary": "True — or false?",
-      "body": "Answer: False.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "general knowledge"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:27:12.276Z",
-      "hash": "b9b88d5e5d9c284c"
-    },
-    {
-      "id": "comic:xkcd:767",
-      "type": "comic",
-      "title": "Temper",
-      "summary": "Mr. Rogers projected an air of genuine, unwavering, almost saintly pure-hearted decency. But when you look deeper, at the person behind the image ... that's exactly what you find there, too. He's exactly what he appears to be.",
-      "body": "[[A black frame with the text [NO VIDEO] in the center, speech is in bubbles.]] Voice: Sometimes, when we disagree, I feel frustrated. But I never forget how lucky I am to have you in my family. Always remember how special you are. Caption: 1981: An audio recorder on the set catches Fred Rogers fighting with his wife. {{Title text: Mr. Rogers projected an air of genuine, unwavering, almost saintly pure-hearted decency. But when you look deeper, at the person behind the image ... that's exactly what you find there, too. He's exactly what he appears to be.}}",
-      "image": {
-        "src": "data/images/1e8c9e1d89130b08.png",
-        "alt": "Mr. Rogers projected an air of genuine, unwavering, almost saintly pure-hearted decency. But when you look deeper, at the person behind the image ... that's exactly what you find there, too. He's exactly what he appears to be.",
-        "credit": "xkcd #767 · Randall Munroe (CC BY-NC 2.5)"
-      },
-      "source": {
-        "name": "xkcd",
-        "url": "https://xkcd.com/767/",
-        "trustTier": "community",
-        "author": "Randall Munroe",
-        "date": "2010-07-16"
-      },
-      "tags": [
-        "comic",
-        "xkcd",
-        "humor"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-20T13:27:10.240Z",
-      "hash": "d06d4077aa675626"
-    },
-    {
-      "id": "food:71c4574a3215195b",
-      "type": "food",
-      "title": "Butternut Squash Soup with Red Lentils",
-      "summary": "A beautiful butternut squash soup with enough substance to make a real meal of it. Finish each bowl with a colorful medley of toppings: a bright herb oil, toasted pepitas, goat cheese, or whatever else you have on hand. Peak meal in a bowl situation. Continue reading Butternut Squash Soup with Red…",
-      "body": "A beautiful butternut squash soup with enough substance to make a real meal of it. Finish each bowl with a colorful medley of toppings: a bright herb oil, toasted pepitas, goat cheese, or whatever else you have on hand. Peak meal in a bowl situation. Continue reading Butternut Squash Soup with Red Lentils on 101 Cookbooks",
-      "image": {
-        "src": "data/images/7e9e9a9c3a207138.jpg",
-        "alt": "Butternut Squash Soup with Red Lentils",
-        "credit": "101 Cookbooks"
-      },
-      "source": {
-        "name": "101 Cookbooks",
-        "url": "https://www.101cookbooks.com/butternut-squash-soup/",
-        "trustTier": "community",
-        "author": "Heidi Swanson",
-        "date": "Tue, 22 Sep 2026 18:33:4"
-      },
-      "tags": [
-        "cooking",
-        "recipe",
-        "food",
-        "100+ vegetarian recipes",
-        "260+ vegan recipes",
-        "90 best soup recipes",
-        "dinner ideas",
-        "fall",
-        "gluten free recipes",
-        "side dish recipes"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:27:09.941Z",
-      "hash": "71c4574a3215195b"
-    },
-    {
-      "id": "craft:03fbfaf18006a234",
-      "type": "craft",
-      "title": "Rithika Merchant Summons Ancient Mythology and Mysticism in ‘The Dreaming Realm’",
-      "summary": "Merchant's fable-like narratives tap into our anxieties around the environment by conjuring instead a kind of utopia.",
-      "body": "Merchant's fable-like narratives tap into our anxieties around the environment by conjuring instead a kind of utopia.",
-      "image": {
-        "src": "data/images/f88e79be16798666.jpg",
-        "alt": "Rithika Merchant Summons Ancient Mythology and Mysticism in ‘The Dreaming Realm’",
-        "credit": "Colossal"
-      },
-      "source": {
-        "name": "Colossal",
-        "url": "https://www.thisiscolossal.com/2026/10/rithika-merchant-the-dreaming-realm-paintings/",
-        "trustTier": "publication",
-        "author": "Kate Mothes",
-        "date": "Mon, 19 Oct 2026 19:35:0"
-      },
-      "tags": [
-        "art",
-        "design",
-        "craft",
-        "animals",
-        "dreams",
-        "painting",
-        "rithika merchant",
-        "spirituality",
-        "surreal"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:27:09.811Z",
-      "hash": "03fbfaf18006a234"
-    },
-    {
-      "id": "word:8813890b2475eb1c",
-      "type": "word",
-      "title": "ineffable",
-      "summary": "Adjective: Beyond expression in words; unspeakable. .mw-parser-output .defdate{font-size:smaller}",
-      "body": "1. Beyond expression in words; unspeakable. .mw-parser-output .defdate{font-size:smaller}\n2. Forbidden to be uttered; taboo.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/ineffable",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Adjective"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:27:07.924Z",
-      "hash": "8813890b2475eb1c"
-    },
-    {
-      "id": "quote:0d6db700ffe7b950",
-      "type": "quote",
-      "title": "“If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.”",
-      "summary": "— Seungsahn",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Seungsahn",
-        "trustTier": "community",
-        "author": "Seungsahn"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:27:07.377Z",
-      "hash": "0d6db700ffe7b950"
-    },
-    {
-      "id": "quote:5842ec83edf73b0e",
-      "type": "quote",
-      "title": "“Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.”",
-      "summary": "— James Allen",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/James_Allen",
-        "trustTier": "community",
-        "author": "James Allen"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:27:07.377Z",
-      "hash": "5842ec83edf73b0e"
-    },
-    {
-      "id": "quote:8f4c123310511304",
-      "type": "quote",
-      "title": "“Elegance does not consist in putting on a new dress.”",
-      "summary": "— Coco Chanel",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Coco_Chanel",
-        "trustTier": "community",
-        "author": "Coco Chanel"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-20T13:27:07.377Z",
-      "hash": "8f4c123310511304"
-    },
-    {
-      "id": "article:a2741e297347c58e",
-      "type": "article",
-      "title": "The Silence of Agamemnon",
-      "summary": "Since antiquity, artists have depicted figures hiding their faces or covering their eyes. What does it mean when we turn away?",
-      "body": "Since antiquity, artists have depicted figures hiding their faces or covering their eyes. What does it mean when we turn away?",
-      "source": {
-        "name": "Lapham's Quarterly",
-        "url": "https://www.laphamsquarterly.org/roundtable/silence-agamemnon",
-        "trustTier": "publication"
-      },
-      "tags": [
-        "history",
-        "culture",
-        "literature"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:26:27.261Z",
-      "hash": "a2741e297347c58e"
-    },
-    {
-      "id": "article:6def8fe8f34bd66a",
-      "type": "article",
-      "title": "Some more things about Django I've been enjoying",
-      "summary": "Hello! I&rsquo;m on a funny journey right now where I&rsquo;m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It&rsquo;s kind of an interesting journey because it doesn&rsquo;t necessarily feel &ldquo;easy&rdquo; to me…",
-      "body": "Hello! I&rsquo;m on a funny journey right now where I&rsquo;m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It&rsquo;s kind of an interesting journey because it doesn&rsquo;t necessarily feel &ldquo;easy&rdquo; to me to make websites in this way: I never learned how to do it in the 2000s or 2010s, and there&rsquo;s a lot I need to learn. So here are some Django features that make building this kind of site feel more achievable than when I was trying and failing to use Go&rsquo;s standard library or Flask. And…",
-      "source": {
-        "name": "Julia Evans",
-        "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-        "trustTier": "community",
-        "date": "2026-07-21T00:00:00+00:0"
-      },
-      "tags": [
-        "programming",
-        "computers",
-        "technology"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:26:26.958Z",
-      "hash": "6def8fe8f34bd66a"
-    },
-    {
-      "id": "article:8a9e95de7ac88cea",
-      "type": "article",
-      "title": "When Relationships Change: Anne Morrow Lindbergh on Embracing the Intermittency and Mutability of Love",
-      "summary": "\"All living relationships are in process of change, of expansion, and must perpetually be building themselves new forms.\"",
-      "body": "\"All living relationships are in process of change, of expansion, and must perpetually be building themselves new forms.\"",
-      "image": {
-        "src": "data/images/4b12e76dc54bc394.jpg",
-        "alt": "When Relationships Change: Anne Morrow Lindbergh on Embracing the Intermittency and Mutability of Love",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/10/19/anne-morrow-lindbergh-change/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Mon, 19 Oct 2026 12:41:0"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "psychology",
-        "anne morrow lindbergh",
-        "books",
-        "love"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:26:24.829Z",
-      "hash": "8a9e95de7ac88cea"
-    },
-    {
-      "id": "article:fb98dcce3635a841",
-      "type": "article",
-      "title": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
-      "summary": "The post How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica.",
-      "body": "The post How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/d135689413175692.jpg",
-        "alt": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
-        "trustTier": "publication",
-        "author": "Molly Redden",
-        "date": "Tue, 20 Oct 2026 09:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "politics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-20T13:26:24.241Z",
-      "hash": "fb98dcce3635a841",
-      "expires": "2027-01-18T13:26:24.241Z"
     },
     {
       "id": "curated:handwriting-beats-typing",

@@ -1,7 +1,1065 @@
 {
-  "generatedAt": "2026-11-07T14:47:46.942Z",
+  "generatedAt": "2026-11-08T14:54:09.427Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:xSeW5",
+      "type": "chess",
+      "title": "White to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1944. Find the best line for white.",
+      "body": "Solution, from → to: f1→f4, e4→c2, f4→d4. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "r3r1k1/ppp2p2/3p1Pp1/7p/2Pbq2Q/8/PP1B2PP/R4R1K w - - 0 1",
+        "lastMove": "e5e4"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/xSeW5",
+        "trustTier": "community",
+        "date": "Sun, 08 Nov 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "middlegame",
+        "advantage",
+        "short",
+        "skewer"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-11-08T14:54:05.644Z",
+      "hash": "1710fd2bc17cb39f"
+    },
+    {
+      "id": "trivia:784d6d9cd185392a",
+      "type": "trivia",
+      "title": "In Terraria, you can craft the Cell Phone pre-hardmode.",
+      "summary": "True — or false?",
+      "body": "Answer: True.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:54:02.783Z",
+      "hash": "784d6d9cd185392a"
+    },
+    {
+      "id": "trivia:c80c8221f639955e",
+      "type": "trivia",
+      "title": "Generally, which component of a computer draws the most power?",
+      "summary": "Is it: Power Supply · Video Card · Processor · Hard Drive?",
+      "body": "Answer: Video Card.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "computers"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:54:02.783Z",
+      "hash": "c80c8221f639955e"
+    },
+    {
+      "id": "trivia:ff6dd20bdac94db8",
+      "type": "trivia",
+      "title": "What does VR stand for?",
+      "summary": "Is it: Visual Recognition · Very Real · Voice Recognition · Virtual Reality?",
+      "body": "Answer: Virtual Reality.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "general knowledge"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:54:02.783Z",
+      "hash": "ff6dd20bdac94db8"
+    },
+    {
+      "id": "trivia:a099d79492309ec2",
+      "type": "trivia",
+      "title": "The game series \"Titanfall\" runs on the Unreal Engine.",
+      "summary": "True — or false?",
+      "body": "Answer: False.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:54:02.782Z",
+      "hash": "a099d79492309ec2"
+    },
+    {
+      "id": "passage:gutenberg:11",
+      "type": "passage",
+      "title": "Alice's Adventures in Wonderland",
+      "summary": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?” So she was considering in her own mind (as well as she…",
+      "body": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?” So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by her. There was nothing so _very_ remarkable in that; nor did Alice think it so _very_ much out of the way to…",
+      "source": {
+        "name": "Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/11",
+        "trustTier": "publication",
+        "author": "Lewis Carroll",
+        "date": "1865"
+      },
+      "tags": [
+        "classic",
+        "literature",
+        "fantasy",
+        "childrens"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:54:02.683Z",
+      "hash": "5161ccae1cb7bb47"
+    },
+    {
+      "id": "comic:smbc:4dba91cf97dc173b",
+      "type": "comic",
+      "title": "Theodicy",
+      "summary": "Once Simulation Theory logic is allowed, you can prove ANYTHING.",
+      "image": {
+        "src": "data/images/cb48507c1ae2828a.png",
+        "alt": "Once Simulation Theory logic is allowed, you can prove ANYTHING.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/theodicy-6",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 07 Nov 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-08T14:54:01.965Z",
+      "hash": "4dba91cf97dc173b"
+    },
+    {
+      "id": "comic:xkcd:520",
+      "type": "comic",
+      "title": "Cuttlefish",
+      "summary": "Unless the CS students finish the robot revolution before you finish the cephalopod one.",
+      "body": "We visit a bio lab: [[Man and woman visit a bio lab where they look into a tank that the scientists point at.]] Scientist- \"These are cuttlefish.\" [[Image of a cuttlefish]] They're frighteningly smart, have manipulating arms and tentacles, have ink jets, can dart backwards and see the polarization of light through their w-shaped pupils. And their sides are 200 dpi display screens which they use for camouflage and communication. Scientist - \"When we realized how intelligent they were, we began to teach them. They've advanced quickly. Cuttlefish: GO.\" [[Cuttlefish float out of the tank at man and woman]] Cuttlefishes- \"Kill the physicists... kill the physicists\" [[Cuttlefish zap the man and…",
+      "image": {
+        "src": "data/images/1f98fb1cf492299e.png",
+        "alt": "Unless the CS students finish the robot revolution before you finish the cephalopod one.",
+        "credit": "xkcd #520 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/520/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2008-12-22"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-08T14:54:01.829Z",
+      "hash": "678a37b893101ab4"
+    },
+    {
+      "id": "word:a69d3debc98e5360",
+      "type": "word",
+      "title": "zeitgeist",
+      "summary": "Noun: The spirit of the age; the taste, outlook, and spirit characteristic of a period.",
+      "body": "1. The spirit of the age; the taste, outlook, and spirit characteristic of a period.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/zeitgeist",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:54:01.040Z",
+      "hash": "a69d3debc98e5360"
+    },
+    {
+      "id": "quote:1b6117ab5a47486f",
+      "type": "quote",
+      "title": "“We learn to walk by falling down. If we never fell down, we would never walk.”",
+      "summary": "— Robert Kiyosaki",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Robert_Kiyosaki",
+        "trustTier": "community",
+        "author": "Robert Kiyosaki"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:40.823Z",
+      "hash": "1b6117ab5a47486f"
+    },
+    {
+      "id": "quote:58ba2477d14e836b",
+      "type": "quote",
+      "title": "“Most people get ahead during the time that others waste.”",
+      "summary": "— Henry Ford",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Henry_Ford",
+        "trustTier": "community",
+        "author": "Henry Ford"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:40.823Z",
+      "hash": "58ba2477d14e836b"
+    },
+    {
+      "id": "quote:6ed73cf223151ba1",
+      "type": "quote",
+      "title": "“To be prepared is half the victory.”",
+      "summary": "— Miguel de Cervantes",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Miguel_de_Cervantes",
+        "trustTier": "community",
+        "author": "Miguel de Cervantes"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:40.823Z",
+      "hash": "6ed73cf223151ba1"
+    },
+    {
+      "id": "article:a1d9fdf7e52958ac",
+      "type": "article",
+      "title": "Out Now: Low-tech Magazine Volume IV",
+      "summary": "Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret. Low-tech Magazine presents the fourth volume in the chronological book series. It contains twenty articles that were published online between 2022 and 2026. Three earlier volumes collect articles written and published online…",
+      "body": "Image: Low-tech Magazine Volume IV (2022-2026). Photo: Juliette Demaret. Low-tech Magazine presents the fourth volume in the chronological book series. It contains twenty articles that were published online between 2022 and 2026. Three earlier volumes collect articles written and published online between 2007 and 2021, which are also bundled in the &ldquo;Compressed Edition&rdquo;. This new volume is a bit different from the earlier books: eight of the articles are DIY guides or manuals, and we have grouped them together in the second part of the book. This volume covers the period that…",
+      "image": {
+        "src": "data/images/136a0ca50b519ad9.png",
+        "alt": "Out Now: Low-tech Magazine Volume IV",
+        "credit": "Low-Tech Magazine"
+      },
+      "source": {
+        "name": "Low-Tech Magazine",
+        "url": "https://solar.lowtechmagazine.com/2026/09/out-now-low-tech-magazine-volume-iv/",
+        "trustTier": "publication",
+        "date": "Thu, 24 Sep 2026 00:00:0"
+      },
+      "tags": [
+        "technology",
+        "sustainability",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:37.514Z",
+      "hash": "a1d9fdf7e52958ac"
+    },
+    {
+      "id": "article:77b7f575ffc0425e",
+      "type": "article",
+      "title": "This right here",
+      "summary": "Over the past decade or so, this right here and that right there have become increasingly common as fixed expressions, further emphasizing this here and that there, beyond the simple demonstrative pronouns this and that. Or so it has seemed to me — and Google Ngrams confirms it: It also seems…",
+      "body": "Over the past decade or so, this right here and that right there have become increasingly common as fixed expressions, further emphasizing this here and that there, beyond the simple demonstrative pronouns this and that. Or so it has seemed to me — and Google Ngrams confirms it: It also seems obvious that crossing the proximal/distal […]",
+      "image": {
+        "src": "data/images/f5c0e260bfa1a277.jpg",
+        "alt": "This right here",
+        "credit": "Language Log"
+      },
+      "source": {
+        "name": "Language Log",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=74546&utm_source=rss&utm_medium=rss&utm_campaign=this-right-here",
+        "trustTier": "community",
+        "author": "Mark Liberman",
+        "date": "Sat, 07 Nov 2026 11:05:0"
+      },
+      "tags": [
+        "linguistics",
+        "language",
+        "sociolinguistics"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:36.916Z",
+      "hash": "77b7f575ffc0425e"
+    },
+    {
+      "id": "article:9ebfd72d3c08c2ed",
+      "type": "article",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "summary": "Hello! Recently I needed bike lights for my bike. And I remembered that I already had rechargeable bike lights that I bought ten years ago, that I hadn&rsquo;t tried in a long time. I tried to recharge them, but after fully charging them, they only worked for maybe 5 minutes before they turned off…",
+      "body": "Hello! Recently I needed bike lights for my bike. And I remembered that I already had rechargeable bike lights that I bought ten years ago, that I hadn&rsquo;t tried in a long time. I tried to recharge them, but after fully charging them, they only worked for maybe 5 minutes before they turned off again. I don&rsquo;t know much about electronics, but I&rsquo;ve been curious about whether it&rsquo;s possible to fix old electronics for a long time, and this seemed like the perfect repair project because I might just need to replace the battery. So I went to the local queer makerspace where…",
+      "image": {
+        "src": "data/images/ea6d089cb287f835.png",
+        "alt": "Replacing the old battery on rechargeable bike lights",
+        "credit": "Julia Evans"
+      },
+      "source": {
+        "name": "Julia Evans",
+        "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+        "trustTier": "community",
+        "date": "2026-09-27T00:00:00+00:0"
+      },
+      "tags": [
+        "programming",
+        "computers",
+        "technology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:33.381Z",
+      "hash": "9ebfd72d3c08c2ed"
+    },
+    {
+      "id": "article:60a74729abce415f",
+      "type": "article",
+      "title": "Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years",
+      "summary": "Now we finally know where it went The post Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years appeared first on Nautilus.",
+      "body": "Now we finally know where it went The post Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/c4e8eaa6b0289300.jpg",
+        "alt": "Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/earths-rocks-have-a-missing-layer-spanning-up-to-a-billion-years-1286417/",
+        "trustTier": "publication",
+        "author": "Nicolas Flament",
+        "date": "Sat, 07 Nov 2026 15:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "geoscience"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:32.506Z",
+      "hash": "60a74729abce415f"
+    },
+    {
+      "id": "article:a4ef8290242731bb",
+      "type": "article",
+      "title": "This Photo of the ISS Next to Jupiter Was Two Years in the Making",
+      "summary": "Part of the art and science of astrophotography is figuring out when certain flying objects in the sky are going to line up for a photo opportunity. And few photographs demonstrate it better than AJ Smadi’s shot of the International Space Station (ISS) hurtling in front of Jupiter. There’s an…",
+      "body": "Part of the art and science of astrophotography is figuring out when certain flying objects in the sky are going to line up for a photo opportunity. And few photographs demonstrate it better than AJ Smadi’s shot of the International Space Station (ISS) hurtling in front of Jupiter. There’s an incredible symmetry in the dimensions here: Jupiter is about 1.3 million times bigger than the ISS, but it’s also around 1.3 million times further away. Jupiter and the ISS. Credit: AJ Smadi The post This Photo of the ISS Next to Jupiter Was Two Years in the Making appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/7aa2edbcfcc25e9e.jpg",
+        "alt": "This Photo of the ISS Next to Jupiter Was Two Years in the Making",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/this-photo-of-the-iss-next-to-jupiter-was-two-years-in-the-making-1286407/",
+        "trustTier": "publication",
+        "author": "David Nield",
+        "date": "Sat, 07 Nov 2026 13:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "arts"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:32.506Z",
+      "hash": "a4ef8290242731bb"
+    },
+    {
+      "id": "article:54dcadf897c5ad6d",
+      "type": "article",
+      "title": "How to Harness Your Existential Wanderlust",
+      "summary": "\"Wander where you will over all the world, from every valley seeing forever new hills calling you to climb them, from every mountain top farther peaks enticing you... until you stand one day on the last peak on the border of the interminable sea, stopped by the finality of that.\"",
+      "body": "\"Wander where you will over all the world, from every valley seeing forever new hills calling you to climb them, from every mountain top farther peaks enticing you... until you stand one day on the last peak on the border of the interminable sea, stopped by the finality of that.\"",
+      "image": {
+        "src": "data/images/c02e319ab51f1a4b.jpg",
+        "alt": "How to Harness Your Existential Wanderlust",
+        "credit": "The Marginalian"
+      },
+      "source": {
+        "name": "The Marginalian",
+        "url": "https://www.themarginalian.org/2026/11/07/rockwell-kent-wilderness-wanderlust/",
+        "trustTier": "publication",
+        "author": "Maria Popova",
+        "date": "Sun, 08 Nov 2026 00:35:1"
+      },
+      "tags": [
+        "ideas",
+        "literature",
+        "art",
+        "philosophy",
+        "culture",
+        "psychology",
+        "books",
+        "creativity",
+        "diaries",
+        "rockwell kent"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:32.250Z",
+      "hash": "54dcadf897c5ad6d"
+    },
+    {
+      "id": "article:e5052e83a8dac9b4",
+      "type": "article",
+      "title": "Texas’ School Voucher Program Could Be “Unrecognizable, If Not Extinct,” Says Democratic Lawmaker",
+      "summary": "The post Texas’ School Voucher Program Could Be “Unrecognizable, If Not Extinct,” Says Democratic Lawmaker appeared first on ProPublica.",
+      "body": "The post Texas’ School Voucher Program Could Be “Unrecognizable, If Not Extinct,” Says Democratic Lawmaker appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/02a2406c7b5b9b84.jpg",
+        "alt": "Texas’ School Voucher Program Could Be “Unrecognizable, If Not Extinct,” Says Democratic Lawmaker",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/texas-school-vouchers-gina-hinojosa",
+        "trustTier": "publication",
+        "author": "Lexi Churchill",
+        "date": "Sat, 07 Nov 2026 11:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "education",
+        "politics"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:31.740Z",
+      "hash": "e5052e83a8dac9b4",
+      "expires": "2027-02-06T14:53:31.740Z"
+    },
+    {
+      "id": "article:ca888bbb2ed4bc98",
+      "type": "article",
+      "title": "An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot.",
+      "summary": "The post An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot. appeared first on ProPublica.",
+      "body": "The post An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot. appeared first on ProPublica.",
+      "image": {
+        "src": "data/images/f7c8b114540d90fa.jpg",
+        "alt": "An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot.",
+        "credit": "ProPublica"
+      },
+      "source": {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/article/vitamin-k-shot-texas-lonestar-emergency-room-nicole-malouf",
+        "trustTier": "publication",
+        "author": "Duaa Eldeib",
+        "date": "Sun, 08 Nov 2026 10:00:0"
+      },
+      "tags": [
+        "investigative",
+        "news",
+        "accountability",
+        "health care"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:31.740Z",
+      "hash": "ca888bbb2ed4bc98",
+      "expires": "2027-02-06T14:53:31.740Z"
+    },
+    {
+      "id": "article:6dbf2abbaf155b9b",
+      "type": "article",
+      "title": "Fuente de los Niños Miones in Guadalajara, Mexico",
+      "summary": "Framed by traditional black wrought ironwork, the Fuente de los Niños Miones delights passersby in Guadalajara's Historic Center, right in the Plaza Tapatía. This sculptural gem attracts curious travelers with its peculiar charm and a touch of urban cheekiness. Designed to celebrate the joy of…",
+      "body": "Framed by traditional black wrought ironwork, the Fuente de los Niños Miones delights passersby in Guadalajara's Historic Center, right in the Plaza Tapatía. This sculptural gem attracts curious travelers with its peculiar charm and a touch of urban cheekiness. Designed to celebrate the joy of childhood, the artwork was created by sculptor Miguel Miramontes and installed in 1982. It sits on Morelos Street, right next to the mysterious \"Devil's Corner\" (Rincón del Diablo), an alleyway shrouded in enigmatic local legends. Visitors often stop and smile at the sight of these four child…",
+      "image": {
+        "src": "data/images/9850f6ca9b5dc069.jpg",
+        "alt": "Fuente de los Niños Miones in Guadalajara, Mexico",
+        "credit": "Atlas Obscura"
+      },
+      "source": {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
+        "trustTier": "publication",
+        "date": "Fri, 06 Nov 2026 16:00:0"
+      },
+      "tags": [
+        "curiosities",
+        "places",
+        "history"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:31.377Z",
+      "hash": "6dbf2abbaf155b9b"
+    },
+    {
+      "id": "article:706e2c0804174e51",
+      "type": "article",
+      "title": "What I’ve been reading",
+      "summary": "1. Fredrik deBoer, All in Your Head: Illness as Identity, Trauma as Fashion, and the Desire to be Disordered. A good book, I am happy to see positions laid out so clearly and starkly. Is this a radical view, or the mainstream view these days? Excerpt: “For all of Szasz’s rhetorical flair and…",
+      "body": "1. Fredrik deBoer, All in Your Head: Illness as Identity, Trauma as Fashion, and the Desire to be Disordered. A good book, I am happy to see positions laid out so clearly and starkly. Is this a radical view, or the mainstream view these days? Excerpt: “For all of Szasz’s rhetorical flair and provocation, he […] The post What I’ve been reading appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Sun, 08 Nov 2026 05:46:0"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog",
+        "books"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:30.641Z",
+      "hash": "706e2c0804174e51"
+    },
+    {
+      "id": "greek:df0658eeb68d3dc4",
+      "type": "greek",
+      "title": "πιστεύω",
+      "summary": "πιστεύω — “I believe, trust” · verb",
+      "body": "Note: often with εἰς + acc. (\"believe in\")\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CF%80%CE%B9%CF%83%CF%84%CE%B5%CF%8D%CF%89#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "verb"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:29.691Z",
+      "hash": "df0658eeb68d3dc4"
+    },
+    {
+      "id": "greek:866a3ec74fb23eb0",
+      "type": "greek",
+      "title": "θεός",
+      "summary": "θεός — “God” · noun",
+      "body": "Note: ὁ θεός; can mean \"a god\" without article\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%B8%CE%B5%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:29.691Z",
+      "hash": "866a3ec74fb23eb0"
+    },
+    {
+      "id": "greek:0333963034ce697f",
+      "type": "greek",
+      "title": "ἀγάπη",
+      "summary": "ἀγάπη — “love” · noun",
+      "body": "Note: ἡ ἀγάπη\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CE%B3%CE%AC%CF%80%CE%B7#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_fem_1st"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:29.691Z",
+      "hash": "0333963034ce697f"
+    },
+    {
+      "id": "poetry:2e24b49e61d114fe",
+      "type": "poem",
+      "title": "Remembrance has a rear and front,",
+      "summary": "Remembrance has a rear and front, --\n'T is something like a house;\nIt has a garret also\nFor refuse and the mouse,",
+      "body": "Remembrance has a rear and front, --\n'T is something like a house;\nIt has a garret also\nFor refuse and the mouse,\n\nBesides, the deepest cellar\nThat ever mason hewed;\nLook to it, by its fathoms\nOurselves be not pursued.",
+      "source": {
+        "name": "Emily Dickinson · PoetryDB",
+        "url": "https://poetrydb.org/title/Remembrance%20has%20a%20rear%20and%20front%2C",
+        "trustTier": "community",
+        "author": "Emily Dickinson"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:29.689Z",
+      "hash": "2e24b49e61d114fe"
+    },
+    {
+      "id": "poetry:cabd90ca49bbec43",
+      "type": "poem",
+      "title": "Chaucer",
+      "summary": "IMITATIONS OF ENGLISH POETS\nWomen ben full of ragerie,\nYet swinken nat sans secresie.\nThilke moral shall ye understond,",
+      "body": "IMITATIONS OF ENGLISH POETS\n\nWomen ben full of ragerie,\nYet swinken nat sans secresie.\nThilke moral shall ye understond,\nFrom schoole-boy's tale of fayre Irelond:\nWhich to the fennes hath him betake,\nTo filche the gray ducke fro the lake.\nRight then, there passen by the way\nHis aunt, and eke her daughters tway.\nDucke in his trowses hath he hent,\nNot to be spied of ladies gent.\n'But ho! our nephew!' crieth one;\n'Ho!' quoth another, 'Cozen John;'\nAnd stoppen, and lough, and callen out,--\nThis sely clerke full low doth lout:\nThey asken that, and talken this,\n'Lo here is Coz, and here is Miss.'\nBut, as he glozeth with speeches soote,\nThe ducke sore tickleth his erse roote:\nFore-piece and buttons all to-brest,\nForth thrust a white neck, and red crest.\n'Te-he,' cried ladies; clerke nought spake:\nMiss stared; and gray ducke crieth 'Quaake.'\n'O moder, moder!' quoth the daughter,\n'Be thilke same thing maids longen a'ter?\nBette is to pyne on coals and chalke,\nThen trust on mon, whose yerde can talke.'",
+      "source": {
+        "name": "Alexander Pope · PoetryDB",
+        "url": "https://poetrydb.org/title/Chaucer",
+        "trustTier": "community",
+        "author": "Alexander Pope"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-08T14:53:29.689Z",
+      "hash": "cabd90ca49bbec43"
+    },
+    {
+      "id": "art:si:ld1-1643409295870-1643409362194-0",
+      "type": "art",
+      "title": "Phalaenopsis orchid (Botanical illustration)",
+      "summary": "NMNH - Botany Dept.",
+      "body": "NMNH - Botany Dept.",
+      "image": {
+        "src": "data/images/4dfb1e3c7c10921b.jpg",
+        "alt": "Phalaenopsis orchid (Botanical illustration)",
+        "credit": "NMNH - Botany Dept. · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "http://n2t.net/ark:/65665/349b84258-2205-4356-9717-e3c3ada45b2e",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "botanical"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-08T14:53:29.517Z",
+      "hash": "71ec4a5ccc4930f1"
+    },
+    {
+      "id": "art:si:ld1-1643409295870-1643409362193-2",
+      "type": "art",
+      "title": "Phalaenopsis orchid (Botanical illustration)",
+      "summary": "NMNH - Botany Dept.",
+      "body": "NMNH - Botany Dept.",
+      "image": {
+        "src": "data/images/4dfb1e3c7c10921b.jpg",
+        "alt": "Phalaenopsis orchid (Botanical illustration)",
+        "credit": "NMNH - Botany Dept. · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "http://n2t.net/ark:/65665/37f0df618-ea04-4e0b-b12c-c3b889c61791",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "botanical"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-08T14:53:29.517Z",
+      "hash": "289c1892d0283671"
+    },
+    {
+      "id": "apod:2021-06-16",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap210616.html",
+        "trustTier": "encyclopedic",
+        "date": "2021-06-16"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:26.596Z",
+      "hash": "bbeb3c548a748df3"
+    },
+    {
+      "id": "apod:2016-01-28",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© NASA"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap160128.html",
+        "trustTier": "encyclopedic",
+        "date": "2016-01-28"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:26.596Z",
+      "hash": "a4146d715511da88"
+    },
+    {
+      "id": "apod:2012-08-08",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap120808.html",
+        "trustTier": "encyclopedic",
+        "date": "2012-08-08"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:26.596Z",
+      "hash": "143f33f932b62b17"
+    },
+    {
+      "id": "apod:2007-03-20",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap070320.html",
+        "trustTier": "encyclopedic",
+        "date": "2007-03-20"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:26.596Z",
+      "hash": "f0e3addf65d76049"
+    },
+    {
+      "id": "apod:1999-10-10",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap991010.html",
+        "trustTier": "encyclopedic",
+        "date": "1999-10-10"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:26.596Z",
+      "hash": "304486dd8caadc72"
+    },
+    {
+      "id": "onthisday:11-08:1971:00adf39ae3aae0f5",
+      "type": "history",
+      "title": "1971: Led Zeppelin",
+      "summary": "The English rock group Led Zeppelin released their fourth album, which became one of the best-selling albums worldwide.",
+      "body": "The English rock group Led Zeppelin released their fourth album, which became one of the best-selling albums worldwide.",
+      "image": {
+        "src": "data/images/116ff3b808f18ab3.jpg",
+        "alt": "Led Zeppelin",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Led_Zeppelin",
+        "trustTier": "encyclopedic",
+        "date": "11-08"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:18.761Z",
+      "hash": "283ef1bccbeadae3",
+      "expires": "2026-11-11T14:53:18.761Z"
+    },
+    {
+      "id": "onthisday:11-08:1974:9609002231327f3e",
+      "type": "history",
+      "title": "1974: John Bingham, 7th Earl of Lucan",
+      "summary": "British peer Lord Lucan disappeared without a trace, a day after allegedly murdering Sandra Rivett, his children's nanny.",
+      "body": "British peer Lord Lucan disappeared without a trace, a day after allegedly murdering Sandra Rivett, his children's nanny.",
+      "image": {
+        "src": "data/images/21e9d378b4e5e25c.jpg",
+        "alt": "John Bingham, 7th Earl of Lucan",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/John_Bingham%2C_7th_Earl_of_Lucan",
+        "trustTier": "encyclopedic",
+        "date": "11-08"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:18.761Z",
+      "hash": "1edefacb78f4ce3f",
+      "expires": "2026-11-11T14:53:18.761Z"
+    },
+    {
+      "id": "onthisday:11-08:2020:f31e9c2de6e5b110",
+      "type": "history",
+      "title": "2020: Second Nagorno-Karabakh War",
+      "summary": "Second Nagorno-Karabakh War: Azerbaijani forces defeated the self-proclaimed Republic of Artsakh at the Battle of Shusha, reclaiming the town of Shusha after 28 years.",
+      "body": "Second Nagorno-Karabakh War: Azerbaijani forces defeated the self-proclaimed Republic of Artsakh at the Battle of Shusha, reclaiming the town of Shusha after 28 years.",
+      "image": {
+        "src": "data/images/9dba4af55c371594.png",
+        "alt": "Second Nagorno-Karabakh War",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War",
+        "trustTier": "encyclopedic",
+        "date": "11-08"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:18.761Z",
+      "hash": "2e04bb97a9557922",
+      "expires": "2026-11-11T14:53:18.761Z"
+    },
+    {
+      "id": "wikipedia:70506031",
+      "type": "wiki",
+      "title": "Commerce house",
+      "summary": "The Commerce house is a five-floor residential and business building in Tampere, Finland, located along the Hämeenkatu street and the Tampere Central Square at the so-called Jugendtori square, built in 1899. The building represents the Art Nouveau style and was designed by the Helsinki-based architecture bureau…",
+      "body": "The Commerce house is a five-floor residential and business building in Tampere, Finland, located along the Hämeenkatu street and the Tampere Central Square at the so-called Jugendtori square, built in 1899. The building represents the Art Nouveau style and was designed by the Helsinki-based architecture bureau Andersin, Jung ja Bomanson. The name of the building comes from the French word commerce, meaning business or commerce.",
+      "image": {
+        "src": "data/images/ac8d0a46a8ce13c0.jpg",
+        "alt": "Commerce house",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Commerce_house",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:18.752Z",
+      "hash": "3ea815815f3edd0c"
+    },
+    {
+      "id": "wikipedia:43375493",
+      "type": "wiki",
+      "title": "1897 State of the Union Address",
+      "summary": "The 1897 State of the Union Address was a speech given on Monday, December 6, 1897, by President William McKinley, the 25th president of the United States. It was his first State of the Union Address, and was read to both houses of the 55th United States Congress. He began with, \"A matter of genuine satisfaction is…",
+      "body": "The 1897 State of the Union Address was a speech given on Monday, December 6, 1897, by President William McKinley, the 25th president of the United States. It was his first State of the Union Address, and was read to both houses of the 55th United States Congress. He began with, \"A matter of genuine satisfaction is the growing feeling of fraternal regard and unification of all sections of our country, the incompleteness of which has too long delayed realization of the highest blessings of the Union. The spirit of patriotism is universal and is ever increasing in fervor.\" It took time for the Southern states to feel united with the Northern states, and for the Western states to feel united with the eastern states.",
+      "image": {
+        "src": "data/images/2bf0ac0732e19b68.jpg",
+        "alt": "1897 State of the Union Address",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1897_State_of_the_Union_Address",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:18.603Z",
+      "hash": "76a8912c1887bf49"
+    },
+    {
+      "id": "wikipedia:18082375",
+      "type": "wiki",
+      "title": "Clapp Octagon House",
+      "summary": "The Clapp Octagon House is an historic octagonal house located at 62 Lighthouse Avenue in the historic Lighthouse Park neighborhood on the north end of Anastasia Island in St. Augustine, Florida. It was built in 1886 for Rollin N. Clapp of St. Louis, Missouri.",
+      "body": "The Clapp Octagon House is an historic octagonal house located at 62 Lighthouse Avenue in the historic Lighthouse Park neighborhood on the north end of Anastasia Island in St. Augustine, Florida. It was built in 1886 for Rollin N. Clapp of St. Louis, Missouri.",
+      "image": {
+        "src": "data/images/2866f2938c133f30.jpg",
+        "alt": "Clapp Octagon House",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clapp_Octagon_House",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:17.556Z",
+      "hash": "226154a4bfdaca42"
+    },
+    {
+      "id": "wikipedia:30993066",
+      "type": "wiki",
+      "title": "PISRT1",
+      "summary": "PISRT1 is a long non-coding RNA. It was originally thought to be implicated in the polled intersex (PIS) mutation in goats, but this has been shown to not be the case. It has also been shown not to be involved in sex determination in the rodent Ellobius lutescens and in dogs, and is unlikely to be involved in…",
+      "body": "PISRT1 is a long non-coding RNA. It was originally thought to be implicated in the polled intersex (PIS) mutation in goats, but this has been shown to not be the case. It has also been shown not to be involved in sex determination in the rodent Ellobius lutescens and in dogs, and is unlikely to be involved in sex-specific gonad differentiation in mice.",
+      "image": {
+        "src": "data/images/4364ff790a195e58.png",
+        "alt": "PISRT1",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/PISRT1",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-08T14:53:16.584Z",
+      "hash": "b8a2aa033e729c5c"
+    },
     {
       "id": "chess:PL5HE",
       "type": "chess",
@@ -11455,1076 +12513,6 @@
       "difficulty": 3,
       "fetchedAt": "2026-10-28T14:57:53.344Z",
       "hash": "f556f24fb3cfa0cc"
-    },
-    {
-      "id": "word:fce4bc957b4963e7",
-      "type": "word",
-      "title": "pathos",
-      "summary": "Noun: The quality or property of anything which touches the feelings or excites emotions and passions, especially that which awakens tender emotions, such as pity, sorrow, and the like; contagious warmth of feeling, action, or expression; pathetic quality.",
-      "body": "1. The quality or property of anything which touches the feelings or excites emotions and passions, especially that which awakens tender emotions, such as pity, sorrow, and the like; contagious warmth of feeling, action, or expression; pathetic quality.\n2. A form of rhetoric in which the writer or speaker uses emotional appeals to the audience as the main form of persuasion.\n3. An author's attempt to evoke a feeling of pity or sympathetic sorrow for a character.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/pathos",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:52.896Z",
-      "hash": "fce4bc957b4963e7"
-    },
-    {
-      "id": "word:27613a753857af67",
-      "type": "word",
-      "title": "enigma",
-      "summary": "Noun: Something or someone puzzling, mysterious or inexplicable.",
-      "body": "1. Something or someone puzzling, mysterious or inexplicable.\n2. A riddle, or a difficult problem.\n3. Riddles and puzzles, collectively.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/enigma",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:51.673Z",
-      "hash": "27613a753857af67"
-    },
-    {
-      "id": "quote:af97be4445e3cbf7",
-      "type": "quote",
-      "title": "“Things turn out best for the people who make the best of the way things turn out.”",
-      "summary": "— John Wooden",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/John_Wooden",
-        "trustTier": "community",
-        "author": "John Wooden"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:46.657Z",
-      "hash": "af97be4445e3cbf7"
-    },
-    {
-      "id": "quote:23356f358bc92257",
-      "type": "quote",
-      "title": "“A dream doesn't become reality through magic it takes sweat, determination and hard work.”",
-      "summary": "— Colin Powell",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Colin_Powell",
-        "trustTier": "community",
-        "author": "Colin Powell"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:46.657Z",
-      "hash": "23356f358bc92257"
-    },
-    {
-      "id": "quote:4084284eee5201a9",
-      "type": "quote",
-      "title": "“Looking after my health today gives me a better hope for tomorrow.”",
-      "summary": "— Anne Wilson Schaef",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Anne_Wilson_Schaef",
-        "trustTier": "community",
-        "author": "Anne Wilson Schaef"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:46.657Z",
-      "hash": "4084284eee5201a9"
-    },
-    {
-      "id": "book-review:b96cf2a137913c6e",
-      "type": "book-review",
-      "title": "Who Were Chile’s Disappeared?",
-      "summary": "Mila Burns’s “Dictatorship Across Borders” offers a new history of surveillance, repression, and exile in Pinochet’s Chile and the Fifth Brazilian Republic. The post Who Were Chile’s Disappeared? appeared first on Public Books.",
-      "body": "Mila Burns’s “Dictatorship Across Borders” offers a new history of surveillance, repression, and exile in Pinochet’s Chile and the Fifth Brazilian Republic. The post Who Were Chile’s Disappeared? appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/who-were-chiles-disappeared/",
-        "trustTier": "publication",
-        "author": "Morgan Barry",
-        "date": "Tue, 27 Oct 2026 15:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "reviews",
-        "authoritarianism",
-        "borders",
-        "brazil",
-        "chile",
-        "cia",
-        "cold war"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:46.548Z",
-      "hash": "b96cf2a137913c6e"
-    },
-    {
-      "id": "article:28b68c2df3e4ea59",
-      "type": "article",
-      "title": "Paleovirology: How HIV Started a Century Before Anyone Noticed",
-      "summary": "I’ve been vaguely aware for awhile that researchers had traced the origins of HIV/AIDS back to Sub-Saharan Africa. But I didn’t know the whole story, which turns out to be really fascinating. For decades, one man was blamed for bringing AIDS to America. But the “Patient Zero” story was wrong. This…",
-      "body": "I’ve been vaguely aware for awhile that researchers had traced the origins of HIV/AIDS back to Sub-Saharan Africa. But I didn’t know the whole story, which turns out to be really fascinating. For decades, one man was blamed for bringing AIDS to America. But the “Patient Zero” story was wrong. This is the story of how genetic detective work traced HIV’s true origins — from chimpanzees in Central Africa to a global pandemic — and how science unraveled one of the biggest myths in modern medicine. Disappointingly, they didn’t list any of their sources for the video. I poked around a little and…",
-      "source": {
-        "name": "Kottke",
-        "url": "https://kottke.org/26/10/paleovirology-how-hiv-started-a-century-before-anyone-noticed",
-        "trustTier": "community",
-        "author": "Jason Kottke",
-        "date": "2026-10-28T14:42:00Z"
-      },
-      "tags": [
-        "curiosities",
-        "culture",
-        "design"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:38.703Z",
-      "hash": "28b68c2df3e4ea59"
-    },
-    {
-      "id": "article:11370eb62727fd5d",
-      "type": "article",
-      "title": "How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement",
-      "summary": "The post How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement appeared first on ProPublica.",
-      "body": "The post How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement appeared first on ProPublica.",
-      "image": {
-        "src": "data/images/587ba656a89dc57b.jpg",
-        "alt": "How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement",
-        "credit": "ProPublica"
-      },
-      "source": {
-        "name": "ProPublica",
-        "url": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
-        "trustTier": "publication",
-        "author": "Doug Bock Clark",
-        "date": "Wed, 28 Oct 2026 09:00:0"
-      },
-      "tags": [
-        "investigative",
-        "news",
-        "accountability",
-        "politics",
-        "trump administration"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:35.846Z",
-      "hash": "11370eb62727fd5d",
-      "expires": "2027-01-26T14:57:35.846Z"
-    },
-    {
-      "id": "article:00cf3b1142a54877",
-      "type": "article",
-      "title": "Extraordinary, but Ordinary: Reading Homeric Ideology Through Disney’s “Zombies”",
-      "summary": "How do we know what a work of art like the Iliad wants us to believe? Pour a cup of coffee (or maybe something stronger), because the answer’s not a simple one. Iliad 2.203-6 “There’s no way all of us Achaeans here can rule!The rule of many isn’t a good thing. Let there be one … Continue reading…",
-      "body": "How do we know what a work of art like the Iliad wants us to believe? Pour a cup of coffee (or maybe something stronger), because the answer’s not a simple one. Iliad 2.203-6 “There’s no way all of us Achaeans here can rule!The rule of many isn’t a good thing. Let there be one … Continue reading Extraordinary, but Ordinary: Reading Homeric Ideology Through Disney’s “Zombies”",
-      "image": {
-        "src": "data/images/bca0e2b9fbe840bf.jpg",
-        "alt": "Extraordinary, but Ordinary: Reading Homeric Ideology Through Disney’s “Zombies”",
-        "credit": "Sententiae Antiquae"
-      },
-      "source": {
-        "name": "Sententiae Antiquae",
-        "url": "https://sententiaeantiquae.com/2026/10/09/extraordinary-but-ordinary-reading-homeric-ideology-through-disneys-zombies/",
-        "trustTier": "community",
-        "author": "Joel",
-        "date": "Fri, 09 Oct 2026 18:37:4"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity",
-        "homer",
-        "ideology",
-        "painful signs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:35.659Z",
-      "hash": "00cf3b1142a54877"
-    },
-    {
-      "id": "article:13efda544e6eeb39",
-      "type": "article",
-      "title": "Heroic Actions, Divine Choices? On Double Motivation in Homer",
-      "summary": "Do we really know why or how we make decisions? Do we want steak for dinner because of its social and cultural value or because of the evolutionary advantage of high protein diets or because of our body’s need for iron or because we just like the taste? (Ask a Homeric hero that one: they ……",
-      "body": "Do we really know why or how we make decisions? Do we want steak for dinner because of its social and cultural value or because of the evolutionary advantage of high protein diets or because of our body’s need for iron or because we just like the taste? (Ask a Homeric hero that one: they … Continue reading Heroic Actions, Divine Choices? On Double Motivation in Homer",
-      "image": {
-        "src": "data/images/b5072bf7595efc18.png",
-        "alt": "Heroic Actions, Divine Choices? On Double Motivation in Homer",
-        "credit": "Sententiae Antiquae"
-      },
-      "source": {
-        "name": "Sententiae Antiquae",
-        "url": "https://sententiaeantiquae.com/2026/10/23/heroic-actions-divine-choices-on-double-motivation-in-homer/",
-        "trustTier": "community",
-        "author": "Joel",
-        "date": "Fri, 23 Oct 2026 15:31:4"
-      },
-      "tags": [
-        "classics",
-        "greek",
-        "antiquity",
-        "agency",
-        "determinism",
-        "free will",
-        "painful signs"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:35.658Z",
-      "hash": "13efda544e6eeb39"
-    },
-    {
-      "id": "article:6ab92c9714c16d99",
-      "type": "article",
-      "title": "Quang Trung Museum in Tây Sơn, Vietnam",
-      "summary": "Set against the rural backdrop of Tay Son district, the Quang Trung Museum rises as a powerful monument to one of the most brilliant military commanders in Vietnamese history, Emperor Quang Trung (Nguyen Hue). Erected directly upon the ancestral soil of the legendary Tay Son brothers, the museum…",
-      "body": "Set against the rural backdrop of Tay Son district, the Quang Trung Museum rises as a powerful monument to one of the most brilliant military commanders in Vietnamese history, Emperor Quang Trung (Nguyen Hue). Erected directly upon the ancestral soil of the legendary Tay Son brothers, the museum grounds shelter deeply sacred living relics, including an ancient tamarind tree and a stone well dating back to the family's childhood. Inside the exhibition halls, an extensive collection of rare weaponry, battle flags, and historical documents trace the meteoric rise of the 18th-century peasant…",
-      "image": {
-        "src": "data/images/094b207ae7aec2b0.png",
-        "alt": "Quang Trung Museum in Tây Sơn, Vietnam",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/quang-trung-museum",
-        "trustTier": "publication",
-        "date": "Tue, 27 Oct 2026 16:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "military history",
-        "museums"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:35.581Z",
-      "hash": "6ab92c9714c16d99"
-    },
-    {
-      "id": "article:72c4f67d1c332321",
-      "type": "article",
-      "title": "AI hacking risks",
-      "summary": "That is the topic of my latest Free Press column (now there are gift links!), here is one excerpt, noting this is a worst-case scenario not a prediction: Yet current systems are likely to prove more robust than that suggests. For one thing, they use a variety of different methods of protection,…",
-      "body": "That is the topic of my latest Free Press column (now there are gift links!), here is one excerpt, noting this is a worst-case scenario not a prediction: Yet current systems are likely to prove more robust than that suggests. For one thing, they use a variety of different methods of protection, including public key […] The post AI hacking risks appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Wed, 28 Oct 2026 04:38:2"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "web/tech"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:34.590Z",
-      "hash": "72c4f67d1c332321"
-    },
-    {
-      "id": "article:d27f75de01e0b62e",
-      "type": "article",
-      "title": "Inequality in Equal Land",
-      "summary": "Adam Nash has a good post on wealth inequality: …Every year, we pull the most recent data from the US Census on household wealth, cut by age. …invariably, the students’ initial response is a reaction to the apparent disparity in wealth between households based on age. For many students, it just…",
-      "body": "Adam Nash has a good post on wealth inequality: …Every year, we pull the most recent data from the US Census on household wealth, cut by age. …invariably, the students’ initial response is a reaction to the apparent disparity in wealth between households based on age. For many students, it just doesn’t seem fair at […] The post Inequality in Equal Land appeared first on Marginal REVOLUTION.",
-      "image": {
-        "src": "data/images/9b7c788a443c999e.webp",
-        "alt": "Inequality in Equal Land",
-        "credit": "Marginal Revolution"
-      },
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land",
-        "trustTier": "community",
-        "author": "Alex Tabarrok",
-        "date": "Wed, 28 Oct 2026 11:18:2"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "data source",
-        "law",
-        "media"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:34.590Z",
-      "hash": "d27f75de01e0b62e"
-    },
-    {
-      "id": "article:cf426b55093fd7e4",
-      "type": "article",
-      "title": "How Voting Is Like a Klein Bottle",
-      "summary": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine",
-      "body": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine",
-      "image": {
-        "src": "data/images/555f45e50dd21480.webp",
-        "alt": "How Voting Is Like a Klein Bottle",
-        "credit": "Quanta Magazine"
-      },
-      "source": {
-        "name": "Quanta Magazine",
-        "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
-        "trustTier": "publication",
-        "author": "Alex Stone",
-        "date": "Mon, 26 Oct 2026 14:54:2"
-      },
-      "tags": [
-        "science",
-        "ideas",
-        "mathematics"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:33.886Z",
-      "hash": "cf426b55093fd7e4"
-    },
-    {
-      "id": "greek:514725f5fd86f09f",
-      "type": "greek",
-      "title": "ἐγώ",
-      "summary": "ἐγώ — “I” · pronoun",
-      "body": "Note: 1st person singular nominative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%90%CE%B3%CF%8E#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "pronoun",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-28T14:57:33.478Z",
-      "hash": "514725f5fd86f09f"
-    },
-    {
-      "id": "greek:76e1efe45624191c",
-      "type": "greek",
-      "title": "ἀρχή",
-      "summary": "ἀρχή — “beginning” · noun",
-      "body": "Note: ἡ ἀρχή; also \"ruler, authority\"\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%80%CF%81%CF%87%CE%AE#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_fem_1st"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:33.478Z",
-      "hash": "76e1efe45624191c"
-    },
-    {
-      "id": "poetry:458da900cbde97d0",
-      "type": "poem",
-      "title": "Lines Written during the Castlereagh Administration",
-      "summary": "Corpses are cold in the tomb;\nStones on the pavement are dumb;\nAbortions are dead in the womb,\nAnd their mothers look pale--like the death-white shore",
-      "body": "Corpses are cold in the tomb;\nStones on the pavement are dumb;\nAbortions are dead in the womb,\nAnd their mothers look pale--like the death-white shore\nOf Albion, free no more.\n\nHer sons are as stones in the way--\nThey are masses of senseless clay--\nThey are trodden, and move not away,--\nThe abortion with which SHE travaileth\nIs Liberty, smitten to death.\n\nThen trample and dance, thou Oppressor!\nFor thy victim is no redresser;\nThou art sole lord and possessor\nOf her corpses, and clods, and abortions--they pave\nThy path to the grave.\n\nHearest thou the festival din\nOf Death, and Destruction, and Sin,\nAnd Wealth crying \"Havoc!\" within?\n'Tis the bacchanal triumph that makes Truth dumb,\nThine Epithalamium.\n\nAy, marry thy ghastly wife!\nLet Fear and Disquiet and Strife\nSpread thy couch in the chamber of Life!\nMarry Ruin, thou Tyrant! and Hell be thy guide\nTo the bed of the bride!",
-      "source": {
-        "name": "Percy Bysshe Shelley · PoetryDB",
-        "url": "https://poetrydb.org/title/Lines%20Written%20during%20the%20Castlereagh%20Administration",
-        "trustTier": "community",
-        "author": "Percy Bysshe Shelley"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:33.477Z",
-      "hash": "458da900cbde97d0"
-    },
-    {
-      "id": "poetry:985edddbf4d20cae",
-      "type": "poem",
-      "title": "Song of the Broad-Axe",
-      "summary": "1\nWEAPON, shapely, naked, wan!\nHead from the mother’s bowels drawn!\nWooded flesh and metal bone! limb only one, and lip only one!",
-      "body": "1\nWEAPON, shapely, naked, wan!\nHead from the mother’s bowels drawn!\nWooded flesh and metal bone! limb only one, and lip only one!\nGray-blue leaf by red-heat grown! helve produced from a little seed sown!\nResting the grass amid and upon,\nTo be lean’d, and to lean on.\n\nStrong shapes, and attributes of strong shapes—masculine trades, sights and sounds;\nLong varied train of an emblem, dabs of music;\nFingers of the organist skipping staccato over the keys of the great organ.\n\n2\nWelcome are all earth’s lands, each for its kind;\nWelcome are lands of pine and oak;\nWelcome are lands of the lemon and fig;\nWelcome are lands of gold;\nWelcome are lands of wheat and maize—welcome those of the grape;\nWelcome are lands of sugar and rice;\nWelcome the cotton-lands—welcome those of the white potato and sweet potato;\nWelcome are mountains, flats, sands, forests, prairies;\nWelcome the rich borders of rivers, table-lands, openings;\nWelcome the measureless grazing-lands—welcome the teeming soil of orchards, flax, honey,\n    hemp;\n\nWelcome just as much the other more hard-faced lands;\nLands rich as lands of gold, or wheat and fruit lands;\nLands of mines, lands of the manly and rugged ores;\nLands of coal, copper, lead, tin, zinc;\nLANDS OF IRON! lands of the make of the axe!\n\n3\nThe log at the wood-pile, the axe supported by it;\nThe sylvan hut, the vine over the doorway, the space clear’d for a garden,\nThe irregular tapping of rain down on the leaves, after the storm is lull’d,\nThe wailing and moaning at intervals, the thought of the sea,\nThe thought of ships struck in the storm, and put on their beam ends, and the cutting away\n    of\n  masts;\n\nThe sentiment of the huge timbers of old-fashion’d houses and barns;\nThe remember’d print or narrative, the voyage at a venture of men, families, goods,\nThe disembarkation, the founding of a new city,\nThe voyage of those who sought a New England and found it—the outset anywhere,\nThe settlements of the Arkansas, Colorado, Ottawa, Willamette,\nThe slow progress, the scant fare, the axe, rifle, saddle-bags;\nThe beauty of all adventurous and daring persons,\nThe beauty of wood-boys and wood-men, with their clear untrimm’d faces,\nThe beauty of independence, departure, actions that rely on themselves,\nThe American contempt for statutes and ceremonies, the boundless impatience of restraint,\n\nThe loose drift of character, the inkling through random types, the solidification;\nThe butcher in the slaughter-house, the hands aboard schooners and sloops, the raftsman,\n    the\n  pioneer,\nLumbermen in their winter camp, day-break in the woods, stripes of snow on the limbs of\n    trees,\n  the\n  occasional snapping,\nThe glad clear sound of one’s own voice, the merry song, the natural life of the woods,\n    the\n  strong\n  day’s work,\nThe blazing fire at night, the sweet taste of supper, the talk, the bed of hemlock boughs,\n    and\n  the\n  bear-skin;\n—The house-builder at work in cities or anywhere,\nThe preparatory jointing, squaring, sawing, mortising,\nThe hoist-up of beams, the push of them in their places, laying them regular,\nSetting the studs by their tenons in the mortises, according as they were prepared,\nThe blows of mallets and hammers, the attitudes of the men, their curv’d limbs,\nBending, standing, astride the beams, driving in pins, holding on by posts and braces,\nThe hook’d arm over the plate, the other arm wielding the axe,\nThe floor-men forcing the planks close, to be nail’d,\nTheir postures bringing their weapons downward on the bearers,\nThe echoes resounding through the vacant building;\nThe huge store-house carried up in the city, well under way,\nThe six framing-men, two in the middle, and two at each end, carefully bearing on their\n  shoulders a\n  heavy stick for a cross-beam,\nThe crowded line of masons with trowels in their right hands, rapidly laying the long\n  side-wall, two\n  hundred feet from front to rear,\nThe flexible rise and fall of backs, the continual click of the trowels striking the\n    bricks,\nThe bricks, one after another, each laid so workmanlike in its place, and set with a knock\n    of\n  the\n  trowel-handle,\nThe piles of materials, the mortar on the mortar-boards, and the steady replenishing by\n    the\n  hod-men;\n—Spar-makers in the spar-yard, the swarming row of well-grown apprentices,\nThe swing of their axes on the square-hew’d log, shaping it toward the shape of a mast,\nThe brisk short crackle of the steel driven slantingly into the pine,\nThe butter-color’d chips flying off in great flakes and slivers,\nThe limber motion of brawny young arms and hips in easy costumes;\nThe constructor of wharves, bridges, piers, bulk-heads, floats, stays against the sea;\n—The city fireman—the fire that suddenly bursts forth in the close-pack’d square,\nThe arriving engines, the hoarse shouts, the nimble stepping and daring,\nThe strong command through the fire-trumpets, the falling in line, the rise and fall of\n    the\n  arms\n  forcing the water,\nThe slender, spasmic, blue-white jets—the bringing to bear of the hooks and ladders, and\n    their\n  execution,\nThe crash and cut away of connecting wood-work, or through floors, if the fire smoulders\n    under\n  them,\n\nThe crowd with their lit faces, watching—the glare and dense shadows;\n—The forger at his forge-furnace, and the user of iron after him,\nThe maker of the axe large and small, and the welder and temperer,\nThe chooser breathing his breath on the cold steel, and trying the edge with his thumb,\nThe one who clean-shapes the handle, and sets it firmly in the socket;\nThe shadowy processions of the portraits of the past users also,\nThe primal patient mechanics, the architects and engineers,\nThe far-off Assyrian edifice and Mizra edifice,\nThe Roman lictors preceding the consuls,\nThe antique European warrior with his axe in combat,\nThe uplifted arm, the clatter of blows on the helmeted head,\nThe death-howl, the limpsey tumbling body, the rush of friend and foe thither,\nThe siege of revolted lieges determin’d for liberty,\nThe summons to surrender, the battering at castle gates, the truce and parley;\nThe sack of an old city in its time,\nThe bursting in of mercenaries and bigots tumultuously and disorderly,\nRoar, flames, blood, drunkenness, madness,\nGoods freely rifled from houses and temples, screams of women in the gripe of brigands,\nCraft and thievery of camp-followers, men running, old persons despairing,\nThe hell of war, the cruelties of creeds,\nThe list of all executive deeds and words, just or unjust,\nThe power of personality, just or unjust.\n\n4\nMuscle and pluck forever!\nWhat invigorates life, invigorates death,\nAnd the dead advance as much as the living advance,\nAnd the future is no more uncertain than the present,\nAnd the roughness of the earth and of man encloses as much as the delicatesse of the earth\n    and\n  of\n  man,\nAnd nothing endures but personal qualities.\nWhat do you think endures?\nDo you think the great city endures?\nOr a teeming manufacturing state? or a prepared constitution? or the best-built\n    steamships?\nOr hotels of granite and iron? or any chef-d’oeuvres of engineering, forts, armaments?\n\nAway! These are not to be cherish’d for themselves;\nThey fill their hour, the dancers dance, the musicians play for them;\nThe show passes, all does well enough of course,\nAll does very well till one flash of defiance.\n\nThe great city is that which has the greatest man or woman;\nIf it be a few ragged huts, it is still the greatest city in the whole world.\n\n5\nThe place where the great city stands is not the place of stretch’d wharves, docks,\n  manufactures,\n  deposits of produce,\nNor the place of ceaseless salutes of new comers, or the anchor-lifters of the departing,\n\nNor the place of the tallest and costliest buildings, or shops selling goods from the rest\n    of\n  the\n  earth,\nNor the place of the best libraries and schools—nor the place where money is plentiest,\nNor the place of the most numerous population.\n\nWhere the city stands with the brawniest breed of orators and bards;\nWhere the city stands that is beloved by these, and loves them in return, and understands\n    them;\n\nWhere no monuments exist to heroes, but in the common words and deeds;\nWhere thrift is in its place, and prudence is in its place;\nWhere the men and women think lightly of the laws;\nWhere the slave ceases, and the master of slaves ceases;\nWhere the populace rise at once against the never-ending audacity of elected persons;\nWhere fierce men and women pour forth, as the sea to the whistle of death pours its\n    sweeping\n  and\n  unript waves;\nWhere outside authority enters always after the precedence of inside authority;\nWhere the citizen is always the head and ideal—and President, Mayor, Governor, and what\n    not,\n  are\n  agents for pay;\nWhere children are taught to be laws to themselves, and to depend on themselves;\nWhere equanimity is illustrated in affairs;\nWhere speculations on the Soul are encouraged;\nWhere women walk in public processions in the streets, the same as the men,\nWhere they enter the public assembly and take places the same as the men;\nWhere the city of the faithfulest friends stands;\nWhere the city of the cleanliness of the sexes stands;\nWhere the city of the healthiest fathers stands;\nWhere the city of the best-bodied mothers stands,\nThere the great city stands.\n\n6\nHow beggarly appear arguments before a defiant deed!\nHow the floridness of the materials of cities shrivels before a man’s or woman’s look!\n\nAll waits, or goes by default, till a strong being appears;\nA strong being is the proof of the race, and of the ability of the universe;\nWhen he or she appears, materials are overaw’d,\nThe dispute on the Soul stops,\nThe old customs and phrases are confronted, turn’d back, or laid away.\n\nWhat is your money-making now? what can it do now?\nWhat is your respectability now?\nWhat are your theology, tuition, society, traditions, statute-books, now?\nWhere are your jibes of being now?\nWhere are your cavils about the Soul now?\n\n7\nA sterile landscape covers the ore—there is as good as the best, for all the forbidding\n  appearance;\nThere is the mine, there are the miners;\nThe forge-furnace is there, the melt is accomplish’d; the hammers-men are at hand with\n    their\n  tongs\n  and hammers;\nWhat always served, and always serves, is at hand.\n\nThan this, nothing has better served—it has served all:\nServed the fluent-tongued and subtle-sensed Greek, and long ere the Greek:\nServed in building the buildings that last longer than any;\nServed the Hebrew, the Persian, the most ancient Hindostanee;\nServed the mound-raiser on the Mississippi—served those whose relics remain in Central\n  America;\nServed Albic temples in woods or on plains, with unhewn pillars, and the druids;\nServed the artificial clefts, vast, high, silent, on the snow-cover’d hills of\n    Scandinavia;\nServed those who, time out of mind, made on the granite walls rough sketches of the sun,\n    moon,\n  stars, ships, ocean-waves;\nServed the paths of the irruptions of the Goths—served the pastoral tribes and nomads;\nServed the long, long distant Kelt—served the hardy pirates of the Baltic;\nServed before any of those, the venerable and harmless men of Ethiopia;\nServed the making of helms for the galleys of pleasure, and the making of those for war;\nServed all great works on land, and all great works on the sea;\nFor the mediÃ¦val ages, and before the mediÃ¦val ages;\nServed not the living only, then as now, but served the dead.\n\n8\nI see the European headsman;\nHe stands mask’d, clothed in red, with huge legs, and strong naked arms,\nAnd leans on a ponderous axe.\n\n(Whom have you slaughter’d lately, European headsman?\nWhose is that blood upon you, so wet and sticky?)\n\nI see the clear sunsets of the martyrs;\nI see from the scaffolds the descending ghosts,\nGhosts of dead lords, uncrown’d ladies, impeach’d ministers, rejected kings,\nRivals, traitors, poisoners, disgraced chieftains, and the rest.\n\nI see those who in any land have died for the good cause;\nThe seed is spare, nevertheless the crop shall never run out;\n(Mind you, O foreign kings, O priests, the crop shall never run out.)\n\nI see the blood wash’d entirely away from the axe;\nBoth blade and helve are clean;\nThey spirt no more the blood of European nobles—they clasp no more the necks of queens.\n\nI see the headsman withdraw and become useless;\nI see the scaffold untrodden and mouldy—I see no longer any axe upon it;\nI see the mighty and friendly emblem of the power of my own race—the newest, largest race.\n\n\n9\n(America! I do not vaunt my love for you;\nI have what I have.)\n\nThe axe leaps!\nThe solid forest gives fluid utterances;\nThey tumble forth, they rise and form,\nHut, tent, landing, survey,\nFlail, plough, pick, crowbar, spade,\nShingle, rail, prop, wainscot, jamb, lath, panel, gable,\nCitadel, ceiling, saloon, academy, organ, exhibition-house, library,\nCornice, trellis, pilaster, balcony, window, shutter, turret, porch,\nHoe, rake, pitch-fork, pencil, wagon, staff, saw, jack-plane, mallet, wedge, rounce,\nChair, tub, hoop, table, wicket, vane, sash, floor,\nWork-box, chest, string’d instrument, boat, frame, and what not,\nCapitols of States, and capitol of the nation of States,\nLong stately rows in avenues, hospitals for orphans, or for the poor or sick,\nManhattan steamboats and clippers, taking the measure of all seas.\n\nThe shapes arise!\nShapes of the using of axes anyhow, and the users, and all that neighbors them,\nCutters down of wood, and haulers of it to the Penobscot or Kennebec,\nDwellers in cabins among the California mountains, or by the little lakes, or on the\n    Columbia,\n\nDwellers south on the banks of the Gila or Rio Grande—friendly gatherings, the characters\n    and\n  fun,\n\nDwellers up north in Minnesota and by the Yellowstone river—dwellers on coasts and off\n    coasts,\nSeal-fishers, whalers, arctic seamen breaking passages through the ice.\n\nThe shapes arise!\nShapes of factories, arsenals, foundries, markets;\nShapes of the two-threaded tracks of railroads;\nShapes of the sleepers of bridges, vast frameworks, girders, arches;\nShapes of the fleets of barges, towns, lake and canal craft, river craft.\n\nThe shapes arise!\nShip-yards and dry-docks along the Eastern and Western Seas, and in many a bay and\n    by-place,\nThe live-oak kelsons, the pine planks, the spars, the hackmatack-roots for knees,\nThe ships themselves on their ways, the tiers of scaffolds, the workmen busy outside and\n  inside,\nThe tools lying around, the great auger and little auger, the adze, bolt, line, square,\n    gouge,\n  and\n  bead-plane.\n\n10\nThe shapes arise!\nThe shape measur’d, saw’d, jack’d, join’d, stain’d,\nThe coffin-shape for the dead to lie within in his shroud;\nThe shape got out in posts, in the bedstead posts, in the posts of the bride’s bed;\nThe shape of the little trough, the shape of the rockers beneath, the shape of the babe’s\n  cradle;\n\nThe shape of the floor-planks, the floor-planks for dancers’ feet;\nThe shape of the planks of the family home, the home of the friendly parents and children,\n\nThe shape of the roof of the home of the happy young man and woman—the roof over the\n  well-married\n  young man and woman,\nThe roof over the supper joyously cook’d by the chaste wife, and joyously eaten by the\n    chaste\n  husband, content after his day’s work.\n\nThe shapes arise!\nThe shape of the prisoner’s place in the court-room, and of him or her seated in the\n    place;\nThe shape of the liquor-bar lean’d against by the young rum-drinker and the old\n    rum-drinker;\nThe shape of the shamed and angry stairs, trod by sneaking footsteps;\nThe shape of the sly settee, and the adulterous unwholesome couple;\nThe shape of the gambling-board with its devilish winnings and losings;\nThe shape of the step-ladder for the convicted and sentenced murderer, the murderer with\n  haggard\n  face and pinion’d arms,\nThe sheriff at hand with his deputies, the silent and white-lipp’d crowd, the dangling of\n    the\n  rope.\n\nThe shapes arise!\nShapes of doors giving many exits and entrances;\nThe door passing the dissever’d friend, flush’d and in haste;\nThe door that admits good news and bad news;\nThe door whence the son left home, confident and puff’d up;\nThe door he enter’d again from a long and scandalous absence, diseas’d, broken down,\n    without\n  innocence, without means.\n\n11\nHer shape arises,\nShe, less guarded than ever, yet more guarded than ever;\nThe gross and soil’d she moves among do not make her gross and soil’d;\nShe knows the thoughts as she passes—nothing is conceal’d from her;\nShe is none the less considerate or friendly therefor;\nShe is the best belov’d—it is without exception—she has no reason to fear, and she does\n    not\n  fear;\nOaths, quarrels, hiccupp’d songs, smutty expressions, are idle to her as she passes;\nShe is silent—she is possess’d of herself—they do not offend her;\nShe receives them as the laws of nature receive them—she is strong,\nShe too is a law of nature—there is no law stronger than she is.\n\n12\nThe main shapes arise!\nShapes of Democracy, total—result of centuries;\nShapes, ever projecting other shapes;\nShapes of turbulent manly cities;\nShapes of the friends and home-givers of the whole earth,\nShapes bracing the earth, and braced with the whole earth.",
-      "source": {
-        "name": "Walt Whitman · PoetryDB",
-        "url": "https://poetrydb.org/title/Song%20of%20the%20Broad-Axe",
-        "trustTier": "community",
-        "author": "Walt Whitman"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-28T14:57:33.477Z",
-      "hash": "985edddbf4d20cae"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399901614-0",
-      "type": "art",
-      "title": "Design for Embroidery, Gentleman's Waistcoat Pocket",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1770s · Embroidery (visual works)",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1770s · Embroidery (visual works)",
-      "image": {
-        "src": "data/images/6641ce7f98e36c54.jpg",
-        "alt": "Design for Embroidery, Gentleman's Waistcoat Pocket",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/41265",
-        "trustTier": "encyclopedic",
-        "date": "1770s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "flower",
-        "embroidery (visual works)"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-28T14:57:32.402Z",
-      "hash": "ba5cbf91e110bd74"
-    },
-    {
-      "id": "art:si:ld1-1643399887910-1643399940078-0",
-      "type": "art",
-      "title": "Designs for Wallpaper and Textiles: Flowers",
-      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1800s · Design drawings",
-      "body": "Cooper Hewitt, Smithsonian Design Museum\n1800s · Design drawings",
-      "image": {
-        "src": "data/images/302b81e666f3ee37.jpg",
-        "alt": "Designs for Wallpaper and Textiles: Flowers",
-        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/141156",
-        "trustTier": "encyclopedic",
-        "date": "1800s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "flower",
-        "design drawings"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-28T14:57:32.402Z",
-      "hash": "f467d9c37fc1ac85"
-    },
-    {
-      "id": "art:si:ld1-1759311857404-1759311860093-0",
-      "type": "art",
-      "title": "Cream hat with cream and pink fabric flowers",
-      "summary": "National Museum of African American History and Culture · 1940s · Hats",
-      "body": "National Museum of African American History and Culture\n1940s · Hats",
-      "image": {
-        "src": "data/images/c0a8202ba6d48ef9.jpg",
-        "alt": "Cream hat with cream and pink fabric flowers",
-        "credit": "National Museum of African American History and Culture · Smithsonian Open Access (CC0)"
-      },
-      "source": {
-        "name": "Smithsonian Open Access",
-        "url": "https://nmaahc.si.edu/object/nmaahc_2007.3.777",
-        "trustTier": "encyclopedic",
-        "date": "1940s"
-      },
-      "tags": [
-        "art",
-        "museum",
-        "smithsonian",
-        "flower",
-        "hats"
-      ],
-      "lang": "en",
-      "difficulty": 1,
-      "fetchedAt": "2026-10-28T14:57:32.402Z",
-      "hash": "a02d0187a961a795"
-    },
-    {
-      "id": "apod:1998-07-04",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap980704.html",
-        "trustTier": "encyclopedic",
-        "date": "1998-07-04"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:28.576Z",
-      "hash": "f46b0cd63b4f1b24"
-    },
-    {
-      "id": "apod:2003-02-04",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© Astropix.com"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap030204.html",
-        "trustTier": "encyclopedic",
-        "date": "2003-02-04"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:28.576Z",
-      "hash": "c3564ec640a2651c"
-    },
-    {
-      "id": "apod:2017-03-11",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© Adam Block"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap170311.html",
-        "trustTier": "encyclopedic",
-        "date": "2017-03-11"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:28.575Z",
-      "hash": "7744593362166d29"
-    },
-    {
-      "id": "apod:2017-07-26",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap170726.html",
-        "trustTier": "encyclopedic",
-        "date": "2017-07-26"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:28.575Z",
-      "hash": "8f34d62e1ce49976"
-    },
-    {
-      "id": "apod:2016-02-24",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap160224.html",
-        "trustTier": "encyclopedic",
-        "date": "2016-02-24"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:28.575Z",
-      "hash": "a750d2b63cf3fb3f"
-    },
-    {
-      "id": "onthisday:10-28:1640:64eb296b74414e7d",
-      "type": "history",
-      "title": "1640: Treaty of Ripon",
-      "summary": "The Treaty of Ripon was agreed, ending the Second Bishops' War and forcing Charles I to summon the Long Parliament, ultimately leading to the First English Civil War.",
-      "body": "The Treaty of Ripon was agreed, ending the Second Bishops' War and forcing Charles I to summon the Long Parliament, ultimately leading to the First English Civil War.",
-      "image": {
-        "src": "data/images/f9ea0f8fc9be4ab9.jpg",
-        "alt": "Treaty of Ripon",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Treaty_of_Ripon",
-        "trustTier": "encyclopedic",
-        "date": "10-28"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:20.762Z",
-      "hash": "015e4bebf4f006d4",
-      "expires": "2026-10-31T14:57:20.762Z"
-    },
-    {
-      "id": "onthisday:10-28:1919:b6752f3c9406691b",
-      "type": "history",
-      "title": "1919: United States Congress",
-      "summary": "The U.S. Congress passed the Volstead Act over president Woodrow Wilson's veto, reinforcing Prohibition in the United States.",
-      "body": "The U.S. Congress passed the Volstead Act over president Woodrow Wilson's veto, reinforcing Prohibition in the United States.",
-      "image": {
-        "src": "data/images/a9a65ada304c06e9.png",
-        "alt": "United States Congress",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/United_States_Congress",
-        "trustTier": "encyclopedic",
-        "date": "10-28"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:20.762Z",
-      "hash": "72d277269e1bb345",
-      "expires": "2026-10-31T14:57:20.762Z"
-    },
-    {
-      "id": "onthisday:10-28:312:73ae8493ca3854c3",
-      "type": "history",
-      "title": "312: Civil wars of the Tetrarchy",
-      "summary": "Civil wars of the Tetrarchy: Constantine the Great defeated Maxentius at the Battle of the Milvian Bridge in Rome.",
-      "body": "Civil wars of the Tetrarchy: Constantine the Great defeated Maxentius at the Battle of the Milvian Bridge in Rome.",
-      "image": {
-        "src": "data/images/307240294d9acbd9.jpg",
-        "alt": "Civil wars of the Tetrarchy",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy",
-        "trustTier": "encyclopedic",
-        "date": "10-28"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:20.762Z",
-      "hash": "d4ab15d9b022e7df",
-      "expires": "2026-10-31T14:57:20.762Z"
-    },
-    {
-      "id": "wikipedia:82754416",
-      "type": "wiki",
-      "title": "Box Hill (novel)",
-      "summary": "Box Hill, subtitled A Story of Low Self-Esteem, is a 2020 novella by Adam Mars-Jones. It follows the story of then 18-year-old Colin who meets an older leather-clad biker, Ray, and enters into a BDSM relationship with him. The novella deals with topics like homophobia, consent, and self-esteem.",
-      "body": "Box Hill, subtitled A Story of Low Self-Esteem, is a 2020 novella by Adam Mars-Jones. It follows the story of then 18-year-old Colin who meets an older leather-clad biker, Ray, and enters into a BDSM relationship with him. The novella deals with topics like homophobia, consent, and self-esteem.",
-      "image": {
-        "src": "data/images/4a6dbdfced31ad1f.jpg",
-        "alt": "Box Hill (novel)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Box_Hill_(novel)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:20.693Z",
-      "hash": "9a6cfbbb3777032a"
-    },
-    {
-      "id": "wikipedia:31609472",
-      "type": "wiki",
-      "title": "Northbridge University",
-      "summary": "Northbridge University is the largest for-profit private university in Puerto Rico with its main campus in Bayamón, Puerto Rico. The university was founded in 1982 as the National College, and offers undergraduate studies and graduate studies in health, business administration, education, information technology, and…",
-      "body": "Northbridge University is the largest for-profit private university in Puerto Rico with its main campus in Bayamón, Puerto Rico. The university was founded in 1982 as the National College, and offers undergraduate studies and graduate studies in health, business administration, education, information technology, and criminal justice.",
-      "image": {
-        "src": "data/images/91e1f58871e47fd0.png",
-        "alt": "Northbridge University",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Northbridge_University",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:20.434Z",
-      "hash": "fe1e2647cc92411f"
-    },
-    {
-      "id": "wikipedia:78420851",
-      "type": "wiki",
-      "title": "Richard Chambers (police officer)",
-      "summary": "Richard Preston Chambers is a New Zealand police officer who has been the Commissioner of Police having succeeded Andrew Coster on 25 November 2024.",
-      "body": "Richard Preston Chambers is a New Zealand police officer who has been the Commissioner of Police having succeeded Andrew Coster on 25 November 2024.",
-      "image": {
-        "src": "data/images/4dcb73fd07f5ef07.jpg",
-        "alt": "Richard Chambers (police officer)",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Richard_Chambers_(police_officer)",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:20.285Z",
-      "hash": "d8e3e6a58c6ecd1a"
-    },
-    {
-      "id": "wikipedia:5029606",
-      "type": "wiki",
-      "title": "Memil-muk",
-      "summary": "Memil-muk (Korean: 메밀묵) or buckwheat jelly is a light gray-brown muk (jelly) made from buckwheat starch. It is commonly served as banchan as well as anju.",
-      "body": "Memil-muk (Korean: 메밀묵) or buckwheat jelly is a light gray-brown muk (jelly) made from buckwheat starch. It is commonly served as banchan as well as anju.",
-      "image": {
-        "src": "data/images/85c5757cb1262149.jpg",
-        "alt": "Memil-muk",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Memil-muk",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-28T14:57:20.134Z",
-      "hash": "9596b331ca61069a"
-    },
-    {
-      "id": "chess:1vLfK",
-      "type": "chess",
-      "title": "White to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1623. Find the best line for white.",
-      "body": "Solution, from → to: h5→g3, h8→g8, g3→f5. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "r1r4k/1b4p1/p3p1n1/np1pPqbN/3P4/P7/1P1B1PPQ/R4RK1 w - - 0 1",
-        "lastMove": "d8g5"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/1vLfK",
-        "trustTier": "community",
-        "date": "Tue, 27 Oct 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "short",
-        "discoveredcheck",
-        "advantage"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-27T14:12:31.955Z",
-      "hash": "ffcf1e454dc97e85"
-    },
-    {
-      "id": "game:136d77a7293aad90",
-      "type": "game",
-      "title": "Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties",
-      "summary": "A new report states that Netflix was looking to adapt a host of Xbox properties for a $500 million deal, but Xbox turned the streaming company down in hopes of upping the number.",
-      "body": "A new report states that Netflix was looking to adapt a host of Xbox properties for a $500 million deal, but Xbox turned the streaming company down in hopes of upping the number.",
-      "image": {
-        "src": "data/images/a39134c4fa917fb4.jpg",
-        "alt": "Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties",
-        "trustTier": "publication",
-        "author": "Imran Khan",
-        "date": "Mon, 26 Oct 2026 18:45:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-27T14:12:31.553Z",
-      "hash": "136d77a7293aad90",
-      "expires": "2027-01-25T14:12:31.553Z"
-    },
-    {
-      "id": "game:e01aba981c04b4c9",
-      "type": "game",
-      "title": "Xbox's first-ever COO is out after just three months",
-      "summary": "Three months after the role was created, cited by Xbox CEO Asha Sharma as necessary to make Xbox less fragmented, the inaugural Xbox COO is leaving her position with little fanfare.",
-      "body": "Three months after the role was created, cited by Xbox CEO Asha Sharma as necessary to make Xbox less fragmented, the inaugural Xbox COO is leaving her position with little fanfare.",
-      "image": {
-        "src": "data/images/7be49ace066213e7.jpg",
-        "alt": "Xbox's first-ever COO is out after just three months",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/console/xbox-coo-helen-chiang-leaves-role-shortly-after-its-creation",
-        "trustTier": "publication",
-        "author": "Imran Khan",
-        "date": "Mon, 26 Oct 2026 16:24:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-27T14:12:31.553Z",
-      "hash": "e01aba981c04b4c9",
-      "expires": "2027-01-25T14:12:31.553Z"
-    },
-    {
-      "id": "game:a86129442d97dcff",
-      "type": "game",
-      "title": "Obituary: Voice actor Eric Bauza has passed away at 46",
-      "summary": "The voice behind Bugs Bunny, Daffy Duck, and a host of other well-loved characters has passed away suddenly at age 46.",
-      "body": "The voice behind Bugs Bunny, Daffy Duck, and a host of other well-loved characters has passed away suddenly at age 46.",
-      "image": {
-        "src": "data/images/cc6292ccd60ee2bd.jpg",
-        "alt": "Obituary: Voice actor Eric Bauza has passed away at 46",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/audio/obituary-voice-actor-eric-bauza-has-passed-away-at-46",
-        "trustTier": "publication",
-        "date": "Mon, 26 Oct 2026 15:24:5"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-27T14:12:31.553Z",
-      "hash": "a86129442d97dcff",
-      "expires": "2027-01-25T14:12:31.553Z"
-    },
-    {
-      "id": "trivia:24de97063aacb819",
-      "type": "trivia",
-      "title": "Which modern day country is the region that was known as Phrygia in ancient times?",
-      "summary": "Is it: Syria · Greece · Egypt · Turkey?",
-      "body": "Answer: Turkey.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-27T14:12:29.096Z",
-      "hash": "24de97063aacb819"
-    },
-    {
-      "id": "trivia:012bc6988821f16e",
-      "type": "trivia",
-      "title": "The title of Adolf Hitler's autobiography \"Mein Kampf\" is what when translated to English?",
-      "summary": "Is it: My Hatred · My Struggle · My Desire · My Sadness?",
-      "body": "Answer: My Struggle.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "books"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-10-27T14:12:29.096Z",
-      "hash": "012bc6988821f16e"
-    },
-    {
-      "id": "trivia:573528c47804a0cc",
-      "type": "trivia",
-      "title": "Which German field marshal was known as the `Desert Fox`?",
-      "summary": "Is it: Ernst Busch · Wolfram Freiherr von Richthofen · Erwin Rommel · Wilhelm List?",
-      "body": "Answer: Erwin Rommel.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "history"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-10-27T14:12:29.096Z",
-      "hash": "573528c47804a0cc"
-    },
-    {
-      "id": "trivia:222570781bf87199",
-      "type": "trivia",
-      "title": "What is the name of the supercomputer located in the control room in \"Jurassic Park\" (1993)?",
-      "summary": "Is it: Cray X-MP · Thinking Machines CM-5 · IBM Blue Gene/Q · Cray XK7?",
-      "body": "Answer: Thinking Machines CM-5.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "film"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-10-27T14:12:29.096Z",
-      "hash": "222570781bf87199"
     },
     {
       "id": "curated:handwriting-beats-typing",

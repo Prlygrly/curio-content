@@ -1,7 +1,932 @@
 {
-  "generatedAt": "2026-11-14T14:54:10.025Z",
+  "generatedAt": "2026-11-15T15:30:09.997Z",
   "count": 480,
   "cards": [
+    {
+      "id": "chess:Lw4qG",
+      "type": "chess",
+      "title": "Black to move",
+      "summary": "Today’s puzzle from Lichess — rating ≈ 1895. Find the best line for black.",
+      "body": "Solution, from → to: e6→e5, b3→c4, e5→d6, c4→b5, d6→c7. Play it out move by move at the source link.",
+      "chess": {
+        "fen": "8/8/1p2k1pp/p3R3/P5P1/1K5P/8/8 b - - 0 1",
+        "lastMove": "e3e5"
+      },
+      "source": {
+        "name": "Lichess",
+        "url": "https://lichess.org/training/Lw4qG",
+        "trustTier": "community",
+        "date": "Sun, 15 Nov 2026"
+      },
+      "tags": [
+        "chess",
+        "puzzle",
+        "endgame",
+        "defensivemove",
+        "crushing",
+        "long"
+      ],
+      "lang": "en",
+      "difficulty": 4,
+      "fetchedAt": "2026-11-15T15:30:07.596Z",
+      "hash": "5954b33407672cf5"
+    },
+    {
+      "id": "trivia:9e0fb6c213ef76cb",
+      "type": "trivia",
+      "title": "What was the character Kirby originally going to be named?",
+      "summary": "Is it: Dedede · Popopo · Prince Puff · Waddle Dee?",
+      "body": "Answer: Popopo.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "video games"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:30:05.161Z",
+      "hash": "9e0fb6c213ef76cb"
+    },
+    {
+      "id": "trivia:98559ebcd21a1c28",
+      "type": "trivia",
+      "title": "What was Britney Spears' debut single?",
+      "summary": "Is it: (You Drive Me) Crazy · Oops!... I Did It Again · ...Baby One More Time · Toxic?",
+      "body": "Answer: ...Baby One More Time.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "music"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:30:05.161Z",
+      "hash": "98559ebcd21a1c28"
+    },
+    {
+      "id": "trivia:13bdc094c45f59fc",
+      "type": "trivia",
+      "title": "What is the official language of Bhutan?",
+      "summary": "Is it: Groma · Dzongkha · Ladakhi · Karen?",
+      "body": "Answer: Dzongkha.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "geography"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:30:05.161Z",
+      "hash": "13bdc094c45f59fc"
+    },
+    {
+      "id": "trivia:4f2a526027b5ae03",
+      "type": "trivia",
+      "title": "By what name is Carlos Estevez better known?",
+      "summary": "Is it: Ricky Martin · Joaquin Phoenix · Charlie Sheen · Bruno Mars?",
+      "body": "Answer: Charlie Sheen.",
+      "source": {
+        "name": "Open Trivia Database",
+        "url": "https://opentdb.com/",
+        "trustTier": "community"
+      },
+      "tags": [
+        "trivia",
+        "celebrities"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:30:05.161Z",
+      "hash": "4f2a526027b5ae03"
+    },
+    {
+      "id": "comic:smbc:fcd3f97c7263695d",
+      "type": "comic",
+      "title": "Field",
+      "summary": "Literally, every time your parents encouraged you to play outside, this is what was happening.",
+      "image": {
+        "src": "data/images/feaa138136f5f039.png",
+        "alt": "Literally, every time your parents encouraged you to play outside, this is what was happening.",
+        "credit": "SMBC · Zach Weinersmith"
+      },
+      "source": {
+        "name": "Saturday Morning Breakfast Cereal",
+        "url": "https://www.smbc-comics.com/comic/field",
+        "trustTier": "community",
+        "author": "Zach Weinersmith",
+        "date": "Sat, 14 Nov 2026"
+      },
+      "tags": [
+        "comic",
+        "smbc",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-15T15:30:04.276Z",
+      "hash": "fcd3f97c7263695d"
+    },
+    {
+      "id": "comic:xkcd:1750",
+      "type": "comic",
+      "title": "Life Goals",
+      "summary": "I got to check off 'Make something called xkcd' early.",
+      "image": {
+        "src": "data/images/48308c5eaac37fb3.png",
+        "alt": "I got to check off 'Make something called xkcd' early.",
+        "credit": "xkcd #1750 · Randall Munroe (CC BY-NC 2.5)"
+      },
+      "source": {
+        "name": "xkcd",
+        "url": "https://xkcd.com/1750/",
+        "trustTier": "community",
+        "author": "Randall Munroe",
+        "date": "2016-10-24"
+      },
+      "tags": [
+        "comic",
+        "xkcd",
+        "humor"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-15T15:30:02.015Z",
+      "hash": "9f74a6185181f68f"
+    },
+    {
+      "id": "word:2db99f05a13a67ad",
+      "type": "word",
+      "title": "eloquence",
+      "summary": "Noun: The quality of artistry and persuasiveness in speech or writing.",
+      "body": "1. The quality of artistry and persuasiveness in speech or writing.\n2. An eloquent utterance.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/eloquence",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:30:01.236Z",
+      "hash": "2db99f05a13a67ad"
+    },
+    {
+      "id": "word:93a66f4a0b17ece4",
+      "type": "word",
+      "title": "paradox",
+      "summary": "Noun: An apparently self-contradictory statement, which can only be true if it is false, and vice versa.",
+      "body": "1. An apparently self-contradictory statement, which can only be true if it is false, and vice versa.\n2. A counterintuitive conclusion or outcome.\n3. A claim that two apparently contradictory ideas are true.",
+      "source": {
+        "name": "Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/paradox",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "word",
+        "language",
+        "vocabulary",
+        "Noun"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:42.752Z",
+      "hash": "93a66f4a0b17ece4"
+    },
+    {
+      "id": "quote:261f6ec504b076cb",
+      "type": "quote",
+      "title": "“The single most powerful asset we all have is our mind.”",
+      "summary": "— Robert Kiyosaki",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Robert_Kiyosaki",
+        "trustTier": "community",
+        "author": "Robert Kiyosaki"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:42.238Z",
+      "hash": "261f6ec504b076cb"
+    },
+    {
+      "id": "quote:74d67984301a1174",
+      "type": "quote",
+      "title": "“Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.”",
+      "summary": "— Billie Jean King",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Billie_Jean_King",
+        "trustTier": "community",
+        "author": "Billie Jean King"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:42.238Z",
+      "hash": "74d67984301a1174"
+    },
+    {
+      "id": "quote:b95ca84c35c9c523",
+      "type": "quote",
+      "title": "“I alone cannot change the world, but I can cast a stone across the waters to create many ripples.”",
+      "summary": "— Mother Teresa",
+      "attribution": {
+        "label": "Quotes provided by ZenQuotes",
+        "url": "https://zenquotes.io"
+      },
+      "source": {
+        "name": "Wikiquote",
+        "url": "https://en.wikiquote.org/wiki/Mother_Teresa",
+        "trustTier": "community",
+        "author": "Mother Teresa"
+      },
+      "tags": [
+        "quote",
+        "wisdom"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:42.238Z",
+      "hash": "b95ca84c35c9c523"
+    },
+    {
+      "id": "article:6def8fe8f34bd66a",
+      "type": "article",
+      "title": "Some more things about Django I've been enjoying",
+      "summary": "Hello! I&rsquo;m on a funny journey right now where I&rsquo;m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It&rsquo;s kind of an interesting journey because it doesn&rsquo;t necessarily feel &ldquo;easy&rdquo; to me…",
+      "body": "Hello! I&rsquo;m on a funny journey right now where I&rsquo;m trying to learn how to make websites in a sort of 2010 style, where I have an SQL database and render some HTML on the backend. It&rsquo;s kind of an interesting journey because it doesn&rsquo;t necessarily feel &ldquo;easy&rdquo; to me to make websites in this way: I never learned how to do it in the 2000s or 2010s, and there&rsquo;s a lot I need to learn. So here are some Django features that make building this kind of site feel more achievable than when I was trying and failing to use Go&rsquo;s standard library or Flask. And…",
+      "source": {
+        "name": "Julia Evans",
+        "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+        "trustTier": "community",
+        "date": "2026-07-21T00:00:00+00:0"
+      },
+      "tags": [
+        "programming",
+        "computers",
+        "technology"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:29:35.108Z",
+      "hash": "6def8fe8f34bd66a"
+    },
+    {
+      "id": "article:729f879efd349d7a",
+      "type": "article",
+      "title": "A Literary Map of the United States",
+      "summary": "From Big Think and Pop Charts, A Literary Map of America that “highlights the real and imagined settings of hundreds of books”. Frank Jacobs takes a closer look at some of the imaginary places on the map, including Sleepy Hollow, Lake Wobegon, Brokeback Mountain, and F. Scott Fitzgerald’s East Egg…",
+      "body": "From Big Think and Pop Charts, A Literary Map of America that “highlights the real and imagined settings of hundreds of books”. Frank Jacobs takes a closer look at some of the imaginary places on the map, including Sleepy Hollow, Lake Wobegon, Brokeback Mountain, and F. Scott Fitzgerald’s East Egg and West Egg. There are many ways to read this map: as a peculiar road map of the United States, a potted history of the same, a metatext of American literature, a guide to American literary genres and their centers of gravity, and more. I will get to at least some of them later, but for now, I…",
+      "source": {
+        "name": "Kottke",
+        "url": "https://kottke.org/26/11/a-literary-map-of-the-united-states",
+        "trustTier": "community",
+        "author": "Jason Kottke",
+        "date": "2026-11-13T21:48:00Z"
+      },
+      "tags": [
+        "curiosities",
+        "culture",
+        "design"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:29:35.026Z",
+      "hash": "729f879efd349d7a"
+    },
+    {
+      "id": "article:19214f03a6209f26",
+      "type": "article",
+      "title": "How Wealth Inequality Emerged in This Prehistoric Culture",
+      "summary": "The graves tell a story of growing inequality The post How Wealth Inequality Emerged in This Prehistoric Culture appeared first on Nautilus.",
+      "body": "The graves tell a story of growing inequality The post How Wealth Inequality Emerged in This Prehistoric Culture appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/2b56dba083e9e9fa.jpg",
+        "alt": "How Wealth Inequality Emerged in This Prehistoric Culture",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/how-wealth-inequality-emerged-in-this-prehistoric-culture-1286642/",
+        "trustTier": "publication",
+        "author": "Jake Currie",
+        "date": "Sun, 15 Nov 2026 13:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "economics"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:29:34.345Z",
+      "hash": "19214f03a6209f26"
+    },
+    {
+      "id": "article:6fd23a11fd0ff24f",
+      "type": "article",
+      "title": "A Dead Star Is Flashing Radio Waves Every 8 Minutes",
+      "summary": "And its partner looks a lot like the Sun The post A Dead Star Is Flashing Radio Waves Every 8 Minutes appeared first on Nautilus.",
+      "body": "And its partner looks a lot like the Sun The post A Dead Star Is Flashing Radio Waves Every 8 Minutes appeared first on Nautilus.",
+      "image": {
+        "src": "data/images/73f8008f17a0443a.jpg",
+        "alt": "A Dead Star Is Flashing Radio Waves Every 8 Minutes",
+        "credit": "Nautilus"
+      },
+      "source": {
+        "name": "Nautilus",
+        "url": "https://nautil.us/a-dead-star-is-flashing-radio-waves-every-8-minutes-1286645/",
+        "trustTier": "publication",
+        "author": "Natasha Hurley-Walker",
+        "date": "Sun, 15 Nov 2026 15:00:0"
+      },
+      "tags": [
+        "science",
+        "ideas",
+        "nature",
+        "astronomy"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:29:34.345Z",
+      "hash": "6fd23a11fd0ff24f"
+    },
+    {
+      "id": "article:f630cbdf39208f55",
+      "type": "article",
+      "title": "I Froze My Eggs. Was It Worth It? Plus. . .",
+      "summary": "In today’s Weekend Press: Is egg freezing worth it? Why does Oprah’s agent eat worms? Is ‘You’ve Got Mail’ a rom-com or an ode to capitalism? Suzy Weiss on Silicon Valley’s sex spies. And more!",
+      "body": "In today’s Weekend Press: Is egg freezing worth it? Why does Oprah’s agent eat worms? Is ‘You’ve Got Mail’ a rom-com or an ode to capitalism? Suzy Weiss on Silicon Valley’s sex spies. And more!",
+      "image": {
+        "src": "data/images/0bb241ea8db5c730.jpg",
+        "alt": "I Froze My Eggs. Was It Worth It? Plus. . .",
+        "credit": "The Free Press"
+      },
+      "source": {
+        "name": "The Free Press",
+        "url": "https://www.thefp.com/p/i-froze-my-eggs-was-it-worth-it-plus-ari-emanuel-molly-o-shea",
+        "trustTier": "publication",
+        "author": "The Free Press",
+        "date": "Sat, 14 Nov 2026 11:01:1"
+      },
+      "tags": [
+        "news",
+        "culture",
+        "opinion"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:29:33.665Z",
+      "hash": "f630cbdf39208f55",
+      "expires": "2026-12-15T15:29:33.665Z"
+    },
+    {
+      "id": "article:f4f093182544baf8",
+      "type": "article",
+      "title": "The history of the telephone: It was a curiosity, then a luxury item, and then an ordinary necessity",
+      "summary": "The history of the telephone: It was a curiosity, then a luxury item, and then an ordinary necessity",
+      "body": "The history of the telephone: It was a curiosity, then a luxury item, and then an ordinary necessity",
+      "source": {
+        "name": "Arts & Letters Daily",
+        "url": "https://lithub.com/how-the-telephone-changed-the-world/",
+        "trustTier": "publication"
+      },
+      "tags": [
+        "essay",
+        "ideas",
+        "criticism"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:29:33.130Z",
+      "hash": "f4f093182544baf8"
+    },
+    {
+      "id": "article:1dc91e5857021628",
+      "type": "article",
+      "title": "AI and complements",
+      "summary": "In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks more harmful and easier to execute. For example, with an elasticity of…",
+      "body": "In a “weak links” model of production, where tasks are complements, the gains from automation tend to arrive slowly because output is constrained by the least productive tasks. But the same complementarity makes attacks more harmful and easier to execute. For example, with an elasticity of substitution across tasks of 0.2, automating tasks worth 1 […] The post AI and complements appeared first on Marginal REVOLUTION.",
+      "source": {
+        "name": "Marginal Revolution",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements",
+        "trustTier": "community",
+        "author": "Tyler Cowen",
+        "date": "Sun, 15 Nov 2026 10:03:5"
+      },
+      "tags": [
+        "economics",
+        "ideas",
+        "blog"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:29:32.589Z",
+      "hash": "1dc91e5857021628"
+    },
+    {
+      "id": "greek:0ae85978994e704d",
+      "type": "greek",
+      "title": "οὐρανός",
+      "summary": "οὐρανός — “heaven” · noun",
+      "body": "Note: ὁ οὐρανός; often plural οἱ οὐρανοί\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CE%BF%E1%BD%90%CF%81%CE%B1%CE%BD%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:31.330Z",
+      "hash": "0ae85978994e704d"
+    },
+    {
+      "id": "greek:d400c7e173bfe638",
+      "type": "greek",
+      "title": "υἱός",
+      "summary": "υἱός — “son” · noun",
+      "body": "Note: ὁ υἱός\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
+      "source": {
+        "name": "Logos Ch.1 · Wiktionary",
+        "url": "https://en.wiktionary.org/wiki/%CF%85%E1%BC%B1%CF%8C%CF%82#Ancient_Greek",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "ancient greek",
+        "koine",
+        "vocabulary",
+        "noun",
+        "noun_masc_2nd"
+      ],
+      "lang": "grc",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:31.330Z",
+      "hash": "d400c7e173bfe638"
+    },
+    {
+      "id": "poetry:7dd903413c216bd3",
+      "type": "poem",
+      "title": "Thanksgiving",
+      "summary": "(For John Bunker)\nThe roar of the world is in my ears.\nThank God for the roar of the world!\nThank God for the mighty tide of fears",
+      "body": "(For John Bunker)\n\nThe roar of the world is in my ears.\nThank God for the roar of the world!\nThank God for the mighty tide of fears\nAgainst me always hurled!\nThank God for the bitter and ceaseless strife,\nAnd the sting of His chastening rod!\nThank God for the stress and the pain of life,\nAnd Oh, thank God for God!",
+      "source": {
+        "name": "Joyce Kilmer · PoetryDB",
+        "url": "https://poetrydb.org/title/Thanksgiving",
+        "trustTier": "community",
+        "author": "Joyce Kilmer"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:29:31.329Z",
+      "hash": "7dd903413c216bd3"
+    },
+    {
+      "id": "poetry:5de3574a66bbc71b",
+      "type": "poem",
+      "title": "Hope is a subtle glutton",
+      "summary": "Hope is a subtle glutton;\nHe feeds upon the fair;\nAnd yet, inspected closely,\nWhat abstinence is there!",
+      "body": "Hope is a subtle glutton;\nHe feeds upon the fair;\nAnd yet, inspected closely,\nWhat abstinence is there!\n\nHis is the halcyon table\nThat never seats but one,\nAnd whatsoever is consumed\nThe same amounts remain.",
+      "source": {
+        "name": "Emily Dickinson · PoetryDB",
+        "url": "https://poetrydb.org/title/Hope%20is%20a%20subtle%20glutton",
+        "trustTier": "community",
+        "author": "Emily Dickinson"
+      },
+      "tags": [
+        "poem",
+        "poetry",
+        "public domain"
+      ],
+      "lang": "en",
+      "difficulty": 3,
+      "fetchedAt": "2026-11-15T15:29:31.329Z",
+      "hash": "5de3574a66bbc71b"
+    },
+    {
+      "id": "art:si:ld1-1643399887910-1643399893757-0",
+      "type": "art",
+      "title": "Clayton's Ascent",
+      "summary": "Cooper Hewitt, Smithsonian Design Museum · 1830s · Bandboxes (containers)",
+      "body": "Cooper Hewitt, Smithsonian Design Museum\n1830s · Bandboxes (containers)",
+      "image": {
+        "src": "data/images/2fb2783262c22c05.jpg",
+        "alt": "Clayton's Ascent",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "https://collection.cooperhewitt.org/view/objects/asitem/id/21896",
+        "trustTier": "encyclopedic",
+        "date": "1830s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "moon",
+        "bandboxes (containers)"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-15T15:29:31.128Z",
+      "hash": "539512d8997b30fb"
+    },
+    {
+      "id": "art:si:ld1-1643407787750-1643407817506-1",
+      "type": "art",
+      "title": "Primulina 'Moon Walker'",
+      "summary": "NMNH - Botany Dept. · 1990s",
+      "body": "NMNH - Botany Dept.\n1990s",
+      "image": {
+        "src": "data/images/d82724df805e2725.jpg",
+        "alt": "Primulina 'Moon Walker'",
+        "credit": "NMNH - Botany Dept. · Smithsonian Open Access (CC0)"
+      },
+      "source": {
+        "name": "Smithsonian Open Access",
+        "url": "http://n2t.net/ark:/65665/3d0ec32a4-6b06-4cc5-a1ee-ca65efa220c1",
+        "trustTier": "encyclopedic",
+        "date": "1990s"
+      },
+      "tags": [
+        "art",
+        "museum",
+        "smithsonian",
+        "moon"
+      ],
+      "lang": "en",
+      "difficulty": 1,
+      "fetchedAt": "2026-11-15T15:29:31.128Z",
+      "hash": "a6c823ff5791ec4a"
+    },
+    {
+      "id": "apod:2004-09-22",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap040922.html",
+        "trustTier": "encyclopedic",
+        "date": "2004-09-22"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:27.614Z",
+      "hash": "edc9d385d6e678b2"
+    },
+    {
+      "id": "apod:2007-05-11",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap070511.html",
+        "trustTier": "encyclopedic",
+        "date": "2007-05-11"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:27.614Z",
+      "hash": "8d70150686d0390f"
+    },
+    {
+      "id": "apod:1997-07-22",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap970722.html",
+        "trustTier": "encyclopedic",
+        "date": "1997-07-22"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:27.614Z",
+      "hash": "80e19ff987981f86"
+    },
+    {
+      "id": "apod:2002-10-14",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "© Jean-Charles Cuillandre"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap021014.html",
+        "trustTier": "encyclopedic",
+        "date": "2002-10-14"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:27.614Z",
+      "hash": "1a7bc60c16c45399"
+    },
+    {
+      "id": "apod:2017-05-17",
+      "type": "space",
+      "title": "NASA Science",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
+      "image": {
+        "src": "data/images/08cedcd96d82efe9.png",
+        "alt": "NASA Science",
+        "credit": "NASA APOD (public domain)"
+      },
+      "source": {
+        "name": "NASA Astronomy Picture of the Day",
+        "url": "https://apod.nasa.gov/apod/ap170517.html",
+        "trustTier": "encyclopedic",
+        "date": "2017-05-17"
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "science"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:27.614Z",
+      "hash": "368a8aebfa2e1a5e"
+    },
+    {
+      "id": "onthisday:11-15:1760:f17a20a4af8a8895",
+      "type": "history",
+      "title": "1760: Castellania (Valletta)",
+      "summary": "The chapel of the newly constructed Castellania in Valletta, Malta, was consecrated.",
+      "body": "The chapel of the newly constructed Castellania in Valletta, Malta, was consecrated.",
+      "image": {
+        "src": "data/images/86f7c44fbb4fd8a2.jpg",
+        "alt": "Castellania (Valletta)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Castellania_(Valletta)",
+        "trustTier": "encyclopedic",
+        "date": "11-15"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:20.802Z",
+      "hash": "ceb30a665bd62fa3",
+      "expires": "2026-11-18T15:29:20.802Z"
+    },
+    {
+      "id": "onthisday:11-15:1859:393a993177b656db",
+      "type": "history",
+      "title": "1859: Evangelos Zappas",
+      "summary": "Sponsored by Greek businessman Evangelos Zappas, the first modern revival of the Olympic Games took place in Athens.",
+      "body": "Sponsored by Greek businessman Evangelos Zappas, the first modern revival of the Olympic Games took place in Athens.",
+      "image": {
+        "src": "data/images/dc61128e43b4cfdb.jpg",
+        "alt": "Evangelos Zappas",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Evangelos_Zappas",
+        "trustTier": "encyclopedic",
+        "date": "11-15"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:20.802Z",
+      "hash": "b4114671a801bb17",
+      "expires": "2026-11-18T15:29:20.802Z"
+    },
+    {
+      "id": "onthisday:11-15:1988:747104ab43f6e772",
+      "type": "history",
+      "title": "1988: Buran (spacecraft)",
+      "summary": "The Soviet spacecraft Buran (pictured), a reusable vehicle built in response to NASA's Space Shuttle program, was launched, uncrewed, on its only flight.",
+      "body": "The Soviet spacecraft Buran (pictured), a reusable vehicle built in response to NASA's Space Shuttle program, was launched, uncrewed, on its only flight.",
+      "image": {
+        "src": "data/images/a45819e23a886211.jpg",
+        "alt": "Buran (spacecraft)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia · On this day",
+        "url": "https://en.wikipedia.org/wiki/Buran_(spacecraft)",
+        "trustTier": "encyclopedic",
+        "date": "11-15"
+      },
+      "tags": [
+        "history",
+        "on this day",
+        "anniversary"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:20.802Z",
+      "hash": "650a7e42dc6d9438",
+      "expires": "2026-11-18T15:29:20.802Z"
+    },
+    {
+      "id": "wikipedia:15539732",
+      "type": "wiki",
+      "title": "Croce, Haute-Corse",
+      "summary": "Croce is a commune in the Haute-Corse department of France on the island of Corsica.",
+      "body": "Croce is a commune in the Haute-Corse department of France on the island of Corsica.",
+      "image": {
+        "src": "data/images/6d72aaf385c4cb18.jpg",
+        "alt": "Croce, Haute-Corse",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Croce%2C_Haute-Corse",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:20.789Z",
+      "hash": "472463028c042092"
+    },
+    {
+      "id": "wikipedia:76785200",
+      "type": "wiki",
+      "title": "George Hart Hall",
+      "summary": "George Hart Hall, originally the Animal Science Building, is an academic building in the University of California, Davis. It is one of the oldest buildings at UC Davis, and is listed on the National Register of Historic Places. Originally made for the Department of Animal Science, it now houses various humanities…",
+      "body": "George Hart Hall, originally the Animal Science Building, is an academic building in the University of California, Davis. It is one of the oldest buildings at UC Davis, and is listed on the National Register of Historic Places. Originally made for the Department of Animal Science, it now houses various humanities departments.",
+      "image": {
+        "src": "data/images/ee0dc51873979c0c.jpg",
+        "alt": "George Hart Hall",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/George_Hart_Hall",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:20.670Z",
+      "hash": "9d4408bb572604de"
+    },
+    {
+      "id": "wikipedia:79298262",
+      "type": "wiki",
+      "title": "Hanako (elephant)",
+      "summary": "Hanako was a female Asian elephant who lived in Japan. Born in Thailand, she was brought to the Ueno Zoo as a young elephant, the first elephant to be imported into the country after World War II. She was joined shortly after by Indira, an elephant from India, but the two were separated after a few years when Indira…",
+      "body": "Hanako was a female Asian elephant who lived in Japan. Born in Thailand, she was brought to the Ueno Zoo as a young elephant, the first elephant to be imported into the country after World War II. She was joined shortly after by Indira, an elephant from India, but the two were separated after a few years when Indira was sent on a tour of Japan and Hanako sent to Inokashira Park Zoo in Musashino, Tokyo.",
+      "image": {
+        "src": "data/images/6cb557cdbe4ed957.jpg",
+        "alt": "Hanako (elephant)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hanako_(elephant)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:18.816Z",
+      "hash": "baa5249b3bfd71c5"
+    },
+    {
+      "id": "wikipedia:12160359",
+      "type": "wiki",
+      "title": "The Old Curiosity Shop (2007 film)",
+      "summary": "The Old Curiosity Shop is a British television film adapted from the Charles Dickens's 1841 novel The Old Curiosity Shop. It stars Irish actress Sophie Vavasseur as Nell Trent, with Derek Jacobi as her grandfather, Toby Jones as Quilp and George MacKay as Nell's friend, Kit. It was broadcast on 26 December 2007 on…",
+      "body": "The Old Curiosity Shop is a British television film adapted from the Charles Dickens's 1841 novel The Old Curiosity Shop. It stars Irish actress Sophie Vavasseur as Nell Trent, with Derek Jacobi as her grandfather, Toby Jones as Quilp and George MacKay as Nell's friend, Kit. It was broadcast on 26 December 2007 on ITV. The adaptation is in general very faithful to the novel. The most significant changes are the removal of the Garlands and their household and the identity of the Single Gentleman who is changed from Grandfather's brother to his estranged son and Nell's father.",
+      "image": {
+        "src": "data/images/1a00f9364856f41c.jpg",
+        "alt": "The Old Curiosity Shop (2007 film)",
+        "credit": "Wikipedia"
+      },
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Old_Curiosity_Shop_(2007_film)",
+        "trustTier": "encyclopedic"
+      },
+      "tags": [
+        "encyclopedia",
+        "wikipedia",
+        "random"
+      ],
+      "lang": "en",
+      "difficulty": 2,
+      "fetchedAt": "2026-11-15T15:29:18.350Z",
+      "hash": "c4c5c8156b83e987"
+    },
     {
       "id": "chess:f9Xve",
       "type": "chess",
@@ -11573,982 +12498,6 @@
       "difficulty": 3,
       "fetchedAt": "2026-11-04T16:04:19.582Z",
       "hash": "67331edb62acb551"
-    },
-    {
-      "id": "word:5d40b1bdb1ee1e26",
-      "type": "word",
-      "title": "mellifluous",
-      "summary": "Adjective: Flowing like honey.",
-      "body": "1. Flowing like honey.\n2. Sweet, smooth and musical; pleasant to hear (generally used of a person's voice, tone or writing style).",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/mellifluous",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Adjective"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:04:19.498Z",
-      "hash": "5d40b1bdb1ee1e26"
-    },
-    {
-      "id": "word:e7feed4c67ffa8fb",
-      "type": "word",
-      "title": "sophrosyne",
-      "summary": "Noun: The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "body": "1. The Ancient Greek concept of an ideal of excellence of character and soundness of mind, which when combined in one well-balanced individual leads to other qualities, such as temperance, moderation, prudence, and self-control.",
-      "source": {
-        "name": "Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/sophrosyne",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "word",
-        "language",
-        "vocabulary",
-        "Noun"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:04:18.389Z",
-      "hash": "e7feed4c67ffa8fb"
-    },
-    {
-      "id": "quote:8eb824ffc0dab375",
-      "type": "quote",
-      "title": "“Use your smile to change the world but don't let the world change your smile.”",
-      "summary": "— Unknown",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:04:17.595Z",
-      "hash": "8eb824ffc0dab375"
-    },
-    {
-      "id": "quote:25b5dafe95de4c2f",
-      "type": "quote",
-      "title": "“Paths are made by walking.”",
-      "summary": "— Franz Kafka",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/wiki/Franz_Kafka",
-        "trustTier": "community",
-        "author": "Franz Kafka"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:04:17.595Z",
-      "hash": "25b5dafe95de4c2f"
-    },
-    {
-      "id": "quote:a5f95ef60476e623",
-      "type": "quote",
-      "title": "“To wish you were someone else is to waste the person you are.”",
-      "summary": "— Unknown",
-      "attribution": {
-        "label": "Quotes provided by ZenQuotes",
-        "url": "https://zenquotes.io"
-      },
-      "source": {
-        "name": "Wikiquote",
-        "url": "https://en.wikiquote.org/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "quote",
-        "wisdom"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:04:17.595Z",
-      "hash": "a5f95ef60476e623"
-    },
-    {
-      "id": "book-review:cdd586d6ff0a374b",
-      "type": "book-review",
-      "title": "Banks to City: Drop Dead",
-      "summary": "In 1975, New York City suffered a financial crisis of epic proportions. A new documentary examines the politics of austerity and the transformation of America's largest metropolis into \"fear city.\" The post Banks to City: Drop Dead appeared first on Public Books.",
-      "body": "In 1975, New York City suffered a financial crisis of epic proportions. A new documentary examines the politics of austerity and the transformation of America's largest metropolis into \"fear city.\" The post Banks to City: Drop Dead appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/banks-to-city-drop-dead/",
-        "trustTier": "publication",
-        "author": "Morgan Barry",
-        "date": "Wed, 04 Nov 2026 16:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "reviews",
-        "1970s",
-        "austerity",
-        "capitalism",
-        "documentary",
-        "film",
-        "financial crisis"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:17.077Z",
-      "hash": "cdd586d6ff0a374b"
-    },
-    {
-      "id": "book-review:e38a3c941df42ea1",
-      "type": "book-review",
-      "title": "True Crime, True Injustice: Talking with William Youmans & Jason Osder on “Who Killed Alex Odeh?”",
-      "summary": "“I'm interested in an American viewer that dismisses Israel-Palestine by saying that's not about us. That's so far away. I don't need to think about this. It's all the way across the world. No, it's not far away—it comes from Brooklyn.” The post True Crime, True Injustice: Talking with William…",
-      "body": "“I'm interested in an American viewer that dismisses Israel-Palestine by saying that's not about us. That's so far away. I don't need to think about this. It's all the way across the world. No, it's not far away—it comes from Brooklyn.” The post True Crime, True Injustice: Talking with William Youmans & Jason Osder on “Who Killed Alex Odeh?” appeared first on Public Books.",
-      "source": {
-        "name": "Public Books",
-        "url": "https://www.publicbooks.org/true-crime-true-injustice-talking-with-william-youmans-jason-osder-on-who-killed-alex-odeh/",
-        "trustTier": "publication",
-        "author": "Megan Cummins",
-        "date": "Tue, 03 Nov 2026 16:00:0"
-      },
-      "tags": [
-        "books",
-        "review",
-        "ideas",
-        "interviews",
-        "crime",
-        "film",
-        "interview",
-        "israel",
-        "justice",
-        "palestine"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:17.077Z",
-      "hash": "e38a3c941df42ea1"
-    },
-    {
-      "id": "article:54c1385c87b1c3fd",
-      "type": "article",
-      "title": "Once Upon a Time: Patrick McGoohan’s The Prisoner",
-      "summary": "In 1955, more than a decade before the television series The Prisoner premiered on British airwaves for a solitary season, show creator and star Patrick McGoohan was in Milan shooting scenes for Orson Welles’s now lost Moby Dick Rehearsed, an adaptation of Welles’s play-within-a-play about a…",
-      "body": "In 1955, more than a decade before the television series The Prisoner premiered on British airwaves for a solitary season, show creator and star Patrick McGoohan was in Milan shooting scenes for Orson Welles’s now lost Moby Dick Rehearsed, an adaptation of Welles’s play-within-a-play about a Shakespearean troupe that puts on an impromptu performance of Melville’s great whaling epic. The young firebrand, cast opposite Welles’s Ahab as Starbuck, had been so fierce onstage during the show’s initial West End run that even Welles was supposedly intimidated, or so the story goes. Over the course…",
-      "image": {
-        "src": "data/images/e3100a23d8624c40.jpg",
-        "alt": "Once Upon a Time: Patrick McGoohan’s The Prisoner",
-        "credit": "The Current (Criterion)"
-      },
-      "source": {
-        "name": "The Current (Criterion)",
-        "url": "https://www.criterion.com/current/posts/9323-once-upon-a-time-patrick-mcgoohan-s-the-prisoner",
-        "trustTier": "publication",
-        "author": "Alexander Fee",
-        "date": "Thu, 29 Oct 2026 07:14:0"
-      },
-      "tags": [
-        "film",
-        "essay",
-        "criticism"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:14.439Z",
-      "hash": "54c1385c87b1c3fd"
-    },
-    {
-      "id": "article:d51a73be553e8379",
-      "type": "article",
-      "title": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
-      "summary": "We’d all like to think we’re deliberately steering our lives. Yet a heck of a lot of adulthood consists of continuing whatever we were already doing because stopping would require change. You took a job because you needed money, stayed because you knew where the toilets were, and now, apparently,…",
-      "body": "We’d all like to think we’re deliberately steering our lives. Yet a heck of a lot of adulthood consists of continuing whatever we were already doing because stopping would require change. You took a job because you needed money, stayed because you knew where the toilets were, and now, apparently, this is your destiny. If […] The post This Is How To Get What You Want In Life: 6 Secrets To High-Agency appeared first on Barking Up The Wrong Tree.",
-      "image": {
-        "src": "data/images/7793482b5fd051fe.jpg",
-        "alt": "This Is How To Get What You Want In Life: 6 Secrets To High-Agency",
-        "credit": "Barking Up the Wrong Tree"
-      },
-      "source": {
-        "name": "Barking Up the Wrong Tree",
-        "url": "https://bakadesuyo.com/2026/10/agency/",
-        "trustTier": "community",
-        "author": "Eric Barker",
-        "date": "Sun, 11 Oct 2026 14:59:5"
-      },
-      "tags": [
-        "psychology",
-        "self-improvement",
-        "science",
-        "be more productive",
-        "live the good life",
-        "master the workplace"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:09.213Z",
-      "hash": "d51a73be553e8379"
-    },
-    {
-      "id": "article:56ff76893f962dfc",
-      "type": "article",
-      "title": "Book Recommendation: Life in Perspective",
-      "summary": "We rarely notice what's closest to us. Perspective is hard to gain, but it is worth cultivating. Here's how. The post Book Recommendation: Life in Perspective appeared first on Scott H Young.",
-      "body": "We rarely notice what's closest to us. Perspective is hard to gain, but it is worth cultivating. Here's how. The post Book Recommendation: Life in Perspective appeared first on Scott H Young.",
-      "image": {
-        "src": "data/images/e0e4bed2b235c747.png",
-        "alt": "Book Recommendation: Life in Perspective",
-        "credit": "Scott H. Young"
-      },
-      "source": {
-        "name": "Scott H. Young",
-        "url": "https://www.scotthyoung.com/blog/2026/11/03/book-recommendation-life-in-perspective/",
-        "trustTier": "community",
-        "author": "Scott Young",
-        "date": "Tue, 03 Nov 2026 16:02:0"
-      },
-      "tags": [
-        "learning",
-        "productivity",
-        "ideas",
-        "general"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:07.998Z",
-      "hash": "56ff76893f962dfc"
-    },
-    {
-      "id": "article:bd8f931e3b8eac75",
-      "type": "article",
-      "title": "The Science of Doing Your Best Work | Steven Kotler",
-      "summary": "Steven Kotler is a bestselling author and the executive director of the Flow Research Collective, where he studies the science of peak performance. Most of us have felt it. Hours disappear, everything else fades away, and the work seems to do itself. But what’s actually happening in those moments,…",
-      "body": "Steven Kotler is a bestselling author and the executive director of the Flow Research Collective, where he studies the science of peak performance. Most of us have felt it. Hours disappear, everything else fades away, and the work seems to do itself. But what’s actually happening in those moments, and can you make them happen … The post The Science of Doing Your Best Work | Steven Kotler appeared first on Farnam Street.",
-      "image": {
-        "src": "data/images/6f2f4884d19519d8.png",
-        "alt": "The Science of Doing Your Best Work | Steven Kotler",
-        "credit": "Farnam Street"
-      },
-      "source": {
-        "name": "Farnam Street",
-        "url": "https://fs.blog/knowledge-project-podcast/steven-kotler/",
-        "trustTier": "community",
-        "author": "Vicky",
-        "date": "Thu, 22 Oct 2026 09:50:0"
-      },
-      "tags": [
-        "ideas",
-        "psychology",
-        "decision-making"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:07.753Z",
-      "hash": "bd8f931e3b8eac75"
-    },
-    {
-      "id": "article:f50b6f54ef4ea411",
-      "type": "article",
-      "title": "No One You Love Is Ever Dead: Hemingway on Loss and the Meaning of Life",
-      "summary": "\"We must live it, now, a day at a time and be very careful not to hurt each other.\"",
-      "body": "\"We must live it, now, a day at a time and be very careful not to hurt each other.\"",
-      "image": {
-        "src": "data/images/69de72afbc5a69d5.jpg",
-        "alt": "No One You Love Is Ever Dead: Hemingway on Loss and the Meaning of Life",
-        "credit": "The Marginalian"
-      },
-      "source": {
-        "name": "The Marginalian",
-        "url": "https://www.themarginalian.org/2026/11/04/hemingway-loss-letter/",
-        "trustTier": "publication",
-        "author": "Maria Popova",
-        "date": "Wed, 04 Nov 2026 12:10:0"
-      },
-      "tags": [
-        "ideas",
-        "literature",
-        "art",
-        "philosophy",
-        "culture",
-        "psychology",
-        "books",
-        "ernest hemingway",
-        "letters"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:07.255Z",
-      "hash": "f50b6f54ef4ea411"
-    },
-    {
-      "id": "article:485d00aa2ac974ec",
-      "type": "article",
-      "title": "Democrats Are Winning—and Still at War with One Another",
-      "summary": "Victory in the midterms will hardly paper over the party’s divisions, writes Peter Savodnik.",
-      "body": "Victory in the midterms will hardly paper over the party’s divisions, writes Peter Savodnik.",
-      "image": {
-        "src": "data/images/e78746c7682fa0ac.jpg",
-        "alt": "Democrats Are Winning—and Still at War with One Another",
-        "credit": "The Free Press"
-      },
-      "source": {
-        "name": "The Free Press",
-        "url": "https://www.thefp.com/p/democrats-are-winning-and-still-at-war-with-one-another",
-        "trustTier": "publication",
-        "author": "Peter Savodnik",
-        "date": "Wed, 04 Nov 2026 08:08:3"
-      },
-      "tags": [
-        "news",
-        "culture",
-        "opinion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:06.836Z",
-      "hash": "485d00aa2ac974ec",
-      "expires": "2026-12-04T16:04:06.836Z"
-    },
-    {
-      "id": "article:8a290d36b89bb854",
-      "type": "article",
-      "title": "Miniature Landscapes in Beek-Ubbergen, Netherlands",
-      "summary": "If you like all things miniature, you simply have to go and visit the Miniature Landscape Museum in Beek-Ubbergen, close to Nijmegen. If you're incidentally also into badgers and into German expressionistic architecture, you're in for a treat! Or, if you don't have a lot of time to explore the…",
-      "body": "If you like all things miniature, you simply have to go and visit the Miniature Landscape Museum in Beek-Ubbergen, close to Nijmegen. If you're incidentally also into badgers and into German expressionistic architecture, you're in for a treat! Or, if you don't have a lot of time to explore the variety of Dutch landscapes, you can cover ten of them by foot on a lazy afteroon. The area where the Miniature Museum, the badgers and Villa Wylberberg are located, used to be German, until the Netherlands annexed it after worldwar 2. Most Dutch postwar annexations were revoked in the 1960, but the…",
-      "image": {
-        "src": "data/images/53cca375d3c1eaa9.jpg",
-        "alt": "Miniature Landscapes in Beek-Ubbergen, Netherlands",
-        "credit": "Atlas Obscura"
-      },
-      "source": {
-        "name": "Atlas Obscura",
-        "url": "https://www.atlasobscura.com/places/miniature-landscapes",
-        "trustTier": "publication",
-        "date": "Tue, 03 Nov 2026 16:00:0"
-      },
-      "tags": [
-        "curiosities",
-        "places",
-        "history",
-        "miniatures",
-        "miniature towns"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:06.475Z",
-      "hash": "8a290d36b89bb854"
-    },
-    {
-      "id": "article:8ddf3745f3203f32",
-      "type": "article",
-      "title": "Trade and the end of antiquity, or did Islam serve to deglobalize the world?",
-      "summary": "How did trade and economic activity evolve at the End of Antiquity, when political power shifts away from the Mediterranean towards the Middle East and northern Europe? No records of ancient production, consumption, and trade exist. Yet the composition of coin finds reveals information about…",
-      "body": "How did trade and economic activity evolve at the End of Antiquity, when political power shifts away from the Mediterranean towards the Middle East and northern Europe? No records of ancient production, consumption, and trade exist. Yet the composition of coin finds reveals information about monetized transactions, as coins gradually diffused along trade routes. To […] The post Trade and the end of antiquity, or did Islam serve to deglobalize the world? appeared first on Marginal REVOLUTION.",
-      "source": {
-        "name": "Marginal Revolution",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world",
-        "trustTier": "community",
-        "author": "Tyler Cowen",
-        "date": "Wed, 04 Nov 2026 05:54:1"
-      },
-      "tags": [
-        "economics",
-        "ideas",
-        "blog",
-        "data source",
-        "history",
-        "religion"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:05.308Z",
-      "hash": "8ddf3745f3203f32"
-    },
-    {
-      "id": "article:ca8556069518c288",
-      "type": "article",
-      "title": "Like aliens",
-      "summary": "Like living metaphors, these self-contained miniature worlds show us the wondrous and fragile beauty of our biosphere- by Aeon VideoWatch on Aeon",
-      "body": "Like living metaphors, these self-contained miniature worlds show us the wondrous and fragile beauty of our biosphere- by Aeon VideoWatch on Aeon",
-      "image": {
-        "src": "data/images/868befe71375a0d9.jpg",
-        "alt": "Like aliens",
-        "credit": "Aeon"
-      },
-      "source": {
-        "name": "Aeon",
-        "url": "https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own",
-        "trustTier": "publication",
-        "author": "Aeon Video",
-        "date": "Wed, 04 Nov 2026 11:01:0"
-      },
-      "tags": [
-        "essay",
-        "ideas",
-        "philosophy"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:03.456Z",
-      "hash": "ca8556069518c288"
-    },
-    {
-      "id": "greek:468925ba1a4bcffd",
-      "type": "greek",
-      "title": "εἰς",
-      "summary": "εἰς — “into, to” · preposition",
-      "body": "Note: takes accusative\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%CE%B5%E1%BC%B0%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "preposition",
-        "function_word"
-      ],
-      "lang": "grc",
-      "difficulty": 1,
-      "fetchedAt": "2026-11-04T16:04:03.392Z",
-      "hash": "468925ba1a4bcffd"
-    },
-    {
-      "id": "greek:4bbb5e9bfb47d245",
-      "type": "greek",
-      "title": "Ἰησοῦς",
-      "summary": "Ἰησοῦς — “Jesus” · noun",
-      "body": "Note: irregular declension: gen/dat Ἰησοῦ, acc Ἰησοῦν\nFrom your Logos Ch.1 vocabulary. Open the source to see the full Wiktionary entry.",
-      "source": {
-        "name": "Logos Ch.1 · Wiktionary",
-        "url": "https://en.wiktionary.org/wiki/%E1%BC%B8%CE%B7%CF%83%CE%BF%E1%BF%A6%CF%82#Ancient_Greek",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "ancient greek",
-        "koine",
-        "vocabulary",
-        "noun",
-        "noun_masc_proper"
-      ],
-      "lang": "grc",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:04:03.392Z",
-      "hash": "4bbb5e9bfb47d245"
-    },
-    {
-      "id": "poetry:8a02e4e34cf19501",
-      "type": "poem",
-      "title": "Translation from Horace",
-      "summary": "Justum et tenacem propositi virum.\n      HOR. 'Odes', iii. 3. I.\n  The man of firm and noble soul\n  No factious clamours can controul;",
-      "body": "      Justum et tenacem propositi virum.\n\n      HOR. 'Odes', iii. 3. I.\n\n  The man of firm and noble soul\n  No factious clamours can controul;\n  No threat'ning tyrant's darkling brow\n    Can swerve him from his just intent:\n  Gales the warring waves which plough,\n    By Auster on the billows spent,\n  To curb the Adriatic main,\n  Would awe his fix'd determined mind in vain.\n\n  Aye, and the red right arm of Jove,\n  Hurtling his lightnings from above,\n  With all his terrors there unfurl'd,\n    He would, unmov'd, unaw'd, behold;\n  The flames of an expiring world,\n    Again in crashing chaos roll'd,\n  In vast promiscuous ruin hurl'd,\n  Might light his glorious funeral pile:\n  Still dauntless 'midst the wreck of earth he'd smile.",
-      "source": {
-        "name": "George Gordon, Lord Byron · PoetryDB",
-        "url": "https://poetrydb.org/title/Translation%20from%20Horace",
-        "trustTier": "community",
-        "author": "George Gordon, Lord Byron"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:03.390Z",
-      "hash": "8a02e4e34cf19501"
-    },
-    {
-      "id": "poetry:4c1c45c928dadd82",
-      "type": "poem",
-      "title": "Sudden Shower",
-      "summary": "Black grows the southern sky, betokening rain,\n  And humming hive-bees homeward hurry bye:\nThey feel the change; so let us shun the grain,\n  And take the broad road while our feet are dry.",
-      "body": "Black grows the southern sky, betokening rain,\n  And humming hive-bees homeward hurry bye:\nThey feel the change; so let us shun the grain,\n  And take the broad road while our feet are dry.\nAy, there some dropples moistened on my face,\n  And pattered on my hat--tis coming nigh!\nLet's look about, and find a sheltering place.\n  The little things around, like you and I,\nAre hurrying through the grass to shun the shower.\n  Here stoops an ash-tree--hark! the wind gets high,\nBut never mind; this ivy, for an hour,\n  Rain as it may, will keep us dryly here:\nThat little wren knows well his sheltering bower,\n  Nor leaves his dry house though we come so near.",
-      "source": {
-        "name": "John Clare · PoetryDB",
-        "url": "https://poetrydb.org/title/Sudden%20Shower",
-        "trustTier": "community",
-        "author": "John Clare"
-      },
-      "tags": [
-        "poem",
-        "poetry",
-        "public domain"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-04T16:04:03.390Z",
-      "hash": "4c1c45c928dadd82"
-    },
-    {
-      "id": "apod:2026-01-01",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "© Roi Levi"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap260101.html",
-        "trustTier": "encyclopedic",
-        "date": "2026-01-01"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:59.443Z",
-      "hash": "49bbea615380f589"
-    },
-    {
-      "id": "apod:1998-01-31",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap980131.html",
-        "trustTier": "encyclopedic",
-        "date": "1998-01-31"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:59.443Z",
-      "hash": "36470c90b3dea976"
-    },
-    {
-      "id": "apod:2026-02-03",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap260203.html",
-        "trustTier": "encyclopedic",
-        "date": "2026-02-03"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:59.443Z",
-      "hash": "8fa283c0410eef75"
-    },
-    {
-      "id": "apod:2024-09-23",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap240923.html",
-        "trustTier": "encyclopedic",
-        "date": "2024-09-23"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:59.443Z",
-      "hash": "ce0e5fbfa16c1096"
-    },
-    {
-      "id": "apod:2003-07-07",
-      "type": "space",
-      "title": "NASA Science",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "body": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.",
-      "image": {
-        "src": "data/images/08cedcd96d82efe9.png",
-        "alt": "NASA Science",
-        "credit": "NASA APOD (public domain)"
-      },
-      "source": {
-        "name": "NASA Astronomy Picture of the Day",
-        "url": "https://apod.nasa.gov/apod/ap030707.html",
-        "trustTier": "encyclopedic",
-        "date": "2003-07-07"
-      },
-      "tags": [
-        "space",
-        "astronomy",
-        "science"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:59.442Z",
-      "hash": "0e513919ac167f83"
-    },
-    {
-      "id": "onthisday:11-04:1964:c751ed2a5adcc26a",
-      "type": "history",
-      "title": "1964: Ruhollah Khomeini",
-      "summary": "Ruhollah Khomeini, an influential Shia cleric, was arrested by the Iranian secret police and exiled to Turkey.",
-      "body": "Ruhollah Khomeini, an influential Shia cleric, was arrested by the Iranian secret police and exiled to Turkey.",
-      "image": {
-        "src": "data/images/177c058f40ffdf05.jpg",
-        "alt": "Ruhollah Khomeini",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini",
-        "trustTier": "encyclopedic",
-        "date": "11-04"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:42.205Z",
-      "hash": "54b222b3f906d418",
-      "expires": "2026-11-07T16:03:42.205Z"
-    },
-    {
-      "id": "onthisday:11-04:1864:695697c348535ea8",
-      "type": "history",
-      "title": "1864: American Civil War",
-      "summary": "American Civil War: Nathan Bedford Forrest led a cavalry division in an attack on a Union army supply base at Johnsonville, Tennessee, resulting in the capture of 150 prisoners.",
-      "body": "American Civil War: Nathan Bedford Forrest led a cavalry division in an attack on a Union army supply base at Johnsonville, Tennessee, resulting in the capture of 150 prisoners.",
-      "image": {
-        "src": "data/images/41309e32a43708f5.png",
-        "alt": "American Civil War",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/American_Civil_War",
-        "trustTier": "encyclopedic",
-        "date": "11-04"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:42.205Z",
-      "hash": "255906d10c56d3e2",
-      "expires": "2026-11-07T16:03:42.205Z"
-    },
-    {
-      "id": "onthisday:11-04:1924:0751a44e8066e281",
-      "type": "history",
-      "title": "1924: 1924 Wyoming gubernatorial special election",
-      "summary": "In a special election in Wyoming, Nellie Tayloe Ross became the first woman to be elected as a governor in the United States.",
-      "body": "In a special election in Wyoming, Nellie Tayloe Ross became the first woman to be elected as a governor in the United States.",
-      "image": {
-        "src": "data/images/3183f61b0f724844.png",
-        "alt": "1924 Wyoming gubernatorial special election",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia · On this day",
-        "url": "https://en.wikipedia.org/wiki/1924_Wyoming_gubernatorial_special_election",
-        "trustTier": "encyclopedic",
-        "date": "11-04"
-      },
-      "tags": [
-        "history",
-        "on this day",
-        "anniversary"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:42.205Z",
-      "hash": "9a267f2cd3d9e916",
-      "expires": "2026-11-07T16:03:42.205Z"
-    },
-    {
-      "id": "wikipedia:44944103",
-      "type": "wiki",
-      "title": "Agostino Facheris",
-      "summary": "Agostino Facheris (16th-century) was an Italian painter, active in Bergamo, Italy. He was also known as il Caversegno after the contrada of Presezzo where he was born.",
-      "body": "Agostino Facheris (16th-century) was an Italian painter, active in Bergamo, Italy. He was also known as il Caversegno after the contrada of Presezzo where he was born.",
-      "image": {
-        "src": "data/images/96302269a9389dea.jpg",
-        "alt": "Agostino Facheris",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Agostino_Facheris",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:42.194Z",
-      "hash": "22bbb203f5333729"
-    },
-    {
-      "id": "wikipedia:750909",
-      "type": "wiki",
-      "title": "Introspective",
-      "summary": "Introspective is the third studio album by English synth-pop duo Pet Shop Boys, released on 10 October 1988 by Parlophone. It received generally positive reviews from critics.",
-      "body": "Introspective is the third studio album by English synth-pop duo Pet Shop Boys, released on 10 October 1988 by Parlophone. It received generally positive reviews from critics.",
-      "image": {
-        "src": "data/images/568be3bd5c6bef47.jpg",
-        "alt": "Introspective",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Introspective",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:42.023Z",
-      "hash": "b7ee009aff7c4f92"
-    },
-    {
-      "id": "wikipedia:7126889",
-      "type": "wiki",
-      "title": "Kleinensiel station",
-      "summary": "Kleinensiel is a railway station located in Kleinensiel, Germany. The station is located on the Hude-Blexen railway. The train services are operated by NordWestBahn. The station has been part of the Bremen S-Bahn since December 2010.",
-      "body": "Kleinensiel is a railway station located in Kleinensiel, Germany. The station is located on the Hude-Blexen railway. The train services are operated by NordWestBahn. The station has been part of the Bremen S-Bahn since December 2010.",
-      "image": {
-        "src": "data/images/ced91a9df242fe25.jpg",
-        "alt": "Kleinensiel station",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Kleinensiel_station",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:41.861Z",
-      "hash": "68ba5d72fad0555c"
-    },
-    {
-      "id": "wikipedia:4858783",
-      "type": "wiki",
-      "title": "Brougham Place Uniting Church",
-      "summary": "Brougham Place Uniting Church is a Uniting church located at Brougham Place, North Adelaide, South Australia.",
-      "body": "Brougham Place Uniting Church is a Uniting church located at Brougham Place, North Adelaide, South Australia.",
-      "image": {
-        "src": "data/images/23d1860c916e7e22.jpg",
-        "alt": "Brougham Place Uniting Church",
-        "credit": "Wikipedia"
-      },
-      "source": {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Brougham_Place_Uniting_Church",
-        "trustTier": "encyclopedic"
-      },
-      "tags": [
-        "encyclopedia",
-        "wikipedia",
-        "random"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-04T16:03:40.374Z",
-      "hash": "47ead48e95d08793"
-    },
-    {
-      "id": "chess:tmwOv",
-      "type": "chess",
-      "title": "Black to move",
-      "summary": "Today’s puzzle from Lichess — rating ≈ 1791. Find the best line for black.",
-      "body": "Solution, from → to: f6→b2, h2→h1, b2→a2. Play it out move by move at the source link.",
-      "chess": {
-        "fen": "4r1k1/5ppp/p4q2/1p3P2/5PQ1/P2Rb1BP/BP5K/8 b - - 0 1",
-        "lastMove": "d1d3"
-      },
-      "source": {
-        "name": "Lichess",
-        "url": "https://lichess.org/training/tmwOv",
-        "trustTier": "community",
-        "date": "Tue, 03 Nov 2026"
-      },
-      "tags": [
-        "chess",
-        "puzzle",
-        "middlegame",
-        "short",
-        "crushing",
-        "fork"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-03T16:00:09.583Z",
-      "hash": "8e5e849ed7a7b4ee"
-    },
-    {
-      "id": "game:9a5eb804a23a5c3c",
-      "type": "game",
-      "title": "The number of game pages doubles on Itch.io as AI games flood the store",
-      "summary": "The indie video game store that prides itself as an open marketplace is being deluged by game pages, doubling the usual number without a proportional increase in sales.",
-      "body": "The indie video game store that prides itself as an open marketplace is being deluged by game pages, doubling the usual number without a proportional increase in sales.",
-      "image": {
-        "src": "data/images/6c687bdb74e9ce7f.jpg",
-        "alt": "The number of game pages doubles on Itch.io as AI games flood the store",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/pc/number-of-game-pages-doubles-on-itch-io-as-ai-clones-flood-the-store",
-        "trustTier": "publication",
-        "author": "Imran Khan",
-        "date": "Mon, 02 Nov 2026 18:30:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-03T16:00:09.134Z",
-      "hash": "9a5eb804a23a5c3c",
-      "expires": "2027-02-01T16:00:09.134Z"
-    },
-    {
-      "id": "game:17e84a77be0d21c0",
-      "type": "game",
-      "title": "Toshihiro Nagoshi's post-Sega game studio, Nagoshi Studio, shuts down after NetEase funding cuts",
-      "summary": "Founded in 2021, the studio was working on a game funded by NetEase announced just under a year ago, but the studio has reportedly collapsed.",
-      "body": "Founded in 2021, the studio was working on a game funded by NetEase announced just under a year ago, but the studio has reportedly collapsed.",
-      "image": {
-        "src": "data/images/3adb32bff9b0376b.jpg",
-        "alt": "Toshihiro Nagoshi's post-Sega game studio, Nagoshi Studio, shuts down after NetEase funding cuts",
-        "credit": "Game Developer"
-      },
-      "source": {
-        "name": "Game Developer",
-        "url": "https://www.gamedeveloper.com/business/nagoshi-studio-toshihiro-nagoshi-s-game-development-studio-after-leaving-sega-closes-as-netease-cuts-its-funding",
-        "trustTier": "publication",
-        "author": "Imran Khan",
-        "date": "Mon, 02 Nov 2026 19:15:0"
-      },
-      "tags": [
-        "game design",
-        "games",
-        "industry"
-      ],
-      "lang": "en",
-      "difficulty": 3,
-      "fetchedAt": "2026-11-03T16:00:09.134Z",
-      "hash": "17e84a77be0d21c0",
-      "expires": "2027-02-01T16:00:09.134Z"
-    },
-    {
-      "id": "trivia:b15358aef76ef0a0",
-      "type": "trivia",
-      "title": "Which pulp hero made appearances in Hellboy and BPRD comics before getting his own spin-off?",
-      "summary": "Is it: Roger the Homunculus · The Spider · Lobster Johnson · The Wendigo?",
-      "body": "Answer: Lobster Johnson.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "comics"
-      ],
-      "lang": "en",
-      "difficulty": 4,
-      "fetchedAt": "2026-11-03T16:00:06.341Z",
-      "hash": "b15358aef76ef0a0"
-    },
-    {
-      "id": "trivia:a11f66cffca77dcf",
-      "type": "trivia",
-      "title": "In Splatoon 2, who are the members of Off The Hook?",
-      "summary": "Is it: Callie & Marie · Diamond & Aquamarina · Pearl & Marina · DJ Octavio & Crusty Sean?",
-      "body": "Answer: Pearl & Marina.",
-      "source": {
-        "name": "Open Trivia Database",
-        "url": "https://opentdb.com/",
-        "trustTier": "community"
-      },
-      "tags": [
-        "trivia",
-        "video games"
-      ],
-      "lang": "en",
-      "difficulty": 2,
-      "fetchedAt": "2026-11-03T16:00:06.341Z",
-      "hash": "a11f66cffca77dcf"
     },
     {
       "id": "curated:handwriting-beats-typing",
